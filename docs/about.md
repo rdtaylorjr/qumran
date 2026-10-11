@@ -50,7 +50,7 @@ The Text-Fabric data in [tf](../tf) is a modified form of these files:
 *   the data is converted from HTML and JSON to Text-Fabric, with every transcription a text,
     every word reading a word, and every part of an analysis a part;
 *   the morphology is given in BHSA features, with the values mapped as declared in
-    [morph.yaml](../yaml/morph.yaml);
+    [morph.yaml](../yaml/morph.yaml), and `NA` where the parsing has no label for a category;
 *   the placeholder `(noch nicht bearbeitet)` is left out of the glosses;
 *   a line without words is given one empty word;
 *   parallels and dependencies are given as edges between the nodes they link;

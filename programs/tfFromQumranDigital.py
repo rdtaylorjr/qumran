@@ -12,13 +12,14 @@ from html.parser import HTMLParser
 from pathlib import Path
 from shutil import rmtree
 from typing import TYPE_CHECKING, Any, NamedTuple
+from xml.etree.ElementTree import Element, TreeBuilder, tostring
 
 import yaml
 from tf.convert.walker import CV
 from tf.fabric import Fabric
 
 if TYPE_CHECKING:
-    from collections.abc import Callable, Iterable
+    from collections.abc import Callable, Iterable, Iterator
 
 ORG = "rdtaylorjr"
 REPO = "qumran"
@@ -81,7 +82,7 @@ featureMeta = {
         "languageCode": "de",
         "languageEnglish": "german",
     },
-    "gn": {"description": "grammatical gender (m; f) or the source abbreviation"},
+    "gn": {"description": "grammatical gender (m; f; NA) or the source abbreviation"},
     "head": {"description": "from a word to the word it depends on, valued by the syntactic categories of the links"},
     "head_external": {"description": "as head, valued by the categories of the links marked external to the phrase"},
     "head_generated": {"description": "as head, valued by the categories of the links marked generated"},
@@ -89,27 +90,27 @@ featureMeta = {
     "html": {"description": "markup of the word in the source, where it has any"},
     "id": {"description": "database id: transcription, column, line, or word reading"},
     "kind": {"description": "class of the transcription in the source index"},
-    "lex": {"description": "lemma"},
+    "lex": {"description": "lemma, with its root designation where it has one, such as יחד_II"},
     "lex_id": {"description": "database id of the lemma"},
     "line": {"description": "label of a line or verse"},
     "margin": {"description": "the line is a margin line, or the word is in a marginal reading"},
     "nametype": {"description": "named entity type (pers; gens; topo) or the source abbreviation"},
-    "nu": {"description": "grammatical number (sg; pl; du)"},
+    "nu": {"description": "grammatical number (sg; pl; du; NA)"},
     "parallel": {"description": "from a line or word to a parallel line or a parallel word aligned with it"},
     "part": {"description": "number of the part within the word, 0 being the first"},
     "prefix": {"description": "text of the line before its first word"},
     "priority": {"description": "rank of the analysis the part belongs to, 0 being the first"},
-    "prs_gn": {"description": "pronominal suffix gender (m; f) or the source abbreviation"},
-    "prs_nu": {"description": "pronominal suffix number (sg; pl; du)"},
-    "prs_ps": {"description": "pronominal suffix person (p1; p2; p3)"},
-    "ps": {"description": "grammatical person (p1; p2; p3)"},
+    "prs_gn": {"description": "pronominal suffix gender (m; f; NA) or the source abbreviation"},
+    "prs_nu": {"description": "pronominal suffix number (sg; pl; du; NA)"},
+    "prs_ps": {"description": "pronominal suffix person (p1; p2; p3; NA)"},
+    "ps": {"description": "grammatical person (p1; p2; p3; NA)"},
     "root_designation": {"description": "number of the root of the lemma"},
     "sp": {"description": "part of speech (subs; verb; prep; ...) or the source abbreviation"},
-    "st": {"description": "state of a noun (a; c) or the source abbreviation"},
+    "st": {"description": "state of a noun (a; c; NA) or the source abbreviation"},
     "text": {"description": "siglum of a transcription, or the text of a word"},
     "trailer": {"description": "text after a word up to the next word of its line"},
-    "vs": {"description": "verbal stem (qal; nif; piel; ...) or the source abbreviation"},
-    "vt": {"description": "verbal tense (perf; impf; wayq; impv; infc) or the source abbreviation"},
+    "vs": {"description": "verbal stem (qal; nif; piel; ...; NA) or the source abbreviation"},
+    "vt": {"description": "verbal tense (perf; impf; wayq; impv; infc; NA) or the source abbreviation"},
     "word_class": {"description": "word class of the lemma (source abbreviation)"},
     "word_id": {"description": "database id of the word; the readings of one word share it"},
 }
@@ -146,10 +147,9 @@ class Column(NamedTuple):
 
 
 class Parallel(NamedTuple):
-    """One parallel line shown under a line, by the labels of its reference, with its words and their alignment.
+    """One parallel line, by the text and labels of its reference, with its words and the words they align with.
 
-    `lines` are the numbers of the first and last line it is shown under, counting margin lines,
-    0 being the first line of the text: the lines since the previous parallel row.
+    `lines` are the numbers of the first and last line of the text it stands under, 0 being the first.
     """
 
     lines: tuple[int, int]
@@ -172,202 +172,152 @@ class Text(NamedTuple):
     syntax: dict[str, Any]
 
 
-class _Transcription(HTMLParser):
-    """Collects the columns, lines, words, and parallels of a transcription page."""
+class _Tree(HTMLParser):
+    """Builds the element tree of a page, closing void elements and ignoring end tags of elements that are not open."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
-        self.columns: list[Column] = []
-        self.parallels: list[dict[str, Any]] = []
-        self._stack: list[tuple[str, frozenset[str]]] = []
-        self._column: dict[str, Any] | None = None
-        self._line: dict[str, Any] | None = None
-        self._label: list[str] | None = None
-        self._row: str | None = None
-        self._in_text = False
-        self._word: dict[str, Any] | None = None
-        self._pending: list[str] = []
-        self._parallel: dict[str, Any] | None = None
-        self._parallel_lines = (0, 0)
-        self._lines = 0
-        self._group = 0
-        self._reference: tuple[str, int] | None = None
-        self.ellipses = 0
+        self.builder = TreeBuilder()
+        self.builder.start("page", {})
+        self.open: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        values = dict(attrs)
-        classes = frozenset((values.get("class") or "").split())
-        if self._word is not None:
-            self._word["html"].append(self.get_starttag_text() or "")
-            self._word["tagged"] = True
-        if tag not in VOID:
-            self._stack.append((tag, classes))
-        if self._word is not None:
-            return
-        if tag == "table" and "chapter-column" in classes:
-            self._column = {"id": int((values.get("id") or "c0")[1:]), "label": "", "lines": []}
-        elif tag == "th" and "chapter-column-label" in classes:
-            self._label = []
-        elif tag == "tr":
-            self._start_row(values, classes)
-        elif tag == "td" and self._row == "line":
-            if classes & {"line-verse-label", "margin-label"}:
-                self._label = []
-            elif classes & {"line-text", "margin-text-line"}:
-                self._in_text = True
-        elif self._row == "parallel":
-            self._start_parallel(tag, values, classes)
-        elif self._in_text and tag == "span" and "word" in classes:
-            self._start_word(values)
-
-    def _start_row(self, values: dict[str, str | None], classes: frozenset[str]) -> None:
-        self._row = None
-        if "line-verse" in classes:
-            number = (values.get("id") or "").partition("-i")[2]
-            self._line = {"id": int(number) if number else None, "margin": False, "words": []}
-            self._row = "line"
-        elif "margin" in classes:
-            self._line = {"id": None, "margin": True, "words": []}
-            self._row = "line"
-        elif "parallel-line" in classes:
-            self._row = "parallel"
-            self._parallel_lines = (min(self._group, self._lines - 1), self._lines - 1)
-
-    def _start_parallel(self, tag: str, values: dict[str, str | None], classes: frozenset[str]) -> None:
-        if tag == "li":
-            self._parallel = None
-        elif tag == "a" and (values.get("href") or "").startswith("/transcriptions/"):
-            self._parallel = {
-                "lines": self._parallel_lines,
-                "text": (values.get("href") or "").split("/")[2],
-                "column": "",
-                "label": "",
-                "words": [],
-            }
-            self.parallels.append(self._parallel)
-        elif tag == "span" and self._parallel is not None and classes & {"chapter-column-label", "line-verse-label"}:
-            field = "column" if "chapter-column-label" in classes else "label"
-            self._reference = (field, len(self._stack))
-        elif tag == "span" and "word" in classes:
-            if values.get("data-word-id") == "0":
-                self.ellipses += 1
-                return
-            if self._parallel is None:
-                raise ValueError(f"a parallel word without a reference under line {self._parallel_lines}")
-            other = int((values.get("id") or "").removeprefix("par-"))
-            here = values.get("data-parallel-id")
-            self._parallel["words"].append((other, tuple(int(number) for number in here.split(",")) if here else ()))
-
-    def _start_word(self, values: dict[str, str | None]) -> None:
-        words = self._line["words"] if self._line is not None else []
-        if words:
-            words[-1]["trailer"] = "".join(self._pending)
-            prefix = ""
+        self.builder.start(tag, {name: value or "" for name, value in attrs})
+        if tag in VOID:
+            self.builder.end(tag)
         else:
-            prefix = "".join(self._pending)
-        self._pending = []
-        levels = [int(m.group(1)) for _, classes in self._stack for c in classes if (m := LEVEL.fullmatch(c))]
-        self._word = {
-            "id": int(values.get("id") or 0),
-            "word_id": int(values.get("data-word-id") or 0),
-            "text": [],
-            "html": [],
-            "tagged": False,
-            "prefix": prefix,
-            "trailer": "",
-            "alt": max(levels) if levels else None,
-            "margin": any("margin-text" in classes for _, classes in self._stack),
-            "depth": len(self._stack),
-        }
+            self.open.append(tag)
 
     def handle_endtag(self, tag: str) -> None:
-        for index in range(len(self._stack) - 1, -1, -1):
-            if self._stack[index][0] == tag:
-                classes = self._stack[index][1]
-                del self._stack[index:]
-                break
-        else:
-            return
-        if self._reference is not None and len(self._stack) < self._reference[1]:
-            self._reference = None
-        if self._word is not None:
-            if len(self._stack) >= self._word["depth"]:
-                self._word["html"].append(f"</{tag}>")
-                return
-            self._end_word()
-            return
-        if self._label is not None and (tag == "th" or tag == "td"):
-            label = "".join(self._label)
-            if tag == "th" and self._column is not None:
-                self._column["label"] = label
-            elif self._line is not None:
-                self._line["label"] = label
-            self._label = None
-        elif tag == "td" and self._in_text:
-            self._end_text()
-        elif tag == "tr" and self._row == "line":
-            self._end_line()
-        elif tag == "tr":
-            if self._row == "parallel":
-                self._group = self._lines
-            self._row = None
-            self._parallel = None
-        elif tag == "table" and "chapter-column" in classes and self._column is not None:
-            self.columns.append(Column(self._column["id"], self._column["label"], tuple(self._column["lines"])))
-            self._column = None
-
-    def _end_word(self) -> None:
-        word = self._word
-        self._word = None
-        if self._line is not None and word is not None:
-            word["text"] = "".join(word["text"])
-            word["html"] = "".join(word["html"]) if word["tagged"] else None
-            self._line["words"].append(word)
-
-    def _end_text(self) -> None:
-        if self._line is not None and self._line["words"]:
-            self._line["words"][-1]["trailer"] = "".join(self._pending)
-        elif self._line is not None:
-            self._line["prefix"] = "".join(self._pending)
-        self._pending = []
-        self._in_text = False
-
-    def _end_line(self) -> None:
-        line = self._line
-        self._line = None
-        self._row = None
-        if line is None or self._column is None:
-            return
-        self._lines += 1
-        words = tuple(
-            Word(w["id"], w["word_id"], w["text"], w["html"], w["prefix"], w["trailer"], w["alt"], w["margin"])
-            for w in line["words"]
-        )
-        if not words and line.get("prefix"):
-            raise ValueError(f"line {line['id']} has text but no words: {line['prefix']!r}")
-        self._column["lines"].append(Line(line["id"], line.get("label", ""), line["margin"], words))
+        if tag in self.open:
+            while (name := self.open.pop()) != tag:
+                self.builder.end(name)
+            self.builder.end(tag)
 
     def handle_data(self, data: str) -> None:
-        if self._word is not None:
-            self._word["text"].append(data)
-            self._word["html"].append(html.escape(data, quote=False))
-        elif self._label is not None:
-            self._label.append(data)
-        elif self._reference is not None and self._parallel is not None:
-            self._parallel[self._reference[0]] += data
-        elif self._in_text:
-            self._pending.append(data)
+        self.builder.data(data)
+
+    def page(self) -> Element:
+        while self.open:
+            self.builder.end(self.open.pop())
+        self.builder.end("page")
+        return self.builder.close()
+
+
+def tree(page: str) -> Element:
+    """Parses a page into an element tree."""
+    parser = _Tree()
+    parser.feed(page)
+    parser.close()
+    return parser.page()
+
+
+def has(element: Element, name: str) -> bool:
+    """Tells whether an element has a class."""
+    return name in element.get("class", "").split()
+
+
+def first(element: Element, name: str) -> Element:
+    """Gives the first descendant of an element with a class."""
+    return next(found for found in element.iter() if has(found, name))
+
+
+def content(element: Element) -> str:
+    """Gives the text of an element and its descendants."""
+    return "".join(element.itertext())
+
+
+def markup(element: Element) -> str | None:
+    """Gives the markup inside an element, if it has child elements."""
+    if not len(element):
+        return None
+    inner = (tostring(child, encoding="unicode", method="html") for child in element)
+    return html.escape(element.text or "", quote=False) + "".join(inner)
+
+
+def pieces(element: Element, alt: int | None = None, margin: bool = False) -> Iterator[tuple[Element | str, int | None, bool]]:
+    """Yields the words and the text between them in page order, with the alternative level and margin of each word."""
+    if element.text:
+        yield element.text, alt, margin
+    for child in element:
+        if has(child, "word"):
+            yield child, alt, margin
+        else:
+            levels = [int(found.group(1)) for name in child.get("class", "").split() if (found := LEVEL.fullmatch(name))]
+            yield from pieces(child, max(levels) if levels else alt, margin or has(child, "margin-text"))
+        if child.tail:
+            yield child.tail, alt, margin
+
+
+def read_line(row: Element) -> Line:
+    """Reads a line or margin line with its words, giving the text between words to the word before it."""
+    margin = has(row, "margin")
+    cell = first(row, "margin-text-line" if margin else "line-text")
+    words: list[Word] = []
+    pending: list[str] = []
+    for piece, alt, in_margin in pieces(cell):
+        if isinstance(piece, str):
+            pending.append(piece)
+            continue
+        if words:
+            words[-1] = words[-1]._replace(trailer="".join(pending))
+        prefix = "" if words else "".join(pending)
+        pending = []
+        number, word = int(piece.get("id")), int(piece.get("data-word-id"))
+        words.append(Word(number, word, content(piece), markup(piece), prefix, "", alt, in_margin))
+    if words:
+        words[-1] = words[-1]._replace(trailer="".join(pending))
+    elif "".join(pending):
+        raise ValueError(f"line {row.get('id')} has text but no words")
+    number = int(row.get("id").partition("-i")[2]) if "id" in row.attrib else None
+    label = content(first(row, "margin-label" if margin else "line-verse-label"))
+    return Line(number, label, margin, tuple(words))
+
+
+def read_parallels(row: Element, lines: tuple[int, int]) -> Iterator[Parallel]:
+    """Reads the parallel lines of a parallel row, each after its reference, with their aligned words.
+
+    The ellipses that stand for omitted text are not words.
+    """
+    for item in row.iter("li"):
+        found: list[tuple[str, str, str, list[tuple[int, tuple[int, ...]]]]] = []
+        for element in item.iter():
+            if has(element, "reference-label"):
+                link = element.find("a")
+                path = link.get("href").split("/")[2]
+                found.append((path, content(first(link, "chapter-column-label")), content(first(link, "line-verse-label")), []))
+            elif has(element, "word") and element.get("data-word-id") != "0":
+                if not found:
+                    raise ValueError(f"a parallel word without a reference under lines {lines}")
+                aligned = element.get("data-parallel-id")
+                here = tuple(int(number) for number in aligned.split(",")) if aligned else ()
+                found[-1][3].append((int(element.get("id").removeprefix("par-")), here))
+        for path, column, label, words in found:
+            yield Parallel(lines, path, column, label, tuple(words))
 
 
 def transcription(page: str) -> tuple[tuple[Column, ...], tuple[Parallel, ...]]:
-    """Reads the columns and parallels of a transcription page."""
-    parser = _Transcription()
-    parser.feed(page)
-    parser.close()
-    parallels = tuple(
-        Parallel(p["lines"], p["text"], p["column"], p["label"], tuple(p["words"])) for p in parser.parallels
-    )
-    return tuple(parser.columns), parallels
+    """Reads the columns and parallels of a transcription page.
+
+    A parallel row stands under the lines since the previous parallel row, counting margin lines.
+    """
+    columns: list[Column] = []
+    found: list[Parallel] = []
+    count = 0
+    group = 0
+    for table in tree(page).iter("table"):
+        if not has(table, "chapter-column"):
+            continue
+        lines: list[Line] = []
+        for row in table.iter("tr"):
+            if has(row, "line-verse") or has(row, "margin"):
+                lines.append(read_line(row))
+                count += 1
+            elif has(row, "parallel-line"):
+                found.extend(read_parallels(row, (min(group, count - 1), count - 1)))
+                group = count
+        columns.append(Column(int(table.get("id")[1:]), content(first(table, "chapter-column-label")), tuple(lines)))
+    return tuple(columns), tuple(found)
 
 
 def index_entries(page: str) -> list[tuple[str, str]]:
@@ -389,13 +339,9 @@ def read_text(folder: Path, kind: str) -> Text:
         int(found.group(1)),
         columns,
         parallels,
-        _json(folder / "parsings.json"),
-        _json(folder / "syntax.json"),
+        json.loads((folder / "parsings.json").read_text(encoding="utf-8")),
+        json.loads((folder / "syntax.json").read_text(encoding="utf-8")),
     )
-
-
-def _json(path: Path) -> dict[str, Any]:
-    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
 
 
 def texts(source: Path, executor: Executor) -> list[Text]:
@@ -404,6 +350,12 @@ def texts(source: Path, executor: Executor) -> list[Text]:
     folders = [source / "transcriptions" / path for path, _ in entries]
     kinds = [kind for _, kind in entries]
     return list(executor.map(read_text, folders, kinds, chunksize=CHUNK))
+
+
+def lexeme(lemma: dict[str, Any]) -> str:
+    """Gives the lemma with its root designation, which tells homonyms apart, such as יחד_II."""
+    designation = lemma.get("rootDesignation")
+    return f"{lemma['lemma']}_{designation}" if designation else lemma["lemma"]
 
 
 def load_morph(path: Path = MORPH) -> dict[str, Any]:
@@ -417,6 +369,8 @@ def morphology(parsing: dict[str, Any], morph: dict[str, Any]) -> dict[str, str]
     for feature, spec in morph.items():
         label = parsing.get(spec["field"])
         if label is None:
+            if "missing" in spec:
+                result[feature] = spec["missing"]
             continue
         if label in spec["bhsa"]:
             result[feature] = spec["bhsa"][label]
@@ -435,7 +389,6 @@ class Places:
         self.labelled: dict[tuple[str, str], list[Any]] = defaultdict(list)
         self.anywhere: dict[int, list[Any]] = defaultdict(list)
         self.in_line: dict[tuple[Any, int], list[Any]] = defaultdict(list)
-        self.at: dict[tuple[str, str, int], list[Any]] = defaultdict(list)
         self.in_column: dict[tuple[str, int], list[Any]] = defaultdict(list)
 
     def add_line(self, column: Column, line: Line, node: Any) -> None:
@@ -445,12 +398,13 @@ class Places:
     def add(self, column: Column, line: Line, node: Any, word: Word, slot: Any) -> None:
         self.anywhere[word.id].append(slot)
         self.in_line[(node, word.id)].append(slot)
-        self.at[(column.label, line.label, word.id)].append(slot)
         self.in_column[(column.label, word.id)].append(slot)
 
     def find(self, column: str, line: str, word: int) -> list[Any]:
-        """Gives the slots of a word at a column and line, or in the column if the line does not hold it."""
-        return self.at.get((column, line, word)) or self.in_column.get((column, word), [])
+        """Gives the slots of a word at a column and line, or its one slot in the column if the line does not hold it."""
+        found = [slot for node in self.labelled.get((column, line), []) for slot in self.in_line.get((node, word), [])]
+        elsewhere = self.in_column.get((column, word), [])
+        return found or (elsewhere if len(elsewhere) == 1 else [])
 
 
 def director(cv: Any, found: Iterable[Text], morph: dict[str, Any], report: Counter[str] | None = None) -> None:
@@ -472,7 +426,7 @@ def director(cv: Any, found: Iterable[Text], morph: dict[str, Any], report: Coun
         cv.feature(
             node,
             **{
-                "lex": lemma["lemma"],
+                "lex": lexeme(lemma),
                 "lex_id": number,
                 "root_designation": lemma.get("rootDesignation"),
                 "gloss@de": None if definition in (None, NOT_YET) else definition,
@@ -519,7 +473,7 @@ def _text(
                 for part, parsing in zip(parts, entry["parsings"]):
                     cv.feature(
                         part,
-                        lex=parsing["lemma"],
+                        lex=lexeme(parsing),
                         lex_id=parsing["lemmaId"],
                         part=parsing["wordPart"],
                         priority=parsing["parsingPriority"],
@@ -539,35 +493,15 @@ def _parallels(cv: Any, text: Text, places: dict[str, Places], report: Counter[s
     """Links every line and word to the parallel line and word shown under it.
 
     A parallel row stands under the lines since the previous parallel row.
-    The words are looked up in those lines, and the lines that hold an aligned word are linked,
-    or the line right above the parallel row where none does.
+    The lines that hold an aligned word are linked, or the line right above the parallel row where none does.
     """
     here = places[text.path]
     for parallel in text.parallels:
-        there = places.get(parallel.text)
+        there = places[parallel.text]
         first, last = parallel.lines
         group = here.lines[first : last + 1]
-        others = there.labelled.get((parallel.column, parallel.label), []) if there is not None else []
-        linked = []
-        for word_there, words_here in parallel.words:
-            if not words_here:
-                report["parallel words without alignment"] += 1
-                continue
-            sources = []
-            for line in group:
-                found = [slot for word in words_here for slot in here.in_line.get((line, word), [])]
-                if found and line not in linked:
-                    linked.append(line)
-                sources.extend(found)
-            targets = [slot for other in others for slot in there.in_line.get((other, word_there), [])]
-            if not targets and there is not None:
-                targets = there.find(parallel.column, parallel.label, word_there)
-            if not sources or not targets:
-                report["parallel words not found"] += 1
-            for source in sources:
-                for target in targets:
-                    cv.edge(source, target, parallel=None)
-                    report["parallel words"] += 1
+        others = there.labelled.get((parallel.column, parallel.label), [])
+        linked = _parallel_words(cv, parallel, group, here, there, report)
         if not others:
             report["parallel lines not found"] += 1
         for line in linked or group[-1:]:
@@ -576,11 +510,33 @@ def _parallels(cv: Any, text: Text, places: dict[str, Places], report: Counter[s
                 report["parallel lines"] += 1
 
 
+def _parallel_words(
+    cv: Any, parallel: Parallel, group: list[Any], here: Places, there: Places, report: Counter[str]
+) -> list[Any]:
+    """Links the aligned words of a parallel line, and gives the lines of the group that hold an aligned word."""
+    linked: list[Any] = []
+    for word_there, words_here in parallel.words:
+        if not words_here:
+            report["parallel words without alignment"] += 1
+            continue
+        found = {line: [slot for word in words_here for slot in here.in_line.get((line, word), [])] for line in group}
+        linked += [line for line, slots in found.items() if slots and line not in linked]
+        sources = [slot for slots in found.values() for slot in slots]
+        targets = there.find(parallel.column, parallel.label, word_there)
+        if not sources or not targets:
+            report["parallel words not found"] += 1
+        for source in sources:
+            for target in targets:
+                cv.edge(source, target, parallel=None)
+                report["parallel words"] += 1
+    return linked
+
+
 def _syntax(cv: Any, text: Text, places: Places, report: Counter[str]) -> None:
     """Links every word to the words it depends on, valued by the syntactic categories of the links.
 
     Two words can be linked more than once, so each edge carries the categories of all links between them,
-    in source order, and each flag edge the categories of the links that have the flag.
+    in source order and separated by commas, and each flag edge the categories of the links that have the flag.
     """
     links: dict[tuple[Any, Any], dict[str, list[str]]] = defaultdict(lambda: defaultdict(list))
     for reading, entry in text.syntax.items():
@@ -598,7 +554,7 @@ def _syntax(cv: Any, text: Text, places: Places, report: Counter[str]) -> None:
                             found[feature].append(link["syntacticCategory"])
                     report["dependencies"] += 1
     for (dependent, head), found in links.items():
-        cv.edge(dependent, head, **{feature: ", ".join(categories) for feature, categories in found.items()})
+        cv.edge(dependent, head, **{feature: ",".join(categories) for feature, categories in found.items()})
 
 
 def convert(

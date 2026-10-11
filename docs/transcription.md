@@ -46,11 +46,14 @@ parts, such as ו and מן, has a part for each, and a word with competing analy
 each analysis, ranked by `priority`. The morphology is given in the features of the
 [BHSA](https://etcbc.github.io/bhsa/), with the values of the BHSA where the source label has a
 value of the same meaning, and the abbreviation of the source label where it has not, such as
-`det.` for a noun with the article. Each label is declared in [morph.yaml](../yaml/morph.yaml),
-with the reason for every label that keeps its abbreviation. A label that is not declared stops
-the conversion.
+`det.` for a noun with the article. Where the parsing has no label for a category, the value is
+`NA`, as in the BHSA. Each label is declared in [morph.yaml](../yaml/morph.yaml), with the reason
+for every label that keeps its abbreviation. A label that is not declared stops the conversion.
 
-Every lemma becomes a [*lex*](#node-type-lex) over the words that have it. Its gloss is the German
+Every lemma becomes a [*lex*](#node-type-lex) over the words that have it. Its `lex` is the
+lemma with its root designation, which tells homonyms apart, such as `יחד_I` and `יחד_II`; this
+gives 4,359 values for the 4,411 lemmas, since for 51 values the source has more than one lemma
+with the same lemma and root designation, such as the two entries of לא. Its gloss is the German
 short definition of the source, left out where the source has the placeholder
 `(noch nicht bearbeitet)`.
 
@@ -136,21 +139,21 @@ analyses after the first.
 
 feature | values | description
 ------- | ------ | ------
-*`lex`* | `ברית` | lemma
+*`lex`* | `ברית` `יחד_II` | lemma, with its root designation where it has one
 *`lex_id`* | `38` | database id of the lemma
 *`part`* | `0` `1` `2` | number of the part within the word, 0 being the first
 *`priority`* | `0` `1` | rank of the analysis, 0 being the first
 *`sp`* | `subs` `verb` `prep` `conj` `nmpr` `advb` `nega` `prps` `prde` `prin` `intj` `inrg`; `n.` `not.acc.` `part.rel.` `pron.indef.` `Buchstabe` `Zahlzeichen` `ohne` | part of speech
 *`nametype`* | `pers` `gens` `topo`; `n.d.` `MN` | named entity type
-*`gn`* | `m` `f`; `comm.` | grammatical gender
-*`nu`* | `sg` `pl` `du` | grammatical number
-*`ps`* | `p1` `p2` `p3` | grammatical person
-*`st`* | `a` `c`; `det.` | state, `det.` a noun with the article
-*`vs`* | `qal` `pasq` `nif` `piel` `pual` `hif` `hof` `hit` `htpo` `hsht` `peal` `peil` `pael` `htpe` `etpe`; `po.` `polal` `hitpo.` `pil.` `pulpal` `hitpal.` `puʿlal` `nufʿal` `etaf.` | verbal stem
-*`vt`* | `perf` `impf` `wayq` `impv` `infc`; `pf.cons.` `ptz.` `koh.` | verbal tense
-*`prs_gn`* | `m` `f`; `comm.` | pronominal suffix gender
-*`prs_nu`* | `sg` `pl` `du` | pronominal suffix number
-*`prs_ps`* | `p1` `p2` `p3` | pronominal suffix person
+*`gn`* | `m` `f` `NA`; `comm.` | grammatical gender
+*`nu`* | `sg` `pl` `du` `NA` | grammatical number
+*`ps`* | `p1` `p2` `p3` `NA` | grammatical person
+*`st`* | `a` `c` `NA`; `det.` | state, `det.` a noun with the article
+*`vs`* | `qal` `pasq` `nif` `piel` `pual` `hif` `hof` `hit` `htpo` `hsht` `peal` `peil` `pael` `htpe` `etpe` `NA`; `po.` `polal` `hitpo.` `pil.` `pulpal` `hitpal.` `puʿlal` `nufʿal` `etaf.` | verbal stem
+*`vt`* | `perf` `impf` `wayq` `impv` `infc` `NA`; `pf.cons.` `ptz.` `koh.` | verbal tense
+*`prs_gn`* | `m` `f` `NA`; `comm.` | pronominal suffix gender
+*`prs_nu`* | `sg` `pl` `du` `NA` | pronominal suffix number
+*`prs_ps`* | `p1` `p2` `p3` `NA` | pronominal suffix person
 *`augment`* | `loc.` `energ.` `adv.` | augment, which the BHSA does not have
 
 The values before the semicolon are those of the BHSA, the values after it the abbreviations of
@@ -162,7 +165,7 @@ A lemma, over the words that have it: 4,411 lemmas.
 
 feature | values | description
 ------- | ------ | ------
-*`lex`* | `ברית` | lemma
+*`lex`* | `ברית` `יחד_II` | lemma, with its root designation where it has one
 *`lex_id`* | `38` | database id of the lemma
 *`root_designation`* | `I` `II` | number of the root of the lemma
 *`gloss@de`* | `Vertrag, Bund` | German short definition (2,309 lemmas)
@@ -175,7 +178,7 @@ Section level 3. A line or verse: 88,287 lines.
 feature | values | description
 ------- | ------ | ------
 *`line`* | `1` `25b` `Rd.` | label of the line
-*`id`* | `4071` | database id of the line, absent for a margin line
+*`id`* | `4071` | database id of the line, absent where the source gives none: margin lines and 17 lines of SirB and SirM
 *`margin`* | `1` | the line is a margin line of a composite Ben Sira text (106 lines)
 
 ## Node type [*column*](#column)
@@ -208,8 +211,8 @@ labels of the reference. A parallel word aligned with a word gives the id of tha
 word is looked up in the lines the row stands under, which are the lines since the previous
 parallel row, more than one where a verse of a composite text runs over several lines. The line
 edges go from the lines that hold an aligned word, or from the line right above the row where
-none does. Where the line of a reference does not hold the parallel word, the word is looked up
-in the column of the reference.
+none does. Where the line of a reference does not hold the parallel word, as when the word is in a
+margin line, the word is taken from the column of the reference if the column holds it once.
 
 The 10,392 ellipses `…` that stand for omitted text in the parallel rows are not words and are
 not linked. Of the other parallel words, 45,175 are not aligned with a word, and 11 give a reading
@@ -223,14 +226,17 @@ From a word to the word it depends on, valued by the syntactic category of the d
 
 The source lists, for every word, the words that depend on it, as `dependentUpon`, with the
 syntactic category of the dependent, such as `Subjekt`, and the column and line where it is.
+Where that line does not hold the dependent, as when it is in a margin line, the dependent is taken
+from the column if the column holds it once.
 Two words can be linked more than once, such as a preposition that is both `Präposition` and
 `Adverb` of its verb, so the value of an edge is the categories of all the links between the two
-words, in source order, separated by `, `. This affects 10,582 edges. Of the source links,
+words, in source order, separated by commas, as the BHSA separates the values of `nametype`.
+This affects 10,582 edges. Of the source links,
 13 give a reading that is not in the text; these are not linked.
 
 edge | values | description
 ------- | ------ | ------
-*`head`* | `Subjekt` `Objekt` `Präposition` `Adverb` `gen. Attribut` `Adverb, Präposition` | from a word to its head, valued by the categories of the links
+*`head`* | `Subjekt` `Objekt` `Präposition` `Adverb` `gen. Attribut` `Adverb,Präposition` | from a word to its head, valued by the categories of the links
 *`head_uncertain`* | `Subjekt` | as `head`, valued by the categories of the links the source marks as uncertain (2,180 edges)
 *`head_generated`* | `Präposition` | as `head`, valued by the categories of the links the source marks as generated (979 edges)
 *`head_external`* | `Subjekt` | as `head`, valued by the categories of the links the source marks as external to the phrase (5,318 edges)

@@ -19,6 +19,8 @@ INDEX = '''<ol id="item-list" class="item-list"><li class="list-item dss">
     <a href="/transcriptions/1QS/2026-10-06/index.html?v=2026-10-06" class="text-href-link">1QS</a>
 </li><li class="list-item dss">
     <a href="/transcriptions/4QS/2026-10-06/index.html?v=2026-10-06" class="text-href-link">4QS</a>
+</li><li class="list-item dss">
+    <a href="/transcriptions/5QS/2026-10-06/index.html?v=2026-10-06" class="text-href-link">5QS</a>
 </li><li class="list-item non-dss">
     <a href="/transcriptions/1_Sam/2026-10-06/index.html?v=2026-10-06" class="text-href-link">1 Sam</a>
 </li></ol>'''
@@ -32,8 +34,9 @@ SPACE = '<span class="word-space"> </span>'
 
 
 def line(number, label, *content):
+    identifier = '' if number is None else f' id="c1-i{number}"'
     return (
-        f'<tr id="c1-i{number}" class="line-verse" data-name="{label}"><td class="line-verse-label" dir="ltr">'
+        f'<tr{identifier} class="line-verse" data-name="{label}"><td class="line-verse-label" dir="ltr">'
         f'{label}</td><td class="line-text"><span class="body-text">{"".join(content)}</span></td></tr>'
     )
 
@@ -72,7 +75,10 @@ def column(number, label, *rows):
 
 
 def page(*columns):
-    return f'<div id="transcription_id_1"><header></header><main>{"".join(columns)}</table></main></div>'
+    return (
+        '<div id="transcription_id_1"><header><input type="checkbox" checked></header>'
+        f'<main>{"".join(columns)}</table></main></div>'
+    )
 
 
 S1 = page(
@@ -117,6 +123,21 @@ S2 = page(
         line(20, '1', word(20, '--]')),
         line(21, '2', word(21, 'ברית'), SPACE, word(22, 'עמו'), SPACE, word(23, 'כול')),
         line(24, '3', word(24, 'אל')),
+        margin('Rd.', word(25, 'עוד')),
+        line(None, '4', word(26, 'זה')),
+        line(27, '5', word(21, 'ברית')),
+    ),
+)
+
+S4 = page(
+    column(
+        41, '1',
+        line(41, '1', word(41, 'עוד'), SPACE, word(42, 'ברית')),
+        parallel(
+            reference('4QS', 'frg. 1', '3') + '<span class="line-text">' + par(25, 'עוד', 41) + '</span>'
+            + reference('4QS', 'frg. 1', '2') + '<span class="line-text">' + par(21, 'ברית', 42) + '</span>'
+            + reference('4QS', 'frg. 9', '1') + '<span class="line-text">' + par(30, 'כול', 41) + '</span>',
+        ),
     ),
 )
 
@@ -174,6 +195,13 @@ def link(number, reading, category, column='1', label='3', uncertain=False):
     }
 
 
+SYNTAX_4QS = {
+    '21': {'wordReadingId': 21, 'reading': 'ברית',
+           'dependentUpon': [link(22, 'עמו', 'gen. Attribut', column='frg. 1', label='2')], 'dependedOnBy': []},
+    '26': {'wordReadingId': 26, 'reading': 'זה', 'dependentUpon': [link(99, 'כול', 'Objekt', column='frg. 1')],
+           'dependedOnBy': []},
+}
+
 SYNTAX = {
     '17': {'wordReadingId': 17, 'reading': 'ויאמר',
            'dependentUpon': [link(18, 'משה', 'Subjekt', uncertain=True), link(18, 'משה', 'Pendens')],
@@ -185,15 +213,14 @@ SYNTAX = {
 }
 
 
-def write(folder, path, siglum, number, html, parsings=None, syntax=None):
+def write(folder, path, siglum, number, html, parsings, syntax):
     target = folder / 'transcriptions' / path
     target.mkdir(parents=True)
     (target / 'transcription.html').write_text(html, encoding='utf-8')
     (target / 'columns.json').write_text(json.dumps({'columns': [], 'sigla': siglum}), encoding='utf-8')
     (target / 'shell.html').write_text(f'<div id="transcription_id_{number}"></div>', encoding='utf-8')
-    if parsings is not None:
-        (target / 'parsings.json').write_text(json.dumps(parsings), encoding='utf-8')
-        (target / 'syntax.json').write_text(json.dumps(syntax), encoding='utf-8')
+    (target / 'parsings.json').write_text(json.dumps(parsings), encoding='utf-8')
+    (target / 'syntax.json').write_text(json.dumps(syntax), encoding='utf-8')
 
 
 def source(tmp_path):
@@ -201,8 +228,9 @@ def source(tmp_path):
     folder.mkdir()
     (folder / 'transcription-index.html').write_text(INDEX, encoding='utf-8')
     write(folder, '1QS', '1QS', 1, S1, PARSINGS, SYNTAX)
-    write(folder, '4QS', '4QS', 2, S2, {}, {})
-    write(folder, '1_Sam', '1_Sam', 3, S3)
+    write(folder, '4QS', '4QS', 2, S2, {}, SYNTAX_4QS)
+    write(folder, '5QS', '5QS', 4, S4, {}, {})
+    write(folder, '1_Sam', '1_Sam', 3, S3, {}, {})
     return folder
 
 
@@ -212,8 +240,19 @@ def build(tmp_path, report=None):
     return Fabric(locations=str(target), silent='deep').loadAll(silent='deep')
 
 
+def test_tree_closes_open_elements_and_ignores_stray_end_tags():
+    root = converter.tree('<div><p>a<b>b</div>c</table><input type="checkbox"><span>d')
+    assert [element.tag for element in root.iter()] == ['page', 'div', 'p', 'b', 'input', 'span']
+    assert converter.content(root) == 'abcd'
+
+
+def test_transcription_reads_only_the_tables_of_columns():
+    columns, _ = converter.transcription('<table id="x"><tr><td>a</td></tr></table>' + S2)
+    assert [column.id for column in columns] == [21]
+
+
 def test_index_entries_give_path_and_class_in_index_order():
-    assert converter.index_entries(INDEX) == [('1QS', 'dss'), ('4QS', 'dss'), ('1_Sam', 'non-dss')]
+    assert converter.index_entries(INDEX) == [('1QS', 'dss'), ('4QS', 'dss'), ('5QS', 'dss'), ('1_Sam', 'non-dss')]
 
 
 def test_transcription_reads_columns_lines_and_words_with_the_text_around_them():
@@ -231,6 +270,31 @@ def test_transcription_reads_columns_lines_and_words_with_the_text_around_them()
         (14, 14, 'עמו', '', 'a‏ a', None, False),
         (15, 15, 'עם', '', '', None, True),
     ]
+
+
+def test_transcription_gives_a_line_without_an_id_none():
+    columns, _ = converter.transcription(S2)
+    assert [(line.id, line.label) for line in columns[0].lines] == [
+        (20, '1'), (21, '2'), (24, '3'), (None, 'Rd.'), (None, '4'), (27, '5'),
+    ]
+
+
+def test_transcription_stops_at_a_line_with_text_but_no_words():
+    with pytest.raises(ValueError, match='text but no words'):
+        converter.transcription(page(column(1, '1', line(1, '1', '<span class="formatting">[</span>'))))
+
+
+def test_transcription_stops_at_a_parallel_word_without_a_reference():
+    row = parallel('<span class="line-text">' + par(21, 'ברית', 11) + '</span>')
+    with pytest.raises(ValueError, match='without a reference'):
+        converter.transcription(page(column(1, '1', line(11, '1', word(11, 'ברית')), row)))
+
+
+def test_read_text_stops_at_a_shell_without_a_transcription_id(tmp_path):
+    folder = source(tmp_path) / 'transcriptions' / '1QS'
+    (folder / 'shell.html').write_text('<div></div>', encoding='utf-8')
+    with pytest.raises(ValueError, match='no transcription id'):
+        converter.read_text(folder, 'dss')
 
 
 def test_transcription_keeps_the_markup_of_words_that_have_any():
@@ -255,9 +319,29 @@ def test_morphology_maps_declared_labels_and_keeps_the_others_as_abbreviations()
         'wordClass': 'Nomen', 'wordClassAbbr': 'n.', 'state': 'constructus', 'stateAbbr': 'cs.',
         'verbStem': 'Polel (Hebr.)', 'verbStemAbbr': 'po.', 'suffixPerson': '1. Person', 'suffixPersonAbbr': '1.',
     }
-    assert converter.morphology(parsing, morph) == {'sp': 'n.', 'st': 'c', 'vs': 'po.', 'prs_ps': 'p1'}
-    assert converter.morphology({'wordClass': 'ohne', 'wordClassAbbr': ''}, morph) == {'sp': 'ohne'}
-    assert converter.morphology({'wordClass': 'Ortsname'}, morph) == {'sp': 'nmpr', 'nametype': 'topo'}
+    absent = {'gn': 'NA', 'nu': 'NA', 'ps': 'NA', 'st': 'NA', 'vs': 'NA', 'vt': 'NA',
+              'prs_gn': 'NA', 'prs_nu': 'NA', 'prs_ps': 'NA'}
+    assert converter.morphology(parsing, morph) == {**absent, 'sp': 'n.', 'st': 'c', 'vs': 'po.', 'prs_ps': 'p1'}
+    assert converter.morphology({'wordClass': 'ohne', 'wordClassAbbr': ''}, morph) == {**absent, 'sp': 'ohne'}
+    assert converter.morphology({'wordClass': 'Ortsname'}, morph) == {**absent, 'sp': 'nmpr', 'nametype': 'topo'}
+
+
+def test_lexeme_adds_the_root_designation_where_there_is_one():
+    assert converter.lexeme({'lemma': 'יחד', 'rootDesignation': 'II'}) == 'יחד_II'
+    assert converter.lexeme({'lemma': 'ו'}) == 'ו'
+
+
+def test_find_looks_in_the_column_only_for_a_word_it_holds_once():
+    places = converter.Places()
+    column = converter.Column(1, 'frg. 1', ())
+    lines = [converter.Line(n, str(n), False, ()) for n in (1, 2, 3)]
+    for n, (line, number) in enumerate(zip(lines, (5, 6, 6))):
+        places.add_line(column, line, ('line', n))
+        places.add(column, line, ('line', n), converter.Word(number, number, '', None, '', '', None, False), n)
+    assert places.find('frg. 1', '1', 5) == [0]
+    assert places.find('frg. 1', '3', 5) == [0]
+    assert places.find('frg. 1', '1', 6) == []
+    assert places.find('frg. 1', '2', 6) == [1]
 
 
 def test_morphology_stops_at_an_undeclared_label():
@@ -275,7 +359,7 @@ def test_convert_makes_each_transcription_a_text_with_columns_and_lines(tmp_path
     F, L, T = api.F, api.L, api.T
     texts = F.otype.s('text')
     assert [(F.text.v(t), F.kind.v(t), F.id.v(t)) for t in texts] == [
-        ('1QS', 'dss', 1), ('4QS', 'dss', 2), ('1_Sam', 'non-dss', 3),
+        ('1QS', 'dss', 1), ('4QS', 'dss', 2), ('5QS', 'dss', 4), ('1_Sam', 'non-dss', 3),
     ]
     lines = L.d(texts[0], 'line')
     assert [T.sectionFromNode(n) for n in lines] == [('1QS', '1', '1'), ('1QS', '1', '2'), ('1QS', '1', '3'),
@@ -300,11 +384,11 @@ def test_convert_gives_a_line_without_words_one_empty_word(tmp_path):
 def test_convert_makes_a_part_for_every_part_of_every_analysis(tmp_path):
     api = build(tmp_path)
     F, L = api.F, api.L
-    words = {F.id.v(w): w for w in F.otype.s('word') if F.id.v(w)}
+    words = {F.id.v(w): w for w in L.d(F.otype.s('text')[0], 'word') if F.id.v(w)}
     parts = sorted(L.u(words[17], 'part'), key=F.part.v)
     found = [(F.lex.v(p), F.lex_id.v(p), F.part.v(p), F.sp.v(p), F.vs.v(p), F.vt.v(p), F.ps.v(p), F.gn.v(p))
              for p in parts]
-    assert found == [('ו', 3, 0, 'conj', None, None, None, None), ('אמר', 4, 1, 'verb', 'qal', 'wayq', 'p3', 'm')]
+    assert found == [('ו', 3, 0, 'conj', 'NA', 'NA', 'NA', 'NA'), ('אמר', 4, 1, 'verb', 'qal', 'wayq', 'p3', 'm')]
     analyses = sorted((F.priority.v(p), F.nametype.v(p)) for p in L.u(words[18], 'part'))
     assert analyses == [(0, 'pers'), (1, 'topo')]
     (noun,) = [p for p in L.u(words[11], 'part') if F.part.v(p) == 1]
@@ -318,7 +402,7 @@ def test_convert_makes_a_lexeme_for_every_lemma_over_its_words(tmp_path):
     lexemes = {F.lex_id.v(n): n for n in F.otype.s('lex')}
     assert sorted(lexemes) == [1, 2, 3, 4, 5]
     covenant = lexemes[2]
-    assert (F.lex.v(covenant), F.root_designation.v(covenant), F.word_class.v(covenant)) == ('ברית', 'I', 'n.f.')
+    assert (F.lex.v(covenant), F.root_designation.v(covenant), F.word_class.v(covenant)) == ('ברית_I', 'I', 'n.f.')
     assert Fs('gloss@de').v(covenant) is None
     assert Fs('gloss@de').v(lexemes[1]) == 'in, an, bei'
     assert [F.id.v(w) for w in L.d(lexemes[5], 'word')] == [18]
@@ -328,23 +412,35 @@ def test_convert_links_lines_and_aligned_words_to_their_parallels(tmp_path):
     report = converter.Counter()
     api = build(tmp_path, report)
     F, E, T = api.F, api.E, api.T
-    pairs = sorted((F.id.v(a), F.id.v(b)) for a in F.otype.s('word') for b in E.parallel.f(a))
-    assert pairs == [(11, 21), (14, 22), (15, 22), (19, 24)]
+    pairs = sorted(
+        (F.id.v(a), F.id.v(b), T.sectionFromNode(b)) for a in F.otype.s('word') for b in E.parallel.f(a)
+    )
+    assert pairs == [
+        (11, 21, ('4QS', 'frg. 1', '2')), (14, 22, ('4QS', 'frg. 1', '2')), (15, 22, ('4QS', 'frg. 1', '2')),
+        (19, 24, ('4QS', 'frg. 1', '3')), (41, 25, ('4QS', 'frg. 1', 'Rd.')), (42, 21, ('4QS', 'frg. 1', '2')),
+    ]
     lines = sorted(T.sectionFromNode(a) + T.sectionFromNode(b) for a in F.otype.s('line') for b in E.parallel.f(a))
-    assert lines == [('1QS', '1', '1', '4QS', 'frg. 1', '2'), ('1QS', '1', 'Rd.', '4QS', 'frg. 1', '3')]
-    assert report['parallel words without alignment'] == 1
+    assert lines == [
+        ('1QS', '1', '1', '4QS', 'frg. 1', '2'), ('1QS', '1', 'Rd.', '4QS', 'frg. 1', '3'),
+        ('5QS', '1', '1', '4QS', 'frg. 1', '2'), ('5QS', '1', '1', '4QS', 'frg. 1', '3'),
+    ]
+    assert (report['parallel words without alignment'], report['parallel words not found']) == (1, 1)
+    assert report['parallel lines not found'] == 1
 
 
 def test_convert_links_every_dependent_to_its_head_with_its_category(tmp_path):
     report = converter.Counter()
     api = build(tmp_path, report)
-    F, E = api.F, api.E
-    words = {F.id.v(w): w for w in F.otype.s('word') if F.id.v(w)}
-    assert E.head.f(words[18]) == ((words[17], 'Subjekt, Pendens'),)
+    F, E, L, T = api.F, api.E, api.L, api.T
+    words = {F.id.v(w): w for w in L.d(F.otype.s('text')[0], 'word') if F.id.v(w)}
+    assert E.head.f(words[18]) == ((words[17], 'Subjekt,Pendens'),)
     assert E.head_uncertain.f(words[18]) == ((words[17], 'Subjekt'),)
     assert E.head.f(words[19]) == ((words[11], 'gen. Attribut'),)
     assert not E.head_uncertain.f(words[19])
-    assert report['dependencies'] == 3
+    (dependent,) = [w for w in L.d(F.otype.s('text')[1], 'word') if F.id.v(w) == 22]
+    heads = sorted((T.sectionFromNode(head), category) for head, category in E.head.f(dependent))
+    assert heads == [(('4QS', 'frg. 1', '2'), 'gen. Attribut'), (('4QS', 'frg. 1', '5'), 'gen. Attribut')]
+    assert (report['dependencies'], report['dependencies not found']) == (5, 1)
 
 
 def test_convert_writes_the_attribution_and_license_into_the_metadata(tmp_path):

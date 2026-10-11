@@ -4,7 +4,7 @@
 @copynote1=© 2022 DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
 @copynote2=Bereitgestellt durch das DFG-Projekt Nr. 465277421 Qumran-Digital: Text und Lexikon auf der Grundlage eines Textes des früheren Projekts Qumran-Wörterbuch der Niedersächsischen Akademie der Wissenschaften zu Göttingen, der auf einem Vorläufertext von Martin Abegg basierte.
 @copynote3=Modified: converted from HTML and JSON to Text-Fabric, see docs/transcription.md. Provided as is, without warranties, see the disclaimer in the license.
-@description=verbal stem (qal; nif; piel; ...) or the source abbreviation
+@description=verbal stem (qal; nif; piel; ...; NA) or the source abbreviation
 @license=Creative Commons Attribution-ShareAlike 4.0 International
 @licenseUrl=https://creativecommons.org/licenses/by-sa/4.0/
 @name=Qumran
@@ -14,26426 +14,146412 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T19:17:03+00:00Z
+@dateWritten=2026-10-11T20:06:35+00:00Z
 
-913713	qal
-913718	qal
-913726	piel
-913738	qal
-913741	qal
-913744	qal
-913748	qal
-913750	qal
-913756	qal
-913763	qal
-913774	qal
-913784	qal
-913789	hif
-913792	nif
-913794	qal
-913801	nif
-913807	hit
-913812	nif
-913818	qal
-913830	qal
-913842	nif
-913845	hif
-913856	piel
-913865	piel
-913878	qal
-913891	piel
-913896	hit
-913903	qal
-913908	qal
-913914	qal
-913918	qal
-913927	qal
-913937	pasq
-913943	qal
-913946	qal
-913950	piel
-913961	qal
-913964	qal
-913970	piel
-913978	hif
-913986	piel
-914002	qal
-914005	hif
-914008	qal
-nif
+913704	NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+NA
+NA
 qal
-hif
-914021	qal
-914035	qal
-914044	piel
-914050	qal
-914056	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-914062	qal
-914067	hif
-914073	qal
-914078	qal
-914087	piel
-914094	qal
-914096	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-914104	qal
-914110	qal
-914113	qal
-914119	piel
-914121	pasq
-914130	pasq
-914137	qal
-914140	qal
-914143	qal
-914145	piel
-914148	qal
-914155	qal
-914161	qal
-914165	qal
-914168	qal
-914170	piel
-914174	hif
-914179	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+nif
+qal
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
 pasq
-914186	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+NA
+NA
+NA
 qal
-914195	qal
-914199	nif
-914202	qal
-914204	qal
-914209	hit
-914213	qal
-914215	qal
-914221	qal
-914223	nif
-914237	qal
-914243	qal
-914250	hif
-914255	nif
-914262	nif
-914271	qal
-914275	pasq
-914279	qal
-914281	qal
-914283	qal
-914288	qal
-914297	qal
-914310	qal
-914315	qal
-914332	qal
-914347	qal
-914354	qal
-914360	qal
-914385	qal
-914387	qal
-914390	qal
-914399	qal
-914407	piel
-914415	hit
-914423	hif
-914438	qal
-914445	hif
-914453	hit
-914455	hit
-nif
-914461	qal
-hit
-914468	hit
-914475	qal
-hit
-914483	qal
-914486	qal
-914492	hit
-914504	pual
-914508	hif
-914520	qal
-hit
-914531	pual
-914542	qal
-914545	hif
-914551	hit
-914556	hif
-914567	piel
-914574	qal
-914581	qal
-914588	nif
-914596	qal
-914605	hif
-914608	piel
-914639	qal
-914641	nif
-914645	qal
-hif
-914651	qal
-914657	piel
-914662	hif
-914669	pil.
-914675	qal
-914681	qal
-914686	hit
-914718	hit
-914732	hit
-914773	hif
-914782	qal
-914792	qal
-914799	piel
-914809	qal
-914819	qal
-914823	piel
-914828	qal
-914837	hif
-914843	piel
-914852	piel
-914875	hif
-914880	nif
-914901	pasq
-914912	piel
-914917	hif
+NA
+NA
 qal
-914923	piel
-914938	qal
-914949	qal
-914975	qal
-914978	qal
-914988	qal
-914997	qal
-915031	qal
-915042	qal
-915060	qal
-915088	qal
-915104	qal
-915112	hit
-915133	qal
-915141	qal
-915166	hit
-915176	qal
-915179	qal
-915185	hif
-915190	qal
-915196	hitpo.
-915206	nif
-915209	piel
-915216	piel
-915223	hif
-915232	piel
-915241	hif
-915251	hitpo.
-915266	hif
-915271	qal
-915284	qal
-915292	qal
-915300	hit
-915312	qal
-915315	qal
-915323	qal
-915327	piel
-915333	qal
-915337	nif
-915339	qal
-915343	qal
-915351	hif
-915356	qal
-915360	hif
-915376	hit
-915378	qal
-915384	hif
-915388	piel
-915392	nif
-915399	qal
-915409	hif
-915415	qal
-915423	hif
-915428	qal
-915443	qal
-915456	hif
-qal
-915463	qal
-915469	qal
-915480	qal
-915489	piel
-915498	piel
-915501	hit
-915513	nif
-915524	hif
-915526	qal
-915537	nif
-915543	qal
-915547	qal
-915554	hit
-915556	hif
-915563	qal
-915570	piel
-915580	nif
-915586	qal
-915589	qal
-915596	hit
-915602	hit
-915607	piel
-915613	nif
-915618	qal
-915624	hof
-915629	piel
-915632	qal
-915636	qal
-nif
-915639	qal
-915644	nif
-qal
-915648	qal
-915650	qal
-915654	qal
-915660	qal
-915672	qal
-915676	qal
-915683	qal
-hit
-915687	qal
-915694	qal
-915699	nif
-915707	hif
-915711	qal
-915718	pasq
-915723	qal
-915727	qal
-915742	qal
-915748	qal
-915751	qal
-915762	pasq
-qal
-915774	nif
-915780	nif
-915784	hif
-915793	qal
-915806	qal
-qal
-915812	piel
-915814	hif
-915831	qal
-915835	qal
-915843	nif
-915848	qal
-915868	hit
-915874	hif
-915879	qal
-915884	piel
-915886	qal
-915892	hit
-915894	qal
-915902	qal
-915915	nif
-915925	qal
-qal
-915935	hif
-915945	piel
-915949	hif
-915963	piel
-915977	qal
-qal
-915985	hif
-915988	qal
-915994	hif
-916012	hit
-916017	nif
-916022	nif
-916033	qal
-916036	piel
-916039	nif
-916045	qal
-916053	qal
-916062	qal
-916067	qal
-nif
-916078	qal
-916080	qal
-916083	qal
-916087	qal
-916089	qal
-916094	nif
-916101	qal
-916103	qal
-916108	nif
-916116	qal
-916120	qal
-916124	qal
-916132	qal
-916138	qal
-916147	qal
-916152	qal
-916156	piel
-916169	qal
-916180	qal
-916186	qal
-nif
-916197	qal
-916201	hif
-916209	piel
-916216	piel
-916219	piel
-916223	piel
-916227	pasq
-916235	piel
-916258	piel
-916268	qal
-916273	qal
-916278	qal
-916283	piel
-916287	qal
-916289	piel
-916292	hit
-916296	nif
-916300	qal
-916303	pasq
-916317	hif
-916319	hif
-916323	qal
-916328	qal
-916333	hif
-916341	qal
-916343	qal
-916348	nif
-916355	qal
-qal
-916361	qal
-916363	qal
-916366	qal
-916371	qal
-916377	qal
-916383	qal
-916391	hit
-916397	qal
-916403	nif
-916417	qal
-qal
-916422	qal
-916433	piel
-916448	qal
-916461	hif
-916463	qal
-916468	qal
-916478	qal
-916482	qal
-qal
-916489	qal
-qal
-916494	qal
-916497	qal
-916514	piel
-916518	qal
-916528	nif
-916537	nif
-916541	piel
-916546	qal
-916548	hif
-916556	nif
-916562	qal
-916569	piel
-916574	qal
-916579	hif
-916583	pasq
-916587	hif
-916591	nif
-916596	hif
-916600	nif
-916605	piel
-916608	nif
-916619	qal
-916625	piel
-916627	hif
-916630	qal
-916643	pasq
-916646	piel
-916650	nif
-916654	hof
-916664	piel
-916666	nif
-916671	piel
-916675	nif
-916679	nif
-916683	hof
-916686	piel
-916692	qal
-916697	nif
-916704	hit
-916706	nif
-916714	hit
-916717	qal
+NA
+NA
+NA
+NA
+NA
 piel
-916720	piel
-916726	hif
-916730	piel
-piel
-916733	nif
-916738	qal
-916743	nif
-916750	qal
-916757	piel
-916768	qal
-916770	qal
-916780	nif
-916791	qal
-916799	nif
-916804	nif
-916806	nif
-916808	nif
-916813	piel
-916820	qal
-916822	pasq
-916824	nif
-916830	qal
-916836	nif
-916841	hif
-916848	qal
+NA
 pasq
-916851	nif
-916854	nif
-916859	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
 piel
-916864	hif
-916867	nif
-916871	hif
-916877	qal
+NA
+NA
 qal
-916881	nif
-916887	qal
-916892	hif
-916899	nif
-916904	qal
-916907	piel
-916913	qal
-916918	nif
-916921	piel
-916924	qal
-916929	nif
-916931	nif
-916937	qal
-916943	qal
-916948	qal
-916953	qal
-916955	nif
-916961	qal
-916966	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-916977	qal
-916980	qal
-916987	nif
-916992	nif
-916999	qal
-917004	qal
-917008	qal
-917011	qal
-917015	qal
-917021	qal
-917026	qal
-917037	hit
-917056	nif
-917061	qal
-917071	hif
+NA
+NA
+NA
+NA
+NA
 qal
-917078	qal
-917084	pasq
-917087	nif
-917090	qal
-917093	qal
-917100	hit
-917111	qal
-917115	nif
-917143	piel
-917148	hif
-917158	hitpal.
-917162	hif
-917178	hif
-917189	hif
-917195	qal
-917199	piel
-917204	qal
-917211	nif
-917221	nif
-917231	nif
-917235	nif
-917238	qal
-917240	piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
 hif
-917247	nif
-917250	qal
-917259	nif
-917266	qal
-917270	piel
-917278	pasq
-917281	piel
-917284	piel
-917294	piel
-917299	qal
-917302	nif
-917309	piel
+NA
+NA
+NA
+NA
 qal
-917324	qal
-917330	qal
-917332	qal
-917339	qal
-917345	hit
-917351	piel
-917356	piel
-917364	nif
-917373	nif
-917380	qal
-917388	qal
-917392	qal
-917398	piel
-917403	qal
-917410	qal
-917414	piel
-piel
-917421	qal
-917425	hit
-917442	qal
-917444	hof
-917457	qal
-917461	nif
-917468	qal
-917472	qal
-917483	qal
-917486	qal
-917494	nif
-917498	qal
-917501	qal
-917503	qal
-917506	qal
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 nif
-917520	nif
-917523	qal
-917534	qal
-917541	piel
-917575	hif
-917584	hof
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
 nif
-917593	qal
-917599	qal
-917608	qal
-917620	qal
-917624	hit
-917632	hif
-917635	nif
-917640	qal
-917650	qal
-917652	qal
-917658	nif
-917664	hif
-917668	hit
-917671	qal
-917681	hif
-917683	hit
-917700	qal
-917706	nif
-917712	qal
-917716	nif
-917725	hif
-917728	qal
-917739	hif
-917747	piel
-917754	hif
-917764	hif
-917767	hit
-917773	piel
-917783	hif
-917790	qal
-917793	hif
-917797	hif
-917808	piel
-917815	nif
-917819	qal
-917825	hif
-917827	nif
-917829	qal
-917834	nif
-917840	hif
-917865	nif
-917874	qal
-917880	qal
-917884	qal
-917886	piel
-917895	qal
-917907	piel
-917910	nif
-917912	qal
-917920	qal
-917926	qal
-917929	hit
-917934	piel
-917939	qal
-piel
-piel
-917945	qal
-917955	nif
-917964	qal
-917967	qal
-917974	nif
-917979	hif
-917985	nif
-918004	hit
-918022	nif
-918039	piel
-918042	pasq
-918053	nif
-918085	qal
-918087	pasq
-918098	piel
-918115	qal
-918124	qal
-918133	qal
-918137	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-918142	qal
-918144	hif
-918154	pasq
-918158	qal
-918163	hif
-918178	qal
-918181	hif
-918183	qal
-918186	qal
-918193	piel
-918197	qal
-918199	qal
-918201	qal
-918203	qal
-918208	piel
-918211	piel
-918221	hif
-918224	hit
-918240	piel
-918247	po.
-918251	nif
-918255	qal
-918268	nif
-918270	piel
-918274	piel
-918277	hif
-918284	qal
-918295	piel
-918300	piel
-918311	piel
-918318	qal
+NA
+NA
+NA
+NA
+NA
 qal
-918328	hif
-918334	piel
-918336	nif
-918339	qal
-918344	qal
-qal
-918349	piel
-918352	qal
-918355	piel
-918359	nif
-918361	qal
-918368	qal
-918373	nif
-918386	nif
-918395	nif
-918399	qal
-918404	piel
-918411	qal
-918414	hif
-918419	nif
-918426	piel
-918432	qal
-918435	pasq
-918437	qal
-918445	piel
-qal
-918455	nufʿal
-918462	nif
-918464	qal
-918469	hif
-qal
-918475	hif
-918479	qal
-918484	nif
-918488	qal
-918491	piel
-918495	hif
-piel
-918514	nif
-918520	qal
-918524	nif
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-918532	nif
-918534	qal
-918548	hitpal.
-918571	qal
-918573	hif
-918577	nif
-918600	qal
-918602	qal
-918607	hif
-918615	piel
-918630	nif
-918654	qal
-918663	hif
-918677	nif
-918681	qal
-918684	hif
-918689	nif
-918693	qal
+NA
+NA
+NA
+NA
 nif
-918702	qal
-918710	qal
-918715	piel
-918720	piel
-918724	hif
-918730	hif
-918734	qal
-918739	qal
-918744	piel
-918751	piel
-918760	hif
-918768	pasq
-918771	qal
-918776	hif
-918785	qal
-918790	hit
-918799	qal
-918806	nif
-918809	hif
-918814	nif
-918817	qal
-918826	hif
-918833	hif
-918839	hit
-918842	nif
-918848	qal
-918850	hif
-918863	pasq
-918867	qal
-hif
-918884	pual
-918890	hif
-918893	pasq
-918898	qal
-918910	nif
-918912	hit
-918923	qal
-918931	qal
-918937	piel
-918941	qal
-918948	qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-918957	hif
-918962	qal
-918981	piel
-918989	hif
-918993	piel
-919000	qal
-919004	qal
-919011	nif
-919017	qal
-919021	qal
-919029	qal
-919034	qal
-919040	piel
-919042	hif
-919048	hit
-919054	qal
-919062	qal
-919064	hit
-919070	qal
-919078	qal
-919080	qal
-919086	hit
-919097	qal
-919099	qal
-919115	qal
-919118	hit
-919122	qal
-919125	qal
-919136	piel
-919141	qal
-919153	piel
-919159	qal
-919165	qal
-919177	qal
-919181	hit
-919186	qal
-919190	qal
-919195	hit
-919199	hif
-919205	qal
-919211	qal
-919219	qal
-919228	hif
-919231	hif
-919247	qal
-919250	qal
-919266	qal
-919281	piel
-919285	qal
-919287	qal
-919293	nif
-919302	nif
-919304	qal
-919327	nif
-919344	pual
-919352	qal
-919359	pual
-919364	hif
-919371	pual
-919387	pual
-919391	qal
-919396	qal
-919401	hit
-919406	qal
-919409	hit
-919427	piel
-919431	qal
-919438	qal
-919441	pual
-919454	nif
-hof
-919458	qal
-919473	qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
 qal
-919486	qal
+NA
 qal
-919510	qal
-919521	nif
-919523	pasq
-919538	piel
-919551	qal
-919566	qal
-919570	nif
-919579	piel
-919581	qal
+NA
 qal
-919585	piel
-919589	qal
-919593	qal
-919599	qal
-919602	piel
-919608	piel
+NA
+NA
+NA
+NA
 qal
-919616	po.
-919622	qal
-919625	piel
-919628	qal
-919632	hif
-919638	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-919641	qal
-919645	pil.
-919647	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-919655	qal
-919657	po.
-919661	qal
-919663	po.
-919670	qal
-919677	qal
-919680	qal
-919686	qal
-919691	qal
-919697	piel
-919702	qal
-919705	qal
-919710	piel
-919716	nif
-919722	qal
-919724	qal
-919726	hif
-919741	hif
-919744	piel
-919758	qal
-919762	piel
-919768	qal
-919776	hif
-919779	piel
-919781	hif
-919787	qal
-919791	hit
-919794	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-919801	qal
-919810	piel
-919813	qal
-919819	qal
-919828	hif
-919837	qal
-919841	nif
-919851	qal
-919855	hif
-919858	qal
-919862	qal
-919869	piel
-919893	qal
-919895	piel
-919900	hif
-919918	qal
-919931	hif
-919939	piel
-919943	hif
-919945	piel
-919951	piel
-919963	qal
-919967	piel
-919974	piel
-919977	hif
-919984	hif
-919992	hit
-919999	qal
-920011	nif
-920013	qal
-920019	hif
-920025	hif
-920027	qal
-920038	qal
-920046	qal
-920052	piel
-920059	qal
-920063	qal
-920068	piel
-920070	qal
-920076	hif
-920082	qal
-920085	hif
-920091	qal
-920101	qal
-920104	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
+nif
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pual
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-920118	qal
-920122	hif
-920130	qal
-920136	hif
-920138	qal
-920141	qal
-920149	qal
-920155	qal
-920163	piel
-920167	qal
-920174	hif
-920180	nif
-920191	piel
-920198	hif
-920205	qal
-920207	hif
-920210	qal
-920217	qal
-920219	qal
-920225	nif
-920235	qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-920253	hif
-920259	qal
-920264	qal
-920270	qal
-920275	qal
-920277	qal
-920279	qal
-920283	qal
-920286	qal
-920288	qal
-920292	qal
-920300	qal
-920311	qal
-920316	qal
-920334	piel
-920337	qal
-920339	qal
-920344	hif
-920349	qal
-920351	nif
-920356	hitpal.
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-920366	qal
-920368	qal
-920371	qal
-920374	qal
-920377	qal
-920384	qal
-920390	hif
-920392	qal
-920398	nif
-920402	qal
-920405	qal
-920408	qal
-920411	qal
-920413	qal
-920420	qal
-920427	qal
-920433	qal
-920437	qal
-920446	qal
-920450	hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-920455	qal
-920459	hif
-920463	qal
-920468	piel
-920480	qal
-920489	qal
-920494	qal
-920503	qal
-920507	qal
-920513	qal
-920521	hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-920524	hif
-920527	piel
-piel
-920540	nif
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-920548	qal
-920553	qal
-920561	qal
-920569	qal
-920575	qal
-920579	qal
-920582	piel
-920589	hif
-920600	qal
-920603	qal
-920607	piel
-920613	qal
-920631	piel
-920645	hif
-920650	hif
-920654	qal
-920658	qal
-920663	piel
-920679	piel
-920682	qal
-920684	hit
-920688	piel
-920690	qal
-920692	piel
-920699	qal
-920702	piel
-920707	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-920710	piel
-920715	qal
-920717	qal
-920727	hif
-920730	qal
-920733	qal
-qal
-qal
-920742	hif
-920756	hif
-920762	piel
-920765	qal
-920773	piel
-920779	nif
-920781	hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
 piel
-920785	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-920789	piel
-920796	qal
-920802	nif
-920808	qal
-920813	qal
-920819	pual
-920821	pual
-920824	nif
-920828	hif
-920845	qal
-920851	hif
-920862	qal
-920864	nif
-920869	nif
-920880	qal
-920882	hif
-920886	qal
-920888	hif
-920894	hif
-920906	qal
-920909	qal
-920912	qal
-920916	qal
-920923	qal
-920925	qal
-920930	qal
-920936	qal
-920938	hif
-920945	qal
-920953	qal
+NA
+nif
+NA
+NA
+NA
 qal
-920956	hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
 pil.
-920962	qal
-920966	qal
-920973	qal
-920975	qal
-920977	qal
-920986	qal
-920995	qal
-920998	qal
-921002	qal
-921012	qal
-921023	nif
-921041	qal
-921055	qal
-921061	piel
-921072	hif
-921077	qal
-921084	qal
+NA
+NA
+NA
+NA
+NA
 qal
-921092	qal
-921097	qal
-921103	qal
-921108	qal
-921113	qal
-921123	qal
-921130	qal
-921141	hif
-921148	qal
-921150	qal
-921155	po.
-921169	qal
+NA
+NA
+NA
+NA
+NA
 qal
-921180	qal
-921184	hif
-921187	hif
-921190	qal
-921197	hif
-921205	hif
-921216	hif
-qal
-hif
-921223	qal
-921229	qal
-921234	piel
-921236	piel
-921241	nif
-921244	qal
-921250	piel
-921256	nif
-921265	hif
-921267	piel
-921270	piel
-921274	hif
-921282	qal
-921288	piel
-piel
-921303	hif
-921307	piel
-piel
-921311	hif
-921317	qal
-qal
-921323	qal
-921336	qal
-921342	qal
-921347	qal
-921353	qal
-921359	piel
-piel
-qal
-921363	hif
-921367	hif
-921377	qal
-921385	piel
-921390	qal
-921403	qal
-921406	qal
-921412	qal
-921414	piel
-921427	piel
-921434	piel
-921445	qal
-921449	hif
-921452	qal
-qal
-921457	hif
-921460	qal
-qal
-921465	qal
-921475	qal
-921477	qal
-921480	hsht
-921485	hif
-921493	hif
-qal
-921508	qal
-921518	piel
-921522	qal
-921537	hif
-921563	hif
-921575	nif
-921581	qal
-921589	qal
-921596	qal
-921605	qal
-921610	nif
-921617	hif
-921620	hif
-921643	qal
-921649	qal
-921653	qal
-921656	qal
-921660	hif
-921668	qal
-921673	hif
-921680	qal
-921682	qal
-921684	qal
-921692	qal
-921716	qal
-921730	pasq
-921741	hit
-921755	nif
-921781	nif
-921784	qal
-921786	qal
-921801	qal
-921805	qal
-921809	hit
-921815	qal
-921817	qal
-921819	hif
-921824	piel
-921833	hif
-921841	hif
-921851	qal
-921864	qal
-921875	qal
-qal
-piel
-921893	piel
-921899	piel
-921912	piel
-921921	hit
-921930	pasq
+NA
+NA
+NA
+NA
 hit
-921951	hit
-921958	qal
-921965	piel
-921971	hit
-921981	qal
-921993	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-922004	qal
-922016	hif
-922021	qal
-922036	qal
-922038	qal
-922053	nif
-922058	qal
-922069	nif
-922073	nif
-922086	nif
-922107	nif
-922116	nif
-922131	nif
-922137	nif
-922149	nif
-922161	nif
-nif
-922174	pasq
-922181	nif
-922185	qal
-922199	nif
-922205	qal
-922211	qal
-pasq
-922219	qal
-922226	qal
-922238	nif
-922242	qal
-922252	qal
-922262	qal
-922266	hif
-922270	hif
-922272	piel
-922278	piel
-922285	qal
-922303	nif
-922307	qal
-922311	qal
-922321	qal
-922328	hif
-922336	qal
-922340	piel
-922346	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-922353	qal
-922356	piel
-922359	qal
-922363	qal
-922365	qal
-922369	qal
-922380	qal
-922384	qal
-922404	qal
-922430	qal
-922434	qal
-922456	qal
-922473	qal
-922502	qal
-922527	qal
-qal
-922547	qal
-922566	qal
-922569	qal
-922582	qal
-922586	qal
-922589	qal
-922604	qal
-922607	qal
-922610	piel
-922613	piel
-922622	qal
-922625	qal
-922664	qal
-922670	qal
-922673	qal
-922705	qal
-922709	qal
-922712	qal
-922760	qal
-922785	piel
-922789	nif
-922792	hif
-922798	nif
-922807	pasq
-922816	hif
-922819	pasq
-922826	hof
-922835	qal
-922841	pual
-922883	pual
-922895	pual
-922923	pual
-922934	hif
-922949	pasq
-pasq
-922954	pual
-922966	qal
-923003	pual
-923013	pasq
-923015	qal
-923026	qal
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-923041	qal
-923046	qal
-923051	qal
-923056	hif
-923067	qal
-923077	qal
-923081	hif
-923090	qal
-923093	qal
-923101	hif
-923105	qal
-923110	qal
-923115	qal
-923122	hif
-923129	hif
-923134	hif
-923141	hif
-923148	piel
-923159	qal
-923168	qal
-923175	qal
-923189	qal
-923205	qal
-923213	qal
-923239	qal
-923253	qal
-923270	qal
-923274	pual
-923277	pasq
-923279	qal
-923287	qal
-923293	pual
-923310	qal
-923322	hif
-923341	qal
-923350	qal
-923360	qal
-923362	qal
-923371	qal
-923384	hif
-923387	qal
-923389	piel
-923393	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-923398	qal
-923401	qal
-923419	qal
-923423	qal
-923427	qal
-923431	qal
-923448	pual
-923455	qal
-923460	qal
-923470	pasq
-923479	qal
-923487	qal
-923497	qal
-923514	nif
-923520	piel
-923524	qal
-923528	qal
-923531	qal
-923543	qal
-923553	qal
-923558	pual
-923569	qal
-923581	hif
-923584	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 piel
-923592	piel
-923600	qal
-923617	qal
-923622	qal
-923634	qal
-923643	qal
-923657	qal
-923662	qal
-923669	qal
-923677	qal
-923684	qal
-hif
-923687	piel
-923691	piel
-923693	hif
-923698	qal
-923705	qal
-923711	hit
-923715	qal
-923721	qal
-923728	qal
-923742	qal
-923747	pual
-923749	piel
-923755	qal
-nif
-nif
-923765	qal
-923769	piel
-923777	pasq
-923781	qal
-923786	qal
-923793	hif
-923800	pasq
-923802	piel
-923810	hif
-923817	nif
-923824	qal
-923828	hif
-923832	hif
-923836	qal
-923838	hif
-923841	pasq
-923843	piel
-923847	hif
-923855	qal
-923863	pual
-pasq
-923868	qal
-923875	hif
-923877	hif
-923882	piel
-923893	hif
-923896	hif
-923902	qal
-hif
-923909	qal
-hif
-923918	nif
-923921	hif
-923925	hif
-923931	nif
-923934	qal
-923940	qal
-923950	qal
-923955	hit
-923966	qal
-923971	qal
-923973	hif
-923982	qal
-923989	nif
-923995	piel
-924002	hif
-924007	hif
-924010	qal
-924013	hif
-924018	qal
-924023	hit
-924031	hif
-924043	piel
-924048	qal
-924063	pasq
-924067	qal
-924076	qal
-924087	qal
-924097	hif
-924123	qal
-924137	qal
-924144	nif
-924152	hif
-924161	nif
-924163	qal
-924170	piel
-924176	qal
-924178	qal
-924182	qal
-924185	piel
-924189	qal
+NA
+NA
+NA
+NA
 qal
-924193	qal
-924200	qal
-924203	qal
-924207	qal
-924210	qal
-924215	qal
-924218	nif
-924223	hif
-924226	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
 piel
-924230	pasq
-924236	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-924243	qal
-924249	hif
-924255	piel
-924260	qal
-924262	qal
-924267	hif
-924271	nif
-924276	nif
-924289	qal
-924303	qal
-924313	pual
-924315	hif
-924317	qal
-924319	nif
-924321	qal
-924324	pual
-924327	qal
-924342	qal
-924358	qal
-924361	hif
-924365	piel
-924379	piel
-924396	qal
-924409	pual
-924413	qal
-924421	hif
-924427	qal
-924443	hif
-924454	hif
-924481	qal
-924493	hif
-924498	qal
-qal
-924503	qal
-924508	qal
-924512	pil.
-924518	qal
-qal
-924525	hif
-924530	qal
-924535	qal
-924544	hif
-924551	nif
+NA
+NA
+NA
+NA
 nif
-924558	hif
-924573	nif
-924578	qal
-924592	nif
-924594	hif
-924600	qal
-924603	qal
-924605	piel
-qal
-924617	qal
-924619	qal
-924629	qal
-924634	hif
-924641	qal
-924644	hif
-924648	hif
-924655	hif
-924664	qal
-924673	hit
-924676	hit
-924682	qal
-qal
-924692	nif
-924698	pil.
-924712	hif
-924718	qal
-924736	qal
-924742	qal
-924772	qal
-924776	nif
-924810	pasq
-924830	piel
-924837	hif
-924843	qal
-924847	qal
-924850	qal
-924860	qal
-924865	qal
-924868	piel
-924887	qal
-924890	hif
-924895	hif
-924899	piel
-924902	hif
-924908	piel
-924910	hsht
-924913	piel
-924916	qal
-924919	qal
-924925	qal
-924944	piel
-924956	qal
-924966	qal
-924968	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-924979	pasq
-924981	piel
-924984	qal
-924988	pasq
-924994	pasq
-925000	pasq
-925008	pasq
-925030	piel
-925037	qal
-925041	hif
-925052	qal
-925065	piel
-925072	qal
-925080	hif
-925088	qal
-925090	qal
-925099	qal
-925113	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
 hif
-925119	hif
-hif
-925130	hit
-925140	qal
-925145	qal
-925149	qal
-925175	qal
-925183	hif
-925187	hif
-925191	hif
-925197	piel
-925204	qal
-925216	nif
-925221	qal
-925223	piel
-925231	piel
-925234	qal
-925240	qal
-925243	qal
-925245	piel
-925250	qal
-925254	piel
-925261	piel
-925267	qal
-925269	qal
-pasq
-925273	qal
-925284	qal
 qal
-925292	qal
-925299	hif
-925303	nif
-925306	qal
-925309	nif
-925311	piel
-925316	piel
-925319	qal
-925321	nif
-925331	qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 hof
-925343	qal
-925355	pasq
-925359	qal
-925367	hif
-925382	hif
-925388	qal
-925392	qal
-925397	hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 qal
-925402	qal
-925404	qal
-925409	hif
-hif
-925418	nif
-hif
-925437	piel
-925442	piel
-925465	nif
-925469	hif
-925475	hif
-925478	qal
+NA
+NA
+NA
 qal
-925482	nif
-925490	hof
-hif
-925522	qal
-925524	qal
-925533	nif
-925541	qal
-925555	qal
-925570	piel
-925577	hit
-925579	pasq
-925588	piel
-925591	qal
-925593	qal
+nif
+NA
 qal
-925596	qal
-925598	qal
-925603	qal
-925608	qal
-925611	qal
-925616	qal
-925638	nif
-925644	nif
-925649	piel
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 hit
-925665	hif
-925669	hit
-925678	hif
-925683	qal
-925692	qal
-925698	qal
-925700	qal
-925707	qal
-925714	qal
-925718	qal
-925722	qal
-925727	qal
-925738	hit
-925743	qal
-925750	qal
-925757	hif
-hif
-925768	pasq
-925778	hif
-925784	qal
-925786	hif
-925789	hif
-925796	hif
-925801	qal
-hif
-925808	hit
-925813	hit
-925821	hif
+NA
+NA
 qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 nif
-925825	qal
-925831	qal
-925834	pasq
-925838	qal
-925843	qal
-925850	qal
-925855	hit
-925858	qal
-925860	qal
-925862	qal
-925866	qal
-925871	piel
-925880	qal
-925882	qal
-925885	qal
-925897	qal
-925902	pasq
-925905	piel
-925910	qal
-925914	qal
-925921	hit
-925929	hif
-925936	hit
-925939	qal
-925955	qal
-925957	nif
-925960	nif
-925965	hif
-925968	hif
-925973	qal
-925983	hif
-925991	hif
-926003	hif
-926014	qal
-926022	qal
-926030	hit
-926035	hif
-926038	piel
-926047	qal
-926051	piel
-926056	nif
-926061	hit
-926066	qal
-926073	hit
-926076	hif
-926082	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-926091	hif
-926097	hif
-926103	qal
-926109	hif
-926111	hif
-926117	hif
-926122	qal
-hif
-926128	hit
-926132	nif
-926140	nif
-926157	qal
-926160	qal
-926167	hof
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-926182	hif
-926187	nif
-926193	nif
-926197	hif
-926199	qal
-926202	qal
-926206	qal
-926217	piel
-926223	qal
-926225	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-926231	hif
-926239	qal
-926254	qal
-926258	hif
-926267	nif
-926271	qal
-926276	hif
-926286	hif
-926305	qal
 qal
-926309	qal
-926316	piel
-926336	qal
-qal
-926341	hif
-926355	piel
-926362	hif
-926366	qal
-926369	qal
-926376	qal
-926378	piel
-926391	piel
-926393	hsht
-926396	piel
-926399	hif
-926403	qal
-926406	qal
-926428	qal
-926441	nif
-926444	qal
-926450	qal
-926460	pasq
-926465	piel
-926472	hif
-926478	qal
-926485	piel
-926488	piel
-926492	qal
-926497	piel
-926522	qal
-926531	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 hif
-926538	nif
-926557	hif
-926562	pual
-926568	qal
-926570	qal
-926578	qal
-926582	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-926599	nif
-926601	hif
-926622	piel
-926628	qal
-926634	piel
-926643	qal
-926650	qal
-926654	qal
-926663	hif
-926668	hif
-926680	qal
-926683	qal
-926687	piel
-926698	hif
-926706	hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-926710	hit
-926718	hitpo.
-926722	qal
-926725	nif
-926736	hif
-926740	qal
-926742	qal
-926744	qal
-926755	piel
-926759	qal
-926763	qal
-926768	piel
-926771	qal
-926776	hit
-926780	qal
-926783	qal
-926787	piel
-926798	hif
-926804	piel
-926812	hif
-qal
+NA
+NA
+NA
+NA
+NA
 hif
-926816	qal
-926823	hit
-926830	piel
-926842	hit
-926856	qal
-926864	hif
-926880	hif
-926892	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 piel
-926910	hit
-926936	hif
-926939	qal
-926946	qal
-926980	hif
-926986	hif
-926990	piel
-926996	hif
-927000	qal
-927003	qal
-927006	hif
-927011	hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-927016	hif
-927019	qal
-927024	hif
-927033	hif
-927039	hif
-927045	pasq
-927050	nif
-927069	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 qal
-927075	qal
-927086	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
 nif
-927091	piel
-927106	qal
-927111	qal
-927115	qal
-927124	qal
-927129	pual
-pual
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
 pasq
-927135	qal
-927140	hit
-927150	piel
-927152	qal
-927157	pual
-927160	pasq
-927162	hit
-927168	qal
-927173	piel
-927178	qal
-927183	qal
-927198	hif
-927202	qal
-927210	hit
-927216	piel
-927220	qal
-927223	qal
-927225	hif
-927229	hif
-927235	hif
-927238	qal
-927246	hif
-927252	hif
-hif
-927259	qal
-927268	hif
-927272	qal
-927274	piel
-927287	hif
-927291	nif
-927299	qal
-927306	hif
-927311	qal
-927316	qal
-927322	hif
-927331	hif
-927336	qal
-927339	qal
-927346	hif
-927349	hif
-927355	qal
-927358	hif
-927362	qal
-927365	hif
-927372	nif
-927381	qal
-927383	qal
-927386	qal
-927393	qal
-927400	qal
-927406	piel
-927411	qal
-927420	qal
-927422	qal
-927429	hif
-927435	qal
-927438	hif
-927441	hif
-927443	qal
-927446	hif
-927448	qal
-927451	qal
-927456	piel
-nif
-927461	piel
-927470	hif
-927475	hif
-hif
-927485	nif
-927488	qal
-qal
-nif
-927497	piel
-927503	hif
-927517	qal
-927525	qal
-927536	piel
-927541	hif
-927544	qal
-927548	hif
-927551	hof
-qal
-927558	qal
-927570	qal
-927573	hif
-927576	qal
-927584	hif
-927587	qal
-927590	qal
-927593	hif
-927598	qal
-927603	hif
-927608	nif
-927613	hit
-927618	hif
-927625	qal
-927639	hif
-927645	qal
-927652	hif
-927657	qal
-927663	qal
-927670	piel
-927673	qal
-927676	piel
-hif
-927679	qal
-927689	qal
-927696	qal
-927713	qal
-927715	hif
-927718	qal
-927722	hif
-927731	qal
-927734	qal
-927742	qal
-927745	qal
-927750	piel
-927753	qal
-927767	qal
-927775	qal
-927777	hif
-927792	nif
-nif
-927796	hit
-927798	qal
-927802	piel
-927811	qal
-927818	qal
-927820	piel
-927827	qal
-927839	piel
-hif
-927842	hif
-927844	nif
-927848	nif
-927858	qal
-927862	qal
-927872	qal
-927878	hif
-927887	hif
-927890	qal
-qal
-927895	qal
-927900	qal
-927904	qal
-927908	hit
-927911	hit
-927915	piel
-927919	hit
-927925	qal
-927931	qal
-927939	qal
-927943	pasq
-927955	hif
-927957	qal
-927960	qal
-927976	qal
-927979	qal
-927984	qal
-927986	hif
-927993	piel
-927998	qal
-928001	qal
-928006	piel
-928011	qal
-928014	hif
-928021	piel
-928027	hif
-928033	qal
-928037	hif
-928043	qal
-928045	qal
-928048	qal
-928056	hit
-928063	hit
-928069	hif
-928074	qal
-928086	qal
-928098	qal
-928105	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-nif
-928111	qal
-928113	qal
-928121	qal
-928126	hif
-928131	qal
-928138	qal
-928168	qal
-928179	qal
-qal
-928186	nif
-928190	nif
-928195	qal
-928207	qal
-928211	hif
-928221	qal
-928249	qal
-928256	qal
-928259	hif
-928266	piel
-928273	qal
-928286	piel
-928301	hif
-928316	qal
-928333	hif
-928337	qal
-928342	nif
-928344	qal
-928348	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-928374	nif
-928379	nif
-928384	piel
-928387	nif
-928389	hif
-928392	pual
-928394	pasq
-928416	nif
-928419	nif
-928425	piel
-928430	hif
-928435	hif
-928460	qal
-928465	qal
-928468	hif
-928473	qal
-928475	qal
-928486	hif
-928496	hif
-928500	piel
-nif
-928511	piel
-928516	qal
-928520	piel
-928531	piel
-928539	piel
-928544	piel
-nif
-928551	piel
-928561	nif
-928563	hif
-hif
-928568	qal
-928571	qal
-928574	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-928578	pasq
-hif
-928582	hif
-928588	hif
-nif
-928591	hif
-928595	qal
-928604	qal
-928610	qal
-928617	piel
-928619	hif
-928625	hif
-928637	qal
-928641	piel
-928647	qal
-928654	qal
-928663	hif
-928669	qal
-928672	qal
-928677	qal
-928684	pasq
-928687	nif
-928690	qal
-928695	qal
-928704	qal
-928713	qal
-928717	qal
-928720	qal
-928725	hit
-928727	qal
-928732	nif
-928737	hif
-928739	qal
-928751	qal
-928755	piel
+NA
+NA
+NA
+NA
 qal
-928759	qal
-928773	qal
-928780	qal
-928783	qal
-928794	qal
-928800	hif
-928804	piel
-928807	qal
-928811	qal
-928816	hif
-928818	hif
-928820	qal
-928830	nif
-928833	hif
-928836	qal
-928843	qal
-928851	piel
-928854	qal
-928865	qal
-928873	hif
-928881	qal
-928886	nif
-928891	hif
-928900	qal
-928904	qal
+NA
+NA
+NA
+NA
 qal
-928908	qal
-928914	hif
-928925	qal
-928938	hif
-928942	qal
-nif
-928948	hit
-928953	qal
-928958	qal
-928965	qal
-928967	qal
-nif
-928972	qal
-928975	qal
-928979	qal
-928984	piel
-928986	hif
-928996	qal
-929001	hif
-929009	qal
-929011	qal
-929015	qal
-929017	hif
-929020	qal
-929025	qal
-929031	qal
-929039	qal
-929044	qal
-929048	qal
-929054	qal
-929063	hif
-929065	qal
-929073	hif
-929077	pasq
-929079	qal
-929084	po.
-929086	hif
-929096	hif
-929107	hif
-929110	hif
-929112	qal
-929114	qal
-929131	hif
-929133	nif
-929138	nif
-929142	hif
-929147	qal
-929155	hof
-929162	hif
-929168	qal
-929173	qal
-929177	nif
-929183	hif
-929194	qal
-929198	nif
-929209	nif
-929217	qal
-929226	qal
-929232	qal
-929235	qal
-929237	nif
-929249	hit
-929253	qal
-929256	qal
-929260	nif
-929263	hit
-929275	hit
-nif
-929289	nif
-929302	hif
-929305	qal
-929313	hif
-929318	hit
-929325	qal
-929331	qal
-929339	nif
+NA
+NA
+NA
+NA
 piel
-929345	hit
-929353	qal
-929361	hif
-929370	piel
-929377	piel
-nif
-929395	nif
-929401	hit
-929412	qal
+NA
+NA
+NA
 qal
-929426	nif
-929437	hitpo.
-929443	hif
-929445	hif
-929450	qal
-929458	nif
-929463	nif
-929473	qal
-929478	qal
-929487	qal
-929492	hif
-929501	qal
-929508	qal
-929512	qal
-929528	qal
-929534	qal
-nif
-929541	qal
-929546	qal
-929550	qal
-929553	nif
-929559	hif
-929561	hitpo.
-929566	hitpo.
-929571	qal
-929577	qal
-qal
-929587	qal
-929590	hitpo.
-929592	qal
-929599	qal
-929604	qal
-929608	nif
-929614	hif
-929617	qal
-929623	hif
-929628	hif
-929638	qal
-929644	hif
-qal
-929652	qal
-929657	hif
-hif
-929663	hif
-929674	qal
-929680	hif
-929683	hif
-929690	nif
-929693	hif
-929695	hif
-hif
-929701	hif
-929703	nif
-929712	nif
-929716	qal
-929718	hif
-929721	hif
-hif
-hif
-929736	hof
-nif
-929740	qal
-929743	qal
-929751	qal
-929755	hif
-929758	piel
-929766	qal
-929774	hif
-929778	hif
-929782	hitpo.
-929786	nif
-929792	qal
-929799	qal
-929803	nif
-929808	nif
-929811	qal
-929813	qal
-929820	nif
-929824	qal
-929834	qal
-929836	qal
-929842	qal
-929847	qal
-929849	qal
-929854	pual
-929866	piel
-929870	po.
-929877	qal
-929883	hif
-929887	qal
-929892	nif
-929902	qal
-929905	qal
-929916	nif
-929920	nif
-929924	hif
-929934	nif
-929952	qal
-929958	qal
-929962	nif
-929968	qal
-929970	hitpo.
-929972	qal
-929974	piel
-929979	qal
-929982	qal
-929984	hif
-929987	hif
-929993	qal
-929998	nif
-930000	nif
-930005	qal
-qal
-930011	qal
-930017	hif
-930027	hif
-930032	qal
-930044	hif
-930048	qal
-930051	hif
-930056	hif
-hif
-930062	hif
-930070	hif
-930074	hif
-nif
-930084	hif
-930091	piel
-930099	hif
-930115	qal
-930141	nif
-930146	qal
-930150	hif
-930157	qal
-930175	qal
-930179	qal
-930181	nif
-930189	qal
-930193	hof
-930197	qal
-930203	qal
-930213	qal
-930216	nif
-930221	qal
-930227	hitpo.
-930229	qal
-930232	hif
-930239	nif
-930247	piel
-930251	piel
-930263	qal
-930266	qal
-930270	hit
-930290	qal
-930292	nif
-930300	hif
-930304	qal
-930306	qal
-930312	qal
-930315	qal
-930320	qal
-930325	qal
-930330	hof
-930335	qal
-930339	qal
-930343	qal
-930349	qal
-930363	qal
-930367	piel
-930375	qal
-930377	qal
-930394	qal
-qal
-930398	qal
-930404	qal
+NA
 piel
-930411	piel
-930415	nif
-930423	qal
-930426	qal
-930432	hif
-930436	hif
-930443	qal
-930450	qal
-930455	qal
-930459	qal
-930461	qal
-930475	hif
-930481	hif
-930485	hif
-930496	pual
-930499	qal
-930501	piel
-930504	piel
-930513	piel
-930518	hif
-930526	piel
-930530	nif
-930536	hif
+NA
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
 pasq
-930542	qal
-930546	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
 qal
-930561	piel
-930571	nif
-930574	hif
-930586	qal
-930596	nif
-930598	qal
-930601	hif
-930608	nif
-930613	qal
-930615	hif
-930620	piel
-930622	qal
-930630	hif
-930636	qal
-piel
-930647	qal
-930651	piel
-930657	qal
-930662	qal
-930664	qal
-930666	qal
-930673	qal
-930679	nif
-930684	hif
-930688	hif
-930692	hif
-930695	hif
-930704	nif
-930708	qal
-930722	qal
-930727	qal
-930729	qal
-930733	qal
-930738	qal
-930740	qal
-930746	hif
-930751	qal
-930758	nif
-930765	qal
-930769	qal
-930773	qal
-930778	qal
-930789	qal
-930801	po.
-930807	nif
-930818	qal
-930824	hif
-930828	qal
-930835	nif
-930840	qal
-930845	pual
-930858	nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
 nif
-930861	qal
-930883	qal
-piel
-930888	hif
-930898	hif
-930904	qal
-930909	qal
-930912	qal
-930916	hit
-930924	nif
-930933	nif
-930935	qal
-930937	hif
-930948	piel
-930950	hit
-930955	qal
-930963	qal
-930974	hif
-930980	hif
-930988	qal
-930990	piel
-930999	piel
-931003	nif
-931007	po.
-931010	hif
-931012	qal
-931021	hif
-931045	qal
-931050	qal
-931056	qal
-931065	qal
-piel
-931074	hif
-hif
-931094	qal
-931101	hit
-931111	qal
-931119	hif
-931123	qal
-931128	qal
-931135	pual
-931139	hif
-931147	piel
-931149	hif
-931162	qal
-931164	hitpo.
-931171	qal
-931174	qal
-931179	hif
-931183	hitpo.
-931188	qal
-931201	qal
-931207	hif
-hif
-931215	piel
-931221	qal
-931228	qal
-931233	qal
-931235	qal
-931240	nif
-931243	nif
-931247	qal
-931253	qal
-931266	qal
-931275	hitpal.
-931278	qal
-931280	nif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-931284	qal
-931298	pual
-931300	qal
-931306	qal
-931313	hif
-931323	qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 nif
-931326	hif
-931333	qal
-931336	qal
-931340	qal
-931351	hif
-931355	qal
-931362	hof
-931371	qal
-931390	qal
-931395	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 qal
-931404	qal
-931406	qal
-931408	qal
-931419	nif
-931424	piel
-931426	nif
-931430	qal
-931434	qal
-931437	qal
-931443	qal
-931445	hof
-931453	hif
-931457	hif
-931463	hit
-931477	qal
-931484	piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-931489	hif
-931492	qal
-931498	hif
-931501	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-931504	piel
-931514	hif
-931519	hif
-qal
-931526	nif
-931528	hif
-931545	hitpal.
-931549	qal
-931554	hif
-931576	nif
-931582	qal
-931585	hif
-931587	hif
-931595	qal
-931603	hif
-931605	hif
-931613	piel
-931619	hit
-931637	hif
-931641	hif
-931646	qal
-931653	hif
-931658	hif
-931671	nif
-931679	hif
-931681	hif
-931688	piel
-qal
-931692	hif
-931696	qal
-931713	hif
-931717	piel
-931719	hit
-931734	qal
-931737	qal
-931740	hif
-931745	hif
-931749	hif
-931759	hif
-931765	hif
-931771	hif
-931782	nif
-931796	qal
-931800	nif
-931804	hif
-931809	qal
-931812	hit
-931821	hif
-931827	piel
-931838	hif
-931851	nif
-931867	hit
-931872	hif
-931876	hif
-931884	nif
-931886	qal
-931889	qal
-931895	hif
-931915	hif
-931922	hif
-931925	qal
-931958	pual
-931965	qal
-931967	hif
-931973	hif
-931975	hif
-931980	piel
-931982	nif
-931989	qal
-931998	qal
-932007	qal
-932016	qal
-932024	hitpal.
-932029	piel
-932033	hif
-hif
-932040	qal
-pual
-932044	nif
-932048	nif
-qal
-932055	qal
-932068	hit
-932070	qal
-932080	qal
-932084	po.
-932090	qal
-932093	hif
-932095	qal
-932098	hif
-932103	qal
-932109	qal
-932113	qal
-qal
-932116	qal
-932122	qal
-932136	piel
-932139	qal
-932141	qal
-932153	hif
-hif
-hif
-pual
-932158	qal
-932162	qal
-932181	qal
-qal
-932196	qal
-932202	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 piel
-932206	nif
-932216	hif
-932219	qal
-932221	hif
-932233	qal
-932237	hif
-932239	qal
-932251	qal
-932260	nif
-932267	qal
-932271	nif
-932285	qal
-932288	nif
-932295	qal
-932303	qal
-932307	qal
-932311	qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-932315	hif
-932321	hit
-932330	qal
-932333	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
 pasq
-932340	qal
-932343	hif
-932349	piel
-932354	hitpo.
-932360	hitpo.
-932364	nif
-932369	nif
-932374	nif
-932381	qal
-932385	nif
-932392	hif
-932396	nif
-932400	qal
-932407	qal
-932416	qal
-932418	pual
-932424	hif
-932429	nif
-932433	hif
-932439	piel
-932441	qal
-932448	qal
-qal
-932454	qal
-932456	nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
 nif
-932463	qal
-932478	hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
 nif
-932483	hif
-932490	po.
-932504	qal
-932520	qal
-932524	qal
-932548	po.
-932551	nif
-932554	hif
-932561	hitpal.
-932567	hif
-932569	piel
-932573	hitpo.
-932577	hif
-932581	hif
-932583	qal
-932587	qal
-932593	qal
-932595	piel
-932599	qal
-932606	qal
-932611	hif
-932614	qal
-932620	hif
-932624	qal
-932627	qal
-932632	piel
-932636	hitpal.
-932638	nif
-932643	qal
-932656	qal
-932662	qal
-932667	hif
-932672	nif
-932677	qal
-932699	nif
-932704	hif
-932707	qal
-932714	hit
-932726	nif
-932733	qal
-932739	hif
-932743	hif
+NA
+NA
+NA
+NA
 piel
-932771	hif
-932777	hif
-932800	qal
-932807	piel
-932815	qal
-932820	qal
-932825	qal
-932838	hif
-932846	nif
-qal
-932852	piel
-932862	piel
-932873	nif
-932878	pil.
-932883	qal
-932887	qal
-932897	qal
-qal
-932907	pil.
-932911	qal
-932913	hif
-hif
-932920	piel
-932926	piel
-932929	nif
-932935	hit
-932944	hif
-932955	pual
-932966	hif
-hif
-932976	qal
-932979	qal
-qal
-932985	hit
-932990	hit
-932993	hif
-932996	hif
-932999	qal
-qal
-933004	piel
-933007	qal
-933011	hif
-933014	hif
-933021	nif
-933028	qal
-933036	qal
-933040	nif
-933069	qal
-933072	hit
-933080	qal
-933084	qal
-933089	qal
-933092	pasq
-933101	hif
-933104	piel
+NA
+NA
 nif
-933109	qal
-933119	hitpal.
-933134	qal
-933144	hif
-933147	piel
-nif
-933151	hif
-933160	piel
-933163	qal
-933165	hif
-933168	qal
-933180	qal
-933195	hitpo.
-933207	qal
-933213	hif
-hif
-933217	qal
-933221	hit
-933229	qal
-933235	nif
-933246	hif
-933257	piel
-933267	qal
-933273	pil.
-933276	qal
-933281	nif
-933294	qal
-933301	hitpo.
-933313	qal
-933318	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 piel
+NA
+hif
+NA
+NA
 qal
-933323	qal
-933325	qal
-933346	hif
-933349	hif
-933356	hif
-933363	hif
-933368	hif
-933373	qal
-933388	piel
-933394	po.
-933398	piel
-933401	piel
-933411	hitpal.
-933415	qal
-933455	hif
-933463	hif
-933468	piel
-933473	hit
-933484	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 hof
-933495	hif
-933499	qal
-933507	nif
-933512	hit
-933523	hit
-933526	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
 nif
-933530	qal
-qal
-933535	hif
-933537	piel
-933543	hif
-933550	nif
-qal
+NA
+NA
+NA
+NA
 piel
-933555	hif
-933558	qal
-933565	nif
-933571	nif
-933579	nif
-933584	qal
-933590	hitpo.
-933597	qal
-933601	qal
-933608	qal
-qal
-933615	nif
-933627	qal
-933635	hif
-933638	piel
-933651	hif
-933657	qal
-933660	piel
-piel
-933666	pual
-933671	piel
-933675	hif
-933690	hif
-933697	pasq
-933700	qal
-933706	hif
-933710	piel
-933714	pasq
-933732	piel
-933738	piel
-933743	piel
-933749	piel
-933753	qal
-933758	piel
-933760	nif
-933763	pasq
-933768	qal
-933771	qal
-933783	hif
-933787	qal
-933792	qal
-933811	piel
-933815	qal
-933822	hit
-933824	hit
-933845	qal
-933860	qal
-933865	nif
-933897	nif
-933903	qal
-933906	qal
-933913	qal
-933916	qal
-933921	hif
-933929	qal
-933934	qal
-933937	nif
-qal
-933977	qal
+NA
+NA
+NA
 nif
-933982	piel
-933986	qal
-qal
-933992	qal
-933996	hif
-934001	piel
-934005	qal
-934010	qal
-934017	qal
-pual
-934039	qal
-934043	pasq
-934048	hif
-934054	qal
-934059	hit
-934062	hif
-934077	qal
-934079	piel
-934084	hit
-934091	hif
-934096	qal
-934105	qal
-934110	nif
-934113	piel
-934120	piel
-934126	piel
-934129	qal
-934133	hif
-934136	hif
-934139	piel
-934142	qal
-piel
-934147	piel
-934151	hif
-934154	qal
-934161	hitpo.
-934163	pasq
-934165	hif
-934170	hif
-934173	qal
-934177	hif
-934180	qal
-piel
-934184	qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 hof
-934191	nif
-934196	qal
-934199	qal
-934209	hif
-934212	hif
-934217	piel
-934223	nif
-934226	pasq
-hif
-934232	piel
+NA
+NA
 piel
-934251	nif
-934258	nif
-934260	qal
-934272	qal
-934288	nif
-934299	nif
-934304	hit
-934307	qal
-934310	nif
-934315	qal
-934319	qal
-934321	qal
-934327	qal
+NA
+NA
+NA
+NA
+NA
 qal
-934334	qal
-934339	qal
-934360	hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-934373	qal
-934377	qal
-934382	qal
-qal
-qal
-934398	qal
-934405	qal
-934408	qal
-934410	qal
-934413	qal
-934421	pual
-934430	hitpo.
-934435	hif
-934446	nif
-934448	qal
-934457	qal
-934462	hif
-hif
-934487	qal
-934491	hit
-934495	qal
-934497	qal
-934501	hif
-934504	po.
-934507	qal
-piel
-934511	qal
-934516	pual
-934519	qal
-934530	qal
-934535	qal
-934547	qal
-qal
-934552	hif
-qal
-934559	qal
-piel
-934563	nif
-934567	qal
-934573	nif
-934578	pasq
-934583	hif
-934586	qal
-hif
-934595	qal
-hif
-qal
-934601	qal
-934605	qal
-934612	qal
-934618	nif
-934624	qal
-piel
-934630	hif
-934637	hif
-934641	qal
-934646	piel
-934653	hit
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-934658	qal
+NA
+NA
+qal
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
 hif
-934662	qal
-hit
-934667	qal
-934671	qal
-934678	qal
-934683	hif
-934698	qal
-934701	hif
-934708	pasq
-934714	qal
-934720	qal
-934724	hif
-934727	piel
-934730	piel
-934733	piel
-934740	hif
-934744	nif
-934762	piel
-nif
-934765	piel
-934768	piel
-934777	pasq
-934782	qal
-934788	qal
-934801	hif
-934827	qal
-934834	hif
-934840	nif
-934852	qal
+NA
+NA
+NA
 piel
-934855	hif
-934857	piel
-934859	piel
-934863	hit
-934868	nif
-934871	hif
-934878	nif
-934880	nif
-934885	hif
-934898	hif
-hif
-934904	po.
-934917	hif
-934921	qal
-934930	pasq
-934937	qal
-934943	hif
-934947	hif
-934965	qal
-qal
-934969	piel
-934977	hif
-934994	hif
-934997	hif
-935003	hif
-935005	qal
 piel
-935012	piel
+NA
+nif
+NA
+NA
+NA
+NA
 qal
-935018	qal
-935022	hif
-935025	nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-935030	qal
-935037	piel
-935041	qal
-935045	piel
-935048	hif
-935062	hif
-935065	qal
-935069	hif
-hif
-935078	nif
-935084	qal
-935086	qal
-935097	qal
-935102	hif
-935108	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
 piel
-935120	hif
-935128	qal
-935134	qal
-935136	qal
-935138	hif
-935142	hif
-935149	hif
-935158	hif
-935160	piel
-935163	piel
-935167	qal
-piel
-935180	hif
-piel
-935190	qal
-piel
-nif
-935195	hif
-nif
-935201	hif
-935203	qal
-935205	hif
-hif
-935213	qal
-935215	hif
-935222	hif
-935225	qal
-935233	hif
-935242	hit
-935257	piel
-935260	qal
-935268	hif
-935273	piel
-935275	hit
-935279	hif
-935284	hif
-935297	piel
-935305	hit
-935317	qal
-935321	hif
-935336	hit
-935338	nif
-935345	nif
-935355	qal
-935358	qal
-935363	qal
-935372	qal
-935375	qal
-935386	qal
-nif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-935392	qal
-935403	qal
-935410	hif
-qal
-935414	qal
-piel
-qal
-nif
-935420	piel
-935425	piel
-935435	qal
-935443	qal
-935445	qal
-935455	qal
-935461	qal
-935466	qal
-935469	qal
-qal
-935474	piel
-935481	qal
-935492	piel
-qal
-935500	hof
-935502	nif
-935507	qal
-935517	piel
-935520	piel
-935530	nif
-935536	nif
-935543	po.
-935555	qal
-935567	qal
-935572	qal
-935575	qal
-935578	qal
-935586	piel
-935593	piel
-935598	piel
-935604	hif
-935606	qal
-935609	hif
-935616	qal
-935621	hif
-935624	qal
-935626	qal
-935632	qal
-935638	qal
-935646	piel
-935649	qal
-935652	hif
-935657	qal
-935662	qal
-935664	qal
-935666	qal
-935671	hif
-935673	qal
-935676	nif
-935678	qal
-935687	piel
-935690	qal
-935695	piel
-935701	qal
-935705	qal
-935714	pasq
-935717	qal
-935719	qal
-935721	qal
-935724	qal
-935727	qal
-935730	piel
-935742	qal
-935753	qal
-935755	piel
-935757	qal
-935761	piel
-935764	qal
-935766	piel
-935774	nif
-935779	qal
-935781	qal
-935785	qal
-935791	hif
-935800	qal
-935805	piel
-935818	qal
-nif
-935826	qal
-qal
-935837	qal
-qal
-935848	nif
-935855	pual
-935859	qal
-935867	qal
-935870	qal
-935874	pual
-935886	qal
-935898	qal
-935906	qal
-935910	piel
-935919	qal
-935926	hif
-935932	qal
-935935	po.
-935941	piel
-935957	piel
-qal
-935963	qal
-935965	nif
-935968	nif
-935972	qal
-piel
-935977	nif
-935979	nif
-935983	piel
-935986	nif
-935991	nif
-935998	qal
-936002	qal
-qal
-936014	qal
-936016	nif
-936021	hit
-936024	qal
-936027	qal
-936032	piel
-936035	nif
-936041	qal
-936043	nif
-936047	qal
-936053	qal
-936060	qal
-936067	qal
-936073	nif
-936080	qal
-936085	piel
-936093	nif
-936096	qal
-936103	nif
-hif
-936108	qal
-936114	qal
-936120	hit
-936134	hif
-936138	qal
-936140	qal
-936144	qal
-936146	nif
-936156	qal
-936162	qal
-936173	hif
-936175	hif
-936178	qal
-936189	nif
-nif
-936199	qal
-936204	qal
-936209	qal
-936212	qal
-936219	piel
-936227	piel
-936236	qal
-qal
-936246	hif
-936248	qal
-936255	qal
-936259	piel
-936262	piel
-936265	piel
-936272	qal
-936279	qal
-936281	nif
-936288	nif
-936292	qal
-936298	qal
-936331	nif
-hif
-936336	qal
-936340	piel
-936345	pasq
-qal
-936348	hof
-936352	hit
-936371	pasq
-936374	piel
-936379	qal
-936406	qal
-936408	qal
-936412	qal
-936416	piel
-936419	hif
-936426	qal
-936434	qal
-936443	hif
-936449	hif
-936452	qal
-936457	hif
-936462	hif
-936467	qal
-936471	qal
-936479	nif
-936483	qal
-936490	qal
-936493	qal
-936495	nif
-936503	piel
-936517	qal
-936520	hif
-936527	qal
-nif
-936534	nif
-nif
-936541	nif
+NA
 pasq
-936552	pasq
-936563	hif
-936566	nif
-936570	qal
-936576	nif
-936579	nif
-936588	hif
-936606	qal
-piel
-936619	hif
-936621	piel
-936625	qal
-936642	qal
-936650	hof
-936663	nif
-hif
-hif
-936675	hif
-936678	qal
-piel
-936692	qal
-936706	hit
-936715	piel
-936728	piel
-936744	qal
-936752	hif
-hif
-936773	qal
-936785	qal
-qal
-936802	hif
-936810	hit
-936815	hit
-936817	hif
-936821	qal
-936824	qal
-936834	piel
-936839	hif
-936841	qal
-936853	qal
-936866	hif
-qal
-936872	pual
-936878	hit
-936894	qal
-936899	hit
-936902	qal
-936905	qal
+NA
 nif
-piel
-936912	pasq
-936918	qal
-936934	qal
+NA
+NA
+NA
+NA
+NA
 qal
-936955	nif
-936974	pasq
-qal
-936985	piel
-936999	nif
-937001	hif
-937011	qal
-937020	qal
-937036	qal
-937071	pasq
-937104	pual
-937221	qal
-937254	qal
-937314	qal
-937334	qal
-937372	qal
-937389	qal
-937423	qal
-937441	qal
-937453	qal
-937458	qal
-937477	qal
-937480	qal
-937493	qal
-937506	qal
-937520	qal
-937536	qal
-937550	qal
-937562	qal
-937593	qal
-piel
-937599	qal
-937602	qal
-937619	qal
-937629	qal
-937635	qal
-937637	qal
-937653	qal
-937666	qal
-937687	qal
-937689	qal
-937702	qal
-937706	qal
-937730	qal
-937783	qal
-937822	qal
-937872	nif
-937875	qal
-938030	qal
-938034	qal
-938056	hif
-938060	qal
-938065	pual
-938072	hit
-938074	nif
-938077	hit
-938079	piel
-938091	qal
-938099	qal
-938102	nif
-piel
-qal
-938106	nif
-938110	hit
-qal
-qal
-938114	qal
-938117	piel
-938122	qal
-938124	qal
-938129	hif
-938134	nif
-938149	qal
-938157	qal
-938159	qal
-938163	qal
-qal
-qal
-938170	piel
-938175	piel
-938180	qal
-938183	qal
-938186	qal
-938188	qal
-938191	piel
-piel
-938198	qal
-938200	qal
-938204	qal
-938206	hit
-938208	qal
-938215	qal
-938221	piel
-938224	hif
-hif
-938227	hif
-938230	hif
-938233	hif
+NA
+NA
+NA
+NA
+NA
 nif
-938239	pasq
-938242	qal
+NA
+NA
+NA
+NA
 hif
-938245	qal
-938252	qal
-938258	qal
-938261	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-938264	qal
+pasq
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
 qal
-938271	qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-938276	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
 hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
 hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-938292	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 qal
 qal
-938297	hif
+NA
+NA
+NA
 qal
-938305	qal
-938307	qal
-938309	qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
 qal
-938315	qal
-938319	qal
-938326	qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
 po.
-938329	nif
-938331	qal
-938334	po.
-938336	piel
-938338	qal
-938342	piel
-938351	qal
-938355	qal
-938357	qal
-938359	qal
-938363	piel
-938365	qal
-938368	qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
 piel
-938376	hit
-938379	qal
-938381	piel
-938383	qal
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nufʿal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+pil.
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+po.
+NA
+NA
+NA
+qal
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+pual
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+hitpal.
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+hif
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hitpal.
+piel
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+pual
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+pil.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+pasq
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+pasq
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+hif
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hsht
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hsht
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+pual
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+pasq
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hof
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+piel
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+pual
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+pasq
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hitpo.
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hitpo.
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+po.
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+hif
+pual
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hitpal.
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+piel
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+po.
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+nif
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+piel
+qal
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+hof
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+qal
+nif
+piel
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+piel
+qal
+NA
+nif
+NA
+NA
+NA
+hit
+qal
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+hif
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+hit
+NA
+NA
+hif
+hif
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+po.
+NA
+nif
+NA
+qal
+NA
+NA
+po.
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+piel
+NA
+qal
 polal
-938389	qal
-938396	qal
-938400	qal
-938402	hif
-938405	hif
-938409	qal
-938411	qal
-938418	qal
-938423	piel
-938428	qal
-938431	hitpo.
-938433	qal
-938435	qal
-938444	qal
-938451	nif
-938457	nif
-938459	nif
-938462	qal
-938464	qal
-938468	qal
-938474	qal
-938476	qal
-938479	qal
-hif
-938484	hif
-938490	hif
-938503	qal
-938507	piel
-938514	qal
-938528	qal
+NA
+NA
+NA
+NA
 qal
-938531	qal
-938535	qal
-938542	qal
-938544	hif
-938547	qal
-938556	qal
-938563	qal
-938565	piel
-938570	qal
-938577	hif
-938587	qal
-938591	hif
-938603	qal
-938608	qal
-938613	qal
-938617	qal
-938622	qal
-938627	qal
-938632	qal
-938637	qal
-938641	piel
-938644	piel
-938646	piel
-938654	qal
-938658	qal
-938662	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-938669	piel
-938671	qal
-938676	qal
-938682	qal
-938684	qal
-938688	piel
-938691	qal
-938701	qal
-938709	qal
-938712	qal
-938720	hif
-hif
-938725	hof
+NA
+NA
+NA
 qal
-938732	hif
-938738	nif
-938746	nif
-938750	qal
-938756	qal
-938759	hof
-938761	qal
-938766	qal
-938777	hif
-938783	qal
+NA
 hif
-938792	piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 piel
-hif
-938798	qal
-938808	qal
-938817	qal
-938828	qal
-938833	qal
-938837	piel
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+hitpo.
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-938842	qal
-938865	qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
 qal
-938872	qal
+NA
 qal
-938877	piel
-938882	qal
-938888	qal
-938897	qal
-938899	qal
-938905	qal
-938912	hif
-938914	hif
-938925	qal
-938967	qal
-938972	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 qal
-938980	qal
-938986	piel
-938990	nif
-938998	nif
-939004	piel
-939012	nif
-939015	hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
 hof
-939018	qal
-939021	qal
-939023	qal
-939030	piel
-939036	qal
-939043	hif
-939052	qal
-939054	qal
-939056	piel
-nif
-939061	piel
-939064	hof
-939067	piel
 qal
-939071	nif
-939074	piel
-939079	qal
-939082	qal
-939085	qal
-939087	piel
-939091	hif
-939097	qal
-939099	hif
-939103	piel
-939109	hif
-939114	qal
-939118	piel
-nif
-939123	qal
-939126	hif
-939130	hif
-939152	qal
-939154	hif
+NA
+NA
+NA
+NA
+NA
 hif
-939159	qal
-939163	qal
-939168	qal
-939173	piel
-939184	qal
-939195	qal
-qal
-939201	nif
-939203	piel
-piel
-939212	qal
-939214	qal
-939236	qal
-939244	qal
-939249	po.
-939252	qal
-939255	qal
-939264	qal
-939267	qal
-939270	qal
-939277	qal
-939280	qal
-939282	hif
-939294	qal
-939296	qal
-939301	nif
-939309	nif
-939311	pasq
-939321	nif
-939333	qal
+NA
+NA
+NA
+NA
+NA
 nif
-939336	nif
-939339	pasq
-939345	nufʿal
-pual
-939358	nif
-939363	qal
-939373	qal
-939387	hif
-939392	qal
-939398	qal
-939412	qal
-939416	qal
-939423	hif
-939427	hif
-939429	qal
-939434	qal
-939445	qal
-939452	qal
-939468	qal
-939474	hif
-939478	qal
-piel
-939483	hif
-piel
-939486	qal
-939501	hif
-939506	qal
-939509	qal
-939524	hif
-939528	qal
-939534	qal
-939542	qal
-939552	qal
-939561	qal
-piel
-939565	qal
-939571	qal
-939575	hif
-939577	qal
-939580	qal
-939593	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 qal
-939604	hif
-939609	piel
-939611	pasq
-939615	hif
-939625	qal
-939630	qal
-939636	pasq
-pasq
-939645	pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-939649	piel
-939652	qal
-939654	hif
-939664	piel
-939676	qal
-939682	qal
-939686	qal
-939701	qal
-939709	pasq
-939715	qal
-939737	qal
-pasq
-939746	nif
-939749	qal
+piel
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+hof
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+hof
+NA
+NA
+piel
+qal
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 po.
-939753	qal
-939765	nif
-939776	piel
-939786	qal
-939790	piel
-939792	qal
-939795	pasq
-939797	qal
-939799	pasq
-939809	qal
-939811	hif
-939815	qal
+NA
+NA
 qal
-939820	nif
-939826	qal
+NA
+NA
 qal
-939836	qal
-939843	qal
-939845	qal
-939848	hif
-939851	qal
-939861	qal
-939865	qal
-939870	qal
-939873	qal
-939884	qal
-939887	nif
-939901	piel
-939904	qal
-939911	qal
-939920	qal
-939927	qal
-939929	piel
-939933	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-939940	qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
 hif
-939947	qal
-939977	hif
-939982	pasq
-939986	nif
-939995	qal
-939998	qal
-940015	hif
-940021	nif
-940044	pasq
-940047	qal
-piel
-940056	hif
-940061	qal
-940066	qal
-940074	qal
-940079	qal
-940083	pasq
-940088	nif
-940094	pasq
-940096	nif
-940102	hif
-940106	qal
-940113	pasq
-940117	qal
-940122	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
 nif
-940136	qal
-qal
-940142	qal
-940149	qal
-940155	hif
-940159	qal
-940165	hif
-qal
-940168	piel
-940172	qal
-940180	qal
-940182	qal
-940189	hif
-940195	piel
-940199	piel
-940204	piel
-940206	hif
-940211	hif
-940218	qal
-940227	nif
-940232	hif
-940244	hif
-940250	nif
-940257	piel
-940259	qal
-940263	qal
-940280	qal
-940283	hif
-940288	qal
-940290	piel
-940292	hif
-940299	piel
-940310	qal
-940313	qal
-940316	qal
-940320	qal
-940332	qal
-940335	qal
-940338	qal
-940352	qal
-940354	qal
-940372	qal
-qal
-940377	hif
-940383	qal
-940388	piel
-940393	qal
-940395	qal
-940402	puʿlal
-940404	qal
-940410	qal
-940418	qal
-940423	qal
-940440	qal
-940451	piel
-940453	qal
-940457	qal
-940466	qal
-qal
-940472	qal
-940477	piel
-940485	hif
-940499	qal
-940502	qal
-940512	pasq
-940516	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-940524	qal
-940527	hif
-940547	qal
-940549	nif
-940557	nif
-940566	qal
-940571	qal
-940581	hit
-940583	qal
-940594	qal
-940597	piel
-940615	qal
-940621	qal
-940625	qal
-940638	qal
-940647	qal
-940661	qal
-940673	piel
-hif
-940684	hif
-940696	hif
-940705	nif
-940709	qal
-940712	nif
-940714	qal
-qal
-940725	piel
-940730	hif
-940748	hif
-940752	piel
-940754	qal
+NA
 pasq
-940757	qal
-940759	qal
-qal
-940764	qal
-940770	nif
-940778	qal
-940782	qal
-940784	piel
-940790	nif
-940793	qal
-940800	qal
-940802	hif
-940804	nif
-940809	qal
-940812	qal
-940816	piel
-piel
-940819	qal
-940822	qal
-940825	nif
-940829	hif
-940832	hif
-940837	piel
-940842	hif
-940855	nif
-940877	qal
-940884	nif
-940891	qal
-940893	pual
-940900	nif
-qal
-940912	qal
-940919	qal
-940924	nif
-940932	qal
-940952	qal
-940959	qal
-qal
-qal
-940966	qal
-940968	qal
-940970	hif
-940975	qal
-940979	hitpo.
-940983	nif
-940985	hif
-940989	qal
-940995	hif
-941001	qal
-941006	qal
-941012	qal
-941021	hif
-941025	qal
-941029	nif
-941032	hif
-941034	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-941039	qal
-941044	piel
-941046	qal
-941051	hif
-941053	qal
-941056	nif
-941058	qal
-941061	qal
-941066	qal
-941075	hit
-941089	qal
-941092	nif
-941100	qal
-941103	hit
-941112	piel
-941117	nif
-941124	hit
-941128	hit
-941133	qal
-941138	qal
-941140	qal
-941143	qal
-941145	qal
-941156	qal
-941158	piel
-941160	qal
-941169	qal
-941173	qal
-941176	qal
-941179	hif
-941185	qal
-941189	qal
-941194	nif
-941202	piel
-941204	qal
-941215	qal
-941219	qal
-941225	nif
-941244	qal
-941247	qal
-941250	qal
-941269	qal
-941272	qal
-941275	piel
-941281	qal
-941290	qal
-941292	qal
-941295	qal
-941305	qal
-941313	qal
-941322	hif
-941327	qal
-941332	qal
-941335	qal
-941339	piel
-941342	qal
-941344	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-941355	qal
-941363	hit
-941365	pual
 nif
-941373	nif
-941375	nif
-941381	pual
-941384	qal
-941386	qal
-941388	hof
-941396	qal
-941402	qal
-qal
-941406	hif
-941408	qal
-941411	piel
-941416	qal
+NA
 nif
-941420	piel
-941422	qal
-941424	hif
-941439	piel
-941441	hif
-941443	piel
-941450	qal
-qal
-941455	hif
-941459	qal
-941464	qal
-piel
-941468	qal
-941475	qal
-941478	piel
-941480	qal
-941483	nif
-941485	qal
-941492	qal
-941496	qal
-941507	piel
-hif
-941511	qal
-941517	nif
-941521	qal
-941523	nif
-941529	piel
-941531	piel
-941534	hif
-941537	hif
-941541	piel
-941547	qal
-941564	qal
-941571	piel
-941576	qal
-941579	hof
-941588	qal
-941591	qal
-941594	qal
-941598	hif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+nufʿal
 pual
-941601	piel
-941608	qal
-941615	qal
-941617	piel
-941619	qal
-941621	qal
-941625	pasq
-941632	hif
-941636	piel
-941656	pasq
-941659	po.
-941662	qal
-941670	qal
-941690	nif
-941693	qal
-941698	hif
-941709	qal
-941711	qal
-941716	qal
-hif
-941726	qal
-941730	hif
-941736	hif
-941742	hif
-941745	piel
-941750	qal
-941755	hif
-941760	qal
-941766	nif
-941773	hif
-941778	qal
-941781	hif
-941786	hif
-941793	qal
-941799	qal
-941806	qal
-941808	qal
-941816	pasq
-941818	hif
-941822	qal
-941826	qal
-941828	hif
-941830	hif
-941839	qal
-941845	qal
-941849	pasq
-941858	qal
-941866	pasq
-941887	qal
-hit
-941890	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-941907	qal
-941910	hif
-941913	qal
-941920	pasq
-941926	hitpal.
-941928	hit
-941933	qal
-941935	hif
-941938	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
 piel
-941942	qal
-941949	piel
-941954	piel
-941962	qal
-941967	hif
-941970	piel
+NA
+NA
+NA
+hif
+piel
+NA
 qal
-941975	qal
-941997	po.
-941999	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
 pasq
-942018	piel
-942023	qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-942031	piel
-942033	hif
-942036	piel
-942038	qal
-942040	qal
-942045	qal
-942049	qal
-942057	qal
-942065	hif
-942072	qal
-942079	piel
-942084	piel
-942086	qal
-942090	qal
+NA
+NA
+NA
+NA
 qal
-942096	piel
-942101	qal
-942105	qal
-942108	qal
-942121	hif
+NA
+NA
+NA
+NA
+NA
+pasq
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+piel
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+po.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+pasq
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+puʿlal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+pasq
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+hif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+pual
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+qal
+NA
 hof
-942125	qal
-942129	qal
-942135	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-942138	pasq
-942140	qal
-942145	qal
-942150	qal
-942154	qal
-qal
-942165	piel
-942168	qal
-942172	qal
-942180	qal
-942185	hif
-942190	qal
-942192	qal
-942196	qal
-942198	hif
-942205	qal
-942213	piel
-942219	qal
-qal
-942222	qal
-942224	piel
-942226	qal
-942230	piel
-942233	piel
-942236	hif
-942240	qal
-pasq
-942244	qal
-942250	piel
-942254	hif
-942261	pasq
-942264	qal
-942266	qal
-942277	qal
-942279	qal
-942284	qal
-942286	qal
-942289	hif
-942295	qal
-942309	qal
-942330	qal
-942333	nif
-942338	qal
-942345	qal
-942350	qal
-942356	qal
-942358	piel
-942364	nif
-942367	qal
-942376	qal
-942379	piel
-942382	piel
-942390	nif
-942393	qal
-942395	qal
-942408	qal
-942410	qal
-942412	hif
-942420	qal
-nif
-942424	qal
-942427	piel
-942429	qal
-942437	qal
-942439	qal
-942441	qal
-942443	qal
-942450	qal
-942453	qal
-942457	hif
-942459	qal
-942467	hif
-942470	qal
-942472	qal
-942477	nif
-942479	qal
-942481	qal
-942483	qal
-942487	qal
-942494	qal
-942498	qal
-942507	pasq
-942509	qal
-942515	nif
-qal
-942520	qal
-942525	piel
-942532	piel
+NA
+NA
+NA
+NA
+NA
 qal
 qal
-942542	qal
-942548	nif
-942550	qal
-942555	qal
-942557	qal
-942560	hitpo.
-942566	qal
-piel
-942575	pasq
-942577	qal
-942584	piel
-942587	qal
-942589	qal
-942591	qal
-942598	qal
+NA
+NA
 hif
-942605	qal
+NA
 qal
-942608	qal
-942617	qal
-942621	qal
-qal
-942625	qal
-942636	qal
-942645	qal
-942649	qal
+NA
+NA
 piel
+NA
+NA
+NA
+NA
 qal
-942666	pual
+nif
+NA
+NA
+piel
+NA
 qal
-qal
-942674	qal
-942687	hif
-942695	qal
-942713	hif
-942722	nif
-942731	piel
-942734	qal
-942743	pasq
-942750	qal
-hit
-942756	qal
-hit
-942767	qal
-942777	nif
-942783	piel
+NA
 hif
-942788	piel
-nif
-942798	pual
-942813	pasq
-942818	hif
-942822	hif
-942828	qal
-942832	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-942846	piel
-942853	qal
-942857	qal
-942859	qal
-942867	qal
-942873	qal
-942884	qal
-942888	qal
-942894	qal
-942897	qal
-942905	hif
-942907	qal
-942916	qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 qal
 piel
-942925	qal
-942928	pasq
-942933	piel
-942937	qal
-942943	qal
-942946	qal
-942948	qal
-942950	qal
-942953	piel
-942955	piel
-pasq
-942963	piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
 nif
-942968	qal
-942976	piel
-942984	pasq
-942987	qal
-943004	piel
-943010	pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+pual
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+po.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+hif
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+piel
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+pasq
 piel
 pual
-943019	pasq
-943027	qal
-943037	qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 hif
-943043	qal
+NA
+NA
+NA
+NA
+qal
 hif
-943056	qal
-943059	qal
-943061	qal
-943072	qal
-943078	hif
-943084	nif
-943091	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 piel
-943095	hif
-943100	hif
-943111	qal
-943115	qal
-943132	qal
-943140	qal
-943154	nif
-943178	hif
-943191	pual
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
 piel
 piel
-943201	qal
-943203	qal
-943205	hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
 hitpo.
 hitpo.
-943211	qal
-943214	piel
-943216	nif
-943222	pasq
-943247	qal
-943254	qal
+hitpo.
+NA
+NA
+NA
 qal
-943264	qal
-943266	qal
-943280	hif
-943284	qal
-943286	qal
-943293	qal
-943300	qal
-nif
-943313	qal
-943315	polal
-943317	qal
-943329	qal
-943332	qal
-qal
-943339	qal
-943343	hif
-943349	pasq
-943356	qal
-qal
-943380	qal
-943382	pasq
-943386	pasq
-943391	pasq
-943394	pasq
-943404	pual
-943419	piel
-943422	qal
-qal
-943430	qal
+NA
+NA
 piel
-943436	qal
-943440	hif
-943442	nif
-943445	qal
-hif
-943450	pasq
-943457	hif
-hif
+NA
 nif
-943469	qal
-943478	hif
-943486	qal
-943491	qal
-943493	qal
-943495	qal
-943515	qal
-943518	qal
-943521	qal
-943523	qal
-qal
-943529	qal
-943538	qal
-943540	qal
-943545	qal
-qal
-943548	pasq
-943558	pasq
-943604	hif
-943609	hit
-943628	qal
-943634	hif
-943641	qal
-943646	qal
-943649	hif
-943654	qal
-qal
-943662	nif
-943669	qal
-nif
-943673	qal
-943676	hif
-hif
+NA
+NA
+NA
+NA
+NA
 pasq
-943687	hif
-943690	piel
-943695	qal
-943701	hif
-943704	piel
-943706	qal
-943711	qal
-943716	nif
-943719	qal
-943726	qal
-943735	hif
-943739	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-943743	hif
-943749	hif
+NA
+NA
+NA
 qal
-943755	nif
-943757	qal
-943761	hif
+NA
 qal
-943765	qal
-943784	pasq
-943803	piel
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-943806	qal
-943821	hif
-hif
-943834	qal
-943836	qal
-943839	qal
-943851	hif
-943859	qal
-943862	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-943869	qal
-943874	hit
-943878	hif
-943883	hif
-943888	hif
-943890	qal
-943893	hif
-943898	hif
-943901	hif
-943908	qal
-943910	pasq
-943914	qal
-943918	hif
-943922	hif
-hif
-943929	hif
-943935	hif
-943939	qal
-943944	hif
-943951	piel
-943958	hit
-943969	piel
 nif
-943972	hif
-nif
-943976	qal
-943988	qal
-944010	qal
-944018	pil.
-944020	qal
-944028	qal
-944037	qal
-944041	qal
-944045	qal
-944048	qal
-944052	qal
-944059	nif
-944061	piel
-944064	qal
-944076	qal
-944080	hif
-944087	qal
-nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-944094	qal
-944103	qal
-944119	qal
-944123	hif
-944130	qal
-944144	piel
-944156	qal
-944160	qal
-944167	nif
-944172	hit
-944175	qal
-944177	qal
-nif
-944188	qal
-944192	qal
-944195	qal
-qal
-qal
-944199	qal
-944214	qal
-944217	qal
-944224	piel
-944229	hif
-944231	pasq
-944235	qal
-qal
-944245	hif
-944248	qal
-944258	piel
-piel
-944262	qal
-944265	qal
-944273	qal
-944275	qal
-944284	pual
-pual
-944330	pasq
-944340	piel
-944343	qal
-944349	qal
-944352	qal
-944355	qal
-qal
-944363	qal
-944380	qal
-944399	qal
-944427	qal
-944435	pasq
-944444	qal
-944449	qal
-944453	hif
-piel
-944462	hit
-944465	qal
-944468	hit
-944473	qal
-944483	qal
-qal
-944487	qal
-944496	qal
-944499	hif
-944504	nif
-944507	qal
-944510	qal
-944514	qal
-944525	hif
-944527	qal
-qal
-944536	qal
-944542	hif
-944544	qal
-944548	piel
-944552	qal
-944554	qal
-944558	piel
-944561	qal
-944563	piel
-944567	qal
-944572	qal
-944580	nif
-qal
-944584	qal
-944591	qal
-944596	hif
-944598	qal
-944600	qal
-piel
-944603	piel
-944607	qal
-944609	nif
-piel
-944613	qal
-944618	qal
-944630	piel
-hif
-944637	hif
-944644	nif
-944647	hif
-944653	nif
-944657	piel
-944665	qal
-944667	qal
-944673	qal
-944688	qal
-944694	qal
-qal
-944697	piel
-944713	hif
-944717	qal
-944722	qal
-944734	qal
-944742	nif
-944745	qal
-944747	qal
-944752	qal
-944760	nif
-hit
-944763	qal
-qal
-944766	hit
-944771	nif
-qal
-944778	qal
-944783	qal
-944794	piel
-qal
-944812	qal
-944815	qal
-944820	pasq
-944826	qal
-944839	qal
-944848	nif
-944855	piel
-944862	qal
-qal
-944865	qal
-944871	qal
-944892	piel
-944896	hsht
-944903	nif
-944907	qal
-944912	qal
-944918	hif
-qal
-944927	nif
-944932	qal
-944934	qal
-944936	piel
-944949	hif
-944955	piel
-944960	piel
-944967	qal
-944970	piel
-944976	hif
-944986	hif
-944988	qal
-944992	qal
-944994	qal
-945000	qal
-945007	qal
-945011	qal
-945013	qal
-945018	qal
-945025	qal
-945037	nif
-945039	qal
-945047	hsht
-945054	piel
-945056	qal
-945060	hif
-945064	qal
-945070	hif
-945080	hif
-nif
-945084	qal
-945091	qal
-945104	qal
-nif
-945154	qal
-945168	qal
-qal
-qal
-945183	qal
-945191	hif
-945201	qal
-945221	qal
-945232	qal
-945241	pasq
-945244	qal
-945251	qal
-945270	qal
-945287	nif
-945303	nif
-945312	hif
-945320	qal
-945324	nif
-945329	qal
-qal
-945338	nif
-945342	qal
-945349	hif
-945359	hif
-945361	hif
-945373	qal
-945375	hif
-945380	nif
-945384	qal
-945387	nif
-nif
-945396	qal
-945401	hif
-945415	nif
-945417	qal
-945422	qal
-qal
-945428	qal
-945433	hif
-945438	qal
-945451	qal
-qal
-945471	hif
-hif
-945488	qal
-945494	qal
-945518	qal
-945524	qal
-945528	qal
-945533	hif
-945539	pasq
-945542	hif
-945553	hif
-945580	hif
-945592	qal
-945597	qal
-qal
-945600	hif
-945605	qal
-945613	qal
-945623	qal
-qal
-945659	pasq
-945663	piel
-945670	piel
-945680	piel
-945684	qal
-945687	hif
-945690	qal
-945696	qal
-piel
-qal
-945707	qal
-945718	qal
-qal
-hit
-945732	qal
-qal
-945737	qal
-945739	qal
-945752	qal
-945758	qal
-945763	piel
-945768	piel
-945774	qal
-945777	nif
-945780	hif
-945786	qal
-945788	qal
-pasq
-945794	qal
-945800	qal
-945802	qal
-945805	qal
-945807	hif
-945815	qal
-945821	qal
-945841	qal
-945852	qal
-945859	qal
-945864	qal
-945868	qal
-945879	qal
-945881	piel
-945883	qal
-945888	qal
-945893	hif
-945919	nif
-945923	hit
-nif
-945926	qal
-945939	qal
-945947	qal
-qal
-945954	qal
-qal
-qal
-qal
-qal
-945973	piel
-945989	nif
-945994	qal
-945999	qal
-946008	qal
-946022	nif
-946027	qal
-946035	qal
-946037	qal
-946044	qal
-946049	qal
-946052	qal
-946059	hif
-946061	qal
-946065	qal
-946068	nif
-946075	qal
-piel
-946099	nif
-946106	qal
-946110	qal
-946115	qal
-946117	qal
-946127	qal
-946130	qal
-946138	qal
-946140	qal
-946142	qal
-946145	qal
-946149	qal
-946151	hif
-946156	qal
-946164	hif
-946167	hif
-946175	qal
-946182	hif
-946189	qal
-946199	qal
-946204	hif
-946206	nif
-946210	qal
-946213	qal
-946224	qal
-946230	nif
-946240	qal
-946246	qal
-946250	qal
-qal
-946255	qal
-946266	nif
-946273	qal
-946275	hif
-946279	nif
-946282	nif
-946288	qal
-946292	hif
-946297	qal
-946300	qal
-946307	qal
-946309	hif
-946318	qal
-946320	qal
-946325	qal
-946331	qal
-qal
-946338	qal
-946341	qal
-946347	qal
-qal
-946357	qal
-946359	qal
-946361	qal
-nif
-946367	nif
-nif
-946372	qal
-946375	qal
-qal
-946378	piel
-946386	hif
-946401	pasq
-qal
-946415	qal
-946419	hif
-946421	qal
-946425	qal
-qal
-946428	qal
-946447	qal
-946455	qal
-946458	qal
-946463	hif
-946469	qal
-946472	qal
-946477	qal
-946481	nif
-946483	nif
-946487	piel
-946491	hif
-946505	qal
-qal
-qal
-946517	piel
-946527	hif
-946531	qal
-946543	qal
-946546	hif
-946549	qal
-946551	piel
-946563	qal
-qal
-946573	qal
-946583	pasq
-946586	qal
-946590	qal
-946592	hif
-946598	piel
-946601	qal
-946628	nif
-946633	qal
-946640	piel
-946644	qal
-946647	hif
-946654	hif
-nif
-946661	qal
-nif
-946666	nif
-hif
-946672	pasq
-946694	qal
-946705	hif
-946711	qal
-946715	qal
-946719	qal
-946725	qal
-qal
-946742	qal
-946750	qal
-946759	pasq
-hif
-946766	piel
-946816	qal
-qal
-946826	nif
-946833	pual
-946842	qal
-946852	qal
-qal
-946857	piel
-946862	qal
-946867	qal
-qal
-946870	qal
-946875	qal
-946881	qal
-946889	qal
-946894	hif
-946906	qal
-946909	qal
-946916	hif
-946928	nif
-946933	hif
-qal
-946938	hit
-hif
-946946	qal
-946948	qal
-946951	hof
-946954	qal
-946970	piel
-946985	hif
-946992	qal
-946998	qal
-947006	hif
-947039	qal
-qal
-947048	qal
-947057	qal
-947067	qal
-947076	qal
-947080	qal
-947083	hif
-hif
-947086	hif
-hif
-947091	qal
-947100	qal
-947109	qal
-947111	qal
-947115	qal
-947119	qal
-947121	qal
-947143	piel
-947147	qal
-947154	piel
-947158	qal
-947170	hof
-947185	qal
-947198	qal
-947203	qal
-947206	qal
-947208	qal
-947215	nif
-947228	qal
-947253	nif
-947261	nif
-947263	qal
-947285	qal
-947311	qal
-947323	qal
-947336	qal
-qal
-947339	qal
-947350	nif
-947354	qal
-947360	nif
-947364	qal
-947380	piel
-947384	qal
-947386	qal
-947390	qal
-947393	qal
-947397	qal
-947403	hif
-947405	piel
-947407	qal
-947435	qal
-947437	qal
-947451	qal
-qal
-947454	qal
-947457	hif
-947463	qal
-947488	qal
-947497	qal
-947528	qal
-947533	qal
-947540	qal
-pasq
-947545	qal
-947550	piel
-947557	piel
-947566	qal
-947568	qal
-947571	qal
-947579	qal
-947585	qal
-947594	qal
-947600	qal
-947611	qal
-qal
-947614	qal
-947619	pasq
-947632	hof
-947636	nif
-947638	nif
-947646	qal
-947657	qal
-947664	qal
-947670	hif
-947674	piel
-947680	qal
-947700	qal
-947704	hif
-qal
-947709	piel
-947711	qal
-947714	hif
-947716	qal
-947721	qal
-947724	qal
-947726	qal
-947732	qal
-947736	nif
-qal
-947742	po.
-947752	qal
-947762	nif
-947770	qal
-947778	qal
-qal
-947785	hif
-947789	qal
-947801	nif
-947812	qal
-947819	hif
-947826	qal
-947835	qal
-947837	qal
-qal
-947847	hif
-947849	nif
-947852	qal
-947855	pual
+NA
 polal
-po.
-po.
-po.
-po.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pual
-947866	qal
-947874	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 qal
-947877	qal
-947881	qal
-947891	qal
-947895	qal
-947903	qal
-947909	qal
 qal
-947914	hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-947922	nif
-947925	qal
-947928	pual
-polal
-po.
-po.
-po.
-po.
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+hif
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+pasq
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pual
-947951	qal
-947960	qal
-qal
-947963	qal
-947965	hif
-947971	qal
-qal
-947974	qal
-947984	piel
-947990	qal
-947992	qal
-947994	qal
-948003	qal
-948015	qal
-948021	hit
-948027	piel
-948039	qal
-948046	qal
-948065	qal
-948084	pasq
-948094	piel
-948099	qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-948107	nif
-948118	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 qal
-948127	piel
-948140	nif
-948146	qal
-948153	nif
-948164	qal
-948177	piel
-948180	hit
-948186	qal
-948191	piel
-948201	hif
-948204	nif
-948206	qal
-948214	qal
-948220	nif
-948234	hit
-948248	nif
-948258	piel
-948261	pasq
-948270	hit
-948274	piel
-948279	qal
-948291	piel
-948295	piel
-948302	qal
-948304	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-948310	qal
-948316	qal
-pasq
-948326	pasq
-948330	qal
-948335	qal
-948337	piel
-948341	hit
-948349	qal
-948355	hif
-948363	hit
-948365	hit
-948370	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-948377	hit
-948380	qal
+NA
+NA
+qal
+NA
+NA
 hit
-948386	qal
-948391	hif
-948396	hif
-948405	piel
-948411	hif
+NA
+NA
+NA
+NA
 qal
-948420	qal
-948457	hit
-948460	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
 hif
-948467	hif
-948471	piel
-948474	nif
-948481	qal
-948489	hif
-948503	qal
-948512	hif
-qal
-948518	qal
-948523	qal
-948527	piel
-948535	hit
-948546	nif
-948552	qal
-948556	hif
-948569	nif
-948578	qal
-948603	qal
-948611	piel
-948614	hif
-948639	hit
-948641	hif
-948646	qal
-948651	piel
-948653	qal
-948659	hit
-948661	qal
-948668	nif
-948684	nif
-948694	qal
-qal
-948706	hif
-948713	piel
-948717	hif
-948735	hif
-948742	hit
-948747	nif
-948751	nif
-948759	qal
-948761	piel
-948764	nif
-948772	qal
-948774	qal
-948778	qal
-948794	hif
-948810	nif
+NA
+NA
+NA
+NA
 nif
-948813	nif
-948819	piel
-948831	hif
-948843	qal
-948851	qal
-948856	qal
-948863	nif
-948868	qal
-948870	qal
-948875	nif
-948885	nif
-948898	piel
-948928	nif
-948937	qal
-948940	qal
-948948	qal
-948952	hit
-948957	hif
-948960	hit
-948969	hif
-948978	hif
-948982	hitpo.
-948988	piel
-948996	hif
-949003	qal
-949009	hif
-949018	piel
-949022	nif
-949026	qal
-949032	hif
-949034	nif
-949036	qal
-949043	hif
-949059	qal
-949065	qal
-949071	qal
-949075	qal
-949077	piel
-949086	nif
-949088	qal
-949098	nif
-949106	hif
-949110	hit
-949127	nif
-949139	piel
-949142	pasq
-949146	nif
-949161	qal
-949163	pasq
-949166	piel
-949187	hif
-949192	piel
-949198	nif
-949201	hif
-949208	nif
-949213	piel
+NA
+NA
 qal
-949216	pasq
-949220	nif
-949230	nif
-949235	hif
-949237	qal
-949244	qal
-949251	qal
-949268	pasq
-949272	nif
-949274	hit
-949283	nif
-949301	hif
-949312	hif
-949324	hif
-949337	nif
-949343	nif
-nif
-949347	qal
-949349	piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-949354	nif
-949357	qal
-949363	nif
-949369	qal
-949378	pasq
-949381	piel
-949390	piel
-949404	qal
-949409	nif
-nif
-949418	piel
-949427	hif
-949438	qal
-949443	piel
-949448	nif
-949454	hif
-949457	nif
-949476	nif
-949479	nif
-949484	qal
-949486	hit
-949488	hif
-949495	qal
-949498	qal
-949510	po.
-949522	nif
-949524	piel
-949530	hif
-949545	piel
-949561	nif
-949565	qal
+NA
 qal
 qal
-949570	piel
-949574	qal
-949581	qal
-949586	nif
-949599	nif
-949605	nif
-949609	qal
-949615	piel
-949617	qal
-949620	hit
-949622	qal
-949626	qal
-949643	qal
-949645	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-949654	qal
-949661	nif
-949668	qal
-pasq
-949684	piel
-949690	qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+piel
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+nif
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
 hit
-949699	qal
-949705	qal
-949713	qal
-949722	po.
-949731	hif
-949738	hit
-949740	nif
-949751	qal
-949755	qal
-949766	hif
-949769	hif
-949776	hif
-949781	nif
-949784	hif
-949790	nif
-949798	pasq
-949810	qal
-949821	qal
-949826	qal
-949828	piel
-949831	qal
-949849	piel
-949851	qal
-949854	qal
-949865	nif
-949868	pasq
-pasq
-949875	qal
-hif
-949879	qal
-949881	qal
-949885	qal
-949901	nif
-949905	pasq
-949909	hif
-949919	piel
-949924	nif
-949930	qal
-949935	nif
-949939	qal
-949941	hif
-949945	nif
-949947	qal
-949956	qal
-949958	nif
-949964	qal
-949972	nif
-949977	nif
-949986	qal
-949992	qal
-950003	pasq
-950012	hit
-950024	hif
-950035	hif
-950039	qal
-950051	qal
-950055	qal
-950060	hif
-950065	qal
-950074	hif
-950080	piel
-950089	qal
-950097	qal
-950099	qal
-950106	nif
-950114	piel
-950119	qal
-950129	hof
-950135	qal
-950140	hof
-950153	qal
-950159	qal
-950161	qal
-950166	qal
-950168	qal
+NA
 qal
-950175	qal
-950177	qal
-950182	nif
-950192	hif
-950195	hif
-950199	qal
-950201	hif
-950204	nif
-piel
-950212	qal
-950214	piel
-950230	hif
-950234	hif
-950239	piel
-950244	qal
-950247	hif
-950252	hit
-950255	hit
-950259	pasq
-950265	qal
-950267	qal
-950271	qal
-950277	qal
-950279	qal
-950283	qal
-950285	qal
-950288	qal
-950292	piel
-hif
-950301	qal
-950304	qal
-950311	qal
-950318	qal
 qal
-950326	qal
-950332	qal
-950339	hif
-950344	hif
-950355	hif
-950361	hif
-950366	hif
-950369	qal
-950374	hif
-950380	qal
-950384	qal
-950387	qal
-950395	hif
-950400	qal
-950407	qal
-piel
-950416	piel
-qal
-950420	nif
-950428	qal
-950430	qal
-950432	nif
-950434	qal
-950453	qal
-950458	qal
-950468	nif
-qal
-hif
-950480	nif
-950486	hif
-950488	qal
-950491	po.
-950499	qal
-950506	hof
-950513	qal
-950516	qal
-hif
-950521	qal
-950523	nif
-950529	nif
-950538	qal
-piel
-950541	hif
-950550	qal
-950555	qal
-950563	qal
-piel
-950566	nif
-hif
-950572	qal
-950577	hif
-950579	qal
-950585	qal
-950594	qal
-950598	qal
-950600	qal
-950602	qal
-950611	piel
-piel
-950614	nif
-pasq
-950622	nif
-950626	nif
+NA
+hit
+NA
+NA
+NA
+NA
 nif
-950631	qal
-950637	qal
-950655	hif
-950660	hit
-950672	hif
-950674	piel
-950677	qal
-950689	nif
-950693	piel
-950697	qal
-950706	qal
-950715	qal
-950717	qal
-950719	hif
-950727	qal
-950731	hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+hit
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
 hof
-950742	qal
-950754	qal
-950756	qal
-950781	qal
-950789	qal
-950794	qal
-950801	nif
-950805	hif
-950816	qal
-950825	qal
-950829	qal
-950837	qal
-950841	qal
+NA
+NA
 qal
-950846	qal
-950848	piel
-950851	piel
-950859	piel
-950863	qal
-950867	qal
-950872	qal
-qal
-950876	nif
-950880	qal
-950891	nif
-950895	qal
-950898	nif
-950903	qal
-950905	qal
-950916	hif
-950919	qal
-950935	nif
-950939	piel
-950941	qal
-950946	qal
-950953	qal
-950963	qal
-950967	qal
-950971	qal
-950980	qal
-950991	hif
-950993	qal
-950997	hif
-951000	hif
-951023	qal
-951047	qal
-951050	qal
-qal
-951057	qal
-qal
-951064	hif
-951070	qal
-951073	qal
-951080	hif
-951085	qal
-951089	qal
-951105	qal
-951109	qal
-951111	qal
-951117	hit
-951120	qal
-951124	qal
-951128	nif
-951136	qal
-951138	hif
-951142	piel
-951146	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-951155	nif
-951158	qal
-951161	pual
-951163	qal
-951168	qal
-951174	qal
-951198	pasq
-951202	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-951205	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-951214	qal
-951219	pasq
-951231	polal
-951248	hit
-951253	qal
-951259	qal
-951261	hif
-951280	nif
-qal
-hit
-951287	hif
-951289	hit
-951292	qal
-951298	qal
-951305	hif
-951308	piel
-951320	qal
-951346	qal
-951351	piel
-951358	hif
-951362	nif
-951365	qal
-qal
-951368	pasq
-piel
-951374	qal
-951379	pual
-951383	nif
-951389	qal
-951396	nif
-951405	qal
-951423	nif
-951431	qal
-951443	hof
-951447	nif
-951450	piel
-951462	nif
-951471	hif
-qal
-951475	nif
-951483	piel
-951489	hof
-951491	hif
-951500	nif
-951503	qal
-951507	nif
-951513	qal
-951515	nif
-qal
-951520	piel
-951527	qal
-951534	qal
-951538	hif
-951547	pasq
-qal
-951555	hif
-951563	pasq
-951565	qal
-951576	pasq
-qal
-951584	qal
-951592	nif
-951597	nif
-951603	qal
-951614	hit
-951616	piel
-951619	hof
-951623	qal
-951625	qal
-pasq
-951640	qal
-951643	qal
-951652	hif
-951663	qal
-951666	qal
-951673	qal
-951676	qal
-951679	hif
-951683	qal
-qal
-951693	qal
-951695	qal
-951698	hif
-951700	qal
-hit
-951705	qal
-951710	qal
-951713	hit
-951716	qal
-951719	nif
-951727	nif
-951732	piel
-951734	qal
-951737	hif
-951757	qal
-951759	qal
-951762	qal
-951764	hif
-951768	pasq
-pasq
-qal
-pasq
-951775	hit
-951792	qal
-hit
-951795	qal
-951818	nif
-951821	hif
-951824	hif
-951829	piel
-951844	nif
-951847	hif
-951854	qal
-951859	hif
-951862	nif
-951868	hif
-951870	qal
-951874	qal
-951877	qal
-951879	qal
-951882	po.
-951887	qal
-951889	qal
-951894	qal
-951911	qal
-951914	qal
-951917	qal
-qal
-951920	hif
-951925	hit
-951927	qal
-951941	qal
-951944	qal
-951957	qal
-951961	qal
-951968	piel
-951970	hif
-951974	nif
-951977	pasq
-951979	qal
-952004	qal
-qal
-952011	hif
-952020	qal
-952027	hif
-952036	hif
-952046	qal
-qal
-952076	hit
-952080	qal
-952083	qal
-952087	hit
-952092	nif
-952098	qal
-952101	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-952105	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-952129	qal
-952133	nif
-952146	polal
-952158	qal
-952162	hif
-952167	qal
-952169	qal
-952174	piel
-952177	hif
-952182	qal
-952189	piel
-952192	piel
-952197	qal
-952202	hif
-952205	qal
-952209	qal
-952213	piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-952217	nif
-952220	qal
-952222	qal
-952224	qal
-952227	nif
-952230	qal
-952234	qal
-952237	qal
-952240	qal
-952246	qal
-952249	piel
-952254	qal
-952261	qal
-952263	hif
-952274	qal
+NA
+NA
+NA
 qal
-952277	hif
-952289	piel
-952293	nif
-952298	qal
-952302	hif
-952312	qal
-952316	hif
-952319	nif
-952324	qal
-952327	hif
-952332	nif
-952335	qal
-952342	nif
+NA
 qal
-952354	qal
-952358	qal
-952364	qal
-952367	hif
-952370	qal
-952374	qal
-952396	qal
-952402	hif
-952413	hof
-952425	hif
-952430	qal
-952447	qal
-952449	nif
-952454	qal
-952457	piel
-952459	qal
-952462	qal
-952475	nif
-952480	qal
-952486	qal
-952505	nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 hif
-952510	hit
-952513	qal
-952516	qal
-952529	piel
-952536	qal
-952539	qal
-952547	qal
+NA
 piel
-952550	hif
-952564	pasq
-952570	pasq
-952574	hif
-952582	piel
-952587	pual
-952595	piel
+NA
 qal
-952603	piel
-952615	qal
-952622	hif
-952628	qal
-952631	qal
-952635	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
 hif
-952639	qal
-952642	qal
-952650	qal
-952656	hif
-952665	hif
-952682	qal
-952701	pasq
-952713	qal
-952725	qal
-952731	nif
-952760	hif
-952764	hif
-952768	hif
-952771	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 pasq
+NA
+NA
+NA
 qal
-952777	qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-952782	qal
-952786	qal
-952794	pasq
-952802	qal
-952809	hof
-952813	hif
-952818	qal
-952820	qal
-952824	qal
-952830	nif
-hit
-952837	qal
-952841	qal
-952853	qal
-952858	qal
-952863	piel
+NA
 qal
-952873	hif
-952875	qal
-952882	qal
-952884	hif
-952894	piel
-952896	hif
+NA
+NA
 qal
-952900	qal
-952905	qal
-952910	hif
-952918	qal
-952921	piel
-952924	hif
-hif
-952928	nif
-952933	nif
-952937	nif
-952944	hif
-952946	qal
-952949	qal
-952951	nif
-952955	qal
-952963	qal
-952967	pasq
-952981	polal
-952995	hit
-953002	qal
-953007	qal
-953009	qal
-953017	qal
-953023	hif
-953027	hit
-953034	piel
-953050	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-953053	hif
-953057	hif
-953061	qal
-953064	qal
-953068	qal
-hif
-953084	qal
-953100	hif
-953118	qal
-953127	qal
-953132	nif
-953135	qal
-953138	qal
-953140	nif
-953143	qal
-953145	qal
-953149	qal
-953155	hif
-953159	qal
-953163	qal
-953165	qal
-953173	qal
-953176	qal
-953184	qal
-953188	nif
-953202	hit
-953206	hit
+NA
+NA
+NA
+NA
+NA
 qal
-953209	hif
-953212	hof
-953215	piel
-953222	qal
-953229	qal
-953234	qal
-953243	qal
-953249	pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-953258	nif
-953263	nif
-953268	piel
-953281	qal
-953285	qal
-953289	pasq
-953296	nif
-953298	qal
-953306	hif
-953310	hif
-953324	nif
-953327	hif
-953333	qal
-953339	qal
-953344	piel
-953350	qal
-953353	nif
-953374	qal
-953377	hif
-953389	hit
-953393	hof
-953405	pual
-953409	qal
-953412	qal
-953414	pasq
-953417	hif
-953420	hif
-953422	hif
-953425	qal
-953433	hif
-953441	qal
-953443	qal
-953446	qal
-953449	qal
-953460	piel
-953464	hif
-953468	hif
-953475	qal
-953479	hof
-953493	hif
-953497	qal
-953499	qal
-953505	qal
-953510	nif
-953513	hit
-953524	qal
-953528	nif
-953530	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
 pasq
-953539	qal
-953542	qal
-953544	qal
-953547	hif
-953552	qal
-953561	qal
-953569	qal
-953575	pulpal
-953582	pual
-953587	hif
-953591	qal
-953599	hif
-953604	nif
-953610	hif
-953619	hif
-953623	hif
-953628	hif
-953633	hif
-953636	qal
-953639	hif
-953646	qal
-953650	qal
-953658	qal
-953663	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+qal
+NA
+NA
 pual
-953675	qal
-953684	hif
-953688	qal
-953690	hif
-953703	qal
-953707	qal
-953709	pasq
-953712	qal
-953715	qal
-953718	qal
-953722	qal
-953732	qal
-953735	qal
-953739	hif
-953747	piel
-953754	qal
-953760	qal
-953781	qal
-953784	hif
-953794	pasq
-953805	hif
-pasq
-953817	qal
-953822	hif
-hit
-hit
-953827	hif
-953830	qal
-953836	piel
-953841	qal
-953847	piel
+polal
+po.
+po.
+po.
+po.
+pual
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+pual
+polal
+po.
+po.
+po.
+po.
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-953852	nif
-953856	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+pasq
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+piel
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+pasq
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
 nif
 hif
-953860	piel
-953869	hif
-953872	qal
-953874	qal
-953878	qal
-953882	piel
-953884	qal
-953887	hif
-953897	qal
-953907	qal
-953909	qal
-953920	qal
-953922	qal
-953925	qal
-953928	qal
-953935	qal
+NA
+NA
+NA
+NA
 qal
-953945	qal
-953951	nif
-953954	qal
-953966	piel
-953970	qal
-953976	nif
-953981	qal
-953991	piel
-953993	qal
-953997	qal
-954001	qal
-954009	qal
-954011	qal
-954024	qal
-954027	qal
-954043	qal
-954049	qal
-954059	qal
-954062	qal
-954064	piel
-954068	qal
-954074	piel
-954082	qal
-954084	hif
+NA
+NA
+NA
+NA
 hif
-954087	hif
-954092	qal
-954096	qal
-954101	qal
-954124	qal
-954134	qal
-954138	piel
-954142	qal
-954146	qal
-954149	qal
-954152	qal
-954155	qal
-954161	qal
-954163	qal
-954169	qal
-954171	qal
-954173	qal
-954177	qal
-954181	qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-954185	qal
-954188	qal
-954194	hit
-954202	piel
-954211	qal
-954215	qal
-954221	qal
-954228	qal
-954235	qal
-954246	qal
-954250	qal
-954254	piel
-qal
-954267	qal
-954270	hit
-954274	qal
-954276	piel
-954279	qal
-954283	hif
-954288	qal
-954290	piel
-954292	qal
-qal
-954300	hif
-954305	qal
-954310	qal
-954312	qal
-954321	qal
-954323	qal
-954325	qal
-954329	qal
-954334	qal
-qal
-954342	qal
-954346	hif
-954349	qal
-954353	qal
-954357	hif
-954362	qal
-954370	qal
-954378	piel
-954383	piel
-954385	qal
-954399	qal
-954404	qal
-954415	qal
-954421	qal
-954427	nif
 piel
-954431	qal
-qal
-954437	qal
-954439	qal
-954462	qal
-954470	qal
-954482	qal
-954487	qal
-954499	qal
-954501	qal
-qal
-qal
-954510	qal
-954512	qal
-954519	qal
-954522	hit
-954526	qal
-954535	qal
-954537	qal
-954541	hif
-954550	qal
-954556	pasq
-954562	qal
-954569	qal
-954580	hif
-954591	hif
-954595	qal
-954600	hif
-954604	qal
-954607	qal
-954618	piel
-954627	piel
-954634	qal
-954638	qal
-954643	qal
-954657	piel
-954664	hif
-954668	piel
-954672	qal
-954677	qal
-hit
-954684	qal
-954691	piel
-954694	qal
-hit
-954702	qal
-954705	pasq
-954710	qal
-954712	qal
-954719	qal
-954721	qal
-954724	qal
-954730	nif
-954734	qal
-954739	qal
-954742	qal
-954746	qal
-954757	qal
-954767	pasq
-954771	hif
-954773	qal
-954782	qal
-954793	hif
-954800	pasq
-954811	qal
-954814	qal
-954820	qal
-954826	qal
-954832	pasq
-954838	pasq
-qal
-954841	hif
-954846	qal
-954856	qal
-954858	qal
-hif
-954866	qal
-954869	piel
-954874	hif
-954876	qal
-954878	qal
-qal
-954882	qal
-954893	qal
-954914	qal
-954927	qal
-954932	qal
-954935	qal
-954952	hit
-954958	qal
-954965	qal
-piel
-954970	qal
-954973	qal
-954982	pasq
-954994	qal
-955000	qal
-955002	qal
+NA
+nif
 pasq
-955005	qal
-955027	qal
-955030	qal
-955034	hif
-955039	piel
-955046	qal
-955048	qal
-955063	qal
-955066	pual
-955069	qal
-955072	hof
-955080	piel
-955085	piel
-955088	piel
-955090	qal
-955094	qal
-955096	qal
-955102	qal
-955106	hif
-955128	hif
-955131	qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+nif
+nif
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+pasq
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+pasq
+pasq
+qal
+pasq
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+pasq
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+hif
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+qal
+NA
+hif
+NA
+NA
+hof
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pulpal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hit
+hit
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
 qal
 qal
 nif
-955141	qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 pasq
-955153	qal
-955161	qal
-955164	nif
-955167	qal
-955173	hif
-955177	qal
-955184	pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
 nufʿal
 qal
-955188	qal
-955197	hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-955210	pual
-955213	pual
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+pual
 polal
-955216	piel
-955222	pasq
-955232	po.
-955236	piel
-955255	qal
-955260	qal
-955262	qal
-955266	qal
-955269	hif
-955273	qal
-955282	hsht
-955339	nif
-955436	piel
-955468	qal
-955546	qal
-955551	piel
-955560	qal
-955569	nif
-nif
-955580	qal
-955583	piel
-955586	piel
-955596	hif
-955598	piel
-955603	qal
-955611	qal
-955620	qal
-955622	qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
 pasq
-955629	pasq
-955635	pasq
-955643	pasq
-955660	pasq
-955664	pasq
-955673	qal
-955689	pasq
-955705	qal
-955710	hif
-955721	qal
-955723	qal
-955740	hif
-955742	piel
-955759	qal
-955761	piel
-piel
-955766	hif
-955770	nif
-955808	piel
-955817	piel
-955824	piel
-955830	qal
-955840	qal
-955846	piel
-955853	hif
-955861	qal
-955867	nif
-955877	qal
-pasq
-955904	qal
-955927	hif
-955952	hif
-955956	qal
-955967	piel
-hif
-hif
-955974	qal
-955977	pasq
-955988	hif
-955990	piel
-955996	hit
-956023	nif
-956034	qal
-956038	qal
-956042	piel
-956047	hif
-956052	qal
-956054	hif
-956058	piel
-956060	qal
-956068	qal
-qal
-956080	qal
-956090	qal
-956095	qal
-956099	qal
-956101	hit
-956112	qal
-956121	hif
-956123	qal
-qal
-956128	hif
-956131	qal
-956133	hif
-qal
-qal
-hif
-956141	qal
-956143	qal
-956145	hif
-956148	hif
-956154	piel
-956157	hif
-956164	hif
-956166	qal
-956168	qal
-956170	qal
-956180	qal
-956187	qal
-nif
-nif
-qal
-956197	piel
-hif
-qal
-qal
-nif
-956206	qal
-nif
-nif
-956217	hit
-qal
-nif
-956235	nif
-956240	qal
-956246	qal
-hif
-956250	qal
-nif
-956266	hif
-956282	qal
-956287	qal
-956289	hif
-956304	qal
-956307	nif
-956314	qal
-956330	qal
-956345	qal
-956353	hif
-qal
-956357	qal
-956360	qal
-956366	hif
-956377	qal
-nif
-956383	piel
-956391	piel
-956404	piel
-piel
-nif
-956409	qal
-956423	qal
-956441	qal
-956444	qal
-956456	nif
-956460	qal
-qal
-956464	qal
-qal
-hif
-956472	hif
-956480	qal
-956482	qal
-956487	qal
-956489	qal
-956491	hif
-956494	hitpo.
-956498	qal
-956501	qal
-qal
-956504	qal
-956512	qal
-piel
-956516	qal
-956518	qal
-956522	qal
-956530	qal
-hif
-956544	qal
-956548	nif
-956552	qal
-956560	piel
-qal
-956568	qal
-956571	qal
-956573	qal
-956582	piel
-956595	hif
-956600	qal
-956606	qal
-hif
-956614	qal
-956621	hif
-956648	qal
-qal
-956651	piel
-956654	pasq
-qal
-qal
-956659	pasq
-956669	hif
-hif
-956680	hif
-956683	qal
-956686	nif
-956691	nif
-956694	nif
-956709	qal
-956724	qal
-956735	hif
-hif
-956739	pasq
-956741	qal
-956744	pasq
-qal
-956748	qal
-956751	qal
-956760	piel
-956762	hif
-hif
-956770	qal
-956774	qal
-956776	qal
-956778	qal
-956788	qal
-956790	qal
-956799	hif
-956807	qal
-956817	qal
-956825	qal
-956833	piel
-956836	qal
-956844	qal
-956851	qal
-956883	qal
-956892	piel
-956894	qal
-956897	hif
-956901	nif
-956904	qal
-956906	hif
-956910	pasq
-956919	hif
-956927	hif
-956931	hif
-956937	qal
-956939	nif
-956942	qal
-956946	nif
-956949	qal
-qal
-956957	qal
-956962	qal
-956966	pasq
-956969	qal
-956976	qal
-956984	qal
-956990	qal
-956993	nif
-957004	hit
-957007	qal
-nif
-nif
-957013	nif
-957021	qal
-957033	qal
-957044	qal
-957046	qal
-957063	qal
-957067	qal
-957076	qal
-957082	hif
-957099	qal
-957110	hif
-957115	piel
-qal
-957123	qal
-957127	qal
-qal
-957144	nif
-957148	qal
-957153	qal
-957167	qal
-957172	qal
-957181	qal
-957184	qal
-957193	qal
-957197	piel
-957199	nif
-957216	nif
-nif
-957222	nif
-957229	hif
-957231	nif
-957239	nif
-957244	nif
-957250	qal
-957254	qal
-957259	qal
-957268	nif
-957278	nif
-957287	qal
-957302	hif
-957310	qal
-957322	piel
-hif
-957329	qal
-957335	qal
-957341	qal
-957343	qal
-957363	qal
-957367	qal
-957371	piel
-957373	nif
-957383	qal
-957392	qal
-957396	nif
-957400	hif
-957418	piel
-957423	hit
-957429	hif
-957455	qal
-pasq
-957462	qal
-957475	qal
-957478	qal
-957483	qal
-957485	qal
-957488	qal
-957491	qal
-957507	qal
-957510	hif
-957516	qal
-957522	piel
-957531	qal
-957533	piel
-957537	qal
-957543	qal
-957545	qal
-957554	hit
-957561	qal
-957576	qal
-957579	qal
-957582	qal
-957585	qal
-957588	qal
-957591	qal
-957597	qal
-957603	nif
-957607	nif
-qal
-957620	nif
-957629	nif
-957634	qal
-957641	nif
-qal
-957647	nif
-957651	qal
-957656	nif
-957672	hif
-957674	nif
-qal
-957685	nif
-957688	nif
-957693	qal
-957695	nif
-957698	qal
-qal
-957709	qal
-957711	piel
-957714	hif
-957716	nif
-957721	nif
-957726	qal
-nif
-957731	qal
-957734	nif
-957738	qal
-957741	nif
-957745	qal
-957748	nif
-nif
-957752	nif
-957754	nif
-957757	nif
-nif
-957761	qal
-957768	qal
-957773	qal
-957776	qal
-957782	nif
-957787	nif
-957790	qal
-957793	qal
-957796	nif
-qal
-957800	nif
-957803	qal
-957808	qal
-957811	qal
-nif
-nif
-nif
-957817	nif
-nif
-nif
-nif
-nif
-qal
-qal
-nif
-qal
-957828	qal
-957833	nif
-957838	qal
-957840	nif
-957844	qal
-957848	nif
-957851	nif
-957854	nif
-957859	nif
-nif
-957862	nif
-957864	nif
-nif
-957872	qal
-957877	qal
-957880	qal
-957883	qal
-957899	nif
-957903	nif
-957905	nif
-957907	qal
-957910	piel
-piel
-nif
-nif
-qal
-957921	qal
-957924	qal
-957926	nif
-957929	qal
-nif
-nif
-957935	piel
-957938	qal
-958235	hif
-958239	hif
-958392	hif
-958423	hif
-958456	hif
-958472	hif
-958502	hif
-958534	hif
-958810	hif
-958846	hif
-958889	hif
-959082	qal
-959212	hif
-959220	hif
-959225	qal
-959237	qal
-959241	qal
-959248	qal
-959251	qal
-959314	hif
-hif
-959319	polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 po.
-959326	piel
-959340	qal
-959384	qal
-959438	qal
-959447	qal
-959455	qal
-959467	hif
-959480	qal
-959484	qal
-qal
-959490	piel
-959498	qal
-959500	qal
-959506	qal
-959508	qal
-qal
-959512	qal
-959517	qal
-959522	pasq
-959532	qal
-959540	qal
-959544	pasq
-959548	qal
-959565	hsht
-959569	qal
-959573	qal
-959576	qal
-959578	qal
-959584	qal
-959590	hif
-959598	hit
-959603	qal
-959607	qal
-959617	hit
-959621	hif
-959624	qal
-959628	qal
-959635	hit
-959642	hif
-959645	hof
-959647	hit
-959657	qal
-959662	qal
-959671	qal
-959673	hif
-959682	hif
-959685	qal
-959691	qal
+NA
+NA
+NA
 piel
-959697	qal
-959708	qal
-959722	qal
-959728	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
 hif
-959734	qal
-959736	qal
-959740	qal
-959746	qal
-959751	qal
-959753	qal
-959757	qal
-959759	qal
-959765	qal
-959770	qal
-959777	qal
-959783	qal
-959803	hif
-959805	piel
-959810	qal
-959818	qal
-959820	qal
-959822	qal
-959824	nif
+NA
+NA
+NA
 qal
-959831	qal
-959836	qal
-959839	hif
-959845	qal
-959849	qal
-959851	qal
-959854	hif
-959857	qal
-959860	qal
-959866	qal
-959871	qal
-959877	qal
-959883	qal
-qal
-959886	qal
-959888	qal
-959891	qal
-959893	piel
-959895	qal
-959897	qal
-959910	qal
-959915	hif
-959917	qal
-959925	qal
-959939	qal
-959951	qal
-959962	qal
-959971	qal
-959976	qal
-959979	qal
-959982	qal
-959987	qal
-959992	qal
-959999	qal
-960006	qal
-960010	hif
-960014	hif
-qal
-960023	hit
-960029	qal
-960033	qal
-960037	qal
-960042	qal
-960046	qal
-960052	qal
-960055	piel
-960065	hif
-960067	qal
-960070	qal
-960077	qal
-960086	qal
-960089	qal
-qal
-960099	qal
-960106	qal
-960115	piel
-960118	qal
-960123	qal
-960125	hif
-960136	qal
-960138	qal
-960144	qal
-960146	hif
-960149	qal
-960153	piel
-960165	qal
-960177	qal
-960183	hif
-960190	qal
-960197	qal
-960201	piel
-960206	hif
-960210	hit
-960215	qal
-960217	piel
-960221	qal
-960224	piel
-960237	qal
-960254	qal
-960258	qal
-960269	qal
-960273	qal
-960278	qal
-960285	nif
-960293	qal
-960295	piel
-960304	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-960319	qal
-960325	qal
-960332	qal
-960339	qal
-960344	qal
-960349	qal
-960355	qal
-960357	qal
-960361	qal
-960376	qal
-960378	qal
-960381	qal
-960385	qal
-960388	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960391	qal
-960393	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960398	qal
-960400	po.
-960403	polal
-po.
-960406	qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960410	hif
-960417	qal
-960422	qal
-960424	qal
-960426	qal
-960431	nif
-960434	qal
-960436	qal
-960441	hif
-960444	qal
-960447	qal
-960451	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
 qal
-960462	qal
-960464	hif
-960471	qal
-960475	hif
-960486	qal
-960488	qal
-960495	qal
-960497	qal
-960502	qal
-960514	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960521	nif
-960524	qal
-960540	hof
-960576	qal
-960581	qal
-960584	qal
-960586	qal
-960601	piel
-960612	qal
-960622	qal
-960634	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960637	qal
-960649	pasq
-960657	piel
-960661	qal
-960678	qal
-960688	qal
-960698	piel
-960717	qal
+NA
 qal
-960737	pual
-960740	piel
-960745	qal
-960749	qal
-960756	qal
-960768	pual
-960770	qal
 pasq
-960777	pasq
-960779	piel
-960842	qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960846	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-960851	qal
-960854	qal
-960864	nif
-960870	nif
+NA
+NA
+NA
+NA
 hif
-960878	qal
-960888	qal
-960895	qal
-960902	qal
-960908	hif
-960912	hif
-960921	piel
-960933	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
 piel
-960939	qal
-960941	qal
-960946	qal
-960951	qal
-960955	hif
-960965	qal
-960970	qal
-960999	hif
-961002	hif
-961006	hif
-961016	qal
-961021	hif
-961023	hif
-961029	qal
-961037	hif
-961046	nif
-961053	qal
-961055	qal
-961060	qal
-961066	hif
-961070	hif
-961073	qal
-961080	hif
-961095	qal
-961103	qal
-961122	qal
-961159	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-961167	qal
-961169	qal
-961175	pasq
-961192	qal
-961196	piel
-961199	hif
-961209	piel
-961215	nif
-961222	qal
-961227	qal
-961252	qal
-961256	qal
-961259	qal
-961264	qal
-961275	qal
-961280	qal
-961294	qal
-961307	qal
-961328	hit
-961330	qal
-961342	qal
-961351	qal
-961354	qal
-961358	qal
-961372	nif
-961378	qal
-961383	piel
-961394	qal
-961404	qal
-961408	qal
-qal
-961413	qal
-qal
-qal
-961420	qal
-961422	piel
-961427	nif
-961430	hif
-961433	piel
-961448	qal
-961454	qal
-961458	qal
-961463	qal
-961474	qal
-961476	qal
-961481	qal
-961495	qal
-qal
-961508	qal
-961517	qal
-961544	qal
-961554	qal
-qal
-961611	qal
-961617	qal
-961637	pual
-961639	pual
-961643	pual
-961691	qal
-961693	pasq
-961696	qal
-961718	nif
-961720	nif
-961743	piel
-nif
-961747	nif
-961753	piel
-961757	piel
-hif
-961765	qal
-961770	nif
-961773	qal
-961777	qal
-961787	hif
-961836	qal
-961838	hif
-961872	piel
-961878	qal
-961906	qal
-961908	qal
-961910	qal
-qal
-961915	piel
-961919	piel
-961921	qal
-961924	nif
-961926	qal
-961928	qal
-961935	qal
-961940	qal
-961942	qal
-961944	qal
-961953	qal
-961958	hif
-961975	qal
-961979	qal
-961983	piel
-961997	qal
-962001	piel
+NA
 piel
-qal
-962006	piel
-962009	piel
-962018	qal
-962037	qal
-qal
-962062	qal
-962067	qal
-962070	qal
-962074	qal
-962087	qal
-962092	qal
-962096	qal
-962106	nif
-962114	qal
-962126	piel
-962129	qal
-962138	qal
-962146	qal
-962149	hit
-962153	qal
-962158	qal
-962160	qal
-962165	hit
-962169	hif
-962183	hif
-962188	hif
-962199	qal
-962202	qal
-962205	qal
-962207	nif
-962211	piel
-962213	qal
-962222	qal
-962228	nif
-962237	piel
-962240	piel
-962252	nif
-962263	piel
-962268	qal
-962276	qal
-962286	qal
-962300	qal
-962312	nif
-962337	piel
-962341	qal
-962348	hif
-962353	qal
-962355	qal
-962357	qal
-qal
-962361	piel
-962368	qal
-962372	qal
-962375	hif
-962380	qal
-962392	hif
-962397	qal
-962403	nif
-962409	nif
-962411	qal
-962420	hif
-962423	piel
-962426	piel
-962428	qal
-962431	nif
-962439	qal
-962449	nif
-962451	qal
-962456	qal
-962459	qal
-962465	qal
-962473	qal
+piel
+NA
+NA
+NA
 hif
-962477	piel
-962482	qal
-962491	piel
-962494	qal
+NA
+NA
+NA
 nif
-962497	qal
-962503	hif
-962505	piel
-962509	hif
-962521	qal
-962523	qal
-962534	qal
-962536	hif
-962541	hif
-962546	piel
-962553	qal
-962556	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-962563	qal
-962572	piel
-962581	piel
-962583	qal
-962585	qal
-962595	hif
-962601	qal
-962624	qal
-962626	qal
-962628	qal
-962638	hof
-962646	qal
-962648	qal
-962655	hif
-962661	hif
-962666	piel
-962672	piel
-962674	hif
-962688	qal
-962692	qal
-962701	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-962707	hif
-962711	qal
-962716	qal
-962720	qal
-962727	qal
-962730	qal
-962754	qal
-962771	qal
-962779	nif
-962785	qal
-962788	qal
-962793	qal
-962795	piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-962800	hif
-962806	pasq
-hof
-962809	qal
-962812	qal
-962817	hif
-962819	piel
-962823	piel
-962827	piel
-962829	qal
-962834	qal
-962844	hif
-962848	hif
-962858	nif
-962868	qal
-962870	hitpal.
-962884	qal
-qal
-962889	hif
-962891	qal
-962893	qal
-qal
-962900	qal
-962902	qal
-962906	qal
-962908	qal
-962918	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-962921	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
 hif
-962927	nif
-962939	hif
-962942	piel
-962947	piel
-962951	hif
-962957	qal
-962961	qal
-962970	nif
 hif
-962979	qal
-962990	hif
-962993	qal
-963000	piel
-963006	qal
-963010	qal
-963017	piel
+NA
+NA
+NA
+NA
 qal
-963020	hif
-963025	qal
-963029	qal
-963032	qal
-963034	qal
-963046	nif
-963049	qal
-963051	qal
-qal
-963054	qal
-963065	qal
-963068	hif
-963072	hif
-963075	hif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-963085	qal
-963088	piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-963095	qal
-963103	piel
-963109	hif
-963120	piel
-963126	qal
+NA
+NA
+NA
 qal
-963138	qal
-963143	qal
-963149	qal
-963153	qal
-963159	hit
-963162	qal
-963175	qal
-963187	qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
 qal
-963197	hitpo.
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+qal
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
 hitpo.
-963200	hitpo.
-963203	nif
-963207	hif
-963213	hif
-963221	qal
+NA
+NA
+NA
 qal
-963224	hitpo.
-963226	hitpo.
-963228	hif
-963231	pasq
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 hif
-963242	qal
-963245	nif
-963259	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-963262	piel
-963269	qal
-963273	qal
-963281	qal
-963288	hif
-963294	qal
-963296	piel
-963299	hif
-963303	hof
-963305	qal
-963307	hof
-963312	nif
-963315	qal
-963322	qal
-963326	qal
-963336	hof
-963343	qal
-963353	qal
-963355	piel
-963366	nif
-963369	qal
-963386	hif
-963389	qal
+NA
+NA
+NA
+NA
 qal
-963399	nif
-963406	piel
-963409	piel
-963412	nif
-963423	qal
-963436	qal
-963440	qal
-963450	hif
-963456	hif
-963461	qal
-963480	hif
-963512	qal
-963515	hif
-963519	nif
-963526	qal
+NA
+NA
+NA
+NA
+NA
 qal
-963532	qal
-963537	qal
-963540	qal
-963544	hif
-963547	pasq
-963551	qal
-963553	qal
-963555	qal
-963562	qal
-963572	piel
-963582	piel
-963589	hif
-963592	qal
-963600	qal
-963604	hif
-963616	qal
-qal
-963636	piel
-963641	nif
-963645	piel
-963655	nif
-963673	hif
-963675	piel
-963680	qal
-963689	qal
-963695	hif
 hif
-963704	qal
-963707	qal
-963712	qal
-963715	hif
-963720	qal
-963732	qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+NA
+NA
+pasq
+qal
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+pasq
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 nif
 qal
-963736	qal
-963738	hif
-963740	hif
-963743	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
 qal
-963752	qal
-963768	qal
-963770	qal
-963775	qal
-963777	qal
-963783	hif
-hif
-963786	qal
-963792	qal
-963800	nif
-963804	qal
-963823	qal
-963834	qal
-963836	qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
 qal
-963846	qal
-963848	qal
-963861	qal
-963871	qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-963875	qal
-963883	hif
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
 hif
-963901	qal
-963904	qal
-963910	hif
-963917	piel
-963929	qal
-963937	hif
-963942	qal
-963944	hif
-963953	hif
-963962	qal
-963968	qal
-963992	hif
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+nif
+nif
+nif
+NA
+NA
+nif
+nif
+nif
+nif
+nif
+qal
+qal
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+nif
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+qal
+NA
+NA
+piel
+piel
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+polal
+po.
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 pasq
-964000	hit
-964014	qal
-964026	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hof
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+po.
+NA
+NA
+polal
+po.
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+pual
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+hof
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+hitpo.
+NA
+hitpo.
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hitpo.
+NA
+hitpo.
+NA
+hif
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+hof
+NA
+qal
+NA
+hof
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+qal
+NA
+qal
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 hif
 qal
 qal
 qal
-964032	qal
-964045	qal
-964061	qal
-964067	qal
-964090	qal
-964110	piel
-964112	piel
-964117	qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+qal
 piel
 qal
-964130	qal
-964139	qal
-964148	hif
-964150	nif
-964174	pasq
-964181	piel
-964184	piel
-964187	hif
-964190	pasq
-964193	qal
-964202	hif
-964208	pasq
-964211	qal
-964215	qal
-964220	qal
-964222	qal
-964225	hif
-964231	qal
-964251	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 piel
 qal
-964255	piel
+NA
+piel
 qal
 qal
-964263	qal
-964270	qal
-964284	nif
-964286	nif
-964293	piel
-964298	qal
-964301	qal
-964306	qal
-964308	hif
-964312	qal
+NA
+NA
+NA
+NA
+NA
 qal
-964321	hif
-964325	qal
-964329	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-964333	qal
-964335	qal
-964337	qal
-964349	qal
-964351	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
 qal
 pual
 hof
-964358	qal
-964365	qal
-964369	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
 hif
-964374	piel
-964377	hif
-qal
-964381	qal
-964396	hit
-964400	hif
-964405	hif
-964407	nif
-qal
-964411	qal
-964420	qal
-964425	qal
-964429	nif
-964433	qal
-964443	qal
-964458	hif
+NA
+NA
+NA
+piel
+NA
+NA
 hif
-964476	hif
-964478	qal
-964500	qal
-964502	po.
-964510	qal
-964520	qal
-964525	piel
-964535	qal
-964541	hif
-964544	qal
-964558	qal
-964562	hif
-964564	hif
-964570	qal
-964575	piel
-964581	qal
-964597	hitpal.
-964600	hif
-hif
-964603	hif
-964605	hif
-964610	nif
 qal
-964618	qal
-964625	qal
-964631	piel
-964646	qal
-964651	piel
-964656	piel
-piel
-964664	piel
-964676	qal
+NA
+NA
 qal
-qal
-964690	piel
-964700	piel
-964704	qal
-964708	qal
-964718	qal
-964721	qal
-964733	qal
-964737	nif
-964740	qal
-piel
-964747	qal
-964751	qal
-964755	qal
-piel
-hif
-964759	hif
-964768	qal
-964773	piel
-964775	qal
-964778	qal
-964781	qal
-qal
-964785	qal
-964788	qal
-964793	qal
-piel
-964797	qal
-964802	qal
-964805	pasq
-964808	qal
-964813	qal
-964821	qal
-piel
-964829	qal
-964831	piel
-964836	qal
-nif
-964845	piel
-qal
-964848	qal
-qal
-964854	nif
-qal
-piel
-qal
-964864	qal
-964869	hit
-964876	qal
-964886	qal
-964895	qal
-964897	piel
-964899	qal
-964902	qal
-964911	hif
-964920	qal
-964934	qal
-964937	piel
-964943	hif
-964946	hif
-964950	nif
-964954	qal
-964958	qal
-piel
-qal
-qal
-964963	hif
-964972	qal
-964977	qal
-qal
-qal
-964983	qal
-nif
-qal
-964987	piel
-964990	hif
-964994	hif
-hif
-964997	qal
-964999	hif
-965001	pasq
-965006	qal
-965009	hif
-hif
-965012	qal
-965016	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-965020	hif
-965022	qal
-965025	nif
-965029	hif
-965033	qal
-965035	hif
-965039	qal
-965042	qal
-965047	hit
-965049	piel
-965058	qal
-nif
-965071	nif
-qal
-965078	qal
-965082	qal
-qal
-965086	pasq
-965089	piel
-965093	qal
-965096	hif
-965099	qal
-965101	qal
-965110	qal
-piel
-965115	piel
-965118	qal
-965121	qal
-965128	nif
-965133	qal
-965141	piel
-965145	qal
-965148	qal
-965156	qal
-piel
-965161	nif
-965166	nif
-965169	qal
-965176	nif
-qal
-965180	nif
-965183	hif
-965189	hif
-965196	qal
-qal
-965215	hif
-965218	nif
-965222	hif
-965227	qal
-965231	qal
-965237	hif
-965240	piel
-965244	qal
-965246	piel
-965249	hif
-965253	hif
-965256	qal
-965263	hif
-965266	qal
-965270	qal
-965276	hif
-965278	qal
-965284	nif
-nif
-965292	hif
-965296	pasq
-965299	qal
-qal
-965305	nif
-965310	nif
-965332	hif
-965337	qal
-965339	qal
-965343	nif
-965349	hif
-965352	hif
-965355	hit
-965365	qal
-qal
-965370	qal
-965377	qal
-965384	qal
-piel
-965390	nif
-965395	qal
-965401	qal
-965406	qal
-965429	qal
-piel
-965434	qal
-965438	qal
-965442	qal
-965445	nif
-965448	qal
+NA
+NA
+NA
 hif
-965452	hif
-965477	qal
-qal
-965482	hif
-965485	qal
-qal
-965511	qal
-965519	po.
-965522	piel
-965524	qal
-965529	qal
-965533	qal
-965536	qal
-965541	qal
-965546	qal
-965548	qal
-965560	piel
-965562	hif
-965573	piel
-965580	qal
-965582	nif
-965584	hitpo.
-965587	qal
-965591	po.
-965593	qal
-965596	qal
-965606	qal
-965617	qal
-965621	qal
-965623	piel
-965627	qal
-965638	hif
+NA
+NA
+NA
+NA
 hif
-965650	piel
-965665	hif
-965673	qal
-965684	qal
-965686	qal
-965696	qal
-965701	qal
-965706	qal
-965712	qal
-965718	qal
-965720	qal
-965724	qal
-965729	hif
-965733	qal
-965742	hif
-965752	qal
-965767	hif
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
 hif
-965771	hif
-965774	hif
-965781	qal
-965795	piel
-965799	piel
-965805	qal
-965809	qal
-965813	hif
-965818	qal
-qal
-965821	qal
-965826	nif
-965829	hif
-965837	hif
-965839	piel
-965842	qal
-965844	qal
-965846	qal
-965852	qal
-965855	piel
-965860	piel
-965865	pasq
-965880	qal
-965882	pasq
-965887	nif
-nif
-965890	qal
-965894	hif
-qal
-965898	qal
-965901	qal
-965906	qal
-965910	qal
-965916	qal
-qal
-965920	hit
-965923	qal
-965927	hif
-965932	qal
-965938	nif
-965942	qal
-965944	qal
-965951	qal
-965954	qal
-965956	nif
-965958	qal
-965962	qal
-965965	qal
-qal
-nif
-965973	qal
-965976	qal
-965981	piel
-965987	qal
-965990	qal
-965993	qal
-965997	nif
-qal
-966002	nif
-qal
-966010	piel
-966012	qal
-966016	qal
-966025	qal
-966029	hit
-966031	piel
-966034	qal
-966038	piel
-966042	qal
-966046	qal
-966051	piel
-966060	qal
-966063	piel
-966075	qal
-qal
-piel
-piel
-966084	hif
-966088	qal
-966090	qal
-966100	qal
-966108	qal
-966130	qal
-966132	pual
-966137	qal
-966143	qal
-966147	qal
-966154	qal
-966169	nif
-966174	hif
-966176	qal
-966180	qal
-966184	qal
-966188	qal
-qal
-966192	qal
-966198	qal
-966203	hit
-966206	qal
-966210	qal
-qal
-966215	piel
-966218	qal
-966220	hif
-966227	hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-966232	qal
-966237	qal
-966240	qal
-966250	qal
+NA
 qal
-966256	hit
-966261	hof
-966267	qal
-966281	qal
-966284	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+hif
+hif
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
 nif
 qal
 piel
 qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
 piel
-966292	qal
-966298	nif
-966314	pasq
-966321	hif
-966336	hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
 nif
-966348	qal
-966351	qal
+NA
+NA
+NA
 qal
-nif
-nif
-966364	nif
-966367	qal
-966395	qal
-966408	pasq
-966411	nif
-966416	qal
-966422	hif
-966428	qal
-966439	hif
-966442	qal
-966447	piel
-966450	qal
-966458	qal
-966467	qal
-966475	qal
-966477	qal
-966479	piel
-966499	qal
-qal
-966506	qal
-qal
-qal
-966513	hif
-966523	qal
-966525	pasq
-966537	qal
-966542	qal
-nif
-966545	qal
-966547	qal
-966552	qal
-966557	qal
-966563	qal
-966570	qal
-966574	qal
-966578	pual
-966585	qal
-966590	hit
-966596	qal
-nif
-966605	qal
-966608	qal
-966611	qal
-966618	qal
-966622	qal
-966624	hitpo.
-966631	qal
-qal
-966637	qal
-966640	qal
-966642	qal
-966646	qal
-966648	piel
-966653	hif
-966659	qal
-966665	nif
-966670	qal
-966675	qal
-966680	qal
-966687	hif
-966693	nif
-966696	qal
-qal
-966702	qal
-qal
-966707	qal
-966713	hif
-966722	qal
-966726	qal
-966728	hif
-966738	hif
-966742	qal
-966746	qal
-966751	qal
-966753	qal
-966759	qal
+NA
+NA
+NA
 qal
 piel
-966768	hif
-966773	piel
-966777	qal
-966779	qal
-966784	hif
-966786	qal
-966790	hof
-966799	qal
-966801	qal
-966803	qal
-966811	piel
-966815	qal
-966820	nif
-966826	qal
-966834	hit
-966845	qal
-966852	hif
-966855	hif
-966862	qal
-966870	qal
-966874	qal
-966879	qal
-966882	qal
-966885	piel
-966888	hof
-966897	qal
-966901	hif
-966909	qal
-966915	qal
-966917	qal
-966921	piel
-966931	hif
-966940	qal
-966948	qal
-966951	qal
-966958	hit
-966965	nif
-966969	hif
-966975	hit
-966981	nif
-966991	qal
-967014	qal
-967029	piel
-967035	qal
-967040	qal
-967048	qal
-967051	hif
-967054	piel
-967059	qal
-967063	hif
-967066	qal
-967070	hit
-967086	qal
-967095	piel
-967099	qal
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+qal
 nif
-967102	piel
-967116	qal
-967121	qal
-967124	qal
 qal
-967128	hit
-967132	qal
-967137	qal
-967145	hit
-967151	qal
-967156	piel
-967160	qal
-qal
-967163	hif
-967166	qal
-967168	qal
-967173	qal
-967179	qal
-967193	qal
-967200	qal
-967202	qal
-967206	piel
-967210	qal
-967214	qal
-967219	qal
-967224	qal
-967229	qal
-967234	hif
-967236	qal
-967242	piel
-967259	qal
-967268	hif
-967272	qal
-967274	qal
-967278	hit
-967282	qal
-967285	qal
-qal
-967295	hif
-967298	qal
-967305	qal
-967319	hif
-967325	qal
-967328	qal
-967332	hif
-967336	hif
-967344	piel
+NA
 piel
-967347	qal
-967351	qal
-967356	qal
-967365	qal
-967373	qal
-967382	nif
-967384	hif
-967387	piel
-967402	qal
-967410	qal
-967416	hit
-967421	piel
-967423	hif
-967426	qal
-967436	qal
-967445	qal
-967451	qal
-967455	piel
-967458	qal
-967462	qal
-967466	qal
-967472	qal
-967481	qal
-967490	hif
-967493	qal
-967498	hif
-967502	qal
-967507	hif
-967511	hif
-967518	qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+hif
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+hitpo.
+NA
+NA
+qal
+NA
+NA
+NA
+po.
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+hif
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
 pual
-967524	nif
-967528	qal
-967533	qal
-967535	qal
-967537	qal
-967542	hit
-967552	nif
-967555	qal
-967558	qal
-967563	hif
-967572	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
 hif
-967582	piel
-967588	hif
-967590	hif
-967598	hif
-967603	hif
-967605	qal
-967609	qal
-967613	qal
-967616	qal
-967618	qal
-967620	qal
+NA
 qal
-967623	qal
-967631	qal
+NA
+NA
+NA
 qal
-967634	hit
-967643	qal
-967645	qal
-967649	piel
-967652	qal
-967656	piel
-967660	qal
-967662	qal
+NA
+NA
+NA
 qal
-967665	qal
-967667	piel
-967673	qal
-piel
-967698	qal
-967702	piel
-piel
-967709	qal
-967714	qal
-967719	qal
-967741	qal
-967747	qal
-hif
-967757	qal
-967760	qal
-967762	qal
-967774	pasq
-967787	piel
-967791	qal
-967794	qal
-qal
-967797	qal
-967803	qal
-967807	qal
-967819	pasq
-967822	qal
+NA
+NA
+NA
 qal
 qal
-967830	qal
+NA
+NA
 qal
-967854	qal
-967866	qal
-967872	qal
-967876	qal
-967889	qal
-piel
-967901	qal
-967917	qal
+NA
+NA
+NA
+NA
+NA
 qal
-967923	hif
-967932	hif
-967952	qal
-967962	hif
-967966	nif
-967978	piel
-967982	qal
-968002	hif
-968020	hif
-qal
-968026	qal
-968045	qal
-968050	qal
-hif
-pil.
-pil.
-968056	qal
-968059	qal
-968062	qal
-968064	qal
-968068	nif
-po.
-po.
-968072	hif
-968079	qal
-968083	qal
-968086	po.
-968092	piel
-qal
-968097	hif
-968102	nif
-968106	qal
-968108	pual
-968118	qal
-968128	nif
-968131	qal
-968136	qal
-968140	qal
-968147	qal
-968156	qal
-968159	qal
-968166	qal
-968174	qal
-piel
-968180	hif
-968184	qal
+NA
+NA
+NA
+NA
 hit
-968187	hit
-968189	hit
-968197	qal
-968204	qal
-968206	hif
-968214	hif
-968223	qal
-968226	qal
-968242	qal
-hif
-968267	nif
-nif
-968273	qal
-968289	hif
-968294	qal
-968299	piel
-968315	hof
-968318	hif
-968336	qal
-968338	pasq
-968341	hif
-nif
-968346	hif
-968357	qal
-968360	qal
-968363	qal
-968367	hif
-968374	hif
-968377	qal
-968383	qal
+NA
+NA
 qal
-hif
-968393	hif
-968397	pasq
-hif
-968405	pasq
-968417	qal
-968435	hif
-968440	qal
-968447	pasq
-968451	qal
+NA
+NA
+NA
 qal
-968456	hif
-hif
-968460	qal
-968469	qal
 qal
-968477	qal
-968485	qal
-968491	qal
-968494	qal
-968496	qal
-968498	qal
-968501	qal
-968508	hof
-968510	qal
-968519	hof
-968521	hif
-968528	hof
-968530	piel
-968538	hif
-968545	qal
-968562	qal
-968577	piel
+NA
+NA
+NA
 piel
-968581	qal
-968585	nif
-pasq
-968588	nif
-968600	hif
-968603	qal
-968610	qal
-968622	qal
-968624	nif
-968635	qal
+NA
+NA
 qal
-968641	qal
-968643	nif
-968650	qal
-968655	qal
-968663	qal
-968669	qal
-968672	qal
-968674	qal
-968676	qal
-968679	qal
-968685	hof
-qal
-968693	hif
-968701	qal
-968705	qal
-968722	nif
-968742	pasq
-968744	qal
-968752	pasq
-968760	piel
-968762	piel
-qal
-968770	qal
-968780	qal
-pasq
-968784	qal
-968786	piel
-968789	hif
-968793	qal
-968805	qal
-968811	nif
-968818	pasq
-968824	pasq
-968828	qal
-968837	qal
-968848	qal
-968856	piel
-968875	qal
-968894	hif
-968896	qal
-968899	pasq
-968904	qal
-968909	hif
+NA
 hif
-968913	qal
-968933	piel
-968935	piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hif
+NA
+NA
+NA
 qal
-968944	qal
-968946	piel
-968955	qal
-968961	nif
-968967	hif
-968974	qal
-968987	qal
-968989	pasq
-968992	hif
-969001	nif
-969010	qal
-969012	qal
-969016	qal
+NA
+NA
+NA
+NA
 qal
-969037	pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+nif
+qal
+piel
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-969041	pasq
-969043	qal
-969047	qal
-969050	pasq
-969057	qal
-969073	qal
-969083	piel
-969090	qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-969110	qal
-969118	qal
-969127	hif
-969129	qal
-969134	pasq
-969144	qal
-969151	qal
-969153	qal
-969158	hit
-969165	qal
+NA
+NA
+qal
+qal
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+pil.
+pil.
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+po.
+po.
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hit
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+pasq
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+pasq
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 qal
 pasq
 hof
-969173	piel
-969176	qal
-969181	qal
-969183	qal
-969194	hif
-hif
-969199	qal
-969208	pasq
-969210	qal
-969213	qal
-969218	qal
-nif
-969224	nif
-969229	qal
-969236	qal
-969248	hif
-969253	piel
-969258	piel
-969262	hif
-969273	qal
-969278	qal
-969284	nif
-969289	qal
-969301	pasq
-969308	qal
-969312	qal
-969324	piel
+NA
+NA
+NA
+NA
 piel
-969337	qal
-969341	piel
-969352	qal
-969361	qal
-969381	piel
-969390	qal
-piel
-969394	qal
-969414	pil.
-969423	qal
-969426	hit
-969431	piel
-969434	nif
-969437	piel
-969441	qal
-969464	qal
-969474	qal
-969503	piel
-969517	piel
-969530	nif
-969536	nif
-969545	piel
-969551	po.
-969568	piel
-969571	qal
-969573	hit
-969589	qal
-969608	piel
-969610	qal
-969615	nif
-nif
-969624	piel
-969627	qal
-969636	qal
-969641	qal
-969656	qal
-969673	piel
-969679	piel
-969681	nif
-nif
-969690	piel
-969698	nif
-969704	nif
-969708	qal
-piel
+NA
+NA
 qal
-969713	hif
-nif
-969726	hif
-969732	qal
-hif
-969736	piel
-piel
-969740	qal
-969743	nif
+NA
+NA
+NA
+NA
 qal
-969747	qal
-piel
-piel
-969752	qal
-969758	piel
-969765	piel
-969771	qal
-969773	hif
-969777	qal
-969807	qal
-969810	qal
-969814	qal
-969817	pil.
-969828	qal
-969839	qal
-969845	qal
-969847	pil.
-969889	piel
-969909	hif
-969912	nif
-969927	piel
-969949	nif
-969951	piel
-969963	piel
-969986	pasq
-969996	nif
-970005	piel
-970010	qal
-970013	piel
-970015	qal
-970020	piel
-970023	nif
-970029	nif
-970035	hif
-970044	piel
-970056	piel
-970069	qal
-970072	piel
-970075	qal
-970089	piel
-970097	piel
-970106	hif
-970116	piel
-970120	piel
-970134	piel
-970137	nif
-nif
-970142	pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-970145	pasq
-970157	piel
-970160	pasq
-970173	piel
-970176	qal
-970181	hif
-970203	piel
-po.
-970206	po.
-970237	qal
-970251	piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
 piel
-970260	qal
-970265	qal
-970272	qal
-970274	qal
-970281	hif
-970291	hif
-970299	hif
-970303	qal
-970318	piel
-970344	piel
-970359	piel
-970361	nif
-970374	hif
-970429	qal
-970431	qal
-970435	qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
 hit
-970474	nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 nif
-970487	qal
-970505	piel
-970510	piel
-970519	piel
-970546	piel
-970551	piel
-970554	piel
-970623	qal
-970643	piel
-970647	hif
-970661	piel
-970665	piel
-970668	piel
+NA
+NA
 piel
-970678	piel
-970686	piel
-970689	qal
-970695	piel
-970703	piel
-970708	hif
-970753	piel
-970759	pasq
-970763	piel
-970769	nif
-970786	piel
-970792	piel
-970799	qal
-970801	piel
-970807	nif
-970810	qal
-970812	nif
-970838	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-970842	qal
-970865	nif
-hif
-970895	piel
-970912	pasq
-970915	qal
-970926	qal
-970931	qal
-970933	qal
-970942	qal
-970946	qal
-970961	piel
-970975	qal
-970978	piel
-970981	nif
-970997	piel
-971011	piel
-971020	qal
-971025	hif
-971046	piel
-971060	pual
-971118	pual
-971128	piel
-971130	hif
-971152	nif
-971164	pil.
-971169	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-971179	piel
-piel
-971197	pual
-971212	hif
-971222	pual
-971258	hitpal.
-971261	piel
-971291	qal
-971298	piel
-971305	qal
-971310	piel
-971312	hif
-971320	hif
-971328	piel
-971339	piel
-971346	qal
-971348	qal
-971351	qal
-971377	pual
-971382	hit
-971394	qal
-971399	hif
-971404	hif
-971422	piel
-971424	pasq
-971436	piel
-971438	nif
-qal
-971444	pil.
-971451	piel
-971454	qal
-971460	qal
-971469	piel
-971473	piel
-971500	hif
-971503	piel
-971505	piel
-971511	qal
-971521	qal
-971529	pual
-971531	qal
-971536	hitpal.
-971540	qal
-971544	qal
+NA
+NA
+NA
+NA
+NA
 nif
-971547	piel
-971554	qal
-971562	nif
-971572	qal
-971576	piel
-971579	piel
-971585	qal
-971591	qal
-971600	pasq
-971610	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-971628	hif
-971633	pual
-971641	pasq
-971646	piel
-971668	piel
-971700	hit
-971749	nif
-971759	piel
-971786	qal
-971792	nif
-971794	qal
-971804	qal
-971806	hif
-971812	qal
-971814	pasq
-971824	nif
-971827	qal
-971832	piel
-971834	hif
-971836	qal
-971841	hif
-971851	piel
-971856	qal
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 qal
-971864	hif
-971870	qal
-971875	hif
-971880	piel
-971893	piel
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-971899	qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+piel
+qal
+NA
+NA
 hif
-qal
-971907	piel
-971909	piel
-971920	piel
-piel
-971928	piel
-971930	piel
-971933	hif
-971936	hif
-971940	piel
-971942	piel
-971945	qal
-971949	qal
-971956	qal
-971977	piel
-971981	hif
-971988	qal
-971992	hif
-971999	hif
-972004	qal
-972009	qal
-piel
-972019	qal
-972023	qal
-972025	qal
-972027	hif
-972042	nif
-972048	hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
+NA
+NA
+NA
+NA
+NA
+qal
 hif
-qal
-972060	qal
-972063	piel
-972067	piel
-qal
-972076	piel
-972082	hif
-972085	qal
-972088	qal
-972093	piel
-972095	hitpo.
-972107	hif
-972116	qal
-972125	qal
-972128	qal
-972136	qal
+NA
+NA
 piel
-972145	piel
-972150	qal
-972155	hit
-972161	hit
-972166	qal
-972170	qal
-972172	qal
+piel
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+qal
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-972177	hof
-972185	piel
-972210	qal
-972227	piel
-qal
-972235	qal
-972237	hit
-972240	qal
-972244	hit
-972252	qal
-972257	qal
-972261	hif
-972265	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-972272	qal
-972278	qal
-piel
+NA
+NA
+NA
+NA
 qal
-972290	qal
-972299	pasq
-972309	qal
-972317	hit
-972326	qal
-972332	hit
-972335	piel
-972337	qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
 hif
-972349	qal
-972353	qal
-972383	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+pasq
+pasq
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+po.
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
 qal
 qal
-972401	piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+piel
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
 qal
 hitpal.
 hitpal.
-972408	hif
+NA
+NA
+NA
+hif
 qal
 pual
-972416	hif
-972420	hif
-972431	hif
-972454	piel
-972459	hif
-972462	qal
-972468	qal
-972470	qal
-972472	qal
-972477	qal
-972481	nif
-972484	nif
-nif
-972490	qal
-hit
-hit
-hit
-hit
-972497	nif
-972500	qal
-qal
-972504	qal
-972506	qal
-972515	qal
-972520	qal
-qal
-972530	qal
-972542	qal
-972554	hif
-972567	piel
-972570	qal
-972578	nif
-972581	qal
-972584	qal
-972588	qal
-972590	hit
-972597	qal
-972600	qal
-972604	hif
-972613	piel
-972631	hif
-972634	nif
-972649	hif
-972653	qal
-972655	qal
-972658	hif
-nif
-972661	qal
-qal
-972667	hif
-972675	qal
-972677	qal
-qal
-972681	qal
-972685	qal
-972692	piel
-972705	pasq
-qal
-qal
-972711	piel
-qal
-972716	qal
-972724	hif
-972730	qal
-972733	hif
-972739	piel
-972742	qal
-972747	hif
-972752	qal
-972762	hif
-972767	hif
-972770	hif
-972778	qal
-972785	hif
-972794	qal
-972796	qal
-972802	qal
-972813	qal
-972821	qal
+NA
+NA
+NA
+NA
+NA
 hif
-972828	qal
-972832	qal
-972838	qal
+NA
+NA
+NA
 hif
-qal
-972842	qal
-nif
-972846	qal
-972848	qal
-972853	qal
-972859	qal
-qal
-972865	qal
-972869	piel
-qal
-972874	hif
-972877	hif
-972883	qal
-972891	qal
-972894	hit
-972899	qal
-qal
-972906	hif
-972910	qal
-972912	qal
-972917	qal
-972922	qal
-972926	nif
-nif
-972931	qal
-972933	qal
-972935	nif
-972944	qal
-972946	qal
-972949	hif
-972954	qal
-972959	hif
-972963	piel
-nif
-972968	qal
-972974	qal
-972980	qal
-972985	hit
-972990	hit
-972993	hif
-972997	hif
-973002	hit
-973006	nif
-qal
-973011	qal
-973016	hit
-973018	hif
-973024	piel
-qal
-973029	piel
-973034	hif
-973039	hif
-973044	hif
-973048	qal
-qal
-973053	qal
-973059	hif
-973064	qal
-973072	nif
-qal
-973075	hit
-973084	hif
-973087	qal
-973098	piel
-973124	qal
-973128	hif
-973131	piel
-973135	qal
-973139	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-973144	nif
-piel
-973150	qal
-973160	qal
-973166	qal
-973169	qal
-973172	hit
-973174	hit
-973185	qal
-973187	hif
-973190	hif
-973194	hif
-973205	hif
-973221	qal
-973224	hif
-973229	hif
-973232	hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+qal
 hit
-973239	hif
-973248	qal
-973250	hif
-973257	hif
-973259	qal
-qal
-973265	qal
-hif
-973290	qal
-973292	qal
-973301	qal
-973308	piel
-973313	qal
-973317	piel
+hit
+hit
+hit
+NA
+NA
 nif
-973322	hif
+NA
+NA
 qal
-973329	qal
-973343	qal
-973347	qal
-973350	qal
-973353	qal
-973358	qal
-973363	hif
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-973369	hif
-973376	qal
-973398	qal
-973413	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 qal
-973419	qal
-973427	qal
-973438	qal
-qal
-973446	hit
-973459	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-973463	hit
-973469	hitpo.
-973472	qal
-973486	hif
-973491	qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-973496	pasq
-973500	pasq
-pual
-973509	pasq
-973513	qal
-973523	hif
-973538	qal
-973542	qal
-973549	qal
-973560	hif
+qal
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-973564	nif
-973566	qal
-973570	hit
-973582	qal
-973586	hit
-973589	pasq
-973594	nif
-973599	qal
-hitpo.
-973606	qal
-973613	hit
-973618	piel
-973624	piel
+NA
+NA
+NA
+NA
+NA
 qal
-973629	piel
-973635	nif
-973638	piel
-973640	hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
 qal
-973645	hif
-973647	qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
 qal
-973655	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+qal
 nif
-973664	piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 piel
-973668	qal
-973671	qal
-973685	qal
-973690	qal
-973696	qal
-973699	hit
-973702	qal
-973714	qal
-973717	qal
-973721	qal
-973724	nif
-973726	qal
-973730	qal
-973732	qal
-973746	qal
-973756	piel
-973759	qal
-973762	qal
-973765	qal
-973771	qal
-973774	qal
-973777	qal
-973780	qal
-973785	qal
-973796	qal
-973802	hif
-hif
-973809	qal
-973813	hif
-973816	qal
 qal
-973827	qal
-973832	hif
-qal
-973836	hif
-973842	qal
-973846	qal
-973856	hif
+NA
+NA
+NA
 hif
-973859	qal
-973861	piel
-973863	qal
-973870	qal
-973877	qal
-973883	qal
-973885	qal
-973887	piel
-973890	hif
-973896	qal
-973900	qal
-973907	qal
-973911	qal
-973914	nif
-973919	piel
-973922	qal
-973924	piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
 piel
-973929	qal
-973933	qal
-973941	qal
-973944	hif
-973950	qal
-973958	hif
-973960	qal
-973962	qal
-973967	qal
-973973	qal
-973979	qal
-973982	qal
-973989	qal
-973995	hit
-973998	qal
-974001	hit
-974011	qal
-974018	nif
-974032	qal
-974034	hit
-974038	hif
-974047	hit
-974054	qal
+nif
+NA
+NA
+NA
 qal
-974058	nif
-974060	hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
 hif
-974065	qal
-974075	hif
-974081	qal
-974100	qal
-974102	qal
-974113	hif
-974121	qal
-974125	qal
-974133	qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+nif
 qal
-974145	qal
-974147	hif
-974160	hif
-974165	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+pasq
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+hitpo.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+hif
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
 hof
 qal
-974169	qal
-974172	qal
-974189	qal
-974197	hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-974205	qal
-qal
-974213	hit
-974217	hit
-974221	hif
-974225	hit
-qal
-974230	qal
-974235	hit
-974237	hif
-974243	piel
-974247	hit
-974249	hif
-974255	piel
-qal
-974260	piel
-974264	hif
-974268	hif
-974273	hif
-974276	qal
-qal
-974287	hif
-974293	piel
-974314	qal
-974318	hif
-974322	nif
-974327	hif
-974343	hif
-974347	hif
-974356	piel
-qal
-974364	hif
 hif
-974370	qal
-974372	qal
-974375	qal
-974379	qal
-974397	nif
-974400	nif
-974403	nif
-974408	qal
-974416	qal
-974419	nif
-974428	qal
-974434	hit
-974440	hit
-974444	pasq
-974447	pasq
-974449	qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+NA
+NA
+NA
 hif
-974453	nif
-974455	hit
-974460	piel
-974463	hif
-974466	pil.
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+qal
+hif
+NA
+NA
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
 pil.
-974471	qal
-974476	nif
-974478	hit
-974482	qal
-974488	pasq
-974491	qal
-974493	hif
-hif
-974497	qal
-974501	pasq
+pil.
+NA
+NA
+NA
 qal
-974509	piel
-974512	qal
-974516	hif
-974520	piel
-974522	qal
-974532	hif
-qal
-974537	qal
-974545	qal
-974554	piel
+NA
+NA
+NA
+NA
 nif
-974564	nif
-974569	nif
-qal
-974575	qal
-974578	qal
-974592	hit
+NA
 hit
-974598	hit
-974604	qal
-974613	hif
-974616	qal
-974622	nif
-974625	nif
+NA
+NA
+NA
 qal
-974630	nif
-974638	qal
-974643	nif
-974645	qal
-974647	qal
-974650	nif
-974658	nif
-974662	hif
-974664	qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
 qal
-974668	hif
-974671	qal
-974679	qal
-qal
-974684	qal
-974691	qal
-974702	pil.
-974713	qal
-qal
-qal
-974720	qal
-974726	hit
-974748	nif
-974750	qal
-974754	qal
-974761	hif
-974769	qal
-974772	nif
-974778	qal
-974785	qal
-974787	qal
-qal
-974791	piel
-974798	piel
-974800	hif
-974807	nif
-974811	qal
-974813	nif
-974820	qal
-974823	hif
-974838	hif
-974843	piel
-974845	hit
-974849	qal
-qal
-974861	hif
-974865	hif
-974868	qal
-974874	qal
-974884	piel
-974889	qal
-974898	qal
-974906	qal
-974911	hif
-974915	pual
-974921	hif
-974926	qal
-974930	piel
-974942	hit
-974944	qal
-974951	hif
-974956	hif
-974962	qal
-974967	qal
-974969	hitpo.
-974974	hif
+NA
 hif
-974977	hif
-974983	qal
-974987	hif
-nif
-974990	qal
-975001	piel
-975007	hif
-975009	qal
-nif
-975015	qal
+hif
+NA
+NA
 qal
-975043	hif
-975051	qal
-975054	hif
-975058	nif
-975060	piel
+NA
+NA
+NA
+pasq
 qal
-975063	qal
-975068	qal
-975076	qal
-975078	nif
-975084	nif
-975087	qal
-975098	qal
-975104	hif
-qal
-975109	qal
-975112	hif
-975114	qal
-975118	nif
-975120	qal
-975129	qal
-975133	qal
-975142	hif
-975150	hit
-975153	qal
-975158	piel
-975162	nif
-975169	hif
-975177	qal
-qal
-975187	qal
-qal
-975195	hif
-975200	qal
-975205	qal
-975211	qal
-975216	qal
-975224	qal
-975233	qal
-975237	qal
-975243	qal
-nif
-975246	qal
-975250	piel
-975253	qal
-qal
-975271	qal
-975273	hif
-975285	qal
-975290	nif
-975296	nif
-qal
-975301	hif
-975306	qal
-975317	nif
-975328	nif
-975332	qal
-975337	qal
-975341	qal
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-975346	hif
-975349	nif
-975352	hif
-975354	hif
-975358	qal
-975362	qal
-975364	nif
-975366	qal
-975369	qal
-975387	piel
-975390	qal
-975394	qal
-975398	qal
-975400	qal
-nif
-975406	nif
-975415	hif
-975420	qal
-975424	qal
-975429	hif
-975442	hif
-975458	qal
-975462	piel
-975468	hit
-975471	qal
-975479	qal
-975487	hif
-975496	qal
-975505	qal
-975512	qal
-975514	qal
-975524	piel
-975527	qal
-975531	qal
-975533	piel
-975537	qal
+NA
+NA
 qal
-975543	pasq
-975546	qal
-975548	hif
-975557	qal
-975563	piel
-975570	qal
-975580	hif
-975582	qal
-975586	hif
-975588	hif
-975592	hif
-975603	qal
-975624	nif
-975626	qal
-975628	qal
-975641	hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
 hitpo.
-975648	qal
-975659	qal
-975662	qal
-975686	hit
-975689	qal
-975691	hit
-975694	piel
-975699	qal
-qal
-975703	hif
-975709	piel
-piel
-975713	qal
+NA
+NA
+NA
+NA
 hif
-975722	nif
-975726	hit
-975733	nif
-975736	qal
-975740	piel
-piel
-piel
-975747	qal
 hif
-975754	qal
-975788	piel
-975794	piel
-975806	qal
-975811	qal
-975814	hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
 qal
-975818	hit
-975825	nif
-975827	nif
-975844	hit
-975854	piel
-975858	piel
-975870	qal
+NA
+NA
+NA
+hif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
 qal
 nif
-975879	qal
-975886	qal
-975895	hif
-975908	piel
-piel
-975912	qal
-975914	hif
-975917	qal
-975922	qal
-975924	nif
-975929	qal
+NA
+NA
+NA
+NA
 qal
-975933	piel
-piel
-975944	qal
-975946	qal
-975950	qal
-piel
-975955	nif
-975958	qal
-975964	qal
-975969	qal
-975974	nif
-975979	qal
-975981	qal
 qal
-975985	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-975990	nif
-975995	hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-975998	qal
-976002	qal
-976004	hif
+NA
+NA
 qal
-976008	hif
-976016	hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-976019	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hitpo.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+hif
 nif
 hif
-976025	qal
-976030	qal
-976038	qal
-976051	qal
-976061	qal
-976065	qal
-976068	qal
-976070	qal
-976077	qal
-976081	nif
-976084	hif
-976089	hif
-976092	hif
-976095	qal
-976099	hif
-976102	hit
-976104	qal
-976112	hif
-976116	hif
-976122	qal
-976127	hif
-976129	hif
-976131	qal
-976137	nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 nif
-976142	hit
-976147	qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
 qal
 qal
 qal
-976158	hit
-976160	nif
-976165	qal
-976175	qal
-976177	qal
-976180	qal
-976188	piel
-976190	qal
-976196	hif
-976200	hif
-976205	piel
-976211	qal
-976218	pasq
-976223	qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
 qal
 nif
 piel
-976231	hif
-976234	hif
-976238	hif
-976242	qal
-976244	qal
-976247	nif
-976252	qal
-976269	hif
-976281	hif
-976284	hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
 hit
 qal
-976290	qal
-976297	qal
-976307	qal
-976310	qal
-976313	qal
-976318	qal
-976324	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
 qal
 piel
 qal
-976332	qal
+NA
+NA
+NA
+NA
 qal
-976335	nif
-976350	nif
-976352	hif
-976359	qal
-976364	hif
-976368	hif
-976373	qal
-976380	qal
-976391	piel
-976396	qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
 hif
 qal
 nif
 hif
-976404	nif
-976408	qal
-976410	piel
-976423	qal
-976426	nif
-976431	qal
-976435	hif
-976438	qal
-976441	piel
-976447	hif
-976449	hif
-976457	qal
-976461	nif
-976465	qal
-976468	nif
-976470	qal
-976479	nif
+NA
+NA
+NA
 nif
-976484	nif
-976486	hif
-976490	pasq
-976496	qal
-976500	qal
-976506	hif
-976524	piel
-976531	qal
-976536	qal
-976539	qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
 qal
 qal
 qal
-976546	piel
 qal
-976550	qal
+NA
+NA
+NA
+piel
 qal
-976554	qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
 piel
 hif
-976559	hif
-976562	qal
-976568	piel
-976571	qal
-976576	qal
-976580	hif
-976588	qal
-976590	qal
-piel
-976595	piel
-976597	pasq
-976600	piel
+NA
+NA
+hif
+NA
+NA
 qal
-976605	nif
-976608	pasq
-976611	qal
-976615	qal
-976633	qal
-976638	qal
-976662	qal
-976664	qal
-976673	hif
-976689	qal
-976695	hif
-976701	qal
-976712	hif
-976714	qal
-976718	qal
-976733	nif
+NA
+NA
+NA
+NA
+NA
 piel
-976740	qal
-976745	qal
-976747	qal
-976752	nif
-976759	qal
-976767	qal
-976771	qal
-976778	qal
-976781	hif
-976787	hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+pasq
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
 hif
 qal
-976797	qal
-976809	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 nif
 qal
-976814	qal
-976816	piel
-976820	qal
-976832	qal
-976836	nif
-976840	hif
-976845	piel
-976848	piel
-976852	qal
-976855	qal
-976861	qal
-976878	qal
-976882	qal
-976890	hif
+NA
+NA
 qal
-976900	qal
-976912	hif
-976918	hif
+NA
+piel
+NA
+NA
+NA
 qal
-976922	piel
-976927	qal
-976932	qal
-976938	piel
-976946	hit
-976949	hitpo.
-976951	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+NA
 nif
-976959	qal
-976961	qal
+NA
+NA
+NA
 hif
-qal
+NA
+NA
+NA
+NA
 piel
-976975	nif
-976977	hif
-976983	hif
-976987	hif
-976989	qal
-976992	qal
-976997	hif
-977002	qal
-977005	qal
-977007	qal
-977011	qal
-977017	hif
-977024	qal
-977035	hit
-977042	qal
-977054	nif
-977056	piel
-977062	nif
-977069	qal
-977072	nif
-977075	hif
-977081	qal
+NA
+NA
 piel
-977090	piel
-977093	qal
-977095	qal
-977102	qal
-977114	qal
-977118	qal
-977122	hitpo.
-977129	hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-977148	qal
-977170	piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
 piel
-977173	hif
-977179	qal
-977185	nif
-977199	qal
-977207	qal
-977219	nif
-977221	hif
-977227	hif
-977231	hif
-977233	qal
-977236	qal
-977242	hif
-977247	qal
-977250	qal
-977252	qal
-977256	qal
-977263	hif
-977268	qal
-977277	qal
-977279	qal
-977282	qal
-977291	nif
-977293	qal
-977297	hitpo.
-977299	qal
-977306	nif
-977309	qal
-977317	hif
-977321	hif
-977325	qal
-977329	piel
-977336	qal
-977343	hif
-hif
-977346	nif
-nif
-977353	qal
-977361	hif
-977364	piel
-977370	piel
-977372	hif
-977376	qal
-nif
-977383	piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 piel
-piel
-piel
-977406	qal
-hif
-977411	hif
-977416	qal
-977419	qal
-977422	qal
-977424	hif
-977428	hif
-977430	qal
-977434	qal
-977437	hif
-977441	hif
-977445	qal
-977449	qal
-977452	qal
-977454	qal
-977462	qal
-977464	qal
-977470	piel
-977472	qal
-977477	nif
-hif
-977480	qal
-977485	qal
-977487	piel
-977490	qal
-qal
-nif
-977499	qal
-977502	qal
-qal
-977506	nif
-977511	qal
-977515	qal
-977518	piel
-977521	qal
-hif
-hif
-977527	qal
-977532	qal
-977537	nif
-977544	hif
-977548	qal
-977572	qal
-977579	pual
-qal
-qal
-qal
-977584	qal
-977592	hif
-977597	hif
-977599	piel
-977601	qal
-977606	qal
-977609	nif
-977620	qal
-qal
-977627	qal
-977636	qal
-977645	qal
-977662	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-977665	hif
-977668	hitpo.
-977674	qal
+NA
+NA
+hitpo.
+NA
+piel
 qal
-977688	pil.
-977691	qal
-977694	qal
-977696	qal
-qal
-qal
-977704	pual
-977706	qal
-977709	nif
 nif
-977712	piel
-977714	qal
-977721	qal
-977730	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+qal
 piel
-977734	hif
-977747	hif
-977751	qal
-977757	nif
-977766	pual
-977772	nif
-977777	qal
-977782	qal
-977798	piel
-977800	qal
-977805	qal
-977809	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
 piel
-977817	qal
-977819	qal
-977827	hif
-977833	nif
-977835	piel
-977837	qal
-977843	hif
-977847	piel
-977850	piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hit
+NA
+hif
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+piel
 po.
-977856	qal
-977864	hif
-977872	hif
-977879	hif
-977882	hif
-977888	hif
-977893	piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-977897	hif
-977901	qal
-977907	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
 piel
 nif
-977911	hif
+NA
+hif
 qal
-977914	qal
-977916	qal
+NA
+qal
+NA
 qal
 qal
-977922	hif
+qal
+NA
+NA
+NA
+hif
 nif
-977931	qal
-977945	hif
-977951	qal
-977959	hif
-977963	qal
-977965	hif
-977967	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-977970	nif
-977978	qal
-977980	qal
-977989	hif
-977991	qal
-977994	qal
-977996	hif
-978003	hif
-978012	hif
-978024	hif
-978038	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
 qal
 pasq
-978042	hif
-978046	hif
-978049	hif
+NA
 hif
-978058	qal
-978062	qal
-978071	qal
-978075	qal
-978081	hif
-978089	nif
-978091	piel
-978099	hit
-978108	hif
-978110	piel
-978129	hif
-978137	nif
-978146	qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 qal
 nif
-978153	piel
-978158	hif
-978171	hif
-978174	pual
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
 pual
-978185	piel
-978204	qal
-978208	hif
-978220	qal
-978231	nif
-978237	hif
-978242	piel
-978244	qal
-978250	qal
-978258	qal
-978264	qal
-978282	qal
-978286	hif
-978306	qal
-978318	qal
-978325	qal
-978332	pasq
-978346	po.
-978354	hif
-978363	hif
-978374	qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-978381	hif
-978389	hif
-978399	nif
-978403	hif
-978421	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-978430	nif
-978433	hit
-978443	nif
-978455	piel
-978458	piel
-978462	qal
-978473	pasq
-978477	qal
-978482	hif
-978488	qal
-piel
-qal
-978495	qal
-978499	nif
-978506	piel
-978508	piel
-978511	piel
-978527	qal
-piel
-978537	qal
-978541	pasq
-978544	hif
-978548	hit
-978551	qal
-piel
-978554	qal
-978561	piel
-978566	pual
-978571	nif
-qal
-978578	qal
-978583	qal
-978585	qal
-978587	qal
-978594	qal
-978601	hif
-978604	qal
-978611	qal
-978616	qal
-978620	qal
-978636	po.
-978640	qal
-978652	piel
-978655	qal
-978657	hitpo.
-978662	qal
-978666	hitpo.
-978675	qal
-978691	qal
-978696	qal
-978700	qal
-978705	pual
-978713	qal
-978718	hit
-978720	qal
-hit
-qal
-hit
-978732	qal
-978737	hif
-978743	qal
-hit
-978747	piel
-978749	qal
-qal
-qal
-978758	hif
-978762	hif
-978764	hif
-978766	qal
-qal
-978769	nif
-978774	qal
-978776	qal
-978781	nif
-qal
-978784	hif
-978786	qal
-978789	qal
-978791	hif
-978796	hif
-978805	piel
-978810	hif
+NA
+NA
+NA
+NA
+NA
 hif
-978814	nif
-978817	piel
-978826	hif
-978828	piel
+NA
+NA
+NA
+NA
 piel
-978834	piel
-978837	hif
-978841	piel
-978843	qal
-978846	qal
-978848	nif
-978854	hit
-978858	qal
-978860	qal
-978863	hit
-978886	hitpo.
-978891	nif
-978898	qal
-978905	qal
-978909	hif
-978912	qal
-978921	nif
-978925	hif
+NA
 qal
-978929	qal
-978933	qal
-978947	hit
-978950	hif
-978967	qal
-978975	hif
-978978	hif
+NA
+NA
+NA
+NA
+NA
 qal
-978981	hif
-978988	piel
-978995	qal
-979001	piel
-979014	qal
-979022	qal
-979024	qal
-979032	hit
-979037	qal
-979041	qal
-979046	nif
-979055	qal
-979060	nif
-piel
-979065	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+NA
+NA
+NA
 qal
-979069	qal
-979076	qal
-979078	qal
-979086	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-979090	pual
-piel
-979096	qal
-979101	qal
-piel
-979110	nif
-979114	pasq
-979117	hif
-979124	qal
-979127	qal
-979130	qal
-979137	qal
+NA
+NA
+NA
 hif
-979145	qal
-979149	qal
-979152	qal
-979158	qal
-979161	qal
-979165	hif
-979170	hif
-979183	qal
-979187	hif
-979191	piel
-979196	qal
-piel
-979207	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-979216	qal
-hif
-979221	hif
-979225	qal
-979232	hif
-979234	qal
-979246	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-979259	piel
-979262	hif
-piel
-979270	qal
-979273	qal
-979281	hif
-979283	qal
-979286	qal
-979288	hif
-979294	piel
-979299	qal
-hif
-979304	qal
-979306	hif
-979316	hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-979323	hif
-979327	qal
-979335	piel
-979341	hif
-979344	qal
-979346	nif
-979352	piel
-979355	qal
-979358	piel
-979364	qal
-979369	piel
-979374	piel
-979378	qal
-979386	piel
-979388	piel
-979396	qal
-979415	hif
-979426	qal
-979433	piel
-979437	piel
-979439	qal
-979450	qal
-979462	qal
-979469	qal
-979477	qal
-979486	qal
-979492	piel
-qal
-979501	qal
-979509	hif
-979516	piel
-979520	piel
-979522	nif
-979528	piel
-979533	piel
-979540	qal
-979543	qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 po.
-979546	qal
-979551	qal
-979557	hif
-979560	hitpo.
-979564	qal
-979574	qal
-979578	qal
-979584	piel
-979589	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 piel
-979595	qal
-979599	qal
-979602	piel
-979604	qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-979609	qal
-979611	qal
-979614	qal
-979618	qal
-979625	piel
-979630	qal
-979633	qal
-979641	piel
-979645	piel
-979649	hif
-979653	qal
-qal
-979657	qal
-979664	qal
-979666	qal
-979671	hif
-979674	hif
-979676	qal
-979679	qal
-979683	hif
-979691	hit
-979695	nif
-qal
-979703	nif
-qal
-979707	qal
-qal
-979711	qal
-979713	qal
-979720	nif
-979723	hif
-979734	qal
-979738	hif
-qal
-qal
-979744	qal
-979750	hif
-979757	qal
-979763	qal
-979767	hif
-979769	qal
-979772	pasq
-979776	hif
+NA
+NA
+NA
 hif
-979779	qal
-979786	qal
-979792	hif
-979795	qal
-979797	hif
-979804	piel
-979809	piel
-979811	piel
-979814	piel
-979825	qal
-979827	piel
-979829	qal
-979831	qal
-979834	qal
-979839	qal
-qal
-979853	qal
-qal
-979859	qal
-piel
-979864	hif
-979872	qal
-979881	hif
-979893	qal
-979895	nif
-979900	qal
-979908	qal
-qal
-979914	qal
-979916	piel
-979924	hit
-979927	hif
-979932	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-979936	hof
-979939	qal
-979942	piel
-979944	pasq
-979960	hif
-979962	qal
-979971	hif
-979977	hif
-979979	qal
-979982	qal
-979986	hif
-979988	pasq
-979993	qal
-979995	piel
-qal
-979998	qal
-980005	piel
-980009	qal
-980015	hif
-980020	hif
-980028	qal
-980039	qal
-980046	nif
-980051	qal
 nif
-980057	nif
-980059	hit
-980062	piel
-980083	hif
-hif
-980089	pasq
-980094	nif
-980097	piel
-980110	qal
-980119	hif
-980122	nif
-980125	pasq
-980137	piel
-980140	hit
-980143	qal
-980145	qal
-980147	hif
-hif
-980152	qal
-980155	hif
-hif
-980163	qal
-980167	qal
-980178	qal
-980180	hif
-980182	qal
-980188	piel
-980196	qal
-980199	hif
-980207	hif
-980210	hif
-980213	qal
-980217	hif
-980221	qal
-980224	qal
-980235	qal
-980253	qal
-980259	hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
 hit
-980266	nif
-980272	pasq
-980277	qal
-980285	pasq
-980294	pual
-980300	piel
-980303	nif
-980305	pasq
-980307	pual
-hof
-980316	hif
-980320	hif
-980334	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-980338	qal
-980341	piel
-980345	qal
-980351	qal
-qal
-qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-980356	qal
-980364	qal
-980379	qal
-980385	hit
-980395	qal
-980397	qal
+NA
+NA
+piel
+NA
+NA
+NA
 qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
 qal
-980405	nif
-980408	nif
-980435	nif
-980439	pil.
-980450	nif
-980452	qal
-980466	piel
-qal
-980470	hit
-980479	qal
-980491	hif
+NA
+NA
+NA
+NA
 hif
-980496	qal
-980498	hif
-piel
-piel
-980505	piel
-980511	nif
-980515	nif
+NA
+NA
+NA
+NA
+NA
 qal
-980521	nif
-980524	qal
 piel
-980529	hif
-980532	qal
-980538	nif
-980548	qal
 qal
-980551	pasq
-980553	qal
-980557	qal
-980561	piel
-980565	hif
-980567	hif
-980574	qal
-980580	qal
+NA
+NA
+NA
+NA
 qal
-980586	hif
-980590	piel
-980595	piel
-980601	qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-980604	qal
-980608	pasq
-980612	qal
-980614	qal
-980621	qal
-980630	hif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
 hif
-980633	qal
+NA
+NA
+NA
+hit
+NA
+NA
 qal
-980638	qal
-980643	qal
-980654	qal
-980658	qal
-980662	qal
-qal
-980676	qal
-980678	qal
-980681	qal
-980684	qal
-qal
-980689	hit
-980716	qal
-980723	qal
-980728	qal
-980749	qal
-980755	nif
-980757	hif
-980759	hif
-980762	hif
-980764	qal
-980778	nif
-980786	hif
-980792	nif
-980798	qal
-980802	hif
-980804	hif
-980809	hif
-980811	qal
-980818	qal
-980821	qal
-980825	piel
-980827	qal
-980829	qal
-980836	qal
-980840	qal
-980843	hif
-980849	qal
-980854	qal
-980868	qal
-qal
-980874	qal
-980876	qal
-980883	nif
-980889	qal
-980896	qal
-980905	qal
-980913	qal
-qal
-980916	qal
-980921	qal
-980927	qal
-980932	qal
-980934	qal
-980939	nif
-980946	qal
-980956	piel
-980962	qal
-980972	qal
-980978	qal
-980981	nif
-980984	qal
-qal
-980990	qal
-980992	qal
-980997	qal
-981002	hif
-981008	qal
-981010	nif
-981013	qal
-981015	qal
-981017	qal
-981020	qal
-981037	qal
-981040	nif
-981055	pasq
-qal
-981060	qal
-981062	piel
-981064	qal
-981067	qal
-981071	qal
-981084	qal
-981089	qal
-981091	qal
-981093	qal
-981100	hif
-981110	qal
 piel
-981119	hif
-981128	qal
-981141	qal
-981146	hit
-981148	qal
-981157	qal
-981164	qal
-981170	qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-piel
-qal
-981185	qal
-981194	qal
-qal
-981207	piel
-qal
-981216	piel
-qal
-981227	nif
-981234	qal
-981237	qal
-981239	qal
-981241	qal
-981248	pael
-981257	qal
-981270	qal
-981274	qal
-981282	nif
-981288	piel
-piel
-981292	qal
-981300	qal
-981303	hif
-981310	qal
-981314	qal
-981320	qal
-qal
-981326	hif
-981329	qal
-981338	qal
-981343	piel
-981355	qal
-piel
-981359	qal
-981369	hif
-981383	qal
-981386	qal
-981389	piel
-981399	piel
+NA
+NA
+NA
+NA
 pual
-981404	qal
-nif
-981408	qal
-981413	qal
-981415	qal
-hit
-981421	nif
-981424	qal
-981427	hit
-981429	qal
-981434	qal
-981439	qal
-981487	piel
-981496	piel
-981499	qal
-981505	qal
-981517	qal
-981520	pasq
-981528	qal
-981532	qal
-981534	qal
-981540	qal
-981545	qal
-981547	qal
-981563	hif
-981569	qal
-981578	piel
-981580	qal
-981587	qal
-981589	qal
-981593	qal
-981596	pasq
-981598	piel
-981605	qal
-981608	pual
-981611	pasq
-981625	hif
-981635	hif
-981656	hif
-981660	hif
-981664	hif
-981667	qal
-981678	qal
-981680	hif
-981683	nif
-nif
-981687	qal
-981698	qal
-981707	qal
-qal
-981710	qal
-981724	qal
-981737	qal
-981740	hif
-nif
-981762	piel
-981779	qal
-981785	qal
-981788	qal
-981790	qal
-981792	qal
-981797	qal
-981801	qal
-qal
-981808	qal
-981818	pasq
-981820	qal
-981826	piel
-piel
-piel
-981832	piel
-981836	pasq
-981841	qal
-qal
-qal
-qal
-981859	qal
-981869	nif
-981873	hit
-981879	qal
-981887	qal
-981895	qal
-qal
-981898	hif
-qal
-981901	qal
-qal
-qal
-981905	qal
-981907	qal
-981916	hif
-qal
-981920	po.
-981959	qal
-981963	piel
-981978	qal
-981986	qal
-981999	pual
-982007	piel
-982012	qal
-982016	qal
-982021	nif
-qal
-982026	qal
-982028	qal
-982031	hif
-pasq
-982034	hif
-982038	pasq
-982047	qal
-982055	qal
-982065	qal
-982085	qal
-982090	qal
-982101	nif
-982107	qal
-982111	qal
-982119	qal
-982132	qal
-982137	qal
-qal
-982143	qal
-982149	hif
-982155	qal
-qal
-982161	piel
-982181	qal
-982183	nif
-982190	qal
-982193	qal
-982198	qal
-982201	qal
-982203	qal
-982205	qal
-982208	qal
-982214	qal
-982216	qal
-982227	hif
-982243	qal
-qal
-982270	qal
-982272	qal
-pasq
-982276	qal
-982284	qal
-982292	hif
-nif
-982295	nif
-982311	qal
-982315	qal
-982321	pasq
-982325	hif
-982331	hif
-qal
-982335	hif
-982339	qal
-982341	qal
-982350	nif
-982366	piel
-982371	pil.
-982380	hif
-982382	qal
-982386	nif
-982393	qal
-982403	qal
-982410	hof
-hif
-qal
-982419	piel
-982423	qal
-982431	hif
-982440	qal
-982455	nif
-qal
-982458	pasq
-982462	piel
-982469	qal
-982471	qal
-982474	qal
-982491	qal
-hof
-982498	hif
-nif
-982503	piel
-982506	qal
-982509	hif
-hif
-982533	qal
-982542	qal
-982545	qal
-982548	polal
-982552	qal
-982556	hit
-982579	pasq
-982581	nif
-982587	qal
-982592	qal
-982594	qal
-982596	piel
-982600	hit
-982607	hit
-982610	qal
-qal
-982613	qal
-982618	hif
-982621	hif
-982623	hit
-982630	nif
-982643	piel
-piel
-hif
-hif
-982656	hif
-982662	qal
-982665	qal
-982668	hif
-hif
-982675	pasq
-982684	qal
-982686	hif
-982693	hif
-qal
-nif
-982697	qal
-qal
-982705	qal
-982714	qal
-982719	qal
-982723	piel
-qal
-982726	nif
-nif
-982734	nif
-982736	nif
-982739	piel
-982745	hif
-982754	qal
-982777	qal
-982783	hit
-982786	hif
-982789	hif
-hif
-982798	hif
-982807	nif
-982813	qal
-982820	qal
-982827	hif
-982832	hif
-hif
-982840	pasq
-982845	nif
-982855	qal
-982859	hif
-982863	qal
-982873	qal
-982875	qal
-982877	qal
-982879	qal
-qal
-982883	pasq
-982888	qal
-982899	hit
-982924	po.
-982934	qal
-982942	qal
-982944	hif
-982951	qal
-982963	qal
-982995	qal
-983000	piel
-qal
-983008	hif
-983014	piel
-983016	piel
-983019	hif
-983023	qal
-983033	nif
-983038	qal
-983043	qal
-983047	qal
-983052	piel
-983054	qal
-983075	qal
-983083	qal
-983088	hif
-983095	qal
-983103	hif
-983113	qal
-983124	piel
-983134	qal
-983136	qal
-983141	qal
-983145	hit
-983151	hif
-983153	qal
-983159	qal
-983161	qal
-983167	qal
-983170	qal
-983180	hif
-983184	qal
-qal
-983191	piel
-983198	qal
-983207	pasq
-983235	qal
-983239	qal
-983249	hit
-piel
-983263	qal
-983274	nif
-983292	qal
-983298	pasq
-983314	nif
-983325	qal
-983344	qal
-qal
-983351	qal
-983355	hif
-983361	qal
-hif
-983364	qal
-983366	qal
-nif
-983371	piel
-983381	qal
-983385	hif
-983388	pasq
-983402	qal
-983411	qal
-983413	pasq
-983416	pasq
-983418	qal
-983421	qal
-pual
-qal
-983426	hif
-pasq
-983430	qal
-qal
-qal
-983440	hof
-qal
-983445	pasq
-983447	hif
-983449	qal
-983455	qal
-983466	qal
-983478	qal
-983483	qal
-983487	hit
-983493	hif
-983499	qal
-983503	hif
-983508	hit
-983513	piel
-983518	hif
-983524	piel
-hif
-983529	hif
-983531	hit
-hif
-983534	qal
-983538	qal
-983540	qal
-983543	piel
-983556	qal
-983578	piel
-983592	hif
-983596	hit
-983615	hif
-983621	piel
-983632	hif
-qal
-983636	qal
-983654	piel
-983657	piel
-983668	hif
-hof
-983678	qal
-983683	pasq
-983688	qal
-hif
-983696	qal
-983707	piel
-983722	pasq
-983727	piel
-qal
-983736	piel
-983752	qal
-983759	piel
-983761	qal
-983766	qal
-983768	piel
-983778	qal
-qal
-983782	qal
-983789	piel
-983807	qal
-983810	piel
-983837	qal
-983855	pasq
-hif
-983860	qal
-983863	piel
-983865	qal
-983869	piel
-983886	piel
-983888	qal
-983890	qal
-pasq
-983904	hif
-983920	qal
-983922	hif
-983925	piel
-983945	piel
-qal
-983956	qal
-pasq
-983965	qal
-983969	qal
-983973	piel
-983979	piel
-983987	pasq
-983992	qal
-983994	hif
-984016	piel
-984026	piel
-984028	qal
-984056	pasq
-pasq
-984060	hif
-984065	hif
-984082	piel
-984084	qal
-984097	qal
-qal
-984110	piel
-984114	piel
-984131	qal
-984139	piel
-984141	qal
-piel
-984154	piel
-984156	qal
-984158	qal
-pasq
-984178	piel
-984180	qal
-984182	qal
-984189	pasq
-984194	hif
-984201	qal
-984205	piel
-984242	piel
-984280	qal
-984287	piel
-piel
-984290	pual
-984305	piel
-984307	qal
-984309	qal
-984323	qal
-pasq
-984340	hif
-984343	piel
-984345	qal
-984347	qal
-pasq
-984361	qal
-pasq
-984367	piel
-984376	qal
-984378	qal
-pasq
-984382	hif
-984390	qal
-984396	qal
-984406	qal
-984424	qal
-piel
-984435	qal
-984437	qal
-pasq
-984457	hif
-984460	piel
-984462	qal
-pasq
-984480	pasq
-984485	qal
-984487	hif
-984497	hif
-984501	qal
-984506	qal
-984508	qal
-984510	hif
-984519	qal
-984526	hif
-984530	piel
-984539	qal
-piel
-984543	piel
-984545	qal
-984551	hif
-984561	qal
-984574	qal
-984576	qal
-984581	nif
-984587	qal
-984594	qal
-984598	hif
-984602	hit
-984605	qal
-984607	qal
-984617	piel
-984624	qal
-984635	qal
-984647	qal
-984649	nif
-984651	qal
-984664	qal
-984673	piel
-984682	nif
-984686	qal
-984688	hif
-984690	qal
-984693	qal
-984707	nif
-984713	nif
-984717	qal
-984720	qal
-984727	qal
-984733	piel
-984735	piel
-984740	hif
-984757	qal
-984762	qal
-984773	qal
-hif
-984777	qal
-984783	qal
-984785	qal
-984795	qal
-984803	qal
-984810	qal
-984816	qal
-984823	qal
-984829	hif
-984833	qal
-984835	qal
-984841	qal
-qal
-984853	qal
-984857	nif
-984867	hif
-984880	piel
-984897	qal
-984899	qal
-984901	qal
-984906	qal
-984914	qal
-984918	nif
-984927	hif
-984929	qal
-984932	qal
-984937	qal
-984943	qal
-984947	piel
-984949	hif
-984962	qal
-984965	hif
-984971	qal
-984975	qal
-984983	hif
-984986	hif
-984990	qal
-984994	qal
-984998	piel
-985004	qal
-985010	hif
-985014	qal
-985020	piel
-985025	qal
-985034	hif
-985037	hif
-985041	hif
-hif
-985046	hif
-985048	hif
-985054	piel
-985065	qal
-985075	nif
-985077	qal
-985088	qal
-985093	qal
-985100	qal
-985103	hif
-985111	hif
-985117	piel
-985123	piel
-985131	qal
-nif
-985138	qal
-985145	qal
-985152	hif
-985163	pasq
-985168	qal
-985171	hif
-hif
-985174	hif
-985183	hif
-985212	qal
-985216	qal
-985218	pasq
-985220	hif
-985227	qal
-985229	hit
-985234	nif
-985245	hif
-985249	qal
-985265	qal
-985267	qal
-985273	qal
-985290	qal
-985293	qal
-985296	qal
-985307	qal
-985309	qal
-985325	qal
-qal
-985329	piel
-985332	qal
-985334	qal
-985339	hif
-985350	qal
-hif
-985356	qal
-985366	qal
-985369	qal
-985371	qal
-985375	piel
-985385	hitpo.
-985392	qal
-985398	qal
-985402	hif
-985407	hif
-985409	qal
-985412	qal
-985414	qal
-985416	qal
-985422	hit
-985432	qal
-985444	piel
-985447	piel
-985449	piel
-985456	qal
-985458	pasq
-985465	piel
-985469	piel
-985478	qal
-985480	qal
-985482	hif
-985485	qal
-piel
-985488	qal
-985490	hif
-985493	pasq
-qal
-985501	nif
-985505	nif
-985507	qal
-985511	qal
-985518	qal
-hif
-985522	hit
-985528	qal
-985536	qal
-985552	hif
-985554	piel
-qal
-985561	qal
-985565	qal
-985570	qal
-985572	piel
-985574	qal
-985585	hif
-985588	hif
-piel
-985591	qal
-985603	qal
-985613	qal
-985621	piel
-985624	nif
-hit
-hit
-985629	qal
-qal
-985632	qal
-985635	qal
-985646	qal
-985649	nif
-985652	qal
-985665	qal
-985668	qal
-985670	qal
-985676	qal
-985697	qal
-985701	pasq
-985703	pasq
-985709	qal
-985712	hif
-qal
-985720	hif
-985728	qal
-nif
-985731	nif
-qal
-985741	piel
-qal
-985746	qal
-qal
-985749	qal
-985756	piel
-985778	qal
-985784	pasq
-985786	qal
-985790	piel
-985792	piel
-985805	qal
-985807	qal
-985815	hif
-985819	qal
-985833	piel
-985842	qal
-985856	pasq
-985859	piel
-985862	piel
-985864	hif
-985870	qal
-985872	piel
-985874	hif
-985878	qal
-985884	qal
-985896	pual
-qal
-985903	qal
-985914	qal
-piel
-nif
-985919	qal
-985923	hit
-985938	nif
-985940	pil.
-985943	hif
-985948	qal
-piel
-985962	hit
-985967	qal
-985970	qal
-qal
-985975	qal
-qal
-986003	qal
-qal
-986007	hif
-piel
-986010	qal
-986021	qal
-986024	qal
-986026	hif
-986029	hif
-986039	qal
-986045	hif
-986050	qal
-986057	piel
-hif
-986076	piel
-986086	qal
-986088	piel
-piel
-986096	qal
-piel
-986100	hif
-986112	qal
-qal
-986121	hif
-qal
-hif
-piel
-986127	qal
-986129	qal
-piel
-986132	pasq
-986134	pual
-nif
-986137	hif
-986140	pasq
-986143	qal
-qal
-986154	qal
-986162	qal
-986165	qal
-986197	nif
-986199	hit
-986201	nif
-986209	hif
-986213	piel
-986216	piel
-986234	qal
-986238	qal
-986245	hif
-hif
-986268	piel
-986284	qal
-986286	hif
-986291	piel
-986296	hif
-986299	qal
-986308	hif
-986315	hit
-986318	hif
-986329	hitpal.
-986335	piel
-986337	qal
-986342	hif
-986352	hif
-hif
-986363	qal
-986375	nif
-qal
-986390	piel
-986398	hit
-986406	piel
-986414	qal
-986431	qal
-986434	qal
-986440	qal
-986456	qal
-986463	qal
-986467	qal
-986474	piel
-piel
-986486	hif
-hif
-986493	qal
-piel
-986500	qal
-986523	piel
-986530	qal
-986535	qal
-986540	hif
-986549	qal
-986553	qal
-986556	nif
-986563	qal
-986576	qal
-986578	piel
-piel
-986585	qal
-986601	qal
-986605	pasq
-986610	qal
-986642	qal
-986647	qal
-hif
-986655	hif
-986660	qal
-986668	qal
-986676	hit
-986687	qal
-qal
-hitpo.
-986691	qal
-986721	piel
-986724	qal
-986730	hif
-986735	qal
-986744	pual
-986756	qal
-986764	qal
-986769	qal
-986771	nif
-986781	qal
-986785	qal
-986796	qal
-986798	qal
-986801	piel
-986812	piel
-986820	pual
-986825	hif
-986834	nif
-986836	qal
-986842	piel
-986845	piel
-986848	nif
-986851	piel
-986857	po.
-986859	piel
-986866	hif
-piel
-986876	piel
-piel
-986885	qal
-986887	nif
-nif
-986891	nif
-986893	qal
-nif
-986897	qal
-986899	qal
-986901	hif
-986917	qal
-986923	qal
-986965	qal
-986973	piel
-986976	hif
-986992	hif
-986999	qal
-qal
-987022	qal
-987028	hif
-987038	pasq
-987045	qal
-987054	qal
-987065	piel
-987071	piel
-nif
-987074	qal
-987090	qal
-987110	piel
-987114	qal
-987118	qal
-987130	qal
-987141	hif
-987144	hif
-987149	hif
-987157	hif
-987164	hif
-piel
-987170	pasq
-987179	hif
-987183	qal
-987189	pasq
-987210	qal
-987218	qal
-987223	piel
-piel
-987229	piel
-qal
-987233	piel
-987237	piel
-987240	hif
-987242	nif
-987246	qal
-qal
-987249	hif
-987260	piel
-nif
-987263	hif
-987270	piel
-987273	piel
-987275	hif
-987309	hit
-piel
-987312	qal
-pasq
-987320	hit
-987323	nif
-987334	pasq
-987336	hif
-987341	piel
-987352	piel
-987354	piel
-987356	qal
-987358	qal
-pasq
-987362	piel
-987367	piel
-987383	piel
-987394	qal
-pasq
-987401	qal
-987410	qal
-987413	qal
-987418	hif
-987421	qal
-987427	qal
-987432	piel
-987447	qal
-987453	piel
-987459	piel
-987464	qal
-piel
-987469	piel
-987474	qal
-987476	qal
-987491	piel
-987493	qal
-987495	qal
-987500	hit
-987527	piel
-987533	hof
-987539	qal
-987549	hit
-987555	qal
-987573	nif
-987576	qal
-987581	nif
-987583	qal
-987585	qal
-pasq
-987591	hif
-987597	qal
-987604	qal
-pasq
-987609	nif
-nif
-987616	qal
-piel
-hit
-987625	qal
-987629	qal
-987639	piel
-987643	piel
-987645	qal
-987647	qal
-987650	piel
-987656	qal
-987663	qal
-qal
-qal
-987676	hif
-qal
-987687	nif
-hof
-987692	qal
-987694	piel
-987696	nif
-987698	pasq
-987701	nif
-987709	qal
-987718	qal
-987724	hit
-987726	qal
-987729	qal
-987755	hif
-987774	piel
-987783	hif
-987785	qal
-987788	hif
-987793	piel
-987795	hif
-987805	qal
-987807	qal
-987811	hif
-987819	hif
-987823	hof
-987845	qal
-987851	qal
-987853	piel
-pual
-987872	hif
-hif
-987880	piel
-987884	qal
-987890	qal
-987893	qal
-987898	qal
-987901	qal
-987903	piel
-987907	qal
-987910	hif
-987912	qal
-987925	qal
-987927	piel
-987931	qal
-987934	qal
-987942	qal
-987945	qal
-987952	hif
-987954	qal
-987960	qal
-987971	qal
-987973	piel
-987977	qal
-987980	qal
-987985	qal
-987989	qal
-987994	piel
-988004	qal
-988012	qal
-988016	qal
-hof
-hof
+NA
+NA
+NA
+NA
 nif
 qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-hif
-988024	piel
+NA
+NA
 qal
-988027	pasq
-hif
-988033	qal
-988037	qal
-988042	qal
-988046	qal
-988048	hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-988054	qal
-988062	qal
-988066	hit
-piel
-988077	qal
-988081	piel
-988088	piel
-988093	qal
-988098	piel
-988101	hif
-988105	piel
-988112	hif
-pasq
+NA
+NA
+NA
+NA
 qal
-988116	qal
-pasq
-988121	qal
-988123	piel
-988134	hit
-988136	nif
-988139	qal
+NA
+NA
+NA
 qal
-988144	piel
-988146	qal
-piel
-988150	qal
-piel
-988153	piel
-988156	hif
-pasq
-piel
-988161	hif
-piel
-988168	hif
-988170	nif
-qal
-988181	qal
-qal
-988192	qal
-988197	qal
-988207	piel
-piel
-qal
-988211	piel
-988215	qal
-piel
-qal
-qal
-988235	qal
-988243	piel
-pual
-988248	qal
-piel
-988251	qal
-988254	hif
-988256	hif
-988267	qal
-988269	qal
-piel
-pasq
-988273	piel
-988280	hif
-988296	piel
-988301	qal
-qal
-988307	qal
-988311	qal
-988314	qal
-988319	qal
-988323	qal
-qal
-988352	hif
-988374	hif
-988394	qal
-988444	hif
-qal
-qal
-988448	hif
-988456	nif
-988467	hif
-988476	qal
-988489	hif
-988493	qal
-988497	piel
-988512	qal
-988522	qal
-988524	hif
-988526	qal
-988534	hif
-988538	qal
-988544	hif
-988563	nif
-nif
-nif
-988572	hif
-hif
-hif
-988576	qal
-988581	pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 po.
-988585	etpe
-988587	peal
-988594	qal
-988597	nif
-988599	qal
-988604	qal
-988611	qal
-988613	hif
-988625	hif
-988628	qal
-988634	qal
-988658	qal
-988665	qal
-988674	piel
-988682	qal
-988685	qal
-988695	qal
-988708	qal
-988711	qal
+NA
+NA
+NA
 qal
-988717	qal
-988724	hif
-988726	hif
-988733	qal
-988737	qal
-988741	qal
-988746	qal
-988750	hif
-988755	qal
-988761	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
+NA
+NA
 qal
-qal
-988770	hif
-988773	hit
-988778	hif
-988783	hit
-988789	qal
-988793	qal
-988802	qal
-988805	qal
-988812	qal
-988815	qal
-988820	po.
-988824	qal
-988831	qal
-988836	qal
-988844	hif
-988853	hif
-988856	qal
-qal
-988862	nif
-988870	qal
-988889	qal
-988896	qal
-988900	qal
-988902	qal
-988909	qal
-988920	hif
-hif
-988926	qal
-988928	qal
-988931	hit
-988938	qal
-nif
-hif
-qal
-988944	hif
-988950	qal
-piel
-988953	qal
-qal
-988959	hif
-qal
-988962	qal
-988966	piel
-988971	hif
-988974	hif
-988976	qal
-988979	qal
-988984	hif
-988987	nif
-988989	hif
-988994	hif
-988996	piel
-nif
-989003	nif
-989027	qal
-989034	hif
-989037	hif
-hif
-989047	qal
-989053	qal
-989057	qal
-989059	qal
-qal
-989062	qal
-989065	qal
-989070	qal
-989086	piel
-piel
-hit
-989091	nif
-989096	hitpo.
-hit
-989100	qal
-qal
-989105	qal
-989107	qal
-989111	piel
+NA
 hitpo.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 hitpo.
-989116	hit
-989120	hif
-989130	qal
-989133	piel
-989139	hif
-piel
-989147	qal
-989151	nif
-989155	qal
-989159	hit
-989162	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-989165	qal
-989169	qal
-989171	qal
-989175	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-989179	qal
-989183	hif
-989190	qal
-989194	hif
-989198	qal
-989200	hif
-989205	qal
+NA
+NA
+NA
+NA
 qal
-989208	qal
-989210	qal
-989213	qal
-989219	qal
-989223	hif
-989227	hif
-989229	qal
-nif
-989236	piel
-989238	nif
-989241	nif
-989245	nif
-989253	piel
-989255	qal
-989258	po.
-hitpo.
-989267	hit
-989276	po.
-989282	hif
-989298	hif
-989301	qal
-pasq
-989304	piel
-989315	qal
-989319	hif
+NA
+NA
+NA
 qal
-989326	nif
-989331	nif
-989336	qal
-989339	pasq
-989343	qal
-989345	hit
+NA
+NA
+NA
+NA
 pual
-989352	qal
-989357	nif
-989361	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-989364	qal
-989366	hitpo.
-hitpo.
-hitpo.
-989372	qal
-989374	qal
-989380	hit
-hitpo.
-989385	nif
-989388	qal
-989402	qal
-989404	qal
-qal
-989408	qal
-989419	qal
-qal
-989423	nif
-hif
-hif
-989428	qal
-989430	hif
-989434	hif
-989436	qal
-989441	qal
-qal
-989447	hif
-piel
-989450	qal
-989453	hif
-989455	qal
-qal
-989462	hit
+NA
+NA
+NA
+NA
 hit
+NA
+qal
+hit
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+piel
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+pual
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+po.
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hitpo.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+pasq
+NA
+pual
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+piel
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pael
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+pual
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
 hif
 nif
-989471	qal
-989475	qal
-989478	hit
-989486	qal
-989493	hif
-989496	qal
-989498	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-989503	piel
-989506	qal
-989508	qal
-989516	qal
-989519	qal
+NA
+NA
+NA
+NA
+NA
 qal
-989522	qal
-nif
-989529	qal
-989531	qal
+NA
+NA
 qal
-989538	hif
-989546	qal
-989548	qal
-989551	peal
-989558	peal
-989565	pasq
-989569	piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-989583	nif
-989589	qal
-989591	pasq
-989594	qal
-989607	pual
-989617	qal
-989624	piel
-989627	piel
-989631	qal
-989633	pasq
-989638	qal
-989640	hif
-989643	qal
-989650	nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+qal
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+pasq
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+pasq
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 hof
-pual
-989657	qal
-989664	qal
-989666	hif
-989671	hif
-nif
-989674	hit
-989684	hif
-989692	qal
-989695	qal
-qal
-989699	qal
-989704	qal
-989710	qal
-989715	qal
-989719	hif
-989722	piel
-qal
-989737	qal
-qal
-989761	qal
-989764	qal
-989768	qal
-989787	nif
-989789	qal
-989802	pual
-qal
-989816	hif
-989818	piel
-989821	qal
-989828	qal
-989844	piel
-989848	qal
-989854	qal
-989859	nif
-qal
-989863	qal
-989867	qal
-989874	qal
-989881	piel
-qal
-989895	qal
-989905	qal
-piel
-989910	qal
-989915	piel
-qal
-989918	qal
-piel
-qal
-989924	qal
-989926	nif
-qal
-qal
-989930	qal
-989935	hif
-989940	piel
-989953	qal
-989957	hif
-989960	qal
-989963	piel
-989970	nif
-989973	hif
-989977	nif
-989983	qal
-989989	hif
-989991	hif
-990004	qal
-990012	hif
-990028	qal
-990036	qal
-990047	piel
-qal
-qal
-990051	piel
-990068	hit
-990073	qal
-990078	qal
-990087	piel
-990090	hif
-990108	piel
-990110	hif
-990113	hif
-990117	hit
-990119	hif
-990128	hif
-990131	nif
-990135	piel
-990138	nif
-990142	hif
-990147	hif
-990155	nif
-990170	piel
-990172	nif
-qal
-990175	hif
-990178	hif
-990184	piel
-990198	nif
-990206	qal
-990209	nif
-990212	qal
-990222	hif
-990233	qal
-990235	qal
-990241	qal
-990244	piel
-qal
-piel
-990251	hif
-990254	qal
-990260	hif
-990267	hif
-990271	piel
-990276	hif
-990278	hif
-990281	qal
-990284	hif
-990297	qal
-qal
-990310	qal
-990314	qal
-990318	qal
-990321	pasq
-990323	qal
-990325	piel
-990330	qal
-990333	piel
-990337	hif
-990342	hif
-990350	qal
-990357	qal
-990359	hif
-990372	qal
-990376	qal
-990378	qal
-990380	qal
-990386	nif
-qal
-990392	piel
-990399	qal
-990401	hit
-nif
-990406	hif
-990422	qal
-qal
-990432	piel
-990435	qal
-990442	qal
-990447	qal
-990449	piel
-qal
-990461	qal
-990464	qal
-piel
-990468	qal
-990470	piel
-990472	qal
-990481	qal
-hif
-990487	hif
-qal
-990492	qal
-990494	qal
-990497	piel
-qal
-990500	qal
-990502	piel
-piel
-990508	qal
-piel
-990515	hif
-qal
-990523	nif
-990525	qal
-990532	hitpo.
-990534	hif
-qal
-990543	qal
-pasq
-990557	qal
-990561	qal
-990567	hit
-990572	qal
-990578	qal
-990583	piel
-990586	qal
-990591	hit
-piel
-990601	nif
-990603	qal
-990610	nif
-990613	qal
-piel
-990618	hit
-990622	qal
-990627	nif
-990631	qal
-990636	pual
-990639	nif
-990647	hit
-990651	qal
-990657	piel
-990660	hif
-990662	nif
-piel
-990665	pual
-990670	hit
-qal
-qal
-990674	qal
-990676	piel
-990678	qal
-qal
-990684	qal
-990686	qal
-piel
-990692	hif
-990695	qal
-990702	qal
-990704	qal
-990708	qal
-piel
-990712	qal
-990718	hif
-990724	qal
-990729	qal
-990734	hif
-990741	piel
-990743	qal
-990748	qal
-990751	qal
-990754	qal
-990759	hif
-990764	nif
-990766	piel
-990773	hif
-990775	qal
-990777	piel
-990782	hif
-990794	pual
-990797	qal
-990799	qal
-990804	hif
-990811	qal
-990814	qal
-990816	qal
-990818	qal
-990820	qal
-qal
-990837	qal
-990855	hif
-990860	hif
-990865	qal
-990869	piel
-990871	hif
-990875	qal
-piel
-990884	pasq
-qal
-990889	hif
-990893	qal
-990896	hif
-990900	hif
-990905	qal
-990916	qal
-990918	nif
-990930	qal
-990934	nif
-990938	qal
-990940	qal
-990950	po.
-990997	qal
-991001	piel
-991011	piel
-991013	pasq
-991016	qal
-991024	piel
-991028	nif
-qal
-991035	piel
-991042	qal
-991051	qal
-qal
-991056	qal
-991060	qal
-991066	qal
-991070	qal
-991077	hif
-991082	hif
-991093	hif
-991096	piel
-991099	piel
-991104	qal
-991109	qal
-991112	hif
-qal
-991116	qal
-991120	piel
-qal
-991124	qal
-991137	qal
-991142	qal
-991144	qal
-991149	qal
-991154	qal
-991159	qal
-991169	qal
-991173	qal
-991175	piel
-991179	qal
-piel
-991183	nif
-991192	hif
-991197	qal
-991204	qal
-991206	qal
-991208	qal
-991210	qal
-991212	qal
-991217	qal
-991222	hif
-hif
-991229	qal
-991241	hif
-991245	qal
-991249	piel
-991260	qal
-991262	qal
-991269	qal
-qal
-qal
-qal
-991281	qal
-991283	qal
-qal
-qal
-991288	qal
-991290	qal
-991293	qal
-991295	qal
-991300	hif
-991316	qal
-qal
-991324	qal
-991327	qal
-991333	qal
-991340	qal
-991343	qal
-991345	qal
-991359	piel
-qal
-991367	qal
-piel
-qal
-991374	qal
-991377	qal
-991391	nif
-991395	qal
-991401	qal
-991405	qal
-991409	qal
-991414	qal
-991417	hif
-hif
-991422	qal
-991424	qal
-991442	qal
-991445	qal
-991450	qal
-991453	qal
-991455	qal
-991459	qal
-991462	qal
-qal
-991466	polal
-991476	qal
-qal
-991487	qal
-991496	hif
-991511	hif
-991515	hif
-piel
-991519	qal
-991521	qal
-991527	qal
-991531	qal
-991535	piel
-991538	pasq
-991541	pasq
-991546	pasq
-991551	pual
-991561	piel
-991564	nif
-991567	piel
-991574	pasq
-991577	pasq
-991583	nif
-991594	qal
-991614	pasq
-991617	pasq
-991622	qal
-991628	hif
-991634	qal
+NA
+NA
+NA
+NA
+NA
 hif
 nif
-991638	nif
-nif
-nif
-991651	qal
-qal
-991657	hif
-991662	qal
-991666	piel
-hif
-991673	qal
-991676	qal
-qal
-991680	qal
-991687	qal
-991691	qal
-991694	hif
-991696	hif
-qal
-991702	piel
+NA
+NA
+NA
 piel
-991705	qal
-991718	nif
-991727	qal
-991729	piel
-991738	hif
-991741	hif
-991743	hif
-991751	qal
-991757	qal
-991762	hif
+NA
+NA
 qal
-991765	qal
-qal
-991770	qal
-991775	hit
-qal
-991779	qal
-991781	qal
-991787	qal
-991791	qal
-991794	hif
-991796	hif
-991807	qal
-991813	hif
-991822	hit
-991833	qal
-991841	qal
-991845	qal
-991863	hif
-991869	piel
-991887	qal
-qal
-991904	nif
-991911	qal
-991916	qal
-991950	qal
-991954	hit
-991962	qal
-991966	qal
-991975	qal
-991979	qal
-991983	nif
-991998	qal
-992011	hif
-992019	qal
-992021	hif
-992029	qal
-992040	qal
-992044	qal
-992050	hif
-qal
-992055	hof
-992057	piel
-992069	qal
-992073	qal
-992079	qal
-992096	piel
-992110	qal
-992131	pasq
-992137	qal
-992139	nif
-992144	qal
-992146	qal
-992150	qal
-992155	qal
-992166	qal
-992171	hif
-992175	qal
-992180	hif
-992205	qal
-992209	qal
-qal
-992214	piel
+NA
+NA
 hif
-992217	piel
-qal
-992227	piel
-992233	qal
-992237	pasq
-992241	piel
-992244	hif
-992253	hof
-992257	qal
-992260	pasq
-992264	qal
-992268	hif
-992270	qal
-992272	qal
-992278	hif
-992284	qal
-992286	hif
-992292	qal
-piel
-992309	qal
-qal
-992314	piel
-992320	hif
-992322	hif
-992329	qal
-992337	piel
-992342	qal
-992344	pasq
-992351	pasq
-992358	pasq
-992360	pasq
-992364	piel
-992369	hif
-992373	qal
-992382	hif
-992397	qal
-992409	po.
-992414	qal
-992416	hit
-992419	piel
-992428	nif
-992439	qal
-992453	hit
-992459	nif
-992464	po.
-992476	qal
-992486	qal
-992496	qal
-992499	hif
-992503	qal
-992512	hsht
-992533	nif
-992535	piel
-992588	pual
-992593	pual
-992601	piel
-992605	hitpal.
-992607	qal
-992610	hitpal.
-992613	piel
-992620	qal
-992635	qal
-992638	qal
-992642	qal
-992654	nif
-992662	piel
-992670	hif
-992675	piel
-992677	piel
-992700	qal
-qal
-992730	pual
-992805	qal
-992827	nif
-992830	qal
-992832	qal
-992835	qal
-992839	qal
-992845	qal
-992850	qal
-992858	hsht
-992864	nif
-992866	qal
-992870	qal
-992872	qal
-992885	piel
-992897	qal
-992911	qal
-992917	qal
-992923	hif
-992944	qal
-992948	qal
-992998	pual
-993056	qal
-993064	qal
-993069	qal
-993077	qal
-993090	hif
-993092	qal
-993099	qal
-993111	hif
-993115	qal
-993117	qal
-993126	qal
-993150	hif
-993174	qal
-993180	pasq
-993184	qal
-993201	pasq
-993220	pasq
-993249	nif
-993268	pasq
-993297	qal
-993337	piel
-993345	qal
-qal
-piel
-993350	qal
-993364	qal
-993368	qal
-993373	hif
-qal
-993377	hit
-993380	hif
-993413	qal
-993418	hof
-993428	qal
-993435	piel
-993444	qal
-993453	qal
-993465	hif
-993472	qal
-993475	qal
-993477	pual
-993479	qal
-993492	qal
-993497	qal
-993504	qal
-993507	qal
-993514	hif
-993516	qal
-993533	qal
-993542	hif
-993598	qal
-993628	hif
-993638	qal
-993644	hif
-993647	qal
-993653	qal
-993656	hif
-993674	qal
-993682	hif
-993686	hif
-993690	qal
-993700	qal
-993716	qal
-993720	hif
-993732	qal
-993736	hif
-993752	hif
-993768	qal
 hif
-993780	hif
-993792	hif
-993801	hif
-993805	piel
-993811	piel
-993816	qal
-993821	hif
-993826	nif
-993828	qal
-993832	qal
-993835	nif
-993840	nif
-993846	qal
-993850	hif
-hif
-993853	hif
-993876	hif
-993904	qal
-993913	qal
-993926	qal
-993938	qal
-993953	qal
-993959	qal
-993963	hif
-994003	qal
-994007	qal
-994014	hif
-994020	hif
-994039	qal
-994050	hif
-994055	qal
-994082	qal
-994100	qal
-994102	qal
-994113	piel
-994126	hif
-994157	hif
-994163	hif
-994169	qal
-994176	hif
-994184	qal
-994201	qal
-994212	hif
-994215	piel
-994229	hif
-994241	hif
-994260	hif
-994282	qal
-994298	qal
-994306	qal
-994311	qal
-994322	qal
-994329	qal
-994342	qal
-994358	qal
-994372	qal
-994393	hif
-994418	qal
-994423	qal
-994429	qal
-994444	piel
-994453	hit
-994459	nif
-994463	hif
-994506	hif
-994512	hif
-994533	qal
-994537	piel
-994550	hif
-994563	qal
-994570	piel
-994577	nif
-994580	qal
-994592	hit
-994607	qal
-994612	piel
-994621	qal
-994631	nif
-994634	qal
-994648	nif
-994661	qal
-994669	qal
-994676	qal
-994682	qal
-994688	hit
-994691	nif
-994699	qal
-994704	piel
-994713	qal
-994733	qal
-994848	hif
-994865	hif
-994874	hif
-994880	qal
-994885	qal
-994892	piel
-994897	hif
-994905	qal
-994910	hif
-994917	qal
-994924	qal
-994926	qal
-994933	qal
-994935	qal
-994942	pual
-994958	qal
-994978	pual
-994988	qal
-994997	pasq
-995003	pasq
-995011	qal
-qal
-995021	qal
-995039	qal
-995045	pual
-995068	qal
-995090	piel
-995095	hif
-995107	pual
-995109	qal
-hif
-995116	qal
-995124	qal
-995130	qal
-995136	qal
-995140	qal
-995142	nif
-qal
-995146	qal
-995152	qal
-qal
-995161	hit
-995164	hif
-995167	hit
-995173	qal
-995176	qal
-995183	qal
-995227	pasq
-995230	pasq
-995241	pual
-995259	qal
-hif
-995271	piel
-995273	hif
-pasq
-995283	qal
-995289	qal
-995299	qal
-qal
-995303	qal
-qal
-995309	qal
-995316	qal
-995320	qal
-995329	piel
-995334	qal
-995340	piel
-995347	qal
-995351	hif
-995376	hif
-995391	qal
-995393	qal
-995404	hof
-995411	qal
-995416	pasq
-995418	piel
-995422	hof
-995425	piel
-995429	qal
-995435	piel
-995450	qal
-995458	qal
-995466	qal
-995472	hof
-995491	qal
-piel
-995498	hof
-qal
-995507	qal
-995519	qal
-995545	qal
-995548	qal
-995577	pual
-995580	pual
-995585	pual
-995604	qal
-995615	qal
-995638	qal
-995658	pasq
-995674	qal
-qal
-995678	hit
-995694	qal
-piel
-995709	qal
-995716	qal
-995729	qal
-qal
-995740	qal
-995743	qal
-995792	pasq
-995801	pual
-995813	hsht
-995821	qal
-995829	hif
-995848	qal
-995859	qal
-995941	qal
-995948	qal
-995951	qal
-995961	nif
-996008	pasq
-996145	qal
-996157	qal
-996183	pual
-996189	pual
-996193	pual
-996201	qal
-996221	qal
-996228	qal
-996242	pasq
-996259	qal
-996262	pual
-996275	qal
-996277	nif
-996308	qal
-qal
-996311	qal
-996314	hif
-996339	nif
-996342	hif
-996349	qal
-qal
-996358	qal
-qal
-996393	hif
-996401	nif
-996404	qal
-nif
-996408	nif
-996410	nif
-996413	qal
-996415	qal
-996425	qal
-996427	hif
-hif
-996432	qal
-996434	qal
-qal
-996439	hif
-996443	qal
-996455	qal
-996461	qal
-996475	nif
-996478	nif
-996482	qal
-996485	piel
-qal
-996489	qal
-996503	piel
-qal
-996584	qal
-qal
-996588	qal
-996602	qal
-996604	qal
-996607	qal
-996612	piel
-996620	qal
-996625	qal
-996630	qal
-996636	hif
-996640	piel
-996643	qal
-996651	piel
-996654	qal
-996656	qal
-996661	qal
-996668	piel
-996672	qal
-996678	qal
-996684	hif
-996693	qal
-996699	piel
-996704	qal
-996710	qal
-996723	qal
-996727	qal
-996734	piel
-996740	qal
-996748	qal
-996754	qal
-996758	qal
-996762	hit
-qal
-996766	pasq
-996768	pual
-996770	qal
-996774	qal
-hit
-996779	qal
-996781	hif
-996785	qal
-996796	qal
-996806	qal
-996810	qal
-996828	qal
-qal
-996834	qal
-996838	qal
-996848	qal
-hif
-996857	qal
-qal
-996865	piel
-996867	piel
-996871	qal
-996876	qal
-996880	qal
-996888	qal
-qal
-996900	pual
-996905	qal
-996907	qal
-996912	qal
-nif
-996923	qal
-996929	hof
-996934	qal
-qal
-pual
-996938	qal
-996942	qal
-996958	hif
-996962	hif
-hif
-piel
-996968	qal
-996979	nif
-hit
-996986	qal
-996991	qal
-996993	qal
-997004	qal
-997012	qal
-997017	qal
-997022	qal
-qal
-997034	qal
-997038	qal
-997042	piel
-997047	piel
-997058	qal
-997062	qal
-hif
-997077	piel
-997085	qal
-997091	piel
-997103	qal
-997108	qal
-997110	qal
-997117	qal
-997119	qal
-997129	hif
-997132	piel
-997142	qal
-997150	qal
-997170	qal
-qal
-997182	qal
-997188	qal
-997199	qal
-997201	qal
-qal
-997209	qal
-997223	hit
-997226	qal
-997231	qal
-997237	qal
-997244	qal
-997255	piel
-997260	qal
-997264	qal
-997269	qal
-997271	qal
-997278	qal
-997282	hif
-997287	qal
-qal
-997290	qal
-997295	qal
-997298	qal
-997306	qal
-997309	pual
-997320	qal
-997324	piel
-997328	qal
-997333	qal
-997339	qal
-997342	piel
-hit
-nif
-997351	pasq
-997355	nif
-997359	piel
-997362	hif
-997381	qal
-997385	qal
-997391	qal
-997393	qal
-qal
-997403	qal
-997406	qal
-997413	hof
-997416	qal
-997418	hof
-qal
-997423	qal
-997432	qal
-997434	pasq
-qal
-997449	hif
-997452	qal
-piel
-997470	qal
-997479	piel
-997485	qal
-qal
-qal
-997489	piel
-997519	hit
-997524	qal
-997530	qal
-997533	qal
-997537	piel
-997546	hif
-997551	qal
-997553	piel
-997565	hif
-997568	qal
-997570	piel
-997575	qal
-997579	qal
-997581	qal
-997590	hit
-997596	qal
-nif
-997603	hif
-997610	qal
-997614	qal
-997620	qal
-997627	qal
-997634	qal
-997639	qal
-997643	hit
-997651	hit
-997665	qal
-997667	piel
-997670	qal
-997672	qal
-997678	qal
-997681	qal
-997691	qal
-qal
-997698	qal
-997700	qal
-997708	qal
-997718	qal
-997720	qal
-997724	piel
-997727	qal
-997735	hif
-997737	piel
-997740	qal
-997745	hif
-997748	piel
-997751	qal
-997753	qal
-997756	qal
-997772	qal
-997778	nif
-997784	qal
-997792	piel
-997811	qal
-997814	qal
-qal
-997817	nif
-hit
-997821	qal
-qal
-997826	piel
-997829	qal
-997832	qal
-997835	qal
-997847	piel
-997850	qal
-997854	qal
-997857	qal
-hif
-997867	hit
-nif
-997872	hif
-997879	qal
-997883	qal
-997890	piel
-997895	hif
-997899	qal
-997901	qal
-qal
-997909	hif
-997915	qal
-997919	hif
-997923	hif
-997926	piel
-997928	piel
-997932	qal
-997936	piel
-997943	qal
-997946	qal
-997948	qal
-997950	qal
-997955	qal
-997958	qal
-997964	qal
-997967	hif
-997970	hof
-997973	qal
-997976	hif
-997978	qal
-997984	qal
-997989	qal
-997991	qal
-997995	hif
-997998	qal
-998002	hsht
-998005	qal
-998008	qal
-998012	hif
-998019	qal
-998025	hsht
-998029	qal
-998035	qal
-998046	qal
-998069	qal
-998075	hif
-998082	nif
-998089	hif
-998092	qal
-998098	qal
-998103	qal
-998110	qal
-998113	qal
-998124	qal
-998128	qal
-998142	qal
-998145	qal
-998149	piel
-998154	qal
-998160	qal
-998168	qal
-998189	qal
-998191	qal
-998198	qal
-998200	qal
-998206	qal
-998208	qal
-998221	qal
-998229	qal
-998238	qal
-998250	piel
-998252	qal
-998258	qal
-998263	qal
-998266	qal
-998276	hif
-piel
-998280	qal
-998282	qal
-998285	qal
-998294	qal
-998297	qal
-998312	qal
-998315	qal
-998319	qal
-998323	piel
-998332	qal
-998339	qal
-998348	qal
-998362	qal
-998364	qal
-998368	hif
-998372	qal
-998378	hif
-998380	qal
-998386	qal
-998389	piel
-998391	piel
-998393	qal
-qal
-998398	qal
-998404	qal
-998407	qal
-998409	qal
-998414	qal
-998419	qal
-998422	qal
-998426	qal
-998430	nif
-998433	qal
-998439	hif
-998443	qal
-998449	qal
-998453	qal
-998465	qal
-998473	qal
-998477	hif
-998481	qal
-998488	qal
-998491	qal
-998494	hif
-hif
-998500	qal
-998506	qal
-998510	qal
-998513	qal
-998516	hif
-998523	hif
-998526	hif
-998529	qal
-998532	qal
-998539	pasq
-998542	qal
-998545	qal
-998550	qal
-998557	piel
-998560	qal
-998562	qal
-998564	hif
-998568	qal
-998571	qal
-998576	qal
-998579	qal
-998585	qal
-998591	piel
-998594	qal
-qal
-998597	qal
-998602	qal
-998604	qal
-998611	qal
-998615	piel
-998619	qal
-998622	qal
-998637	qal
-998640	qal
-998643	qal
-998646	qal
-998651	qal
-998654	piel
-998660	hif
-998665	qal
-998670	hif
-998674	piel
-998676	qal
-998679	piel
-998685	hif
-998707	qal
-qal
-998710	qal
-998715	qal
-998718	qal
-998722	qal
-998725	qal
-998727	qal
-qal
-998733	qal
-998735	hif
-998738	qal
-998741	qal
-qal
-998744	qal
-998748	qal
-998750	qal
-998752	qal
-998754	qal
-hif
-998759	nif
-998761	nif
-998766	hif
-hif
-998770	qal
-998776	hif
-998787	hif
-998795	qal
-998800	qal
-998814	qal
-998819	nif
-998823	qal
-998831	qal
-998836	qal
-998841	piel
-998845	qal
-qal
-998851	qal
-qal
-998857	piel
-998860	qal
-998869	nif
-998877	qal
-998883	qal
-998889	qal
-998892	qal
-998894	qal
-998898	hsht
-998912	hif
-998916	qal
-998921	qal
-998923	qal
-hif
-998928	nif
-998930	nif
-998938	hif
-998947	qal
-998952	qal
-998954	hif
-998956	hif
-998961	qal
-998966	hif
-998973	qal
-998979	hif
-998986	qal
-998988	hif
-998992	qal
-998994	qal
-998998	hif
-999004	qal
-999006	qal
-999008	qal
-999012	hif
-999021	qal
-999023	qal
-999028	qal
-999031	qal
-999034	piel
-999039	qal
-999041	qal
-999045	piel
-999052	qal
-999054	qal
-999057	hif
-999062	qal
-999067	qal
-999070	qal
-999072	qal
-999075	qal
-qal
-999085	qal
-qal
-999090	qal
-999095	qal
-999099	qal
-999109	hif
-999114	hif
-999120	hif
-999129	qal
-999132	hif
-999134	qal
-999141	hif
-999146	hif
-999155	hif
-999159	qal
-999161	qal
-999166	qal
-999184	hif
-999200	qal
-999219	piel
-qal
-999228	qal
-999237	qal
-999241	nif
-999247	pasq
-999249	qal
-qal
-999253	qal
-999255	qal
-999263	qal
-999269	qal
-qal
-999282	nif
-999302	qal
-qal
-999313	qal
-999318	qal
-999329	qal
-999339	qal
-999347	qal
-999355	qal
-999362	qal
-999364	qal
-999374	hif
-999378	qal
-999381	hif
-999386	qal
-999397	pasq
-999402	qal
-999406	qal
-999408	qal
-999415	piel
-999417	qal
-999425	qal
-999433	pasq
-999438	qal
-999444	qal
-999451	qal
-999457	qal
-qal
-999463	qal
-999479	qal
-999487	qal
-qal
-999496	qal
-999504	qal
-999508	qal
-999519	qal
-nif
-999522	piel
-999527	qal
-piel
-999530	hif
-999535	qal
-999539	qal
-999559	qal
-999563	qal
-999568	hif
-999573	qal
-999579	qal
-999589	nif
-999606	qal
-999608	qal
-999614	qal
-999623	qal
-999627	qal
-999636	qal
-999642	qal
-999649	hif
-999654	qal
-999660	piel
-999665	qal
-999679	qal
-999682	qal
-999701	qal
-999703	qal
-999710	hit
-999712	hif
-999718	qal
-999721	qal
-999728	hif
-999732	qal
-999743	hif
-999748	hif
-999753	qal
-999756	qal
-qal
-999761	qal
-999776	hif
-999781	qal
-999784	qal
-999786	hif
-999791	qal
-999793	hif
-999795	qal
-999798	qal
-999803	qal
-999810	qal
-999817	nif
-999820	qal
-999829	hif
-999832	qal
-999840	qal
-999844	qal
-999846	qal
-999853	nif
-999856	qal
-999866	qal
-999869	hif
-999872	qal
-999876	piel
-999879	qal
-999886	qal
-999893	qal
-999896	qal
-999910	hif
-999945	qal
-999949	hif
-999965	hif
-999975	qal
-1000020	qal
-1000025	qal
-1000030	piel
-1000033	piel
-1000044	qal
-1000064	qal
-1000066	piel
-1000072	qal
-piel
-qal
-1000081	qal
-1000091	qal
-1000096	qal
-1000099	qal
-1000101	qal
-1000107	nif
-1000109	hif
-1000115	qal
-1000118	po.
-1000120	piel
-1000122	piel
-qal
-1000125	qal
-1000130	qal
-1000132	qal
-1000140	hif
-1000145	qal
-1000156	hof
-1000161	qal
-1000167	qal
-1000172	piel
-1000176	piel
-1000183	qal
-1000187	qal
-1000192	piel
-1000195	piel
-1000198	qal
-1000201	qal
-1000214	qal
-1000224	qal
-1000227	qal
-1000233	qal
-1000237	qal
-1000254	qal
-1000256	qal
-1000261	qal
-qal
-1000268	hif
-1000270	qal
-1000274	qal
-1000278	qal
-1000280	qal
-1000284	piel
-1000289	nif
-qal
-1000292	qal
-1000297	hif
-1000300	qal
-1000307	qal
-1000320	qal
-1000326	qal
-1000335	qal
-1000340	hif
-1000345	qal
-1000347	qal
-1000351	nif
-1000354	piel
-1000358	qal
-1000360	qal
-1000363	qal
-1000365	piel
-1000369	qal
-1000372	qal
-1000376	qal
-1000378	qal
-1000382	nif
-1000389	qal
-1000391	piel
-qal
-1000394	piel
-1000398	qal
-1000402	nif
-1000405	qal
-1000410	qal
-1000413	qal
-1000415	qal
-1000418	qal
-1000421	nif
-1000423	qal
-1000428	qal
-1000432	hif
-1000435	qal
-1000439	qal
-1000442	qal
-1000446	hif
-1000461	qal
-1000466	qal
-1000469	qal
-1000472	qal
-1000491	qal
-1000495	piel
-1000499	hif
-hif
-1000519	piel
-1000521	qal
-1000526	qal
-1000529	pasq
-pual
-1000542	nif
-1000545	nif
-1000547	qal
-1000552	nif
-1000558	qal
-1000560	piel
-1000565	piel
-1000571	qal
-1000585	qal
-1000591	pasq
-1000595	qal
-1000597	qal
-1000600	qal
-1000607	qal
-piel
-1000613	qal
-1000617	qal
-1000625	pual
-1000630	piel
-1000637	qal
-1000646	qal
-1000652	qal
-1000657	qal
-1000661	qal
-1000668	qal
-1000672	qal
-qal
-1000678	hif
-1000683	piel
-1000687	qal
-1000692	hif
-1000699	qal
-1000703	qal
-1000712	qal
-1000715	qal
-1000717	qal
-1000723	qal
-1000734	qal
-1000736	qal
-1000740	qal
-1000742	qal
-1000746	qal
-1000748	qal
-1000750	qal
-1000759	piel
-1000763	qal
-1000766	qal
-1000772	hif
-1000781	qal
-1000787	qal
-1000789	qal
-1000792	qal
-1000795	qal
-1000797	qal
-1000799	qal
-1000806	qal
-1000808	piel
-1000816	qal
-1000818	qal
-1000820	qal
-1000826	hif
-1000833	qal
-1000838	qal
-1000843	qal
-1000853	hof
-1000856	qal
-1000860	qal
-1000867	qal
-1000872	piel
-1000880	qal
-1000886	qal
-1000889	qal
-hif
-1000895	qal
-qal
-1000901	pual
-1000905	pasq
-1000910	piel
-1000915	qal
-1000919	qal
-1000929	nif
-1000931	hit
-1000933	hif
-hif
-1000945	qal
-1000947	qal
-1000952	qal
-1000955	qal
-1000957	nif
-1000975	qal
-1000982	qal
-1000987	qal
-qal
-1000994	qal
-1000998	qal
-1001001	hif
-1001004	qal
-1001008	qal
-1001014	qal
-1001019	qal
-qal
-1001023	qal
-1001027	qal
-1001029	qal
-1001031	hif
-1001036	qal
-1001040	qal
-1001042	qal
-1001046	qal
-1001050	qal
-1001056	hif
-1001064	qal
-1001071	qal
-1001079	qal
-1001082	qal
-1001087	qal
-1001089	qal
-1001098	qal
-1001106	qal
-1001114	piel
-1001117	qal
-1001122	qal
-1001127	hif
-1001136	qal
-1001140	hof
-1001147	qal
-1001156	piel
-1001161	piel
-1001167	qal
-1001177	pual
-1001181	hif
-1001184	qal
-1001187	hof
-1001189	qal
-1001197	qal
-1001207	qal
-1001221	qal
-qal
-1001224	pual
-1001227	hif
-1001229	piel
-1001235	pual
-1001238	pasq
-1001243	qal
-1001246	nif
-1001248	qal
-1001250	qal
-1001261	qal
-1001266	piel
-1001268	qal
-1001270	piel
-1001274	qal
-1001281	piel
-1001285	qal
-1001292	piel
-1001304	qal
-1001314	qal
-1001327	qal
-1001339	qal
-1001341	hif
-1001360	qal
-hif
-1001387	hif
-hif
-1001399	piel
-1001414	piel
-1001429	qal
-1001436	qal
-1001439	qal
-1001449	pasq
-1001451	hif
-1001463	qal
-1001465	qal
-1001477	qal
-1001525	hif
-1001532	hif
-1001537	qal
-1001547	hif
-hif
-1001579	nif
-1001614	hif
-1001616	qal
-1001622	piel
-1001636	piel
-1001654	hif
-1001669	qal
-1001711	nif
-1001725	pual
-1001735	nif
-1001747	hit
-1001758	qal
-piel
-1001773	qal
-1001777	qal
-hit
-1001783	qal
-1001786	qal
-1001800	qal
-1001805	qal
-1001809	qal
-hif
-1001814	piel
-1001822	pual
-1001829	hif
-hof
-1001839	qal
-1001843	qal
-qal
-1001851	qal
-1001866	qal
-1001884	qal
-qal
-1001888	hif
-1001892	hif
-1001898	qal
-1001917	qal
-1001919	pasq
-1001924	qal
-1001929	piel
-1001940	hif
-1001944	qal
-1001952	hif
-1001958	qal
-qal
-1001961	qal
-qal
-1001968	nif
-1001972	hitpo.
-1001974	qal
-1001981	qal
-1001989	qal
-1001993	hif
-1001996	piel
-1001998	qal
-qal
-1002001	qal
-nif
-1002009	piel
-1002020	qal
-1002023	qal
-pasq
-1002026	qal
-qal
-1002032	piel
-1002047	nif
-nif
-qal
-nif
-1002062	qal
-qal
-1002065	qal
-1002075	qal
-1002079	qal
-1002100	qal
-1002102	qal
-1002104	qal
-piel
-1002113	hit
-hif
-1002120	qal
-1002130	pasq
-qal
-qal
-1002134	qal
-1002139	qal
-1002148	qal
-1002158	qal
-piel
-1002161	hif
-1002163	qal
-1002173	qal
-1002183	hsht
-1002187	qal
-1002209	qal
-qal
-1002213	piel
-1002217	piel
-1002234	qal
-1002236	qal
-1002239	qal
-1002241	hif
-nif
-1002251	qal
-1002253	piel
-1002258	qal
-qal
-1002263	qal
-qal
-1002266	qal
-1002275	hif
-1002281	qal
-1002298	hif
-1002300	qal
-1002309	nif
-1002314	qal
-1002323	qal
-1002330	qal
-hif
-1002336	pasq
-1002341	qal
-1002348	hif
-1002361	piel
-qal
-piel
-1002365	qal
-1002369	hof
-1002373	hif
-hif
-1002377	hif
-1002379	hif
-hif
-1002384	qal
-1002386	qal
-1002388	piel
-1002397	qal
-1002399	qal
-1002404	qal
-1002410	qal
-1002414	qal
-1002420	nif
-nif
-nif
-qal
-1002426	qal
-1002431	qal
-1002448	qal
-qal
-1002451	qal
-1002457	qal
-1002459	qal
-1002480	qal
-1002484	qal
-1002487	nif
-qal
-nif
-1002494	qal
-qal
-1002502	qal
-qal
-1002507	qal
-1002509	qal
-1002511	qal
-1002520	qal
-piel
-1002525	qal
-pasq
-1002529	hif
-nif
-1002532	nif
-qal
-1002545	qal
-1002548	qal
-1002555	hif
-1002559	qal
-1002566	po.
-1002570	piel
-1002575	nif
-1002585	qal
-1002607	qal
-1002658	hif
-qal
-1002661	piel
-1002673	qal
-1002682	nif
-1002684	qal
-1002688	qal
-1002692	qal
-1002703	qal
-nif
-1002706	hif
-1002709	qal
-1002712	qal
-1002714	hif
-1002717	qal
-1002725	qal
-1002738	qal
-1002748	hif
-1002751	pasq
-1002767	piel
-1002787	nif
-1002808	piel
-1002812	pasq
-qal
-1002819	qal
-1002823	qal
-1002828	hif
-1002830	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
 polal
-1002836	qal
-1002838	nif
-1002851	piel
-1002853	qal
-1002855	piel
-1002857	qal
-1002861	qal
-1002865	hif
-1002871	qal
-1002874	qal
+NA
+NA
+NA
 qal
-1002880	hif
-1002884	hif
-1002889	qal
-1002892	qal
-1002894	qal
-1002901	qal
-1002907	qal
-1002911	qal
-1002916	qal
-1002929	hit
-1002933	pasq
-1002945	qal
-1002948	nif
-qal
-1002952	hif
-1002963	qal
-1002965	qal
-1002968	qal
-1002980	qal
-1002983	piel
-1002986	qal
-hif
-1002995	qal
-1003000	qal
-1003003	hif
-1003007	qal
-1003023	qal
-1003030	qal
-qal
-1003033	hif
-1003042	qal
-1003049	hit
-qal
-1003055	qal
-1003059	qal
-1003065	qal
-1003070	piel
-1003075	hif
-1003083	qal
-1003085	hif
-1003090	hif
-1003095	hif
-1003101	qal
-1003109	qal
-1003111	qal
-1003116	qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 pasq
-1003121	qal
-1003123	qal
-1003126	qal
-1003130	hif
-1003136	hif
-1003142	hif
-1003148	qal
-1003154	hif
-1003157	qal
-1003163	hif
-1003169	hif
-1003172	qal
-1003180	qal
-1003184	qal
-1003188	qal
-1003193	hif
-1003196	hif
-1003200	qal
-qal
-1003208	qal
-1003210	piel
-1003213	qal
-1003217	qal
-1003224	hif
-hif
-1003237	qal
-piel
-1003244	qal
-qal
-1003251	hif
-1003261	piel
-1003263	qal
-1003281	qal
-1003284	piel
-1003293	qal
-1003302	nif
-qal
-1003307	piel
-1003313	qal
-piel
-1003322	qal
-1003324	qal
-1003335	qal
-1003338	nif
-1003341	qal
-1003351	hif
-1003357	hif
-1003363	piel
-1003369	hif
-1003382	qal
-1003386	piel
-qal
-1003390	qal
-1003393	hif
-1003399	qal
-1003402	qal
-1003405	qal
-1003408	qal
-1003410	hit
-1003418	qal
-1003428	nif
-1003437	qal
-1003441	qal
-1003445	nif
-1003448	qal
-1003464	qal
-1003468	qal
-1003475	qal
-1003477	qal
-1003480	qal
-1003482	qal
-1003487	qal
-1003490	qal
-1003493	qal
-1003497	qal
-1003504	nif
-1003507	qal
-1003511	qal
+NA
 nif
+NA
+NA
+NA
+NA
+NA
 qal
-1003515	qal
-1003520	qal
-1003525	qal
-1003532	qal
-1003534	nif
+NA
+NA
+NA
+NA
 qal
-1003545	qal
-1003548	nif
-1003556	qal
-1003561	nif
-1003567	qal
-1003573	qal
-1003577	nif
-1003584	qal
-1003586	qal
-1003591	qal
-1003594	qal
-1003596	qal
-1003598	qal
-1003602	qal
-1003610	qal
-1003614	nif
-1003618	qal
-1003622	qal
-1003624	qal
+NA
 qal
-1003629	nif
-1003633	qal
-1003638	qal
-1003642	qal
-1003647	qal
-1003653	hif
-1003658	nif
-1003660	hif
-1003670	qal
+NA
 piel
-1003673	nif
-1003675	qal
-1003693	qal
-1003696	qal
-1003698	qal
-1003702	qal
-1003708	qal
-1003710	piel
-1003713	hitpo.
-1003722	qal
-1003725	piel
-1003728	qal
-1003732	qal
-1003735	nif
-1003740	qal
-1003749	hif
-1003764	hif
-1003772	qal
-1003780	qal
-1003785	qal
-1003791	hif
-1003798	qal
-1003800	qal
-1003808	nif
-1003818	qal
-1003835	hitpo.
-1003839	piel
-1003842	hif
-1003845	qal
-1003848	qal
-1003853	hit
-1003863	hif
-1003868	piel
-1003872	piel
-1003886	hit
-1003893	qal
-1003897	nif
-1003899	qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
 qal
-1003907	qal
-1003909	pual
-1003914	piel
-1003923	qal
 qal
-1003931	qal
-1003938	qal
-1003945	qal
-1003957	piel
-1003960	nif
-1003963	nif
-1003966	qal
-1003969	qal
-1003974	hif
-1003976	qal
+NA
+qal
+NA
+NA
+NA
+NA
 hif
+NA
+NA
 hif
-1003980	nif
-1003986	qal
-1003999	qal
-1004004	pasq
-1004006	hif
-1004012	qal
-1004016	pasq
-1004018	qal
-1004023	nif
-1004037	qal
-1004041	qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-1004044	qal
-1004048	qal
-qal
-1004058	qal
-1004063	piel
-1004070	hif
-1004074	qal
-1004076	qal
-1004081	qal
-1004093	qal
-1004098	qal
-1004109	pasq
-1004115	piel
-1004130	piel
-1004135	qal
-1004142	qal
-1004144	nif
-nif
-1004149	piel
-1004152	qal
-1004155	piel
-1004167	nif
-1004171	qal
-qal
-1004180	qal
-1004191	qal
-1004202	qal
-1004211	hif
-1004221	nif
-1004230	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
 hif
-1004234	hif
-1004239	piel
-1004253	nif
-1004256	hif
-1004263	qal
-1004268	hif
-1004271	nif
-1004277	hif
-1004279	qal
-1004283	qal
-1004285	qal
-1004289	po.
-1004294	qal
-1004296	qal
-1004298	qal
-1004303	qal
-1004308	qal
-1004314	qal
-1004317	hof
-1004323	po.
-1004325	qal
-1004328	qal
-1004330	hif
-1004338	qal
-1004340	qal
-1004345	polal
-pual
-1004348	qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 po.
-1004351	hit
-1004362	hif
-1004364	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1004373	hof
-1004378	qal
-1004382	hif
-1004386	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
 hif
-1004390	qal
-1004394	qal
-1004398	hif
-1004403	qal
-1004405	qal
-1004413	nif
-1004419	nif
-1004423	qal
-1004435	qal
-1004440	qal
-1004446	qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 piel
-1004450	hif
-1004457	hif
-1004464	qal
-1004479	qal
-1004481	qal
-1004488	hif
-1004494	qal
-1004501	hif
-1004511	qal
-1004518	qal
-1004524	hif
-1004531	hif
-1004540	qal
-1004547	nif
-1004555	piel
-1004562	hif
-1004566	hit
-1004584	qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
 piel
-1004591	qal
-1004596	qal
-1004599	hif
-1004602	hit
-1004615	qal
-1004627	qal
-1004629	qal
-1004634	hif
-1004639	qal
-1004642	pasq
-1004650	qal
-qal
-1004662	qal
-1004665	qal
-1004671	nif
-1004675	qal
-1004682	nif
-hof
-1004687	hif
-nif
-1004694	qal
-1004696	hif
-1004714	qal
-1004716	hif
-1004720	qal
-1004736	qal
-1004743	qal
-1004745	qal
-1004749	pasq
-qal
-1004755	qal
-1004766	qal
-1004768	pil.
-1004780	nif
+NA
+piel
+NA
+NA
 hif
-1004788	qal
-1004792	hif
-1004796	qal
-1004805	qal
-1004807	qal
-1004814	piel
-1004818	qal
-1004825	qal
-1004828	qal
-1004830	hitpo.
-1004840	nif
+NA
+NA
+NA
 qal
-1004844	nif
-qal
-1004849	hit
-1004855	qal
-1004859	hit
-1004866	qal
-1004872	qal
-1004879	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-nif
-1004886	qal
-nif
-1004890	qal
-1004892	qal
-1004897	qal
-1004925	qal
-1004933	hif
+NA
+NA
+NA
+NA
 qal
-1004937	qal
-1004940	qal
-1004943	hif
-1004945	hif
-1004948	qal
-1004956	qal
-1004966	qal
-1004968	qal
-1004978	qal
-1004985	qal
-1004987	qal
-1004997	hif
-1004999	qal
-1005001	qal
-1005009	qal
-1005011	qal
-1005013	qal
-1005021	qal
-1005028	qal
-1005030	qal
-1005037	qal
-1005051	qal
-1005061	hif
-1005070	qal
-1005073	qal
-1005080	hif
-1005083	hif
-1005090	hif
-1005095	hif
-1005100	piel
-1005104	hif
+NA
+NA
+NA
+NA
 qal
-1005108	qal
-1005111	pasq
-1005114	qal
-1005119	qal
-1005124	hif
-1005135	piel
-1005140	qal
-1005145	hif
-1005150	qal
-1005152	hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 hif
-1005158	qal
-1005162	hif
-1005167	hif
-1005176	qal
-1005179	qal
-hif
-1005185	qal
-1005188	nif
-1005190	qal
-1005195	pual
-1005197	hif
-1005203	qal
-1005205	qal
-1005210	hif
-1005212	qal
-1005215	hof
-1005220	hit
-hif
-1005225	qal
-1005236	nif
-1005242	qal
-1005247	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1005253	nif
-1005257	qal
-1005261	qal
-1005266	qal
-1005276	hif
-1005280	hif
-1005285	qal
-1005289	qal
-1005295	qal
-1005297	hif
-1005308	hif
-1005313	hof
-1005320	nif
-1005325	qal
-1005327	hif
-1005333	piel
-1005336	nif
-1005341	hif
-1005346	pual
-1005350	qal
-1005352	hif
-1005357	qal
-1005360	qal
-1005362	pasq
-qal
-1005367	nif
-1005373	qal
-1005378	qal
-1005380	qal
-1005382	qal
-1005387	qal
-1005392	pasq
-1005408	polal
-1005429	hit
-1005438	qal
-1005445	qal
-1005453	qal
-1005455	qal
-1005457	hif
-1005462	hif
-1005466	hit
-1005470	qal
-1005476	hif
-1005479	piel
-1005491	hif
-1005493	qal
-1005497	piel
-1005505	qal
-1005509	qal
-1005518	qal
-1005525	qal
-1005530	piel
-1005536	piel
-1005543	qal
-1005548	qal
-1005554	piel
-1005561	qal
-1005563	hif
-1005565	hit
-1005570	qal
-1005577	hit
-1005586	qal
-1005593	hof
-1005596	qal
-1005603	qal
-1005606	qal
-1005609	qal
-1005615	qal
-1005617	qal
-qal
-1005623	qal
-1005628	qal
-1005633	qal
-1005640	qal
-1005646	hof
-1005653	piel
-1005663	qal
-1005668	qal
-1005678	hif
-1005682	hif
-1005686	qal
-1005689	hif
-1005693	hif
-1005708	qal
-1005710	hif
-1005714	hif
-1005718	qal
-1005720	pasq
-1005724	qal
-1005729	qal
-1005732	qal
-1005736	qal
-1005741	qal
-1005744	qal
-1005748	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1005758	qal
-1005764	piel
-1005773	qal
-1005780	hif
-1005784	hif
-1005794	hif
-1005809	qal
-1005818	hif
-1005827	hif
-1005844	qal
-1005858	qal
-1005864	hif
-1005866	piel
-1005870	pasq
-1005882	qal
-1005887	qal
-1005891	hif
-1005894	hif
-nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 hit
-1005898	hit
-1005901	hif
-1005906	qal
-1005914	piel
-1005923	qal
-1005929	piel
-piel
-1005937	nif
-1005941	qal
-nif
+NA
+NA
+NA
+NA
+NA
 hif
-1005945	piel
-1005952	hof
-1005960	hif
-1005963	qal
-1005969	qal
-1005973	qal
-1005977	qal
-1005992	qal
-1005999	piel
-1006007	qal
-1006019	qal
-1006027	qal
-1006039	qal
-1006042	qal
-1006048	piel
-1006058	qal
-1006068	qal
-1006074	nif
-1006077	nif
-1006080	nif
-1006087	qal
-1006109	pual
-1006120	nif
+NA
 qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1006134	qal
-1006136	qal
-1006142	qal
-1006156	hif
-1006163	hif
-1006174	hit
-1006188	hit
-1006193	pasq
-1006199	hit
-1006206	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 pasq
-1006229	qal
-1006232	piel
-1006238	qal
-1006244	pasq
-1006252	pasq
-1006256	qal
-1006259	qal
-1006262	qal
-1006266	qal
-1006274	qal
-1006278	qal
-1006281	qal
-1006285	hif
-1006295	hif
-1006305	hif
-1006312	hif
-1006317	piel
-1006320	nif
-1006323	piel
-1006330	qal
-1006334	qal
-1006336	hif
-1006342	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
 pasq
-1006345	pasq
-1006350	nif
-1006353	qal
-1006365	qal
-1006375	qal
-1006381	hif
-1006392	qal
-1006395	qal
-1006403	qal
-1006413	hif
-1006420	qal
-1006425	qal
-1006430	piel
-1006433	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1006440	qal
-1006448	hif
-1006450	qal
-1006459	qal
-1006462	qal
-1006469	hit
-1006477	hif
-1006482	qal
-1006484	nif
-1006489	nif
-nif
-1006508	nif
-1006529	qal
-1006532	nif
-1006538	nif
-1006550	polal
-1006561	piel
-1006579	pasq
-1006590	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1006598	qal
-1006603	piel
-1006606	piel
-1006617	hif
-1006627	hif
-1006629	qal
-1006634	qal
-1006636	qal
-1006638	pasq
-1006642	hif
-1006656	pual
-1006660	nif
-1006670	qal
-1006677	qal
-1006696	piel
-1006699	piel
-1006704	qal
-1006706	nif
-1006710	nif
-nif
-1006736	qal
-1006739	nif
-1006741	qal
-1006743	piel
-1006752	qal
-1006754	qal
-1006757	hit
-1006759	hif
-1006762	qal
-1006765	qal
-1006768	qal
-hif
-1006781	hif
-1006783	qal
-1006785	pasq
-1006789	hif
-1006800	qal
-1006803	nif
-1006806	piel
-1006812	qal
-1006817	qal
-1006824	qal
-1006836	nif
-1006838	qal
-1006845	hif
-1006850	qal
-1006857	hif
-1006861	qal
-1006876	qal
-1006880	nif
-1006887	qal
-1006890	pual
-1006911	qal
-1006916	qal
-1006923	pulpal
-1006935	pual
-1006949	qal
-1006955	qal
-1006959	qal
-1006965	hif
-1006970	nif
-1006977	qal
-1006980	qal
-1006982	hif
-1006987	hif
-1006992	qal
-1007000	qal
-1007003	hif
-1007008	qal
-1007014	hif
-1007019	qal
-1007023	hif
-1007027	hif
-1007032	qal
-1007035	hif
-1007040	hif
-1007043	qal
-1007046	hif
-1007049	hif
-1007059	qal
-1007064	pasq
-1007072	piel
-1007079	qal
-1007084	piel
-nif
-qal
-1007092	qal
-piel
-1007099	pasq
-qal
-1007105	qal
-1007108	qal
-1007116	qal
-1007121	qal
-1007127	hif
-1007130	hit
-1007143	qal
-1007155	qal
-1007162	hif
-1007166	pasq
-1007172	qal
-1007174	qal
-1007181	hif
-1007183	qal
-1007185	qal
-1007188	hif
-1007191	qal
-1007193	qal
-1007199	nif
-nif
-1007205	nif
-nif
-1007210	qal
-1007217	qal
-1007223	qal
-1007229	hif
-1007233	nif
-1007235	nif
-1007237	nif
-hof
-1007241	qal
-1007248	qal
-1007252	hif
-1007257	qal
-1007266	qal
-1007270	piel
-qal
-1007275	hif
-1007278	qal
-1007283	qal
-1007289	qal
-1007292	qal
-1007294	hitpo.
-1007304	nif
-qal
-1007308	nif
-qal
-1007314	hit
-1007320	qal
-1007324	hit
-1007331	qal
-1007338	qal
-1007344	nif
-nif
-nif
-1007354	qal
-nif
-1007358	qal
-1007360	qal
-1007365	qal
-1007391	qal
-1007394	qal
-1007401	hif
-qal
-1007405	qal
-1007408	qal
-1007411	qal
-1007415	hif
-1007420	qal
-1007428	qal
-1007440	qal
-1007442	qal
-1007452	qal
-1007458	qal
-1007460	qal
-1007470	hif
-1007476	qal
-1007478	qal
-1007485	qal
-1007487	piel
-1007490	qal
-1007493	qal
-1007499	qal
-1007507	qal
-1007514	qal
-1007516	qal
-1007524	qal
-1007532	qal
-1007534	qal
-1007536	qal
-1007542	nif
-1007550	nif
-1007553	nif
-qal
-1007559	qal
-1007571	qal
-1007577	qal
-1007579	qal
-1007584	nif
-1007589	hif
-1007591	nif
-1007598	qal
-1007607	hif
-1007612	qal
-1007614	qal
-1007625	hif
-1007632	hit
-1007638	pasq
-1007647	piel
-1007657	qal
-1007664	qal
-1007669	qal
-1007683	qal
-1007687	nif
-1007689	piel
-1007695	qal
-1007701	piel
-1007711	qal
-1007723	nif
-qal
-1007727	qal
-1007732	qal
-1007743	qal
-1007750	qal
-1007758	qal
-1007761	hif
-1007765	qal
-1007768	qal
-1007772	nif
-1007777	hif
-1007782	qal
-1007791	qal
-1007793	nif
-1007799	qal
-1007803	qal
-1007806	nif
-1007811	qal
-1007814	qal
-1007819	qal
-1007821	qal
-1007826	qal
-1007829	qal
-1007837	qal
-1007842	nif
-1007848	qal
-1007851	piel
-1007855	qal
-1007868	nif
-1007875	qal
-1007880	qal
-1007883	hif
-1007888	nif
-1007895	hif
-1007902	hif
-1007907	qal
-1007910	qal
-1007915	qal
-1007920	hit
-1007924	qal
-qal
-1007931	qal
-1007941	hif
-1007953	hit
-1007958	nif
-1007963	hif
-1007970	hif
-1007975	qal
-1007978	qal
-1007981	hit
-1007987	piel
-1007991	qal
-1007995	qal
-1008000	qal
-1008004	qal
-1008009	qal
-1008011	qal
-1008015	hif
-piel
-1008024	piel
-1008028	hif
-1008033	piel
-1008038	qal
-1008041	hit
-1008056	hif
-1008058	piel
-1008061	hit
-1008067	qal
-1008074	qal
-1008076	qal
-1008080	hif
-1008088	nif
-1008093	nif
-nif
-nif
-nif
-1008100	nif
-1008107	hif
-1008110	hif
-qal
-1008114	hif
-qal
-piel
-1008121	hit
-1008125	nif
-1008127	qal
-1008129	piel
-1008139	qal
-1008148	piel
-1008153	qal
-1008155	pual
-1008158	qal
-1008162	hof
-hitpo.
-1008169	nif
-1008175	hif
-hif
-1008180	hof
-1008189	hif
-1008192	qal
-1008195	qal
-1008197	nif
-1008201	qal
-1008205	hitpo.
-hitpo.
-hif
-1008214	qal
-1008220	qal
-1008223	qal
-1008225	piel
-1008241	qal
-1008246	hif
-1008249	piel
-1008251	qal
-piel
-1008256	piel
-1008258	qal
-1008268	qal
-qal
-1008273	qal
-hif
-1008280	hif
-1008285	qal
-1008293	qal
-qal
-1008297	hit
-1008299	pulpal
-1008302	hif
-1008309	hif
-1008311	qal
-1008317	qal
-qal
-1008322	qal
-1008326	piel
-qal
-1008337	hif
-1008339	qal
-hif
-nif
-1008352	hif
-1008354	hif
-1008359	hif
-1008363	hif
-hof
-1008366	hif
-1008369	qal
-1008374	qal
-1008386	qal
-1008389	qal
-1008391	hif
-1008397	piel
-1008400	hif
-1008403	hif
-1008405	qal
-qal
-1008408	piel
-hif
-1008415	qal
-1008422	qal
+NA
 pasq
-hof
-1008430	piel
-1008432	piel
-1008438	qal
-qal
-1008441	qal
-1008444	hif
-1008446	qal
-1008453	hit
-qal
-1008459	qal
-1008465	nif
-piel
-1008469	qal
-piel
-piel
-piel
-piel
-1008477	qal
-1008479	qal
-1008481	piel
-1008485	qal
-1008488	hif
-1008490	hif
-1008496	qal
-1008498	qal
-1008505	qal
-1008510	hif
-1008519	qal
-1008525	nif
-qal
-1008530	qal
-1008535	hif
-1008541	nif
-1008549	piel
-1008555	nif
-1008557	qal
-1008559	qal
-1008564	qal
-1008569	hif
-1008575	piel
-1008578	qal
-1008580	qal
-1008582	qal
-1008589	qal
-1008593	nif
-1008598	nif
-1008601	nif
-1008607	piel
-qal
-1008610	qal
-1008621	qal
-qal
-1008628	hof
-1008630	hit
-1008634	qal
-1008636	qal
-1008638	qal
-1008640	qal
-1008645	nif
-1008650	qal
-1008656	nif
-1008660	qal
-1008665	qal
-1008671	qal
-1008676	qal
-1008678	qal
-1008682	piel
-nif
-1008685	qal
-qal
-1008689	nif
-1008699	qal
-1008705	qal
-1008709	qal
-1008711	hif
-1008716	qal
-1008722	qal
-1008731	qal
-1008734	piel
-1008736	qal
-1008740	hit
-1008747	qal
-1008753	nif
-1008755	qal
-1008761	hif
-1008766	qal
-qal
-1008772	qal
-1008775	qal
+NA
+NA
 pasq
-1008781	qal
-1008783	qal
-piel
-1008786	hif
-1008791	hif
-1008796	qal
-1008809	qal
-1008813	hif
-1008816	nif
-1008823	piel
+NA
 qal
-1008830	nif
-1008839	hif
-1008841	hif
-1008844	qal
-1008846	qal
+NA
+NA
 qal
-1008852	hif
-1008860	qal
-1008865	piel
-1008869	qal
-1008872	piel
-1008874	hif
-1008881	hif
-1008885	qal
-hif
-1008889	hif
-qal
-1008894	qal
-1008898	qal
-1008906	qal
-qal
-1008910	qal
-1008913	nif
-piel
-1008916	qal
-1008920	qal
-1008926	qal
-1008931	qal
-nif
-nif
-1008936	qal
-qal
-1008942	qal
-1008944	qal
-1008949	nif
-1008960	hit
-1008963	hif
-1008965	nif
-1008970	nif
-1008972	qal
-nif
-1008976	qal
-nif
-qal
-1008980	qal
-qal
-1008985	qal
-qal
-1008989	qal
-1009000	qal
-1009002	qal
-1009004	hif
-1009011	qal
-1009014	qal
-qal
-1009018	piel
-1009026	qal
-1009030	qal
-1009038	pil.
-1009044	qal
-1009048	piel
-1009050	hif
-1009068	qal
-1009078	qal
-1009085	hif
-1009088	qal
-1009091	qal
-1009094	qal
-1009096	qal
-piel
-1009099	qal
-1009102	hif
-hif
-1009106	hif
-1009110	qal
-1009113	nif
-1009118	qal
-1009136	qal
-1009140	piel
-1009142	qal
-1009144	hit
-1009147	qal
-1009149	qal
-1009151	qal
-1009153	qal
-1009155	hif
-1009157	nif
-1009160	qal
-1009162	qal
-1009167	qal
-qal
-1009171	piel
-1009175	hitpo.
-1009183	qal
-1009187	hif
-1009191	piel
-piel
-1009196	hif
-1009198	hif
-1009202	qal
-1009205	qal
-1009210	qal
-1009213	piel
-1009224	hit
-1009232	hitpo.
-1009234	piel
-1009236	qal
-qal
-1009243	hif
-1009246	qal
-1009254	hif
-1009261	hif
-1009265	qal
-1009267	qal
-1009273	nif
-1009275	qal
-1009288	nif
-nif
-1009291	hit
-1009298	hit
-1009300	qal
-1009306	qal
-1009309	hif
-1009311	hif
-1009313	qal
-1009325	qal
-1009327	piel
-1009333	qal
-1009335	piel
-1009341	qal
-1009346	hif
-1009350	qal
-1009353	hit
-1009356	hif
-1009363	qal
-1009367	qal
-qal
-qal
-1009376	qal
-1009380	qal
-1009383	hif
-qal
-1009394	qal
-1009396	hif
-1009403	qal
-1009406	qal
-1009410	qal
-1009412	hif
-piel
-1009417	qal
-1009422	qal
-1009427	qal
-1009431	piel
-1009434	qal
-1009441	qal
-1009445	hif
-1009448	hif
-1009452	qal
-qal
-1009457	nif
-1009459	piel
-1009463	piel
-1009465	pasq
-1009467	hif
-1009472	qal
-1009476	hif
-1009480	qal
-qal
-1009484	piel
-1009486	qal
-piel
-1009490	qal
-1009493	qal
-1009497	pual
-1009512	hif
-1009516	qal
-1009518	qal
-1009527	qal
-1009529	qal
-1009532	hit
-1009534	qal
-1009538	hit
-1009540	qal
-piel
-1009545	qal
-1009548	nif
-1009552	qal
-1009558	piel
-1009560	qal
-1009566	qal
-qal
-1009571	qal
-1009577	qal
-1009581	qal
-1009587	qal
-1009590	qal
-1009593	hif
-1009597	hif
-1009602	nif
-1009608	qal
-1009613	hif
-1009618	qal
-1009622	hif
-1009624	qal
-1009627	qal
-1009632	piel
-1009636	nif
-1009640	hit
-1009642	qal
-qal
-1009645	nif
-1009647	qal
-1009653	hit
-1009656	qal
-1009659	hit
-1009664	qal
-1009667	qal
-1009669	qal
-1009674	qal
-1009680	hif
-1009683	qal
-1009688	qal
-1009693	qal
-1009698	hif
-1009700	qal
-1009704	hif
-1009710	hif
-1009712	piel
-1009714	qal
-1009723	qal
-1009725	hif
-1009732	qal
-1009736	nif
-1009741	hif
-1009745	qal
-1009757	hif
-hif
-1009760	qal
-1009762	hit
-1009765	qal
-1009767	piel
-1009773	qal
-1009777	qal
-1009779	qal
-1009785	piel
-1009789	hif
-1009794	piel
-1009799	qal
-piel
-1009804	hif
-1009809	hif
-1009813	qal
-1009818	qal
-1009824	hit
-1009826	nif
-1009830	piel
-1009835	hitpo.
-1009837	nif
-1009841	qal
-1009846	qal
-1009850	hit
-1009856	po.
-1009859	hif
-1009866	hif
-1009874	nif
-1009878	qal
-1009881	piel
-1009886	qal
-1009889	qal
-1009893	hif
-1009899	qal
-1009904	qal
-qal
-1009910	pasq
-qal
-1009914	qal
-1009917	qal
-1009919	qal
-piel
-1009926	qal
-1009932	hif
-qal
-1009938	nif
-qal
-1009944	qal
-1009947	qal
-1009952	qal
-1009954	qal
-1009956	qal
-1009959	qal
-1009963	qal
-1009967	hit
-1009970	qal
-1009975	hit
-1009977	nif
-qal
-1009995	nif
-nif
-1010000	qal
-1010005	nif
-1010013	pual
 pual
 qal
-1010017	qal
-1010021	hif
-1010024	pasq
+NA
+NA
 hif
-1010029	nif
-1010034	qal
-1010043	qal
-1010053	po.
+pasq
+NA
+NA
 qal
-1010065	qal
-1010070	piel
-1010074	pasq
-1010089	qal
-1010095	qal
-1010102	hof
-1010107	hif
-hif
 qal
-1010115	qal
-1010119	qal
-1010132	qal
 qal
-1010147	hif
-1010151	piel
-1010156	hif
-1010158	piel
-1010161	hif
-1010164	qal
-1010167	hif
-1010174	pil.
-1010180	pil.
-1010182	qal
-piel
-1010187	qal
-1010189	qal
-1010202	pasq
-1010205	nif
-1010211	nif
-qal
-1010217	nif
-1010219	qal
-1010227	qal
-1010234	qal
-1010236	hif
-1010240	piel
-1010243	qal
-1010245	qal
-1010247	qal
-nif
-1010253	qal
-1010256	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hof
-1010261	hitpo.
-1010263	hit
-1010265	qal
-1010275	qal
-1010280	hit
-1010287	piel
-1010290	pasq
-1010294	qal
-1010296	hif
-1010299	hif
-1010302	piel
-hif
-1010307	nif
-1010313	nif
-1010317	nif
-1010322	nif
-1010328	hit
-1010333	hit
-1010336	nif
-1010341	nif
-1010345	qal
-1010350	hif
-hif
-1010353	piel
-1010359	piel
-1010361	hof
-1010373	qal
-1010376	piel
-1010379	piel
-1010388	nif
-1010393	nif
 qal
-1010401	qal
-1010404	nif
-nif
-1010408	hof
-1010412	nif
-nif
-1010418	qal
-1010420	piel
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
 piel
-1010426	hif
-1010429	hif
-1010432	qal
-1010438	piel
-1010443	piel
-1010452	po.
-1010456	hif
-1010459	qal
-1010461	hif
-1010463	nif
-1010467	qal
-1010469	hif
-1010473	piel
-1010475	qal
-1010477	qal
-1010479	qal
-qal
-1010486	hit
-1010488	qal
-1010490	qal
-piel
-1010499	hif
-nif
-1010505	qal
-1010509	piel
-1010513	nif
-qal
-nif
-1010524	po.
-po.
-1010542	hif
-1010560	qal
-nif
-1010564	hif
+NA
+NA
+NA
+NA
 hif
-1010574	qal
-1010576	hit
-1010578	hit
+NA
+NA
+NA
+NA
+NA
 piel
-1010584	qal
-1010588	qal
-1010593	qal
-1010595	qal
-1010597	qal
-1010602	qal
-qal
-1010605	qal
-1010610	hit
-1010614	hit
-1010616	hit
-1010621	piel
-1010639	qal
-1010641	qal
-1010646	nif
-1010649	qal
-1010652	qal
-1010656	piel
-1010661	piel
-1010666	qal
-1010670	piel
-1010675	hif
-1010679	qal
-1010682	piel
-1010685	pual
-1010691	piel
-1010696	nif
-1010702	hif
-1010707	qal
-1010709	qal
-qal
-1010721	pasq
-1010728	qal
-1010732	qal
-1010734	qal
-1010738	qal
-1010743	qal
-1010745	qal
-qal
-1010748	hif
-1010753	qal
-1010762	piel
-qal
-1010768	qal
-nif
-1010773	qal
-1010777	hif
-1010784	qal
-qal
-1010790	hif
-1010793	qal
-1010795	qal
-nif
-1010800	piel
-1010803	qal
-1010808	qal
 hif
-1010812	hif
-1010814	qal
-1010818	pual
-1010821	hif
-1010824	piel
-1010827	hif
-1010831	qal
-1010847	qal
-1010851	hif
-1010858	hif
-1010863	qal
-1010868	hif
-1010873	qal
-1010878	hif
-1010880	qal
-1010884	qal
-1010887	hif
+NA
+NA
+NA
+hif
+NA
+hit
+hif
+NA
 qal
-1010891	qal
-1010895	nif
-1010898	qal
-1010901	pual
-1010904	qal
-1010909	qal
-1010916	qal
-1010918	hif
-1010920	qal
-1010927	hif
-1010931	qal
-1010934	piel
-1010937	qal
-1010940	hit
-1010942	qal
-1010945	piel
-1010949	qal
-1010951	hif
-1010953	qal
-1010957	hif
-1010961	qal
-1010963	qal
-1010966	hif
-1010971	piel
-1010976	hif
-1010981	hit
-1010984	hof
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+hif
+NA
+NA
 pasq
 qal
-pasq
-1010990	qal
-1010995	qal
-1011000	hitpo.
-1011004	qal
-1011006	qal
-1011011	qal
-1011014	hit
-1011018	qal
-1011020	qal
-1011022	hif
-1011025	qal
-1011027	hif
-1011030	nif
-1011032	hitpal.
-1011035	hitpal.
-1011040	qal
-1011048	hif
-1011051	qal
-1011054	qal
-1011058	qal
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-1011063	qal
+NA
+NA
+NA
+nif
+NA
 qal
-1011067	hif
-1011069	hif
-1011076	qal
-1011078	piel
-1011080	qal
-1011083	qal
-1011086	qal
-1011089	qal
-1011094	qal
-1011100	hit
-1011102	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
 hit
-1011109	qal
-1011113	nif
-1011116	qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
 hit
-1011122	piel
-1011124	hit
-1011128	nif
-1011130	hit
-1011132	qal
-1011134	qal
-1011138	qal
+hit
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 piel
-1011145	hif
-1011151	po.
-po.
-1011155	qal
-1011161	hif
-1011164	qal
-1011167	hif
-1011170	hif
+nif
+NA
+NA
 qal
-1011175	hif
-1011179	qal
-1011181	hit
-1011186	hif
-1011188	nif
-1011190	qal
-1011194	qal
+NA
+NA
+NA
 hit
-1011201	qal
-1011203	qal
-1011209	hif
-1011211	hit
-1011213	hit
-1011216	hit
-1011218	nif
-1011220	qal
-1011224	qal
-1011229	hif
-1011235	hif
-1011239	qal
-1011242	qal
-1011244	qal
-qal
-1011248	qal
-1011252	qal
-1011254	nif
-1011256	qal
-1011260	piel
-1011266	qal
-1011272	qal
-1011281	pual
-1011284	pual
-1011297	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-1011310	qal
-1011326	qal
-nif
-1011332	nif
-nif
-1011342	piel
-1011344	qal
-1011348	pual
-hof
-hif
-1011352	nif
-1011358	piel
-hif
-1011365	qal
-1011367	nif
-1011373	hif
-1011375	qal
-1011378	qal
-1011381	nif
-1011384	qal
-1011398	piel
-1011411	qal
-qal
-1011418	qal
-1011422	qal
-1011429	piel
-1011433	qal
-1011449	qal
-1011451	qal
-1011457	hitpal.
-1011464	hif
-1011467	nif
-1011482	qal
-1011487	qal
-1011490	piel
-1011495	qal
-1011504	hif
-1011511	hif
-1011525	hif
-hif
-1011532	hit
-qal
-1011542	hitpal.
-1011548	hof
-1011552	qal
-hif
-1011555	qal
-1011559	qal
-1011562	nif
-qal
-1011569	nif
-1011572	qal
-qal
-1011575	pasq
-1011579	qal
-1011584	qal
-1011589	qal
-1011591	qal
-1011595	qal
-1011597	piel
-1011604	piel
-1011614	qal
-1011618	qal
-1011623	qal
-1011627	qal
-qal
-1011630	qal
-1011637	qal
-1011640	qal
-qal
-1011648	qal
-1011651	qal
-1011654	qal
-qal
-1011659	qal
-1011665	qal
-1011669	qal
-qal
-1011677	hitpo.
-1011679	qal
-1011686	piel
-hif
-1011694	po.
-qal
-1011699	hif
-1011704	qal
-1011709	qal
-1011713	qal
-1011720	hitpo.
-1011722	qal
-1011730	qal
-1011732	qal
-1011734	qal
-1011737	qal
-1011739	hif
-1011741	piel
-1011748	piel
-1011750	hif
-1011755	hif
-1011758	nif
-1011762	qal
-nif
-1011766	qal
-1011769	qal
-1011773	qal
-1011777	hif
-1011779	hif
-1011786	qal
-1011795	qal
-1011797	qal
-1011806	nif
-1011811	nif
-1011815	qal
-qal
-1011818	piel
-1011820	qal
-1011827	qal
-1011829	qal
-1011831	qal
-1011833	hif
-1011843	qal
-1011847	piel
-1011849	qal
-1011854	qal
-1011857	qal
-1011860	qal
-1011862	qal
-1011867	qal
-qal
-1011873	qal
-1011876	hif
-1011880	qal
-hof
-1011889	qal
-qal
-1011899	qal
-nif
-1011902	qal
-1011908	qal
-1011912	qal
-1011916	hif
-1011922	piel
-1011925	qal
-1011928	hif
-1011933	piel
-1011935	qal
-1011939	piel
-1011942	hit
-1011948	qal
-1011955	qal
-1011957	qal
+NA
 pil.
-1011967	hif
-1011972	qal
-1011979	qal
-1011986	qal
-1011996	qal
-1012007	qal
-1012009	qal
-1012014	qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hif
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+hif
+piel
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+pasq
+NA
+pual
+nif
+NA
+hif
+NA
+NA
+pasq
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+NA
+NA
+nif
+NA
 qal
 nif
-1012020	qal
-1012026	qal
-1012031	qal
-1012037	nif
-1012041	qal
-1012045	qal
+NA
+NA
+qal
+NA
+qal
+NA
 hif
-1012053	qal
-1012057	hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-1012063	qal
-1012067	nufʿal
+piel
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hof
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+nif
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hof
+hof
+nif
+qal
+hif
+hif
+NA
+piel
+qal
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+pasq
+qal
+NA
+qal
+pasq
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+piel
+NA
+NA
+qal
+piel
+NA
+piel
+NA
+NA
+hif
+pasq
+piel
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+piel
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+pual
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+pasq
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+po.
+NA
+NA
+etpe
+NA
+peal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+hif
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hitpo.
+hit
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+hitpo.
+hitpo.
+NA
+NA
+hit
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+po.
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+pasq
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+hit
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+hitpo.
+hitpo.
+hitpo.
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+hitpo.
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+nif
+hif
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+peal
+NA
+NA
+NA
+NA
+NA
+NA
+peal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+piel
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+hof
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+nif
+piel
+NA
+pual
+NA
+NA
+NA
+NA
+hit
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+nif
+NA
+nif
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+hof
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+hif
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+pasq
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hitpal.
+NA
+qal
+NA
+NA
+hitpal.
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+piel
+NA
+NA
+NA
+hof
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+hof
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+nif
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+pasq
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+qal
+pual
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+hit
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+hof
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+nif
+hit
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hsht
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+po.
+NA
+piel
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+pual
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+pasq
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+piel
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+hif
+nif
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+polal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+hif
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+polal
+pual
+NA
+qal
+po.
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hof
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+nif
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+hit
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+pasq
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+nif
+hit
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+hit
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hit
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pulpal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+nif
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+nif
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+qal
+NA
+NA
+hif
+qal
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+hitpo.
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+hitpo.
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hit
+NA
+pulpal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hof
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+hof
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+qal
+piel
+piel
+piel
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+nif
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+nif
+NA
+NA
+qal
+nif
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+hit
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+NA
+qal
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+hit
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hitpo.
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+pual
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+hif
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hof
+NA
+NA
+NA
+hitpo.
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+hof
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+hit
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hof
+pasq
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+nif
+NA
+hitpal.
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+po.
+po.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hit
+NA
+hit
+NA
+NA
+hit
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+pual
+hof
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 nufʿal
-1012076	nif
-1012084	hif
-1012089	nif
-1012096	qal
-1012098	qal
-1012102	hif
+nufʿal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1012114	qal
+NA
+NA
+NA
+NA
 nif
-1012117	nif
-1012123	hif
-1012129	qal
-1012139	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1012144	hif
-1012151	qal
-1012154	pual
-1012158	nif
-1012166	qal
-piel
-1012172	qal
-1012175	nif
-1012180	qal
-1012185	nif
-1012205	qal
-1012207	qal
-1012210	qal
-1012213	piel
-1012221	hif
-1012223	qal
+NA
 qal
-1012228	qal
-1012237	hitpo.
-1012239	qal
-1012241	qal
-1012245	piel
-1012254	hif
-1012259	qal
-1012263	qal
-1012267	qal
-qal
-1012270	qal
-1012273	qal
-1012278	qal
-1012280	hif
-1012286	hif
-piel
-1012290	qal
-1012299	qal
-1012302	qal
-1012310	hif
-1012314	piel
-1012316	nif
-1012321	nif
-qal
-1012327	nif
-1012329	qal
-1012331	nif
-1012337	qal
-1012346	qal
-1012348	hif
-1012352	piel
-1012357	qal
-1012359	qal
-nif
-1012364	hif
-piel
-1012369	hif
-piel
-1012374	hif
-1012376	qal
-1012378	hit
-1012380	qal
-1012386	hit
-1012388	qal
-1012393	hit
-1012397	piel
-1012400	qal
-1012404	qal
-1012406	hif
-1012408	hif
-piel
-1012411	nif
-1012419	nif
-1012422	nif
-1012431	nif
-1012439	hit
-1012444	hit
-1012447	nif
-1012452	nif
-1012456	qal
-1012461	hif
-1012463	piel
-1012469	piel
-1012471	pual
-1012475	piel
-1012477	pual
-1012495	pual
-1012498	hit
-1012501	piel
-1012506	qal
-1012509	piel
-1012512	piel
-1012517	nif
-nif
-1012524	qal
-1012528	qal
-1012530	qal
-1012533	nif
-nif
-1012538	nif
-1012541	hof
-1012543	nif
-nif
-1012549	hof
-1012555	qal
-1012557	hif
-1012563	piel
-qal
-1012566	piel
-piel
-1012572	hif
+NA
+NA
+NA
 hif
-1012577	qal
-1012583	piel
-1012588	qal
-1012594	pil.
-1012596	qal
-1012598	hif
-1012601	piel
-1012603	qal
-1012606	qal
-1012608	hif
-1012610	nif
-1012614	qal
-1012616	hif
-1012620	piel
-1012622	qal
-1012624	qal
-1012626	qal
-1012629	qal
-1012631	hif
-1012633	piel
-1012640	piel
-1012642	nif
-1012648	qal
-1012654	qal
-qal
-qal
-1012658	hif
-1012664	qal
-1012676	nif
-1012679	qal
-1012682	qal
-1012689	qal
-qal
-1012693	qal
-1012695	qal
-1012699	qal
-1012701	qal
-1012703	qal
-1012705	hif
-1012716	qal
-1012720	piel
-1012722	qal
-1012727	qal
-1012730	qal
-1012733	qal
-1012735	qal
-1012744	qal
-qal
-1012750	qal
-1012755	hif
-1012759	qal
-1012763	qal
-1012765	hof
-1012773	qal
-qal
-1012783	qal
-qal
-1012795	hif
-1012798	nif
-qal
-1012805	qal
-1012807	qal
-1012811	hif
-1012816	qal
-1012819	piel
-1012827	piel
-1012829	qal
-1012833	piel
-1012837	qal
-1012849	qal
-1012858	qal
-1012863	qal
-1012886	qal
-1012888	qal
-1012893	qal
-qal
-nif
-1012898	qal
-1012903	qal
-qal
-nif
-1012914	qal
-1012919	qal
-1012925	nif
-qal
-1012930	qal
-1012934	qal
-1012940	hif
-1012945	qal
-1012952	qal
-piel
-1012958	piel
-1012964	piel
-qal
-1012975	qal
-1012978	nif
-1012981	hif
-1012983	hif
 hif
-1012990	piel
-1012993	hif
-1012998	hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+hif
+NA
+qal
+NA
 hit
-1013009	nif
-1013014	piel
-1013040	qal
-1013049	nif
-1013052	qal
-1013058	qal
-1013062	qal
-1013071	qal
-1013075	pasq
-1013078	pasq
-1013080	hof
-1013085	hof
-1013090	qal
-1013101	nif
-1013108	piel
-1013111	hit
-1013113	qal
-1013118	nif
+NA
 qal
-1013124	piel
-1013132	qal
-1013138	qal
-nif
-1013146	hif
-1013157	hif
-1013159	piel
-1013162	piel
-1013166	hif
-1013170	qal
-1013179	piel
-1013185	hif
-1013194	qal
-1013198	qal
-1013202	hif
-1013206	hif
-1013210	hif
-1013216	nif
-1013219	nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
 hif
-1013223	hif
-1013225	qal
-1013231	hif
+NA
+hif
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
 qal
-1013236	piel
-1013240	qal
-1013242	piel
-1013245	qal
-1013247	qal
-1013249	qal
-1013256	qal
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+pual
+NA
+NA
+NA
+piel
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+hit
+NA
+NA
+piel
+NA
+NA
+NA
+NA
 qal
-1013260	qal
-1013267	qal
-1013271	qal
-1013274	nif
-1013276	qal
-1013279	qal
-1013285	qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+hof
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+hof
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
 pasq
 pasq
-1013290	qal
-1013295	qal
-1013297	nif
-1013303	nif
-1013310	qal
-1013312	nif
-1013318	hif
-1013329	qal
-nif
-1013333	qal
-1013336	nif
-1013342	nif
+NA
+NA
 qal
-1013348	piel
-1013350	hif
-1013352	qal
-1013357	piel
-1013359	hif
-1013361	qal
-1013366	nif
-1013369	qal
-1013373	qal
-1013378	qal
-1013382	qal
-1013387	piel
-1013390	piel
-hif
-1013398	qal
-1013400	qal
-1013403	qal
-1013405	hif
-1013409	qal
+NA
+NA
+NA
+NA
+qal
+NA
 nif
-1013414	pasq
-1013417	hit
-1013420	qal
-1013424	piel
-1013436	qal
-1013438	qal
-1013442	qal
-1013447	qal
-1013454	qal
-1013460	qal
-1013467	qal
-1013473	qal
-1013478	qal
-1013485	qal
-1013488	qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
 hif
-hif
-hif
-1013495	qal
-1013503	hif
-1013506	hif
-1013510	nif
-1013514	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
 nif
 qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
 qal
-1013525	qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+pasq
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 hitpo.
 qal
-1013531	hif
-1013535	nif
-1013538	qal
-1013540	nif
-qal
-1013550	qal
-1013552	nif
-nif
-qal
-1013559	qal
-1013564	qal
-1013569	qal
-1013572	nif
-qal
-1013580	qal
-1013582	nif
-1013588	qal
-1013593	hif
-1013599	nif
-nif
-1013606	hif
-nif
-1013620	pasq
-1013628	qal
-1013630	qal
-1013636	nif
-qal
-1013648	qal
-1013656	qal
-1013662	qal
-1013668	nif
-1013671	nif
-1013675	qal
-1013677	qal
-1013681	qal
-1013686	hif
-1013688	qal
-1013691	qal
-1013695	hif
-1013700	qal
-1013702	qal
+NA
+NA
+NA
 hif
-1013707	piel
-1013711	nif
-1013715	qal
-1013719	nif
-1013726	hit
-1013729	hif
-1013732	qal
-1013734	qal
-1013740	piel
-1013742	nif
-qal
-1013753	qal
-1013755	piel
-1013763	qal
-1013768	qal
-1013776	nif
-1013778	nif
-1013785	nif
-1013795	qal
-1013801	nif
+NA
+NA
+NA
 nif
-1013812	nif
-1013822	piel
-1013825	piel
-1013827	qal
-1013833	hif
-1013837	hif
-1013843	piel
+NA
+NA
 qal
-1013853	qal
-1013857	qal
-hif
-1013862	qal
-1013865	qal
-1013871	qal
-1013873	piel
-qal
-1013879	hif
-hif
-1013884	qal
-1013888	qal
-qal
-1013894	qal
-1013901	qal
-1013907	hit
-1013942	qal
-1013958	nif
+NA
 nif
-1013962	piel
-1013975	qal
-1013977	qal
-1013979	piel
-1013981	qal
-1013983	piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 hif
-1013986	qal
-1013988	qal
-1013990	hif
-1013995	po.
-1013999	hif
-1014002	qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
 piel
-1014007	qal
-1014013	qal
-1014018	qal
-1014023	qal
-qal
-1014027	qal
-1014030	qal
-1014036	hit
-qal
-1014041	piel
-1014047	qal
-1014051	qal
-1014056	piel
-1014072	piel
-qal
-piel
-1014077	qal
-1014079	piel
-1014082	hitpal.
+NA
+NA
+NA
 nif
-1014085	qal
-1014087	qal
-1014090	piel
-hif
-1014093	qal
-1014097	qal
-1014099	qal
-1014102	qal
-1014106	piel
-1014108	qal
+NA
+NA
+NA
 qal
-1014111	hif
-1014113	hitpal.
+NA
+NA
+NA
 nif
-1014116	qal
-1014118	qal
-hif
-1014125	hif
-qal
-1014128	qal
-hif
-1014135	hif
-1014144	hif
-1014149	qal
-1014154	piel
-piel
-1014157	qal
-1014161	piel
-1014167	qal
-1014172	qal
-1014178	qal
-1014184	qal
-1014190	qal
-1014196	qal
-1014202	hit
-1014208	qal
-1014213	nif
-1014219	qal
-qal
-1014233	nif
-nif
-1014236	qal
-1014243	nif
-1014247	qal
-1014251	qal
-1014253	qal
-1014258	qal
-1014261	qal
-1014263	qal
-1014267	qal
-1014269	qal
-1014272	qal
-1014276	qal
-qal
-1014280	qal
-1014287	qal
-1014291	hitpo.
-1014298	nif
-hif
-1014307	hif
-1014312	hif
-hif
-1014317	qal
-1014343	hif
-hif
-1014347	hif
-1014349	qal
-1014360	qal
-1014363	qal
-1014366	qal
-1014379	qal
-1014388	qal
-1014392	qal
-1014398	hif
-1014401	qal
-1014407	qal
-1014413	hif
-hif
-1014419	piel
-qal
-1014427	qal
-1014431	hif
-1014433	qal
-1014435	qal
-1014440	qal
-1014442	qal
-1014444	qal
-1014446	qal
-1014450	qal
-qal
-1014453	qal
-1014458	hitpal.
-1014463	hit
-qal
-1014470	hit
-1014472	qal
-1014480	hif
-1014483	hif
-1014490	qal
-qal
-1014495	hif
-1014505	qal
-1014509	piel
-1014513	piel
-1014523	hif
-1014527	qal
-1014532	hif
-1014537	qal
-1014543	nif
-1014550	nif
-1014558	nif
-1014563	nif
-1014566	qal
-1014569	qal
-1014574	piel
-1014577	qal
-1014579	hif
-1014582	piel
-1014586	piel
-1014589	piel
-1014591	hif
-1014594	piel
-1014596	hif
-1014599	qal
-1014602	hif
-1014604	qal
-1014607	qal
-hif
-1014611	qal
-1014615	qal
-1014618	qal
-1014620	qal
-hif
-1014627	qal
-1014631	qal
-1014636	hit
-1014640	piel
-1014643	nif
-1014648	piel
-piel
-1014655	qal
-piel
-1014667	qal
-1014674	hif
-1014676	pual
-1014679	qal
-1014683	nif
-qal
-1014705	qal
-1014713	qal
-1014719	qal
-1014723	qal
-1014731	qal
-1014736	hif
-1014740	qal
-1014745	nif
-1014751	qal
-1014756	hif
-1014760	qal
-1014767	qal
-1014771	piel
-1014778	qal
-piel
-1014792	qal
-1014802	qal
-1014808	pual
-1014814	qal
-1014816	qal
-1014818	hif
-1014822	piel
-1014831	hif
-1014834	qal
-1014839	qal
-qal
-qal
-1014845	hif
-hif
-1014852	nif
-1014856	qal
-qal
-qal
-1014861	qal
-1014863	qal
-1014867	hif
-hif
-1014874	nif
-1014879	qal
-1014882	nif
-1014884	piel
-1014890	qal
-1014892	nif
-hif
-qal
-hif
-1014903	qal
-qal
-1014906	qal
-hif
-1014913	qal
-1014917	qal
-nif
-1014922	hif
-1014925	qal
-1014931	qal
-1014935	qal
-1014939	piel
-1014946	hif
-1014949	qal
-hif
-1014954	qal
-1014959	qal
-qal
-1014964	qal
-1014968	qal
-qal
-1014972	qal
-1014979	qal
-qal
-1014983	qal
-1014985	qal
-1014994	hif
-1014997	hif
-1015006	qal
-1015013	hit
-1015019	hif
-piel
-1015027	qal
-1015034	qal
-1015038	qal
-1015041	hif
-1015046	qal
-1015050	qal
-1015055	qal
-1015067	piel
-1015070	qal
-qal
-1015079	nif
-qal
-hif
-1015088	nif
-1015094	hif
-1015096	hif
-nif
-1015099	qal
-1015112	hif
-1015116	qal
-1015119	hif
-1015122	qal
-1015129	qal
-1015133	hif
-1015137	hif
-1015154	hif
-1015165	qal
-1015171	piel
-1015176	nif
-1015186	qal
-1015188	pual
-nif
-1015195	piel
-1015197	nif
-1015203	nif
-1015209	qal
-nif
-1015220	nif
-1015237	qal
-1015240	piel
-qal
-1015245	piel
-1015248	qal
-1015253	qal
-1015268	qal
-1015276	qal
-1015282	nif
-qal
-1015288	qal
-nif
-1015292	qal
-hif
-1015298	hit
-1015300	piel
-1015306	piel
-1015310	hif
-1015312	hif
-hif
-1015317	qal
-hif
-1015321	hif
-hif
-1015327	qal
-1015329	piel
-1015331	nif
-hif
-1015334	qal
-1015337	nif
-1015340	qal
-1015346	qal
-1015351	qal
-qal
-1015357	qal
-1015360	qal
-hif
-1015367	hit
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-1015373	hif
-1015377	hif
-1015379	qal
-1015381	qal
-1015387	hif
-1015392	hif
-1015400	qal
-1015405	hit
-1015411	qal
+NA
+NA
 hif
-1015416	qal
+NA
+NA
 qal
-1015422	qal
-1015429	nif
-1015439	hit
-hit
-1015452	hif
-1015458	piel
-1015460	qal
-1015463	hif
-1015469	qal
+NA
 qal
-1015476	qal
-1015481	qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
 qal
-1015486	qal
-1015493	qal
-1015512	hif
-1015517	hif
-1015519	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 hif
-1015528	piel
-1015530	qal
-1015533	qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 hit
-1015537	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+piel
+hif
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hitpal.
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+hif
+NA
+hitpal.
+nif
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+hif
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+nif
+hif
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+hit
+NA
+NA
+qal
 htpo
-1015543	qal
-hif
-1015546	hit
-1015548	qal
-1015552	qal
-1015558	hit
-1015561	hitpal.
-1015566	hit
-1015569	hif
-hif
-1015573	hif
-1015576	qal
-1015579	qal
-1015588	nif
-1015594	hif
-1015597	qal
-1015602	qal
-1015605	hif
-1015609	qal
-1015612	qal
-1015614	qal
-1015617	hif
+NA
+NA
+NA
+NA
 qal
-1015630	qal
-1015636	hif
-1015639	hif
+hif
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
 hof
 qal
 qal
-1015645	nif
-1015647	qal
-1015650	qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
 qal
 qal
-1015655	qal
+qal
+NA
+NA
+qal
 hif
-1015662	hit
-1015664	hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
 qal
-1015668	hit
-1015671	hif
-1015674	qal
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+qal
 po.
-1015677	piel
-1015688	po.
-1015694	piel
-1015697	qal
-1015699	piel
-1015701	qal
-1015704	qal
-1015707	qal
-1015719	qal
-1015730	hif
-1015737	hif
-1015740	hif
-1015748	hif
-1015760	nif
-1015764	pual
-1015770	hif
-1015784	nif
-1015790	qal
-1015799	nif
-nif
-1015803	qal
-1015812	qal
-1015815	qal
-1015819	hif
-1015824	piel
-1015828	hif
-1015830	qal
-1015834	hif
-1015836	qal
-1015840	hitpo.
-1015846	qal
+NA
 piel
-1015880	hif
-1015886	nif
-1015893	hif
-1015905	nif
-1015915	hif
-1015917	hif
-1015922	nif
-1015930	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
 hof
-1015933	nif
-1015939	piel
-1015941	qal
-1015946	hif
-1015952	hit
-1015954	hitpo.
-1015958	hif
-1015966	qal
-1015969	qal
-qal
-1015973	qal
-1015982	hif
-1015986	qal
-1015991	hif
-1015993	piel
-1015999	qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
 piel
-1016010	qal
-1016016	qal
-1016025	qal
-1016031	qal
-1016038	qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hitpo.
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
 qal
 qal
-1016042	qal
-1016048	qal
-1016051	qal
-1016061	qal
-1016066	piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
 piel
-1016072	piel
-1016076	qal
-1016079	qal
-1016091	qal
+NA
+NA
+NA
+NA
+NA
 qal
-1016095	qal
-1016112	nif
-1016117	qal
-1016125	qal
-1016132	qal
-1016167	qal
-1016170	nif
-1016175	qal
-qal
-nif
-1016181	nif
-1016195	hif
-1016214	nif
-1016217	nif
-1016223	nif
-1016228	nif
-1016233	qal
-1016237	qal
-1016245	hif
-1016250	qal
-1016255	hif
-1016261	nif
-1016265	hif
-1016275	hif
-1016284	hif
-1016293	qal
-1016295	hif
-1016302	hif
-1016313	qal
-1016319	qal
-1016340	hif
-1016355	piel
-1016366	qal
 piel
-1016371	qal
-1016373	nif
-1016375	hitpo.
-1016378	hif
-1016385	qal
-1016387	piel
-1016395	qal
-1016398	piel
-1016405	hif
-1016410	hif
-1016415	qal
-1016421	hif
-1016424	qal
-1016432	pual
-1016435	qal
-1016441	hif
-1016449	piel
-1016466	qal
-nif
-nif
-1016471	piel
-1016475	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 piel
-1016483	qal
-nif
-1016486	qal
-1016489	qal
-nif
-1016493	qal
-hif
-1016496	qal
-1016499	qal
-nif
-1016502	qal
-1016505	qal
-hif
-1016508	qal
-1016511	qal
-1016515	qal
-1016529	qal
-1016546	nif
-1016557	nif
-1016568	qal
-1016573	hif
-1016576	qal
-1016578	qal
-1016584	hif
-1016588	nif
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
 qal
-1016595	qal
-1016603	qal
-1016629	nif
-1016631	qal
-1016636	qal
-1016663	pasq
-1016666	hof
-1016673	pual
-1016677	hif
-1016681	hif
-1016685	hif
-1016691	qal
-1016694	nif
-1016700	qal
-1016702	qal
-1016706	nif
-nif
-1016709	qal
-1016718	qal
-1016751	qal
-1016765	qal
-1016768	hif
-1016773	hif
-hif
-1016782	qal
-1016785	hif
-hif
-1016788	qal
-1016790	hif
-1016799	qal
-1016801	hit
-1016803	qal
-1016812	piel
-1016817	qal
-1016823	qal
+NA
+NA
 qal
-1016828	qal
-1016838	qal
-1016841	qal
-1016844	qal
-1016858	qal
-1016870	qal
-1016913	qal
-1016923	qal
-1016926	qal
-1016928	qal
-1016938	qal
-1016946	qal
-1016950	qal
-1016954	qal
-1016956	qal
-1016961	qal
-1016975	qal
-1016977	qal
-1016986	hif
-1016991	qal
-1017002	pual
-1017010	qal
-1017015	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+hitpo.
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
 htpe
-1017018	qal
-1017025	nif
-1017029	htpe
-1017035	nif
-1017040	qal
-1017044	hif
-1017055	hif
-1017060	hif
-1017067	hif
-1017072	qal
-1017074	qal
-1017078	hif
-1017081	qal
-1017086	qal
-1017092	hit
-1017094	hit
-1017098	qal
+NA
 qal
-1017114	piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+htpe
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
 hif
-1017125	piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
+NA
+NA
+NA
+NA
 hif
-1017129	qal
-1017135	qal
-1017137	piel
-1017144	qal
-1017148	qal
-1017151	qal
-1017154	nif
-1017162	hif
-1017166	piel
-nif
-1017169	piel
-1017173	hit
-1017180	hif
-1017184	qal
-1017190	hitpo.
-piel
-1017193	nif
-1017195	piel
-1017197	nif
-1017199	nif
-1017201	nif
-1017207	qal
-1017210	qal
-1017216	piel
-1017223	nif
-1017226	nif
-1017232	hif
-1017239	qal
-1017245	nif
-nif
-1017249	qal
-1017254	qal
-1017258	qal
-1017260	hif
-1017270	hif
-1017273	hif
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1017278	qal
-1017280	nif
-1017284	hif
-1017286	qal
-1017288	hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
 hif
-1017295	hitpal.
-1017297	pasq
-hif
-1017300	pasq
-1017303	hif
-1017307	piel
-nif
-1017312	nif
-1017315	qal
-hif
-1017319	piel
-1017321	qal
-1017324	piel
-1017329	qal
-hif
-1017334	hif
-1017337	qal
-1017365	hit
-1017367	nif
-1017369	hit
-1017374	piel
-1017384	piel
-1017392	hif
-1017398	hif
-1017405	qal
-1017409	qal
-nif
-1017413	qal
+NA
+NA
 qal
-1017417	piel
+NA
+NA
+NA
+NA
 qal
-1017421	nif
-nif
-1017425	qal
-nif
-1017428	hif
-hif
-1017437	qal
-1017441	hif
-1017446	hif
-1017449	piel
-1017455	piel
-1017458	hif
-1017461	qal
-1017467	qal
-1017470	hif
-1017478	qal
-1017487	hif
-1017492	hif
-1017495	piel
-1017501	hif
-1017506	qal
-1017510	qal
-1017513	hif
-hif
-1017516	qal
-1017518	qal
-1017524	qal
-1017527	hif
-hif
-1017532	qal
-1017536	hif
-1017541	hif
-1017545	qal
-1017553	hif
-1017566	qal
-qal
-1017570	qal
-piel
-1017574	qal
-qal
-1017577	qal
-1017579	hif
-1017583	qal
-hif
-1017590	qal
-1017592	piel
-1017597	hitpo.
-1017610	qal
-1017615	qal
-1017623	hif
-1017634	qal
-1017641	piel
-1017645	nif
-1017648	hif
-1017652	qal
-1017656	piel
-hif
-1017661	qal
-1017664	qal
-po.
-hif
-1017670	qal
-1017673	qal
-1017675	nif
-1017678	qal
-1017683	qal
-1017691	piel
-1017701	qal
-piel
-1017708	qal
-piel
-1017723	qal
-1017727	qal
-1017731	qal
-1017734	qal
-1017750	qal
-1017753	qal
-1017757	qal
-1017765	qal
-1017768	qal
-1017779	nif
-1017785	hif
-1017788	hit
-1017792	hit
-1017794	nif
-1017803	qal
-1017806	qal
-1017810	qal
-qal
-1017826	nif
-1017832	qal
-1017838	qal
-1017842	piel
-1017845	nif
-1017848	hit
-1017851	nif
-1017860	nif
-1017865	qal
-1017869	qal
-1017874	qal
-1017879	nif
-1017883	hif
-1017886	qal
-1017892	qal
-1017898	qal
-1017902	qal
-1017908	qal
-1017914	nif
-nif
-1017920	hif
-1017923	piel
-1017928	hif
-1017945	hif
-hif
-1017955	qal
-1017959	qal
-1017964	po.
-1017968	qal
-1017972	hif
-1017978	piel
-1017982	hif
-1017985	qal
-1017992	piel
-1017996	qal
-1018006	piel
-1018012	piel
-1018014	piel
-1018023	qal
-1018031	hif
-1018035	qal
-1018044	piel
-1018055	qal
-1018059	hif
-1018067	qal
-1018072	qal
-1018076	piel
-1018080	piel
-1018087	hif
-1018092	hif
-1018097	piel
-1018107	hif
-1018114	qal
-1018119	hif
-1018135	qal
-1018161	pasq
-1018184	hof
-hif
-1018197	hof
-1018204	piel
-1018209	qal
-1018214	qal
-1018225	qal
-1018228	piel
-1018232	piel
-1018238	qal
-1018244	hif
-1018250	hif
-1018257	piel
-1018262	qal
-1018266	hif
-1018272	piel
-1018282	nif
-1018286	piel
-1018301	qal
-1018304	hit
-1018306	piel
-1018311	hif
-1018315	qal
-1018323	qal
-1018327	qal
-1018332	qal
-1018342	qal
-1018344	qal
-piel
-1018358	piel
-1018363	qal
-1018371	piel
-1018379	hif
-1018384	pil.
-1018387	qal
-1018419	piel
-1018424	piel
-1018428	qal
-1018435	nif
-1018447	piel
-1018452	nif
-1018454	qal
-1018462	nif
-1018467	hif
-1018471	nif
-1018473	qal
-1018476	hif
-1018484	hit
-1018488	nif
-1018493	qal
-1018498	qal
-1018503	qal
-1018505	qal
-1018515	qal
-1018520	qal
-1018526	piel
-1018533	qal
-1018541	hit
-1018543	qal
-1018546	hif
-1018552	hif
-1018560	nif
-1018567	hif
-1018571	qal
-1018576	qal
-1018583	qal
-1018586	hif
-1018593	qal
-1018597	qal
-1018604	piel
-1018608	qal
-1018615	qal
-1018619	nif
-1018623	qal
-1018632	qal
-qal
-1018635	pasq
-qal
-pual
-1018646	qal
-1018648	piel
-1018651	hif
-1018654	qal
-1018658	piel
-1018665	piel
-1018667	nif
-qal
-1018677	qal
-1018681	nif
-1018684	hif
-1018689	hif
-piel
-1018697	qal
-1018700	hif
-1018708	nif
-1018715	qal
-1018722	nif
-nif
-1018736	nif
-1018738	hif
-1018743	qal
-1018752	qal
-1018755	hit
-1018762	hof
-1018772	qal
-1018783	hif
-1018786	hif
-1018790	hif
-1018796	piel
-qal
-1018801	qal
-1018806	qal
-1018811	qal
-1018814	qal
-1018818	hif
-1018823	qal
-1018827	piel
-1018831	qal
-1018833	nif
-1018837	hif
-1018840	qal
-1018847	piel
-1018852	qal
-1018861	qal
-qal
-1018867	hif
-1018871	hif
-1018873	piel
-1018880	qal
-qal
-1018886	hif
-1018889	qal
-1018894	qal
-1018900	hif
-1018906	qal
-1018909	hif
-qal
-1018914	qal
-1018921	hif
-1018926	hif
-1018931	hif
-1018936	qal
-1018940	hif
-1018945	piel
-1018947	qal
-1018959	hif
-nif
-1018963	nif
-nif
-1018968	qal
-1018975	hif
-1018978	qal
-1018983	hif
-1018987	qal
-1018992	piel
-1019008	qal
-1019012	hif
-1019019	qal
-1019021	hif
-1019023	qal
-1019025	qal
-1019027	pual
-1019029	qal
-1019038	hif
-1019044	qal
-1019046	qal
-1019053	qal
-1019055	hif
-1019059	qal
-1019064	hif
-1019068	qal
-1019075	hit
-1019078	qal
-1019086	qal
-1019088	qal
-1019095	hif
-1019099	qal
-1019105	nif
-1019108	hif
-qal
-1019118	hif
-1019123	nif
-1019126	qal
-1019134	hif
-1019143	nif
-1019151	pasq
-nif
-1019156	hif
-1019161	hif
-1019168	hif
-qal
-1019171	qal
-1019176	hif
-1019185	qal
-1019190	qal
-1019198	nif
-1019202	qal
-nif
-1019213	qal
-1019217	qal
-1019224	nif
-1019229	nif
-1019240	qal
-1019245	hif
-1019248	piel
-1019251	hif
-1019256	qal
-1019261	qal
-1019266	qal
-1019269	qal
-1019274	piel
-1019278	nif
-1019283	qal
-1019285	qal
-1019287	qal
-1019293	qal
-piel
-1019298	qal
-1019303	hif
-1019309	qal
-1019316	hif
-1019323	qal
-1019326	piel
-1019331	hif
-nif
-1019334	nif
-1019337	qal
-1019343	pual
-1019345	qal
-1019350	hif
-1019359	nif
-nif
-1019365	hif
-1019370	hif
-qal
-1019379	qal
-1019389	qal
-1019395	qal
-1019397	qal
-1019408	hif
-1019413	hif
-qal
-1019420	piel
-1019425	nif
-1019428	qal
-1019431	qal
-1019434	hif
-1019436	qal
-1019440	qal
-1019442	qal
-1019445	hif
-1019447	qal
-1019450	hif
-1019455	hif
-1019459	pil.
-1019468	qal
-1019470	qal
-1019473	hif
-1019477	hif
-1019479	piel
-1019481	hif
-1019484	polal
-1019489	qal
-nif
-1019492	hif
-1019496	piel
-1019500	hif
-1019505	nif
-1019513	nif
-1019518	nif
-1019523	nif
-1019530	nif
-1019549	nif
-1019554	pual
-1019559	nif
-1019568	nif
-1019575	qal
-1019583	piel
-1019588	nif
-nif
-1019591	hif
-1019596	qal
-1019604	qal
-1019613	hif
-1019620	hif
-1019627	nif
-1019662	nif
-1019675	piel
-1019678	qal
-1019682	hit
-1019686	qal
-1019691	qal
-1019695	piel
-1019702	nif
-1019715	hif
-1019734	piel
-1019736	piel
-1019740	piel
-1019744	hif
-1019752	hif
-1019754	hif
-1019758	hif
-1019765	nif
-1019767	qal
-1019772	hsht
-1019781	qal
-1019787	hif
-1019790	qal
-1019800	piel
-1019802	qal
-1019806	hif
-1019809	qal
-1019811	qal
-1019826	hit
-1019828	qal
-1019830	qal
-1019833	piel
-1019839	hif
-1019841	qal
-1019844	piel
-1019849	qal
-1019852	qal
-1019857	qal
-1019861	nif
-1019866	hif
-1019872	nif
-1019883	qal
-1019889	qal
-1019896	qal
-1019913	piel
-piel
-1019916	qal
-1019920	hif
-1019927	qal
-1019929	qal
-1019932	qal
-1019937	piel
-1019940	hif
-1019943	piel
-1019948	qal
-1019952	qal
-1019960	hif
-1019962	qal
-1019973	qal
-qal
-1019977	qal
-qal
-1019980	qal
-1019986	qal
-1019991	piel
-1019996	hif
-1020009	qal
-1020018	qal
-1020025	qal
-1020035	qal
-1020039	qal
-1020042	piel
-qal
-1020047	qal
-1020056	hif
-1020058	qal
-1020061	qal
-1020068	pil.
-1020077	hif
-1020086	piel
-1020090	qal
-1020094	qal
-1020098	hif
-1020101	qal
-1020106	piel
-1020112	hif
-1020114	piel
-1020116	piel
-1020120	hif
-1020129	hif
-1020139	hif
-1020141	qal
-1020147	hif
-1020149	qal
-1020155	hif
-1020157	qal
-1020163	hif
-1020165	piel
-nif
-1020172	hif
-1020174	qal
-1020182	hif
-1020184	hif
-1020193	hif
-1020195	qal
-1020200	piel
-1020205	hif
-1020213	hif
-1020221	hif
-1020229	hif
-1020231	qal
-1020238	hif
-1020248	qal
-1020261	piel
-1020265	qal
-1020267	qal
-1020270	piel
-1020273	qal
-1020279	qal
-1020281	hit
-1020286	hif
-qal
-1020290	qal
-1020294	qal
-1020296	qal
-1020298	hif
-1020301	nif
-1020303	qal
-qal
-1020310	qal
-1020313	qal
-1020320	qal
-1020323	qal
-1020327	qal
-hif
-1020333	qal
-1020336	qal
-1020344	qal
-qal
-1020349	hif
-1020354	qal
-1020357	qal
-1020365	hif
-qal
-1020370	qal
-1020376	qal
-1020385	qal
-1020387	qal
-1020389	piel
-1020391	qal
-1020401	hif
-1020404	qal
-1020409	piel
-1020411	qal
-1020413	qal
-1020415	qal
-1020420	qal
-1020422	qal
-1020425	qal
-1020427	qal
-1020435	qal
-1020437	qal
-1020443	qal
-1020447	qal
-1020452	qal
-1020457	pasq
-1020462	pual
-1020475	nif
-1020486	qal
-1020489	pual
-1020498	qal
-nif
-1020505	nif
-qal
-1020513	nif
-1020516	piel
-qal
-1020520	qal
-1020522	qal
-1020530	qal
-1020535	nif
-1020540	hif
-1020546	qal
-1020551	qal
-1020556	qal
-1020559	hof
-1020563	qal
-1020568	qal
-1020570	qal
-1020574	nif
-nif
-1020579	hif
-1020587	piel
-1020597	hif
-1020599	nif
-1020601	hif
-1020604	qal
-qal
-1020608	qal
-1020614	qal
-1020619	qal
-1020624	qal
-1020628	qal
-qal
-1020635	hit
-1020639	qal
-1020641	hof
-1020643	qal
-1020645	qal
-qal
-1020649	qal
-1020658	qal
-1020660	hif
-1020665	qal
-1020671	qal
-1020680	hif
-1020683	piel
-1020685	qal
-1020689	hit
-1020696	qal
-1020702	nif
-1020704	qal
-qal
-1020711	qal
-1020715	qal
-pasq
-1020721	qal
-1020723	qal
-nif
-1020731	qal
-qal
-nif
-1020737	qal
-1020742	qal
-1020751	qal
-1020753	hif
-1020755	qal
-1020760	nif
-qal
-1020766	hif
-qal
-1020771	qal
-1020775	qal
-1020784	qal
-qal
-qal
-1020792	hif
-1020800	nif
-1020803	qal
-qal
-1020807	qal
-1020810	nif
-piel
-1020813	qal
-1020816	qal
-nif
-nif
-1020821	qal
-qal
-1020827	qal
-1020829	qal
-1020834	nif
-1020839	qal
-1020845	qal
-1020850	hif
-nif
-1020856	nif
-1020858	qal
-nif
-1020862	qal
-nif
-qal
-1020870	qal
-qal
-1020875	qal
-1020885	hif
-1020889	qal
-hif
-1020897	piel
-1020902	hif
-1020905	qal
-1020908	qal
-qal
-1020911	qal
-1020916	qal
-1020920	nif
-qal
-1020927	qal
-1020929	qal
-1020934	qal
-1020936	hif
-1020938	qal
-1020943	piel
-1020953	piel
-1020955	qal
-1020961	hif
-1020965	hif
-1020973	hif
-1020975	qal
-1020980	qal
-1020983	hif
-qal
-1020988	qal
-1020993	piel
-1020996	qal
-1021002	qal
-1021005	hif
-1021008	hif
-1021011	qal
-qal
-1021014	qal
-1021016	piel
-1021018	qal
-1021027	qal
-qal
-1021030	qal
-1021036	qal
-1021040	qal
-qal
-1021043	hitpal.
-1021051	hif
-1021054	nif
-1021057	nif
-1021061	hif
-1021067	hif
-1021069	qal
-1021072	hif
-1021078	qal
-1021084	nif
-1021094	qal
-1021096	pual
-1021102	qal
-nif
-1021111	qal
-1021115	qal
-piel
-1021118	qal
-1021131	qal
-1021133	pasq
-1021142	hif
-1021145	hif
-1021149	piel
-1021158	qal
-1021162	hif
-1021168	hif
-1021180	qal
-1021182	qal
-1021184	qal
-1021190	qal
-1021192	qal
-1021194	qal
-1021196	qal
-1021198	qal
-1021204	qal
-1021208	qal
-1021213	qal
-1021215	qal
-1021218	qal
-1021223	qal
-1021225	qal
-1021228	qal
-1021234	nif
-qal
-1021239	qal
-1021243	nif
-1021246	qal
-1021251	qal
-1021258	qal
-1021264	nif
-1021269	hif
-1021272	qal
-1021291	hif
-1021295	hif
-1021300	qal
-1021303	qal
-1021309	qal
+NA
+NA
+NA
+NA
+NA
 hit
-1021317	qal
-qal
-1021330	qal
-1021332	qal
-1021341	nif
-1021347	pil.
-1021357	piel
-piel
-1021368	qal
-1021380	piel
-1021389	qal
-1021391	nif
-1021394	piel
-1021404	pasq
-1021407	qal
-1021417	pasq
-1021436	qal
-1021447	qal
-1021454	hif
-1021458	pual
-1021464	qal
-1021466	qal
-hif
-1021472	piel
-1021483	hif
-1021486	piel
-qal
-1021497	hif
-1021505	qal
-1021507	qal
-1021510	hif
-piel
-1021515	qal
-1021519	qal
-1021523	qal
-1021527	piel
-1021530	qal
-1021537	qal
-1021539	hif
-1021542	hif
-1021545	nif
-1021547	piel
-1021549	hif
-1021553	qal
-1021558	hif
-qal
-qal
-qal
-piel
-1021565	pual
-1021578	hif
-1021582	qal
-1021584	qal
-1021593	qal
-1021596	hit
-1021598	qal
-1021602	hit
-1021610	piel
-1021612	qal
-qal
-1021617	qal
-1021621	qal
-1021625	qal
-1021631	qal
-1021634	qal
-1021637	hif
-1021640	hif
-1021649	hif
-1021654	qal
-1021658	hif
-1021660	qal
-1021663	qal
-1021670	nif
-1021674	hit
-1021677	qal
-1021682	qal
-1021685	qal
-1021688	qal
-1021695	hif
-1021698	qal
-qal
-1021708	hif
-1021710	piel
-1021712	qal
-1021717	qal
-1021719	piel
-1021721	nif
-1021723	qal
-1021727	qal
-1021731	qal
-1021733	hif
-1021740	qal
-1021744	nif
-1021749	hif
-1021755	hif
-hif
-qal
-1021759	piel
-1021765	qal
-qal
-1021775	pual
-1021781	qal
-1021783	qal
-hif
-1021788	piel
-1021799	hif
-1021802	qal
-1021804	qal
-qal
-qal
-1021809	qal
-1021811	qal
-1021815	hif
-hif
-1021821	nif
-1021826	qal
-1021828	nif
-1021830	piel
-1021834	hif
-1021837	qal
-hif
-1021848	qal
-qal
-1021851	nif
-1021857	hif
-1021860	qal
-1021866	qal
-1021870	qal
-1021872	qal
-qal
-qal
-1021877	qal
-1021881	qal
-qal
-1021885	qal
-1021893	qal
-1021900	qal
-1021902	qal
-1021905	hif
-1021908	qal
-1021912	hif
-1021916	nif
-1021919	qal
-1021922	piel
-hif
-1021934	hit
-1021938	qal
-1021952	qal
-1021963	piel
-1021965	qal
-qal
-1021975	nif
-qal
-1021989	hif
-1021993	qal
-1022000	hif
-1022004	hif
-1022016	hif
-1022024	piel
-1022031	nif
-1022039	nif
-1022045	piel
-1022047	nif
-1022053	nif
-1022059	nif
-1022069	nif
-qal
-1022099	qal
-1022102	piel
-1022104	qal
-1022107	qal
-1022111	qal
-1022118	piel
-1022121	qal
-1022125	qal
-1022140	qal
-1022142	hif
-1022147	hit
+NA
 hit
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+nif
+NA
+piel
+NA
+NA
+NA
 hit
-1022157	hif
-1022159	hif
-1022162	hif
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-qal
-1022171	qal
-1022173	nif
-hif
-1022176	qal
-hif
-1022183	hif
-1022185	hif
-hif
-1022190	piel
-piel
-1022194	qal
-1022196	piel
-1022199	qal
-1022209	hit
-1022211	qal
-1022216	nif
-1022223	qal
-1022225	qal
-1022231	qal
-1022233	nif
-qal
-1022237	qal
-1022241	qal
-1022245	hitpo.
-1022252	qal
-1022258	hif
-hif
-1022264	qal
-1022266	qal
-qal
-1022270	qal
-qal
-1022275	qal
-1022283	nif
-1022289	hof
-1022292	qal
-1022301	nif
-1022306	hif
-1022308	qal
-1022310	qal
-1022313	piel
-1022317	qal
-1022322	qal
-1022326	hit
-1022343	hif
-1022353	qal
-1022356	po.
-1022361	piel
-1022364	qal
-piel
-qal
-1022371	qal
-1022375	piel
-qal
-1022382	qal
-1022387	qal
-1022391	hif
-1022403	hif
-qal
-1022407	qal
-1022413	qal
-1022415	piel
-1022419	piel
-1022423	hif
-1022429	qal
-1022433	qal
-1022445	hif
-1022458	hif
-1022462	piel
-1022466	qal
-1022468	qal
-hif
-1022473	qal
-1022475	hif
-1022478	qal
-1022483	hif
-1022493	qal
-1022502	qal
-1022504	piel
-1022508	piel
-qal
-qal
-1022512	qal
-1022516	qal
-1022521	hit
-1022523	qal
-1022532	qal
-1022534	qal
-1022545	nif
-1022549	qal
-1022561	nif
-1022566	qal
-piel
-1022570	hif
-1022575	hif
-1022579	hif
-1022585	qal
-1022589	hif
-1022594	qal
-1022601	qal
-1022603	hif
-1022609	qal
-1022611	qal
-1022616	qal
-1022620	qal
-qal
-1022626	qal
-1022629	qal
-1022635	qal
-1022637	piel
-1022643	hif
-1022647	qal
-1022686	piel
-1022688	qal
-1022694	qal
-1022697	piel
-1022702	piel
-qal
-piel
-1022709	hitpal.
-nif
-1022714	qal
-1022716	qal
-1022720	qal
-hif
-1022727	qal
-1022729	qal
-hif
-1022733	hif
-1022736	hif
-1022740	piel
-piel
-1022744	qal
-1022748	piel
-1022751	qal
-1022755	qal
-1022759	qal
-1022766	hit
-1022772	qal
-1022777	nif
-1022782	hit
-1022789	qal
-1022791	qal
-1022794	qal
-1022800	qal
-1022802	nif
-qal
-1022805	qal
-1022808	qal
-1022812	qal
-1022814	qal
-1022818	hitpo.
-1022823	hif
-1022827	qal
-1022830	hif
-hif
-1022838	qal
-1022842	hof
-qal
-qal
-1022847	qal
-qal
-qal
-1022855	qal
-1022857	qal
-1022864	nif
-1022873	nif
-1022875	hif
-hif
-nif
-1022881	piel
-1022889	hif
-1022898	nif
-1022903	nif
-1022908	nif
-1022913	qal
-1022917	qal
-1022919	hif
-1022924	qal
-1022928	piel
-1022935	qal
-pual
-1022938	nif
-1022942	qal
-1022951	qal
-1022957	qal
-1022962	hif
-1022969	piel
-1022984	qal
-1022987	qal
-hif
-1022990	pasq
-1022993	qal
-1022995	qal
-1023006	nif
-nif
-1023010	qal
-1023013	qal
-1023016	qal
-1023019	qal
-1023024	hif
-1023032	qal
-1023042	qal
-1023047	qal
-1023059	pasq
-1023062	pual
-1023068	hif
-1023072	hif
-1023076	qal
-1023079	nif
-1023087	qal
-1023091	nif
-nif
-qal
-1023127	qal
-1023131	hif
-1023139	qal
-1023143	qal
-1023148	qal
-1023150	hif
-1023152	hif
-1023154	hitpo.
-1023158	hit
-1023163	qal
-1023171	piel
-1023175	qal
-1023181	qal
-1023186	qal
-1023196	qal
-1023199	qal
-1023202	qal
-1023240	qal
-1023251	qal
-qal
-qal
-1023257	qal
-1023273	nif
-1023278	nif
-1023282	hif
-1023287	piel
-1023296	qal
-1023298	qal
-1023303	hif
-1023308	qal
-qal
-1023323	hif
-piel
-1023330	qal
-1023336	qal
-1023338	piel
-qal
-1023344	qal
-1023346	piel
-1023353	qal
-1023356	nif
-1023360	qal
-1023363	hif
-1023367	piel
-1023369	nif
-piel
-1023374	hit
-1023379	qal
-1023386	hitpo.
-1023388	qal
-1023392	hif
-qal
-1023395	piel
-1023398	piel
-1023400	nif
-1023402	nif
-1023408	qal
-1023419	nif
-1023424	nif
-1023428	qal
-1023434	qal
-1023442	nif
-1023447	qal
-1023451	qal
-1023453	hif
-1023462	hif
-1023464	qal
-nif
-1023467	nif
-1023472	hif
-hif
-1023479	hitpo.
-1023481	pasq
-1023485	hif
-nif
-1023490	qal
-1023494	hif
-1023504	hit
-1023509	piel
-1023518	hif
-1023524	qal
-1023528	qal
-nif
-1023534	qal
-1023537	piel
-qal
-1023540	nif
-1023548	qal
-1023554	piel
-1023559	qal
-1023562	hif
-1023567	piel
-1023570	piel
-1023575	hif
-1023580	hif
-1023583	hif
-hif
-1023593	qal
-1023598	qal
-qal
-1023602	qal
-1023607	hif
-1023612	qal
-1023614	hif
-1023618	qal
-1023622	hif
-1023626	hif
-1023632	nif
-1023642	qal
-piel
-1023649	qal
-1023653	qal
-1023670	qal
-qal
-1023675	qal
-1023680	qal
-1023684	nif
-1023687	hif
-1023702	nif
-1023706	qal
-qal
-1023713	qal
-1023718	nif
-1023723	nif
-1023733	nif
-1023744	piel
-1023749	qal
-1023774	qal
-1023841	qal
-1023856	qal
-1023879	qal
-1023905	qal
-1023911	qal
-1023947	qal
-qal
-1023968	qal
-1023974	qal
-1023998	qal
-1024000	hof
-1024003	qal
-1024013	qal
-qal
-1024031	pual
-1024046	qal
-1024050	qal
-1024058	qal
-1024072	qal
-1024079	qal
-1024091	qal
-qal
-1024097	pual
-1024099	pual
-1024102	qal
-qal
-1024136	qal
-1024141	qal
-1024145	qal
-1024163	qal
-1024181	qal
-1024187	qal
-1024195	qal
-1024201	qal
-1024210	qal
-1024218	qal
-1024232	qal
-1024247	qal
-1024250	qal
-1024281	qal
-1024302	qal
-1024319	qal
-1024331	qal
-1024351	qal
-1024374	qal
-1024400	qal
-1024421	qal
-1024426	qal
-1024442	qal
-1024444	qal
-1024453	qal
-1024460	qal
-1024466	piel
-1024495	qal
-1024534	pasq
-qal
-1024540	qal
-1024549	qal
-1024564	qal
-1024567	qal
-1024570	hif
-hif
-1024576	qal
-pasq
-qal
-1024582	qal
-1024584	qal
-1024586	qal
-1024594	qal
-1024598	qal
-1024615	hif
-1024629	hif
-1024634	nif
-1024643	qal
-1024651	qal
-1024663	qal
-hif
-1024676	piel
-1024687	qal
-1024689	qal
-1024691	hit
-1024693	piel
-1024696	qal
-1024698	qal
-1024704	qal
-1024714	qal
-1024729	qal
-1024747	qal
-1024750	qal
-qal
-1024758	qal
-1024760	qal
-1024779	qal
-qal
-1024782	qal
-1024791	qal
-1024793	qal
-qal
-1024879	piel
-1024889	qal
-1024891	qal
-1024893	piel
-1024901	piel
-1024911	qal
-1024931	qal
-1024934	qal
-piel
-1024969	qal
-1024976	qal
-1024999	pasq
-1025009	nif
-1025024	qal
-1025040	nif
-1025045	nif
-1025059	pasq
-1025068	qal
-1025080	nif
-1025085	pasq
-1025096	pasq
-1025104	qal
-1025108	qal
-1025114	qal
-1025127	qal
-1025150	qal
-qal
-1025173	qal
-1025194	pasq
-1025205	qal
-1025216	qal
-1025226	qal
-1025263	qal
-1025270	hif
-1025275	hif
-1025293	qal
-1025310	hif
-1025315	qal
-1025322	qal
-qal
-1025325	qal
-1025333	qal
-1025341	qal
-1025355	hif
-1025366	qal
-1025369	qal
-1025373	hit
-1025378	piel
-1025388	qal
-1025438	qal
-1025453	hif
-1025458	qal
-1025463	nif
-1025469	nif
-1025472	qal
-1025499	hif
-1025509	qal
-1025515	qal
-hif
-1025522	qal
-1025531	qal
-1025539	qal
-1025558	hif
-1025572	qal
-1025575	qal
-1025579	hit
-1025584	piel
-1025600	piel
-1025607	qal
-1025658	qal
-qal
-1025661	qal
-1025668	qal
-1025678	piel
-1025681	piel
-qal
-po.
-1025689	qal
-qal
-1025703	nif
-1025707	piel
-1025728	qal
-piel
-1025731	qal
-1025733	qal
-1025738	qal
-qal
-1025751	qal
-1025757	qal
-1025760	hif
-piel
-1025766	qal
-1025772	qal
-1025775	hif
-qal
-1025784	qal
-1025789	qal
-1025798	qal
-1025813	pasq
-qal
-1025819	nif
-1025822	pasq
-1025848	etaf.
-1025870	piel
-1025873	qal
-1025878	qal
-1025881	qal
-1025887	hit
-1025890	hit
-1025906	qal
-1025916	qal
-1025930	qal
-1025936	qal
-qal
-1025947	qal
-1025951	piel
-1025962	qal
-1025965	qal
-1025968	qal
-qal
-1025971	piel
-qal
-1025978	qal
-1025995	piel
-1025997	hif
-1026007	piel
-1026106	qal
-1026154	nif
-1026175	qal
-1026201	peil
-1026211	peal
-1026237	qal
-1026920	qal
-1026932	qal
-1026940	pasq
-1026942	pasq
-1026949	piel
-1026965	hif
-1026973	qal
-1026980	hif
-1026987	hif
-qal
-1026992	piel
-1026994	piel
-qal
-1027006	hif
-1027010	qal
-1027018	hif
-1027020	hif
-1027026	qal
-1027031	pual
-1027033	nif
-1027043	qal
-1027049	hit
-1027051	hif
-hif
-qal
-1027055	qal
-1027059	qal
-1027063	qal
-1027066	nif
-1027070	nif
-1027074	hif
-1027076	qal
-qal
-1027079	qal
-qal
-1027085	hif
-1027088	po.
-1027096	nif
-qal
-1027101	hif
-1027103	pasq
-1027105	qal
-1027111	qal
-qal
-qal
-1027118	qal
-piel
-1027132	qal
-1027135	qal
-1027139	hif
-1027143	qal
-1027146	qal
-qal
-1027149	qal
-1027151	qal
-qal
-1027156	hif
-hif
-1027159	qal
-piel
-1027162	qal
-1027165	qal
-1027167	piel
-hif
-1027173	pasq
-hif
-1027177	qal
-1027185	qal
-1027190	qal
-1027195	pasq
-1027198	qal
-1027200	qal
-qal
-1027203	qal
-1027206	qal
-1027209	qal
-1027217	pasq
-qal
-1027220	qal
-1027227	hif
-1027232	qal
-1027234	qal
-nif
-1027240	qal
-1027242	hif
-1027250	hif
-qal
-1027257	qal
-1027259	hif
-1027261	qal
-1027267	qal
-qal
-1027272	hif
-po.
-1027279	qal
-1027282	qal
-1027284	qal
-1027286	hif
-1027291	qal
-1027296	qal
-1027303	pasq
-qal
-1027313	qal
-qal
-1027318	qal
-1027321	qal
-qal
-1027331	qal
-1027333	qal
-hif
-hif
-1027338	qal
-1027340	hif
-1027348	qal
-1027352	qal
-1027354	qal
-1027360	hof
-hof
-1027366	qal
-1027371	qal
-1027376	qal
-1027380	pasq
-1027384	qal
-1027388	hif
-hif
-1027392	qal
-hif
-1027397	hof
-1027400	qal
-1027402	nif
-1027411	hif
-1027413	qal
-1027427	nif
-1027430	qal
-1027432	qal
-1027434	qal
-1027436	qal
-1027440	qal
-po.
-1027443	pual
-1027446	qal
-1027448	qal
-1027452	pasq
-hof
-1027456	qal
-1027460	qal
-1027468	hif
-po.
-qal
-hif
-qal
-1027477	qal
-1027484	hif
-1027487	qal
-hif
-1027490	qal
-1027494	qal
-hif
-qal
-1027500	qal
-qal
-qal
-1027505	nif
-1027507	qal
-1027510	qal
-qal
-1027515	qal
-1027520	hif
-1027523	nif
-qal
-qal
-qal
-1027531	pasq
-qal
-qal
-1027540	pasq
-1027543	qal
-1027550	qal
-1027553	qal
-1027556	pasq
-1027559	qal
-1027568	qal
-1027571	qal
-1027573	qal
-1027575	nif
-qal
-qal
-1027579	qal
-qal
-1027586	qal
-hif
-1027590	qal
-1027592	qal
-qal
-1027595	qal
-qal
-1027598	qal
-1027601	hif
-qal
-1027607	qal
-1027611	qal
-1027613	qal
-1027618	hif
-1027620	hif
-1027622	qal
-qal
-qal
-hif
-qal
-1027629	qal
-1027632	qal
-1027635	qal
-1027640	qal
-qal
-1027647	qal
-1027649	qal
-1027651	hif
-1027653	qal
-qal
-1027657	qal
-qal
-1027663	qal
-1027666	hif
-1027668	qal
-qal
-1027672	qal
-qal
-1027677	hif
-1027679	qal
-1027684	hif
-1027688	qal
-1027691	qal
-1027695	qal
-po.
-qal
-1027701	qal
-qal
-qal
-qal
-hof
-pasq
-1027711	qal
-1027714	hitpo.
-1027716	qal
-hif
-pual
-1027727	nif
-nif
-1027730	nif
-1027732	hif
-1027736	qal
-1027738	qal
-qal
-qal
-1027742	hif
-1027745	qal
-qal
-1027748	qal
-1027750	qal
-1027755	qal
-qal
-qal
-1027759	qal
-qal
-1027762	qal
-1027770	qal
-qal
-1027774	hif
-1027779	qal
-qal
-qal
-1027783	hsht
-1027796	hif
-1027798	qal
-1027807	qal
-qal
-piel
-1027812	qal
-1027814	qal
-qal
-1027822	qal
-1027824	qal
-1027827	piel
-1027829	hof
-1027832	qal
-hof
-qal
-hif
-1027839	qal
-1027843	qal
-1027845	qal
-1027852	qal
-1027855	qal
-1027857	qal
-1027862	qal
-1027865	qal
-1027867	qal
-1027869	qal
-1027871	qal
-qal
-1027875	hif
-1027881	qal
-qal
-qal
-qal
-1027901	qal
-1027905	qal
-qal
-1027910	hif
-1027919	po.
-qal
-1027925	qal
-1027928	hif
-qal
-qal
-1027932	qal
-1027934	qal
-1027942	qal
-1027947	nif
-1027949	hif
-1027951	piel
-1027954	qal
-qal
-qal
-qal
-qal
-1027960	qal
-1027962	qal
-1027964	hif
-1027967	hif
-1027969	qal
-hof
-hif
-1027973	hif
-hif
-1027987	qal
-1027989	qal
-1027992	qal
-qal
-1027995	qal
-qal
-1027998	qal
-1028000	qal
-1028016	qal
-1028018	piel
-qal
-qal
-1028022	qal
-hif
-1028026	qal
-1028029	qal
-qal
-1028033	pasq
-1028035	qal
-qal
-nif
-1028039	qal
-1028041	qal
-qal
-1028044	qal
-1028046	piel
-1028052	qal
-1028054	qal
-1028060	po.
-1028063	qal
-1028069	qal
-1028071	qal
-1028076	hit
-qal
-qal
-1028080	qal
-1028086	qal
-1028088	qal
-pual
-1028091	qal
-qal
-1028094	qal
-1028096	qal
-1028101	qal
-1028106	hif
-1028109	qal
-1028113	qal
-1028121	piel
-qal
-1028124	qal
-1028130	hif
-1028132	qal
-qal
-qal
-1028140	qal
-1028142	nif
-1028151	qal
-1028165	qal
-qal
-1028181	hif
-1028189	qal
-1028191	qal
-nif
-1028203	hif
-1028205	qal
-1028208	hif
-1028211	qal
-1028213	hif
-1028216	piel
-1028219	piel
-1028221	qal
-1028224	hif
-1028229	pasq
-nif
-1028232	qal
-1028234	qal
-1028238	qal
-1028240	qal
-qal
-1028243	qal
-1028246	qal
-qal
-1028249	nif
-1028254	qal
-1028259	hif
-1028262	qal
-1028269	qal
-1028271	qal
-qal
-1028277	qal
-1028281	hif
-1028291	qal
-qal
-1028294	qal
-1028298	qal
-1028302	qal
-1028304	qal
-1028310	qal
-1028315	qal
-1028320	qal
-qal
-1028323	hif
-hif
-1028327	qal
-1028330	qal
-1028333	qal
-piel
-1028337	piel
-1028357	pasq
-qal
-1028361	qal
-1028370	hif
-1028373	qal
-1028378	piel
-1028380	qal
-1028385	piel
-1028389	qal
-1028391	hif
-hof
-1028394	qal
-1028396	qal
-1028399	qal
-1028409	qal
-qal
-qal
-qal
-1028415	qal
-1028417	qal
-1028421	qal
-1028424	qal
-1028426	hif
-1028428	qal
-nufʿal
-1028431	qal
-qal
-1028438	qal
-1028440	qal
-1028442	qal
-hif
-qal
-1028447	qal
-qal
-qal
-1028452	qal
-1028455	qal
-qal
-1028459	piel
-1028461	qal
-qal
-1028467	qal
-1028475	hif
-1028477	qal
-1028485	qal
-piel
-1028491	hif
-1028493	qal
-1028495	qal
-qal
-1028498	qal
-1028501	hif
-1028505	qal
-1028507	qal
-1028511	qal
-1028517	qal
-qal
-1028521	qal
-1028523	hif
-1028525	hif
-qal
-1028528	qal
-1028530	hif
-1028532	hif
-1028536	qal
-qal
-1028539	qal
-1028542	hif
-1028545	hif
-1028555	qal
-1028559	qal
-1028561	qal
-1028563	qal
-qal
-1028566	qal
-1028570	nif
-qal
-1028577	qal
-qal
-hif
-1028585	hif
-1028589	qal
-1028599	qal
-1028601	qal
-1028603	qal
-1028605	qal
-1028612	qal
-qal
-1028615	hif
-1028621	piel
-1028623	qal
-1028627	qal
-1028629	qal
-1028640	qal
-1028643	qal
-1028648	qal
-1028650	qal
-1028652	pasq
-1028655	qal
-1028657	qal
-qal
-qal
-1028662	qal
-1028666	hof
-1028669	qal
-1028671	qal
-1028675	qal
-qal
-qal
-1028679	qal
-1028683	qal
-1028685	qal
-1028688	hsht
-1028691	qal
-hif
-qal
-1028695	qal
-hif
-qal
-1028701	qal
-qal
-1028704	piel
-qal
-1028708	hit
-piel
-1028714	qal
-1028720	hif
-1028722	qal
-1028726	qal
-qal
-qal
-1028731	qal
-1028733	qal
-1028735	qal
-qal
-1028738	qal
-1028740	hif
-1028742	qal
-qal
-hsht
-1028746	qal
-qal
-1028749	qal
-1028752	qal
-1028756	qal
-1028758	qal
-1028760	qal
-1028765	hif
-1028769	qal
-pasq
-1028773	qal
-1028776	qal
-1028778	qal
-1028780	qal
-1028783	qal
-1028789	qal
-1028794	hsht
-1028796	qal
-qal
-1028799	hif
-qal
-qal
-qal
-1028804	qal
-1028806	qal
-qal
-1028812	qal
-qal
-nif
-qal
-1028817	qal
-1028822	piel
-hif
-1028829	qal
-1028836	qal
-1028843	qal
-1028845	qal
-1028847	piel
-1028851	qal
-qal
-1028857	hif
-qal
-hif
-1028863	qal
-qal
-qal
-1028867	qal
-1028870	qal
-1028874	hif
-1028876	pasq
-qal
-qal
-qal
-hif
-qal
-1028883	piel
-1028887	qal
-1028890	hif
-qal
-1028897	piel
-hif
-1028901	qal
-1028903	hif
-hif
-1028906	qal
-1028918	qal
-1028920	nif
-1028926	qal
-1028928	pasq
-hsht
-qal
-1028932	qal
-qal
-1028935	qal
-1028937	qal
-1028943	piel
-piel
-1028950	qal
-1028952	hif
-qal
-1028958	qal
-1028971	nif
-1028975	qal
-hif
-1028978	qal
-qal
-1028981	qal
-1028983	nif
-1028987	nif
-1028990	qal
-1028993	qal
-hif
-1028996	hif
-1028998	hif
-1029000	nif
-hif
-qal
-1029004	qal
-1029007	qal
-1029010	qal
-1029013	qal
-1029015	pual
-pual
-1029018	po.
-1029020	nif
-qal
-1029032	qal
-1029034	qal
-1029038	qal
-qal
-1029051	qal
-po.
-1029057	qal
-hif
-1029060	piel
-nif
-piel
-1029064	qal
-piel
-piel
-piel
-pasq
-1029072	piel
-1029076	qal
-1029078	qal
-1029081	nif
-1029085	pasq
-qal
-1029088	po.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
 hitpo.
-1029094	piel
-1029096	qal
-1029102	qal
-qal
-1029107	nif
-1029109	qal
-1029112	pual
-1029116	qal
-1029121	qal
-1029124	qal
-1029128	hof
-1029131	polal
-1029133	pual
-1029139	qal
-qal
-pasq
-1029144	pual
-1029146	qal
-1029149	piel
-1029151	hif
-1029157	qal
-1029161	hif
-1029164	qal
-hif
-1029169	qal
-1029173	qal
-1029175	qal
-1029182	qal
-1029188	qal
-1029191	hitpo.
-pual
-1029196	qal
-hitpo.
-1029201	qal
-qal
-1029204	qal
-qal
-1029208	qal
-1029211	qal
-1029213	qal
-1029216	qal
-qal
-1029229	qal
-qal
-1029234	qal
-1029238	piel
-1029241	nif
-1029247	qal
-1029251	nif
-1029253	piel
-1029258	qal
-1029260	qal
-1029262	qal
-1029264	qal
-1029269	qal
-1029272	qal
-1029274	qal
-1029284	qal
-1029286	piel
-1029288	qal
-1029293	qal
-qal
-1029296	qal
-qal
-1029301	hif
-1029303	qal
-1029305	qal
-1029307	qal
-qal
-qal
-1029313	hif
 piel
-1029318	hif
-piel
-1029322	qal
-1029324	qal
-1029328	qal
-qal
-1029337	hif
-1029354	qal
-1029356	nif
-1029360	qal
-1029364	qal
-1029366	hif
-1029371	qal
-qal
-1029374	hif
-1029378	piel
-qal
-1029383	pasq
-pasq
+NA
 nif
+NA
 piel
-1029397	qal
-1029401	piel
-1029403	qal
-qal
-1029408	qal
-1029410	piel
-1029412	qal
-1029414	hif
-1029418	qal
-1029433	qal
-1029438	po.
-1029442	qal
-1029445	qal
-qal
-1029450	qal
-piel
-1029453	qal
-1029456	qal
-1029460	qal
-1029468	qal
-1029475	qal
-1029485	qal
-qal
-1029496	hif
-1029499	qal
-1029501	qal
-1029505	qal
-1029507	hif
-1029512	hif
-1029517	qal
-1029520	piel
-1029522	piel
-qal
-qal
-qal
-1029528	pasq
-1029534	qal
-1029537	piel
-qal
-1029545	hif
-qal
-hif
-1029557	qal
-1029560	hif
-1029562	piel
-1029565	hif
-1029569	qal
-qal
-1029572	qal
-1029574	qal
-1029581	qal
-1029584	qal
-1029587	qal
-1029589	hif
-1029591	piel
-1029599	qal
-1029605	qal
-1029615	nif
-piel
-qal
-1029620	qal
-1029622	piel
-1029626	qal
-1029631	qal
-qal
-1029639	hif
-qal
-1029642	qal
-1029645	qal
-1029648	qal
-1029651	qal
-1029655	hif
-1029657	hif
-1029659	qal
-1029661	qal
-1029672	qal
-1029678	nif
+NA
 nif
-1029681	qal
-1029685	hif
-1029695	qal
-1029704	qal
-1029708	qal
-qal
-1029711	hit
-1029715	qal
-1029718	qal
+NA
 nif
-1029721	piel
-hit
-1029725	nif
-1029770	hit
-1029773	qal
-qal
-1029780	hif
-1029785	qal
-1029787	qal
-1029795	hif
-1029799	qal
-1029801	piel
-qal
-1029805	qal
-1029807	qal
-qal
-1029810	hif
-qal
-qal
-1029816	hif
-1029821	hif
-1029824	piel
-1029826	qal
-1029828	pasq
-1029834	qal
-1029844	qal
-1029847	qal
-1029849	nif
-1029851	pual
-1029853	qal
-qal
-1029856	qal
-1029858	qal
-qal
-1029861	qal
-1029872	qal
-1029875	qal
-1029882	hif
-1029893	nif
-1029897	hif
-1029900	qal
-piel
-1029903	hif
-1029913	nif
-1029916	qal
-qal
-1029928	hif
-1029937	qal
-piel
-1029940	hif
-1029942	hif
-qal
-1029945	qal
-1029954	nif
-1029957	qal
-1029960	piel
-1029964	qal
-1029967	qal
-hof
-1029974	qal
-1029993	piel
-1029996	piel
-1030001	qal
-1030003	qal
-1030006	qal
-1030009	qal
-1030011	qal
-1030017	hif
-1030020	hif
-1030022	hitpo.
-1030024	hif
-1030026	nif
-hitpo.
-qal
-qal
-1030031	hif
-1030043	qal
-1030046	qal
-1030051	hit
-1030053	qal
-1030058	qal
-hif
-1030074	qal
-1030078	nif
-1030082	hif
-1030091	qal
-1030100	qal
-1030115	qal
-1030119	qal
-1030124	qal
-hif
-1030130	qal
-1030136	qal
-1030141	qal
-1030149	qal
-1030155	piel
-1030157	hif
-1030159	qal
-1030162	qal
-1030164	qal
-1030167	qal
-1030169	hif
-1030171	qal
-1030175	qal
-1030187	qal
-1030192	hif
-1030196	qal
-1030199	qal
-1030203	piel
-piel
-qal
-1030207	qal
-1030209	qal
-qal
-1030215	qal
-1030222	qal
-qal
-1030226	qal
-1030228	qal
-qal
-1030235	hif
-hif
-1030238	qal
-1030242	qal
-1030246	qal
-1030252	piel
-1030255	qal
-1030284	piel
-1030291	qal
-1030304	qal
-1030308	qal
-1030310	qal
-1030312	qal
-1030315	qal
-1030317	qal
-1030321	hif
-1030327	qal
-1030340	qal
-1030342	hif
-1030360	qal
-1030366	qal
-1030377	qal
-1030385	qal
-1030397	hof
-1030399	qal
-1030405	qal
-qal
-1030414	qal
-1030418	qal
-1030424	piel
-1030432	nif
-qal
-qal
-1030437	qal
-qal
-qal
-1030447	hif
-1030451	qal
-1030456	qal
-1030463	hit
-1030466	piel
-1030468	qal
-1030475	qal
-1030484	qal
-1030486	qal
-1030488	piel
-1030491	hif
-qal
-1030494	piel
-1030496	qal
-1030506	qal
-1030509	hif
-1030527	qal
-1030540	hif
-1030548	qal
-1030561	qal
-1030563	qal
-1030574	qal
-1030579	hit
-1030581	qal
-1030584	qal
-1030590	qal
-1030606	qal
-1030608	hif
-1030618	qal
-1030622	qal
-1030630	qal
-1030635	qal
-1030637	qal
-1030640	qal
-1030642	piel
-1030648	qal
-qal
-1030653	qal
-piel
-1030659	qal
-hif
-hif
-1030664	qal
-1030666	qal
-1030668	hit
-1030674	hif
-1030679	qal
-qal
-1030687	hof
-qal
-1030690	qal
-1030699	qal
-1030707	qal
-1030710	qal
-1030715	qal
-1030722	qal
-1030736	qal
-1030741	piel
-1030746	qal
-1030748	qal
-1030755	qal
-hof
-1030760	qal
-qal
-1030773	qal
-hif
-1030776	pasq
-1030782	qal
-1030784	qal
-1030786	hif
-1030789	hif
-piel
-1030792	qal
-qal
-1030795	hif
-1030798	hif
-1030808	hif
-1030811	qal
-1030815	qal
-1030817	qal
-1030822	qal
-1030824	qal
-hif
-1030827	hit
-1030829	hif
-1030831	hif
-hif
-1030838	qal
-1030845	hif
-1030852	qal
-1030860	hif
-qal
-qal
-1030864	qal
-1030866	qal
-1030869	qal
-1030872	hif
-1030878	po.
-1030880	hif
+NA
 nif
+NA
+NA
+NA
+NA
+NA
 qal
-pasq
-1030886	qal
-1030890	qal
-1030898	qal
-1030918	qal
-1030920	hif
-1030927	qal
-1030933	qal
-1030936	qal
-1030942	hif
-1030944	hif
-1030946	qal
+NA
+NA
 qal
-1030953	qal
-qal
-1030956	qal
-1030958	piel
-1030962	qal
-1030966	qal
-1030973	hof
-1030976	qal
-qal
-1030984	hif
-1030988	qal
-qal
-1030995	qal
-1031007	piel
-1031012	qal
-1031019	qal
-1031024	piel
-1031026	qal
-1031031	hif
-1031033	qal
-1031035	qal
-1031040	qal
-1031042	qal
-1031044	qal
-1031046	qal
-1031049	qal
-1031053	qal
-1031056	qal
-1031062	qal
-1031065	qal
-qal
-1031071	qal
-1031076	qal
-hif
-1031080	piel
-1031085	po.
-1031087	qal
-qal
-1031092	qal
-1031095	qal
-1031102	hsht
-1031108	qal
-hif
-1031114	qal
-1031124	qal
-1031126	qal
-1031138	hif
-qal
-1031142	qal
-1031144	qal
-1031146	qal
-1031151	qal
-qal
-1031158	hif
-1031160	hif
-1031167	qal
-1031171	hif
-qal
-1031176	hif
-1031181	po.
-1031186	nif
-1031193	qal
-1031195	hif
-1031199	hif
-1031201	qal
-1031212	qal
-1031224	qal
+NA
+NA
+NA
+NA
+NA
 piel
-1031231	qal
-1031233	hif
-1031238	nif
-1031248	piel
-1031259	qal
-1031264	qal
-1031272	qal
-1031277	hif
-1031288	hif
-1031296	qal
-1031303	pual
-1031307	hif
-1031310	qal
-qal
-qal
-1031314	nif
-1031319	qal
-1031322	qal
-1031327	qal
-qal
-qal
-1031334	hof
-hif
-1031337	qal
-1031342	qal
-1031344	qal
-1031346	qal
-1031348	hif
-1031350	qal
-qal
-1031363	hif
-1031370	qal
-1031372	qal
-1031376	qal
-1031378	qal
-1031385	piel
-1031392	nif
-1031395	qal
-1031399	hof
-1031401	qal
-1031403	hof
-1031405	qal
-1031414	hif
-1031417	po.
-1031420	piel
-1031430	hsht
-1031432	qal
-pasq
-1031435	hif
-1031442	qal
-1031448	hitpo.
-1031451	qal
-1031455	qal
-1031457	hif
-hif
-1031462	qal
-1031464	qal
-qal
-1031467	qal
-1031469	hif
-1031474	pasq
-hit
-1031486	qal
-1031488	qal
-1031492	piel
-1031499	hif
-1031505	qal
-1031518	qal
-hof
-1031522	hif
-1031525	qal
-1031529	hif
-1031532	qal
-1031535	hif
-1031542	qal
-1031552	pasq
-1031560	hif
-1031564	qal
-1031568	qal
-1031582	po.
-hof
-1031586	pual
-qal
-1031589	qal
-1031591	qal
-qal
-qal
-qal
-1031598	qal
-1031602	hif
-1031605	qal
-qal
-1031610	qal
-1031618	piel
-1031620	qal
-po.
-1031627	qal
-1031629	qal
-1031636	qal
-1031639	qal
-1031641	qal
-hif
-1031644	qal
-pual
-qal
-qal
-1031650	qal
-1031653	qal
-1031655	qal
-1031657	qal
-1031659	qal
-1031663	qal
-qal
-po.
-qal
-1031668	qal
-qal
-1031672	pual
-1031676	qal
-1031685	qal
-qal
-1031689	qal
-qal
-1031700	piel
-qal
-1031703	qal
-qal
-1031713	qal
-1031715	qal
-qal
-qal
-1031719	nif
-1031722	hif
-qal
-qal
-piel
-1031730	pasq
-1031732	hif
-1031736	pasq
-1031741	hif
-hif
-1031744	qal
-1031746	qal
-qal
-1031749	qal
-1031752	hif
-1031754	hif
-1031759	qal
-qal
-qal
-hif
-1031765	qal
-1031769	hif
-1031773	qal
-1031776	hif
-1031781	nif
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-1031784	hitpal.
-1031794	qal
-1031796	qal
-1031798	qal
-1031802	qal
-1031807	nif
-1031810	hif
-qal
-1031813	qal
-1031817	piel
-1031819	nif
-1031821	pual
-1031832	hif
-1031834	hof
-1031836	qal
-qal
-qal
-1031841	hif
-1031845	qal
-1031848	qal
-qal
-1031858	hif
-piel
-1031866	qal
-1031868	qal
-hif
-1031875	qal
-hif
-qal
-1031879	pasq
-1031882	qal
-1031890	nif
-1031893	hif
-qal
-1031896	qal
-1031909	qal
-1031920	qal
-piel
-piel
-1031924	hif
-hif
-1031928	hif
-1031930	qal
-1031936	qal
-qal
-1031942	hif
-hif
-1031951	piel
-1031960	qal
-hif
-1031967	pil.
-1031977	qal
-1031980	hif
-1031983	qal
-1031987	qal
-1031990	qal
-1031992	nif
-1031997	qal
-1031999	qal
-1032003	qal
-1032005	qal
-1032007	hif
-qal
-1032012	hif
-1032017	qal
-1032020	qal
-qal
-qal
-piel
-1032026	qal
-1032034	hif
-1032042	qal
-1032046	qal
-1032049	qal
-1032051	qal
-qal
-1032056	hit
-1032058	qal
-1032061	qal
-qal
-1032064	qal
-1032066	pual
-1032068	qal
-hif
-1032076	qal
-1032078	hif
-hif
-1032086	qal
-1032088	qal
-qal
-1032092	hif
-1032094	hif
-qal
-1032098	qal
-1032102	qal
-1032104	qal
-1032106	piel
-qal
-1032112	qal
-piel
-1032119	qal
-1032124	piel
-1032135	qal
-1032137	qal
-qal
-1032140	qal
-1032151	qal
-1032153	piel
-1032159	qal
-qal
-1032163	piel
-1032168	qal
-qal
-1032171	hif
-1032180	piel
-1032184	qal
-qal
-1032187	piel
-qal
-1032190	piel
-1032193	nif
-1032197	hif
-1032202	qal
-1032206	hif
-qal
-piel
-1032217	qal
-hif
-qal
-1032221	qal
-1032224	piel
-1032226	qal
-1032228	qal
-hif
-1032236	qal
-1032248	qal
-1032251	qal
-1032253	qal
-1032257	qal
-qal
+NA
+NA
 nif
-1032261	hif
-1032263	qal
-1032266	pasq
-qal
-1032269	hif
-1032277	piel
-1032283	hif
-1032287	qal
-1032289	qal
-1032295	hif
-1032300	qal
-qal
-1032304	qal
-qal
-1032307	qal
-1032309	qal
-1032311	qal
-1032323	qal
-1032327	qal
-1032336	qal
-1032345	pasq
-1032347	qal
-1032350	qal
-1032365	qal
-1032370	qal
-qal
-1032378	qal
-1032380	qal
-1032384	hif
-1032393	qal
-1032397	qal
-piel
-1032402	qal
-1032404	qal
-1032411	nif
-1032416	qal
-1032418	piel
-1032420	qal
-1032426	hif
+NA
+NA
+NA
+NA
+NA
 hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-pasq
-1032438	qal
-1032442	piel
-1032453	qal
-1032461	qal
-1032475	qal
-1032477	qal
-piel
-1032491	qal
-1032494	qal
-1032496	hif
-1032499	qal
-1032510	qal
-1032517	hif
-1032520	qal
-1032529	hif
-1032536	hif
-1032538	qal
-qal
-1032542	hif
-1032551	piel
-1032553	qal
-1032577	hif
-1032583	piel
-1032592	qal
-1032597	qal
-1032601	qal
-1032609	piel
-1032614	qal
-1032617	qal
-1032622	qal
-1032624	qal
-1032645	qal
-1032648	qal
-1032652	qal
-hof
-1032656	qal
-1032658	qal
-1032671	pasq
-qal
-1032680	piel
-1032684	qal
-1032687	piel
-qal
-1032690	qal
-1032693	qal
-1032704	nif
-1032706	qal
-qal
-qal
-1032716	nif
-1032722	qal
-1032727	pasq
-1032745	qal
-1032747	qal
-1032751	qal
-qal
-1032756	qal
-1032761	pasq
-1032763	qal
-1032767	qal
-1032776	qal
-1032782	hif
-1032786	hif
-1032791	qal
-1032802	qal
-1032811	qal
-hif
-1032823	qal
-1032839	hif
-qal
-1032849	qal
-qal
-1032859	hif
-1032861	qal
-1032866	hif
-1032882	piel
-1032884	qal
-1032887	qal
-1032889	qal
-1032893	qal
-1032895	qal
-1032898	hif
-1032904	pasq
-1032907	qal
-1032909	hif
-1032913	qal
-1032915	hif
-1032926	piel
-1032929	qal
-1032933	piel
-1032944	hif
-1032948	hif
-1032955	qal
-1032959	piel
-1032980	qal
-1032990	hif
-1032992	nif
-1032995	qal
-1032997	qal
-1033004	qal
-1033023	qal
-1033044	qal
-1033046	qal
-1033061	qal
-1033067	qal
-qal
-qal
-1033072	piel
-piel
-1033083	pasq
-hof
-1033090	hif
-1033092	qal
-1033099	qal
-1033103	qal
-qal
-qal
-1033112	nif
-1033114	qal
-1033120	nif
-1033128	hif
-1033132	qal
-1033137	qal
-1033145	piel
-qal
-1033149	qal
-1033153	pual
-1033167	piel
-piel
-1033171	hif
-1033179	hif
-1033190	hif
-1033195	polal
-1033198	hif
-1033202	qal
-1033206	hif
-1033214	hif
-1033220	hif
-1033231	qal
-qal
-1033248	hif
-hif
-1033257	hif
-1033259	qal
-1033266	qal
-1033270	qal
+NA
+NA
+NA
+NA
+NA
 nif
-1033285	qal
-qal
-1033288	qal
 nif
-1033293	qal
-1033295	hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
 hif
-qal
-qal
-qal
-1033301	qal
-1033303	qal
-qal
-1033312	hif
-1033315	qal
-1033318	hif
-1033323	qal
-1033341	piel
-1033343	hif
-1033345	piel
-1033353	piel
-piel
-piel
-piel
-piel
-1033362	pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1033368	qal
-1033370	nif
-nif
-1033378	qal
-1033562	hif
-1033655	qal
-qal
-1033658	hit
-1033699	qal
-1033845	qal
-1034286	qal
-1034288	piel
-qal
-1034300	qal
-1034303	qal
-piel
-1034307	qal
-1034309	piel
-1034311	qal
-1034320	qal
-hif
-1034326	hif
-qal
-1034331	qal
-1034333	qal
-1034336	piel
-qal
-1034339	qal
-1034341	piel
-piel
-1034347	qal
-piel
-1034354	hif
-qal
-1034362	nif
-1034364	qal
-1034371	hitpo.
-1034373	hif
-1034397	nif
-nif
-1034403	qal
-1034419	hif
-1034424	qal
-1034429	piel
-1034445	hof
-1034448	hif
-1034466	qal
-1034468	pasq
-1034471	hif
-nif
-1034476	hif
-1034487	qal
-1034490	qal
-1034493	qal
-1034497	hif
-1034504	hif
-1034507	qal
-1034513	qal
-qal
-hif
-1034523	hif
-1034527	pasq
-hif
-1034535	pasq
-1034547	qal
-1034565	hif
-1034570	qal
-1034574	qal
-1034578	hif
-hif
-1034582	qal
-1034591	qal
-qal
-1034599	qal
-1034607	qal
-1034613	qal
-1034616	qal
-1034618	qal
-1034620	qal
-1034623	qal
-1034630	hof
-1034632	qal
-1034641	hof
-1034643	hif
-1034650	hof
-1034652	piel
-1034660	hif
-1034667	qal
-1034684	qal
-1034696	qal
-1034698	nif
-1034708	qal
-1034725	nif
-1034745	pasq
-1034747	qal
-1034755	pasq
-1034763	piel
-1034765	piel
-qal
-1034773	qal
-1034783	qal
-pasq
-1034787	qal
-1034789	piel
-1034792	hif
-1034796	qal
-1034808	qal
-1034814	nif
-1034821	pasq
-1034827	pasq
-1034831	qal
-1034840	qal
-1034851	qal
-1034859	piel
-1034878	qal
-1034895	qal
-1034897	pasq
-1034900	hif
-1034909	nif
-1034918	qal
-1034920	qal
-1034924	qal
-qal
-1034945	pasq
-pasq
-1034949	pasq
-1034951	qal
-1034955	qal
-1034958	pasq
-1034969	qal
-1034977	qal
-1034986	hif
-1034988	qal
-1034993	pasq
-1035003	qal
-1035010	qal
-1035012	qal
-1035017	hit
-1035024	qal
-qal
-pasq
-hof
-1035032	piel
-1035043	hif
-hif
-1035048	qal
-1035057	pasq
-1035059	qal
-1035062	qal
-1035067	qal
-nif
-1035073	nif
-1035078	qal
-1035085	qal
-1035097	hif
-1035102	piel
-1035107	piel
-1035111	hif
-1035122	qal
-1035127	qal
-1035133	nif
-1035138	qal
-1035151	hif
-1035157	qal
-1035164	piel
-1035167	piel
-1035171	qal
-1035176	piel
-1035201	qal
-1035210	qal
-hif
-1035217	nif
-1035236	hif
-1035241	pual
-1035245	qal
-1035254	qal
-1035258	piel
-qal
-1035275	nif
-1035277	hif
-1035298	piel
-1035304	qal
-1035310	piel
-1035319	qal
-1035326	qal
-1035330	qal
-1035339	hif
-1035344	hif
-1035356	qal
-1035359	qal
-1035363	piel
-1035374	hif
-1035382	hit
-hit
-1035386	hit
-1035394	hitpo.
-1035398	qal
-1035401	nif
-1035412	hif
-1035416	qal
-1035418	qal
-1035420	qal
-1035431	piel
-1035435	qal
-1035439	qal
-1035444	piel
-1035447	qal
-1035452	hit
-1035456	qal
-1035459	qal
-1035463	piel
-1035474	hif
-1035480	piel
-1035488	hif
-qal
-hif
-1035492	qal
-1035498	qal
-1035502	hit
-1035524	hit
-1035529	qal
-hif
-1035535	piel
-1035576	hif
-1035579	qal
-piel
-1035613	hif
-1035619	qal
-1035641	hif
-1035647	piel
-1035653	hif
-1035657	qal
-1035660	qal
-1035663	hif
-1035668	hif
-nif
-1035673	hif
-1035676	qal
-1035681	hif
-1035690	hif
-1035696	hif
-1035702	pasq
-1035707	nif
-1035726	nif
-qal
-qal
-1035732	qal
-1035743	qal
-nif
-1035748	piel
-1035763	qal
-1035768	qal
-1035772	qal
-1035781	qal
-1035786	pual
-pual
-pasq
-1035792	qal
-1035796	hit
-1035803	qal
-1035817	hif
-1035823	qal
-1035826	hit
-1035831	piel
-1035835	pasq
-1035838	qal
-1035845	qal
-1035852	qal
-1035857	pual
-hit
-1035864	piel
-1035869	qal
-1035877	hif
-1035881	qal
-1035888	hit
-1035894	piel
-1035896	qal
-1035899	hif
-1035906	qal
-1035914	hif
-1035920	hif
-hif
-1035927	qal
-1035936	hif
-1035940	qal
-1035942	piel
-1035955	hif
-1035959	nif
-1035967	qal
-1035974	hif
-1035979	qal
-1035984	qal
-1035990	hif
-1035999	hif
-1036004	qal
-1036007	qal
-1036014	hif
-1036017	hif
-1036023	qal
-1036026	hif
-1036030	qal
-1036033	hif
-1036040	nif
-1036049	qal
-1036051	qal
-1036054	qal
-1036061	qal
-1036068	qal
-1036074	piel
-1036079	qal
-1036088	qal
-1036090	qal
-1036100	qal
-1036103	hif
-1036113	hif
-1036115	hif
-1036118	hif
-qal
-1036126	hif
-1036132	qal
-1036135	hif
-1036138	hif
-1036140	qal
-1036143	qal
-1036146	qal
-1036152	piel
-1036159	hif
-1036164	hif
-hif
-1036172	nif
-1036175	qal
-qal
-nif
-1036183	piel
-1036187	hif
-1036200	qal
-1036202	hif
-1036205	piel
-nif
-1036213	qal
-1036221	qal
-1036232	piel
-1036236	hif
-1036239	qal
-1036243	hif
-1036246	hof
-qal
-1036253	qal
-1036265	qal
-1036268	hif
-1036271	qal
-1036279	hif
-1036282	qal
-1036285	qal
-1036288	hif
-1036293	qal
-1036298	hif
-1036303	nif
-1036308	hit
-1036313	hif
-1036320	qal
-1036334	hif
-1036340	qal
-1036347	hif
-1036352	qal
-1036358	qal
-1036365	piel
-1036368	qal
-1036371	piel
-hif
-1036374	qal
-1036384	qal
-1036391	qal
-1036408	qal
-1036410	hif
-1036413	qal
-1036417	hif
-1036426	qal
-1036429	qal
-1036437	qal
-1036440	qal
-1036445	piel
-1036448	qal
-1036462	qal
-1036470	qal
-1036473	nif
-1036477	hif
-1036492	nif
-nif
-1036502	qal
-1036505	hif
-hit
-1036508	qal
-1036512	piel
-1036521	qal
-1036523	piel
-1036530	qal
-1036540	piel
-1036542	hif
-1036544	nif
-1036548	nif
-1036558	qal
-1036562	qal
-1036572	qal
-1036578	hif
-1036587	hif
-1036590	qal
-qal
-1036595	qal
-1036600	qal
-1036604	qal
-1036608	hit
-1036611	hit
-1036615	piel
-1036619	hit
-1036625	qal
-1036631	qal
-1036639	qal
-1036643	pasq
-1036655	hif
-1036657	qal
-1036660	qal
-1036676	qal
-1036679	qal
-1036684	qal
-1036686	hif
-1036693	piel
-1036698	qal
-1036701	qal
-1036706	piel
-1036711	qal
-1036714	hif
-1036721	piel
-1036727	hif
-1036733	qal
-1036737	hif
-1036743	qal
-1036745	qal
-1036748	qal
-1036756	hit
-1036763	hit
-1036769	hif
-1036774	qal
-1036786	qal
-1036798	qal
-1036805	piel
-piel
-nif
-1036811	qal
-1036813	qal
-1036821	qal
-1036826	hif
-1036831	qal
-1036838	qal
-1036868	qal
-1036879	qal
-qal
-1036886	nif
-1036890	nif
-1036895	qal
-1036907	qal
-1036911	hif
-1036921	qal
-1036949	qal
-1036956	qal
-1036959	hif
-1036966	piel
-1036973	qal
-1036986	piel
-1037001	hif
-1037016	qal
-1037033	hif
-1037037	qal
-1037042	nif
-1037044	qal
-1037048	qal
-piel
-1037074	nif
-1037079	nif
-1037084	piel
-1037087	nif
-1037089	hif
-1037092	pual
-1037094	pasq
-1037116	nif
-1037119	nif
-1037125	piel
-1037130	hif
-1037135	hif
-1037160	qal
-1037165	qal
-1037168	hif
-1037173	qal
-1037175	qal
-1037186	hif
-1037196	hif
-1037200	piel
-nif
-1037211	piel
-1037216	qal
-1037220	piel
-1037231	piel
-1037239	piel
-1037244	piel
-nif
-1037251	piel
-1037261	nif
-1037263	hif
-hif
-1037268	qal
-1037271	qal
-1037274	nif
-qal
-1037278	pasq
-hif
-1037282	hif
-1037288	hif
-nif
-1037291	hif
-1037295	qal
-1037304	qal
-1037310	qal
-1037317	piel
-1037319	hif
-1037325	hif
-1037337	qal
-1037341	piel
-1037347	qal
-1037354	qal
-1037363	hif
-1037369	qal
-1037372	qal
-1037377	qal
-1037384	pasq
-1037387	nif
-1037390	qal
-1037395	qal
-1037404	qal
-1037413	qal
-1037417	qal
-1037420	qal
-1037425	hit
-1037427	qal
-1037432	nif
-1037437	hif
-1037439	qal
-1037451	qal
-1037455	piel
-qal
-1037459	qal
-1037473	qal
-1037480	qal
-1037483	qal
-1037494	qal
-1037500	hif
-1037504	piel
-1037507	qal
-1037511	qal
-1037516	hif
-1037518	hif
-1037520	qal
-1037530	nif
-1037533	hif
-1037536	qal
-1037543	qal
-1037551	piel
-1037554	qal
-1037565	qal
-1037573	hif
-1037581	qal
-1037586	nif
-1037591	hif
-1037600	qal
-1037604	qal
-qal
-1037608	qal
-1037614	hif
-1037625	qal
-1037638	hif
-1037642	qal
-nif
-1037648	hit
-1037653	qal
-1037658	qal
-1037665	qal
-1037667	qal
-nif
-1037672	qal
-1037675	qal
-1037679	qal
-1037684	piel
-1037686	hif
-1037696	qal
-1037701	hif
-1037709	qal
-1037711	qal
-1037715	qal
-1037717	hif
-1037720	qal
-1037725	qal
-1037731	qal
-1037739	qal
-1037744	qal
-1037748	qal
-1037754	qal
-1037763	hif
-1037765	qal
-1037773	hif
-1037777	pasq
-1037779	qal
-1037784	po.
-1037786	hif
-1037796	hif
-1037807	hif
-1037810	hif
-1037812	qal
-1037814	qal
-1037831	hif
-1037833	nif
-1037838	nif
-1037842	hif
-1037847	qal
-1037855	hof
-1037862	hif
-1037868	qal
-1037873	qal
-1037877	nif
-1037883	hif
-1037894	qal
-1037898	nif
-1037909	nif
-1037917	qal
-1037926	qal
-1037932	qal
-1037935	qal
-1037937	nif
-1037949	hit
-1037953	qal
-1037956	qal
-1037960	nif
-1037963	hit
-1037975	hit
-nif
-1037989	nif
-1038002	hif
-1038005	qal
-1038013	hif
-1038018	hit
-1038025	qal
-1038031	qal
-1038039	nif
-piel
-1038045	hit
-1038053	qal
-1038061	hif
-1038070	piel
-1038077	piel
-nif
-1038095	nif
-1038101	hit
-1038112	qal
-qal
-1038126	nif
-1038137	hitpo.
-1038143	hif
-1038145	hif
-1038150	qal
-1038158	nif
-1038163	nif
-1038173	qal
-1038178	qal
-1038187	qal
-1038192	hif
-1038201	qal
-1038208	qal
-1038212	qal
-1038228	qal
-1038234	qal
-nif
-1038241	qal
-1038246	qal
-1038250	qal
-1038253	nif
-1038259	hif
-1038261	hitpo.
-1038266	hitpo.
-1038271	qal
-1038277	qal
-qal
-1038287	qal
-1038290	hitpo.
-1038292	qal
-1038299	qal
-1038304	qal
-1038308	nif
-1038314	hif
-1038317	qal
-1038323	hif
-1038328	hif
-1038336	qal
-1038345	hif
-qal
-1038353	qal
-1038358	hif
-hif
-1038364	hif
-1038375	qal
-1038381	hif
-1038384	hif
-1038391	nif
-1038394	hif
-1038396	hif
-hif
-1038402	hif
-1038404	nif
-1038413	nif
-1038417	qal
-1038419	hif
-1038422	hif
+NA
+NA
 hif
 hif
-1038437	hof
-nif
-1038441	qal
-1038444	qal
-1038452	qal
-1038456	hif
-1038459	piel
-1038467	qal
-1038475	hif
-1038479	hif
-1038483	hitpo.
-1038487	nif
-1038493	qal
-1038500	qal
-1038504	nif
-1038509	nif
-1038512	qal
-1038514	qal
-1038521	nif
-1038525	qal
-1038535	qal
-1038537	qal
-1038543	qal
-1038548	qal
-1038550	qal
-1038555	pual
-1038567	piel
-1038571	po.
-1038581	hif
-1038585	qal
-1038590	nif
-1038600	qal
-1038603	qal
-1038614	nif
-1038618	nif
-1038622	hif
-1038632	nif
-1038650	qal
-1038656	qal
-1038660	nif
-1038666	qal
-1038668	hitpo.
-1038670	qal
-1038672	piel
-1038677	qal
-1038680	qal
-1038682	hif
-1038685	hif
-1038691	qal
-1038696	nif
-1038698	nif
-1038703	qal
+NA
+NA
+NA
 qal
-1038709	qal
-1038715	hif
-1038725	hif
-1038730	qal
-1038742	hif
-1038746	qal
-1038749	hif
-1038754	hif
+NA
+nif
+NA
+NA
+NA
 hif
-1038760	hif
-1038768	hif
-1038772	hif
-nif
-1038782	hif
-1038789	piel
-1038797	hif
-1038813	qal
-1038839	nif
-1038844	qal
-1038848	hif
-1038855	qal
-1038873	qal
-1038877	qal
-1038879	nif
-1038887	qal
-1038891	hof
-1038895	qal
-1038901	qal
-1038911	qal
-1038914	nif
-1038919	qal
-1038925	hitpo.
-1038927	qal
-1038930	hif
-1038937	nif
-1038945	piel
-1038949	piel
-1038961	qal
-1038964	qal
-1038968	hit
-1038978	qal
-1038991	qal
-1038993	nif
-1039001	hif
-1039005	qal
-1039007	qal
-1039013	qal
-1039016	qal
-1039021	qal
-1039026	qal
-1039031	hof
-1039036	qal
-1039040	qal
-1039044	qal
-1039050	qal
-1039064	qal
-1039068	piel
-1039076	qal
-1039078	qal
-1039095	qal
+NA
 qal
-1039099	qal
-1039105	qal
-piel
-1039112	piel
-1039116	nif
-1039124	qal
-1039127	qal
-1039133	hif
-1039137	hif
-1039144	qal
-1039151	qal
-1039156	qal
-1039160	qal
-1039162	qal
-1039176	hif
-1039182	hif
-1039186	hif
-1039197	pual
-1039200	qal
-1039202	piel
-1039205	piel
-1039214	piel
-1039219	hif
-1039227	piel
-1039231	nif
-1039237	hif
-pasq
-1039243	qal
-1039247	qal
-qal
-1039262	piel
-1039272	nif
-1039275	hif
-1039287	qal
-1039297	nif
-1039299	qal
-1039302	hif
-1039309	nif
-1039314	qal
-1039316	hif
-1039321	piel
-1039323	qal
-1039331	hif
-1039337	qal
-piel
-1039348	qal
-1039352	piel
-1039358	qal
-1039363	qal
-1039365	qal
-1039367	qal
-1039374	qal
-1039380	nif
-1039385	hif
-1039389	hif
-1039393	hif
-1039396	hif
-1039405	nif
-1039409	qal
-1039427	qal
-1039429	qal
-1039433	qal
-1039438	qal
-1039440	qal
-1039444	hif
-1039449	qal
-1039456	nif
-1039463	qal
-1039467	qal
-1039471	qal
-1039476	qal
-1039487	qal
-1039499	po.
-1039505	nif
-1039516	qal
-1039522	hif
-1039526	qal
-1039533	nif
-1039538	qal
-1039543	pual
-1039556	nif
-nif
-1039559	qal
-1039565	nif
-qal
-1039586	qal
-piel
-1039591	hif
-1039601	hif
-1039607	qal
-1039612	qal
-1039615	qal
-1039619	hit
-1039627	nif
-1039636	nif
-1039638	qal
-1039640	hif
-1039651	piel
-1039653	hit
-1039658	qal
-1039666	qal
-1039677	hif
-1039683	hif
-1039691	qal
-1039693	piel
-1039702	piel
-1039706	nif
-1039710	po.
-1039713	hif
-1039715	qal
-1039724	hif
-1039748	qal
-1039753	qal
-1039759	qal
-1039768	qal
-piel
-1039777	hif
-hif
-1039797	qal
-1039804	hit
-1039814	qal
-1039822	hif
-1039826	qal
-1039831	qal
-1039838	pual
-1039842	hif
-1039850	piel
-1039852	hif
-1039865	qal
-1039867	hitpo.
-1039874	qal
-1039877	qal
-1039882	hif
-1039886	hitpo.
-1039891	qal
-1039904	qal
-1039910	hif
-hif
-1039918	piel
-1039924	qal
-1039931	qal
-1039936	qal
-1039938	qal
-1039943	nif
-1039946	nif
-1039950	qal
-1039956	qal
-1039969	qal
-1039978	hitpal.
-1039981	qal
-1039983	nif
-qal
-1039987	qal
-1040001	pual
-1040003	qal
-1040009	qal
-1040016	hif
-1040026	qal
-nif
-1040029	hif
-1040036	qal
-1040039	qal
-1040043	qal
-1040054	hif
-1040058	qal
-1040065	hof
-1040074	qal
-1040093	qal
-1040098	qal
-qal
-qal
-1040107	qal
-1040109	qal
-1040111	qal
-1040122	nif
-1040127	piel
-1040129	nif
-1040133	qal
-1040137	qal
-1040140	qal
-1040146	qal
-1040148	hof
-1040156	hif
-1040160	hif
-1040166	hit
-1040180	qal
-1040187	piel
-piel
-1040192	hif
-1040195	qal
-1040201	hif
-1040204	qal
-nif
-1040207	piel
-1040217	hif
-1040222	hif
-qal
-1040229	nif
-1040231	hif
-1040248	hitpal.
-1040252	qal
-1040257	hif
-1040278	nif
-1040284	qal
-1040287	hif
-1040289	hif
-1040297	qal
-1040305	hif
-1040307	hif
-1040315	piel
-1040321	hit
-1040339	hif
-1040343	hif
-1040348	qal
-1040355	hif
-1040360	hif
-1040373	nif
-1040381	hif
-1040383	hif
-1040390	piel
-qal
-1040394	hif
-1040398	qal
-1040415	hif
-1040419	piel
-1040421	hit
-1040436	qal
-1040439	qal
-1040442	hif
-1040447	hif
-1040451	hif
-1040461	hif
-1040467	hif
-1040473	hif
-1040484	nif
-1040498	qal
-1040502	nif
-1040506	hif
-1040511	qal
-1040514	hit
-1040523	hif
-1040529	piel
-1040540	hif
-1040553	nif
-1040569	hit
-1040574	hif
-1040578	hif
-1040586	nif
-1040588	qal
-1040591	qal
-1040597	hif
-1040617	hif
-1040624	hif
-1040627	qal
-1040660	pual
-1040667	qal
-1040669	hif
-1040675	hif
-1040677	hif
-1040682	piel
-1040684	nif
-1040691	qal
-1040700	qal
-1040709	qal
-1040718	qal
-1040726	hitpal.
-1040731	piel
-1040735	hif
-hif
-1040742	qal
-pual
-1040746	nif
-1040750	nif
-qal
-1040757	qal
-1040770	hit
-1040772	qal
-1040782	qal
-1040786	po.
-1040792	qal
-1040795	hif
-1040797	qal
-1040800	hif
-1040805	qal
-1040811	qal
-1040815	qal
-qal
-1040818	qal
-1040824	qal
-1040838	piel
-1040841	qal
-1040843	qal
-1040855	hif
+NA
 hif
 hif
-pual
-1040860	qal
-1040864	qal
-1040883	qal
-qal
-1040898	qal
-1040904	qal
-piel
-1040908	nif
-1040918	hif
-1040921	qal
-1040923	hif
-1040935	qal
-1040939	hif
-1040941	qal
-1040953	qal
-1040962	nif
-1040969	qal
-1040973	nif
-1040987	qal
-1040990	nif
-1040997	qal
-1041005	qal
-1041009	qal
-1041013	qal
-piel
-1041017	hif
-1041023	hit
-1041032	qal
-1041035	qal
-pasq
-1041042	qal
-1041045	hif
-1041051	piel
-1041056	hitpo.
-1041062	hitpo.
-1041066	nif
-1041071	nif
-1041076	nif
-1041083	qal
-1041087	nif
-1041094	hif
-1041098	nif
-1041102	qal
-1041109	qal
-1041118	qal
-1041120	pual
-1041126	hif
-1041131	nif
-1041135	hif
-1041141	piel
-1041143	qal
-1041150	qal
-qal
-1041156	qal
-1041158	nif
-nif
-1041165	qal
-1041180	hit
-nif
-1041185	hif
-1041192	po.
-1041206	qal
-1041222	qal
-1041226	qal
-1041250	po.
-1041253	nif
-1041256	hif
-1041263	hitpal.
-1041269	hif
-1041271	piel
-1041275	hitpo.
-1041279	hif
-1041283	hif
-1041285	qal
-1041289	qal
-1041295	qal
-1041297	piel
-1041301	qal
-1041308	qal
-1041313	hif
-1041316	qal
-1041322	hif
-1041326	qal
-1041329	qal
-1041334	piel
-1041338	hitpal.
-1041340	nif
-1041345	qal
-1041358	qal
-1041364	qal
-1041369	hif
-1041374	nif
-1041379	qal
-1041401	nif
-1041406	hif
-1041409	qal
-1041416	hit
-1041428	nif
-1041435	qal
-1041441	hif
-1041445	hif
-piel
-1041473	hif
-1041479	hif
-1041502	qal
-1041509	piel
-1041517	qal
-1041522	qal
-1041527	qal
-1041540	hif
-1041548	nif
-qal
-1041554	piel
-1041564	piel
-1041575	nif
-1041580	pil.
-1041585	qal
-1041589	qal
-1041599	qal
-qal
-1041609	pil.
-1041613	qal
-1041615	hif
-hif
-1041622	piel
-1041628	piel
-1041631	nif
-1041637	hit
-1041646	hif
-1041657	pual
-1041668	hif
-hif
-1041678	qal
-1041681	qal
-qal
-1041687	hit
-1041692	hit
-1041695	hif
-1041698	hif
-1041701	qal
-qal
-1041706	piel
-1041709	qal
-1041713	hif
-1041716	hif
-1041723	nif
-1041730	qal
-1041738	qal
-1041742	nif
-1041771	qal
-1041774	hit
-1041782	qal
-1041786	qal
-1041791	qal
-1041794	pasq
-1041803	hif
-1041806	piel
-nif
-1041811	qal
-1041833	qal
-1041843	hif
-1041846	piel
-nif
-1041850	hif
-1041859	piel
-1041862	qal
-1041864	hif
-1041867	qal
-1041879	qal
-1041894	hitpo.
-1041906	qal
-1041912	hif
-hif
-1041916	qal
-1041920	hit
-1041928	qal
-1041934	nif
-1041945	hif
-1041956	piel
-1041966	qal
-1041972	pil.
-1041975	qal
-1041980	nif
-1041993	qal
-1042000	hitpo.
-1042012	qal
-1042017	nif
-piel
-qal
-1042022	qal
-1042024	qal
-1042034	hif
-1042037	piel
+NA
+NA
+NA
+NA
+NA
 hitpal.
-1042052	hif
-1042055	hif
-1042062	hif
-1042069	hif
-1042074	hif
-1042079	qal
-1042094	piel
-1042100	po.
-1042104	piel
-1042107	piel
-1042117	hitpal.
-1042121	qal
-1042161	hif
-1042169	hif
-1042174	piel
-1042179	hit
-1042190	nif
-hof
-1042201	hif
-1042205	qal
-1042213	nif
-1042218	hit
-1042229	hit
-1042232	qal
-nif
-1042236	qal
-qal
-1042241	hif
-1042243	piel
-1042249	hif
-1042256	nif
-qal
-piel
-1042261	hif
-1042264	qal
-1042271	nif
-1042277	nif
-1042285	nif
-1042290	qal
-1042296	hitpo.
-1042303	qal
-1042307	qal
-1042314	qal
-qal
-1042322	qal
-1042330	hif
-1042336	nif
-1042344	piel
-1042357	hif
-1042363	qal
-1042366	piel
-piel
-1042372	pual
-1042377	piel
-1042381	hif
-1042396	hif
-1042403	pasq
-1042406	qal
-1042412	hif
-1042416	piel
-1042420	pasq
-1042438	piel
-1042444	piel
-1042449	piel
-1042455	piel
-1042459	qal
-1042464	piel
-1042466	nif
-1042469	pasq
-1042474	qal
-1042477	qal
-1042489	hif
-1042493	qal
-1042498	qal
-1042515	piel
-1042519	qal
-1042526	hit
-1042528	hit
-1042549	qal
-1042564	qal
-1042569	nif
-1042601	nif
-1042607	qal
-1042610	qal
-1042617	qal
-1042620	qal
-1042625	hif
-1042633	qal
-1042638	qal
-1042641	nif
-qal
-1042681	qal
-nif
-1042686	piel
-1042690	qal
-qal
-1042696	qal
-1042700	hif
-1042705	piel
-1042709	qal
-1042714	qal
-1042721	qal
-pual
-1042743	qal
-1042747	pasq
-1042752	hif
-1042758	qal
-1042763	hit
-1042766	hif
-1042781	qal
-1042783	piel
-1042788	hit
-1042795	hif
-1042800	qal
-1042809	qal
-1042814	nif
-1042817	piel
-1042824	piel
-1042830	piel
-1042833	qal
-1042837	hif
-1042840	hif
-1042843	piel
-1042846	qal
-piel
-1042851	piel
-1042855	hif
-1042858	qal
-1042865	hitpo.
-1042871	pasq
-1042873	hif
-1042878	hif
-1042881	qal
-1042885	hif
-1042888	qal
-piel
-1042892	qal
-hof
-1042899	nif
-1042904	qal
-1042907	qal
-1042917	hif
-1042920	hif
-1042925	piel
-1042931	nif
-1042934	pasq
+NA
+pasq
 hif
-1042940	piel
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
 piel
-1042959	nif
-1042966	nif
-1042968	qal
-1042980	qal
-1042998	qal
-1043004	nif
-1043010	qal
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+hif
+NA
+NA
 piel
-1043016	hif
-1043023	hif
-1043027	qal
-1043032	piel
-1043039	hit
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-1043044	qal
-hif
-1043048	qal
-hit
-1043053	qal
-1043057	qal
-1043064	qal
-1043069	hif
-1043084	qal
-1043087	hif
-1043094	pasq
-1043100	qal
-1043106	qal
-1043110	hif
-1043113	piel
-1043116	piel
-1043119	piel
-1043126	hif
-1043130	nif
-1043137	nif
-1043148	nif
-1043153	hit
-1043156	qal
-1043159	nif
-1043164	qal
-1043168	qal
-1043170	qal
-1043176	qal
-qal
-1043183	qal
-1043188	qal
-1043209	hit
-hit
-1043222	qal
-1043226	qal
-1043231	qal
-qal
-qal
-1043247	qal
-1043254	qal
-1043257	qal
-1043259	qal
-1043262	qal
-1043270	pual
-1043279	hitpo.
-1043284	hif
-1043295	nif
-1043297	qal
-1043305	qal
-1043308	hif
-hif
-1043331	qal
-1043353	qal
-1043357	hit
-1043359	qal
-1043363	hif
-1043366	qal
-piel
-1043372	pual
-1043375	qal
-1043382	qal
-1043387	qal
-1043399	qal
-qal
-1043404	hif
-qal
-1043411	qal
-piel
-1043415	nif
-1043419	qal
-1043425	nif
-1043430	pasq
-1043435	hif
-1043438	qal
-hif
-1043447	qal
-hif
-qal
-1043453	qal
-1043457	qal
-1043465	qal
-1043468	po.
-1043470	qal
-1043487	piel
+NA
 nif
-1043490	piel
-1043493	piel
-1043502	pasq
-1043507	qal
-1043513	qal
-1043526	hif
-1043552	qal
-1043559	hif
-1043565	nif
-1043577	qal
+NA
+hit
+NA
+NA
+NA
+NA
 piel
-1043580	hif
-1043582	piel
-1043584	piel
-1043588	hit
-1043593	nif
-1043596	hif
-1043603	nif
-1043605	nif
-1043610	hif
-1043617	po.
-1043624	hif
-1043629	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1043632	po.
-1043642	hif
-qal
-1043649	pasq
-1043658	hif
-1043660	hif
-1043678	qal
-qal
-1043682	piel
-1043689	hif
-1043699	hif
-1043710	hif
-1043716	hif
-1043718	qal
-piel
-1043724	piel
-qal
-1043732	hif
-1043735	nif
-piel
-qal
-1043743	qal
-1043748	qal
-1043754	piel
-1043758	piel
-1043761	hif
-1043775	hif
-1043778	qal
-1043782	hif
+NA
+NA
+NA
+NA
+NA
 hif
-1043791	nif
-1043797	qal
-1043799	qal
-1043810	qal
-1043819	qal
-piel
-1043825	hif
-1043830	qal
-1043835	qal
-1043837	hif
-1043841	hif
-hif
-1043853	qal
-1043857	hif
-1043870	hif
-1043873	piel
-piel
-1043883	hif
-1043889	piel
-1043893	qal
-1043899	hif
-piel
-1043909	qal
-piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
 nif
-1043914	hif
-nif
-1043920	hif
-1043922	qal
-1043924	hif
-hif
-1043932	qal
-1043934	hif
-1043941	hif
-1043944	qal
-1043952	hif
-1043961	hit
-1043978	hit
-1043980	qal
-1043982	hif
-1043985	qal
-1043989	qal
-1043994	hit
-1043996	qal
-hit
+NA
+NA
 qal
-hit
-1044008	qal
-1044013	hif
-1044019	qal
-hit
-1044023	piel
-1044025	qal
-1044029	qal
-1044034	qal
-1044036	qal
-1044040	hif
+qal
+NA
+NA
 piel
-1044049	piel
-1044053	hif
-1044058	piel
-1044063	qal
-1044066	hit
-1044081	hif
-1044083	piel
-1044086	hit
-1044092	qal
-1044099	qal
-1044101	qal
-1044105	hif
-1044113	nif
-1044118	nif
+qal
+NA
+NA
 nif
 nif
-1044124	nif
-1044131	hif
-1044134	nif
-hif
+NA
+NA
 qal
-1044139	hif
+nif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
 qal
 piel
-1044146	hit
-1044150	nif
-1044152	qal
-1044154	piel
-1044164	qal
-1044173	piel
-1044178	qal
-1044180	pual
-1044183	qal
-1044187	hof
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
 hitpo.
-1044194	nif
-1044200	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1044205	hof
-1044214	hif
-1044217	qal
-1044220	qal
-1044222	nif
-1044226	qal
-1044230	hitpo.
-hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
 hif
-1044239	qal
-1044245	qal
-1044248	qal
-1044250	piel
-1044266	qal
-1044271	hif
-1044274	piel
-1044276	qal
-piel
-1044281	piel
-1044283	qal
-1044293	qal
+NA
+NA
+NA
 qal
-1044298	qal
+NA
+NA
+NA
+piel
 hif
-1044305	hif
-1044310	qal
-1044318	qal
+NA
+NA
+NA
 qal
-1044322	hit
-1044324	pulpal
-1044327	hif
-1044334	hif
-1044336	qal
-1044342	qal
+NA
+NA
 qal
-1044347	qal
-1044351	piel
-qal
-1044362	hif
-1044364	qal
-hif
-nif
-1044377	hif
-1044379	hif
-1044384	hif
-1044388	hif
-hof
-1044391	hif
-1044394	qal
-1044399	qal
-1044411	qal
-1044414	qal
-1044416	hif
-1044422	piel
-1044425	hif
-1044428	hif
-1044430	qal
-qal
-1044433	piel
-hif
-1044440	qal
-1044447	qal
-pasq
-hof
-1044455	piel
-1044457	piel
-1044463	qal
-qal
-1044466	qal
-1044469	hif
-1044471	qal
-1044478	hit
-qal
-1044484	qal
-1044490	nif
-piel
-1044494	qal
-piel
-piel
-piel
-piel
-1044502	qal
-1044504	qal
-1044506	piel
-1044510	qal
-1044513	hif
-1044515	hif
-1044521	qal
-1044523	qal
-1044530	qal
-1044535	hif
-1044544	qal
-1044550	nif
-qal
-1044555	qal
-1044560	hif
-1044566	nif
-1044574	piel
-1044580	nif
-1044582	qal
-1044584	qal
-1044589	qal
-1044594	hif
-1044600	piel
-1044603	qal
-1044605	qal
-1044607	qal
-1044614	qal
-1044618	nif
-1044623	nif
-1044626	nif
-1044632	piel
-qal
-1044635	qal
-1044646	qal
-qal
-1044653	hof
-1044655	hit
-1044659	qal
-1044661	qal
-1044663	qal
-1044665	qal
-1044670	nif
-1044675	qal
-1044681	nif
-1044685	qal
-1044690	qal
-1044696	qal
-1044701	qal
-1044703	qal
-1044707	piel
-nif
-1044710	qal
-qal
-1044714	nif
-1044724	qal
-1044730	qal
-1044734	qal
-1044736	hif
-1044741	qal
-1044747	qal
-1044756	qal
-1044759	piel
-1044761	qal
-1044765	hit
-1044772	qal
-1044778	nif
-1044780	qal
-1044786	hif
-1044791	qal
-qal
-1044797	qal
-1044800	qal
-pasq
-1044806	qal
-1044808	qal
-piel
-1044811	hif
-1044816	hif
-1044821	qal
-1044834	qal
-1044838	hif
-1044841	nif
-1044848	piel
-qal
-1044855	nif
-1044864	hif
-1044866	hif
-1044869	qal
-1044871	qal
-qal
-1044877	hif
-1044885	qal
-1044890	piel
-1044894	qal
-1044897	piel
-1044899	hif
-1044906	hif
-1044910	qal
-hif
-1044914	hif
-qal
-1044919	qal
-1044923	qal
-1044931	qal
-qal
-1044935	qal
-1044938	nif
-piel
-1044941	qal
-1044945	qal
-1044951	qal
-1044956	qal
-nif
-nif
-1044961	qal
-qal
-1044967	qal
-1044969	qal
-1044974	nif
-1044985	hit
-1044988	hif
-1044990	nif
-1044995	nif
-1044997	qal
-nif
-1045001	qal
-nif
-qal
-1045005	qal
-qal
-1045010	qal
-qal
-1045014	qal
-1045025	qal
-1045027	qal
-1045029	hif
-1045036	qal
-1045039	qal
-qal
-1045043	piel
-1045051	qal
-1045055	qal
-1045063	pil.
-1045069	qal
-1045073	piel
-1045075	hif
-1045093	qal
-1045103	qal
-1045110	hif
-1045113	qal
-1045116	qal
-1045119	qal
-1045121	qal
-piel
-1045124	qal
-1045127	hif
-hif
-1045131	hif
-1045135	qal
-1045138	nif
-1045143	qal
-1045161	qal
-1045165	piel
-1045167	qal
-1045169	hit
-1045172	qal
-1045174	qal
-1045176	qal
-1045178	qal
-1045180	hif
-1045182	nif
-1045185	qal
-1045187	qal
-1045192	qal
-qal
-1045196	piel
-1045200	hitpo.
-1045208	qal
-1045212	hif
-1045216	piel
-piel
-1045221	hif
-1045223	hif
-1045227	qal
-1045230	qal
-1045235	qal
-1045238	piel
-1045249	hit
-1045257	hitpo.
-1045259	piel
-1045261	qal
-qal
-1045268	hif
-1045271	qal
-1045279	hif
-1045286	hif
-1045290	qal
-1045292	qal
-1045298	nif
-1045300	qal
-1045313	nif
-nif
-1045316	hit
-1045323	hit
-1045325	qal
-1045331	qal
-1045334	hif
-1045336	hif
-1045338	qal
-1045350	qal
-1045352	piel
-1045358	qal
-1045360	piel
-1045366	qal
-1045371	hif
-1045375	qal
-1045378	hit
-1045381	hif
-1045388	qal
-1045392	qal
-qal
-qal
-1045401	qal
-1045405	qal
-1045408	hif
-qal
-1045419	qal
-1045421	hif
-1045428	qal
-1045431	qal
-1045435	qal
-1045437	hif
-piel
-1045442	qal
-1045447	qal
-1045452	qal
-1045456	piel
-1045459	qal
-1045466	qal
-1045470	hif
-1045473	hif
-1045477	qal
-qal
-1045482	nif
-1045484	piel
-1045488	piel
-1045490	pasq
-1045492	hif
-1045497	qal
-1045501	hif
-1045505	qal
-qal
-1045509	piel
-1045511	qal
-piel
-1045515	qal
-1045518	qal
-1045522	pual
-1045537	hif
-1045541	qal
-1045543	qal
-1045552	qal
-1045554	qal
-1045557	hit
-1045559	qal
-1045563	hit
-1045565	qal
-piel
-1045570	qal
-1045573	nif
-1045577	qal
-1045583	piel
-1045585	qal
-1045591	qal
-qal
-1045596	qal
-1045602	qal
-1045606	qal
-1045612	qal
-1045616	qal
-1045619	hif
-1045623	hif
-1045627	nif
-1045633	qal
-1045638	hif
-1045643	qal
-1045647	hif
-1045649	qal
-1045652	qal
-1045657	piel
-1045661	nif
-1045665	hit
-1045667	qal
-qal
-1045670	nif
-1045672	qal
-1045678	hit
-1045681	qal
-1045684	hit
-1045689	qal
-1045692	qal
-1045694	qal
-1045699	qal
-1045705	hif
-1045708	qal
-1045713	qal
-1045718	qal
-1045723	hif
-1045725	qal
-1045729	hif
-1045735	hif
-1045737	piel
-1045739	qal
-1045748	qal
-1045750	hif
-1045757	qal
-1045761	nif
-1045766	hif
-1045770	qal
-1045782	hif
-hif
-1045785	qal
-1045787	hit
-1045790	qal
-1045792	piel
-1045798	qal
-1045802	qal
-1045804	qal
-1045810	piel
-1045814	hif
-1045819	piel
-1045824	qal
-piel
-1045829	hif
-1045834	hif
-1045838	qal
-1045843	qal
-1045849	hit
-1045851	nif
-1045855	piel
-1045860	hitpo.
-1045862	nif
-1045866	qal
-1045871	qal
-1045875	hit
-1045881	po.
-1045884	hif
-1045891	hif
-1045899	nif
-1045903	qal
-1045906	piel
-1045911	qal
-1045914	qal
-1045918	hif
-1045924	qal
-1045929	qal
-1045931	qal
-1045933	qal
-piel
-1045940	qal
-1045942	qal
-1045947	pasq
-qal
-1045951	qal
-1045957	hif
-qal
-1045963	nif
-qal
-1045969	qal
-1045972	qal
-1045977	qal
-1045979	qal
-1045981	qal
-1045984	qal
-1045988	qal
-1045992	hit
-1045995	qal
-1046000	hit
-1046002	nif
-qal
-1046020	nif
-nif
-1046025	qal
-1046030	nif
-1046038	pual
-pual
-qal
-1046042	qal
-1046046	hif
-1046049	pasq
-hif
-1046054	nif
-1046059	qal
-1046068	qal
-1046078	po.
-qal
-1046090	qal
-1046095	piel
-1046099	pasq
-1046114	qal
-1046120	qal
-1046127	hof
-1046132	hif
-hif
-qal
-1046140	qal
-1046144	qal
-1046157	qal
-qal
-1046172	hif
-1046176	piel
-1046181	hif
-1046183	piel
-1046186	hif
-1046189	qal
-1046192	hif
-1046199	pil.
-1046205	pil.
-1046207	qal
-piel
-1046212	qal
-1046214	qal
-1046227	pasq
-1046230	nif
-1046236	nif
-qal
-1046242	nif
-1046244	qal
-1046252	qal
-1046259	qal
-1046261	hif
-1046265	piel
-1046268	qal
-1046270	qal
-1046272	qal
-nif
-1046278	qal
-1046281	hif
-hof
-1046286	hitpo.
-1046288	hit
-1046290	qal
-1046300	qal
-1046305	hit
-1046312	piel
-1046315	pasq
-1046319	qal
-1046321	hif
-1046324	hif
-1046327	piel
-hif
-1046332	nif
-1046338	nif
-1046342	nif
-1046347	nif
-1046353	hit
-1046358	hit
-1046361	nif
-1046366	nif
-1046370	qal
-1046375	hif
-hif
-1046378	piel
-1046384	piel
-1046386	hof
-1046398	qal
-1046401	piel
-1046404	piel
-1046413	nif
-1046418	nif
-qal
-1046426	qal
-1046429	nif
-nif
-1046433	hof
-1046437	nif
-nif
-1046443	qal
-1046445	piel
-piel
-1046451	hif
-1046454	hif
-1046457	qal
-1046463	piel
-1046468	piel
-1046477	po.
-1046481	hif
-1046484	qal
-1046486	hif
-1046488	nif
-1046492	qal
-1046494	hif
-1046498	piel
-1046500	qal
-1046502	qal
-1046504	qal
-qal
-1046511	hit
-1046513	qal
-1046515	qal
-piel
-1046524	hif
-nif
-1046530	qal
-1046534	piel
-1046538	nif
-qal
-nif
-1046549	po.
 po.
-1046567	hif
-1046585	qal
-nif
-1046589	hif
 hif
-1046599	qal
-1046601	hit
-1046603	hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-1046609	qal
-1046613	qal
-1046618	qal
-1046620	qal
-1046622	qal
-1046627	qal
-qal
-1046630	qal
-1046635	hit
-1046639	hit
-1046641	hit
-1046646	piel
-1046664	qal
-1046666	qal
-1046671	nif
-1046674	qal
-1046677	qal
-1046681	piel
-1046686	piel
-1046691	qal
-1046695	piel
-1046700	hif
-1046704	qal
-1046707	piel
-1046710	pual
-1046716	piel
-1046721	nif
-1046727	hif
-1046732	qal
-1046734	qal
-qal
-1046746	pasq
-1046753	qal
-1046757	qal
-1046759	qal
-1046763	qal
-1046768	qal
-1046770	qal
-qal
-1046773	hif
-1046778	qal
-1046787	piel
-qal
-1046793	qal
-nif
-1046798	qal
-1046802	hif
-1046809	qal
-qal
-1046815	hif
-1046818	qal
-1046820	qal
-nif
-1046825	piel
-1046828	qal
-1046833	qal
-hif
-1046837	hif
-1046839	qal
-1046843	pual
-1046846	hif
-1046849	piel
-1046852	hif
-1046856	qal
-1046872	qal
-1046876	hif
-1046883	hif
-1046888	qal
-1046893	hif
-1046898	qal
-1046903	hif
-1046905	qal
-1046909	qal
-1046912	hif
-qal
-1046916	qal
-1046920	nif
-1046923	qal
-1046926	pual
-1046929	qal
-1046934	qal
-1046941	qal
-1046943	hif
-1046945	qal
-1046952	hif
-1046956	qal
-1046959	piel
-1046962	qal
-1046965	hit
-1046967	qal
-1046970	piel
-1046974	qal
-1046976	hif
-1046978	qal
-1046982	hif
-1046986	qal
-1046988	qal
-1046991	hif
-1046996	piel
-1047001	hif
-1047006	hit
-1047009	hof
-pasq
-qal
-pasq
-1047015	qal
-1047020	qal
-1047025	hitpo.
-1047029	qal
-1047031	qal
-1047036	qal
-1047039	hit
-1047043	qal
-1047045	qal
-1047047	hif
-1047050	qal
-1047052	hif
-1047055	nif
-1047057	hitpal.
-1047060	hitpal.
-1047065	qal
-1047073	hif
-1047076	qal
-1047079	qal
-1047083	qal
-nif
-1047088	qal
-qal
-1047092	hif
-1047094	hif
-1047101	qal
-1047103	piel
-1047105	qal
-1047108	qal
-1047111	qal
-1047114	qal
-1047119	qal
-1047125	hit
-1047127	qal
-hit
-1047134	qal
-1047138	nif
-1047141	qal
-hit
-1047147	piel
-1047149	hit
-1047153	nif
-1047155	hit
-1047157	qal
-1047159	qal
-1047163	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 piel
-1047170	hif
-1047176	po.
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 po.
-1047180	qal
-1047186	hif
-1047189	qal
-1047192	hif
-1047195	hif
+NA
+NA
+NA
 qal
-1047200	hif
-1047204	qal
-1047206	hit
-1047211	hif
-1047213	nif
-1047215	qal
-1047219	qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
 hit
-1047226	qal
-1047228	qal
-1047234	hif
-1047236	hit
-1047238	hit
-1047241	hit
-1047243	nif
-1047245	qal
-1047249	qal
-1047254	hif
-1047260	hif
-1047264	qal
-1047267	qal
-1047269	qal
-qal
-1047273	qal
-1047277	qal
-1047279	nif
-1047281	qal
-1047285	piel
-1047291	qal
-1047297	qal
-1047306	pual
-1047309	pual
-1047322	nif
-nif
-1047335	qal
-1047351	qal
-nif
-1047357	nif
-nif
-1047367	piel
-1047369	qal
-1047373	pual
-hof
+NA
+piel
+NA
+NA
+NA
+NA
 hif
-1047377	nif
-1047383	piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1047390	qal
-1047392	nif
-1047398	hif
-1047400	qal
-1047403	qal
-1047406	nif
-1047409	qal
-1047423	piel
-1047436	qal
-qal
-1047443	qal
-1047447	qal
-1047454	piel
-1047458	qal
-1047474	qal
-1047476	qal
-1047482	hitpal.
-1047489	hif
-1047492	nif
-1047507	qal
-1047512	qal
-1047515	piel
-1047520	qal
-1047529	hif
-1047536	hif
-1047550	hif
-hif
-1047557	hit
-qal
-1047567	hitpal.
-1047573	hof
-1047577	qal
-hif
-1047580	qal
-1047584	qal
-1047587	nif
-qal
-1047594	nif
-1047597	qal
-qal
-1047600	pasq
-1047604	qal
-1047609	qal
-1047614	qal
-1047616	qal
-1047620	qal
-1047622	piel
-1047629	piel
-1047639	qal
-1047643	qal
-1047648	qal
-1047652	qal
-qal
-1047655	qal
-1047662	qal
-1047665	qal
-qal
-1047669	qal
-qal
-1047680	qal
-1047683	qal
-qal
-1047690	qal
-1047694	qal
-qal
-1047702	hitpo.
-1047704	qal
-1047711	piel
-hif
-1047719	po.
-qal
-1047724	hif
-1047729	qal
-1047734	qal
-1047738	qal
-1047745	hitpo.
-1047747	qal
-1047755	qal
-1047757	qal
-1047759	qal
-1047762	qal
-1047764	hif
-1047766	piel
-1047773	piel
-1047775	hif
-1047780	hif
-1047782	nif
-1047786	qal
-nif
-1047790	qal
-1047794	qal
-1047798	qal
-1047802	hif
-1047804	hif
-1047811	qal
-1047820	qal
-1047824	nif
-1047828	qal
-qal
-1047831	piel
-1047833	qal
-1047842	nif
-1047845	qal
-1047852	qal
-1047854	qal
-1047856	qal
-1047858	hif
-1047868	qal
-1047872	piel
-1047874	qal
-1047879	qal
-1047882	qal
-1047885	qal
-1047887	qal
-1047892	qal
-qal
-1047898	qal
-1047901	hif
-1047905	qal
-hof
-1047914	qal
-qal
-1047924	qal
-nif
-1047927	qal
-1047933	qal
-1047937	qal
-1047941	hif
-1047947	piel
-1047950	qal
-1047953	hif
-1047958	piel
-1047960	qal
-1047964	piel
-1047967	hit
-1047973	qal
-1047980	qal
-1047982	qal
+NA
+NA
+NA
+NA
 pil.
-1047992	hif
-1047997	qal
-1048004	qal
-1048011	qal
-1048021	qal
-1048032	qal
-1048034	qal
-1048039	qal
+NA
+NA
 qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-1048045	qal
-1048051	qal
-1048056	qal
-1048062	nif
-1048066	qal
-1048070	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
 hif
-1048078	qal
-1048082	hit
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-1048088	qal
-1048092	nufʿal
-nufʿal
-1048101	nif
-1048109	hif
-1048114	nif
-1048121	qal
-1048123	qal
-1048127	hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
 hif
-1048139	qal
-nif
-1048142	nif
-1048148	hif
-1048154	qal
-1048164	qal
-qal
-1048169	hif
-1048176	qal
-1048179	pual
-1048183	nif
-1048191	qal
-piel
-1048197	qal
-1048200	nif
-1048205	qal
-1048210	nif
-1048230	qal
-1048232	qal
-1048235	qal
-1048238	piel
-1048246	hif
-1048248	qal
-qal
-1048253	qal
-1048262	hitpo.
-1048264	qal
-1048266	qal
-1048270	piel
-1048279	hif
-1048284	qal
-1048288	qal
-1048292	qal
-qal
-1048295	qal
-1048298	qal
-1048303	qal
-1048305	hif
-1048311	hif
-piel
-1048315	qal
-1048324	qal
-1048327	qal
-1048335	hif
-1048339	piel
-1048341	nif
-1048346	nif
-qal
-1048352	nif
-1048354	qal
-1048356	nif
-1048362	qal
-1048371	qal
-1048373	hif
-1048377	piel
-1048382	qal
-1048384	qal
-nif
-1048389	hif
-piel
-1048394	hif
-piel
-1048399	hif
-1048401	qal
-1048403	hit
-1048405	qal
-1048411	hit
-1048413	qal
-1048418	hit
-1048422	piel
-1048425	qal
-1048429	qal
-1048431	hif
-1048433	hif
-piel
-1048436	nif
-1048444	nif
-1048447	nif
-1048456	nif
-1048464	hit
-1048469	hit
-1048472	nif
-1048477	nif
-1048481	qal
-1048486	hif
-1048488	piel
-1048494	piel
-1048496	pual
-1048500	piel
-1048502	pual
-1048520	pual
-1048523	hit
-1048526	piel
-1048531	qal
-1048534	piel
-1048537	piel
-1048542	nif
-nif
-1048549	qal
-1048553	qal
-1048555	qal
-1048558	nif
-nif
-1048563	nif
-1048566	hof
-1048568	nif
-nif
-1048574	hof
-1048580	qal
-1048582	hif
-1048588	piel
-qal
-1048591	piel
-piel
-1048597	hif
+NA
+NA
+NA
+NA
+NA
 hif
-1048602	qal
-1048608	piel
-1048613	qal
-1048619	pil.
-1048621	qal
-1048623	hif
-1048626	piel
-1048628	qal
-1048631	qal
-1048633	hif
-1048635	nif
-1048639	qal
-1048641	hif
-1048645	piel
-1048647	qal
-1048649	qal
-1048651	qal
-1048654	qal
-1048656	hif
-1048658	piel
-1048665	piel
-1048667	nif
-1048673	qal
-1048679	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
 qal
-1048683	hif
-1048689	qal
-1048701	nif
-1048704	qal
-1048707	qal
-1048714	qal
+NA
+pasq
 qal
-1048718	qal
-1048720	qal
-1048724	qal
-1048726	qal
-1048728	qal
-1048730	hif
-1048741	qal
-1048745	piel
-1048747	qal
-1048752	qal
-1048755	qal
-1048758	qal
-1048760	qal
-1048769	qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1048775	qal
-1048781	qal
-1048785	hif
-1048789	qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
 hof
-1048798	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1048808	qal
-qal
-1048811	nif
-1048821	hif
-1048824	qal
-1048830	qal
-1048832	qal
-1048836	hif
-1048841	qal
-1048844	piel
-1048852	piel
-1048854	qal
-1048858	piel
-1048862	qal
-1048874	qal
-1048883	qal
-1048888	qal
-1048911	qal
-1048913	qal
-1048918	qal
-qal
-nif
-1048923	qal
-1048928	qal
-qal
-nif
-1048939	qal
-1048944	qal
-1048950	nif
-qal
-1048955	qal
-1048959	qal
-1048965	hif
-1048970	qal
-1048977	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
 piel
-1048983	piel
-1048989	piel
 qal
-1049000	qal
-1049003	nif
-1049006	hif
-1049008	hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
 hif
-1049015	piel
-1049018	hif
-1049023	hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-1049034	nif
-1049039	piel
-1049065	qal
-1049074	nif
-1049080	qal
-1049086	qal
-1049090	qal
-1049096	qal
-1049100	pasq
-1049103	pasq
-1049105	hof
-1049110	hof
-1049115	qal
-1049126	nif
-1049133	piel
-1049136	hit
-1049138	qal
-1049145	nif
+NA
+NA
 qal
-1049151	piel
-1049157	qal
-1049163	qal
-nif
-1049171	hif
-1049182	hif
-1049184	piel
-1049187	piel
-1049191	hif
-1049195	qal
-1049204	piel
-1049210	hif
-1049219	qal
-1049223	qal
-1049227	hif
-1049231	hif
-1049235	hif
-1049241	nif
-1049246	hif
-1049248	nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1049252	hif
-1049254	qal
-1049257	qal
-1049261	piel
-1049265	qal
-1049267	piel
-1049270	qal
-1049272	qal
-1049274	qal
-1049281	qal
+NA
+NA
+NA
 qal
-1049285	qal
-1049292	qal
-1049296	qal
-1049299	nif
-1049301	qal
-1049304	qal
-1049310	qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+hif
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+piel
+NA
+qal
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+nif
+NA
+NA
+qal
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+qal
+qal
+piel
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+hif
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+hif
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+piel
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+qal
+piel
+NA
+NA
+NA
+NA
+hitpal.
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+qal
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+hif
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+pasq
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+hif
+NA
+hitpo.
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+nif
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+piel
+NA
+NA
+piel
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+pasq
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+pual
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+pasq
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hit
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+qal
+po.
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+etaf.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+peil
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+peal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+piel
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hif
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+hif
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+pasq
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+po.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+po.
+NA
+pual
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+pasq
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+po.
+qal
+hif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+pasq
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+nif
+qal
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+qal
+qal
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+po.
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+qal
+hof
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hitpo.
+NA
+qal
+hif
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+hof
+NA
+NA
+qal
+hof
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+piel
+NA
+NA
+qal
+qal
+qal
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+hof
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+qal
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+pasq
+NA
+qal
+qal
+nif
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pual
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pasq
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+hif
+hof
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+nufʿal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+hif
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+hif
+qal
+NA
+qal
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+pasq
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hsht
+NA
+NA
+qal
+hif
+qal
+NA
+qal
+hif
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+qal
+NA
+NA
+hit
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+hif
+NA
+qal
+qal
+hsht
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hsht
+NA
+qal
+qal
+NA
+hif
+qal
+qal
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+hif
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+pasq
+qal
+qal
+qal
+hif
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+hsht
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+hif
+NA
+qal
+qal
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+hif
+NA
+hif
+NA
+nif
+hif
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+pual
+pual
+NA
+po.
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+po.
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+piel
+nif
+piel
+NA
+qal
+piel
+piel
+piel
+pasq
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+pasq
+qal
+NA
+po.
+hitpo.
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+polal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+pasq
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hitpo.
+pual
+NA
+NA
+NA
+qal
+hitpo.
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
 pasq
 pasq
-1049315	qal
-1049321	qal
-1049323	nif
-1049329	nif
-1049335	qal
-1049337	nif
-1049343	hif
-1049354	qal
 nif
-1049358	qal
-1049361	nif
-1049367	nif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1049373	piel
-1049375	hif
-1049377	qal
-1049382	piel
-1049384	hif
-1049386	qal
-1049391	nif
-1049394	qal
-1049398	qal
-1049400	nif
-1049407	qal
-1049411	qal
-1049416	piel
-1049419	piel
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
 hif
-1049426	pasq
-1049429	hit
-1049431	qal
-1049433	qal
-1049436	qal
-1049438	hif
-1049442	qal
-1049445	qal
-1049449	piel
-1049461	qal
-1049463	qal
-1049469	qal
-1049472	qal
-1049477	qal
-1049480	qal
-1049486	qal
-1049493	qal
-1049499	qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
 hif
+NA
+NA
+NA
+NA
 hif
-1049507	qal
-1049514	qal
-1049520	qal
-1049528	hif
-1049531	hif
-1049535	nif
-1049539	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+piel
+qal
+qal
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 nif
+piel
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 qal
 qal
-1049550	qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+nif
+NA
+piel
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+hif
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+pual
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+hitpo.
+NA
+hif
+NA
+nif
 hitpo.
 qal
-1049556	hif
-1049560	nif
-1049563	qal
-1049565	nif
 qal
-1049575	qal
-1049577	nif
-nif
-qal
-1049584	qal
-1049589	qal
-1049594	qal
-1049597	nif
-qal
-1049605	qal
-1049607	nif
-1049613	qal
-1049618	hif
-1049624	nif
-nif
-1049631	hif
-nif
-1049645	pasq
-1049656	qal
-1049658	qal
-1049664	nif
-qal
-1049673	qal
-1049681	qal
-1049687	qal
-1049693	nif
-1049696	nif
-1049700	qal
-1049702	qal
-1049706	qal
-1049711	hif
-1049713	qal
-1049716	qal
-1049720	hif
-1049725	qal
-1049727	qal
+NA
 hif
-1049732	piel
-1049736	nif
-1049740	qal
-1049744	nif
-1049751	hit
-1049754	hif
-1049757	qal
-1049759	qal
-1049765	piel
-1049769	qal
-1049771	piel
-nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1049788	qal
-1049793	qal
-1049801	nif
-1049803	nif
-1049810	nif
-1049820	qal
-1049826	nif
-nif
-1049837	nif
-1049847	piel
-1049850	piel
-1049852	qal
-1049858	hif
-1049862	hif
-1049865	piel
+NA
+NA
 qal
-1049878	qal
-1049882	qal
-hif
-1049887	qal
-1049890	qal
-1049896	qal
-1049898	piel
-qal
-1049904	hif
-hif
-1049909	qal
-1049913	qal
-qal
-1049919	qal
-1049926	qal
-1049932	hit
-1049967	qal
-1049973	nif
-nif
-1049987	piel
-1050000	qal
-1050002	qal
-1050004	piel
-1050006	qal
-1050008	piel
-hif
-1050011	qal
-1050013	qal
-1050015	hif
-1050020	po.
-1050024	hif
-1050027	qal
-piel
-1050032	qal
-1050038	qal
-1050043	qal
-1050048	qal
-qal
-1050052	qal
-1050055	qal
-1050061	hit
-qal
-1050066	piel
-1050072	qal
-1050076	qal
-1050081	piel
-1050097	piel
-qal
-piel
-1050102	qal
-1050104	piel
-1050107	hitpal.
-nif
-1050110	qal
-1050114	piel
-1050116	qal
-1050118	qal
-1050121	piel
-hif
-1050124	qal
-1050128	qal
-1050130	qal
-1050133	qal
-qal
-1050136	hif
-1050138	hitpal.
-nif
-1050141	qal
-1050143	qal
-hif
-1050150	hif
-qal
-1050153	qal
-hif
-1050160	hif
-1050169	hif
-1050174	qal
-1050179	piel
-piel
-1050182	qal
-1050186	piel
-1050192	qal
-1050198	qal
-1050204	qal
-1050209	qal
-1050215	qal
-1050221	qal
-1050227	hit
-1050233	qal
-1050238	nif
-1050244	qal
-qal
-1050257	nif
-1050259	nif
-1050261	qal
-1050268	nif
-1050272	qal
-1050276	qal
-1050278	qal
-1050285	qal
-1050288	qal
-1050290	qal
-1050292	qal
-1050294	qal
-1050297	qal
-1050301	qal
-qal
-1050305	qal
-1050312	qal
-1050316	hitpo.
-1050323	nif
-hif
-1050332	hif
-1050337	hif
-hif
-1050342	qal
-1050368	hif
-hif
-1050372	hif
-1050374	qal
-1050385	qal
-1050388	qal
-1050391	qal
-1050404	qal
-1050413	qal
-1050417	qal
-1050423	hif
-1050426	qal
-1050432	qal
-1050438	hif
-hif
-1050444	piel
-qal
-1050452	qal
-1050456	hif
-1050458	qal
-1050460	qal
-1050465	qal
-1050467	qal
-1050469	qal
-1050471	qal
-1050475	qal
-qal
-1050478	qal
-1050480	qal
-1050484	hitpal.
-1050489	hit
-1050495	hit
-1050497	qal
-1050503	hif
-1050508	hif
-1050515	qal
-qal
-1050520	hif
-1050530	qal
-1050534	piel
-1050538	piel
-1050548	hif
-1050552	qal
-1050557	hif
-1050562	qal
-1050568	nif
-1050575	nif
-1050583	nif
-1050588	nif
-1050591	qal
-1050594	qal
-1050599	piel
-1050602	qal
-1050604	hif
-1050607	piel
-1050611	piel
-1050614	piel
-1050616	hif
-1050619	piel
-1050621	hif
-1050624	qal
-1050627	hif
-1050629	qal
-1050632	qal
-hif
-1050636	qal
-1050640	qal
-1050643	qal
-1050645	qal
-hif
-1050652	qal
-1050656	qal
-1050661	hit
-1050665	piel
-1050668	nif
-1050673	piel
-piel
-1050680	qal
-piel
-1050692	qal
-1050699	hif
-1050701	pual
-1050704	qal
-1050708	nif
-qal
-1050730	qal
-1050738	qal
-1050744	qal
-1050748	qal
-1050756	qal
-1050761	hif
-1050765	qal
-1050770	nif
-1050776	qal
-1050781	hif
-1050785	qal
-1050792	qal
-1050796	piel
-1050803	qal
-piel
-1050817	qal
-1050827	qal
-1050833	pual
-1050839	qal
-1050841	qal
-1050843	hif
-1050847	piel
-1050856	hif
-1050859	qal
-1050864	qal
-qal
-qal
-1050870	hif
-hif
-1050877	nif
-1050881	qal
-qal
-qal
-1050886	qal
-1050888	qal
-1050892	hif
-hif
-1050899	nif
-1050904	qal
-1050907	nif
-1050909	piel
-1050915	qal
-1050917	nif
-hif
-qal
-hif
-1050928	qal
-qal
-1050931	qal
-hif
-1050938	qal
-1050942	qal
-nif
-1050947	hif
-1050950	qal
-1050956	qal
-1050960	qal
-1050964	piel
-1050971	hif
-1050974	qal
-hif
-1050979	qal
-1050984	qal
-qal
-1050989	qal
-1050993	qal
-qal
-1050997	qal
-1051003	qal
-1051006	qal
-qal
-1051010	qal
-1051019	hif
-1051022	hif
-1051031	qal
-1051037	qal
-1051043	hit
-1051049	hif
-piel
-1051055	qal
-1051062	qal
-1051071	qal
-1051075	qal
-1051078	hif
-1051080	qal
-1051092	piel
-1051095	qal
-qal
-1051106	nif
-qal
-hif
-1051113	nif
-1051119	hif
-1051121	hif
-nif
-1051124	qal
-1051137	hif
-1051141	qal
-1051144	hif
-1051147	qal
-1051154	qal
-1051158	hif
-1051162	hif
-1051179	hif
-1051190	qal
-1051196	piel
-1051201	nif
-1051211	qal
-1051213	pual
-nif
-1051220	piel
-1051222	nif
-1051228	nif
-1051234	qal
-nif
-1051245	nif
-1051262	qal
-1051265	piel
-qal
-1051270	piel
-1051273	qal
-1051278	qal
-1051293	qal
-1051301	qal
-1051307	nif
-qal
-1051313	qal
-nif
-1051317	qal
-hif
-1051323	hit
-1051325	piel
-1051331	piel
-1051335	hif
-1051337	hif
-hif
-1051342	qal
-hif
-1051346	hif
-hif
-1051352	qal
-1051354	piel
-1051356	nif
-hif
-1051359	qal
-1051362	nif
-1051365	qal
-1051371	qal
-1051376	qal
-qal
-1051382	qal
-1051385	qal
-hif
-1051392	hit
+NA
+NA
+NA
+NA
 hit
-1051398	hif
-1051402	hif
-1051404	qal
-1051406	qal
-1051412	hif
-1051417	hif
-1051425	qal
-1051430	hit
-1051436	qal
-hif
-1051441	qal
+NA
 qal
-1051447	qal
-1051454	nif
-1051464	hit
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+piel
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 hit
-1051477	hif
-1051483	piel
-1051485	qal
-1051488	hif
-1051494	qal
+NA
+NA
+piel
+NA
 qal
-1051501	qal
-1051506	qal
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1051511	qal
-1051518	qal
-1051533	hif
-1051542	hif
-1051544	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
 hif
-1051553	piel
-1051555	qal
-1051558	qal
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 hit
-1051562	qal
-htpo
-1051568	qal
-hif
-1051571	hit
-1051573	qal
-1051575	hitpal.
-1051578	qal
-1051584	hit
-1051591	hit
-1051594	hif
-hif
-1051598	hif
-1051601	qal
-1051604	qal
-1051608	hif
-1051616	nif
-1051622	qal
-1051627	qal
-1051630	hif
-1051634	qal
-1051637	qal
-1051639	qal
-1051642	hif
+NA
 qal
-1051655	qal
-1051661	hif
-1051664	hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 hof
 qal
+NA
 qal
-1051670	nif
-1051672	qal
-1051675	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-1051680	qal
-hif
-1051687	hit
-1051689	hit
+NA
+NA
 qal
-1051693	hit
-1051696	hif
-1051699	qal
-po.
-1051702	piel
-1051713	po.
-1051719	piel
-1051722	qal
-1051724	piel
-1051726	qal
-1051729	qal
-1051732	qal
-1051744	qal
-1051755	hif
-1051762	hif
-1051765	hif
-1051773	hif
-1051785	nif
-1051789	pual
-1051795	hif
-1051809	nif
-1051815	qal
-1051824	nif
-nif
-1051828	qal
-1051831	qal
-1051840	qal
-1051844	hif
-1051849	piel
-1051853	hif
-1051855	qal
-1051859	hif
-1051861	qal
-1051865	hitpo.
-1051871	qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 piel
-1051905	hif
-1051911	nif
-1051918	hif
-1051930	nif
-1051940	hif
-1051942	hif
-1051947	nif
-1051955	nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 hof
-1051958	nif
-1051964	piel
-1051966	qal
-1051971	hif
-1051977	hit
-1051979	hitpo.
-1051983	hif
-1051991	qal
-1051994	qal
-qal
-1051998	qal
-1052007	hif
-1052011	qal
-1052016	hif
-1052018	piel
-1052024	qal
-piel
-1052036	qal
-1052042	qal
-1052050	qal
-1052056	qal
-1052063	qal
+NA
+NA
+NA
 qal
 qal
-1052067	qal
-1052073	qal
-1052076	qal
-1052090	qal
-1052095	piel
-piel
-piel
-1052101	qal
-1052104	qal
-1052110	qal
-1052117	qal
-1052120	qal
-1052137	nif
-1052142	qal
-1052150	qal
-1052157	qal
-1052192	qal
-1052195	nif
-1052200	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-nif
-1052206	nif
-1052220	hif
-1052239	nif
-1052242	nif
-1052248	nif
-1052253	nif
-1052258	qal
-1052262	qal
-1052270	hif
-1052275	qal
-1052280	hif
-1052286	nif
-1052290	hif
-1052300	hif
-1052309	hif
-1052318	qal
-1052320	hif
-1052327	hif
-1052338	qal
-1052344	qal
-1052365	hif
-1052380	piel
-1052391	qal
-piel
-1052396	qal
-1052398	nif
-1052400	hitpo.
-1052403	hif
-1052410	qal
-1052412	piel
-1052420	qal
-1052423	piel
-1052430	hif
-1052435	hif
-1052440	qal
-1052446	hif
-1052449	qal
-1052457	pual
-1052460	qal
-1052467	hif
-1052475	piel
-1052494	qal
-nif
-nif
-1052499	piel
-1052503	qal
-piel
-1052508	qal
-nif
-1052511	qal
-1052514	qal
-nif
-1052518	qal
 hif
-1052521	qal
-1052524	qal
-nif
-1052527	qal
-1052530	qal
-hif
-1052533	qal
-1052536	qal
-1052540	qal
-1052554	qal
-1052571	nif
-1052582	nif
-1052593	qal
-1052598	hif
-1052601	qal
-1052603	qal
-1052609	hif
-1052613	nif
-qal
-1052620	qal
-1052628	qal
-1052654	nif
-1052656	qal
-1052661	qal
-1052688	pasq
-1052691	hof
-1052698	pual
-1052702	hif
-1052706	hif
-1052710	hif
-1052716	qal
-1052719	nif
-1052726	qal
-1052728	qal
-1052732	nif
-nif
-qal
-1052743	qal
-1052772	qal
-1052790	hif
-1052795	hif
-hif
-1052799	qal
-1052807	qal
-1052810	hif
-hif
-1052813	qal
-1052815	hif
-1052824	qal
-1052826	hit
-1052828	qal
-1052837	piel
-1052842	qal
-1052850	qal
-qal
-1052855	qal
-1052865	qal
-1052868	qal
-1052871	qal
-1052883	qal
-1052895	qal
-1052938	qal
-1052948	qal
-1052951	qal
-1052953	qal
-1052963	qal
-1052971	qal
-1052975	qal
-1052979	qal
-1052981	qal
-1052988	qal
-1052990	qal
-1052994	qal
-1053011	hif
-1053019	qal
-1053027	pual
-1053031	htpe
-1053036	qal
-1053041	nif
-1053043	qal
-1053050	nif
-1053054	htpe
-1053060	nif
-1053065	qal
-1053069	hif
-1053080	hif
-1053085	hif
-1053092	hif
-1053097	qal
-1053099	qal
-1053103	hif
-1053106	qal
-1053111	qal
-1053117	hit
-1053119	hit
-1053123	qal
-qal
-1053139	piel
-hif
-1053150	piel
-hif
-hif
-1053154	qal
-1053160	qal
-1053162	piel
-1053169	qal
-1053173	qal
-1053176	qal
-1053179	nif
-1053187	hif
-1053191	piel
-nif
-1053195	piel
-1053199	hit
-1053205	hif
-1053209	qal
-1053215	hitpo.
-piel
-1053218	nif
-1053220	piel
-1053222	nif
-1053224	nif
-1053226	nif
-1053232	qal
-1053235	qal
-1053241	piel
-1053251	nif
-1053254	nif
-1053260	hif
-1053264	qal
-1053270	nif
-nif
-1053274	qal
-1053279	qal
-1053283	qal
-1053285	hif
-1053295	hif
-1053298	hif
-hif
-1053303	qal
-1053305	nif
-1053309	hif
-1053311	qal
-1053313	hif
-hif
-1053320	hitpal.
-1053322	pasq
-hif
-1053325	pasq
-1053328	hif
-1053331	qal
-hif
-1053335	piel
-nif
-1053340	nif
-1053344	piel
-1053346	qal
-1053349	piel
-1053354	qal
-hif
-1053359	hif
-1053362	qal
-1053390	hit
-1053392	nif
-1053394	hit
-1053405	piel
-1053409	piel
-1053417	hif
-1053423	hif
-1053430	qal
-1053434	qal
-nif
-1053438	qal
-qal
-1053442	piel
-qal
-1053446	nif
-nif
-1053450	qal
-nif
-1053453	hif
-hif
-1053462	qal
-1053466	hif
-1053471	hif
-1053474	piel
-1053480	piel
-1053483	hif
-1053486	qal
-1053492	qal
-1053495	hif
-1053503	qal
-1053512	hif
-1053517	hif
-1053520	piel
-1053526	hif
-1053531	qal
-1053535	qal
-1053538	hif
-hif
-1053541	qal
-1053543	qal
-1053549	qal
-1053552	hif
-hif
-1053557	qal
-1053561	hif
-1053567	hif
-1053571	qal
-1053578	hif
-1053591	qal
-qal
-1053595	qal
-piel
-1053599	qal
-qal
-1053602	qal
-1053604	hif
-1053608	qal
-hif
-1053615	qal
-1053617	piel
-1053622	hitpo.
-1053635	qal
-1053640	qal
-1053648	hif
-1053659	qal
-1053666	piel
-1053670	nif
-1053673	hif
-1053677	qal
-1053681	piel
-hif
-1053686	qal
-1053689	qal
-po.
-hif
-1053695	qal
-1053698	qal
-1053700	nif
-1053703	qal
-1053708	qal
-1053716	piel
-1053726	qal
-piel
-1053733	qal
-piel
-1053748	qal
-1053751	qal
-1053755	qal
-1053759	qal
-1053775	qal
-1053778	qal
-1053782	qal
-1053790	qal
-1053793	qal
-1053804	nif
-1053810	hif
-1053813	hit
-1053817	hit
-1053819	nif
-1053828	qal
-1053831	qal
-1053835	qal
-qal
-1053851	nif
-1053857	qal
-1053863	qal
-1053867	piel
-1053870	nif
-1053873	hit
-1053876	nif
-1053885	nif
-1053890	qal
-1053894	qal
-1053899	qal
-1053904	nif
-1053908	hif
-1053911	qal
-1053917	qal
-1053923	qal
-1053927	qal
-1053933	qal
-1053939	nif
-nif
-1053945	hif
-1053948	piel
-1053953	hif
-1053970	hif
-hif
-1053981	qal
-1053984	qal
-1053989	po.
-1053993	qal
-1053997	piel
-1054001	hif
-1054007	piel
-1054011	hif
-1054014	qal
-1054021	qal
-1054031	piel
-1054037	piel
-1054039	piel
-1054048	qal
-1054056	hif
-1054060	qal
-1054069	qal
-1054071	piel
-1054084	hif
-1054092	qal
-1054097	qal
-1054101	piel
-1054105	piel
-1054112	hif
-1054117	hif
-1054122	piel
-1054132	hif
-1054139	qal
-1054144	hif
-1054160	qal
-1054186	pasq
-1054209	hof
-hif
-1054222	hof
-1054229	piel
-1054234	qal
-1054239	qal
-1054250	qal
-1054253	piel
-1054257	piel
-1054263	qal
-1054269	hif
-1054275	hif
-1054282	piel
-1054287	qal
-1054291	hif
-1054297	piel
-1054307	nif
-1054311	piel
-1054326	qal
-1054329	hit
-1054331	piel
-1054336	hif
-1054340	qal
-1054348	qal
-1054352	qal
-1054357	qal
-1054367	qal
-1054369	qal
-piel
-1054383	piel
-1054388	qal
-1054396	piel
-1054404	hif
-1054409	pil.
-1054412	qal
-1054444	piel
-1054449	piel
-1054453	qal
-1054460	nif
-1054472	piel
-1054477	nif
-1054479	qal
-1054487	nif
-1054492	hif
-1054496	nif
-1054498	qal
-1054501	hif
-1054509	hit
-1054513	nif
-1054518	qal
-1054523	qal
-1054528	qal
-1054530	qal
-1054540	qal
-1054545	qal
-1054551	piel
-1054558	qal
-1054566	hit
-1054568	qal
-1054571	hif
-1054577	hif
-1054585	nif
-1054592	hif
-1054596	qal
-1054601	qal
-1054608	qal
-1054611	hif
-1054618	qal
-1054622	qal
-1054629	piel
-1054633	qal
-1054640	qal
-1054644	nif
-1054648	qal
-1054657	qal
-qal
-1054660	pasq
-qal
-pual
-1054671	qal
-1054673	piel
-1054676	hif
-1054679	qal
-1054683	piel
-1054690	piel
-1054692	nif
-qal
-1054702	qal
-1054706	nif
-1054709	hif
-1054714	hif
-piel
-1054722	qal
-1054725	hif
-1054733	nif
-1054745	nif
-nif
-1054759	nif
-1054761	hif
-1054766	qal
-1054775	qal
-1054778	hit
-1054785	hof
-1054795	qal
-1054806	hif
-1054809	hif
-1054813	hif
-1054819	piel
-qal
-1054824	qal
-1054829	qal
-1054834	qal
-1054837	qal
-1054841	hif
-1054846	qal
-1054850	piel
-1054854	qal
-1054856	nif
-1054860	hif
-1054863	qal
-1054870	piel
-1054875	qal
-1054884	qal
-qal
-1054890	hif
-1054894	hif
-1054896	piel
-1054903	qal
-qal
-1054907	qal
-1054913	hif
-1054916	qal
-1054921	qal
-1054927	hif
-1054933	qal
-1054936	hif
-qal
-1054941	qal
-1054948	hif
-1054953	hif
-1054958	hif
-1054963	qal
-1054967	hif
-1054972	piel
-1054974	qal
-1054986	hif
-nif
-1054990	nif
-nif
-1054995	qal
-1055002	hif
-1055005	qal
-1055010	hif
-1055014	qal
-1055019	piel
-1055035	qal
-1055039	hif
-1055046	qal
-1055048	hif
-1055050	qal
-1055052	qal
-1055054	pual
-1055056	qal
-1055065	hif
-1055071	qal
-1055073	qal
-1055080	qal
-1055082	hif
-1055086	qal
-1055091	hif
-1055095	qal
-1055102	hit
-1055105	qal
-1055113	qal
-1055115	qal
-1055122	hif
-1055126	qal
-1055132	nif
-1055135	hif
-qal
-1055145	hif
-1055150	nif
-1055153	qal
-1055161	hif
-1055170	nif
-1055178	pasq
-nif
-1055183	hif
-1055188	hif
-1055195	hif
-qal
-1055198	qal
-1055203	hif
-1055212	qal
-1055217	qal
-1055225	nif
-1055229	qal
-nif
-1055240	qal
-1055244	qal
-1055251	nif
-1055256	nif
-1055267	qal
-1055272	hif
-1055275	piel
-1055278	hif
-1055283	qal
-1055288	qal
-1055293	qal
-1055296	qal
-1055301	piel
-1055305	nif
-1055310	qal
-1055312	qal
-1055314	qal
-1055320	qal
-piel
-1055325	qal
-1055330	hif
-1055336	qal
-1055343	hif
-1055350	qal
-1055353	piel
-1055358	hif
-nif
-1055361	nif
-1055364	qal
-1055370	pual
-1055372	qal
-1055377	hif
-1055386	nif
-nif
-1055392	hif
-1055397	hif
-qal
-1055406	qal
-1055416	qal
-1055422	qal
-1055424	qal
-1055435	hif
-1055440	hif
-qal
-1055447	piel
-1055452	nif
-1055455	qal
-1055458	qal
-1055461	hif
-1055463	qal
-1055467	qal
-1055469	qal
-1055472	hif
-1055474	qal
-1055477	hif
-1055482	hif
-1055486	pil.
-1055495	qal
-1055497	qal
-1055500	hif
-1055504	hif
-1055506	piel
-1055508	hif
-1055511	polal
-1055516	qal
-nif
-1055519	hif
-1055523	piel
-1055527	hif
-1055532	nif
-1055540	nif
-1055545	nif
-1055550	nif
-1055557	nif
-1055576	nif
-1055581	pual
-1055586	nif
-1055595	nif
-1055602	qal
-1055610	piel
-1055615	nif
-nif
-1055618	hif
-1055623	qal
-1055631	qal
-1055640	hif
-1055647	hif
-1055654	nif
-1055689	nif
-1055702	piel
-1055705	qal
-1055709	hit
-1055713	qal
-1055718	qal
-1055722	piel
-1055729	nif
-1055742	hif
-1055761	piel
-1055763	piel
-1055767	piel
-1055771	hif
-1055779	hif
-1055781	hif
-1055785	hif
-1055792	nif
-1055794	qal
-1055799	hsht
-1055808	qal
-1055814	hif
-1055817	qal
-1055827	piel
-1055829	qal
-1055833	hif
-1055836	qal
-1055838	qal
-1055853	hit
-1055855	qal
-1055857	qal
-1055860	piel
-1055866	hif
-1055868	qal
-1055871	piel
-1055876	qal
-1055879	qal
-1055884	qal
-1055888	nif
-1055893	hif
-1055899	nif
-1055910	qal
-1055916	qal
-1055923	qal
-1055940	piel
-piel
-1055943	qal
-1055947	hif
-1055954	qal
-1055956	qal
-1055959	qal
-1055964	piel
-1055967	hif
-1055970	piel
-1055975	qal
-1055979	qal
-1055987	hif
-1055989	qal
-1056000	qal
-qal
-1056004	qal
-qal
-1056007	qal
-1056013	qal
-1056018	piel
-1056023	hif
-1056036	qal
-1056045	qal
-1056052	qal
-1056062	qal
-1056066	qal
-1056069	piel
-qal
-1056074	qal
-1056083	hif
-1056085	qal
-1056088	qal
-1056095	pil.
-1056104	hif
-1056113	piel
-1056117	qal
-1056121	qal
-1056125	hif
-1056128	qal
-1056133	piel
-1056139	hif
-1056141	piel
-1056143	piel
-1056147	hif
-1056156	hif
-1056166	hif
-1056168	qal
-1056174	hif
-1056176	qal
-1056182	hif
-1056184	qal
-1056190	hif
-1056192	piel
-nif
-1056199	hif
-1056201	qal
-1056209	hif
-1056211	hif
-1056220	hif
-1056222	qal
-1056227	piel
-1056232	hif
-1056240	hif
-1056248	hif
-1056256	hif
-1056258	qal
-1056265	hif
-1056275	qal
-1056288	piel
-1056292	qal
-1056294	qal
-1056297	piel
-1056300	qal
-1056306	qal
-1056308	hit
-1056313	hif
-qal
-1056317	qal
-1056321	qal
-1056323	qal
-1056325	hif
-1056328	nif
-1056330	qal
-qal
-1056337	qal
-1056340	qal
-1056347	qal
-1056350	qal
-1056354	qal
-hif
-1056360	qal
-1056363	qal
-1056371	qal
-qal
-1056376	hif
-1056381	qal
-1056384	qal
-1056392	hif
-qal
-1056397	qal
-1056403	qal
-1056412	qal
-1056414	qal
-1056416	piel
-1056418	qal
-1056428	hif
-1056431	qal
-1056436	piel
-1056438	qal
-1056440	qal
-1056442	qal
-1056447	qal
-1056449	qal
-1056452	qal
-1056454	qal
-1056462	qal
-1056464	qal
-1056470	qal
-1056474	qal
-1056479	qal
-1056484	pasq
-1056489	pual
-1056502	nif
-1056513	qal
-1056516	pual
-1056525	qal
-nif
-1056532	nif
-qal
-1056540	nif
-1056543	piel
-qal
-1056547	qal
-1056549	qal
-1056557	qal
-1056562	nif
-1056567	hif
-1056573	qal
-1056578	qal
-1056583	qal
-1056586	hof
-1056590	qal
-1056595	qal
-1056597	qal
-1056601	nif
-nif
-1056606	hif
-1056614	piel
-1056624	hif
-1056626	nif
-1056628	hif
-1056631	qal
-qal
-1056635	qal
-1056641	qal
-1056646	qal
-1056651	qal
-1056655	qal
-qal
-1056662	hit
-1056666	qal
-1056668	hof
-1056670	qal
-1056672	qal
-qal
-1056676	qal
-1056685	qal
-1056687	hif
-1056692	qal
-1056698	qal
-1056707	hif
-1056710	piel
-1056712	qal
-1056716	hit
-1056723	qal
-1056729	nif
-1056731	qal
-qal
-1056738	qal
-1056742	qal
+NA
 pasq
-1056748	qal
-1056750	qal
-nif
-1056758	qal
+NA
+NA
+NA
+NA
+NA
 qal
-nif
-1056764	qal
-1056769	qal
-1056778	qal
-1056780	hif
-1056782	qal
-1056787	nif
+NA
 qal
-1056793	hif
-qal
-1056798	qal
-1056802	qal
-1056811	qal
-qal
-qal
-1056819	hif
-1056827	nif
-1056830	qal
-qal
-1056834	qal
-1056837	nif
-piel
-1056840	qal
-1056843	qal
-nif
-nif
-1056848	qal
-qal
-1056854	qal
-1056856	qal
-1056861	nif
-1056866	qal
-1056872	qal
-1056877	hif
-nif
-1056883	nif
-1056885	qal
-nif
-1056889	qal
-nif
-qal
-1056897	qal
-qal
-1056902	qal
-1056912	hif
-1056916	qal
+NA
 hif
-1056924	piel
-1056929	hif
-1056932	qal
-1056935	qal
-qal
-1056938	qal
-1056943	qal
-1056947	nif
-qal
-1056954	qal
-1056956	qal
-1056961	qal
-1056963	hif
-1056965	qal
-1056970	piel
-1056980	piel
-1056982	qal
-1056988	hif
-1056992	hif
-1057000	hif
-1057002	qal
-1057007	qal
-1057010	hif
-qal
-1057015	qal
-1057020	piel
-1057023	qal
-1057029	qal
-1057032	hif
-1057035	hif
-1057038	qal
-qal
-1057041	qal
-1057043	piel
-1057045	qal
-1057054	qal
-qal
-1057057	qal
-1057063	qal
-1057067	qal
-qal
-1057070	hitpal.
-1057078	hif
-1057081	nif
-1057084	nif
-1057088	hif
-1057094	hif
-1057096	qal
-1057099	hif
-1057105	qal
-1057111	nif
-1057121	qal
-1057123	pual
-1057129	qal
-nif
-1057138	qal
-1057142	qal
+NA
+NA
+hif
 piel
-1057145	qal
-1057158	qal
-1057160	pasq
-1057169	hif
-1057172	hif
-1057176	piel
-1057185	qal
-1057189	hif
-1057195	hif
-1057207	qal
-1057209	qal
-1057211	qal
-1057217	qal
-1057219	qal
-1057221	qal
-1057223	qal
-1057225	qal
-1057231	qal
-1057235	qal
-1057240	qal
-1057242	qal
-1057245	qal
-1057250	qal
-1057252	qal
-1057255	qal
-1057261	nif
+NA
 qal
-1057266	qal
-1057270	nif
-1057273	qal
-1057278	qal
-1057285	qal
-1057291	nif
-1057296	hif
-1057299	qal
-1057318	hif
-1057322	hif
-1057327	qal
-1057330	qal
-1057336	qal
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
 hit
-1057344	qal
-qal
-1057357	qal
-1057359	qal
-1057368	nif
-1057374	pil.
-1057384	piel
-piel
-1057395	qal
-1057407	piel
-1057416	qal
-1057418	nif
-1057421	piel
-1057431	pasq
-1057434	qal
-1057444	pasq
-1057463	qal
-1057474	qal
-1057481	hif
-1057485	pual
-1057491	qal
-1057493	qal
+NA
 hif
-1057499	piel
-1057510	hif
-1057513	piel
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
 qal
-1057524	hif
-1057532	qal
-1057534	qal
-1057537	hif
-piel
-1057542	qal
-1057546	qal
-1057550	qal
-1057554	piel
-1057557	qal
-1057564	qal
-1057566	hif
-1057569	hif
-1057572	nif
-1057574	piel
-1057576	hif
-1057580	qal
-1057585	hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
 qal
-qal
-qal
-piel
-1057592	pual
-1057605	hif
-1057609	qal
-1057611	qal
-1057620	qal
-1057623	hit
-1057625	qal
-1057629	hit
-1057637	piel
-1057639	qal
-qal
-1057644	qal
-1057648	qal
-1057652	qal
-1057658	qal
-1057661	qal
-1057664	hif
-1057667	hif
-1057676	hif
-1057681	qal
-1057685	hif
-1057687	qal
-1057690	qal
-1057697	nif
-1057701	hit
-1057704	qal
-1057709	qal
-1057712	qal
-1057715	qal
-1057722	hif
-1057725	qal
-qal
-1057735	hif
-1057737	piel
-1057739	qal
-1057744	qal
-1057746	piel
-1057748	nif
-1057750	qal
-1057754	qal
-1057758	qal
-1057760	hif
-1057767	qal
-1057771	nif
-1057776	hif
-1057782	hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
 qal
-1057786	piel
-1057792	qal
 qal
-1057802	pual
-1057808	qal
-1057810	qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
 hif
-1057815	piel
-1057826	hif
-1057829	qal
-1057831	qal
-qal
-qal
-1057836	qal
-1057838	qal
-1057842	hif
-hif
-1057848	nif
-1057853	qal
-1057855	nif
-1057857	piel
-1057861	hif
-1057864	qal
-hif
-1057875	qal
-qal
-1057878	nif
-1057884	hif
-1057887	qal
-1057893	qal
-1057897	qal
-1057899	qal
-qal
-qal
-1057904	qal
-1057908	qal
-qal
-1057912	qal
-1057920	qal
-1057927	qal
-1057929	qal
-1057932	hif
-1057935	qal
-1057939	hif
-1057943	nif
-1057946	qal
-1057949	piel
-hif
-1057961	hit
-1057965	qal
-1057979	qal
-1057990	piel
-1057992	qal
-qal
-1058002	nif
-qal
-1058016	hif
-1058020	qal
-1058027	hif
-1058031	hif
-1058043	hif
-1058051	piel
-1058058	nif
-1058066	nif
-1058072	piel
-1058074	nif
-1058080	nif
-1058086	nif
-1058096	nif
-qal
-1058115	qal
-1058118	piel
-1058131	qal
-1058134	qal
-1058138	qal
-1058145	piel
-1058148	qal
-1058152	qal
-1058167	qal
-1058169	hif
-1058174	hit
-hit
-hit
-1058184	hif
-1058186	hif
-1058189	hif
-hif
-qal
-1058198	qal
-1058200	nif
-hif
-1058203	qal
-hif
-1058210	hif
-1058212	hif
-hif
-1058217	piel
-piel
-1058221	qal
-1058223	piel
-1058226	qal
-1058236	hit
-1058238	qal
-1058243	nif
-1058250	qal
-1058252	qal
-1058258	qal
-1058260	nif
-qal
-1058264	qal
-1058268	qal
-1058272	hitpo.
-1058279	qal
-1058285	hif
-hif
-1058291	qal
-1058293	qal
-qal
-1058297	qal
-qal
-1058302	qal
-1058310	nif
-1058316	hof
-1058319	qal
-1058328	nif
-1058333	hif
-1058335	qal
-1058337	qal
-1058340	piel
-1058344	qal
-1058349	qal
-1058353	hit
-1058370	hif
-1058380	qal
-1058383	po.
-1058388	piel
-1058391	qal
-piel
-qal
-1058398	qal
-1058402	piel
-qal
-1058409	qal
-1058414	qal
-1058418	hif
-1058430	hif
-qal
-1058434	qal
-1058440	qal
-1058442	piel
-1058446	piel
-1058450	hif
-1058456	qal
-1058460	qal
-1058472	hif
-1058485	hif
-1058489	piel
-1058493	qal
-1058495	qal
-hif
-1058500	qal
-1058502	hif
-1058505	qal
-1058510	hif
-1058520	qal
-1058529	qal
-1058531	piel
-1058535	piel
-qal
-qal
-1058539	qal
-1058543	qal
-1058548	hit
-1058550	qal
-1058559	qal
-1058561	qal
-1058572	nif
-1058576	qal
-1058588	nif
-1058593	qal
-piel
-1058597	hif
-1058602	hif
-1058606	hif
-1058612	qal
-1058616	hif
-1058621	qal
-1058628	qal
-1058630	hif
-1058636	qal
-1058638	qal
-1058643	qal
-1058647	qal
-qal
-1058653	qal
-1058656	qal
-1058662	qal
-1058664	piel
-1058670	hif
-1058674	qal
-1058713	piel
-1058715	qal
-1058721	qal
-1058724	piel
-1058729	piel
-qal
-piel
-1058736	hitpal.
-nif
-1058741	qal
-1058743	qal
-1058747	qal
-hif
-1058754	qal
-1058756	qal
-hif
-1058760	hif
-1058763	hif
-1058767	piel
-piel
-1058771	qal
-1058775	piel
-1058778	qal
-1058782	qal
-1058786	qal
-1058793	hit
-1058799	qal
-1058804	nif
-1058809	hit
-1058816	qal
-1058818	qal
-1058821	qal
-1058827	qal
-1058829	nif
-qal
-1058832	qal
-1058835	qal
-1058839	qal
-1058841	qal
-1058845	hitpo.
-1058850	hif
-1058854	qal
-1058857	hif
-hif
-1058865	qal
-1058869	hof
-qal
-qal
-1058874	qal
-qal
-qal
-1058882	qal
-1058884	qal
-1058891	nif
-1058900	nif
-1058902	hif
+NA
+NA
+NA
+NA
+NA
+po.
+NA
 hif
 nif
-1058908	piel
-1058916	hif
-1058925	nif
-1058930	nif
-1058935	nif
-1058940	qal
-1058944	qal
-1058946	hif
-1058951	qal
-1058955	piel
-1058962	qal
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+po.
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 pual
-1058965	nif
-1058969	qal
-1058978	qal
-1058984	qal
-1058989	hif
-1058996	piel
-1059011	qal
-1059014	qal
+NA
+NA
+NA
 hif
-1059017	pasq
-1059020	qal
-1059022	qal
-1059033	nif
+NA
+NA
+qal
+qal
+qal
+NA
 nif
-1059037	qal
-1059040	qal
-1059043	qal
-1059046	qal
-1059051	hif
-1059059	qal
-1059069	qal
-1059074	qal
-1059086	pasq
-1059089	pual
-1059095	hif
-1059099	hif
-1059103	qal
-1059106	nif
-1059114	qal
-1059118	nif
-nif
+NA
+NA
+NA
+NA
 qal
-1059154	qal
-1059158	hif
-1059166	qal
-1059170	qal
-1059175	qal
-1059177	hif
-1059179	hif
-1059181	hitpo.
-1059185	hit
-1059190	qal
-1059198	piel
-1059202	qal
-1059208	qal
-1059213	qal
-1059223	qal
-1059226	qal
-1059229	qal
-1059267	qal
-1059278	qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
 qal
 qal
-1059284	qal
-1059300	nif
-1059305	nif
-1059309	hif
-1059314	piel
-1059323	qal
-1059325	qal
-1059330	hif
-1059335	qal
 qal
-1059350	hif
+NA
+NA
+NA
+NA
+hof
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
 piel
-1059357	qal
-1059363	qal
-1059365	piel
-qal
-1059371	qal
-1059373	piel
-1059380	qal
-1059383	nif
-1059387	qal
-1059390	hif
-1059394	piel
-1059396	nif
-piel
-1059401	hit
-1059406	qal
-1059413	hitpo.
-1059415	qal
-1059419	hif
-qal
-1059422	piel
-1059425	piel
-1059427	nif
-1059429	nif
-1059435	qal
-1059446	nif
-1059451	nif
-1059455	qal
-1059461	qal
-1059469	nif
-1059474	qal
-1059478	qal
-1059480	hif
-1059489	hif
-1059491	qal
+NA
+NA
+NA
+NA
+NA
+NA
 nif
-1059494	nif
-1059499	hif
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+qal
+NA
+hof
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 hif
-1059506	hitpo.
-1059508	pasq
-1059512	hif
-nif
-1059517	qal
-1059521	hif
-1059531	hit
-1059536	piel
-1059545	hif
-1059551	qal
-1059555	qal
-nif
-1059561	qal
-1059564	piel
-qal
-1059567	nif
-1059575	qal
-1059581	piel
-1059586	qal
-1059589	hif
-1059594	piel
-1059597	piel
-1059602	hif
-1059607	hif
-1059610	hif
-hif
-1059620	qal
-1059625	qal
-qal
-1059629	qal
-1059634	hif
-1059639	qal
-1059641	hif
-1059645	qal
-1059649	hif
-1059653	hif
-1059659	nif
-1059669	qal
-piel
-1059676	qal
-1059680	qal
-1059697	qal
-qal
-1059702	qal
-1059707	qal
-1059711	nif
-1059714	hif
-1059729	nif
-1059733	qal
-qal
-1059740	qal
-1059745	nif
-1059750	nif
-1059760	nif
-1059762	nif
-1059766	nif
-hif
-1059792	qal
-1059794	qal
-1059796	qal
-qal
-1059802	qal
-1059806	qal
-1059813	qal
+NA
+NA
 po.
-1059816	nif
-1059818	qal
-1059821	po.
-1059823	piel
-1059825	qal
-1059829	piel
-1059838	qal
-1059842	qal
-1059844	qal
-1059846	qal
-1059850	piel
-1059852	qal
-1059855	qal
+NA
+NA
 piel
-1059863	hit
-1059866	qal
-1059868	piel
-1059870	qal
-polal
-1059876	qal
-1059882	qal
-1059884	qal
-1059886	qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hsht
+NA
 qal
-1059892	qal
-1059896	qal
-1059903	qal
-po.
-1059906	nif
-1059908	qal
-1059911	po.
-1059913	piel
-1059915	qal
-1059919	piel
-1059928	qal
-1059932	qal
-1059934	qal
-1059936	qal
-1059940	piel
-1059942	qal
-1059945	qal
-piel
-1059953	hit
-1059956	qal
-1059958	piel
-1059960	qal
-polal
-1059966	qal
-1059973	piel
-1059978	qal
-1059981	hitpo.
-1059983	qal
-1059985	qal
-1059987	qal
-1059991	pasq
-1059998	hif
-1060000	piel
-1060009	piel
-1060014	piel
-1060017	qal
-1060019	nif
-1060026	pasq
-1060035	qal
+pasq
+NA
 hif
-1060043	qal
-1060045	qal
-1060050	hif
-1060052	qal
-1060063	nif
-1060067	hitpo.
-1060069	qal
-1060078	nif
-1060086	qal
-1060091	qal
-1060109	qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+pasq
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hof
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+hof
+NA
+NA
+pual
+qal
+NA
+qal
+NA
+qal
+qal
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+po.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+qal
+pual
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+po.
+qal
+NA
+qal
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+nif
+NA
+NA
+hif
+qal
+qal
+piel
+NA
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hof
+NA
+qal
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+piel
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+pual
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+qal
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+hif
+NA
+qal
+NA
+NA
+pasq
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hof
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+hof
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+polal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+qal
+qal
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+piel
+piel
+piel
+NA
+NA
+NA
+NA
+pual
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+pasq
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+pasq
+hof
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+pual
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hof
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+piel
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hit
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+pual
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+pasq
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pasq
+NA
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hitpo.
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hitpo.
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+po.
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+hif
+pual
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hitpal.
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+piel
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+po.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+nif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+hif
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+nif
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+hit
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+hif
+qal
+NA
+NA
+hif
+qal
+piel
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+hitpo.
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+hitpo.
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+piel
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hit
+NA
+pulpal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+hof
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+hof
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+piel
+NA
+NA
+qal
+piel
+piel
+piel
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+nif
+NA
+qal
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+piel
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+nif
+NA
+NA
+qal
+nif
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+hit
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+pasq
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+NA
+qal
+piel
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+NA
+qal
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+hit
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hitpo.
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+pual
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+pasq
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+hif
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hof
+NA
+NA
+NA
+hitpo.
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+hof
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+po.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+hit
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+pual
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hof
+pasq
+qal
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+nif
+NA
+hitpal.
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+hit
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+po.
+po.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hit
+NA
+hit
+NA
+NA
+hit
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+pual
+hof
+hif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+pasq
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nufʿal
+nufʿal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+hif
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+pual
+NA
+NA
+NA
+piel
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+hit
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+hof
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+pasq
+NA
+hof
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+pasq
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+hit
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hitpo.
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+piel
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+piel
+hif
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hitpal.
+nif
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+hif
+NA
+hitpal.
+nif
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hitpal.
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+piel
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+hif
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+nif
+hif
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+hit
+NA
+NA
+qal
+htpo
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+hit
+NA
+qal
+NA
+hitpal.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+hif
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hof
+qal
+qal
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
+qal
+NA
+NA
+hit
+NA
+NA
+hif
+NA
+NA
+qal
+po.
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+hof
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hitpo.
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+piel
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+hitpo.
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+qal
+nif
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+htpe
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+htpe
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+hit
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+hif
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hitpo.
+piel
+NA
+nif
+NA
+piel
+NA
+nif
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hitpal.
+NA
+pasq
+hif
+NA
+pasq
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+piel
+nif
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+nif
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+po.
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hit
+NA
+NA
+NA
+hit
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+nif
+NA
+NA
+hit
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+po.
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+pasq
+qal
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+hif
+NA
+NA
+polal
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+NA
+hsht
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hit
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+hif
+NA
+NA
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+piel
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hof
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+nif
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+hof
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+pasq
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+nif
+piel
+NA
+qal
+NA
+NA
+qal
+nif
+nif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+qal
+nif
+NA
+NA
+qal
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+hitpal.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+pil.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+nif
+NA
+piel
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+qal
+qal
+qal
+piel
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+nif
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+nif
+NA
+NA
+qal
+NA
+NA
+piel
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+hit
+hit
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+NA
+NA
+hif
+hif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+hif
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+hif
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+hof
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+po.
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+piel
+qal
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hit
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+qal
+piel
+NA
+NA
+NA
+NA
+hitpal.
+nif
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+hif
+NA
+NA
+hif
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+nif
+qal
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+hitpo.
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hof
+qal
+qal
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+hif
+hif
+nif
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+pual
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+hif
+NA
+pasq
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+nif
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+pual
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+nif
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+hif
+NA
+hitpo.
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+piel
+NA
+nif
+piel
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+hif
+qal
+NA
+piel
+NA
+NA
+piel
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+nif
+NA
+nif
+NA
+NA
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+hitpo.
+NA
+pasq
+NA
+NA
+NA
+hif
+nif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+nif
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+piel
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+hif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+qal
+NA
+hif
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+nif
+NA
+NA
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+nif
+NA
+NA
+NA
+nif
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+po.
+NA
+nif
+NA
+qal
+NA
+NA
+po.
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+polal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+po.
+NA
+nif
+NA
+qal
+NA
+NA
+po.
+NA
+piel
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+piel
+NA
+qal
+NA
+NA
+qal
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+hit
+NA
+NA
+qal
+NA
+piel
+NA
+qal
+polal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+hitpo.
+NA
+qal
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+hif
+NA
+piel
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+NA
+NA
+piel
+NA
+NA
+qal
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+pasq
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+hif
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+qal
+NA
+NA
+NA
+NA
+hif
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+hitpo.
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nif
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+qal
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+qal
 pual

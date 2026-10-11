@@ -14,7 +14,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T19:17:01+00:00Z
+@dateWritten=2026-10-11T20:06:33+00:00Z
 
 149	<del>א</del>לפני
 162	נ<span class="formatting start-overwritten-letter">⟦</span><del class="overwritten-letter">מ</del><span class="formatting stop-overwritten-letter">⟧</span><span class="formatting start-ancient-addition">«</span><ins class="secondary-scribal-addition">ס</ins><span class="formatting end-ancient-addition">»</span>וימ

@@ -4,7 +4,7 @@
 @copynote1=© 2022 DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
 @copynote2=Bereitgestellt durch das DFG-Projekt Nr. 465277421 Qumran-Digital: Text und Lexikon auf der Grundlage eines Textes des früheren Projekts Qumran-Wörterbuch der Niedersächsischen Akademie der Wissenschaften zu Göttingen, der auf einem Vorläufertext von Martin Abegg basierte.
 @copynote3=Modified: converted from HTML and JSON to Text-Fabric, see docs/transcription.md. Provided as is, without warranties, see the disclaimer in the license.
-@description=state of a noun (a; c) or the source abbreviation
+@description=state of a noun (a; c; NA) or the source abbreviation
 @license=Creative Commons Attribution-ShareAlike 4.0 International
 @licenseUrl=https://creativecommons.org/licenses/by-sa/4.0/
 @name=Qumran
@@ -14,69644 +14,146412 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T19:17:02+00:00Z
+@dateWritten=2026-10-11T20:06:34+00:00Z
 
 913704	c
-913709	c
+NA
+NA
+NA
+NA
 c
+c
 det.
-913713	c
+NA
+c
 a
-913716	c
-913718	c
-det.
-913721	det.
-913723	c
-913725	c
-913728	c
-913732	c
+NA
 c
+NA
 c
 det.
-913738	c
-a
+NA
+det.
+NA
 c
-913744	c
-913746	c
+NA
 c
-913750	c
-913752	c
-a
-913756	c
-913758	c
+NA
+NA
 c
-a
-913763	c
-a
-913766	a
-913770	det.
-913772	c
-913774	c
-a
-913777	c
+NA
+NA
+NA
 c
-a
-913781	c
-a
-913784	c
 c
-a
-913789	c
-913791	c
+c
 det.
-913794	c
+NA
+NA
 c
-a
-913798	c
-a
-913801	c
-913803	c
-a
-913807	c
-913809	c
 a
 c
-det.
-913814	c
+NA
+NA
+NA
 c
-913818	c
+NA
 c
 c
-a
-a
-913824	c
-913826	c
+NA
+NA
+c
+NA
+c
 a
-913830	c
+NA
+NA
+c
+NA
 c
 c
 a
+NA
+NA
+c
 a
-913836	c
-913838	c
+NA
 a
-913841	c
+NA
+NA
+NA
 det.
-913844	c
-913846	c
+NA
+c
+NA
 c
-913849	c
-913851	c
-913853	c
 a
-913856	c
+NA
 c
-913859	c
 c
 a
-913863	c
-913865	c
-913867	c
+NA
 c
-913870	c
+a
+NA
 c
-913873	c
 c
-913876	c
-913878	c
-913880	c
 a
-913883	c
+NA
+NA
 c
-a
-913887	c
-913889	c
-913891	c
+NA
 c
-913894	c
-913896	c
-913898	c
+det.
+NA
 c
-913901	c
-913903	c
-913905	c
 c
-913908	c
-a
-913911	a
-913913	c
-det.
-913916	c
-det.
-913920	det.
-913922	c
-a
-913925	c
-913927	c
-913929	c
-913931	c
-a
-913934	a
-913936	a
 a
-913939	c
-a
-913943	c
-913945	det.
-913947	det.
-913949	det.
-a
-913952	c
+NA
+c
 a
-913956	c
+NA
 c
+NA
 c
-913960	c
-det.
-913963	det.
 a
+NA
+NA
 c
-a
-a
-913969	det.
-a
-913972	c
+NA
+c
 a
-913975	c
 c
-913978	a
+det.
+NA
 c
 c
-a
-913985	det.
-a
-913988	c
+NA
+NA
 c
-913992	c
 c
 c
-913996	c
-913998	c
 a
-914001	c
-det.
-914004	det.
 a
+NA
 c
-914008	c
-914015	c
-914018	c
-914021	c
+NA
 c
 a
-914025	a
+NA
+NA
 c
 c
-914031	c
-914033	c
 c
-914038	a
-914041	a
-914043	det.
 a
-914046	c
+a
+NA
 c
+NA
 c
 a
+NA
+c
 det.
-a
-914053	c
+NA
 c
-914056	a
-914059	c
-a
-914064	c
-a
-914068	c
-914070	c
-a
-914075	c
-a
-914079	c
+NA
 c
-914083	c
-a
-914086	det.
-a
-914089	c
+c
+NA
 c
+NA
 c
+NA
+c
 a
-914097	a
-914100	c
+NA
+c
 c
+NA
 c
 c
-914105	a
 a
-914108	c
+NA
 c
+NA
 c
-a
-914114	c
-a
-914117	c
+NA
 c
 c
-a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
 a
-914125	a
-914127	c
+NA
 c
-914130	a
-914133	c
 c
 a
+NA
 c
-914138	a
-914140	c
-914142	c
-914145	c
+NA
 c
+NA
 c
-914149	c
 c
-914152	c
-914157	a
-914159	c
+NA
 c
+NA
 c
-a
-914164	c
-det.
-914167	det.
-a
+NA
 c
-det.
-a
-a
-914175	det.
-914177	det.
-914180	a
-914182	c
 c
-914186	c
+NA
 c
-det.
-914190	det.
-det.
-914193	c
+NA
 c
-914197	c
-914199	c
-914204	c
-914206	c
-det.
-det.
-914211	c
-914213	c
+NA
+c
+c
+NA
+c
+a
+NA
 a
-914219	c
+NA
 c
-914224	c
 det.
+NA
+c
+det.
+NA
+NA
 det.
-914228	det.
-914231	a
+NA
 c
 a
-914235	c
+NA
 c
-914240	c
-a
-914245	c
+NA
 c
-det.
-det.
-914251	a
-914253	a
-914257	c
+NA
 c
+NA
 c
 a
-914262	c
-914264	c
+NA
 a
-914267	c
-914269	c
-c
-914272	c
-914274	c
+NA
+a
+a
+NA
 c
 a
-914278	c
+NA
+NA
 c
+NA
 det.
-914284	c
+NA
+det.
+NA
+det.
 a
+NA
+c
 a
-914289	a
-914291	a
+NA
+NA
 c
 c
 c
-914296	det.
-914299	a
-914301	a
-914303	c
+NA
 c
+det.
+NA
+det.
 a
 c
 a
-914309	det.
-914311	c
-914313	c
-det.
-914317	det.
-914319	a
 a
+NA
+det.
 a
+NA
+c
 a
-914324	a
-914326	a
-914328	a
-914330	a
-914332	c
+NA
 c
 c
-914336	a
+NA
+a
 c
 c
-914340	c
 a
-914343	c
+NA
+NA
+NA
+det.
 a
-914346	c
-914348	a
-914350	c
+NA
 c
-914353	c
-914356	c
 c
-914359	det.
-914362	c
-a
-914365	c
-a
-914368	c
-a
-914371	c
-a
-a
-914375	c
-914377	c
-a
-914380	c
+NA
+NA
 c
+c
+c
+NA
+c
+NA
+c
 a
-914384	c
+NA
+c
+det.
+NA
 det.
-914387	c
 a
-914390	c
-914392	c
 c
+NA
 c
-914396	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-914400	c
-914402	c
-a
+NA
+NA
 c
-a
+NA
+NA
 c
-914409	c
 c
-914412	c
 a
+NA
+a
+c
+c
+NA
+NA
+NA
+c
+NA
 c
-914417	c
-914419	c
-914421	c
 c
-914425	c
+NA
+NA
+NA
 a
-914429	c
+NA
+NA
 a
+NA
+det.
+a
+NA
 c
-914433	a
-914435	c
-914437	c
-914440	c
 c
 c
-914444	a
-914447	c
 a
-914450	c
+det.
 a
+NA
 c
-914458	a
-914460	c
-914464	c
-a
-914470	a
-914472	a
-914478	c
 c
+NA
 a
+NA
+NA
+c
 a
+NA
+NA
+NA
+c
 a
-914484	c
+NA
+NA
 c
+NA
 c
-914488	c
 a
-914492	c
-914494	c
+NA
+NA
+NA
 c
-914498	c
+a
+NA
+NA
 c
 c
-a
+NA
+NA
 c
 a
-914505	c
-c
-914508	c
-914510	c
+NA
 det.
-914514	a
-a
-914517	det.
-914519	c
-914523	c
-c
-914527	c
 a
-914530	a
-914532	c
-914535	c
+NA
 c
 c
-914539	c
 c
 a
-914543	c
-914545	c
-914547	c
+NA
+NA
+NA
+NA
 a
-914551	c
-914553	c
+NA
+NA
+c
+c
+c
+c
+NA
 a
-914557	c
-914559	c
 a
-914562	c
+NA
+c
 c
+c
 a
-914566	c
-914569	c
+NA
+NA
 c
-914574	c
 a
-914577	a
-914581	c
-914583	a
-914585	c
+NA
+c
 c
-914590	c
+c
 a
-914593	c
 a
-914599	c
-c
+NA
+NA
+NA
 a
-914603	a
-914605	c
-914608	c
-914610	c
+NA
 c
+c
+NA
 a
-914614	c
+NA
+NA
 c
 c
 a
-914619	c
 c
+NA
+a
+NA
 c
-914623	c
-914625	c
-914627	c
-914630	c
+NA
 c
-914633	c
+NA
+NA
 c
-914636	c
-det.
 c
-a
-914641	a
-914644	c
 c
-914647	c
+NA
 c
-914651	c
-914653	c
-914655	c
 c
-914658	c
-914662	c
-914664	c
+NA
 c
+NA
+NA
+NA
+NA
 a
-914668	a
-914671	c
+NA
 c
-914674	a
-914676	a
-914678	c
-a
-914683	c
+c
+c
 a
-914686	c
-914689	c
+NA
 c
-914692	c
+det.
+NA
 det.
-914695	det.
-914697	c
 a
 c
 det.
-914703	c
 a
-c
+a
+NA
+NA
 det.
-914708	c
-c
+NA
+det.
+NA
+NA
 a
+NA
 c
 c
+NA
+NA
 c
-914716	c
-a
-914721	c
 c
-a
+det.
+NA
+det.
+det.
+NA
 c
 c
+NA
+NA
 c
-a
-914730	c
-a
-914735	c
-a
+NA
 c
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
+NA
 c
+NA
 c
 a
-914742	c
+NA
+NA
+NA
+NA
 c
-914745	c
-914747	c
-914749	c
 c
-914752	c
-914754	c
+NA
+NA
+NA
 c
+det.
+det.
+NA
+det.
+NA
+NA
 a
-914758	c
-914760	c
 c
-914763	c
+a
+NA
 c
-914766	c
 c
-914769	c
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
 c
-914773	c
 c
+det.
+det.
+NA
+NA
+a
+NA
 a
-914777	c
-914780	c
+NA
+NA
+NA
 c
-914783	a
-914786	c
 c
 c
 a
-914791	a
-914793	c
-a
-914796	a
-914800	c
-a
-914803	c
-a
-914807	c
-a
-914810	a
-914812	c
+NA
 c
-a
-914817	c
+NA
 c
-914821	a
 a
-914824	c
-914826	c
+NA
 c
-914830	a
-914833	c
-914835	det.
-914837	c
-914839	c
-a
-914843	c
-914845	c
+NA
 c
 c
+NA
 c
-a
-914852	c
+NA
 c
-914855	c
-a
-914858	c
+c
 a
+NA
+c
+c
+det.
+NA
+NA
+NA
 c
 a
-914863	c
-914866	c
 a
-914869	a
-914871	a
-914873	c
+NA
+NA
 a
+NA
 a
-914877	c
 c
+c
+c
+NA
+det.
+NA
+NA
 a
+NA
 a
-914882	c
+NA
 c
 c
-914886	c
 a
-914889	c
 c
 a
-914893	c
+NA
+det.
+NA
 c
+NA
+c
+det.
+NA
+NA
+det.
+NA
 a
-914897	c
 a
-914900	a
 a
-914903	c
 a
-914906	c
-c
+NA
 a
-914910	c
+NA
 a
+NA
 a
-c
-c
+NA
 a
-914917	a
+NA
 c
-914920	c
-a
-914923	c
-914925	c
 c
 c
-914929	c
+NA
 a
-914932	c
 c
-a
-914936	c
 c
+NA
 c
-914941	a
-914943	c
 a
-914946	c
-a
-914949	c
-a
-914952	c
+NA
 c
-a
-914956	c
-a
-914959	c
-a
-a
-914963	c
-a
-914966	c
-a
-914969	c
 a
-914973	c
-a
+NA
 c
-a
-914978	c
-a
-914981	c
-a
-a
-914985	a
-a
-914988	c
-a
-a
-914992	a
+NA
 a
-914995	c
-a
+NA
 c
 c
-a
-915001	c
-a
-915004	c
-a
+NA
 c
-a
-915009	c
-a
-915012	c
-a
-915015	c
-a
-915018	c
-a
+NA
+NA
 c
-a
-915023	c
+c
+NA
+det.
+NA
+NA
+c
 a
+NA
 c
 a
-915028	c
+NA
+c
 a
-915031	c
-915033	c
+NA
 c
 a
-915037	c
 a
-915040	c
+NA
 c
+NA
 c
-915045	c
 a
-915048	c
+NA
 c
 c
 a
-915053	c
-a
-915056	c
+NA
 c
-a
+det.
+NA
 c
-a
-915062	c
-a
-915065	c
-a
-915068	c
 a
-915071	c
-a
-915074	c
+NA
 c
-915077	c
-915079	c
-a
-915082	c
-a
-915085	c
-a
-915088	c
-915091	a
-915093	a
-915097	c
+NA
 c
 c
-a
-915103	c
-915105	c
 c
-915108	c
-915111	c
-915114	c
+NA
 c
 c
-915118	c
-915120	c
+NA
+NA
 c
-a
+NA
 c
 a
-915126	a
-915128	c
 c
-a
-915132	a
-915134	a
-915136	a
-915138	a
-a
-915142	c
 a
 c
+NA
+NA
 c
-a
 c
-a
+NA
 c
 a
-915152	c
-a
 c
+NA
+NA
 c
-a
-915158	c
-a
-915161	c
+NA
 c
-915165	a
-915168	a
-915170	c
+NA
 c
-915174	c
 c
-915177	a
-915179	c
-a
-915183	c
-a
-915187	a
-915192	a
+NA
+NA
 c
-a
-915198	c
 a
-915201	c
-a
-915204	c
+NA
+NA
 c
 a
-915210	a
-915212	c
-c
 c
+NA
 a
-915219	c
+NA
 c
-a
-915223	c
+NA
 c
+NA
+NA
 c
-a
-915228	c
 c
-915232	c
-915234	c
-a
-915237	c
 c
-a
-915243	c
-a
-915246	c
-a
-915249	c
-915251	c
-915253	c
+NA
 a
-915257	a
-915259	c
-a
-915262	c
+NA
+NA
 c
 a
-915266	c
+NA
 c
-a
-915272	a
-915274	c
 a
-915278	c
 c
-915283	a
-915286	a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
+NA
+NA
+NA
 c
 a
-915291	a
-915293	c
+NA
+NA
+NA
+NA
 a
-915296	a
-915298	c
+NA
 a
-915302	a
-915304	a
-915307	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-915311	a
-915316	a
-915319	c
-915321	c
+c
 a
-915326	a
-915328	a
-915330	a
-915332	a
-915334	a
-915336	c
 a
-915339	c
 a
-915342	a
-915344	c
+NA
 c
-915347	c
 c
 c
-915353	c
-a
-915356	c
-a
-915360	c
-a
-915363	c
-a
-915366	c
+NA
 c
-915369	a
-det.
-915373	c
-c
-det.
-det.
-915378	c
-915380	c
 a
-915384	c
-915386	c
+NA
+NA
 c
-915390	c
-915392	c
-915394	c
+NA
 c
-det.
-915399	c
-915402	a
-915404	a
-915407	a
-915409	a
-915411	c
 c
-915414	det.
+NA
+NA
 c
-det.
-915419	c
 c
 c
-det.
-det.
-915425	a
-915427	c
-915429	c
-det.
-915432	c
-a
-915435	a
-915438	a
-915441	a
-915443	c
-a
-a
 a
-915448	a
-a
-915451	a
-915453	c
+c
 a
-915456	a
+NA
 c
-915459	c
 c
+NA
 c
-915464	a
-915466	c
+NA
 c
-915469	c
+det.
+NA
+NA
+a
+a
+NA
+det.
+NA
 c
+NA
+NA
+NA
 c
-915473	c
-915475	c
 c
-915480	c
-915482	det.
+NA
+NA
 c
 a
-915486	a
+NA
 a
-915489	c
+NA
 c
-a
-915495	c
+NA
+NA
 c
-a
 c
-915500	c
-det.
-915503	a
-915508	c
-det.
-915513	det.
-915516	a
-915519	a
-915522	a
-915524	c
 c
+NA
 c
-a
-915530	c
 c
-915533	c
-det.
-det.
-915537	c
-915540	det.
 a
+NA
 c
-det.
-915545	c
-det.
-915549	c
-a
-915552	c
+NA
 c
-det.
-915558	c
-915560	c
-a
-915563	c
-915565	c
-915568	c
+NA
 c
-915572	c
 a
-915576	c
-a
-915579	c
-det.
-915583	c
-915585	det.
+NA
+NA
 c
-det.
-915589	c
+NA
 c
-915593	c
+a
+NA
+NA
 c
+NA
 c
-det.
 a
-915599	c
-915602	c
-915604	c
-915606	c
-915609	det.
-915611	c
-915613	c
-915615	c
+NA
 c
-det.
-det.
-915620	c
-det.
-915626	c
-915634	c
-915636	c
-det.
 c
-915642	a
-915644	det.
-915647	a
-a
-915650	c
 a
-915654	c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 a
-915657	c
+NA
 a
-915660	c
-915662	a
+NA
+NA
+NA
 c
+NA
 a
-915666	c
-a
-915670	a
-915674	a
-915676	c
-915678	c
+NA
 c
-det.
-915689	c
-915691	a
-915693	c
 c
+NA
+NA
+NA
 c
-915697	c
-915702	c
-915705	c
-915708	c
 a
-915714	c
-a
-915718	a
-915720	c
+NA
 c
 a
-915725	c
-915728	a
-915730	c
-det.
-915733	c
-915735	c
+NA
+NA
+NA
+NA
+c
+c
 a
-915738	a
-915740	c
-915744	c
+NA
 a
-915753	c
+NA
 c
-915756	c
-915759	a
-915761	c
-a
-915766	det.
+NA
+NA
 c
-a
-915770	a
-915774	a
+NA
+c
+c
 a
-915777	c
+NA
 c
-915782	c
-915784	c
-915788	c
 c
-915794	c
-det.
-915797	c
 c
 a
-915801	a
+NA
 c
 c
-915809	c
-915811	c
 c
+NA
 c
-915816	a
-915818	c
+NA
 c
-915821	a
-915823	c
-915825	a
-915827	c
+NA
 c
-915833	a
-915835	c
-915837	c
-det.
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
 det.
-915842	det.
 c
-915845	c
 a
-915850	c
-915852	det.
-c
+NA
 a
-915856	c
-915858	c
+NA
+NA
 c
-915861	c
-915863	a
-915865	c
 c
-915868	det.
-915871	det.
-a
-915874	c
-915876	c
-915879	c
-915881	c
+NA
 c
 c
-915886	c
-915889	c
+NA
+NA
 c
-915892	det.
-915894	c
-915897	a
-a
-915900	c
-915904	a
-a
-915907	c
+NA
 c
-915910	c
+NA
 c
-915913	c
-915915	c
-det.
-a
-915919	c
-det.
-915922	det.
-915925	c
-a
-915928	c
-915930	c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
 a
-915933	a
-915935	c
+NA
 a
-915938	c
+NA
+NA
 c
-915941	c
 c
-915945	c
-915947	c
-915949	c
+NA
 a
-915952	c
-915954	a
-915956	a
-915958	c
+NA
 a
-915961	a
-915966	a
-915969	a
-915972	c
+NA
 c
 a
-915980	c
+NA
+NA
+NA
 c
-915984	det.
-915990	a
-915995	a
-915997	c
 a
-916000	c
-det.
+NA
 c
-916005	a
-916007	c
-a
-916014	c
+NA
+NA
 c
 c
+NA
+c
 det.
-a
-916020	c
-916023	det.
-916025	det.
-916027	a
-916030	a
-916032	a
-916035	a
-916038	a
-916042	c
-a
+NA
+det.
+NA
 c
-916047	a
 a
-916050	c
+c
 det.
-916056	a
-a
-916059	a
-916061	c
-916064	c
-916066	a
-916071	c
+NA
+NA
 c
-916074	c
 a
-a
-916081	det.
-916083	c
-916085	det.
-916087	c
-det.
-916090	c
-916092	det.
-916094	c
-916096	det.
-det.
-916099	det.
-916101	c
-det.
-916104	c
-916106	a
-916108	c
-916110	det.
+c
 det.
-916113	det.
-916118	c
+NA
 c
-916122	det.
-a
-a
-916126	det.
-a
-916129	a
+c
 a
-916132	c
+c
+c
+c
+NA
+NA
+c
 a
-916135	c
-916137	det.
-916140	a
-916142	a
+NA
+NA
+NA
 c
 c
-det.
-916147	c
-916149	det.
-916152	c
 a
-916156	c
-916158	a
-916160	a
-det.
-916163	c
-det.
+c
+c
+c
 a
-916167	c
-det.
-916171	det.
-916173	det.
-916175	det.
-916177	c
+NA
+NA
 c
-det.
-916181	a
-916183	c
-916185	a
-916189	det.
-916192	c
 a
-916195	a
+NA
+NA
+NA
 c
-916199	det.
-916201	c
 a
-916204	c
-916206	c
-det.
-916210	a
-916212	c
 c
 c
 c
-916217	c
-916219	c
-916225	c
+a
+NA
 c
-det.
-916229	c
-916232	c
-det.
-916236	a
 c
-a
+NA
 c
-916242	c
-det.
-916246	det.
-det.
-916249	det.
-916251	c
-a
+NA
 c
+NA
 c
-916256	a
-916258	c
-916260	det.
 c
-916265	c
+NA
 c
-det.
-det.
-916270	c
-det.
-916274	det.
-916276	c
-916279	c
-916281	a
-916283	c
-916285	det.
-916291	c
-det.
-916296	c
-916298	c
-det.
-916301	det.
-det.
-det.
-det.
-916306	c
-det.
-916310	c
+NA
 c
-916314	c
-916318	a
-916321	a
-916323	c
-916325	a
-916328	c
-916330	c
-a
-916335	c
 c
-det.
-916339	a
-916341	c
-916343	c
-916345	c
-det.
-916349	det.
-916351	c
-916354	c
-916357	det.
-916359	c
-det.
-916366	c
-916368	c
-det.
-916373	c
-det.
-916376	c
-916379	c
-916381	c
-916383	c
-916385	a
 a
-916389	a
-916393	c
-det.
-916397	c
-916399	a
-916401	c
-det.
-916404	det.
-916406	c
-916408	c
+NA
 c
+NA
 c
-916412	c
-916414	a
-916420	det.
-916422	c
-916424	c
-det.
-916427	c
-det.
-916430	c
 c
+NA
 c
-916436	c
-916439	c
-916441	c
-det.
-det.
-916445	c
-det.
-916450	a
-916454	c
 c
+NA
 c
-916459	det.
-916465	c
-det.
-916468	c
-916470	a
-a
-916473	c
 c
-det.
-916478	c
-916480	det.
-det.
-916485	c
-det.
-916492	det.
-916494	c
-916496	det.
-916499	c
+NA
 c
-916502	c
 c
-916505	det.
-916508	det.
-916511	det.
-916514	c
-916516	c
-916519	c
-916521	a
-916523	c
-916526	det.
 c
-916531	a
-a
-916534	c
-det.
-916539	a
+NA
 c
-916543	a
-916545	a
+c
 a
-916550	c
+NA
+c
+NA
+NA
 c
+c
+NA
 a
+NA
+NA
+c
+c
+c
 a
+NA
 a
-916558	c
+NA
 c
-916561	c
-916564	c
-916566	c
 a
-916571	c
+NA
 a
-916574	c
-916576	c
+NA
+NA
+NA
 c
-916579	c
-916581	c
-c
-det.
-916585	c
-916588	c
-916592	a
 a
-916595	c
-916597	a
-916599	det.
-det.
-916602	c
-916608	c
-916610	a
-916613	c
+NA
+c
 a
+NA
+NA
 c
-916617	a
 a
+NA
 a
-916622	det.
+NA
+c
+c
 a
-916625	a
-916629	c
-916631	a
-916633	c
-det.
-916639	a
+NA
+NA
+c
+c
+NA
+NA
 a
-916642	det.
-det.
-916645	det.
-916648	a
-916651	a
 a
-916654	a
-916656	c
-916658	c
+NA
+c
+NA
+c
+c
+NA
+NA
 a
-916663	a
-916667	a
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
 a
-916670	c
-916673	c
-916676	a
+NA
+NA
+c
+NA
+c
+c
+c
+c
 a
-916680	a
+NA
+NA
+c
+c
+NA
+c
 a
-916683	a
-916685	c
-916688	c
-916690	a
-916693	a
-916695	c
-916698	a
+NA
+c
 a
-916703	c
-916707	a
+c
 a
-916712	c
-det.
-916717	c
+NA
 c
-916720	c
-916722	c
-916727	c
-916730	c
+NA
+NA
 c
-916734	a
+a
+NA
+a
+NA
 a
-916737	c
-916740	c
+NA
 c
-916744	a
 a
 a
-916748	a
-916750	a
-916752	c
+NA
 c
+c
 a
-916756	c
-916759	c
 a
+NA
+c
+c
+c
+NA
+c
 a
+NA
+c
+c
 a
+NA
+c
+c
 a
+NA
 c
 a
-916767	c
-916772	c
-det.
+NA
 a
 a
-916777	a
-916779	det.
-det.
-916782	c
-det.
+NA
 c
-916787	a
-916791	a
-916793	a
 a
-916796	a
+NA
+c
+c
 a
-916800	c
+NA
+c
 a
-916809	a
 a
-916812	c
-916815	c
 c
-a
-916821	a
+c
 a
-916825	a
+NA
 a
-916828	a
 c
-916832	c
+NA
 c
-det.
-916837	a
 a
-916840	c
-916842	c
-916844	c
+NA
+c
+NA
+c
 c
-916847	a
-916849	a
-916852	c
-916855	a
+c
+NA
+c
 a
-916858	c
-916862	a
-916864	c
+NA
 c
-916868	a
+c
 a
-916871	det.
-916873	c
+NA
+c
 c
-916877	c
 c
-916882	c
+NA
+NA
 a
-916885	det.
+NA
 c
-916888	a
-916890	c
-916893	a
 a
-916896	c
-det.
-916901	a
-916903	det.
-916905	a
-916907	c
+NA
+c
 a
-916914	a
-916916	det.
+NA
 c
-916920	det.
-916928	c
-916932	a
 a
-916935	det.
+NA
 c
-916938	c
-916940	c
-det.
-916943	c
-916945	a
-916948	c
-916950	c
 c
-916956	c
 a
-916959	a
-916963	c
-det.
-916969	c
+NA
 c
-det.
-916973	c
-c
+a
+NA
 c
-det.
-916980	c
-916982	a
 a
-916989	c
-916991	a
-916994	det.
-916996	c
 a
+NA
 c
-917001	c
-det.
-917004	c
 a
+NA
+c
 a
-917009	c
-917011	c
-917013	det.
-917018	c
-det.
-917021	c
-917023	c
+NA
 c
-917028	c
-det.
 a
-917032	a
-917034	c
-det.
+NA
+NA
 c
-917040	c
-917043	c
-917045	c
-det.
 a
+c
 a
+NA
+c
 a
-917051	a
+NA
+c
 a
 a
-917055	c
-det.
-917058	c
-det.
-917061	c
+NA
 a
-917064	a
-917066	a
-917068	c
 a
-917071	a
+NA
 c
 a
-917076	c
-917078	c
 a
-917081	det.
-917083	a
+NA
 a
-917086	a
 a
-917090	c
+NA
+c
 a
-917093	c
+c
+c
 a
-917096	c
+NA
+c
 a
-917100	c
-917102	a
-917104	c
-det.
-917108	c
-det.
-917111	c
-917115	a
+NA
 c
-det.
-917119	a
-917121	c
 a
 c
 a
-917129	c
+NA
 c
+a
+NA
 c
 a
-917135	c
+NA
+c
 a
-917138	a
-917140	c
+NA
+c
 a
-917143	c
 c
-det.
-917148	c
-917150	a
+a
+NA
 c
 a
 c
-det.
+a
+NA
 c
 a
-917159	c
-917164	c
+NA
+c
+NA
 c
 c
 a
-917171	c
+NA
 c
-917174	c
 a
-917178	c
+NA
+c
+c
 c
+NA
+NA
+c
 a
-917182	c
+NA
+c
+c
+c
 a
-917185	a
-917189	c
+NA
+c
 a
-917192	c
+NA
+c
+c
 a
-917197	a
-917199	c
 c
-det.
-917204	c
+a
+NA
 c
 a
-917209	a
-917211	c
-917214	c
-det.
+NA
+c
 a
+NA
+c
 a
-917219	c
+NA
+c
 a
-917222	a
-917224	c
+NA
 c
 c
-det.
-917229	c
+NA
+c
+NA
+c
 a
-det.
-917235	a
-917237	a
-det.
-917245	c
-a
-a
-917250	c
-917253	a
-917257	det.
-det.
-917261	c
+NA
 c
+a
+NA
 c
-det.
-917266	c
-917268	det.
-917270	c
-917273	c
-917275	a
-917277	c
 a
-917280	det.
-917282	c
-917286	a
+NA
+c
+NA
+NA
 a
-917289	c
+NA
 a
+NA
+NA
+NA
 c
-det.
 c
-917296	c
-a
-917299	c
-917301	c
-det.
-a
-917305	a
-917308	c
-917311	det.
-917313	c
 c
-917316	c
 a
-917319	c
-det.
+NA
+NA
 c
-det.
+NA
 c
-917326	c
-det.
-917329	a
-a
-917334	c
 c
-det.
-917341	c
+NA
 c
-917344	c
-917346	c
-917348	c
-a
-917351	c
-917353	c
-a
-917358	a
-917360	c
-det.
-917363	a
-917366	c
-917369	det.
-det.
-917372	c
-det.
-917375	det.
-917378	det.
+NA
+NA
 c
-917382	c
-det.
-a
-a
-917387	c
-det.
-917390	c
-det.
-det.
-917394	c
-a
-917397	c
-917399	c
-a
-917402	c
-917404	a
-917406	c
-a
-917409	a
-a
-917413	a
-917417	c
-det.
-917422	a
-917426	a
-917428	c
-det.
-917431	c
-917434	c
-917436	c
-a
-917441	a
-917446	det.
-917449	det.
-917452	c
+NA
+NA
 c
-det.
 c
-917458	a
-917463	c
-a
-a
-a
-917469	c
-917474	a
-917477	a
-917479	c
-det.
-917484	a
-917486	c
-917488	a
-a
-917492	a
-a
-917495	a
-917498	a
-917500	a
-a
-917504	a
-917506	det.
-917508	a
-a
-917511	c
 c
-917514	c
-917516	c
-det.
-917519	a
-917521	a
-917523	c
-917528	c
-det.
-det.
-917533	c
+NA
 c
+NA
 c
+c
 a
-917538	c
+c
 a
-917541	c
-917543	c
+NA
 a
-917546	c
+NA
+c
+c
 a
-917549	det.
-917551	c
+NA
 a
-917555	c
+NA
 a
-917558	c
+NA
 a
-917561	a
-917563	c
+NA
 a
-917566	c
 a
-917569	c
+NA
+NA
 c
 a
-917573	det.
-det.
-917576	c
-det.
 c
+c
 a
-917584	c
 c
+a
 c
 a
-917589	c
+NA
+c
 a
-917593	det.
-917595	a
-917597	c
-917601	a
-917604	a
-917607	c
-917610	det.
-917612	c
 c
 c
-det.
-917617	c
+a
+NA
 c
-det.
-det.
-917622	a
-917625	c
-917627	c
+a
+NA
 c
-det.
 c
-917633	c
-917635	c
-917637	a
-917640	c
-917642	c
+NA
+NA
+a
+NA
+NA
 a
-917646	c
+NA
 c
-det.
-917652	c
-917654	c
 c
+NA
+NA
 c
-917660	det.
-det.
-det.
 c
-917665	c
-det.
-917668	c
-917671	c
+NA
 a
-917674	c
-917679	det.
-917681	a
-917683	c
-917686	c
+NA
+c
 a
-917689	c
+NA
+NA
+c
 a
-917692	a
-917695	c
+NA
+NA
 a
-917698	a
-917700	c
-917702	c
+NA
+NA
+NA
+NA
 a
-917705	c
-det.
-917708	a
-917710	det.
-917712	c
-917714	c
-det.
-det.
-917718	c
-det.
-917722	c
-det.
-917725	c
-917728	c
-c
-det.
-917732	c
-c
-917736	c
-det.
-917739	c
-917741	c
-c
-917744	a
-c
-917747	c
-917750	c
-c
 c
-917754	c
-917757	c
-917759	c
-917761	c
-917764	c
-917767	c
-917769	c
-det.
-917773	c
-917775	c
-det.
-917778	c
-c
-det.
-917783	c
-c
-a
-917787	c
 a
-917790	c
+NA
+NA
+NA
+c
 a
-917793	c
-917795	a
-917797	c
-917799	c
+NA
+c
 a
-917802	a
-917804	c
+NA
 c
-det.
-917808	c
+c
 a
+NA
+NA
+NA
 a
-917812	c
-917814	c
-det.
-917817	a
+NA
 c
 c
-det.
-917822	det.
-917825	c
 c
-det.
-917829	c
-917831	a
-det.
-917834	c
-917836	c
 a
-917840	c
+NA
+NA
+NA
 c
-917843	c
-a
-917847	c
-det.
-917850	a
-917852	det.
-det.
-917855	c
-917857	c
 c
-a
-917861	c
-a
-917864	c
-a
-917867	a
-917869	c
-a
-917872	a
-917874	a
-917877	a
-917879	c
-det.
-917884	c
-a
-a
-917888	a
-917890	a
-917892	c
 a
-917895	c
-a
-917898	c
+NA
 c
-a
-917903	c
 c
-917906	c
-917909	c
-det.
-917914	a
-917916	c
 c
 a
-917923	c
+NA
 c
 c
-917931	c
+NA
+NA
 c
-917937	c
+NA
 c
-917943	a
+a
+NA
 c
-917946	a
-917948	c
 c
 a
-917952	c
-917955	c
-917957	c
+NA
+NA
+NA
 c
-917960	c
+a
+NA
 c
 a
-917965	c
-917969	a
-917972	c
-917974	c
-917976	c
+NA
+c
+NA
+c
+NA
+c
 a
-917979	c
+NA
+NA
 a
-917982	c
+NA
+c
 a
-917985	c
-917987	c
+NA
+c
+c
 a
-917990	c
+NA
+c
+c
 a
+NA
+NA
+NA
 a
-917994	c
+NA
+c
 a
+NA
+NA
 c
 c
-917999	c
+NA
+NA
+NA
 a
-918002	a
-918004	c
+NA
+NA
 a
+c
+c
 a
-918008	c
+NA
 a
-918013	c
+NA
 c
 a
-918017	c
+NA
 a
-918020	c
+NA
 c
 a
-918024	c
+NA
+NA
 a
-918027	c
-918029	c
+NA
 a
-918032	c
-918034	a
-918036	c
+NA
+NA
 c
+c
 a
-918041	a
+NA
 a
-918044	a
-918046	c
+NA
+NA
+NA
+NA
 a
-918050	c
-c
-918053	c
-c
-c
+NA
+NA
 c
+NA
 c
 a
-918060	a
-c
+NA
+NA
+NA
 a
-918064	a
-918066	c
+NA
 a
-918069	c
+NA
 a
-c
+NA
 a
-918074	c
-918077	c
-c
-918080	c
+NA
 a
-918084	c
+NA
 c
 a
+NA
+c
 a
-918089	c
-918091	c
+NA
 a
-918095	c
+NA
 c
 c
-918100	a
-918102	c
+NA
 c
-a
-918106	c
-c
 c
-918110	c
 c
-918113	c
+NA
+NA
+NA
 c
-918117	c
-c
-918120	c
 a
-918123	a
-918126	c
+NA
+c
 a
-918130	c
+NA
+NA
+c
 a
+NA
+c
 a
-918134	c
-918137	c
-918139	c
-918142	c
+NA
 c
-918146	c
-918148	c
-918150	c
 c
-918153	a
+NA
 a
-918157	a
-918159	c
-918162	a
+det.
+NA
+NA
 c
 c
+det.
+det.
+NA
 c
-a
-918168	c
-a
+NA
 c
-a
-918173	c
 a
-918176	c
-a
-918180	c
-918185	c
-918188	c
+NA
+NA
 c
+NA
 c
-918192	c
-918194	c
-918196	c
 c
-918199	c
-918201	c
-918203	c
-918206	c
+NA
+NA
 c
-918212	c
+NA
 c
+NA
 c
-918216	c
-a
-918220	c
-918222	c
-918224	c
-918226	c
 c
-a
-918230	c
-a
-918233	a
-918236	c
-a
-918239	a
-918243	a
-918246	c
-918250	c
-918252	c
 det.
-918256	c
-918258	c
-c
+NA
+NA
 c
+NA
+NA
 a
-918263	a
-c
-c
-918268	c
+NA
 a
-918273	c
-918275	a
-918279	a
+NA
+NA
 a
+NA
 a
-918283	a
-918285	a
-918288	a
+NA
 c
 c
+NA
+det.
 c
-a
-918294	a
-918297	a
+det.
+NA
+NA
 c
-918303	c
 c
-a
-918308	c
-a
-918312	c
-918314	c
 c
-a
-918321	a
-918323	c
-a
-918326	c
-918330	c
-a
-918336	c
+det.
+det.
+NA
 a
-918341	a
-918344	c
+NA
 c
-a
-918351	c
+NA
 c
-a
-918358	a
-a
-918361	c
+det.
+NA
 c
-918365	a
-a
-918370	c
-918375	c
-a
-a
-918379	c
-a
-918382	a
-918384	a
-918388	c
-918390	c
-a
-918393	c
-918398	a
-918400	c
-918402	c
-a
-918405	c
 a
-918408	c
+NA
 a
-918411	c
-c
+NA
+NA
 a
-918416	c
+NA
+NA
 a
-918419	a
-918421	c
+NA
 c
-918424	c
-a
-918427	a
-918430	c
-a
-918433	c
-a
 a
-918437	c
 a
-918440	c
 a
-918443	c
+NA
 a
-918447	a
-918449	c
 a
+NA
 a
+NA
 c
-a
-918455	det.
-918458	c
-c
-a
-918464	c
-a
 a
-918469	c
+NA
 a
-918472	a
-918475	c
-a
-918478	c
 c
-a
-918483	a
-a
-918486	c
-a
+NA
 c
-a
-918491	c
-a
-918495	c
 c
+c
+NA
+NA
 a
-918502	c
-918505	c
+NA
 c
 c
-918509	c
+NA
 c
-918513	c
-918515	c
-918518	c
 c
-918521	c
-918524	c
-918526	c
-918528	c
 c
-918531	c
-918534	c
-a
+NA
 c
+NA
 c
 c
-918540	c
-a
+NA
+NA
+NA
 c
+NA
+det.
 c
-918545	c
 a
-918550	c
+NA
 a
 a
-c
-c
-918556	c
+NA
 c
 c
-918561	c
-c
-c
 a
-918566	c
-918568	c
+NA
+NA
+NA
 c
-918571	c
-a
-918574	c
-a
 c
 a
-918579	a
-a
-918582	c
 c
-918585	c
-a
+NA
 c
-a
-918590	c
-a
-918593	c
-a
-918596	c
-a
-918599	c
-918601	a
-918604	c
+det.
+NA
 a
-918609	c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+NA
 a
-918613	c
+NA
+NA
 a
-918616	c
-918618	c
+NA
+NA
 a
-918621	c
+NA
 c
-a
-918625	c
-a
-918628	c
 c
-a
-918634	c
-918638	c
 c
 a
-918642	c
-c
+NA
+NA
 c
 c
+NA
 c
-918648	c
+det.
+det.
+NA
 c
-918651	c
-a
-918654	c
+NA
+NA
+det.
 a
-918658	a
 c
-918661	a
-918664	c
-918667	a
 det.
-918671	c
+NA
 c
 det.
-918676	c
-a
-a
-918680	c
-a
-918683	c
-918695	c
-918697	c
-918704	c
-a
+NA
+NA
 c
-918708	c
 a
-918712	a
-918716	c
-918719	a
-918721	c
-c
-918726	a
-c
-918729	c
-918733	c
-918735	c
-918737	c
+NA
 c
-918742	c
 c
-918745	c
-c
-c
-918750	c
-918753	c
-a
-918756	c
-c
-a
-918760	c
-918762	a
+det.
+NA
+NA
+NA
 c
-918766	det.
+NA
 c
 a
-918770	c
-det.
-918773	a
-c
+NA
 c
-918778	a
+NA
 c
+NA
+NA
 c
 c
+NA
+NA
 c
-918784	c
-918787	c
 a
-918790	c
-918792	c
-918794	a
-918800	a
-918804	c
-918807	a
-918810	a
+NA
+NA
+c
 a
-918813	c
+NA
+c
 det.
-918816	c
-918820	a
+NA
+NA
 c
-918823	c
-918826	c
-918828	c
+NA
+det.
 c
+det.
+NA
 c
-918833	c
-918835	c
 c
-918839	c
-918841	c
+NA
+NA
 c
-918844	c
 c
-918848	a
-918850	c
-918852	c
-918856	a
 c
 det.
-918860	c
-c
-918863	c
-a
-918870	c
-918872	a
-918874	a
-c
-918877	c
 a
+NA
 c
-918881	a
+NA
+NA
 c
-a
-918887	a
+NA
 c
-918891	a
-918894	a
-918897	c
-918900	a
-det.
-918903	c
+NA
 c
-918907	c
+NA
+NA
 det.
-918910	c
-918912	c
-918914	c
-c
-c
-918918	det.
-918920	c
-c
+NA
 c
-918925	c
-det.
-a
+NA
 c
+NA
 c
 c
-918932	c
-918934	c
-a
-918937	c
 det.
-918940	c
 det.
-918943	a
-918945	a
-918951	c
-c
+NA
 c
 det.
-918957	c
-918959	c
+NA
+NA
+NA
+NA
 c
-918964	c
-918966	a
-det.
-918969	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-918973	c
-det.
-918979	c
-918981	c
-918983	c
-det.
-918987	c
+NA
 c
-918991	c
 det.
-918995	c
-918997	c
-a
-a
-919002	a
-919004	c
-919006	det.
-919008	c
-c
-919011	c
-919013	c
-a
-919019	a
-919021	c
-919023	c
-a
-919028	c
 c
-919031	a
+NA
+NA
+NA
 a
-919034	c
-919036	a
-919039	a
-919042	c
-919044	c
+NA
 det.
-919048	c
-919050	c
+NA
+NA
 a
-919054	c
-919057	c
 a
-919060	a
+NA
+c
 a
-919064	c
-919066	c
+NA
+NA
 c
-det.
-919070	c
-919072	c
-det.
-919075	c
 a
+NA
+c
 a
-919080	c
+NA
+c
+NA
 a
-919083	a
-919086	c
-919088	c
 c
-919092	c
 a
+NA
 c
 a
+NA
+NA
 a
+NA
+NA
+NA
 a
-919099	a
-919101	c
-919103	c
+NA
 c
+NA
 c
 c
-919108	det.
-919110	c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+a
+NA
 c
-det.
 c
-919116	det.
-919118	c
-919120	a
-919122	c
-919125	c
-919127	c
-det.
-919131	c
 c
-919134	c
+NA
 c
-919137	c
-919141	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
+NA
+NA
 c
-919146	c
+a
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+a
+NA
 c
 c
-919151	a
 a
-919154	a
-919156	c
-919159	a
+NA
+NA
 c
+NA
+NA
 a
-919163	c
+NA
 c
-919166	c
-919169	c
-c
 det.
-919173	c
+NA
 c
-a
-919179	det.
-919181	c
-919183	c
-919186	c
-a
-919190	c
+NA
 c
-a
-919195	c
-919197	a
-919199	c
 a
+NA
 a
-919203	c
-det.
-919206	c
-919209	c
-det.
-919212	c
-919214	c
+NA
 c
-919217	c
-919220	a
-919222	c
-919224	c
+NA
+NA
+NA
 c
-919228	c
-919231	c
-919233	c
-det.
 a
-919237	c
-919240	c
-c
-det.
-919244	a
-919247	a
-919250	a
-919252	c
-c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-919256	c
 c
-919259	det.
+NA
 c
+NA
+NA
+a
+NA
 c
-det.
-919265	a
-919268	c
+a
+NA
+NA
+NA
 det.
-919271	a
-919274	c
+c
 a
-919278	c
+NA
 a
-919282	c
+NA
+NA
+NA
 a
-919285	c
-c
-det.
 a
-919290	det.
-919292	det.
-det.
-919295	c
-det.
-919298	c
-c
-det.
-919302	det.
-919304	det.
+NA
 c
-det.
-919308	c
-det.
-919311	det.
-919314	det.
-919316	det.
-919318	c
-a
-919321	c
-919323	c
-det.
 c
+NA
+NA
+NA
 c
-det.
-919330	c
+NA
 c
-det.
-det.
-919337	c
+NA
+NA
+NA
 c
-919340	det.
-919342	c
-a
-a
-919346	a
-919348	c
 c
-det.
-919354	c
-a
-919357	c
-a
-a
-919364	c
-a
-919367	c
-det.
-919370	c
-a
-919373	c
+NA
+NA
+NA
+NA
 c
-a
-919377	a
-a
-919380	a
-919382	a
-919384	a
-919386	a
-a
-919389	c
-919391	c
-a
-919394	a
-a
-a
-919401	c
-919403	c
 det.
-919409	c
-919411	c
+NA
 c
 c
-det.
-919416	c
-a
-919419	c
-919422	c
 a
-919427	c
-919429	c
-det.
-919433	c
-919436	c
-919439	det.
-919441	a
+NA
 a
-919444	c
 c
-det.
 c
-919450	c
+NA
+NA
+NA
+NA
+NA
 c
-det.
-919456	det.
-919459	c
+NA
 c
 c
-919464	c
-a
-919467	det.
+c
+NA
+NA
 a
+NA
 c
-det.
-919476	c
-919478	c
 c
-919481	a
+NA
+a
+NA
 c
-919489	c
+NA
+a
+NA
 c
 c
+NA
+NA
+NA
+NA
 a
-919494	c
+NA
 c
-919497	c
-919499	c
-919502	c
-919504	c
+NA
 c
-c
 det.
-919509	c
-919512	c
-a
-919515	c
-919519	a
-a
-919523	a
 det.
+NA
+NA
 det.
+c
+NA
+c
 a
-919528	c
-919530	c
-det.
-919533	det.
-919535	c
-det.
-919538	a
-919540	c
+NA
+NA
+NA
+c
+NA
 det.
-919543	det.
 c
-919546	det.
-919548	a
-919550	a
-919552	c
-919554	c
-919556	det.
+a
+NA
 c
+NA
 c
-det.
+c
+NA
+c
+NA
 a
+NA
 c
-919564	det.
+c
+NA
+det.
+NA
+NA
 det.
-919568	c
-919572	a
 a
+NA
 c
-a
-919577	a
-919579	c
-919581	c
+NA
 c
+NA
+NA
 c
-919585	c
+NA
 c
 c
-919589	a
-a
 c
-919596	c
-a
+NA
+NA
 c
-919601	a
-919604	c
-a
+NA
+NA
 c
-919612	det.
-919614	c
-919617	c
+c
+NA
+det.
+NA
 c
+NA
+NA
 a
-919627	c
-919630	a
 a
-919633	c
+NA
 c
-c
-919637	c
-919640	c
-919644	a
-919650	c
-a
-919653	c
+NA
+NA
+NA
 a
-919659	c
 a
-919665	c
+NA
 c
-919668	c
-a
-919672	c
-919675	c
 c
+NA
 c
-919679	c
-919683	c
 c
+NA
 c
-919687	c
-919689	c
+NA
 c
-919693	c
-919695	c
-919698	c
-919700	c
-a
-919703	c
-a
-919710	a
+det.
 a
-919713	a
+NA
 c
-a
-919717	c
+det.
+NA
+det.
+NA
+NA
 c
-a
-919721	c
 a
-919726	c
-919728	a
-a
-919731	c
+NA
 c
+NA
 c
 a
-919736	c
-919738	c
-919740	a
-919742	c
-c
-919745	c
-919747	c
+NA
 a
+NA
 c
 a
-919752	a
-919754	c
-919756	det.
+NA
 c
-919760	a
-919762	c
 c
-919765	a
-919768	c
+NA
 c
 c
-919772	c
+NA
+NA
 c
-919776	c
-919778	c
-919783	a
-919786	a
-919788	c
+NA
 c
-919793	c
-919798	c
+NA
 c
-919802	c
 a
-919805	c
-a
-919808	c
+NA
 c
-919814	c
+NA
 a
-919818	c
-919820	c
+NA
 a
-919824	c
-c
+NA
 c
 a
-919829	c
+NA
 a
-919832	c
-c
+NA
+NA
+NA
+NA
 a
-919836	c
-919838	a
-919844	a
-c
+NA
+NA
 a
+NA
+NA
 c
 c
 a
-919851	c
-a
-919857	c
-919862	c
-919864	c
-a
-919867	c
-919869	c
-919871	c
+NA
+NA
+NA
+NA
+NA
 c
 c
-a
-919878	c
-919883	c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
 a
-919886	c
+NA
+NA
+NA
+NA
 a
-919889	c
+NA
 c
 a
-919894	a
-a
-919897	c
-a
-919900	c
-a
-919903	c
-919906	c
-a
-919909	c
-a
-919913	c
+NA
 c
-a
-919919	a
-919921	c
-919924	a
-919926	a
-919928	a
-919931	c
+det.
 c
-a
+NA
+NA
 a
-919936	c
-a
-919940	c
-919942	c
-919948	a
-919953	c
-a
-919957	c
+NA
 c
 a
-919961	c
+NA
+NA
+NA
+NA
+NA
 c
-919965	a
-919967	c
-919969	c
-det.
-919972	c
-919977	c
 c
 c
-919981	a
-919984	c
-919986	a
-919988	c
-a
-919992	c
-919994	c
+det.
 a
-919997	c
+NA
 c
-920002	c
+NA
+NA
+det.
+NA
+det.
+NA
 a
-920006	c
+NA
+NA
 a
+NA
 a
-920010	a
+NA
+NA
 a
-920015	c
-c
-920018	c
-920020	a
-920023	c
+NA
+NA
+a
+NA
+NA
+NA
 c
-920026	a
-920028	a
-920030	c
 a
 c
+NA
+NA
 a
-920035	c
 a
-920039	a
-c
-920042	a
+NA
 c
-c
-920047	c
-a
-920050	c
+det.
+NA
+NA
+NA
+NA
 a
-920056	c
 a
-920059	a
-920061	c
+NA
 a
-920066	c
+NA
 c
-920072	a
-a
-920076	a
-920079	a
-920084	a
-920086	a
-920088	a
-a
+NA
+NA
 c
-920093	c
+NA
 a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
 a
 a
-c
+NA
+NA
+NA
+NA
 det.
-920102	det.
-920106	det.
-920108	c
+NA
+c
+NA
 det.
-920112	c
+NA
+c
 det.
-920115	c
-920118	det.
+NA
+c
+NA
 det.
-920124	c
-a
-920128	c
+NA
+c
+NA
 det.
 det.
-920132	c
+NA
 det.
+NA
 c
-920138	c
-920140	c
 det.
-920143	det.
-det.
-920146	c
-det.
+NA
 c
-920150	a
-920152	c
+NA
 a
-920155	c
-920157	c
+NA
 c
-c
-det.
-920162	c
-920164	a
-920166	c
+NA
 det.
-920169	c
-920173	c
-a
-920176	det.
 det.
+NA
 det.
-920180	det.
+NA
+NA
+NA
+NA
 c
-920183	det.
-a
-a
-920187	a
-920189	det.
-920191	c
-a
-920194	c
+c
+NA
+NA
 det.
-920200	c
+a
 a
-920204	a
-920207	c
-920210	c
-920212	c
+NA
 det.
-920215	a
-c
-920219	c
 a
-920223	a
-920225	a
+NA
 a
 a
-920229	c
-920233	c
-c
+NA
 c
-920237	c
-920239	det.
-c
+a
+NA
 c
-920243	c
-920245	c
+NA
 det.
-920249	a
+NA
+NA
+a
+NA
+a
 c
 c
-920253	c
-920256	a
-920258	a
-920261	c
 det.
-920264	a
-920266	a
+NA
 c
+NA
+det.
+NA
+NA
 c
-920272	c
 a
+NA
+NA
+c
+NA
 a
-920280	c
-920282	a
-920285	a
+NA
 a
-920288	c
-c
-920291	a
-920293	c
-c
-c
+det.
+NA
 c
-920298	det.
+det.
+a
+NA
 c
-920302	det.
-920304	c
-920307	c
-920310	a
-920313	c
 det.
-920316	c
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
 c
 det.
-920320	a
-920323	a
-920326	a
-920329	c
+NA
 a
-920332	c
-a
-920339	a
-a
-920342	c
+NA
 c
-920346	a
+NA
 a
-920351	a
-920353	a
-920355	a
-920358	a
-920361	a
+NA
+NA
+NA
+det.
+NA
+NA
+c
 a
-920364	c
+NA
 a
-920369	a
-920372	c
-920374	c
-det.
 c
-920379	c
+NA
+NA
 det.
-920383	a
-920388	a
+NA
+c
 a
-920392	c
-920395	a
-920397	a
-920400	c
-920404	c
-det.
-920409	a
-920414	a
+NA
 c
-920417	c
+NA
 c
-920420	c
 det.
+NA
+NA
+a
+NA
 c
-920424	c
 c
 c
-920428	a
-920431	c
 c
+NA
 c
-a
+NA
 c
-a
-920439	det.
-a
+NA
+NA
+NA
+NA
+NA
 c
-920443	c
-920445	a
-920448	a
-920450	c
-920452	c
-a
-920455	c
-920457	a
-920459	c
-920461	a
-920464	c
-det.
 c
-920469	a
-920471	c
-920473	c
 det.
-920477	c
-c
+NA
 c
-920481	a
-920483	c
+NA
+NA
 c
 det.
-920488	c
-920490	c
+NA
+NA
+a
 c
+a
 c
+NA
+NA
 c
-920496	c
-920498	det.
-920501	a
+det.
+NA
+NA
+det.
+det.
+NA
+det.
+NA
 c
-920504	c
 a
-920507	c
-920509	a
 c
 c
-920514	c
+NA
+a
+NA
 c
-920517	c
+NA
 det.
-920520	c
-920522	a
-920527	c
 c
-a
-a
-920532	c
-920534	c
-920537	c
+NA
+NA
+NA
 c
 c
-920543	c
+det.
+det.
+NA
 c
 det.
-920550	c
+NA
+NA
 det.
+NA
 c
-920555	det.
-920557	c
+NA
+NA
 c
+NA
+a
+NA
 c
-920562	a
-920564	c
+NA
 det.
-920567	a
-920569	c
-920571	c
-920573	a
-920577	c
-920581	c
-920584	c
-a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
 c
+det.
+NA
+det.
 det.
-920591	c
-920593	c
+det.
+det.
+NA
 c
-920596	c
 det.
-920599	c
-920602	a
-920605	c
-920609	c
+NA
+NA
 c
 c
+NA
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
 a
-920615	c
-920617	c
+NA
 c
+NA
 a
+NA
+NA
 c
-920623	a
+NA
 c
-920626	c
 a
-c
+NA
+NA
+NA
 c
-a
-a
-920633	c
-920636	c
 c
-920639	c
 det.
-a
-920643	a
-920645	c
-a
+NA
 a
-920651	c
-a
-920654	c
-a
-920659	c
-920661	det.
+NA
 c
-920664	a
-920666	a
-a
-a
-920670	a
-a
-920673	a
-920676	c
-a
-920681	c
-920686	c
-920690	c
-920697	c
-920704	det.
-920706	c
-920711	a
-920715	c
-920717	det.
-920720	det.
+NA
+c
+NA
+c
 det.
-920724	c
+NA
+NA
 det.
-920729	c
-920732	c
-920735	det.
-920737	c
-920739	c
+NA
+c
+NA
+NA
+c
+NA
+NA
 det.
+NA
 c
-920743	a
-920745	c
+det.
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
+det.
+NA
+NA
+NA
 c
 det.
-920751	a
+NA
 c
-a
-920757	a
-920759	a
-920763	c
+NA
+NA
 c
-920766	c
-det.
-920769	a
-920771	c
+NA
 c
-920774	det.
-920776	c
+NA
+c
+NA
+a
 a
-920779	a
-920785	a
-920790	c
-920792	c
+NA
+NA
 a
+NA
+NA
+NA
 c
-920797	c
-920799	c
 det.
-920802	c
+NA
+NA
+c
+NA
+a
+NA
+c
 det.
+NA
 det.
-c
+NA
 c
-a
-920810	c
-920812	c
-920816	c
+NA
 c
-920822	c
 c
-920827	c
-920829	a
-920831	c
-det.
-920834	c
 c
-920837	c
-920839	c
-det.
-920844	a
-920846	a
-a
-920850	c
-920853	a
+NA
 c
-920857	a
+NA
 a
-920860	det.
-920866	c
+NA
+NA
+NA
+NA
+NA
 det.
-920871	c
-det.
-920877	c
-a
-920882	c
-a
-920888	det.
-920896	a
+NA
+c
+NA
 c
-920899	det.
 det.
+NA
 c
 det.
-920905	c
-920910	c
-920914	a
-920918	det.
-920920	c
-a
-920926	c
+NA
 c
-a
 c
-920932	a
-920934	c
-a
-920938	c
-920940	c
-a
-920943	c
 c
-920947	c
+NA
+NA
+NA
 c
-a
-920954	c
-920957	c
-920959	a
-920963	a
-a
-920967	c
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
 c
+det.
+NA
+NA
+NA
 a
-920971	det.
+NA
+NA
+NA
 c
-920976	c
 c
 c
-920980	c
-a
-920983	c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
 a
 a
-920989	a
-920991	c
+NA
 c
-920994	c
-920999	a
-a
-921003	c
 c
-a
+det.
+NA
+NA
 c
-921008	c
-921010	det.
+NA
+det.
+det.
+NA
+NA
+NA
 c
-921013	c
-921015	a
-921017	c
 det.
-921021	c
+NA
+NA
+NA
+NA
+NA
 det.
-921024	c
-921026	c
-921028	c
+NA
 c
+NA
 det.
+NA
+NA
 c
-921033	c
-a
-921036	c
-a
-a
-921040	c
 c
-921043	c
-921045	det.
-det.
+NA
 c
-921049	c
 c
+NA
+det.
+NA
+NA
 det.
-921053	c
+NA
+NA
+det.
+NA
+NA
+c
+NA
 c
-921056	a
-921058	c
+NA
+NA
 c
-921061	c
-921063	a
-921065	a
-921067	c
+NA
 a
-921070	c
+NA
 c
-921074	c
+NA
+NA
+det.
 c
-921077	det.
+NA
+NA
+NA
 a
 a
-921081	c
-921084	c
+NA
 c
-921087	det.
+det.
+NA
+NA
+NA
+a
 c
-921090	c
+NA
+NA
+a
+NA
+a
 a
-921093	a
-921095	c
-921097	c
+NA
+NA
+NA
 c
-921100	a
-921102	a
-921105	a
-921107	a
-921110	det.
 c
-921113	c
-c
-921116	a
-921118	c
-c
-921121	a
-921123	c
-c
-c
-a
-c
-det.
-c
-921131	a
-921133	c
-921135	c
 a
 a
-921143	a
-921146	c
 a
-921150	a
-a
-921153	a
-921156	a
-921158	a
-921166	c
-921171	a
-921173	c
-a
-921176	a
-921178	c
-a
-921181	c
-det.
-921184	c
-det.
-c
-921188	a
-921190	c
+NA
+NA
+NA
 c
-a
-921194	a
-921197	c
-a
-921202	c
 c
-921205	c
-a
-921208	c
-a
-921216	c
+NA
 c
+NA
+NA
 c
-921220	c
-a
-921223	c
+NA
 c
-921226	a
-921228	a
-921231	c
 a
+NA
+NA
+NA
 c
-921238	c
 a
-921242	det.
-921244	c
-921246	c
-921249	a
-921252	det.
-det.
-921255	a
-921258	det.
-921260	c
-det.
-921263	a
-921265	a
+NA
 c
-a
+NA
 c
-921271	a
-921273	c
 c
-921276	c
+NA
 c
-921279	det.
-det.
+NA
 c
-921283	c
 c
 det.
-921288	c
-c
-921291	c
+NA
 c
-921294	c
+NA
+NA
 c
-921298	c
-c
-c
-c
-det.
-921307	c
-c
-921311	c
-921313	c
+NA
+NA
+NA
 a
-c
-c
-921319	a
-921321	a
-921325	c
-c
-921329	a
-921331	c
-c
-921334	det.
-c
-921337	c
-921339	c
-921344	c
+a
+NA
 c
-921349	c
+NA
+a
+NA
 det.
-921352	c
-c
 det.
-921356	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-921363	c
+NA
+NA
 c
-921366	a
-921369	c
 a
-921372	c
+c
+NA
 a
 a
-921376	c
-c
-921379	c
-det.
-921382	det.
+a
+NA
+NA
 det.
-921385	c
-921388	c
+a
+NA
+a
+NA
+NA
+NA
 c
-921392	a
-921394	det.
+NA
 a
+NA
 c
 det.
-921399	det.
+NA
+NA
+NA
+NA
 a
-c
-921403	c
+a
+NA
 det.
-c
-921407	a
-921409	a
-921411	c
-921414	c
+det.
+NA
+det.
+NA
+NA
 a
-921417	c
+NA
+NA
 a
-921420	c
 a
-c
-det.
+NA
 a
-921426	c
-921429	det.
-det.
+NA
 c
+NA
+c
 a
-921436	c
+NA
+NA
+NA
 a
-921439	c
+NA
+NA
+NA
 a
 a
+NA
+c
+NA
+NA
 c
-921444	c
-921446	c
+NA
+NA
 a
-921450	a
-921453	c
 a
-921456	c
-c
+NA
+NA
 a
-921461	c
-c
-921465	c
 a
+NA
 a
+NA
 c
-det.
-921471	c
-c
-det.
+NA
+NA
 c
-921477	c
-921480	c
-921483	a
-921487	c
-det.
-921492	a
-921496	c
-921500	c
+NA
+a
+NA
+NA
+a
+NA
 c
-det.
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
-921505	c
-det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
-921510	det.
-921513	det.
-921516	c
 det.
-921519	a
-921521	c
+NA
+NA
+NA
 c
-det.
-921526	det.
-921528	det.
-det.
 c
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-a
-921537	c
-921539	c
 c
+NA
+NA
 a
-921543	c
-921546	c
-921551	c
-921556	c
-c
-921562	a
-c
 a
-c
-921568	c
-921571	c
-921573	c
-det.
-921578	c
+NA
 c
-921581	c
+NA
+NA
 c
 c
+NA
+NA
 a
-921586	c
-det.
-921589	c
-921591	c
-921594	c
-det.
-921599	det.
-921601	a
-921604	c
-921607	a
 a
-921610	c
-921612	c
-det.
-921615	c
-921617	c
-921620	c
-921622	c
-c
 a
-921626	c
+NA
 a
-921629	c
+NA
 a
-921632	c
+NA
 c
 c
-921636	c
 a
-921639	c
+NA
 c
-a
-921644	a
-921646	c
-921653	a
-921657	c
+NA
+NA
+c
 a
-921660	c
 a
-921664	a
-921666	a
-921670	c
 a
 a
-921676	c
-c
 c
 a
-a
-921682	a
-921684	c
+NA
 c
+NA
+NA
+NA
+NA
 c
+det.
 a
-921690	c
 a
-921693	c
+NA
+a
+NA
+det.
+det.
+NA
 c
-921696	c
+det.
 c
+NA
+NA
 a
-921700	a
-921702	a
+NA
+NA
+NA
 a
-921705	a
-921707	c
+NA
 a
-921710	c
-c
-a
-921715	c
 a
-921718	a
+NA
 a
-921721	a
 a
-921724	c
+NA
+NA
 c
-921728	a
-a
-a
-921735	c
 a
-921738	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-921743	a
 a
+NA
 c
-a
-921748	c
-a
+NA
+NA
 c
-a
-921753	c
+c
 a
+NA
+NA
+NA
 a
-921758	c
-921761	c
 a
+NA
+NA
 a
-921765	c
 a
-921768	a
-921770	c
+NA
 a
-921773	a
 c
-a
-921778	c
+NA
+NA
 c
-921784	c
-921786	c
-921788	c
-a
-921792	c
 c
-921795	a
-a
-921798	det.
+det.
+NA
+NA
 a
 a
-921802	c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
 a
-921805	c
+NA
 a
-921808	a
-921810	c
-921813	c
+NA
+NA
 c
-c
-det.
-921819	c
+NA
+NA
 a
-921822	c
 a
+NA
 c
+NA
+NA
+NA
+a
+NA
 c
-921828	det.
-det.
 c
+NA
+NA
 a
-det.
 a
+NA
+det.
+NA
 c
 c
-921838	c
-921840	a
-921843	c
-a
-921846	c
+NA
+NA
 c
-a
-921852	a
-921854	c
 c
-det.
+NA
+NA
+NA
+c
 a
-921859	a
-921862	c
+NA
 det.
-921865	c
 c
-det.
-921869	c
+NA
 a
+NA
+c
+NA
+NA
 a
 a
-921875	c
+NA
 c
-a
-921880	a
 det.
-921883	c
+NA
+NA
+NA
 a
-921886	c
+NA
 det.
+NA
 a
-921890	a
-921892	c
-921895	c
+NA
 c
-det.
-921899	c
-a
-a
 a
+NA
+NA
+NA
+NA
+NA
 a
-921905	a
-921907	c
-c
-a
-921911	c
-921914	c
+NA
 det.
-921917	c
+c
+NA
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-921921	c
+NA
+NA
+NA
+a
 a
-921924	c
+NA
 det.
-921927	c
 c
-921930	c
-921933	c
-921935	c
-921938	a
-921941	c
+NA
 c
+NA
+c
 det.
-921945	c
-a
-a
-921949	a
-921953	det.
-921956	det.
-921958	c
+NA
 c
-a
-921962	c
+NA
 a
-921965	c
+NA
+NA
 c
+NA
 c
 c
-921971	c
-921973	c
+NA
+NA
+NA
+NA
+c
 a
-921976	c
+NA
 a
-921979	c
-921983	c
+NA
+NA
+NA
 c
 det.
-921988	c
-921990	a
+NA
+NA
+NA
+NA
 c
-det.
-det.
-921995	c
-det.
 c
 det.
-922000	c
+NA
 c
 c
-det.
-a
-922006	c
-a
-922009	c
 c
 det.
-922013	c
+NA
+NA
+NA
 c
-922018	c
+NA
+a
 a
-922021	c
-922023	a
-922025	c
+NA
+NA
+NA
+NA
+NA
 c
-det.
+NA
 a
-922030	a
-922033	c
+NA
+NA
 det.
+NA
 c
-922038	c
-922040	a
-922042	c
-a
 a
-922048	a
-922050	a
 c
-det.
-922054	det.
-a
-a
-922058	c
+NA
+NA
 c
 det.
+NA
+c
 a
-922063	c
-det.
-922066	a
-922068	a
-det.
-922071	det.
-det.
-922079	det.
-922081	c
 a
-922085	det.
-922088	c
+NA
+NA
 c
-922098	c
-922100	c
-922103	det.
-922106	det.
-922109	c
-922112	a
-922115	a
-922118	c
+NA
 c
-922124	det.
-922126	det.
-det.
-922129	det.
+NA
 det.
-922133	c
-922136	a
-922139	c
-922142	a
-922145	c
+NA
+NA
+NA
+NA
+c
 det.
+NA
 c
+NA
 c
-922150	det.
-922152	c
 c
-922156	c
-922159	c
-det.
+NA
+NA
+NA
+c
 det.
-922163	det.
-922165	c
 a
-922168	c
-det.
-922171	c
-c
-922174	c
+NA
+a
+NA
 c
 det.
-922178	c
 c
-922181	c
+NA
+NA
+NA
 c
-det.
-922185	c
+NA
+NA
 c
-det.
-922189	c
+NA
 c
-det.
-922193	c
-det.
-922196	c
 det.
-922199	c
 a
-922202	c
-det.
-922205	c
-det.
-922208	c
-c
-det.
-922212	c
 a
-922216	c
-c
-det.
-922220	c
 a
-922224	c
-det.
-922227	c
+NA
+a
 a
-922231	c
+a
+NA
 c
 det.
-c
+NA
 c
 det.
-922238	c
-922240	c
-a
-922243	c
+NA
+c
 a
-922246	c
+NA
 a
-922250	c
-det.
-922253	c
+NA
 a
-922256	c
-c
-922260	c
+NA
 c
-922263	c
 a
-922266	c
+NA
 a
-922270	c
 c
-c
 a
-922275	c
+NA
+NA
 c
-922278	c
-a
-922282	c
+NA
 c
+a
+NA
 det.
-922286	c
-c
+NA
 a
-922290	c
-c
-922293	c
-c
 a
-922298	c
-c
-c
-det.
-922303	c
-c
-det.
-922307	c
-922309	c
-det.
-922312	c
+NA
 a
-922315	c
 a
-922319	c
-det.
-922322	c
+NA
+NA
 c
 a
-922326	det.
-922328	c
-c
+NA
 c
 a
-922334	c
-det.
-922337	c
+NA
+c
 a
-922340	c
+NA
+NA
+c
+NA
 a
-922344	c
+NA
+c
 det.
-922348	a
+NA
+NA
 c
+det.
+NA
 c
+NA
+NA
+NA
 a
-922354	c
-922356	c
-922359	c
-922361	det.
-922363	c
-det.
-922367	c
-det.
-922370	a
-922373	c
 c
-det.
-922377	c
 det.
-922380	c
-922382	det.
-922385	c
+NA
 a
-922388	c
-a
+NA
 c
+a
 c
+a
+NA
+NA
+NA
+NA
 c
-det.
-922395	c
-922397	det.
-det.
 c
-922401	c
 c
-det.
-922405	c
 a
-922409	c
-922414	c
+NA
+NA
+c
 a
+NA
 a
+NA
 c
-922420	c
-922422	c
+a
+NA
 c
 c
 det.
+NA
+NA
 c
-922428	c
-det.
-922432	c
-det.
-922435	c
+NA
 a
-922439	c
 c
-det.
+a
 c
 det.
-det.
-922447	c
 c
-922451	c
-922454	c
-922457	c
 a
-922461	c
+NA
+NA
 c
-922466	c
+NA
+NA
+NA
+NA
 c
 c
-922471	c
-det.
-922474	c
+c
 a
-922477	a
-922482	c
+NA
+NA
+NA
 c
 c
-922487	a
-922490	c
+NA
 c
-det.
-922495	c
+a
+NA
+NA
 c
 c
-922500	c
-det.
-922504	c
-922506	a
+a
+NA
 c
+a
+NA
 a
-922510	c
+NA
+NA
+NA
 c
 a
-922515	c
+NA
 c
-det.
-922520	c
+a
+NA
+NA
+NA
+a
+NA
 c
 c
-922525	c
 det.
-922529	c
+NA
+NA
+c
+c
 a
-922532	c
+NA
+NA
 a
-922536	c
-c
-det.
-922541	c
+NA
 c
+NA
+NA
 c
-922545	c
 det.
-922548	c
 a
-922551	c
 a
-922555	c
+NA
 c
-det.
-922560	c
+a
+NA
+a
+NA
 c
 c
 c
-922566	c
-922568	det.
-922571	c
+det.
+NA
 c
+a
+det.
+NA
+NA
+NA
+a
+NA
 a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
 a
+NA
+NA
 c
+NA
+NA
 a
-922579	c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
 c
 c
+c
+det.
+NA
 c
+NA
+det.
+NA
 c
-922586	c
-922588	det.
-922591	c
+NA
+NA
 c
+NA
 a
+NA
 c
 a
+NA
+det.
+NA
 c
+NA
+NA
+NA
 a
-c
 a
-922601	c
-922604	c
-922606	det.
-922609	c
+NA
 c
 a
 c
+det.
 c
-a
+NA
+NA
 c
-a
 a
+NA
 c
+NA
 c
 det.
-922622	c
-922624	det.
-922627	c
-det.
-c
 a
-922632	c
+NA
+a
+NA
+NA
+c
+NA
+NA
 det.
+NA
 c
 c
-a
-922638	det.
+NA
 c
 a
-922642	det.
+NA
 c
-a
-922646	det.
+det.
 c
-a
-922650	det.
+det.
 c
-a
-922654	det.
+NA
+NA
 c
+det.
+NA
 a
-922658	det.
-c
 a
-922662	c
+NA
+NA
+NA
 c
-922666	c
 c
-922670	c
-922672	det.
-922675	c
+det.
+NA
+NA
+NA
+NA
 c
-a
 c
-a
+NA
 c
-a
+NA
 c
-a
+NA
 c
 a
+NA
 c
+NA
 c
 a
-c
+NA
+NA
+NA
 a
+NA
 c
+det.
+NA
 a
-922695	c
+NA
+NA
 c
-c
-c
-a
-922702	c
+NA
+NA
+det.
+det.
+NA
 c
+det.
+NA
+det.
+NA
+NA
+det.
 c
-922709	c
-922711	det.
-922714	c
+NA
+NA
 c
+det.
 a
-c
 a
+NA
 c
-a
+det.
+NA
 c
-a
+det.
+det.
+NA
 c
 a
+NA
 c
-a
+NA
 c
 a
+NA
 c
-c
-922732	c
-c
-det.
-a
+NA
 a
-a
-a
+NA
 c
 a
+NA
 a
 a
+NA
+NA
 a
-a
+NA
+NA
+NA
 c
 det.
-c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-a
-a
+NA
 c
 det.
-922756	c
+NA
 c
+NA
+NA
 c
-det.
-922761	c
-922763	c
-922766	a
-922770	c
-a
-a
+NA
 c
-922776	c
-922778	c
 a
+NA
+NA
+NA
 a
-c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
 c
-a
-922785	c
 c
 det.
-922789	c
-c
-922792	c
 c
+NA
+NA
 a
-922796	a
-a
-922799	det.
-922801	a
+NA
+NA
+NA
+NA
 c
 a
-922805	det.
-det.
 a
-922809	c
-c
 a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
-922815	c
+NA
+NA
 a
+NA
 c
-a
+det.
+NA
+NA
+NA
 a
-922821	c
+NA
 c
+NA
 a
-922825	det.
 a
-c
+NA
+NA
 a
-c
 a
-922832	c
+NA
 a
-c
+NA
+NA
 a
+NA
 a
-922838	a
-922840	a
 a
-922843	c
+NA
+NA
 a
-c
+NA
+det.
+NA
 a
+a
+NA
 c
 c
+NA
 c
+NA
 c
 det.
-a
-922854	a
-922856	c
+NA
 a
-922859	a
-922862	c
+NA
 a
-922865	a
+NA
 c
-a
-a
-a
-922872	a
-det.
-922875	det.
+NA
+NA
+NA
+NA
 c
 det.
-922880	det.
-a
-a
-a
-922885	c
+det.
+NA
+NA
+c
+c
 c
 a
+NA
+c
 a
-922890	a
-922892	a
-922894	a
+NA
+c
+NA
+c
 a
-922897	c
+NA
 c
 a
-922901	a
+NA
 det.
-922904	a
-922907	a
-922909	a
+NA
 c
 a
+NA
+NA
 c
 a
+NA
 c
+a
+NA
 a
+NA
 c
+a
+NA
 c
 a
-922920	a
-922922	det.
+NA
+c
+c
 a
+NA
+det.
+det.
+NA
 c
 det.
-922927	c
 c
-a
-922931	det.
-a
-a
 a
+NA
+NA
+NA
+NA
 c
 c
-a
-922939	c
+c
 a
+NA
+c
 a
-922943	c
+NA
+NA
 det.
-922947	det.
-a
+NA
 a
+NA
+c
+NA
+NA
+NA
 a
-922952	a
-922954	a
-922956	c
+NA
+NA
 a
+NA
+NA
 c
+NA
+NA
+det.
+NA
 c
-a
-922962	c
 c
-a
-a
-a
-922969	c
 c
-922972	a
-a
-922975	det.
-a
-922978	a
-922980	a
-922982	a
+det.
+NA
+c
 c
 det.
-a
-922987	a
-922989	c
-a
-a
-922993	det.
-a
-a
-922997	a
-a
-923000	det.
-923002	det.
-a
-923007	a
-a
-923010	c
 det.
-c
+NA
 a
+NA
+NA
 c
-a
+NA
 c
-a
-923019	a
-923022	a
-923024	c
-a
-923028	c
+c
 det.
-a
 c
-a
-a
-923035	det.
+NA
+NA
 c
-det.
-a
+NA
+c
+NA
 a
-923043	c
-923045	c
-923047	a
+NA
+NA
+c
+NA
 c
 a
-923052	c
+NA
+NA
+c
+c
 det.
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
 det.
 det.
-923058	c
 det.
-a
 c
-a
-923065	c
+NA
+c
 det.
-923068	c
-a
-923071	c
+NA
+c
+NA
+NA
+c
 a
-923075	det.
+NA
+c
+NA
+NA
+NA
+NA
 det.
-923078	c
-a
-923081	c
+NA
 a
-923084	c
+NA
+c
+NA
+NA
+c
 a
-923088	det.
-det.
-923091	c
+NA
+c
 a
+NA
 a
+NA
+NA
 c
 a
-923097	c
+NA
 a
+NA
 c
-923102	a
+NA
+c
 a
-923107	c
-923109	c
-923111	c
+NA
 c
+det.
+NA
 a
-923117	c
+NA
+det.
+NA
+c
+NA
 c
 det.
 det.
+NA
+c
 det.
+NA
+NA
 c
-a
-923125	a
-923127	det.
 det.
+NA
 c
-a
-923132	a
-923134	c
-a
-923137	c
-a
-923141	c
+NA
+NA
 c
-a
-923145	c
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+c
+NA
 a
-923148	c
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
 c
+NA
+NA
 c
-923153	c
+NA
 c
+NA
 c
+NA
+NA
 c
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+NA
+c
+c
 a
-923161	c
-923163	det.
-923166	c
+NA
 c
-923169	a
 a
-923172	a
+NA
 c
 a
-923177	a
-923179	c
-det.
-923183	c
-923185	a
-923188	a
-923190	c
+NA
 c
+NA
 a
+NA
+c
+NA
+c
 a
-923195	det.
-det.
-923198	c
+NA
 a
-923201	det.
+NA
+c
+c
 det.
+NA
+c
 a
 a
-923207	c
+NA
 c
+NA
 c
 det.
-923215	c
+NA
+a
+c
 c
 det.
+NA
 det.
+NA
+NA
 c
-a
-923222	c
-a
-923225	a
-923227	c
-a
-a
-923231	c
 c
 det.
+NA
+c
+NA
 a
-923236	det.
 det.
-923240	det.
-923242	c
+NA
 c
-det.
+NA
 c
 a
+NA
+NA
 c
-a
-923250	a
 c
-det.
-det.
-923255	det.
+NA
+c
 a
+NA
+NA
 c
 det.
+NA
 a
-a
+NA
+det.
+det.
+NA
 c
-a
-923264	c
-a
-923267	c
-a
-923270	a
-923272	c
+NA
 c
 c
 a
-923277	a
-923279	c
+NA
+c
 a
-923283	c
+NA
 c
 a
-923289	c
+NA
 a
-923292	a
+NA
 c
 a
-923296	c
-c
-923299	c
+NA
 a
+NA
 a
-923303	c
+NA
+NA
 a
-923306	a
-923308	c
+NA
+c
 det.
-923312	c
-a
-a
-923317	c
-a
-923320	a
-923322	a
-923324	c
+NA
+NA
+NA
 c
 a
-923328	a
 a
+NA
 a
+NA
 a
-923333	a
-923335	a
-923337	c
+NA
+c
 a
-923341	c
+NA
 c
+a
+NA
 c
 c
-923346	a
-923348	c
-det.
-923352	c
-a
 a
-923357	c
-a
-923360	c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
 det.
-923364	c
-a
+NA
+NA
+NA
 a
-923369	c
+NA
+c
+c
 a
-923373	a
-923375	c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
+c
+NA
 a
-923380	c
+NA
+c
+c
 a
-923383	c
+NA
 c
-det.
-923387	c
-923389	c
-det.
-923393	c
+NA
+NA
 c
-det.
-det.
-923398	c
-det.
+NA
 c
-923403	c
-a
-923406	a
+c
+NA
+c
+c
 a
-923410	c
+NA
+NA
+c
+NA
+NA
+NA
 a
-923413	c
+NA
+NA
+c
+NA
+c
+NA
+c
 a
+NA
+c
 a
-923417	a
-923421	c
-923423	c
-923427	c
-923429	det.
-923431	c
-923433	c
+NA
+c
 a
-923436	a
-923438	a
-923440	a
+NA
+c
+NA
 c
+a
+NA
 c
 a
-923445	c
-923447	a
 a
-923450	c
+NA
 c
+a
 c
-923458	det.
 c
-923461	c
+NA
 c
 a
-923465	c
+NA
 a
-923468	a
-923470	a
-923472	c
+NA
+c
 a
-923475	c
 a
+NA
 c
-923480	a
-923482	c
-923484	c
-det.
-923490	c
 a
-923493	c
+NA
+NA
+NA
+c
+c
 a
-923496	a
-923498	c
+NA
 c
+a
+NA
 c
-923502	c
-det.
-923505	a
-923507	det.
-923509	c
 c
 a
+NA
+c
 a
-923515	c
+NA
 c
+NA
 c
-923520	c
+a
+NA
 c
-det.
-923524	c
+NA
 a
+NA
+c
+c
 a
-923528	c
+NA
+NA
 a
-923533	det.
-det.
-923536	c
-det.
 a
+NA
 a
-923541	c
-923543	a
+NA
 c
-a
 a
+NA
+NA
 c
+c
+NA
+c
+c
+c
+c
+c
 a
-923550	c
+NA
+a
+c
 a
-923553	a
-923555	c
+NA
 a
+NA
+c
 a
+NA
 c
 a
-923561	a
-923563	c
+c
 a
-923566	c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
 a
+NA
+NA
 c
+c
 a
-923571	c
 a
-923574	c
+NA
 c
+NA
+c
 a
-923579	det.
-923582	det.
-det.
-923585	a
-923587	c
+NA
+NA
 c
 c
-det.
-923592	c
 c
-923595	det.
-923598	c
-det.
-923601	c
-det.
-923604	c
-det.
-923607	c
-det.
-923610	c
-det.
-923613	c
-det.
-923617	c
-det.
-923620	c
-det.
-923624	a
+NA
+NA
 a
-923628	c
+NA
 c
 c
-det.
-923633	a
 a
-923636	det.
-923638	c
-det.
-923641	det.
-923644	det.
-923646	c
+NA
 c
-det.
-a
-923651	a
-a
-923654	a
 c
-a
-923659	det.
-det.
-a
-a
-923665	c
-a
-923668	a
-923671	c
-det.
-923675	det.
-923678	c
 c
+NA
 c
-det.
-det.
-det.
-923685	a
-923687	c
 c
-det.
-923691	c
-923693	c
+NA
 c
-a
-923697	a
-923700	det.
-923702	c
-det.
-923707	c
-det.
-det.
-923711	c
-923713	c
-923716	det.
-923718	c
-det.
-923722	a
 c
-a
-923726	det.
-923729	c
-det.
-923733	c
+NA
+NA
 c
-923737	a
-923740	a
-923743	det.
-923745	det.
-a
-a
 c
+NA
 c
-a
-923753	det.
-det.
-923756	a
-a
-923759	c
-a
-923762	c
-923765	c
-a
-a
-923771	det.
-a
 a
+NA
 a
-a
-923777	a
+NA
+NA
 c
 a
-923781	c
-923783	c
-det.
-923787	c
-923789	c
-det.
-923792	det.
-923795	a
+NA
+NA
 c
-det.
 a
 a
-a
-923802	c
-a
-923805	det.
-923807	c
+NA
 c
-det.
-923811	a
-a
+NA
+NA
 c
-a
-a
-923817	c
+NA
 c
-a
-923821	a
+NA
+NA
 c
-det.
-923825	c
-det.
-923828	c
-a
 c
-det.
-923835	det.
-923837	det.
-a
-a
-a
-a
-923843	c
+NA
+NA
 c
-a
-923847	c
-923849	c
-det.
-a
-a
-923854	a
-923857	det.
-923859	c
-det.
-a
-a
-a
-a
-923866	det.
-det.
-923869	det.
-923871	c
-det.
-923875	a
-det.
-923878	c
+NA
+c
+NA
+c
+c
+NA
 a
 a
-923882	c
-923885	det.
-923889	c
-923891	c
-923894	c
-923896	c
-923898	det.
-923900	c
-det.
-923905	c
-det.
-923908	det.
-923910	a
-923912	c
-det.
-923915	c
-det.
-923918	c
-det.
-923922	c
-923924	det.
+NA
+NA
 a
-923927	c
+NA
+c
+NA
+NA
 a
-923931	c
-923933	c
-923935	det.
-923937	c
-det.
-923942	c
 c
-det.
-923946	c
 c
-det.
-923951	a
-a
-923954	det.
-det.
 c
 a
+NA
+c
 a
+c
 a
-923961	a
+NA
+c
 a
+NA
 c
 a
-923966	a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+c
 c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
 a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
 c
-923973	c
+c
 a
-923976	c
+NA
+c
 a
-923979	c
+NA
 a
-923984	det.
-923986	c
-det.
-923991	c
-det.
-923995	c
+NA
+NA
 c
 a
-924000	a
-det.
+NA
 a
-924004	c
-det.
-924007	a
-924010	c
-det.
-det.
+NA
+NA
+NA
 a
-924015	a
-924020	c
-det.
-924023	c
-924025	c
+NA
+NA
 c
-924028	a
-a
-924032	c
+NA
+NA
+NA
 c
+NA
+c
+det.
+NA
+NA
 c
+NA
 c
-924037	c
 c
 c
 a
+NA
 a
-924043	c
 c
 c
-det.
-924048	c
-det.
-924051	c
+NA
+NA
 c
-a
-a
-924056	a
-924058	a
-924060	a
-924063	a
 a
-924066	a
-924069	a
+NA
+NA
+NA
 c
-det.
-a
-924074	c
-det.
-924077	a
-a
+NA
 a
-924081	c
+NA
+NA
+NA
 a
 a
 a
-924086	det.
+NA
 a
-924089	det.
+NA
 a
+NA
+NA
 a
-924093	a
 c
-det.
-924098	det.
-924100	c
 c
-det.
-a
 c
 a
-924107	a
+NA
 a
-924110	det.
+NA
+NA
 a
-924113	a
-924115	a
-924117	a
-924120	c
 c
-det.
-924125	det.
-924129	det.
-924133	a
-924136	a
-924139	a
+NA
+NA
+NA
+NA
 c
 c
-924144	c
-924146	c
+a
+NA
+NA
 c
 a
-924151	c
-924157	c
+NA
+NA
+c
+NA
+c
+c
 a
+NA
+NA
+NA
+NA
 a
-924161	a
-924163	c
-924165	c
+NA
 c
-924168	c
-924174	c
-924176	c
-924178	c
-924180	det.
-924183	det.
-924187	det.
-924189	c
-924193	a
-det.
-924196	det.
-924198	c
-924204	c
-924212	c
-924214	c
 a
-924218	c
-924221	c
-924223	c
-924226	c
-924229	c
+NA
 c
-det.
+NA
+NA
+NA
 c
 a
-924236	c
+NA
+NA
+NA
+NA
 c
-924239	c
 a
-924243	c
+NA
+NA
+NA
+a
+NA
+NA
 c
 c
-a
-924249	c
 a
-924252	c
+NA
+NA
+NA
+NA
 c
+c
+a
+NA
+NA
+NA
+NA
 a
-924257	c
 a
-924260	c
-924263	a
-924265	c
-924269	det.
-924273	c
+NA
 c
-924278	c
-924281	c
-924284	a
-924287	a
 c
-924291	c
-det.
-924295	c
-det.
-924300	c
-924302	c
-924306	c
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
-det.
+NA
+NA
+NA
+NA
 c
+a
+a
+NA
 c
+a
+NA
 a
-924313	c
+NA
 a
+NA
+NA
+NA
 c
-924317	c
+NA
 c
 a
-924321	c
+NA
 c
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
+c
 a
-924327	c
+NA
+c
 a
+NA
 c
 a
+NA
 c
+c
 a
-924334	c
+NA
+NA
+c
 a
-924337	c
+NA
 a
+NA
 c
-a
+c
+NA
+c
 a
-det.
+NA
 a
-924345	c
+NA
+NA
 c
-924348	a
-924350	c
 a
-924353	c
+NA
 c
-924356	a
-c
 a
 a
-924361	a
+NA
 c
 a
-924365	a
+NA
 c
 a
+NA
 c
 a
-924371	c
+NA
+NA
 a
+NA
 c
+a
 a
 c
 a
-924379	c
+NA
+det.
+NA
+NA
+c
 c
 a
+NA
+NA
+NA
 c
 a
-924385	c
 a
+NA
+NA
 c
 a
-924390	c
+NA
 a
-924393	c
+NA
+NA
+c
 a
-924398	c
+NA
 c
-924404	det.
-924407	c
 c
-924410	c
-924413	a
-924417	det.
 a
-c
+NA
+NA
 a
-924423	c
-924425	c
-924429	c
-det.
-924434	a
-924436	a
-924439	det.
-924442	a
-924444	a
 a
-924447	c
-c
-924452	c
+NA
 c
-924455	a
 a
-924458	c
-c
-924461	c
-c
-924464	c
 c
-924467	det.
-924471	det.
-924477	c
-924479	c
-c
-924482	a
-924485	c
-924488	c
-c
-det.
-924492	c
-924498	c
-924500	a
-924503	a
 a
-924509	c
-924513	c
+NA
 c
-924526	a
-924528	a
-924531	a
-a
-924534	a
 a
-a
-a
-924540	c
+NA
+NA
 c
 c
 a
-924546	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-924551	c
 c
-924555	c
 c
-924558	c
+NA
 c
-924561	c
 c
-a
-924565	c
+NA
+NA
 c
+NA
 c
-924569	c
-a
-924572	a
-a
-924575	c
-a
-924581	a
-924584	c
+NA
+NA
 c
-924587	c
-a
-924591	c
 c
-a
-924596	c
-a
-924599	a
-a
-a
-924605	c
+NA
 c
-a
-924611	c
+NA
+NA
 c
+NA
 c
-924615	a
-924617	c
-924622	c
-924624	a
-924626	c
-924628	a
-924632	c
-a
-924635	c
+NA
 c
-det.
-924640	c
 c
-a
-924644	c
+NA
 c
-a
-924648	c
+NA
+NA
 c
 a
-924652	c
-924655	c
 c
 c
-924659	c
 c
-a
-924664	c
-924666	c
+NA
+c
 a
-924669	c
-det.
-924673	c
-924676	c
-924678	c
 c
-det.
-924682	c
 c
-a
-924689	c
+NA
 c
-924697	a
+a
+NA
+NA
+NA
 c
-924700	c
 a
-924704	a
-924706	c
 a
-924709	c
 c
-924712	c
 c
-924715	c
-c
-a
-924720	a
+NA
 c
 c
-924725	c
 c
-924728	c
+NA
+NA
 c
-924731	c
 c
-924734	c
 c
-924739	c
 a
-924742	c
-924744	c
+NA
 c
-a
+NA
 c
-924749	c
-924752	c
-a
-924755	c
 c
-924758	c
+NA
 c
-924761	det.
 a
-924764	c
+NA
 c
-924769	c
-c
-a
-924775	a
 a
-924778	c
 c
-924781	c
-c
-924784	c
-924786	c
-a
 a
-924790	a
+NA
 a
-924793	a
-924795	a
-924797	a
-924800	c
-det.
-924804	c
 a
+NA
 c
 c
-a
-924810	c
-924812	c
-det.
-924815	c
-924817	c
+NA
 c
-924820	c
-924822	c
-924824	a
-924827	c
-a
-924830	c
-a
-924834	c
-a
-924837	c
 a
-924840	c
 c
 a
-924844	c
+NA
 c
 a
+NA
 c
 a
-a
-924851	c
-924853	c
+NA
 c
-924856	c
-924858	c
 a
-924861	a
+NA
 c
-924864	c
-924866	c
-a
-924869	c
+NA
 a
-924872	c
+NA
+NA
+c
 a
+NA
+NA
+NA
 c
 a
-924877	c
+NA
+NA
+c
 a
-924880	a
-924882	c
+NA
+c
+NA
+c
 a
-924885	c
-924888	a
-924892	a
-924896	c
+NA
 c
-924900	c
-924902	c
-924904	c
+c
 a
-924907	c
-924912	c
+NA
 c
-924915	c
-924917	a
-924925	c
 a
+NA
 c
-det.
+c
 a
-924931	det.
-924934	c
-det.
-924937	det.
-924939	c
+NA
+NA
+NA
 c
-det.
-924946	c
-924948	c
-924952	c
+NA
+NA
+NA
 c
 c
-924962	c
+a
+NA
 c
 c
-924969	a
 c
-924973	c
 c
-924976	c
 c
-924979	a
+NA
 c
 c
-924983	a
+NA
 c
-924986	a
-924988	a
 a
-924991	c
+NA
+c
 a
-924994	a
+NA
+NA
 a
-924997	c
-c
-925000	a
-c
-c
 c
-925005	c
-c
-925008	a
+NA
 a
-925011	c
+NA
+NA
 c
+NA
+NA
+a
+det.
+NA
+NA
 c
 c
-925016	a
+det.
+NA
+NA
 c
 a
-925020	c
-925023	c
 a
-925027	c
+NA
 c
-c
-a
-925032	a
-925036	a
-925039	c
-925043	c
-925045	c
 a
-925049	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-925055	c
-925057	c
-a
-925060	a
-925062	c
-925065	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-925069	c
+a
 c
+NA
 c
-925074	c
 a
-925078	c
+NA
+NA
 a
-925082	c
-925084	c
-a
-925090	c
-925092	c
+NA
+NA
+NA
 c
+NA
+NA
 a
-925096	c
-925100	a
-925102	a
+NA
+c
 c
+NA
+NA
+NA
 a
-925107	a
-925110	c
-925113	c
 c
-925119	c
+NA
 c
-925122	c
+NA
+NA
+NA
 c
+NA
 c
+NA
 c
-a
-925128	c
-a
-925133	c
-a
-925138	c
 c
-925142	c
+NA
+NA
+NA
 c
-925147	c
-925151	c
-925154	c
-925158	a
 c
-925163	a
+NA
 c
 c
-925168	a
-925170	a
-925172	c
-925177	c
-a
-925180	a
-925183	c
-925185	a
-925187	c
+c
+NA
+NA
+c
+NA
+NA
+c
 a
-925191	c
+NA
+c
+c
 a
-925194	c
+NA
+c
+NA
 a
-925197	c
 c
+NA
+NA
+det.
 c
 a
-925202	a
-925208	c
+NA
+c
+det.
+NA
 a
 c
-925212	c
-925215	c
 c
-925219	det.
-925221	c
-det.
-925224	c
-925226	c
-det.
-925230	det.
-925232	c
-925236	c
+NA
+NA
+a
 c
-det.
-925242	c
 c
 c
-925247	det.
-925249	c
 c
+NA
 c
-det.
-925256	c
-925258	c
-925261	c
+NA
+NA
 c
-925264	c
 a
-925270	a
+NA
 c
-925273	det.
-a
-925276	c
-925278	c
-a
-925281	c
+NA
 c
-925285	a
-925287	c
+NA
 a
-925290	c
+NA
+NA
+NA
+NA
+NA
 a
-925294	a
-925296	a
-925299	c
-925301	a
+NA
+NA
+NA
 c
+NA
+NA
 a
-925306	c
+NA
+NA
 a
-925309	a
-925311	c
-925313	c
-925316	c
 a
-925319	a
-925321	c
-a
+NA
+c
+det.
+NA
 c
+NA
+NA
+NA
 a
-925326	c
-a
-925329	c
-a
-a
-a
-925335	c
-a
-c
-a
-925341	c
-a
-925344	c
 c
-a
-925349	c
+NA
 c
-925352	a
-925355	a
+NA
+NA
 c
-a
-det.
-det.
-a
-925362	c
-925365	c
+NA
 c
-925368	c
-925374	c
-a
-925378	c
 c
 c
-925384	c
-925386	c
+NA
+NA
 c
-925390	c
+NA
 c
-925393	c
 c
-925398	a
-925400	c
-925402	c
-a
-925406	c
+NA
+NA
 c
-925409	a
-a
-925413	c
-925415	a
-925418	c
-925421	a
-925423	c
+NA
 c
 c
-925430	c
+NA
 c
-925434	c
 c
+NA
+NA
 a
-925438	c
-925441	c
-925444	a
-925446	c
+NA
 c
-a
-925450	c
-a
-925453	a
-925455	c
-a
-925458	a
-925460	a
+NA
 c
+NA
+NA
+NA
+a
 c
-925464	c
+det.
+NA
 c
-925467	c
-925469	c
-925472	a
-925475	c
-925477	a
-925480	a
-925483	c
 c
-a
-925487	c
+NA
 c
 a
-925493	c
-925495	a
+NA
+NA
+NA
+NA
+NA
 c
-a
-925500	a
-925502	c
-det.
-925505	c
+NA
 a
-925508	c
+NA
 a
-925511	a
-925514	c
 c
+NA
 c
-c
 a
-925520	c
-det.
-925525	c
 c
-det.
-925529	c
+NA
+a
 c
+a
+NA
+NA
+NA
+a
 c
+NA
+NA
 a
-det.
+NA
+NA
+a
+NA
+NA
 c
-925536	c
-925538	c
+NA
+NA
 a
-925542	c
 det.
-925545	c
-det.
-925548	det.
-925550	c
+NA
 c
-det.
-925557	c
-925559	c
 c
+NA
+NA
+c
 det.
+NA
 c
+NA
 c
+NA
 c
-925566	c
 c
 c
-925574	c
-det.
-925578	det.
+NA
 det.
-925581	c
-a
-925584	c
-c
-c
-925600	c
-a
-925613	c
-925617	a
-925621	a
+NA
 c
-a
-925626	a
-c
 c
-925631	c
 c
+NA
+NA
 c
-925635	c
-925637	a
+det.
 a
-925640	c
 c
 c
 c
-925646	c
+NA
 c
+NA
 c
-a
-925653	c
 a
-925656	c
-a
+NA
+c
 det.
+NA
+c
 det.
-925661	c
+NA
 a
-c
-925665	a
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
 c
-a
-a
-925671	det.
-925673	c
-a
-925676	c
-925678	c
-925680	c
 c
-925684	a
-925686	c
 det.
-925690	c
+NA
+NA
 c
-925693	a
-925695	c
-det.
-det.
-925700	c
+NA
 c
 c
+NA
+NA
+NA
 c
+NA
 a
-925706	a
-925709	det.
-925711	c
 det.
-925715	c
+NA
+c
+c
 det.
-925719	c
+NA
+c
 det.
-925723	a
+NA
+NA
+NA
+NA
+c
+NA
 c
+NA
+c
 det.
-925729	det.
-a
-a
-925733	det.
-925735	c
+NA
+NA
+c
+c
+NA
+NA
+c
 det.
-925738	c
+NA
+NA
+c
+NA
+c
 a
-925741	c
-925745	det.
 a
+NA
+NA
 a
-925750	c
-925752	c
+NA
 c
-a
-925756	c
-a
-925759	a
+NA
+det.
+NA
 c
-925762	c
 c
+NA
 c
-det.
-a
-a
+NA
+c
 a
-925770	c
+NA
+NA
+NA
+NA
 a
-925773	det.
-925775	c
+NA
 c
-det.
-925780	a
-925784	c
-det.
-925787	c
-925789	c
-925791	c
-a
-925794	c
-det.
-925797	c
-det.
-925800	det.
-925802	a
-925804	c
-det.
-925807	det.
+NA
+c
 a
-925810	a
-925813	c
-925815	c
+NA
+NA
+NA
 c
+c
+NA
 a
-925819	c
-det.
-925825	c
-925827	c
 a
-925831	c
-925833	c
+NA
 c
-det.
-925837	det.
-925840	c
-det.
-925843	c
+NA
 a
+NA
+NA
 a
-a
-925848	det.
-925851	c
-det.
-925855	a
-925857	det.
-925860	c
-925863	c
-det.
-925868	c
+NA
+NA
+c
+NA
+c
 det.
-925873	c
-925876	c
-925878	c
-925883	c
+NA
+NA
 c
-925887	a
+NA
 c
-925892	c
 a
-925898	c
+NA
+NA
+c
+NA
+NA
 c
-925902	c
 a
+NA
 a
-925906	c
+a
+NA
+NA
 c
-925915	c
-925918	c
-925920	c
-925922	a
-925924	c
-925926	c
-925933	a
-925940	a
-925942	a
-925945	a
+NA
 c
-925948	c
-925952	c
-925954	c
-a
-925957	a
-925959	c
 c
-a
 det.
+NA
 c
-925965	c
-925968	c
+NA
 c
+det.
+NA
 c
 a
-925974	c
 a
-925977	c
+NA
+NA
 c
-925980	c
-a
-det.
-925985	c
-925988	c
 a
-925991	c
-925993	a
-c
-925996	a
-925998	a
-926000	c
+NA
 a
-926003	c
-926005	a
+NA
+NA
 c
-926009	c
-926012	c
-a
-926015	a
-926017	a
-926019	c
+NA
 c
 c
-926024	c
-a
-926028	c
+NA
+NA
 c
-926032	c
 a
-926036	c
-926039	c
-c
-926042	c
-926044	c
-det.
-det.
-926048	det.
-926051	c
 c
-det.
-926055	det.
 a
-926058	c
-det.
-926061	c
 a
-926064	c
-926067	det.
-926069	det.
 a
+NA
 a
+NA
 c
-a
-926076	c
+NA
 c
 c
-a
-926081	c
-a
-926084	a
 c
-926087	c
 c
-926090	det.
-926093	c
+NA
 det.
+NA
 c
-det.
-926098	c
-a
-926101	c
-det.
-926104	c
-926106	c
-det.
-det.
-926111	c
-926113	c
-926115	c
-det.
-926118	c
-det.
-926121	det.
-926123	a
-926125	c
-926127	det.
-a
-926130	a
-926132	a
-926135	det.
+c
+c
 det.
-a
-926140	c
 c
-a
+NA
 det.
-926148	c
+NA
 c
-926151	c
-a
-926154	c
+NA
 a
-926157	c
-926161	c
-926166	a
-926171	c
+NA
 c
+NA
+NA
 c
-926176	c
+NA
 c
-a
-926180	det.
-det.
-926183	det.
-c
 det.
-926189	c
+NA
+NA
 c
-det.
-926195	a
-926197	c
-926199	c
-det.
-926202	c
-926204	det.
-det.
-926207	c
-det.
-926210	det.
-926212	det.
 c
-926215	det.
-926220	c
-926226	a
+NA
 c
 c
-a
-926233	c
-926237	c
-a
-926241	a
-a
-926244	c
+NA
 c
+NA
+NA
+NA
 c
-926248	c
-926252	c
-det.
-926256	c
 c
-926260	a
-926262	a
-926273	c
-926275	det.
-926279	c
 c
-926283	c
-a
-926286	c
 c
-a
-926291	a
-926293	c
+NA
 c
-926297	det.
 c
-926300	c
-a
-926304	det.
-926309	c
 c
-926314	c
-a
-926319	a
-926321	det.
-926324	c
-det.
-926329	a
-926331	c
-926339	c
-926341	c
-926343	c
-926345	a
-926347	a
 c
-926350	c
-det.
-926353	a
-926355	c
+NA
 a
-926359	c
 a
-926362	c
+NA
 a
-926365	c
+NA
 c
-a
+NA
+NA
 a
-926370	c
-926372	c
 c
-926375	c
-926377	c
-926379	c
 a
-926382	c
-a
+NA
 c
-926386	c
 c
-a
-926390	c
-926395	c
+NA
 c
+NA
+NA
 c
 c
-926401	c
-a
-926404	a
-926410	c
-926414	c
-a
-det.
-det.
-926419	det.
 det.
-926422	a
-926424	det.
-926427	det.
-926430	c
-det.
+NA
 c
-a
-926435	c
-926438	c
 c
-det.
-det.
-926443	a
-926447	c
 a
-926452	c
+NA
+NA
+NA
 det.
-926456	c
+NA
 c
-det.
-926460	c
-926462	c
-a
-926468	c
-926470	c
-926474	c
-926477	a
-926480	c
-926482	a
-926485	a
-926488	a
-a
+NA
+c
+NA
+NA
+c
 a
-926492	a
+NA
+NA
 c
 c
-926497	c
 a
+NA
+NA
+c
+NA
 a
-926502	a
-926504	a
-926506	c
+NA
 c
 a
-926510	c
+a
+NA
 c
+det.
+NA
 c
+NA
+NA
 c
+det.
+NA
 c
-a
-a
-926518	c
+NA
 c
 c
-926523	c
-926530	a
-926534	c
-a
-926540	c
-a
-926544	c
-926546	c
-926548	c
-926550	c
-926552	a
-926557	c
-926560	c
-a
-a
-926565	a
-926567	a
-a
+NA
+c
+NA
+NA
 a
+NA
 c
-926572	a
-926575	a
-926577	a
+NA
 c
-926582	a
 c
+NA
+NA
 c
-a
-926592	a
-926596	c
+NA
+NA
+c
+NA
+c
+det.
 a
-926599	a
+NA
 c
-926606	c
+NA
+NA
 c
 c
+det.
+NA
 a
+NA
+NA
 a
+NA
+NA
 a
-926615	c
-926617	c
+NA
 c
-926620	c
 c
-926624	c
-a
 c
-926628	c
-a
-926631	a
-926634	c
+NA
 c
-a
-926638	a
 c
-a
-926642	a
-926645	c
-a
-926650	c
-926652	a
-926654	c
+NA
+det.
 c
-926657	c
 c
 det.
+NA
+NA
 a
-926663	c
+NA
+NA
 c
-c
-926668	c
-926670	c
+det.
+NA
+a
+NA
+NA
 c
-926673	a
-926675	c
 a
-926678	a
+NA
+NA
 c
-926684	c
 a
-926687	c
+NA
+NA
 c
-926690	c
 a
-926693	c
+NA
 c
 c
-926698	c
-926700	c
+det.
 a
-926706	c
+NA
+det.
+NA
+det.
+det.
+NA
+c
+det.
+NA
+c
 c
-926710	c
+det.
+NA
+det.
+NA
+det.
 c
-926713	c
+det.
+NA
 c
-926717	a
-926721	c
-926724	c
-926730	c
+det.
+NA
+det.
+NA
+NA
 det.
-926733	a
-926739	c
-926741	c
-926744	c
-926749	c
-926751	c
-926754	c
-926756	c
+NA
+det.
+NA
 c
-926759	c
-926763	c
-926765	c
+a
+NA
 c
+NA
 c
-926769	c
-926771	c
-926776	c
-926778	c
+det.
 c
-926783	c
-926785	c
 c
-926788	det.
-926790	c
+det.
+NA
+NA
 c
-926793	c
-926795	c
-a
 c
-926799	c
+det.
+det.
+NA
+NA
+NA
 c
-926802	c
-926805	c
-a
-926809	c
 c
-a
-926814	c
-926816	c
-926818	c
-a
-926821	a
-926823	c
-926825	c
-926827	c
-926830	c
-926832	c
-a
-a
-a
-a
-926838	c
+NA
+det.
+NA
 c
 a
 a
-926845	c
+NA
 a
-926848	c
-c
+NA
 c
-926852	c
 c
+det.
+NA
+NA
+NA
 c
 a
-926858	c
+NA
 c
-a
-926862	c
 a
-926866	a
-926868	c
 a
-926872	c
+NA
+NA
+NA
+NA
+c
 a
-926875	a
-926878	c
+NA
 c
-926882	c
+det.
+NA
 c
-926886	c
+a
+NA
 c
 c
-926894	c
 a
-926897	c
+NA
 a
 a
-926901	a
-c
+NA
 a
-926905	a
+NA
 a
-926908	a
+NA
 a
-926912	c
+NA
 a
-926915	c
-c
-926918	a
 a
+NA
+c
+NA
 c
 a
-926923	a
-926925	c
+NA
 a
-926928	a
-926930	a
-926932	a
-926935	c
-926937	a
-926939	c
-926942	c
-c
-926945	c
-926948	c
+a
+a
+NA
+NA
+NA
+NA
 c
-926951	c
-926953	c
+NA
 c
-926956	c
+det.
+NA
+NA
+NA
+NA
 c
-926959	det.
-926961	c
+NA
 c
-926964	a
-926967	a
-926969	c
 c
-926972	c
 c
-a
-926976	c
-a
-926982	c
-a
-926985	c
-926989	a
-926991	c
-926993	c
+det.
+NA
 c
-926998	c
-927003	c
 a
-927006	c
+NA
 c
-a
-927011	c
+NA
+NA
 c
 a
-927021	c
-927024	c
+NA
+NA
+NA
 c
-927029	a
+NA
 c
-a
-927033	c
-927035	c
-927039	c
-927041	c
 det.
-927045	c
-a
-927048	c
+NA
+NA
 c
-det.
-927052	a
+NA
+NA
 c
+NA
+NA
+det.
+NA
 a
-927056	c
 a
+NA
 c
-a
 c
+det.
 c
-a
-927064	c
-a
-a
-927068	a
-a
-927071	a
-927077	a
-927079	c
-a
+NA
+NA
 c
-a
-927085	c
-927090	c
-927095	c
-a
-927098	c
-a
-927101	c
-a
-927104	c
-927107	a
-927110	c
-927113	det.
 c
-927118	a
+det.
+NA
+NA
+NA
+det.
+NA
+NA
 c
 c
-927122	c
-927125	a
-927127	c
 c
-a
-a
-a
-927133	c
-927138	a
-927140	c
-927143	c
+NA
+NA
 c
-a
-927147	c
 a
-927150	c
+NA
+det.
 a
 c
-a
-927155	c
-a
+det.
+NA
+NA
+NA
+NA
+NA
 c
-a
-927160	c
-a
+NA
+c
+c
+NA
 a
-927164	a
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-927168	a
-927170	c
-927174	c
-927176	c
-927178	c
 c
-a
-927183	c
-927185	c
 c
-927188	c
 a
-927191	c
-a
+NA
 c
 c
-927196	a
-927198	c
+NA
 c
+NA
 c
-927202	det.
-927204	c
+NA
+NA
 c
-a
-927210	c
-927212	c
-a
-927216	c
-927218	a
+NA
+c
 c
 c
+det.
+NA
 c
+NA
+NA
 c
-927226	c
+a
+NA
 c
+NA
+NA
+NA
 a
-927230	c
+a
+NA
+NA
+a
+det.
+det.
 a
-927233	a
-927240	c
-927243	c
-927245	a
-927248	c
+NA
 c
-927251	c
+NA
 c
-927255	c
+det.
+NA
+det.
+NA
+c
+det.
+NA
+a
+NA
 c
-927258	c
+det.
+NA
+det.
 c
+NA
+det.
+NA
 a
-927262	c
+NA
 a
-927265	c
+NA
 c
-927269	c
-927271	c
+NA
 c
-927275	c
-927277	a
-927279	a
+NA
+det.
 c
 c
-927283	c
+det.
 a
-927286	a
-927289	a
-927292	c
-927294	c
 c
+NA
+NA
+det.
+det.
+NA
+NA
 c
-927301	c
+NA
+NA
+NA
+a
+a
 c
-927305	a
-927308	c
-927311	c
-927316	c
-927318	c
-det.
-927321	c
-927324	c
+a
+NA
+a
+NA
+c
+NA
 c
 c
 c
-927329	c
+NA
 c
-927334	c
 c
-927340	c
+c
+NA
 a
-927343	c
 a
-927351	a
 c
-927360	c
+NA
+NA
+NA
+NA
 c
+a
 c
-927364	c
-927368	c
+NA
+NA
+a
+NA
+NA
 c
-927371	c
+a
 c
-927374	a
-927377	a
-927379	c
+NA
+NA
+NA
+NA
+NA
 det.
-det.
-927383	c
-a
-927386	c
+NA
 c
+NA
+NA
+c
+c
 a
-927390	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-927394	a
-927396	a
-927399	c
-927402	c
+NA
+NA
 a
-927406	c
+a
+NA
+c
 c
 c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
-927412	a
-927415	c
-927419	c
-927421	a
-927425	a
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
+c
 a
-927430	a
-927432	c
+NA
+NA
+NA
+NA
+c
 a
-927437	c
-927439	c
-927444	c
-927446	c
-927449	a
-927451	c
-927453	c
-927456	c
+NA
+NA
+NA
+NA
 c
-927459	a
-927461	a
-927464	c
 c
-927467	c
-927470	c
-927472	a
-927474	a
-927478	a
-927480	a
-927484	det.
-927488	a
-a
-927493	c
-927496	a
-927498	a
-927500	c
-927502	c
-927505	c
+NA
+c
 a
-927508	c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
 a
-927512	a
+NA
 c
 a
-927516	c
-927519	c
-det.
-927527	a
-927530	c
+NA
+NA
+NA
+NA
+NA
+a
 a
-927534	c
+NA
 a
-927537	a
-927540	c
-927544	c
-927546	c
-927550	a
+c
 a
+NA
 c
-927554	c
 c
-927560	c
-927564	c
 a
+NA
+c
 a
+NA
+NA
+NA
 c
-927571	a
-927573	c
+NA
+a
+a
+NA
 c
-927579	c
 c
 c
 a
+NA
 c
-927586	c
-927591	a
-927593	c
-927595	c
-927599	a
-927602	a
-927605	c
+NA
+c
+NA
 a
-927608	c
-927610	c
-927613	c
-927615	a
-927618	c
-927621	c
+NA
+c
 c
-927625	c
+NA
 c
+NA
 c
+a
 c
-927630	c
 a
-927633	c
+NA
 a
-927637	a
-927641	a
+NA
 c
-927644	a
-927647	c
+NA
+det.
 c
-927651	a
-927654	c
+NA
+NA
 a
-927659	a
-927661	a
-927665	c
-927668	c
+NA
 c
-927671	c
-927675	c
-927679	c
-927681	a
+c
+NA
 a
-927684	c
+NA
+NA
+c
+c
+c
+NA
 c
 c
-927689	c
-927694	a
-927696	c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
 a
-927699	c
-927702	c
-det.
-927707	a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
 a
-927710	c
+NA
+c
 a
-927715	c
+NA
+c
 c
-927719	a
-927721	c
-927726	c
+NA
+NA
+NA
+NA
 c
 a
-927735	c
+NA
+NA
+c
+NA
+c
 a
-927738	c
-927747	a
-927754	a
-927756	c
+NA
+NA
+c
+c
+c
 a
-927759	c
+NA
+c
 a
-927763	c
+NA
+c
+c
 a
-927770	c
+NA
 c
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-927776	a
-927779	c
-927782	det.
-927785	c
 c
+a
+c
 c
-927789	c
-927795	c
 a
-927800	a
-927802	c
+NA
 c
-927807	a
-927809	c
 a
-927816	c
+NA
+NA
+NA
+NA
 c
-927820	c
+NA
+NA
+NA
+NA
 c
-927823	c
+NA
 c
+a
+NA
 c
-927829	c
+NA
 c
-a
-927833	c
+NA
 c
+c
+c
 a
-927838	a
+NA
+NA
+NA
 c
-927842	c
+NA
+NA
+NA
+NA
+c
+a
+NA
 c
 a
-927846	c
+NA
+c
+c
 a
+NA
+NA
 a
-927850	c
 a
-927855	c
+NA
 c
+a
+NA
 c
-927861	c
-927863	a
+a
+NA
 c
-det.
-927867	det.
+NA
+NA
 c
+a
+NA
 c
+a
+NA
+NA
 c
-927875	c
-927879	c
-927881	c
 c
 a
-927885	c
-c
-927895	c
-927897	c
+NA
+NA
+NA
+a
+NA
 c
-927900	c
-927902	c
-927905	c
+NA
+NA
+a
+NA
 a
-927908	c
-927911	c
-927915	c
+NA
 a
-927919	c
-927921	c
+NA
+NA
 c
-927925	c
-927927	c
 c
-927931	c
-927933	a
-927935	c
 a
-927939	c
-927941	c
+a
+NA
 c
 a
-927946	c
-det.
-927949	c
-det.
+NA
+NA
 c
+NA
 c
-det.
-927957	c
+NA
+NA
+NA
+NA
+NA
 a
-927962	c
+NA
+NA
+NA
+NA
 c
-927966	c
-c
-927970	det.
-927976	c
-927980	c
 a
-927986	c
+NA
+NA
+c
 c
-927989	c
-927991	c
+a
+NA
 c
-927994	c
 c
+NA
+NA
 a
-928002	a
-928007	c
-928009	a
+NA
+c
+NA
 c
-928014	c
+det.
+NA
 c
-928017	c
-928019	a
-928021	c
-928023	c
+NA
+NA
+NA
+NA
 c
-928027	c
-928029	c
-928031	c
 c
 c
-928037	c
-928039	c
+NA
+a
+NA
+NA
 c
+NA
+a
+NA
 c
+a
+NA
+NA
 c
-928045	c
-928048	c
+NA
 c
-928051	c
-928053	a
-928056	c
-928058	a
-928063	c
-928065	c
+a
+NA
 c
-928069	c
 c
-928076	c
+NA
+NA
+NA
 c
 a
+NA
+NA
 c
+a
 a
-928082	c
+NA
+a
+a
+NA
+NA
+NA
 c
-928087	a
-928089	a
 c
+NA
+c
+NA
 a
-928093	c
+NA
+NA
+c
+c
+NA
 a
-928096	a
-928098	c
+NA
 a
-928107	a
-928109	c
-928111	c
+NA
 c
-det.
-928116	a
-928118	a
 a
-928121	c
-det.
-928124	c
-928127	c
-c
-928132	c
 c
+a
+NA
 c
-928138	c
-928140	a
-928143	c
 a
-928146	a
+NA
+NA
 a
-928150	a
-928152	c
-928154	c
-det.
 c
-det.
-928159	a
-928161	c
+NA
+a
 c
-928164	c
+c
+NA
+NA
+c
 a
-928167	c
-928170	c
+NA
 c
-928174	c
 a
-928178	c
-928181	c
+NA
+NA
+NA
+NA
 c
-928184	c
 a
-928187	a
-928193	c
-928196	c
-928199	c
-928201	a
-928203	c
+NA
+a
+NA
 c
-928208	a
-928210	c
-928213	c
-928215	c
 a
-928218	c
-928220	c
+NA
+NA
+NA
+c
 c
-928223	c
-928225	c
+NA
+NA
+NA
+NA
 a
-928228	c
 a
-928231	c
+NA
+NA
 a
-928234	c
+NA
+NA
 a
-928237	c
+NA
+NA
+NA
+NA
 a
-928240	a
-928242	c
-928244	c
+NA
 a
-928247	c
-928250	a
-928252	c
+NA
 a
-928255	a
-928258	c
-928261	c
-928263	c
-c
-928268	c
-928270	c
 a
 c
-928275	a
-928277	c
+NA
+NA
 c
 a
-928281	c
 a
-928285	c
-928287	c
-928289	c
-c
-928292	a
-928294	c
-928297	c
-c
-928300	c
-928303	a
-928305	a
-928307	c
-c
-c
+a
 c
-928313	c
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
 c
-928318	c
+det.
+NA
+NA
 c
-928321	c
+det.
+NA
 c
-a
-928326	c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
 c
 a
-928331	c
+NA
+NA
 c
-928334	c
-928336	c
-c
-928346	c
-928350	c
-928352	c
-a
-928356	c
 det.
-928359	c
 det.
+NA
 c
 det.
-928364	c
-det.
+c
+NA
+NA
+NA
 c
+NA
+c
+det.
+NA
 det.
-928369	c
 det.
+NA
 c
 det.
-928374	a
-928377	a
-928379	a
-928381	c
-a
-928393	det.
-a
-928396	c
-928399	c
 c
+NA
 a
-928403	c
+NA
 c
 a
-928407	c
+NA
 c
+NA
 c
-a
-928412	c
 c
-928415	c
-928422	c
-928426	a
 c
-928432	c
-928436	a
-928438	c
 det.
-928442	c
+NA
+c
+NA
+a
+NA
+c
 det.
+NA
 c
+NA
+NA
+NA
 c
+a
+NA
 det.
-928448	c
 det.
-928452	c
 det.
-c
+NA
 det.
-928457	c
+c
+NA
 det.
-928461	a
-928463	a
-928466	c
-928469	c
 a
-928472	c
-c
-928476	a
-928478	a
-928480	c
-c
 a
-928484	a
-928487	a
-928489	c
-928491	c
+NA
 a
-928494	c
-928496	c
-c
-928500	c
+NA
+det.
+NA
 c
-928503	c
+a
+NA
 c
+det.
+NA
+NA
+NA
+NA
 c
-928507	c
+a
+NA
+NA
+a
+NA
+NA
 c
-928511	c
+NA
+NA
 c
-928514	c
+NA
 c
+det.
+NA
+a
 c
-928518	c
+NA
+NA
 c
-928522	c
 a
-928527	c
-928529	c
-c
-928532	c
+NA
+NA
 a
-928535	c
+NA
 a
-928538	c
-928541	c
 a
-928544	c
+a
+NA
+c
+NA
+NA
+NA
+c
+c
 c
-928547	c
+NA
 c
+NA
+det.
+c
 c
-928553	c
+NA
 c
+NA
 c
-928558	c
+det.
+NA
+NA
 a
 c
 c
+NA
 c
-928566	c
+NA
+NA
 a
-928569	a
-928571	c
+NA
 a
-928574	a
-928577	a
+NA
+NA
+c
+det.
+NA
 a
-928580	a
+NA
 a
-928583	a
-928585	c
+c
 c
+NA
+NA
+NA
+c
 a
-928589	c
 a
-928592	a
-928597	c
-928600	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
+a
+NA
+NA
 a
-928608	c
 a
-928612	c
+NA
 c
 c
+NA
 a
-928619	c
-a
-928622	c
+NA
 c
-928625	c
-a
-928628	c
 c
-a
-928632	c
-a
+c
+c
+NA
+det.
+c
+NA
+NA
+det.
+NA
+c
+NA
+NA
 c
+NA
+NA
 a
-928637	c
+NA
+NA
+c
+det.
+NA
 c
-928640	c
 c
+det.
+NA
 a
-928644	c
+NA
+NA
 a
-928648	c
+NA
+NA
 a
-928651	c
+NA
+NA
 c
-928655	c
-928657	c
-a
-928660	c
 a
-928664	c
-928666	c
-a
-928670	a
-928672	a
-928674	a
-928676	c
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
 a
-928681	a
-928683	a
 a
-928686	c
+NA
 c
-a
-928691	a
-928693	a
-928695	a
 c
+NA
+NA
 a
-928699	a
-928701	c
 a
-928706	c
+NA
+NA
+NA
 a
+NA
 a
-928710	c
+NA
 a
+NA
+NA
 a
-928714	a
-928718	a
-928720	a
-928723	c
+NA
+NA
 a
-928729	c
 a
-928732	c
+NA
 c
 a
-928736	a
-928740	a
-928742	c
+NA
+NA
+NA
 a
-928745	c
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+det.
+NA
+NA
 a
-928748	c
+NA
+NA
+NA
+NA
 a
-928751	c
 a
-928755	c
+NA
+NA
 c
-a
-928760	c
-a
-928763	c
+NA
+NA
 a
-928766	c
+NA
 a
-928769	c
+NA
+NA
 c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
 a
-928775	c
+NA
+NA
+NA
+NA
 a
-928778	c
+c
+NA
+c
+c
+NA
+c
+det.
+c
+NA
 c
 c
+c
+NA
 a
-928785	c
+NA
+NA
+c
 c
+c
 a
+c
 a
-928790	c
+NA
+NA
+det.
 a
 c
-928796	a
+NA
 c
+NA
+a
+NA
+NA
 a
+NA
 c
-928802	c
-928806	a
-928809	c
-928811	c
+NA
 c
 a
-928815	c
-928820	a
+NA
+c
+NA
 a
-928823	a
+NA
+c
+NA
 a
-928826	c
-928828	a
-928830	c
-928832	c
-928835	c
-928837	c
-928839	c
-det.
+NA
+NA
+c
 det.
-928844	c
-928846	c
 c
+NA
+NA
 a
-928850	a
-928852	c
-928854	c
-928856	c
-928858	a
+NA
 c
-a
-928862	c
-a
-928869	c
-928872	c
-928874	c
-928878	c
-928883	c
-928885	c
+NA
 c
-928888	c
-a
-928891	c
-928893	c
+det.
+NA
+NA
+c
+c
 c
+NA
 a
-928899	c
+NA
 c
 c
-928907	a
-928910	c
+det.
+NA
+NA
 c
+NA
 c
-928915	a
-928918	a
-a
-928921	c
-a
-928924	a
-a
-a
-928929	c
-a
-a
 c
 c
-a
-928936	a
-928938	c
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
 a
-928941	a
-928944	a
-928946	a
-928948	c
+c
+NA
 c
-928953	c
+a
+NA
 c
-928956	a
-928959	c
-928961	c
-928963	a
+NA
 a
-928969	c
-928971	a
-928974	c
-928978	c
-928981	a
-928983	c
-928985	c
-928989	c
-928995	c
+c
 c
+NA
+NA
 c
 c
+NA
 c
-929003	c
+det.
+NA
 c
+NA
 a
-929008	c
+NA
+NA
+NA
+NA
 c
+c
 a
-929012	c
 a
+NA
 c
-929017	c
+NA
 c
-929020	c
-929022	c
-a
-929029	c
-929033	a
-929035	a
-929037	c
+NA
+NA
 c
 c
-a
-929043	c
-929045	c
-a
-929048	a
-929050	c
-a
-929055	c
-929057	c
-a
-929061	c
-929065	c
 c
-929068	c
+NA
+NA
+NA
 c
-a
-929073	c
-929075	a
-a
-a
 c
-929080	a
-929083	a
-929086	c
-929088	a
-929090	c
-929095	c
-929097	c
-929099	c
-929102	c
-a
-929105	c
-929109	c
-929111	c
-929115	c
-929117	a
-929119	c
-a
-929123	c
-a
-929127	c
-929129	c
-a
-a
-929134	a
-929136	a
-a
-a
-929140	c
-929142	c
-929144	c
-a
-929148	a
-929150	c
-a
-929153	c
-a
-929157	c
-929160	c
-a
-929163	a
-929166	c
-a
-929170	c
-a
-a
-a
-929175	c
-929178	a
-929180	a
-929182	c
-929184	c
-a
-929187	c
-a
-929190	c
-929192	a
-929194	c
-929197	c
-929199	c
-a
-929202	c
-a
-929205	c
-a
-929208	a
-a
-929211	c
-a
-929214	c
+det.
+NA
+NA
+NA
+NA
 c
-a
-929218	c
-a
-929221	a
-929223	c
-a
-929227	a
-929229	c
-a
-929232	c
-a
-929235	c
-a
-a
-929239	c
-a
-929242	c
-929245	a
-929247	a
-929250	c
+det.
 c
-929253	c
-a
-929256	c
-a
-929259	c
+NA
+NA
+det.
+NA
 c
-a
-929265	a
-a
-929268	c
-a
-929271	c
+c
 c
-929275	c
-929277	c
+NA
+NA
 a
-929280	c
+NA
 c
+det.
+NA
 a
-929284	c
+NA
 c
+NA
 c
-a
-929290	c
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-a
-929296	c
+NA
+NA
+c
 a
 c
+det.
+NA
+NA
+NA
 c
+NA
 c
-a
-929306	c
-929311	c
-a
-929315	c
-a
-929320	a
-929323	a
-929327	c
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
 a
-929330	c
-929333	a
-929335	c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
 a
-929338	a
 a
-929342	a
+NA
+c
+NA
+c
+c
 a
-929345	c
-929347	det.
-929349	c
+c
+NA
+NA
 a
-929353	c
-929355	det.
-929357	c
 c
+NA
+c
 a
-929363	det.
+c
 c
 a
-929367	c
 a
-929370	c
+NA
 c
-929373	c
-a
-929377	c
-929380	c
+NA
+NA
+c
 c
+NA
 c
-929385	c
 det.
-929389	a
-929391	a
-929397	c
 a
-929403	c
+NA
 a
-929407	a
-929409	a
-929414	c
-a
-929418	a
+NA
+c
 a
-929421	c
 a
-929424	c
-929427	c
+NA
+NA
+NA
 c
 a
-929431	c
-a
-929434	c
+NA
+c
 a
-929437	c
+NA
+NA
+NA
 c
+NA
+det.
 c
-a
-929443	c
-929448	a
-929450	c
+NA
 a
-929453	a
-929455	c
+NA
 a
-929458	a
-929460	c
 a
-929463	a
-929465	c
 a
-929468	c
+NA
 a
-929471	c
 a
-929476	a
-929479	c
+NA
 a
-929482	c
+NA
+NA
 c
 a
-929486	a
-a
-929489	c
-c
-929492	c
+NA
+NA
+NA
 c
-a
-a
-929497	a
-929499	c
-929503	c
-a
-929506	a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-929510	c
-a
-929515	c
-a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-929520	a
-929522	c
-a
-929525	c
-a
-929530	a
-a
-929537	a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
+NA
+NA
+NA
+NA
 a
-929542	c
-a
-929545	a
+NA
+NA
+NA
 c
-a
-929549	a
-929552	det.
+NA
+det.
+NA
+NA
+det.
 det.
-929555	a
-929557	c
+NA
+NA
 c
-929562	c
+det.
+NA
+NA
+NA
 c
-929568	a
-a
-929572	a
-929574	c
+NA
+NA
 c
-929579	c
+NA
+NA
+det.
+NA
 c
-929582	c
+NA
 c
-929585	c
 det.
-929589	c
-929593	c
-a
-929596	c
 c
+NA
 a
-929601	a
-929606	a
-929608	a
-929610	det.
-929612	a
-929616	a
-929620	c
-a
-a
-a
-a
-929626	c
-929630	c
-a
+NA
 c
 c
-929635	c
-a
-929639	a
 c
-929642	c
-929646	a
-929648	c
-929652	c
-929654	c
-929660	a
 c
-929664	c
-929668	c
+det.
+NA
 a
-929672	a
-c
-929676	c
 c
-c
-c
-929684	c
-929686	c
-929689	a
 a
-929692	a
-929699	c
+NA
+NA
+NA
 a
-929706	a
-929709	c
+NA
+a
+NA
+NA
+NA
 c
-929718	c
-929725	c
-929727	a
-929729	c
-929731	c
 c
-929735	c
+NA
 c
-929742	a
+det.
+NA
 a
-929745	a
+NA
 c
-a
-929749	c
-a
-929753	a
-929755	c
 c
+NA
+det.
+NA
 c
-929760	c
-929762	a
-929764	c
-929767	c
 a
-929770	a
-929773	c
-929775	a
-929777	c
-c
-929780	c
-929782	c
-929784	c
-929786	c
-929788	c
-929791	a
-929793	c
-c
+NA
 a
-929797	c
+NA
+NA
+NA
+NA
+NA
 a
-929801	c
+NA
+NA
+NA
+NA
 c
-929805	a
-929807	a
-a
+NA
 c
-a
-929815	a
-929817	a
-929822	c
-a
 a
-a
-929827	a
-929829	c
-929832	c
 c
-929840	c
+NA
+NA
 c
-929844	c
+NA
 c
-929849	c
-929851	c
+det.
+NA
 c
-a
+det.
+det.
 c
-a
-929857	a
-929860	c
 c
 a
-929864	a
-a
-929868	c
-929870	c
-929872	a
-c
+NA
+NA
 c
-929879	c
+NA
 c
-929885	c
-929889	c
-a
-929892	a
-929895	c
+NA
+NA
+NA
 c
-929898	a
-929901	a
-929905	c
-929907	c
-929909	c
-929912	c
 c
-929915	c
-929918	c
+NA
+NA
+NA
+NA
 c
-929922	c
-929926	det.
 c
+NA
+NA
+NA
 c
-a
-929931	c
+NA
 a
-929935	a
-929938	a
-929940	c
+NA
 c
-929944	a
-929946	c
-c
-929949	c
-929951	c
-929954	c
-929956	a
-929958	c
-929960	c
+det.
+NA
 c
-929964	a
-929968	c
-929974	c
-929976	c
-929978	c
 c
-929984	c
-929990	c
-929992	a
-929995	a
+NA
 c
+NA
 c
 det.
-930000	det.
+NA
+NA
+NA
 a
-930003	c
-930006	det.
-930008	c
+NA
+a
+a
+NA
+NA
 c
-930014	c
+NA
+NA
 a
-930019	a
 c
-930023	a
+NA
+NA
 a
-930029	c
 a
-930032	c
-930034	c
-930036	c
-930038	a
-930040	c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
 c
 det.
-930044	c
-930046	a
+NA
+NA
+NA
 c
+det.
+NA
+NA
+NA
+NA
 c
-930052	c
 a
-930061	a
-930064	c
+NA
+NA
+NA
 c
-930068	c
-c
-930074	a
 a
-930077	c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-930080	c
+c
+NA
+det.
+det.
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
 c
-930084	c
-930086	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 det.
+NA
 c
-930090	a
-930093	a
-930096	c
 a
-930099	c
+NA
+NA
+NA
+NA
+c
+c
 a
-930102	a
-930104	a
-930106	a
-930109	a
-930111	c
+c
+NA
+NA
 a
-930120	a
+NA
+c
 a
-930128	a
+NA
+NA
+c
+NA
 c
 a
-930132	a
+NA
+c
+c
+NA
+NA
+c
+c
 a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
+NA
 a
-930138	c
+NA
+NA
+NA
 a
-930145	c
-930147	a
-930150	c
 a
-930153	c
+NA
+NA
+c
+c
 a
-930156	c
-930158	c
+NA
+det.
 c
-930161	c
+NA
+NA
+NA
 c
-930164	c
 c
-930167	c
 c
+NA
 c
-930172	a
-930174	a
-930177	c
+a
+NA
 c
-930182	c
-930184	det.
-930186	c
 a
-930190	c
-930192	a
 a
-930195	a
-930198	c
-930200	c
-c
-930203	c
+NA
+NA
+NA
 a
-930206	c
-930208	a
-930210	c
-930215	c
-930218	c
-930221	c
+NA
 c
 c
-930225	c
+NA
 c
-930231	c
-930234	a
-930236	c
+NA
+NA
+NA
+NA
 a
 a
-930241	c
-930244	c
+NA
+NA
 c
-930248	a
-930251	c
-a
-930254	a
-930256	c
-930260	a
 c
+a
 c
-930267	a
-930269	a
-930272	c
-930274	a
-930277	a
+NA
 c
+NA
+det.
 c
-930281	c
+NA
 c
+NA
 a
-a
-c
-930287	c
-930290	c
-930294	c
-930297	c
+NA
 c
+det.
+NA
+NA
 c
-930306	c
-930308	c
+det.
+NA
 c
-930311	c
-930317	c
+NA
 c
-930322	a
+NA
 c
-930328	c
-a
-a
-930332	c
-a
-a
 c
+det.
 c
-a
-930339	c
+NA
 c
 a
-930345	a
-930347	a
-a
+NA
 c
-a
-930352	c
-a
-930355	a
-930357	c
-a
-930362	a
-930365	c
 a
-930369	c
-930372	a
 a
-930375	c
-930378	c
-a
+NA
 c
-930382	a
 c
-930385	c
-930387	a
-a
+NA
 c
-a
+NA
+det.
+det.
 c
+NA
 c
-930394	c
-930397	c
-930400	c
-930403	c
-930406	c
 c
-a
-930410	c
-930414	c
+det.
+NA
 c
 c
-930420	c
+NA
+a
+NA
 c
-930425	c
-930427	c
 c
-930430	c
+NA
 c
-930434	c
-930437	c
+NA
 a
-930440	c
+NA
 a
+NA
 c
-930445	a
+a
+NA
+c
 c
-930449	c
-930451	c
+NA
+NA
 c
 c
-930456	c
+NA
+det.
+a
 a
-930459	a
-930462	c
-930464	a
-930466	c
-930470	c
+NA
 c
-930474	c
+NA
+NA
 c
-930478	c
 c
-a
-930483	a
-930487	a
-930489	a
-930491	c
-a
-930495	a
-a
-930498	c
-a
-930501	c
-a
-930506	c
-a
-930509	c
-930511	c
+NA
 det.
-930514	c
-930517	c
-930519	c
-a
-930522	a
-930524	c
-a
-930528	a
-930530	a
-930533	a
 c
+NA
+c
 a
-930537	a
-930543	a
-930547	a
-930549	c
-930552	a
-930554	c
-930557	a
-930559	c
+NA
 a
+NA
+c
+NA
 c
-930564	c
-930566	a
-930568	c
 c
-930571	c
+NA
 a
-930574	c
-930577	a
+NA
 a
-c
+NA
+NA
+a
+NA
 a
+NA
+NA
+det.
 c
+NA
 c
-a
-930588	a
-930590	a
-930592	c
+c
+NA
 a
-930595	a
+NA
 c
-930598	c
 c
-930602	a
-930605	c
+NA
 a
-c
+NA
 c
 c
-930611	c
 c
 a
-930615	a
-a
-930619	c
-930623	a
-930625	c
-a
-930629	c
 c
-930634	c
+det.
 c
-930638	c
-a
-930641	c
+NA
 a
-930644	a
+NA
 c
+NA
 c
-930649	c
-930652	c
 a
-930655	c
 a
+NA
+NA
+NA
+NA
+NA
 a
-930659	a
-930662	c
-a
-930666	c
+NA
+NA
 c
 a
-930671	a
-930675	a
+NA
+NA
 a
-930678	a
 a
-930681	c
-c
-930684	c
+NA
 a
-930688	c
+NA
+NA
 a
-930692	c
+NA
 a
-930697	a
-930700	a
-930704	c
-930706	a
-930710	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-930714	a
+NA
+NA
+NA
+NA
 a
+NA
 c
-930718	a
-930720	a
 a
-930724	a
-930726	c
+NA
 a
-930731	c
+NA
+c
 a
-930735	c
-930737	a
-930742	c
+NA
+c
+det.
+NA
 c
-930745	c
-930749	a
-930752	c
+det.
 c
-930755	a
-930757	c
+NA
 a
-930760	a
-930763	c
-a
-930767	c
-930771	a
-930774	c
-930776	a
-930780	c
+NA
 c
-930783	c
-930785	a
-930787	a
-930791	a
 c
-930794	c
-930796	c
 a
+NA
 a
-930800	a
-930803	a
-930805	a
-930809	c
-930811	a
-930813	c
-930815	c
+NA
+NA
+c
 a
-930821	c
+NA
+NA
+NA
 c
-930824	c
+c
+NA
+c
 a
-930828	c
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
+c
+NA
+c
 a
-930833	c
-930837	a
-930840	c
-930842	a
-930847	c
+NA
+c
+c
+NA
 a
-930851	c
+NA
 a
-930854	c
+NA
+NA
 c
-930857	a
 a
-930860	a
-930862	c
-930865	a
 c
-930868	a
-930871	c
+NA
+NA
+NA
+NA
 c
-930874	a
-930877	a
-930879	a
-930882	a
-930885	c
-930887	c
-c
-a
-930891	c
 a
-930895	c
-a
-930900	c
+NA
+NA
 det.
+NA
+c
+NA
+c
+NA
+NA
 a
-930906	c
+NA
+NA
+det.
+det.
+NA
 a
-930909	c
+NA
+NA
+det.
+NA
+c
+det.
+NA
 a
-930912	c
+NA
 a
-930916	c
-930918	c
 c
-930922	a
-930926	c
 a
-930930	c
-a
-930933	c
-930936	c
-930939	a
+c
+NA
+NA
 a
-930942	c
-930944	a
-930946	c
-930950	c
-930952	a
-930955	c
+NA
 c
 c
-930959	c
-930962	c
-930965	c
-a
-930968	c
-a
-930972	c
-930974	c
-930977	c
+NA
 c
-930980	c
-930982	c
-930984	c
-930987	c
-930990	c
-a
 c
+NA
+det.
+det.
 c
-930995	c
+NA
 c
-a
-930999	c
-931001	c
-a
 c
-931006	c
-931010	c
-931013	c
-a
+det.
+NA
+NA
 c
-931017	c
-a
 c
-931022	c
-931024	c
+NA
 c
 c
-931029	a
-931032	c
-a
-931036	c
-931039	c
+NA
 c
-931042	det.
-931044	a
-931047	c
 c
-931051	c
-931053	c
-931055	c
-931058	a
-931061	c
-a
-931065	c
+NA
+NA
 c
-a
-931069	c
 c
-a
-931076	a
-931078	c
-a
-931081	c
-931083	a
-931085	c
-931087	a
-931089	c
 c
-931092	c
-931096	a
-931099	a
-931103	a
-931106	a
-931109	a
-931112	c
-a
-931115	c
-a
-931119	c
-931121	c
 c
-931124	c
+det.
+NA
+NA
+NA
+NA
 c
-931127	a
-a
-931130	c
 c
-a
-931134	a
-931137	c
-931139	c
-a
-931142	c
-a
-931146	a
-931149	c
-931151	c
-931153	c
+NA
+NA
 c
-931156	a
-931158	a
-931160	a
-931166	c
+NA
 c
-931170	c
-931174	a
 a
-931177	c
-931180	a
 c
+c
+NA
+NA
 a
-931185	a
-931190	a
-931192	a
-931194	c
+NA
 a
+NA
+NA
+NA
 c
-931198	c
 c
-931202	c
+NA
+NA
 a
-a
-931207	c
+NA
 c
-a
-a
-931213	c
-931215	c
-a
-931218	c
-a
-931222	a
-931224	c
-931230	c
-a
-931235	a
-931237	c
-a
-931240	a
-931242	a
-a
-931245	a
-931249	c
+c
+NA
+det.
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
 c
-931254	a
-931256	a
-931258	a
-931260	c
+det.
+NA
+c
+c
 a
-931263	c
+NA
+NA
+NA
+NA
+c
+c
+NA
 a
-931266	c
+NA
+NA
 c
 a
-931270	c
+NA
+c
 a
 a
-931277	c
+NA
 c
-931285	a
-931287	c
 c
-a
-931292	a
-931294	c
-a
-931301	a
-931303	c
+NA
 c
-931306	c
+det.
+NA
+det.
+det.
+NA
 c
+NA
+NA
 c
 c
-a
-931314	c
+NA
+NA
 a
-931317	c
+NA
+det.
 a
-931320	c
-c
 c
-931326	c
+det.
+NA
+det.
 a
-931329	c
 c
-a
-931334	a
-931337	a
+NA
 c
-931341	c
 det.
-931344	a
-931346	a
-931348	c
-a
-931351	c
 c
+NA
 a
-931357	a
-931359	a
-931361	a
-931365	a
-931367	c
+NA
 a
-931370	a
-931374	a
-931377	a
-931379	c
-a
-931383	c
+NA
 c
-a
-931387	a
+NA
+NA
+c
 a
-931390	c
+NA
+c
 a
+NA
+c
 a
-931394	c
+c
+det.
 a
-931398	a
-931400	c
+NA
+c
+NA
+NA
+det.
+det.
+c
 a
-931404	c
+NA
+NA
+NA
+c
 a
+NA
+c
 a
-931412	a
 a
-931416	a
-931421	c
-931426	a
-931428	c
-931432	det.
 c
-931435	c
-931437	c
-a
+NA
+c
+NA
+c
 a
-931441	c
-931443	c
+NA
+NA
 a
-931446	c
-931448	c
+NA
+NA
+c
 a
-931451	a
-931453	c
+NA
 c
 c
-931458	c
+a
+NA
+NA
 c
 c
-931462	c
-931466	c
+NA
+NA
 c
-931471	a
 a
-931474	c
 a
-931478	c
-931480	a
-931482	c
-a
-931487	c
 c
-931494	c
-931496	c
+det.
+NA
 c
-931506	c
 c
-a
-931511	c
+det.
 c
-931516	c
-931522	c
-a
-931525	a
-a
-931530	a
+NA
+NA
 c
-931533	c
-a
-931536	c
-931538	c
+NA
+NA
 c
-931541	c
-a
-931548	c
-931551	c
+NA
+NA
 a
-931555	c
-931557	c
-931559	c
-931561	c
-931565	c
-a
-931569	c
-a
-931572	c
+NA
+NA
+NA
 c
+det.
+NA
+NA
+NA
 a
-931577	c
+NA
+NA
+NA
 c
-a
-931581	c
+NA
+NA
+NA
 c
-931584	a
-931587	c
-931589	c
-a
-931592	a
-931596	c
 c
-931600	c
+det.
 c
-a
-931606	c
-931608	c
-931611	c
-931613	c
+NA
 c
-931616	c
-a
-931619	c
-931621	c
-931623	c
-a
-a
-931627	c
-a
-931630	a
-931633	a
+det.
+c
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
 a
-931637	c
-931641	c
-931643	a
-931647	c
+NA
+c
+c
+det.
+NA
+NA
+det.
+NA
+det.
+det.
 c
-931651	c
-931653	c
 c
 c
-931658	c
-931660	a
-931663	c
 c
-a
-931669	a
-931671	c
-931674	c
-a
-931678	c
-931681	c
-931683	a
-931688	c
 c
-a
-931692	c
-931694	a
-931697	a
-931699	c
 a
-931702	a
-931704	c
-a
-931707	a
+NA
+c
+NA
+c
+c
 a
-931710	c
+NA
 c
-931714	c
-931716	c
+NA
+NA
 c
-931720	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-931724	c
 c
-931727	a
-931729	c
-a
-931732	c
-931734	c
-931736	c
-931738	c
-931741	c
-931743	a
-931747	c
-a
-931751	c
-931756	c
+NA
+NA
+NA
+NA
 a
-931760	c
-931763	a
+c
 a
-931769	c
 c
-931774	c
-931776	c
-931779	c
+NA
+NA
 c
-931782	c
-a
-931788	a
-931798	c
-931800	c
-931804	c
-931806	c
-931808	c
-931810	a
-931812	c
-931814	c
+NA
+NA
 c
+NA
 c
-931818	c
+det.
+NA
+NA
+NA
 c
 c
-931823	a
-931825	c
-931827	c
-931829	c
-931831	c
+NA
 c
-931835	c
 c
-931838	c
-931840	c
-931842	c
-a
-931845	c
+c
 a
-931849	c
+NA
+c
+det.
+NA
+c
+NA
 c
-931853	c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
 a
-931857	c
-931860	a
+NA
+NA
 c
+NA
+NA
 a
-931864	c
 a
-931867	c
-931869	c
+NA
+c
+NA
 c
 det.
-931877	c
-931879	c
-a
-931883	c
-a
-931887	c
-931891	c
-931894	c
-931898	c
+NA
 c
-931901	c
+NA
 c
-a
-a
-931906	a
-931909	c
-931912	c
-931914	c
-931917	a
-931921	a
-931927	c
-931929	a
-931931	c
-a
-931934	c
-a
-931937	c
-a
-931940	c
-a
-931943	a
+NA
+NA
 c
-a
-931947	a
-931949	a
-a
-931952	c
+NA
 c
+c
 a
-931956	c
+NA
+c
 a
+NA
+c
 a
-931960	c
+NA
 c
 c
-a
-931967	c
-a
-931970	c
-a
-931973	c
 c
-931977	c
-931979	a
-931984	a
-a
+NA
 c
-931992	c
 a
-931996	c
+NA
 c
-931999	c
 c
 a
-932003	a
-c
-932006	c
+NA
+NA
+a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-932010	c
-932012	c
+NA
+NA
+NA
 c
 a
-932018	c
+NA
 c
+a
+NA
+NA
 a
-932023	c
-932027	a
-932030	a
-932033	a
+NA
 a
+NA
+NA
+NA
 c
 a
-932038	c
 a
+NA
+NA
+NA
+c
+c
+c
 a
-932044	a
-932048	a
 a
-c
+NA
+a
+NA
 c
-932054	a
-932056	c
 c
-932059	c
 c
-a
-932063	c
 a
-932066	c
+NA
+NA
+c
 a
+NA
+c
+c
+NA
+c
+c
 a
-932071	a
-932073	c
+NA
 a
-932077	c
+NA
 a
-932081	c
 a
-932085	c
-932087	c
+NA
 a
-932100	c
+NA
+c
 a
-932104	c
+NA
 c
+c
 a
-932111	c
+NA
+NA
+c
 a
+NA
 a
 a
-932118	c
-932121	c
-932124	c
-932126	a
+NA
 a
-932129	c
-932131	c
 a
+NA
+c
+c
+NA
+NA
 a
-932137	det.
-932143	a
-932145	a
-932148	a
-932151	a
 a
-932156	a
-932158	a
-932164	c
 a
-932167	a
-932169	a
-932171	c
+NA
+NA
+NA
+NA
+c
 a
-932174	a
-932176	a
+NA
+c
 a
-932180	a
-932184	c
-932186	c
+NA
+NA
+NA
 a
-932190	c
-932192	c
-932195	c
-932197	c
-932199	c
-932202	c
-c
-932205	a
 a
-932208	c
 c
-932211	c
-932213	c
 a
-932216	c
-932219	c
+NA
 c
-932222	c
-932224	c
 a
-932227	a
 c
-932231	c
 a
-932234	a
-932238	a
-932241	a
-932243	c
-932245	a
-932247	a
-932250	c
-932252	a
-932254	a
-932256	a
-932258	a
+NA
 c
-932262	c
-a
-932265	c
 a
-932268	c
-932274	c
 a
+NA
+NA
+c
+NA
+NA
+c
 a
-932278	c
 a
-932281	a
-932283	a
-932287	a
+NA
+c
 a
-932290	a
-932292	a
-932297	a
-932299	a
+NA
 a
-932303	c
+NA
+c
 a
-932307	c
+NA
 a
-932311	a
-932313	c
 c
-932318	a
 a
+NA
+NA
 c
-932322	c
-a
-932325	a
-932328	a
-932332	a
-a
-a
-932336	c
-932338	a
-a
-932341	c
-932343	c
-a
-932346	a
-932349	c
-a
-932352	a
-932356	a
-932358	c
-932362	a
-932365	c
-932367	c
-932371	a
 c
-932376	det.
+NA
+NA
+NA
+NA
 c
-932379	c
+NA
 c
-932383	a
-932386	c
-932388	c
-932392	c
-a
-932395	c
-932398	a
-932402	a
+NA
 c
-932407	c
 a
-932411	a
-932413	c
+NA
+NA
 c
-932416	a
 c
-932420	c
+NA
+a
 a
-932423	a
-932426	c
-932429	a
-932433	c
+NA
+det.
 a
-932436	c
 a
-932439	c
+NA
 c
 a
-932448	c
+NA
 c
 a
-932453	a
+NA
 a
-932457	a
+NA
 c
+NA
+NA
 c
-932461	a
-932464	c
 c
 c
+det.
+NA
+NA
 c
-932469	a
-932471	c
 a
-932474	c
-932477	a
-932480	a
+NA
+c
 a
+c
+c
+NA
+NA
+det.
+det.
+c
 a
+det.
 a
-932485	a
-932487	det.
-932489	a
-932491	a
-932494	a
 c
-a
-932498	a
-932500	c
 c
-932503	a
-932506	c
-932508	c
+NA
+NA
+c
+NA
 a
+NA
+NA
 c
-932512	a
-932514	a
-932516	c
-932518	c
 a
-932522	a
+NA
 c
-932527	c
-932529	c
-932531	a
-932535	a
-932537	a
-932540	a
-932542	a
-932545	a
-932547	a
-932549	c
-932556	c
-932558	a
-932560	a
-932562	c
-932564	c
 c
-932569	c
 a
-932573	c
-932575	a
-932578	c
-932580	c
-932585	c
-932589	c
-932592	c
-932597	c
-932600	a
-932602	c
-c
-932607	c
-932609	c
-932615	c
-932618	c
+NA
+NA
+NA
 a
-932621	c
-932625	c
-932628	c
-932631	c
-932635	a
-932640	a
+NA
+c
+c
+det.
 a
-932645	c
+NA
 a
-932648	c
-932650	a
-932652	c
+NA
+NA
 c
-932658	c
-a
-932661	a
-932664	a
-932666	c
-932669	a
-932671	c
-932676	a
-932680	c
-932683	a
-932686	c
-932690	c
-932692	a
-932695	c
-932698	c
 det.
-932707	c
-932711	c
-932715	c
-932718	a
+NA
 c
 c
+det.
+NA
 c
 a
-932724	a
-932726	c
-932730	c
-932732	a
-932734	c
-c
-932737	c
-c
-932745	a
-932748	c
-932750	c
-932752	c
 a
 a
-932756	c
+NA
+NA
 c
 c
-932761	c
 a
-932764	c
-932766	c
+NA
+NA
 a
-932770	c
-932772	c
-932774	a
-932776	a
-932780	c
+det.
+NA
 c
-932784	c
+a
+NA
 c
+det.
 a
-932788	c
+NA
 a
-932791	c
+NA
 c
-932794	c
+NA
+NA
 c
 c
+det.
+NA
 c
+a
+a
+a
+a
+NA
+a
+NA
 c
-932802	c
 c
-932807	c
 a
-932810	a
-932814	c
-932818	a
+NA
 c
-932824	c
+NA
+NA
 c
+det.
+NA
+c
+det.
+c
+NA
 c
+a
+NA
+c
+det.
+NA
 c
-932831	c
 c
+NA
 c
+NA
+NA
 c
-932837	c
-932841	c
+NA
 c
-932845	c
+NA
+NA
 a
-932850	det.
-932854	c
-c
-932857	c
-932859	c
+NA
+NA
 c
-932862	c
 c
-932866	c
+det.
+NA
 c
 a
-932870	c
 a
-932873	c
-932876	a
-932881	c
-932885	c
-932890	a
-932892	c
-c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
 c
-932901	c
-932904	a
-932906	a
-932909	c
 c
 a
-932917	a
-932920	c
+NA
 c
-932923	a
 a
+NA
 c
-932928	c
-932930	a
-932933	c
 c
-932936	a
-932938	c
-932941	c
 c
-932945	a
-932949	a
-a
-932952	a
-a
-a
-932958	a
 c
-932964	c
+NA
+NA
 c
-932972	a
-932974	a
-932988	c
-933008	c
-933017	c
-a
-933020	c
-a
-933023	a
-933025	c
+NA
+c
 a
-933028	a
-933030	c
+NA
+c
 a
-933037	a
-933043	c
-933046	c
-933051	a
-933055	c
+NA
 c
-933059	c
-933061	a
-933065	c
+NA
+NA
+NA
 c
 c
 det.
-933070	a
-933072	c
-933074	c
+NA
+NA
 c
-933079	a
+NA
 a
-933082	c
-933085	a
-933088	c
-933090	c
-933092	a
-933095	c
+c
 det.
-933098	c
 det.
-933104	c
+NA
 c
-933109	c
-a
-933112	a
 det.
-933115	c
-933117	c
-c
-933121	c
-933124	c
-c
 c
-933128	c
-933130	a
-a
-933139	c
-933141	c
-933144	c
-933146	c
-933148	c
-933151	c
-933155	c
+det.
+NA
 c
-933159	c
-933164	c
-933169	c
-933171	a
-933174	c
 c
-933177	c
-a
-933182	a
 c
-a
-933186	c
-a
-933189	c
-a
-a
-933193	a
-933198	a
-a
-933201	a
-a
-933204	c
-a
-933207	c
+det.
 a
-933213	c
+NA
 c
-a
-933218	a
-933221	c
 a
-933224	a
-933227	c
+NA
 c
-933230	a
-933233	c
 c
-933236	a
-933238	c
-933242	c
-a
-933245	a
-933247	c
-933249	c
+det.
+NA
 c
-933253	c
 c
+NA
+NA
+NA
 c
+a
+NA
 c
-933258	a
-933260	a
-933263	c
+NA
 a
-933267	a
+NA
+c
 c
-933270	c
-933272	c
-933274	c
-933278	a
-933280	c
+det.
 a
-933283	c
+NA
 a
-933286	c
-933288	a
-933290	a
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
 a
+NA
+c
 a
-933296	a
-933298	c
 a
-933302	c
-933304	a
-933306	c
-933308	a
-933310	c
-933312	a
-933316	c
+NA
+NA
+NA
 a
-933321	a
-933325	c
-c
-933328	c
+NA
 a
-933331	a
-933333	c
 c
+det.
+NA
+det.
 a
 a
-933338	c
-933342	c
-933344	c
+NA
 c
-933347	c
-933351	a
-933354	c
-a
-933357	a
-a
-933365	c
 c
-933370	c
+det.
+a
+NA
 c
-933375	c
+det.
+NA
 a
-933379	c
+NA
 a
-933382	c
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
-933385	c
 a
-933390	c
-933393	c
-933395	c
+NA
+NA
 det.
-a
-933399	c
-933402	c
-933404	c
+NA
+NA
 c
-a
-933409	c
 c
-933412	c
-933417	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-933421	c
-a
-933425	c
+NA
 c
-a
-933430	c
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
 c
+NA
+NA
 a
-933434	c
+NA
+NA
 a
-933437	a
-933439	c
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
 a
-933445	c
+NA
+NA
 c
+NA
+NA
 a
-933449	c
-933451	c
+NA
+NA
 c
+det.
 c
-933457	c
 c
-933461	c
+NA
+det.
+NA
 c
-933466	c
 c
-933469	a
-933471	a
-933473	c
-933476	c
+NA
+NA
 c
-a
-933480	c
+NA
+NA
+c
+det.
+det.
+NA
+det.
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+det.
+c
+c
+det.
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+c
+a
+NA
+det.
+NA
+c
+c
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+a
+NA
+c
+a
+c
+c
+c
+det.
+NA
+c
+NA
+det.
+det.
+c
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+c
+NA
+c
+c
+c
+det.
+c
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+det.
+c
+det.
+det.
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+a
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+c
+a
+c
+a
+NA
+c
+c
+c
+c
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+c
+a
+c
+a
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+c
+c
+a
+c
+a
+a
+c
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+det.
+c
+a
+NA
+c
+det.
+c
+c
+a
+NA
+det.
+c
+a
+NA
+det.
+c
+a
+NA
+det.
+c
+a
+NA
+det.
+c
+a
+NA
+det.
+c
+a
+NA
+det.
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+c
+a
+c
+a
+c
+a
+c
+a
+c
+c
+a
+c
+a
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+c
+a
+c
+a
+c
+a
+c
+a
+c
+a
+c
+a
+c
+c
+NA
+c
+c
+det.
+a
+a
+a
+a
+c
+a
+a
+a
+a
+a
+c
+det.
+c
+a
+a
+a
+a
+c
+det.
+NA
+NA
+c
+c
+c
+det.
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+c
+NA
+c
+a
+a
+c
+c
+a
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+a
+NA
+det.
+NA
+a
+c
+a
+NA
+det.
+det.
+a
+NA
+c
+c
+a
+c
+a
+NA
+c
+a
+c
+a
+a
+NA
+c
+c
+a
+NA
+det.
+a
+c
+a
+c
+a
+NA
+c
+a
+c
+a
+a
+NA
+a
+NA
+a
+a
+NA
+c
+a
+c
+a
+c
+c
+c
+c
+det.
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+c
+a
+a
+a
+NA
+NA
+a
+det.
+NA
+det.
+c
+det.
+NA
+NA
+det.
+a
+a
+a
+NA
+c
+c
+a
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+c
+c
+a
+NA
+a
+det.
+NA
+a
+NA
+NA
+a
+NA
+a
+c
+a
+c
+a
+c
+a
+c
+c
+a
+NA
+a
+NA
+det.
+a
+c
+det.
+NA
+c
+c
+a
+NA
+det.
+a
+a
+a
+c
+c
+a
+NA
+c
+a
+a
+NA
+c
+det.
+NA
+NA
+det.
+a
+a
+a
+NA
+a
+NA
+a
+NA
+c
+a
+c
+c
+a
+NA
+c
+c
+a
+a
+a
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+det.
+a
+NA
+a
+NA
+a
+NA
+a
+c
+det.
+a
+NA
+a
+NA
+c
+a
+a
+NA
+det.
+a
+a
+NA
+a
+a
+NA
+det.
+NA
+det.
+a
+NA
+NA
+NA
+a
+a
+NA
+c
+det.
+c
+a
+c
+a
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+a
+c
+a
+a
+NA
+det.
+c
+det.
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+c
+det.
+det.
+det.
+NA
+NA
+c
+det.
+a
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+det.
+det.
+NA
+c
+a
+a
+c
+a
+NA
+c
+a
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+det.
+det.
+det.
+c
+a
+NA
+a
+NA
+det.
+det.
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+c
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+a
+a
+NA
+det.
+det.
+NA
+c
+a
+NA
+det.
+det.
+a
+a
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+det.
+det.
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+a
+NA
+c
+c
+det.
+a
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+c
+c
+det.
+c
+a
+c
+a
+NA
+a
+c
+det.
+det.
+NA
+det.
+a
+c
+det.
+a
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+a
+NA
+c
+c
+NA
+c
+a
+a
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+a
+a
+a
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+c
+c
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+c
+det.
+det.
+NA
+c
+det.
+c
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+c
+c
+a
+NA
+c
+NA
+a
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+c
+c
+a
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+det.
+det.
+NA
+c
+det.
+a
+a
+NA
+c
+NA
+a
+c
+a
+a
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+a
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+a
+NA
+c
+c
+c
+det.
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+c
+det.
+NA
+a
+a
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+c
+c
+det.
+a
+NA
+a
+a
+NA
+a
+c
+a
+NA
+NA
+det.
+det.
+a
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+c
+c
+c
+det.
+det.
+det.
+NA
+a
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+det.
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+a
+c
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+det.
+a
+a
+c
+c
+a
+NA
+NA
+det.
+det.
+NA
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+det.
+a
+a
+a
+a
+NA
+a
+c
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+det.
+NA
+det.
+NA
+NA
+a
+c
+det.
+a
+a
+a
+NA
+c
+a
+NA
+det.
+NA
+c
+c
+det.
+NA
+a
+a
+c
+a
+a
+NA
+c
+c
+a
+NA
+a
+c
+det.
+NA
+c
+det.
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+a
+a
+a
+a
+NA
+c
+c
+a
+NA
+c
+NA
+c
+det.
+a
+a
+NA
+a
+NA
+NA
+det.
+NA
+c
+det.
+a
+a
+a
+a
+NA
+det.
+det.
+NA
+det.
+NA
+c
+det.
+NA
+NA
+a
+det.
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+NA
+det.
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+NA
+NA
+a
+a
+NA
+det.
+det.
+c
+a
+a
+a
+NA
+a
+a
+c
+a
+NA
+a
+c
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+det.
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+det.
+det.
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+c
+c
+c
+c
+NA
+c
+c
+c
+a
+a
+NA
+c
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+c
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+c
+det.
+a
+NA
+c
+det.
+NA
+a
+a
+a
+NA
+c
+a
+a
+a
+NA
+det.
+a
+NA
+det.
+a
+a
+NA
+a
+c
+det.
+NA
+NA
+det.
+NA
+c
+c
+det.
+a
+c
+a
+NA
+a
+a
+NA
+det.
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+c
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+det.
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+c
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+det.
+c
+c
+a
+NA
+c
+a
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+c
+a
+NA
+c
+a
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+a
+det.
+a
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+c
+c
+NA
+a
+c
+a
+a
+NA
+a
+c
+a
+NA
+a
+c
+a
+c
+a
+NA
+c
+a
+c
+a
+c
+a
+NA
+NA
+c
+c
+a
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+det.
+a
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
+a
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+NA
+c
+a
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+a
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+a
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+c
+a
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+det.
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+a
+a
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+c
+a
+c
+c
+a
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+c
+a
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+a
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+det.
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+a
+c
+c
+NA
+a
+c
+NA
+a
+NA
+a
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+NA
+a
+c
+c
+c
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+c
+c
+NA
+a
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+det.
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+det.
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+a
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+c
+a
+det.
+det.
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+c
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+c
+a
+det.
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+c
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+a
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+det.
+det.
+NA
+c
+a
+c
+NA
+a
+c
+c
+a
+a
+NA
+det.
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+det.
+det.
+NA
+NA
+c
+c
+c
+c
+a
+NA
+a
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+det.
+a
+a
+NA
+det.
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+det.
+a
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+c
+NA
+c
+c
+c
+det.
+a
+a
+a
+NA
+c
+a
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+det.
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+c
+a
+det.
+c
+NA
+c
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+det.
+NA
+det.
+NA
+NA
+c
+c
+det.
+NA
+det.
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+NA
+NA
+det.
+NA
+det.
+a
+a
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+c
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+det.
+c
+det.
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+a
+NA
+c
+NA
+det.
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+det.
+a
+NA
+NA
+c
+c
+a
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+a
+NA
+det.
+det.
+NA
+det.
+c
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+det.
+det.
+NA
+c
+det.
+NA
+det.
+NA
+det.
+c
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+det.
+c
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+c
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+det.
+det.
+NA
+det.
+det.
+NA
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+det.
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+a
+c
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+c
+c
+c
+c
+a
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+a
+a
+a
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+a
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+c
+det.
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+det.
+NA
+c
+c
+NA
+c
+NA
+c
+a
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+a
+a
+a
+NA
+c
+c
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+c
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+a
+c
+a
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+a
+a
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+det.
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+a
+c
+a
+NA
+c
+a
+c
+a
+c
+c
+a
+NA
+c
+a
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+a
+NA
+a
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+c
+c
+NA
+a
+NA
+c
+c
+c
+NA
+det.
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+c
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+det.
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+a
+c
+det.
+NA
+det.
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+det.
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+det.
+c
+det.
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+c
+det.
+c
+det.
+NA
+c
+det.
+c
+det.
+NA
+c
+det.
+c
+det.
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+det.
+c
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+c
+det.
+NA
+c
+det.
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+a
+c
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+c
+a
+a
+NA
+a
+NA
+a
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+det.
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+a
+a
+a
+NA
+NA
+c
+a
+a
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+a
+a
+a
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+a
+a
+a
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+a
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+c
+c
+a
+NA
+c
+a
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+det.
+NA
+c
+a
+NA
+NA
+c
+NA
+det.
+NA
+c
+c
+a
+NA
+NA
+NA
+det.
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+a
+a
+NA
+c
+c
+NA
+c
+c
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+det.
+det.
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+c
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+a
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+c
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+c
+det.
+NA
+det.
+a
+NA
+c
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+c
+det.
+NA
+c
+NA
+a
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+a
+a
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+c
+NA
+c
+c
+a
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+a
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+a
+c
+NA
+c
+NA
+a
+a
+c
+a
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+a
+c
+a
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+c
+c
+c
+NA
+c
+c
+a
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+a
+c
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+c
+NA
+c
+c
+a
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+det.
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+c
+NA
+c
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+c
+det.
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+a
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+NA
+c
+a
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+a
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+c
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+c
+a
+NA
+a
+NA
+a
+a
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+c
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+c
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+c
+c
+c
+c
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+c
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+a
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+a
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+c
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+c
+a
+NA
+c
+a
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+c
+a
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+a
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+a
+c
+det.
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+a
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+c
+a
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+a
+a
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+det.
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+a
+a
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+c
+a
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+c
+a
+NA
+NA
+a
+det.
+NA
+a
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+a
+a
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+c
+det.
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+det.
+NA
+c
+det.
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+NA
+a
+det.
+NA
+c
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+det.
+NA
+det.
+NA
+c
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+det.
+NA
+c
+NA
+a
+a
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+a
+c
+NA
+det.
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+det.
+NA
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+det.
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+c
+a
+det.
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+det.
+c
+a
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+c
+c
+det.
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+c
+NA
+a
+a
+NA
+a
+a
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+a
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+det.
+det.
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+det.
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+det.
+NA
+det.
+det.
+NA
+a
+c
+NA
+c
+a
+NA
+det.
+a
+NA
+det.
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+det.
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+det.
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+det.
+NA
+NA
+a
+c
+a
+NA
+c
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+det.
+NA
+c
+NA
+a
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+det.
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+a
+c
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+det.
+c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+c
+a
+c
+det.
+NA
+c
+NA
+NA
+det.
+a
+NA
+NA
+det.
+det.
+NA
+c
+det.
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+det.
+det.
+NA
+a
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+det.
+det.
+c
+det.
+det.
+NA
+NA
+c
+c
+a
+a
+NA
+a
+a
+c
+a
+NA
+c
+a
+c
+det.
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+a
+c
+c
+c
+NA
+c
+NA
+a
+a
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+a
+a
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+a
+NA
+c
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
+det.
+c
+a
+a
+a
+c
+a
+NA
+c
+c
+a
+c
+a
+NA
+NA
+a
+a
+NA
+det.
+det.
+c
+a
+NA
+NA
+det.
+det.
+NA
+NA
+c
+det.
+NA
+c
+c
+a
+NA
+NA
+a
+a
+c
+det.
+det.
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+a
+det.
+NA
+NA
+det.
+NA
+det.
+a
+a
+a
+c
+NA
+c
+det.
+NA
+det.
+a
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+a
+a
+NA
+det.
+a
+a
+a
+a
+a
+NA
+c
+det.
+NA
+c
+det.
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+det.
+det.
+c
+a
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+a
+a
+NA
+det.
+c
+c
+det.
+det.
+a
+a
+a
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+det.
+NA
+a
+NA
+NA
+a
+a
+c
+c
+det.
+det.
+NA
+det.
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+a
+a
+a
+NA
+NA
+det.
+a
+c
+det.
+det.
+a
+a
+c
+a
+NA
+a
+NA
+NA
+a
+a
+a
+a
+a
+c
+c
+a
+NA
+a
+c
+det.
+det.
+det.
+NA
+a
+a
+a
+a
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+c
+a
+NA
+a
+c
+c
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+a
+a
+c
+det.
+a
+a
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
+det.
+NA
+c
+a
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+c
+a
+a
+c
+a
+a
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+a
+a
+a
+NA
+NA
+det.
+c
+det.
+det.
+det.
+NA
+NA
+c
+det.
+a
+a
+a
+NA
+det.
+det.
+NA
+NA
+c
+NA
+a
+a
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+a
+a
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+det.
+NA
+det.
+c
+det.
+NA
+a
+a
+a
+a
+NA
+NA
+det.
+c
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+det.
+det.
+a
+a
+NA
+a
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+a
+a
+NA
+a
+det.
+NA
+a
+a
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+det.
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+det.
+det.
+NA
+a
+a
+a
+a
+NA
+NA
+det.
+NA
+NA
+c
+det.
+det.
+NA
+a
+a
+a
+NA
+det.
+NA
+NA
+det.
+det.
+det.
+NA
+c
+det.
+NA
+a
+a
+a
+NA
+a
+a
+c
+a
+NA
+det.
+NA
+c
+det.
+c
+det.
+NA
+a
+a
+a
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+c
+det.
+NA
+a
+a
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+det.
+NA
+a
+a
+NA
+det.
+a
+NA
+a
+a
+a
+NA
+det.
+NA
+NA
+NA
+NA
+a
+c
+a
+c
+c
+det.
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+NA
+a
+a
+a
+c
+a
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+c
+c
+a
+NA
+a
+a
+a
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+a
+NA
+a
+NA
+det.
+det.
+a
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+a
+a
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+c
+a
+a
+a
+NA
+det.
+a
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+det.
+det.
+a
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+det.
+det.
+a
+NA
+det.
+NA
+a
+a
+a
+a
+NA
+NA
+det.
+c
+a
+a
+NA
+c
+det.
+det.
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+a
+a
+a
+NA
+NA
+det.
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+det.
+det.
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+det.
+det.
+NA
+c
+a
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+det.
+a
+a
+a
+a
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+a
+a
+a
+NA
+det.
+a
+c
+a
+a
+NA
+a
+a
+a
+c
+c
+NA
+NA
+det.
+det.
+NA
+a
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+c
+a
+c
+a
+c
+NA
+c
+c
+det.
+det.
+NA
+c
+NA
+c
+c
+det.
+c
+c
+a
+c
+a
+c
+a
+c
+NA
+c
+c
+det.
+det.
+a
+c
+c
+a
+c
+det.
+det.
+NA
+NA
+c
+a
+NA
+det.
+NA
+c
+det.
+a
+NA
+NA
+c
+c
+det.
+c
+NA
+NA
+c
+c
+c
+a
+c
+a
+c
+a
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+c
+a
+c
+a
+NA
+NA
+c
+c
+c
+det.
+det.
+det.
+a
+NA
+a
+a
+a
+a
+a
+a
+NA
+a
+a
+c
+NA
+det.
+c
+det.
+det.
+a
+c
+c
+det.
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+det.
+det.
+a
+a
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+a
+det.
+a
+c
+a
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+det.
+det.
+c
+a
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+det.
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+a
+c
+a
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+det.
+a
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+c
+NA
+det.
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+c
+c
+NA
+c
+a
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+det.
+det.
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+det.
+det.
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+det.
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+det.
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+det.
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+a
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+c
+a
+NA
+det.
+NA
+det.
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+c
+NA
+a
+a
+a
+NA
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+det.
+c
+a
+c
+c
+c
+NA
+a
+a
+NA
+c
+c
+a
+a
+det.
+NA
+c
+c
+det.
+c
+a
+NA
+det.
+c
+det.
+NA
+NA
+det.
+c
+det.
+NA
+a
+a
+det.
+det.
+a
+NA
+c
+det.
+a
+a
+c
+det.
+det.
+c
+det.
+NA
+det.
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+c
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+c
+a
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+c
+c
+c
+det.
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+det.
+det.
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+c
+c
+c
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+a
+a
+c
+NA
+a
+NA
+NA
+NA
+a
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+a
+a
+c
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+NA
+a
+det.
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+a
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+c
+c
+NA
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+c
+c
+det.
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+det.
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+a
+c
+det.
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+c
+det.
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+c
+det.
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+c
+a
+a
+a
+NA
+a
+a
+a
+a
+det.
+a
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+det.
+NA
+a
+det.
+NA
+a
+NA
+a
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+c
+NA
+a
+a
+c
+a
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+det.
+c
+a
+NA
+c
+det.
+NA
+det.
+det.
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+c
+det.
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+c
+a
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+det.
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+a
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+det.
+NA
+det.
+c
+c
+c
+NA
+c
+det.
+NA
+c
+det.
+a
+NA
+c
+det.
+NA
+det.
+det.
+NA
+NA
+a
+NA
+c
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+c
+det.
+det.
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+det.
+NA
+det.
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+a
+NA
+c
+det.
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+a
+a
+NA
+c
+c
+NA
+c
+NA
+c
+a
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+c
+det.
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+a
+c
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+det.
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+det.
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+det.
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+c
+det.
+a
+NA
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+det.
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+a
+det.
+NA
+det.
+c
+c
+NA
+c
+c
+NA
+a
+NA
+det.
+NA
+NA
+det.
+a
+c
+det.
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+c
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+a
+a
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+c
+det.
+a
+NA
+c
+det.
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+c
+a
+c
+c
+c
+NA
+c
+a
+c
+NA
+c
+a
+det.
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+c
+NA
+c
+a
+c
+NA
+c
+det.
+NA
+c
+det.
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+a
+a
+NA
+a
+a
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+c
+NA
+NA
+NA
+c
+c
+c
+a
+a
+NA
+a
+NA
+a
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+a
+c
+a
+c
+a
+det.
+det.
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+a
+NA
+a
+a
+a
+a
+NA
+a
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+det.
+det.
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+NA
+det.
+a
+c
+NA
+c
+NA
+a
+a
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+a
+c
+a
+c
+c
+c
+c
+NA
+a
+c
+c
+c
+a
+c
+c
+NA
+det.
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+det.
+c
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+det.
+NA
+a
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+a
+NA
+c
+det.
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+det.
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+c
+c
+c
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+a
+det.
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+a
+a
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+det.
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+c
+NA
+c
+det.
+det.
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+a
+a
+NA
+a
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+det.
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+c
+c
+c
+c
+NA
+a
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+a
+c
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+det.
+c
+det.
+NA
+det.
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+c
+NA
+c
+det.
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+det.
+det.
+c
+NA
+c
+det.
+det.
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+a
+c
+c
+NA
+c
+a
+a
+c
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+det.
+NA
+c
+a
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+c
+det.
+c
+det.
+c
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+det.
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+c
+c
+NA
+a
+det.
+c
+NA
+c
+det.
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+a
+det.
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+det.
+NA
+c
+det.
+c
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+det.
+a
+c
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+a
+c
+det.
+c
+NA
+c
+c
+a
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+det.
+NA
+a
+c
+a
+NA
+NA
+c
+NA
+det.
+NA
+c
+a
+c
+NA
+NA
+c
+c
+c
+NA
+c
+det.
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+det.
+a
+c
+det.
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+a
+a
+c
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+c
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+det.
+NA
+c
+NA
+a
+NA
+c
+det.
+NA
+det.
+NA
+a
+NA
+c
+NA
+c
+det.
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+det.
+c
+NA
+NA
+NA
+a
+NA
+NA
+det.
+c
+a
+c
+a
+NA
+NA
+c
+a
+c
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+det.
+c
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+a
+NA
+c
+c
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+a
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+c
+NA
+det.
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+c
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+c
+a
+NA
+NA
+c
+c
+a
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+c
+c
+c
+NA
+NA
+det.
+a
+NA
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+det.
+a
+c
+a
+c
+det.
+c
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+det.
+det.
+c
+NA
+c
+det.
+det.
+a
+det.
+a
+det.
+a
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+a
+det.
+NA
+NA
+c
+det.
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+det.
+det.
+det.
+det.
+NA
+a
+c
+a
+a
+a
+NA
+a
+a
+a
+det.
+c
+det.
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+det.
+det.
+c
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+c
+det.
+NA
+NA
+NA
+c
+det.
+a
+NA
+a
+NA
+a
+a
+NA
+a
+a
+NA
+c
+NA
+det.
+det.
+NA
+c
+a
+a
+a
+c
+c
+NA
+c
+c
+NA
+a
+c
+c
+a
+NA
+c
+det.
+a
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+a
+c
+c
+a
+NA
+det.
+NA
+c
+a
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+det.
+NA
+det.
+NA
+c
+c
+c
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+a
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+a
+NA
+c
+NA
+c
+det.
+det.
+det.
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+c
+c
+a
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+c
+c
+a
+c
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+a
+a
+c
+a
+det.
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+c
+c
+NA
+det.
+det.
+c
+NA
+c
+a
+det.
+c
+c
+a
+a
+NA
+a
+NA
+c
+c
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+c
+c
+NA
+c
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+det.
+c
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+c
+det.
+NA
+NA
+c
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+c
+c
+a
+c
+a
+a
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+c
+c
+a
+c
+c
+c
+a
+c
+a
+c
+c
+a
+NA
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+a
+NA
+a
+a
+c
+c
+a
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+a
+c
+c
+c
+a
+NA
+c
+c
+a
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+c
+NA
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+c
+a
+c
+a
+NA
+NA
+NA
+c
+a
+a
+a
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+c
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+a
+a
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+det.
+det.
+a
+NA
+NA
+c
+det.
+a
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+a
+a
+det.
+c
+a
+a
+NA
+NA
+c
+det.
+a
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+NA
+a
+NA
+a
+c
+a
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+det.
+c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+a
+c
+NA
+c
+det.
+a
+c
+c
+a
+NA
+a
+a
+a
+NA
+a
+c
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+c
+a
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+a
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+NA
+det.
+a
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+a
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+c
+NA
+a
+det.
+a
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+c
+c
+NA
+c
+det.
+NA
+det.
+det.
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+det.
+NA
+a
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+det.
+c
+NA
+NA
+det.
+det.
+NA
+c
+det.
+NA
+c
+det.
+det.
+NA
+c
+c
+det.
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+a
+det.
+c
+c
+NA
+NA
+a
+NA
+det.
+NA
+a
+a
+NA
+a
+NA
+c
+c
+a
+a
+NA
+NA
+det.
+det.
+NA
+NA
+a
+det.
+det.
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+a
+c
+det.
+NA
+a
+a
+NA
+a
+c
+NA
+det.
+a
+det.
+det.
+det.
+NA
+c
+c
+NA
+NA
+det.
+a
+NA
+a
+NA
+NA
+det.
+det.
+det.
+NA
+NA
+det.
+c
+NA
+det.
+NA
+NA
+a
+a
+c
+a
+NA
+NA
+det.
+det.
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+det.
+NA
+c
+det.
+NA
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+a
+det.
+c
+det.
+NA
+det.
+NA
+c
+c
+det.
+det.
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+c
+det.
+c
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+det.
+NA
+a
+det.
+c
+NA
+NA
+c
+det.
+a
+a
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+det.
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+NA
+a
+c
+NA
+c
+c
+a
+NA
+c
+c
+NA
+a
+det.
+NA
+NA
+NA
+NA
+a
+det.
+c
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+det.
+c
+det.
+NA
+NA
+det.
+NA
+c
+c
+a
+NA
+det.
+NA
+det.
+NA
+det.
+c
+c
+a
+NA
+c
+det.
+det.
+NA
+NA
+det.
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
+det.
+NA
+det.
+NA
+c
+NA
+c
+NA
+c
+a
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+det.
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+det.
+NA
+det.
+c
+NA
+c
+NA
+a
+NA
+c
+a
+det.
+NA
+NA
+c
+c
+c
+a
+a
+c
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+a
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+a
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+c
+a
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+a
+NA
+NA
+a
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+det.
+c
+c
+NA
+NA
+NA
+a
+a
+det.
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+a
+c
+c
+NA
+det.
+NA
+a
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+c
+a
+NA
+a
+NA
+det.
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+det.
+a
+a
+det.
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+c
+det.
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+det.
+det.
+NA
+a
+NA
+NA
+a
+c
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+c
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+a
+NA
+NA
+c
+NA
+det.
+NA
+c
+det.
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+det.
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+det.
+det.
+det.
+NA
+a
+a
+NA
+a
+NA
+c
+a
+a
+a
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+c
+det.
+det.
+NA
+NA
+c
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+c
+a
+a
+c
+NA
+a
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+a
+a
+a
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+c
+c
+a
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+a
+a
+a
+a
+det.
+det.
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+det.
+c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+c
+det.
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+c
+a
+NA
+a
+det.
+NA
+a
+NA
+c
+c
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+det.
+NA
+a
+c
+a
+c
+NA
+c
+det.
+NA
+det.
+det.
+NA
+a
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+det.
+det.
+NA
+NA
+a
+NA
+a
+c
+det.
+NA
+a
+a
+det.
+a
+a
+c
+det.
+c
+NA
+NA
+c
+det.
+a
+a
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+det.
+det.
+c
+det.
+NA
+det.
+det.
+det.
+NA
+det.
+NA
+det.
+NA
+a
+NA
+a
+NA
+det.
+c
+a
+NA
+det.
+c
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+a
+NA
+a
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+c
+det.
+det.
+c
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+a
+c
+a
+det.
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+det.
+a
+NA
+a
+c
+det.
+a
+a
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+det.
+NA
+c
+c
+a
+a
+NA
+c
+a
+NA
+det.
+det.
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+det.
+det.
+NA
+c
+c
+a
+a
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+a
+a
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+det.
+det.
+c
+a
+NA
+a
+NA
+NA
+det.
+NA
+det.
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+det.
+det.
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+det.
+c
+a
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+c
+a
+a
+NA
+det.
+det.
+NA
+det.
+NA
+a
+NA
+a
+NA
+det.
+det.
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+c
+det.
+c
+a
+NA
+det.
+a
+c
+a
+NA
+a
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+a
+NA
+a
+a
+det.
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+c
+c
+a
+a
+det.
+NA
+NA
+c
+a
+a
+c
+a
+det.
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+det.
+NA
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+a
+a
+a
+NA
+det.
+det.
+NA
+det.
+NA
+a
+NA
+a
+NA
+det.
+det.
+NA
+a
+NA
+det.
+NA
+c
+a
+a
+NA
+a
+c
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+a
+a
+NA
+det.
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+a
+a
+a
+a
+NA
+NA
+det.
+det.
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+a
+det.
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+det.
+a
+c
+det.
+NA
+c
+NA
+a
+det.
+NA
+c
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+c
+NA
+det.
+NA
+c
+det.
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+a
+det.
+NA
+NA
+NA
+c
+a
+NA
+det.
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+c
+c
+c
+a
+NA
+c
+det.
+a
+NA
+NA
+a
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+c
+c
+c
+det.
+NA
+c
+det.
+NA
+a
+a
+NA
+det.
+a
+NA
+NA
+det.
+NA
+c
+a
+a
+det.
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+det.
+det.
+NA
+det.
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+c
+a
+a
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+a
+c
+NA
+det.
+c
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+det.
+NA
+c
+a
+NA
+a
+det.
+c
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+a
+a
+NA
+a
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+det.
+a
+c
+c
+det.
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+c
+NA
+a
+c
+c
+NA
+NA
+c
+det.
+det.
+NA
+c
+det.
+NA
+c
+NA
+a
+det.
+NA
+c
+a
+a
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+a
+c
+c
+a
+NA
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+a
+a
+NA
+a
+c
+c
+c
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+c
+a
+NA
+NA
+c
+NA
+c
+c
+c
+a
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+a
+c
+c
+a
+NA
+a
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+c
+NA
+a
+c
+c
+NA
+a
+NA
+a
+NA
+c
+det.
+det.
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+a
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+det.
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+a
+c
+c
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+det.
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+c
+det.
+a
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+det.
+a
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+c
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+det.
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+a
+c
+det.
+NA
+c
+a
+a
+NA
+det.
+NA
+a
+c
+c
+det.
+NA
+det.
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+c
+c
+c
+c
+a
+a
+a
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+a
+a
+c
+NA
+NA
+a
+NA
+c
+c
+a
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+a
+a
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+det.
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+c
+NA
+a
+a
+a
+a
+NA
+a
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+det.
+NA
+NA
+c
+NA
+NA
+a
+c
+det.
+a
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+det.
+NA
+NA
+c
+NA
+a
+c
+a
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+det.
+NA
+NA
+a
+a
+NA
+c
+a
+c
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+det.
+det.
+NA
+c
+det.
+NA
+NA
+det.
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+det.
+c
+c
+a
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+a
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+det.
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+det.
+c
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+c
+c
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+a
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+c
+NA
+NA
+a
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+a
+a
+c
+NA
+a
+c
+a
+a
+NA
+det.
+NA
+NA
+a
+det.
+c
+det.
+NA
+det.
+c
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+a
+a
+NA
+c
+NA
+det.
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+a
+det.
+c
+a
+a
+a
+NA
+c
+c
+a
+a
+NA
+NA
+a
+a
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+det.
+det.
+det.
+NA
+det.
+NA
+NA
+a
+c
+c
+det.
+NA
+c
+det.
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+a
+a
+c
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+a
+a
+NA
+det.
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+det.
+a
+a
+det.
+a
+c
+det.
+a
+NA
+c
+a
+NA
+c
+NA
+det.
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+det.
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+det.
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+a
+a
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+a
+c
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+a
+a
+c
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+a
+c
+NA
+a
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+a
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+det.
+c
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+det.
+NA
+c
+NA
+c
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+det.
+a
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+det.
+a
+c
+NA
+NA
+NA
+c
+NA
+a
+c
+det.
+a
+c
+det.
+a
+a
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+a
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+c
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+det.
+c
+NA
+NA
+det.
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+c
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+c
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+det.
+a
+det.
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+a
+NA
+NA
+det.
+a
+a
+a
+a
+NA
+c
+c
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+det.
+NA
+c
+det.
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+c
+a
+NA
+c
+det.
+NA
+NA
+a
+NA
+det.
+a
+c
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+c
+a
+c
+NA
+c
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+det.
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+det.
+det.
+NA
+a
+c
+NA
+NA
+a
+NA
+c
+c
+c
+c
+a
+a
+det.
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+a
+NA
+c
+det.
+det.
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+c
+det.
+NA
+det.
+c
+NA
+det.
+NA
+NA
+c
+NA
+det.
+a
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+c
+a
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+det.
+a
+a
+NA
+det.
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+a
+NA
+det.
+NA
+a
+a
+NA
+det.
+NA
+det.
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+det.
+NA
+det.
+NA
+c
+a
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+det.
+a
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+a
+a
+a
+a
+a
+NA
+NA
+c
+a
+c
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+a
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+c
+a
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+a
+det.
+NA
+c
+c
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+a
+det.
+NA
+NA
+c
+det.
+NA
+a
+det.
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+a
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+a
+det.
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+det.
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+det.
+NA
+c
+NA
+det.
+c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+a
+det.
+a
+det.
+a
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+det.
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+det.
+c
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+a
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+NA
+c
+a
+a
+a
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+det.
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+c
+det.
+NA
+a
+NA
+a
+NA
+det.
+a
+NA
+NA
+det.
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+NA
+NA
+c
+a
+a
+a
+det.
+NA
+a
+a
+NA
+c
+a
+a
+c
+a
+a
+NA
+a
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+det.
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+a
+NA
+det.
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+det.
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+a
+NA
+det.
+det.
+NA
+NA
+c
+det.
+NA
+det.
+det.
+det.
+NA
+det.
+NA
+c
+c
+NA
+det.
+NA
+det.
+c
+NA
+det.
+a
+NA
+det.
+NA
+NA
+a
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+a
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+a
+a
+NA
+c
+det.
+c
+c
+NA
+a
+c
+a
+a
+NA
+c
+NA
+c
+a
+a
+det.
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+c
+a
+c
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
+a
+det.
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+c
+c
+NA
+NA
+c
+c
+det.
+det.
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+a
+NA
+c
+c
+det.
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+a
+a
+a
+a
+a
+NA
+c
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+c
+a
+c
+a
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+det.
+NA
+a
+NA
+c
+det.
+NA
+a
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+a
+det.
+a
+a
+a
+c
+NA
+a
+NA
+NA
+a
+det.
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+c
+det.
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+a
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+det.
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+a
+det.
+det.
+NA
+NA
+c
+NA
+det.
+c
+a
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+det.
+NA
+a
+c
+NA
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+det.
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+a
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+a
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+a
+det.
+c
+a
+a
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+det.
+NA
+a
+a
+NA
+c
+det.
+a
+a
+a
+det.
+NA
+c
+det.
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+det.
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+c
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+a
+c
+a
+NA
+a
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+det.
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+c
+NA
+c
+c
+NA
+a
+NA
+det.
+NA
+a
+det.
+NA
+NA
+NA
+det.
+NA
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+a
+NA
+c
+det.
+c
+NA
+c
+det.
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+det.
+NA
+a
+det.
+NA
+c
+c
+det.
+det.
+NA
+c
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+c
+NA
+det.
+a
+NA
+c
+det.
+det.
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+a
+a
+NA
+det.
+NA
+det.
+det.
+NA
+det.
+a
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+NA
+det.
+c
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+a
+NA
+c
+det.
+det.
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+det.
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+c
+det.
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+c
+NA
+a
+c
+a
+a
+c
+NA
+NA
+a
+a
+c
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+det.
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+det.
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+det.
+c
+det.
+det.
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+det.
+a
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+det.
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+c
+c
+NA
+a
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+a
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+det.
+c
+NA
+c
+NA
+det.
+NA
+a
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+det.
+det.
+NA
+a
+NA
+a
+NA
+det.
+NA
+c
+c
+a
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+det.
+NA
+c
+a
+c
+a
+a
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+det.
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+a
+NA
+det.
+det.
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+a
+det.
+NA
+det.
+c
+det.
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+det.
+det.
+det.
+NA
+det.
+det.
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+c
+c
+det.
+det.
+NA
+NA
+NA
+det.
+c
+det.
+NA
+det.
+NA
+NA
+det.
+c
+a
+NA
+c
+det.
+NA
+det.
+c
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+a
+NA
+c
+NA
+NA
+NA
+c
+det.
+det.
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+det.
+det.
+c
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+det.
+det.
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+det.
+a
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+det.
+det.
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+NA
+a
+a
+NA
+c
+c
+c
+det.
+NA
+det.
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+det.
+c
+NA
+det.
+NA
+a
+NA
+c
+det.
+det.
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+det.
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+a
+a
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+a
+c
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+NA
+det.
+a
+c
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+det.
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+c
+c
+c
+a
+c
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+a
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+det.
+a
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+c
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+det.
+c
+a
+det.
+NA
+NA
+a
+a
+NA
+c
+c
+a
+det.
+det.
+NA
+c
+det.
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+a
+a
+NA
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+det.
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+c
+det.
+c
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+det.
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+det.
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+det.
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+a
+c
+c
+c
+c
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+det.
+a
+NA
+NA
+NA
+NA
+a
+a
+c
+c
+det.
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+c
+c
+det.
+det.
+a
+NA
+c
+NA
+c
+c
+a
+NA
+a
+c
+c
+NA
+c
+c
+det.
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+det.
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+c
+a
+det.
+c
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+det.
+c
+a
+NA
+a
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+c
+NA
+c
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+a
+NA
+c
+a
+a
+NA
+a
+NA
+c
+a
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+c
+NA
+NA
+c
+c
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+a
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+a
+c
+c
+a
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+c
+c
+c
+NA
+a
+NA
+c
+c
+c
+NA
+c
+a
+a
+NA
+c
+a
+c
+a
+c
+a
+c
+a
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+c
+a
+a
+c
+c
+a
+NA
+c
+c
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+a
+NA
+a
+a
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+a
+c
+a
+a
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+det.
+NA
+c
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+NA
+c
+a
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+a
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+NA
+a
+c
+c
+c
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+a
+a
+NA
+a
+det.
+c
+NA
+a
+c
+c
+a
+NA
+c
+c
+c
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+c
+c
+c
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+c
+c
+a
+a
+NA
+c
+c
+a
+a
+a
+a
+c
+c
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+a
+a
+c
+c
+c
+c
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+NA
+c
+c
+c
+NA
+c
+c
+NA
+c
+c
+c
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+c
+det.
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+a
+a
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+a
+a
+a
+NA
+c
+c
+det.
+NA
+NA
+a
+c
+c
+NA
+a
+c
+c
+a
+a
+c
+NA
+NA
+c
+a
+NA
+c
+c
+c
+a
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+c
+det.
+c
+a
+c
+NA
+c
+NA
+c
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+NA
+c
+c
+a
+a
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+det.
+a
+a
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+det.
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+c
+c
+det.
+a
+a
+NA
+c
+det.
+NA
+c
+a
+a
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+a
+c
+a
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+a
+c
+c
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+a
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+c
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+c
+a
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+c
+a
+a
+c
+NA
+NA
+c
+a
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+a
+det.
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+c
+a
+a
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+c
+c
+a
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+a
+NA
+a
+c
+c
+NA
+NA
+a
+NA
+a
+a
+a
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+c
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+c
+a
+NA
+c
+c
+NA
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+a
+det.
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+c
+NA
+NA
+det.
+c
+c
+a
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+det.
+c
+NA
+NA
+NA
+c
+a
+a
+c
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+c
+a
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+a
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+c
+det.
+NA
+c
+c
+c
+a
+c
+a
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+det.
+NA
+a
+c
+a
+a
+NA
+c
+c
+a
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+a
+a
+a
+a
+c
+NA
+NA
+c
+a
+a
+a
+NA
+a
+NA
+c
+a
+c
+c
+NA
+a
+a
+c
+a
+NA
+a
+NA
+c
+a
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+a
+c
+a
+a
+NA
+NA
+a
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+c
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+det.
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+det.
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+det.
+NA
+c
+c
+a
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+NA
+a
+a
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+a
+a
+a
+NA
+c
+c
+a
+a
+NA
+NA
+c
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+c
+NA
+a
+a
+NA
+c
+NA
+a
+a
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+a
+c
+c
+NA
+a
+NA
+a
+a
+NA
+a
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+a
+a
+a
+c
+c
+NA
+a
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+det.
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+det.
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+a
+det.
+a
+a
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+det.
+NA
+a
+c
+NA
+c
+NA
+a
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+NA
+det.
+NA
+a
+a
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+det.
+a
+a
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+a
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+a
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+det.
+c
+NA
+a
+det.
+NA
+a
+c
+NA
+NA
+det.
+c
+c
+NA
+c
+det.
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+det.
+c
+NA
+c
+NA
+det.
+c
+NA
+NA
+a
+c
+c
+det.
+a
+NA
+a
+NA
+det.
+a
+det.
+c
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+det.
+NA
+c
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+det.
+det.
+c
+det.
+a
+NA
+a
+NA
+det.
+c
+NA
+det.
+c
+NA
+c
+det.
+c
+NA
+NA
+det.
+c
+NA
+c
+c
+NA
+det.
+c
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+det.
+c
+det.
+det.
+a
+a
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+det.
+c
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+NA
+NA
+det.
+c
+NA
+c
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+det.
+c
+c
+det.
+det.
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+det.
+c
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+NA
+det.
+c
+c
+det.
+a
+c
+det.
+c
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+det.
+NA
+a
+c
+NA
+NA
+NA
+NA
+det.
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+a
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+det.
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+det.
+det.
+a
+c
+det.
+det.
+a
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+det.
+NA
+NA
+a
+NA
+c
+c
+NA
+det.
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+c
+det.
+det.
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+det.
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+det.
+det.
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+det.
+NA
+a
+c
+det.
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+det.
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+a
+a
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+det.
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
+det.
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+a
+det.
+NA
+a
+NA
+a
+det.
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+a
+det.
+NA
+a
+a
+a
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+c
+det.
+NA
+NA
+det.
+c
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+a
+det.
+NA
+NA
+det.
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+a
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+c
+det.
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+det.
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+a
+c
+c
+NA
+NA
+a
+c
+NA
+a
+NA
+c
+a
+a
+a
+NA
+NA
+a
+a
+NA
+det.
+det.
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+c
+det.
+det.
+NA
+c
+det.
+NA
+a
+NA
+c
+det.
+det.
+c
+det.
+a
+a
+NA
+a
+det.
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+a
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+c
+det.
+det.
+c
+a
+NA
+NA
+a
+NA
+c
+a
+det.
+det.
+NA
+a
+c
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+c
+det.
+a
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+det.
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+c
+det.
+det.
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+det.
+det.
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+det.
+det.
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+det.
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+a
+det.
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+det.
+a
+a
+a
+a
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+det.
+a
+a
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+c
+a
+c
+a
+c
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+c
+NA
+c
+a
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+det.
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+NA
+a
+c
+det.
+NA
+det.
+det.
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+c
+det.
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+c
+det.
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+det.
+det.
+NA
+c
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+det.
+c
+NA
+NA
+a
+NA
+det.
+c
+NA
+c
+det.
+NA
+NA
+det.
+c
+det.
+NA
+NA
+c
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+a
+a
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+a
+det.
+c
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+a
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+a
+NA
+NA
+a
+NA
+det.
+NA
+NA
+c
+a
+a
+det.
+c
+NA
+NA
+NA
+NA
+a
+det.
+c
+NA
+NA
+det.
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+a
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+det.
+NA
+NA
+det.
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+a
+a
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+c
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+det.
+a
+det.
+NA
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+c
+det.
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+a
+c
+a
+c
+c
+c
+a
+a
+a
+NA
+c
+NA
+c
+det.
+a
+NA
+NA
+NA
+a
+det.
+NA
+det.
+det.
+c
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+a
+c
+c
+NA
+a
+c
+NA
+a
+det.
+NA
+det.
+NA
+a
+NA
+det.
+a
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+det.
+c
+NA
+det.
+det.
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+det.
+a
+NA
+NA
+a
+NA
+a
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+det.
+det.
+a
+NA
+c
+c
+det.
+a
+c
+a
+NA
+NA
+NA
+NA
+c
+det.
+c
+a
+a
+a
+c
+NA
+a
+a
+a
+NA
+a
+a
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+c
+NA
+NA
+NA
+det.
+a
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+det.
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+det.
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+a
+a
+NA
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+a
+c
+a
+NA
+c
+a
+a
+a
+a
+NA
+c
+a
+NA
+a
+a
+c
+a
+a
+a
+c
+NA
+a
+c
+a
+NA
+NA
+NA
+a
+c
+a
+NA
+a
+det.
+det.
+NA
+det.
+det.
+a
+a
+NA
+a
+NA
+a
+NA
+det.
+det.
+NA
+a
+NA
+c
+NA
+det.
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+det.
+c
+NA
+a
+a
+a
+c
+a
+NA
+c
+NA
+det.
+NA
+c
+c
+det.
+det.
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+a
+NA
+det.
+NA
+c
+a
+NA
+NA
+a
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+det.
+det.
+det.
+NA
+NA
+a
+det.
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+det.
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+det.
+c
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+NA
+det.
+a
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+det.
+c
+NA
+det.
+NA
+c
+c
+NA
+a
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+c
+c
+a
+c
+a
+NA
+c
+det.
+NA
+c
+c
+a
+a
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+a
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+det.
+a
+NA
+a
+a
+c
+NA
+det.
+NA
+NA
+c
+a
+NA
+a
+c
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+det.
+c
+a
+a
+NA
+NA
+det.
+a
+NA
+NA
+a
+NA
+NA
+det.
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+det.
+c
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+det.
+det.
+det.
+NA
+c
+NA
+a
+a
+a
+NA
+det.
+det.
+a
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+a
+det.
+a
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+det.
+c
+NA
+a
+NA
+det.
+NA
+NA
+det.
+c
+NA
+NA
+NA
+c
+det.
+det.
+NA
+det.
+c
+det.
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+det.
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+c
+a
+NA
+a
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+a
+det.
+a
+NA
+NA
+NA
+a
+NA
+c
+det.
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+det.
+a
+NA
+a
+a
+NA
+c
+a
+a
+a
+a
+c
+det.
+a
+NA
+det.
+NA
+c
+a
+NA
+det.
+NA
+c
+a
+c
+a
+NA
+c
+det.
+a
+a
+NA
+NA
+det.
+NA
+a
+det.
+a
+NA
+det.
+NA
+det.
+a
+a
+c
+c
+a
+NA
+c
+a
+a
+c
+NA
+det.
+c
+NA
+a
+a
+a
+a
+NA
+NA
+det.
+a
+a
+a
+NA
+NA
+a
+a
+det.
+det.
+a
+NA
+a
+a
+det.
+NA
+det.
+NA
+NA
+a
+a
+NA
+a
+det.
+NA
+det.
+det.
+NA
+a
+NA
+a
+NA
+det.
+NA
+NA
+a
+c
+c
+a
+c
+c
+NA
+a
+a
+a
+NA
+NA
+det.
+a
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+det.
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+det.
+c
+NA
+c
+a
+a
+a
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+c
+NA
+c
+a
+a
+a
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+c
+c
+det.
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+c
+det.
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+det.
+det.
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+a
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+c
+det.
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+c
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+c
+a
+a
+c
+c
+NA
+NA
+c
+c
+c
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+a
+det.
+det.
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+a
+a
+NA
+a
+a
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+a
+a
+a
+a
+a
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+c
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+c
+NA
+NA
+c
+c
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+c
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+det.
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
+det.
+a
+c
+a
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+c
+a
+c
+c
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+c
+a
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+c
+a
+a
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+NA
+det.
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+a
+a
+a
+a
+NA
+a
+a
+NA
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+det.
+det.
+det.
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+c
+a
+NA
+det.
+det.
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+a
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+a
+det.
+a
+a
+NA
+NA
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+NA
+a
+a
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+c
+a
+a
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+a
+a
+NA
+NA
+NA
+det.
+det.
+NA
+c
+NA
+c
+NA
+det.
+c
+NA
+c
+NA
+c
+c
+NA
+c
+det.
+det.
+c
+NA
+NA
+c
+c
+det.
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+c
+c
+det.
+det.
+det.
+c
+a
+NA
+a
+NA
+NA
+NA
+det.
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+det.
+c
+NA
+c
+det.
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+a
+NA
+det.
+c
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+det.
+det.
+det.
+a
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+det.
+det.
+NA
+c
+a
+a
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+a
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+det.
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+c
+a
+NA
+det.
+NA
+NA
+det.
+c
+a
+NA
+a
+NA
+a
+a
+c
+a
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+det.
+det.
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+c
+det.
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+a
+det.
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+det.
+c
+a
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+det.
+det.
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+c
+a
+a
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+c
+c
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+det.
+c
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+a
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+det.
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+c
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+c
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+a
+det.
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+a
+a
+a
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+det.
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+a
+c
+c
+NA
+c
+c
+a
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+c
+a
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+c
+c
+det.
+NA
+a
+NA
+a
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+det.
+a
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+det.
+NA
+c
+det.
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+c
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+c
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+a
+c
+c
+c
+c
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
+a
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+c
+det.
+c
+det.
+c
+c
+c
+det.
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+c
+det.
+det.
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+det.
+c
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+c
+c
+a
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+det.
+a
+NA
+c
+NA
+det.
+NA
+NA
+a
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+det.
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+c
+a
+NA
+a
+NA
+det.
+det.
+NA
+c
+c
+NA
+det.
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+det.
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+det.
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+det.
+NA
+det.
+NA
+det.
+det.
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+det.
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+c
+a
+a
+det.
+det.
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+det.
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+det.
+a
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+a
+a
+NA
+det.
+NA
+det.
+NA
+NA
+c
+NA
+NA
+det.
+det.
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+det.
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+det.
+a
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+det.
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+c
+NA
+det.
+c
+NA
+a
+a
+det.
+det.
+NA
+NA
+NA
+a
+a
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+a
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+a
+NA
+c
+c
+NA
+c
+c
+c
+NA
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+det.
+det.
+NA
+a
+NA
+a
+a
+a
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+det.
+a
+NA
+c
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+det.
+det.
+NA
+a
+c
+c
+c
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+det.
+NA
+det.
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+c
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+det.
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+det.
+det.
+NA
+NA
+a
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+det.
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+det.
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+det.
+det.
+det.
+NA
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+a
+NA
+c
+NA
+a
+a
+NA
+c
+a
+a
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+det.
+c
+det.
+c
+c
+det.
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+det.
+c
+a
+a
+NA
+det.
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+a
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+det.
+NA
+c
+c
+det.
+a
+NA
+NA
+c
+c
+NA
+det.
+det.
+a
+NA
+det.
+a
+NA
+NA
+NA
+c
+c
+c
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+det.
+c
+det.
+c
+a
+NA
+c
+NA
+det.
+det.
+a
+a
+NA
+det.
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+det.
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+det.
+a
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+a
+a
+det.
+c
+det.
+NA
+det.
+a
+det.
+NA
+det.
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+c
+det.
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+a
+a
+NA
+c
+c
+det.
+NA
+det.
+NA
+NA
+NA
+a
+c
+det.
+NA
+a
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+det.
+a
+a
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+det.
+a
+a
+NA
+NA
+c
+a
+NA
+det.
+c
+NA
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+det.
+NA
+NA
+det.
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+det.
+NA
+det.
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+det.
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+det.
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+c
+det.
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+c
+NA
+c
+det.
+NA
+det.
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+det.
+det.
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+a
+a
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+det.
+NA
+det.
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+det.
+det.
+a
+det.
+NA
+det.
+NA
+c
+det.
+NA
+a
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+det.
+a
+NA
+a
+a
+NA
+a
+c
+a
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+c
+det.
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+det.
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+a
+NA
+c
+det.
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+c
+det.
+det.
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+c
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+det.
+det.
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+a
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+c
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+NA
+c
+det.
+NA
+c
+c
+c
+a
+c
+c
+c
+c
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+a
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+a
+a
+c
+c
+a
+det.
+c
+c
+c
+a
+c
+c
+NA
+c
+c
+a
+c
+c
+c
+c
+a
+c
+a
+c
+det.
+c
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+c
+a
+c
+c
+a
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+a
+a
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+a
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+c
+c
+a
+NA
+c
+c
+c
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+c
+c
+a
+NA
+c
+c
+c
+det.
+NA
+c
+c
+NA
+c
+a
+c
+c
+c
+NA
+c
+NA
+c
+NA
+a
+c
+c
+det.
+NA
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+det.
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+a
+c
+c
+a
+a
+NA
+a
+det.
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+c
+NA
+c
+c
+a
+c
+NA
+c
+a
+a
+a
+NA
+c
+c
+a
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+a
+a
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+c
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+det.
+det.
+a
+NA
+c
+a
+NA
+det.
+NA
+c
+a
+a
+NA
+c
+c
+a
+a
+NA
+a
+c
+c
+a
+c
+a
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+a
+c
+c
+c
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+det.
+det.
+a
+NA
+a
+c
+a
+a
+a
+NA
+det.
+det.
+NA
+a
+c
+NA
+NA
+NA
+det.
+det.
+a
+NA
+a
+c
+a
+c
+NA
+c
+det.
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+det.
+det.
+a
+c
+c
+a
+c
+a
+c
+c
+c
+c
+c
+c
+a
+c
+c
+c
+a
+c
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+c
+c
+c
+c
+c
+a
+c
+c
+c
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+c
+a
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+c
+a
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+a
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+a
+NA
+c
+c
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+a
+c
+c
+c
+NA
+c
+c
+c
+NA
+a
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+c
+c
+c
+a
+NA
+a
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+a
+det.
+c
+det.
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+c
+c
+det.
+det.
+NA
+a
+a
+NA
+det.
+NA
+c
+a
+det.
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+a
+NA
+c
+c
+c
+c
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+c
+a
+c
+c
+NA
+c
+c
+c
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+a
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+a
+c
+a
+NA
+c
+a
+a
+a
+a
+NA
+c
+c
+a
+NA
+c
+a
+c
+c
+c
+a
+c
+c
+NA
+c
+c
+c
+c
+c
+c
+c
+a
+a
+a
+c
+c
+a
+NA
+a
+det.
+NA
+c
+a
+a
+c
+a
+c
+a
+c
+c
+c
+a
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+c
+c
+a
+a
+c
+c
+a
+c
+a
+c
+a
+c
+a
+NA
+c
+a
+c
+c
+a
+a
+c
+a
+NA
+c
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+c
+det.
+a
+a
+NA
+c
+a
+a
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+a
+c
+c
+NA
+NA
+a
+c
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+c
+det.
+det.
+NA
+a
+NA
+a
+a
+a
+NA
+c
+a
+a
+a
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+c
+NA
+c
+c
+c
+a
+NA
+c
+c
+c
+c
+c
+a
+a
+NA
+c
+a
+NA
+c
+c
+a
+det.
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+c
+det.
+det.
+NA
+c
+c
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+det.
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+c
+c
+c
+c
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+a
+NA
+c
+det.
+NA
+c
+c
+c
+a
+c
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+a
+c
+a
+a
+NA
+det.
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+c
+a
+a
+c
+a
+c
+a
+c
+a
+c
+a
+NA
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+c
+c
+c
+c
+NA
+c
+c
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+c
+c
+c
+NA
+a
+c
+c
+a
+NA
+a
+c
+NA
+c
+c
+c
+a
+NA
+a
+a
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+c
+a
+a
+a
+c
+a
+c
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+c
+a
+c
+a
+a
+NA
+c
+NA
+c
+a
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+a
+a
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+c
+c
+a
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+det.
+NA
+c
+a
+a
+NA
+a
+c
+a
+a
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+a
+c
+NA
+a
+c
+c
+c
+det.
+NA
+c
+c
+a
+NA
+NA
+c
+a
+c
+a
+NA
+c
+NA
+a
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+det.
+NA
+c
+c
+c
+NA
+c
+a
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+det.
+a
+NA
+c
+c
+NA
+c
+a
+c
+c
+a
+NA
+c
+a
+a
+a
+NA
+c
+c
+a
+c
+c
+a
+a
+c
+c
+NA
+NA
+c
+c
+a
+c
+c
+a
+c
+a
+a
+NA
+c
+a
+c
+c
+a
+NA
+c
+a
+c
+a
+NA
+NA
+c
+a
+c
+a
+a
+a
+NA
+c
+a
+a
+c
+c
+a
+a
+NA
+c
+c
+det.
+NA
+c
+c
+c
+c
+c
+c
+a
+a
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+a
+c
+det.
+NA
+c
+det.
+NA
+c
+a
+a
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+NA
+c
+a
+c
+c
+NA
+NA
+c
+a
+c
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+c
+c
+a
+c
+c
+a
+NA
+c
+a
+c
+c
+c
+a
+c
+a
+c
+c
+a
+NA
+a
+NA
+c
+a
+c
+a
+a
+c
+a
+a
+c
+c
+c
+c
+a
+a
+c
+c
+a
+c
+a
+NA
+c
+c
+c
+a
+NA
+c
+c
+a
+NA
+a
+a
+a
+c
+c
+NA
+c
+c
+c
+a
+NA
+c
+det.
+c
+c
+c
+det.
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+c
+c
+a
+c
+a
+a
+NA
+NA
+a
+c
+c
+a
+c
+a
+NA
+c
+a
+NA
+a
+a
+c
+c
+NA
+c
+NA
+a
+det.
+a
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+c
+a
+c
+c
+a
+a
+NA
+a
+NA
+det.
+det.
+NA
+c
+c
+det.
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+c
+a
+c
+a
+a
+a
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+a
+c
+a
+c
+a
+a
+a
+a
+NA
+c
+c
+det.
+NA
+c
+c
+a
+NA
+a
+c
+NA
+c
+a
+NA
+c
+c
+c
+c
+a
+NA
+NA
+c
+c
+a
+a
+NA
+c
+c
+a
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+c
+a
+a
+NA
+c
+c
+c
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+NA
+a
+c
+c
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+a
+c
+c
+NA
+a
+c
+NA
+c
+a
+NA
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+a
+c
+det.
+a
+NA
+a
+c
+c
+a
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+c
+c
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+a
+c
+c
+a
+NA
+c
+NA
+c
+a
+c
+a
+a
+a
+c
+c
+a
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+c
+a
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+c
+c
+a
+det.
+NA
+a
+c
+det.
+NA
+c
+c
+c
+c
+c
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+c
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+a
+c
+c
+a
+c
+c
+c
+a
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+c
+a
+a
+NA
+NA
+NA
+a
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+det.
+c
+c
+NA
+NA
+c
+a
+NA
+a
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+det.
+NA
+a
+c
+c
+det.
+NA
+c
+det.
+c
+a
+c
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+c
+c
+det.
+NA
+a
+det.
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+a
+NA
+c
+c
+a
+NA
+c
+a
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+a
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+det.
+a
+NA
+c
+c
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+det.
+det.
+NA
+NA
+a
+det.
+det.
+NA
+c
+det.
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+a
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+a
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+det.
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+c
+a
+NA
+c
+a
+c
+NA
+c
+a
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+c
+c
+a
+NA
+a
+NA
+c
+c
+NA
+c
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+c
+a
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+a
+c
+NA
+NA
+a
+NA
+a
+a
+c
+NA
+a
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+a
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+det.
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+a
+a
+c
+det.
+NA
+a
+c
+det.
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+c
+a
+a
+NA
+c
+NA
+c
+c
+NA
+a
+c
+det.
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+a
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+c
+a
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+a
+NA
+a
+a
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+c
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+c
+a
+a
+a
+a
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+a
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+a
+a
+c
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+c
+NA
+a
+c
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+det.
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+c
+c
+c
+NA
+c
+a
+det.
+NA
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+det.
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+c
+c
+NA
+a
+c
+NA
+a
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+c
+c
+NA
+NA
+c
+NA
+c
+c
+a
+c
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+c
+c
+a
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+c
+NA
+a
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+a
+c
+c
+NA
+c
+a
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+c
+a
+c
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+a
+c
+c
+a
+NA
+a
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+c
+det.
+NA
+det.
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+a
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+c
+a
+NA
+c
+a
+c
+a
+NA
+a
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+a
+a
+c
+c
+det.
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+a
+NA
+c
+a
+c
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+c
+c
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+c
+a
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+c
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+a
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+det.
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+a
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+c
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+c
+c
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+c
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+a
+a
+NA
+c
+c
+a
+a
+NA
+c
+c
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+NA
+c
+a
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+det.
+a
+NA
+c
+c
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+c
+det.
+NA
+det.
+c
+a
+NA
+c
+c
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+det.
+c
+det.
+NA
+det.
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+det.
+det.
+det.
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+c
+det.
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+det.
+NA
+NA
+det.
+c
+c
+det.
+NA
+c
+a
+NA
+det.
+a
+NA
+a
+a
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+a
+NA
+c
+a
+c
+a
+c
+a
+NA
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+det.
+NA
+c
+c
+NA
+a
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+a
+c
+NA
+c
+NA
+a
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+det.
+a
+a
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+a
+a
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+det.
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+a
+c
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+det.
+NA
+det.
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+a
+NA
+NA
+NA
+NA
+a
+a
+c
+a
+a
+NA
+c
+c
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+c
+det.
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+a
+a
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+c
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+a
+det.
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+c
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+c
+a
+c
+NA
+NA
+NA
+c
+c
+a
+c
+a
+c
+c
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+NA
+a
+a
+a
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+a
+c
+a
+NA
+c
+c
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+a
+c
+a
+c
+a
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+c
+c
+c
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+c
+c
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+a
+a
+NA
+c
+c
+a
+a
+NA
+NA
+c
+c
+a
+c
+NA
+a
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+NA
+a
+det.
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+det.
+a
+NA
+a
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+a
+a
+c
+a
+a
+c
+a
+det.
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+a
+NA
+c
+c
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+a
+c
+a
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+c
+c
+c
+NA
+c
+det.
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+a
+a
+det.
+c
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+a
+det.
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+det.
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+a
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+det.
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+a
+c
+a
+NA
+a
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+c
+c
+NA
+c
+a
+c
+c
+NA
+NA
+c
+c
+a
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+c
+c
+a
+a
+a
+c
+c
+a
+a
+c
+c
+c
+c
+a
+c
+a
+c
+a
+NA
+c
+a
+a
+NA
+a
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+a
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+c
+c
+a
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+a
+a
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+c
+a
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+a
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+a
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+a
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+a
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+det.
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+a
+a
+NA
+c
+a
+NA
+a
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+a
+c
+a
+a
+a
+a
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+c
+c
+a
+det.
+NA
+det.
+NA
+c
+c
+a
+NA
+c
+det.
+NA
+det.
+a
+c
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+a
+NA
+a
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+c
+c
+c
+c
+c
+c
+NA
+c
+c
+c
+c
+c
+c
+NA
+c
+a
+det.
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+a
+c
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+c
+a
+c
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+a
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+det.
+det.
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+a
+NA
+det.
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+det.
+c
+det.
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+c
+c
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+det.
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+c
+det.
+a
+NA
+c
+NA
+a
+c
+NA
+c
+c
+c
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+det.
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+c
+c
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+c
+a
+a
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+det.
+a
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+det.
+NA
+a
+c
+NA
+a
+a
+NA
+c
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+c
+c
+c
+a
+c
+a
+a
+NA
+c
+a
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+c
+a
+c
+a
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+c
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+det.
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+c
+c
+NA
+NA
+a
+NA
+a
+a
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+a
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+c
+a
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+a
+a
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+c
+c
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+a
+det.
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+c
+a
+a
+det.
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+c
+det.
+NA
+c
+NA
+a
+a
+NA
+NA
+det.
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+det.
+det.
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+a
+det.
+det.
+NA
+c
+det.
+det.
+NA
+c
+NA
+c
+det.
+NA
+a
+a
+a
+c
+a
+NA
+a
+NA
+c
+det.
+a
+NA
+a
+NA
+c
+det.
+det.
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+a
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+det.
+NA
+c
+a
+NA
+NA
+det.
+det.
+NA
+c
+det.
+a
+det.
+det.
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+a
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+c
+det.
+c
+det.
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+a
+NA
+a
+det.
+a
+c
+a
+NA
+c
+a
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+det.
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+c
+a
+a
+NA
+c
+c
+a
+NA
+NA
+a
+c
+c
+det.
+det.
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+det.
+det.
+NA
+a
+c
+det.
+NA
+c
+NA
+c
+a
+NA
+det.
+a
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+a
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+a
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+a
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+c
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+a
+NA
+det.
+NA
+NA
+c
+det.
+det.
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+det.
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+det.
+a
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+det.
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+det.
+a
+a
+a
+NA
+det.
+NA
+c
+a
+a
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+a
+NA
+a
+NA
+c
+c
+det.
+c
+c
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+det.
+c
+a
+det.
+a
+NA
+NA
+NA
+NA
+a
+det.
+det.
+NA
+det.
+NA
+a
+NA
+a
+a
+c
+c
+c
+det.
+det.
+NA
+NA
+a
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+c
+c
+c
+det.
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+det.
+NA
+det.
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+det.
+a
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+c
+det.
+det.
+det.
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+det.
+det.
+NA
+det.
+NA
+NA
+c
+det.
+c
+det.
+NA
+NA
+a
+a
+NA
+det.
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+c
+c
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+a
+NA
+c
+a
+NA
+NA
+det.
+NA
+c
+NA
+c
+c
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+c
+NA
+NA
+det.
+c
+det.
+c
+NA
+det.
+c
+c
+a
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+det.
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+det.
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+det.
+det.
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+a
+a
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+c
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+c
+a
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+a
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+det.
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+c
+NA
+a
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+a
+a
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+c
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+c
+a
+a
+NA
+a
+a
+NA
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+c
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+a
+c
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+a
+c
+NA
+a
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+a
+NA
+NA
+NA
+a
+c
+c
+c
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+c
+c
+NA
+det.
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+det.
+a
+a
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+a
+det.
+NA
+c
+a
+NA
+c
+a
+det.
+NA
+a
+a
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+c
+a
+c
+c
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+a
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+a
+NA
+NA
+det.
+det.
+det.
+a
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+c
+c
+a
+det.
+NA
+a
+c
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+a
+c
+det.
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+a
+c
+NA
+det.
+NA
+NA
+det.
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+a
+c
+c
+NA
+c
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+a
+a
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+det.
+NA
+a
+c
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+a
+c
+c
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+det.
+det.
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+c
+det.
+c
+c
+a
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+a
+c
+c
+a
+a
+NA
+a
+NA
+NA
+c
+c
+a
+c
+c
+a
+NA
+NA
+c
+a
+NA
+a
+a
+a
+c
+NA
+a
+a
+c
+a
+c
+a
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+a
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+a
+c
+a
+a
+a
+c
+a
+c
+det.
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+c
+NA
+det.
+c
+a
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+det.
+det.
+det.
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+det.
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+det.
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+det.
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+a
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+det.
+NA
+det.
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+a
+a
+a
+NA
+c
+det.
+NA
+NA
+c
+c
+a
+c
+c
+c
+a
+NA
+det.
+det.
+NA
+c
+a
+NA
+a
+NA
+det.
+c
+c
+a
+NA
+c
+a
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+det.
+NA
+a
+NA
+NA
+det.
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+det.
+det.
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+a
+NA
+a
+a
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+c
+a
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+a
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+a
+a
+NA
+c
+det.
+NA
+c
+det.
+a
+c
+det.
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+c
+c
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+a
+c
+c
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+a
+NA
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+det.
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+det.
+a
+a
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+det.
+det.
+c
+a
+NA
+c
+c
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+a
+det.
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+det.
+det.
+c
+c
+c
+c
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+c
+a
+c
+a
+c
+a
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+a
+c
+c
+NA
+c
+NA
+NA
+c
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+a
+c
+a
+a
+a
+NA
+a
+NA
+det.
+a
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+a
+c
+a
+a
+NA
+c
+c
+c
+a
+a
+NA
+a
+c
+NA
+NA
+c
+NA
+det.
+NA
+c
+c
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+c
+c
+NA
+NA
+c
+c
+NA
+c
+a
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+c
+c
+a
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+a
+det.
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+c
+c
+NA
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+a
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+c
+a
+c
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+a
+c
+NA
+c
+c
+c
+a
+NA
+c
+det.
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+c
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+c
+c
+NA
+c
+c
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+a
+NA
+c
+a
+c
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+a
+c
+c
+c
+NA
+a
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+c
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+det.
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+det.
+c
+det.
+c
+det.
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+c
+c
+a
+a
+NA
+c
+c
+c
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+c
+a
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+c
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+c
+NA
+c
+a
+a
+a
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+a
+a
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+NA
+c
+c
+c
+c
+a
+NA
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+det.
+NA
+c
+c
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+c
+det.
+det.
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+c
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+det.
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+a
+det.
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+c
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+det.
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+det.
+det.
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+det.
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+a
+a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+a
+NA
+det.
+NA
+det.
+NA
+det.
+a
+a
+det.
+c
+det.
+NA
+det.
+det.
+NA
+c
+det.
+NA
+c
+NA
+c
+det.
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+det.
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+c
+c
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+det.
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+c
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+a
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+c
+a
+c
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+c
+c
+c
+NA
+NA
+c
+NA
+a
+det.
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+a
+NA
+c
+c
+a
+NA
+a
+c
+det.
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+det.
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+c
+a
+NA
+c
+a
+NA
+c
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+det.
+c
+NA
+NA
+NA
+a
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+a
+c
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+det.
+c
+det.
+NA
+det.
+NA
+c
+c
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+c
+a
+a
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+c
+det.
+det.
+NA
+NA
+a
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+a
+c
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+a
+c
+NA
+a
+a
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+a
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+c
+c
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+det.
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+c
+a
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+det.
+c
+c
+c
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+a
+a
+a
+NA
+a
+c
+NA
+det.
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+det.
+c
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+det.
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+det.
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+c
+NA
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+det.
+det.
+NA
+NA
+a
+c
+NA
+det.
+a
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+c
+a
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+a
+a
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+a
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+c
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+a
+c
+NA
+c
+NA
+c
+a
+c
+det.
+NA
+c
+det.
+NA
+c
+NA
+a
+a
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+c
+a
+NA
+a
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+a
+c
+NA
+NA
+c
+a
+c
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+a
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+c
+NA
+c
+a
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+a
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+a
+c
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+a
+a
+c
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+c
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+c
+a
+a
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+c
+a
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+a
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+c
+a
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+c
+a
+a
+a
+NA
+a
+c
+c
+a
+NA
+a
+NA
+a
+c
+c
+a
+a
+NA
+a
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+a
+a
+a
+NA
+c
+a
+a
+a
+a
+NA
+c
+a
+a
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+c
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+c
+c
+det.
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+a
+NA
+a
+a
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+det.
+a
+a
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+det.
+a
+NA
+NA
+det.
+c
+a
+NA
+a
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+det.
+a
+NA
+NA
+a
+NA
+a
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+det.
+det.
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+c
+c
+c
+a
+c
+NA
+c
+a
+NA
+NA
+det.
+det.
+c
+NA
+det.
+NA
+NA
+a
+a
+NA
+a
+NA
+det.
+det.
+NA
+a
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+det.
+NA
+NA
+a
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+a
+c
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+a
+c
+NA
+a
+a
+a
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+a
+det.
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+c
+a
+c
+a
+c
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+a
+a
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+NA
+c
+c
+c
+c
+det.
+NA
+det.
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+a
+c
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+a
+c
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+a
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+a
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+det.
+det.
+a
+NA
+a
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+det.
+c
+det.
+det.
+NA
+NA
+a
+a
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+a
+c
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+c
+c
+a
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+c
+c
+a
+NA
+c
+c
+a
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+det.
+a
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+a
+det.
+NA
+c
+NA
+a
+det.
+c
+det.
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+a
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+det.
+det.
+a
+a
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+c
+det.
+a
+c
+c
+c
+a
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+c
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+c
+det.
+det.
+c
+a
+det.
+NA
+c
+NA
+a
+c
+det.
+det.
+NA
+c
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+a
+NA
+c
+c
+c
+NA
+a
+det.
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+a
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+c
+c
+NA
+a
+c
+c
+c
+a
+det.
+det.
+a
+NA
+c
+det.
+c
+NA
+NA
+det.
+c
+NA
+NA
+NA
+a
+c
+a
+c
+a
+a
+a
+NA
+NA
+c
+c
+det.
+det.
+a
+NA
+det.
+a
+c
+a
+NA
+c
+NA
+NA
+a
+a
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+det.
+det.
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+a
+c
+c
+NA
+c
+a
+NA
+a
+NA
+a
+c
+c
+c
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+c
+NA
+c
+c
+a
+a
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+a
+a
+NA
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+NA
+det.
+det.
+a
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+a
+a
+a
+NA
+c
+c
+a
+c
+NA
+c
+NA
+c
+c
+a
+a
+c
+c
+a
+c
+c
+c
+a
+a
+a
+NA
+c
+c
+c
+c
+c
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+c
+det.
+c
+c
+a
+c
+NA
+a
+c
+a
+NA
+c
+a
+a
+c
+c
+c
+a
+c
+a
+a
+a
+c
+c
+a
+NA
+c
+NA
+c
+c
+c
+a
+a
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+a
+a
+c
+c
+c
+a
+c
+NA
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+a
+det.
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+c
+a
+NA
+a
+c
+a
+c
+NA
+c
+c
+a
+NA
+a
+c
+c
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+c
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+c
+c
+NA
+c
+a
+c
+c
+NA
+c
+c
+det.
+NA
+c
+a
+a
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+NA
+a
+NA
+c
+c
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+c
+det.
+NA
+c
+c
+c
+NA
+c
+det.
+NA
+c
+c
+c
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+a
+c
+c
+c
+a
+c
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+c
+c
+NA
+a
+a
+det.
+c
+NA
+a
+a
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+a
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+c
+NA
+c
+c
+det.
+a
+a
+NA
+det.
+NA
+NA
+a
+a
+a
+a
+a
+a
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+a
+a
+NA
+det.
+a
+a
+NA
+det.
+a
+NA
+a
+a
+a
+NA
+det.
+a
+c
+a
+a
+a
+a
+NA
+NA
+c
+NA
+det.
+NA
+det.
+NA
+c
+NA
+a
+c
+c
+NA
+a
+a
+NA
+det.
+NA
+c
+det.
+NA
+det.
+a
+NA
+a
+NA
+det.
+NA
+c
+a
+NA
+det.
+NA
+c
+a
+c
+c
+det.
+NA
+det.
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+det.
+a
+NA
+det.
+c
+det.
+NA
+det.
+det.
+c
+det.
+NA
+a
+a
+NA
+a
+NA
+NA
+c
+a
+a
+a
+c
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+a
+a
+a
+NA
+NA
+a
+NA
+det.
+NA
+NA
+c
+a
+a
+c
+a
+c
+c
+NA
+a
+a
+c
+NA
+NA
+NA
+c
+det.
+det.
+det.
+NA
+det.
+NA
+a
+c
+det.
+NA
+c
+det.
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+det.
+det.
+c
+a
+NA
+c
+NA
+c
+c
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+c
+c
+a
+NA
+c
+NA
+det.
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+a
+a
+a
+NA
+c
+NA
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+det.
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+det.
+c
+NA
+NA
+a
+a
+NA
+a
+a
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+det.
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+a
+a
+a
+c
+det.
+a
+a
+NA
+det.
+det.
+a
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+a
+NA
+det.
+det.
+det.
+c
+c
+a
+NA
+a
+a
+NA
+NA
+a
+a
+a
+c
+NA
+NA
+c
+c
+c
+det.
+NA
+a
+NA
+a
+a
+c
+a
+a
+c
+det.
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+a
+NA
+det.
+det.
+a
+a
+NA
+NA
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+a
+a
+a
+NA
+a
+det.
+NA
+NA
+c
+det.
+c
+c
+a
+NA
+c
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+det.
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+c
+c
+NA
+a
+NA
+det.
+NA
+det.
+NA
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+c
+det.
+c
+NA
+det.
+NA
+c
+det.
+NA
+c
+det.
+c
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+c
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+a
+NA
+det.
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+det.
+det.
+c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+c
+a
+a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+c
+c
+NA
+a
+a
+NA
+det.
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+det.
+c
+a
+c
+c
+a
+NA
+NA
+NA
+c
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+det.
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+c
+a
+a
+a
+NA
+c
+a
+a
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+det.
+det.
+det.
+det.
+a
+NA
+det.
+NA
+c
+NA
+det.
+a
+a
+NA
+a
+NA
+a
+c
+det.
+NA
+c
+c
+c
+a
+c
+NA
+a
+NA
+NA
+det.
+a
+a
+NA
+c
+NA
+det.
+NA
+NA
+c
+a
+a
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+c
+det.
+det.
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+a
+a
+a
+NA
+NA
+c
+a
+a
+a
+a
+NA
+det.
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+det.
+NA
+a
+c
+det.
+NA
+a
+a
+NA
+a
+NA
+NA
+det.
+a
+NA
+c
+c
+c
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+det.
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+det.
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+a
+a
+a
+NA
+c
+c
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+det.
+a
+a
+a
+c
+c
+c
+NA
+a
+det.
+NA
+NA
+NA
+det.
+NA
+c
+c
+det.
+c
+NA
+det.
+det.
+NA
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+a
+NA
+det.
+det.
+NA
+det.
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+a
+a
+NA
+c
+det.
+NA
+c
+a
+a
+NA
+det.
+c
+det.
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+a
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+c
+a
+a
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
+NA
+det.
+det.
+a
+a
+c
+a
+a
+NA
+a
+a
+a
+a
+a
+NA
+NA
+NA
+c
+det.
+det.
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+c
+c
+c
+NA
+c
+det.
+a
+NA
+det.
+a
+a
+a
+NA
+NA
+c
+det.
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+a
+c
+det.
+a
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+det.
+a
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+det.
+NA
+c
+det.
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+det.
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+det.
+a
+a
+a
+NA
+NA
+NA
+det.
+a
+a
+a
+a
+NA
+NA
+c
+a
+NA
+a
+a
+a
+a
+a
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+det.
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
+a
+a
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+c
+NA
+a
+a
+a
+a
+a
+a
+c
+NA
+c
+a
+a
+c
+NA
+NA
+det.
+c
+c
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+det.
+NA
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+a
+NA
+c
+c
+NA
+det.
+det.
+det.
+c
+det.
+NA
+c
+c
+NA
+det.
+NA
+c
+c
+det.
+c
+det.
+NA
+NA
+c
+det.
+c
+NA
+NA
+c
+c
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+NA
+det.
+c
+det.
+NA
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+det.
+det.
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+a
+NA
+NA
+c
+c
+NA
+c
+det.
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+det.
+c
+a
+c
+NA
+c
+NA
+NA
+NA
+a
+c
+a
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+c
+det.
+a
+NA
+c
+det.
+c
+a
+NA
+c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+det.
+det.
+NA
+NA
+a
+NA
+det.
+det.
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+a
+a
+c
+a
+a
+c
+a
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
+a
+a
+NA
+a
+a
+NA
+det.
+det.
+NA
+NA
+NA
+c
+c
+det.
+det.
+a
+a
+NA
+c
+NA
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+c
+det.
+a
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
+det.
+det.
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
+det.
+NA
+c
+NA
+c
+a
+NA
+c
+a
+a
+NA
+a
+NA
+det.
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+c
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+a
+a
+NA
+det.
+det.
+c
+c
+a
+NA
+det.
+det.
+NA
+a
+NA
+NA
+det.
+NA
+c
+det.
+c
+c
+det.
+a
+a
+a
+a
+NA
+c
+a
+a
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+c
+c
+a
+a
+NA
+NA
+NA
+NA
+det.
+det.
+a
+c
+NA
+a
+a
+a
+a
+a
+NA
+c
+a
+a
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+a
+a
+a
+a
+a
+c
+a
+a
+a
+NA
+c
+a
+a
+NA
+det.
+NA
+c
+NA
+c
+NA
+a
+c
+NA
+a
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+det.
+c
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+det.
+c
+NA
+NA
+NA
+c
+a
+a
+NA
+det.
+a
+a
+NA
+a
+NA
+a
+a
+NA
+det.
+c
+det.
+a
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+a
+NA
+det.
+NA
+c
+NA
+a
+NA
+a
+a
+a
+NA
+a
+NA
+det.
+c
+a
+c
+a
+a
+NA
+c
+c
+c
+NA
+a
+a
+NA
+det.
+det.
+det.
+NA
+NA
+c
+det.
+a
+NA
+c
+det.
+NA
+a
+a
+NA
+det.
+det.
+NA
+c
+det.
+c
+NA
+a
+NA
+NA
+c
+det.
+c
+c
+det.
+det.
+NA
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+det.
+c
+a
+a
+NA
+c
+c
+a
+NA
+a
+a
+a
+NA
+det.
+a
+a
+NA
+c
+det.
+a
+a
+NA
+a
+a
+a
+a
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+det.
+a
+a
+NA
+c
+a
+a
+a
+c
+NA
+c
+NA
+det.
+NA
+NA
+c
+NA
+det.
+det.
+NA
+det.
+NA
+c
+NA
+det.
+a
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+c
+a
+NA
+NA
+det.
+NA
+a
+a
+NA
+c
+det.
+NA
+det.
+a
+a
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+a
+NA
+NA
+a
+det.
+NA
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+NA
+c
+c
+det.
+NA
+c
+c
+det.
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+det.
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+a
+NA
+c
+c
+c
+det.
+NA
+c
+det.
+det.
+c
+c
+a
+a
+NA
+a
+c
+a
+c
+NA
+c
+a
+NA
+c
+a
+a
+a
+a
+NA
+c
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+det.
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+det.
+NA
+NA
+det.
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
+det.
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+a
+NA
+det.
+NA
+a
+NA
+a
+c
+det.
+NA
+NA
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+c
+NA
+det.
+a
+NA
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+det.
+NA
+det.
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+a
+det.
+NA
+a
+NA
+a
+a
+NA
+NA
+c
+a
+c
+a
+c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+det.
+a
+c
+a
+a
+NA
+det.
+NA
+NA
+det.
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+det.
+NA
+det.
+a
+NA
+a
+det.
+a
+NA
+det.
+a
+a
+c
+c
+NA
+det.
+NA
+a
+NA
+a
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+c
+det.
+a
+a
+NA
+det.
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+det.
+NA
+det.
+a
+a
+NA
+det.
+NA
+a
+c
+a
+a
+a
+a
+NA
+c
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+det.
+det.
+NA
+det.
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+c
+det.
+det.
+c
+NA
+det.
+det.
+NA
+det.
+a
+NA
+NA
+c
+det.
+a
+NA
+det.
+NA
+c
+det.
+NA
+c
+det.
+c
+NA
+c
+c
+c
+NA
+det.
+c
+NA
+NA
+NA
+det.
+NA
+det.
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+det.
+det.
+c
+c
+det.
+a
+a
+NA
+det.
+NA
+c
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+NA
+NA
+c
+c
+det.
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+a
+c
+c
+det.
+c
+a
+c
+NA
+NA
+det.
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+det.
+NA
+NA
+a
+det.
+NA
+NA
+det.
+NA
+NA
+c
+det.
+NA
+NA
+a
+a
+a
+NA
+det.
+det.
+a
+a
+NA
+det.
+NA
+a
+NA
+c
+det.
+a
+NA
+c
+a
+NA
+det.
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+c
+a
+a
+NA
+a
+a
+NA
+a
+NA
+det.
+NA
+a
+a
+NA
+det.
+NA
+det.
+c
+det.
+NA
+c
+a
+a
+NA
+det.
+det.
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+a
+c
+NA
+a
+c
+det.
+c
+a
+NA
+a
+NA
+c
+NA
+a
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+det.
+c
+NA
+det.
+det.
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+c
+a
+a
+NA
+a
+NA
+det.
+NA
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+a
+NA
+det.
+det.
+a
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+det.
+det.
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+a
+NA
+a
+a
+NA
+a
+NA
+det.
+NA
+a
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+det.
+NA
+a
+NA
+det.
+NA
+c
+det.
+a
+NA
+det.
+NA
+c
+a
+NA
+det.
+c
+a
+NA
+a
+NA
+det.
+a
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+det.
+det.
+det.
+NA
+det.
+a
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+det.
+c
+a
+NA
+a
+NA
+det.
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+c
+a
+NA
+det.
+NA
+NA
+c
+a
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+NA
+c
+det.
+c
+a
+NA
+a
+NA
+det.
+NA
+a
+det.
+NA
+c
+det.
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+c
+det.
+a
+NA
+a
+NA
+det.
+NA
+c
+c
+det.
+a
+a
+NA
+det.
+NA
+c
+a
+NA
+a
+NA
+det.
+NA
+det.
+a
+NA
+a
+a
+a
+NA
+a
+a
+NA
+c
+a
+a
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+det.
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+a
+a
+NA
+c
+NA
+c
+a
+NA
+c
+c
+det.
+NA
+c
+det.
+a
+a
+NA
+c
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+a
+a
+a
+NA
+NA
+det.
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+det.
+det.
+NA
+c
+c
+det.
+NA
+det.
+NA
+c
+c
+det.
+NA
+det.
+det.
+NA
+c
+c
+det.
+NA
+det.
+NA
+c
+c
+NA
+det.
+det.
+NA
+c
+c
+c
+a
+a
+NA
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+a
+NA
+det.
+c
+c
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+a
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+c
+c
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+det.
+c
+NA
+c
+NA
+c
+NA
+det.
+c
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+det.
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+c
+a
+det.
+NA
+a
+NA
+a
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+det.
+det.
+NA
+a
+NA
+det.
+a
+c
+a
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+det.
+c
+NA
+c
+NA
+c
+a
+c
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+det.
+det.
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+a
+a
+NA
+NA
+c
+det.
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+det.
+NA
+det.
+det.
+NA
+c
+NA
+c
+c
+NA
+a
+c
+det.
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+a
+NA
+det.
+det.
+c
+a
+a
+NA
+det.
+NA
+c
+c
+det.
+c
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+a
+a
+NA
+det.
+c
+NA
+a
+c
+c
+det.
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+NA
+det.
+c
+NA
+a
+NA
+NA
+det.
+NA
+c
+det.
+NA
+det.
+a
+NA
+a
+NA
+a
+NA
+c
+NA
+det.
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+det.
+c
+a
+a
+NA
+NA
+a
+a
+NA
+c
+det.
+a
+a
+NA
+a
+c
+NA
+a
+det.
+NA
+det.
+NA
+det.
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+a
+c
+a
+NA
+a
+NA
+det.
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+a
+NA
+c
+a
+NA
+a
+c
+c
+c
+a
+a
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+det.
+NA
+c
+NA
+det.
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+a
+c
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+a
+NA
+c
+a
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+a
+NA
+c
+NA
+c
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+det.
+c
+NA
+a
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+NA
+det.
+NA
+c
+a
+c
+c
+NA
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+a
+NA
+c
+a
+c
+NA
+NA
+a
+NA
+c
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+det.
+c
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+a
+NA
+a
+NA
+c
+c
+a
+a
+NA
+a
+NA
+c
+a
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+det.
+c
+c
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+c
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+c
+a
+c
+det.
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+c
+det.
+NA
+c
+a
+c
+NA
+NA
+c
+det.
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+a
+a
+a
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+det.
+c
+a
+NA
+c
+a
+NA
+NA
+a
+c
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+a
+NA
+c
+det.
+NA
+a
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+a
+NA
+a
+NA
+c
+c
+a
+NA
+c
+det.
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+c
+c
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+c
+a
+c
+NA
+NA
+NA
+c
+det.
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+det.
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+det.
+a
+a
+NA
+a
+NA
+a
+c
+a
+NA
+a
+a
+a
+NA
+a
+det.
+NA
+c
+det.
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+NA
+c
+c
+det.
+NA
+det.
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+a
+NA
+c
+a
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+c
+a
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+c
+NA
+NA
+c
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+c
+c
+a
+NA
+c
+c
+c
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+det.
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+a
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+a
+NA
+c
+c
+c
+NA
+a
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+det.
+a
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+a
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+NA
+c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+a
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+det.
+c
+NA
+c
+NA
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+det.
+NA
+det.
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+c
+det.
+det.
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+c
+det.
+NA
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+det.
+NA
+det.
+det.
+NA
+NA
+a
+NA
+NA
+c
+c
+det.
+det.
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+c
+c
+NA
+c
+det.
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+a
+NA
+det.
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+a
+NA
+a
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+det.
+det.
+NA
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+det.
+c
+c
+NA
+a
+NA
+NA
+a
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+c
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+det.
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+c
+det.
+NA
+a
+det.
+det.
+NA
+det.
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+a
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+det.
+NA
+c
+NA
+a
+a
+a
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+c
+NA
+NA
+c
+a
+c
+a
+c
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+c
+NA
+a
+a
+c
+c
+NA
+NA
+NA
+det.
+a
+a
+NA
+NA
+det.
+a
+a
+c
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+c
+a
+NA
+a
+a
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+c
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+NA
+det.
+NA
+NA
+NA
+NA
+c
+det.
+c
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+det.
+a
+NA
+a
+NA
+NA
+det.
+a
+NA
+det.
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+c
+c
+det.
+c
+det.
+c
+c
+det.
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+det.
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+c
+c
+a
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+a
+NA
+c
+c
+a
+NA
+a
+NA
+c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+det.
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+c
+det.
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+a
+NA
+a
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+det.
+c
+det.
+NA
+det.
+NA
+det.
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+a
+NA
+det.
+NA
+NA
+c
+det.
+NA
+a
+NA
+det.
+a
+NA
+det.
+NA
+NA
+det.
+a
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+c
+c
+det.
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+c
+NA
+c
+c
+a
+a
+NA
+NA
+c
+c
+c
+NA
+det.
+c
+NA
+NA
+c
+c
+NA
+c
+c
+det.
+NA
+NA
+det.
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+det.
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
+det.
+a
+a
+NA
+a
+NA
+a
+NA
+a
+a
+a
+a
+a
+NA
+a
+NA
+a
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+c
+NA
+det.
+det.
+c
+a
+a
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+det.
+c
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+a
+NA
+a
+c
+NA
+c
+a
+NA
+a
+NA
+c
+NA
+a
+NA
+NA
+c
+det.
+c
+NA
+det.
+NA
+c
+NA
+NA
+c
+det.
+NA
+det.
+NA
+NA
+c
+det.
+c
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+c
+a
+det.
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+det.
+det.
+det.
+NA
+c
+NA
+c
+NA
+a
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+det.
+NA
+NA
+NA
+det.
+det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+c
+NA
+NA
+det.
+c
+c
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+c
+NA
+NA
+c
+det.
+det.
+a
+NA
+NA
+c
+det.
+c
+NA
+a
+NA
+a
+NA
+NA
+c
+a
+NA
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+det.
+det.
+NA
+det.
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+c
+det.
+det.
+det.
+c
+det.
+NA
+NA
+c
+NA
+c
+det.
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+a
+c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+c
+a
+NA
+a
+NA
+NA
+c
+c
+c
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+a
+c
+c
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+a
+NA
+NA
+det.
+det.
+NA
+c
+a
+NA
+a
+a
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+c
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+c
+NA
+a
+NA
+c
+a
+NA
+NA
+det.
+a
+NA
+a
+NA
+det.
+a
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
+det.
+a
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+c
+NA
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+det.
+a
+NA
+NA
+c
+det.
+NA
+det.
+NA
+c
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+c
+c
+det.
+det.
+NA
+NA
+c
+det.
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+a
+c
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+a
+c
+NA
+NA
+c
+c
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+c
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+det.
+c
+a
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+a
+a
+NA
+det.
+det.
+NA
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+a
+NA
+NA
+a
+a
+a
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+det.
+det.
+NA
+NA
+c
+det.
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+a
+NA
+NA
+a
+a
+a
+NA
+c
+c
+det.
+NA
+det.
+NA
+c
+NA
+a
+NA
+NA
+a
+c
+det.
+NA
+c
+det.
+c
+NA
+det.
+NA
+c
+c
+NA
+NA
+c
+det.
+NA
+det.
+a
+c
+NA
+a
+NA
+NA
+det.
+NA
+c
+NA
+a
+a
+c
+c
+a
+det.
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+det.
+det.
+c
+NA
+det.
+c
+det.
+NA
+NA
+NA
+c
+NA
+det.
+NA
+a
+NA
+c
+det.
+det.
+NA
+c
+det.
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
+a
+NA
+c
+c
+c
+det.
+det.
+NA
+a
+a
+det.
+NA
+c
+det.
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+a
+a
+a
+c
+a
+NA
+det.
+a
+a
+NA
+a
+NA
+c
+det.
+NA
+NA
+NA
+a
+a
+a
+c
+a
+NA
+c
+NA
+a
+a
+det.
+a
+NA
+det.
+NA
+det.
+det.
+NA
+a
+c
+a
+a
+NA
+c
+det.
+c
+NA
+c
+NA
+a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+c
+det.
+NA
+c
+det.
+NA
+NA
+det.
+NA
+NA
+a
+a
+a
+det.
+NA
+det.
+NA
+c
+c
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+a
+det.
+NA
+NA
+det.
+NA
+c
+det.
+det.
+NA
+NA
+det.
+NA
+c
+det.
+NA
+c
+NA
+det.
+NA
+det.
+NA
+a
+NA
+NA
+NA
+det.
+det.
+NA
+det.
+NA
+c
+a
+NA
+NA
+NA
+c
+c
+det.
+det.
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+c
+det.
+a
+c
+NA
+c
+det.
+NA
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+a
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+c
+det.
+det.
+NA
+c
+det.
+a
+a
+a
+NA
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+det.
+det.
+c
+det.
+a
+a
+c
+c
+det.
+det.
+NA
+NA
+det.
+c
+det.
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+a
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+NA
+det.
+a
+a
+a
+a
+c
+c
+NA
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+a
+NA
+a
+det.
+a
+NA
+NA
+a
+a
+a
+NA
+c
+det.
+NA
+a
+c
+det.
+a
+a
+c
+a
+NA
+NA
+a
+a
+a
+a
+a
+a
+NA
+a
+NA
+NA
+NA
+c
+det.
+det.
+a
+a
+c
+c
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+c
+c
+c
+NA
+a
+NA
+NA
+det.
+det.
+c
+NA
+a
+NA
+det.
+det.
+a
+det.
+a
+a
+NA
+NA
+a
+NA
+det.
+det.
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+a
+NA
+NA
+det.
+NA
+NA
+a
+c
+c
+NA
+NA
+det.
+det.
+NA
+a
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+a
+c
+c
+NA
+NA
+c
+c
+c
+a
+a
+NA
+NA
+a
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+c
+c
+NA
+NA
+det.
+NA
+det.
+c
+NA
+a
+a
+NA
+NA
+det.
+det.
+c
+NA
+a
+a
+a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+det.
+NA
+NA
+det.
+a
+a
+NA
+det.
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+NA
+c
+det.
+det.
+NA
+det.
+det.
+NA
+a
+a
+NA
+a
+NA
+c
+NA
+c
+a
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+a
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+a
+det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+a
+NA
+NA
+c
+NA
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+det.
+NA
+NA
+a
+c
+NA
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+det.
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+c
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
+NA
+a
+c
+NA
+a
+a
+NA
+a
+a
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+c
+NA
+a
+c
+c
+c
+NA
+c
+det.
+NA
+a
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+a
+a
+NA
+c
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+a
+c
+NA
+c
+det.
+det.
+a
+det.
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+a
+c
+a
+NA
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+c
+NA
+NA
+a
+NA
+a
+NA
+c
+c
+det.
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+c
+a
+NA
+a
+NA
+det.
+det.
+NA
+NA
+det.
+det.
+det.
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+NA
+c
+a
+c
+a
+a
+NA
+NA
+c
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+c
+a
+NA
+c
+c
+a
+NA
+c
+NA
+c
+c
+a
+a
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+a
+NA
+c
+c
+NA
+c
+c
+c
+det.
+det.
+NA
+det.
+NA
+det.
+c
+a
+c
+c
+a
+a
+a
+a
+NA
+a
+NA
+c
+NA
+NA
+c
+det.
+a
+NA
+c
+det.
+c
+a
+NA
+c
+det.
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+det.
+det.
+a
+a
+a
+c
+c
+a
+c
+a
+c
+c
+c
+a
+c
+a
+c
+c
+c
+a
+c
+a
+c
+c
+c
+c
+a
+NA
+a
+c
+a
+c
+NA
+c
+c
+a
+c
+a
+NA
+c
+c
+NA
+NA
+c
+c
+a
+c
+NA
+c
+det.
+c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+c
+a
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
 a
-933484	c
+NA
+det.
+det.
+NA
+a
+a
+c
+NA
+NA
+c
+NA
+a
+a
+det.
+NA
+NA
+c
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+c
+a
+NA
+NA
+c
+c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+a
+NA
+c
 c
-933487	c
+a
+NA
+NA
+NA
 c
-933491	a
-933493	c
-933495	c
-933497	a
+a
+NA
+a
+NA
+NA
 c
+a
+NA
 a
-933501	c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
+c
 c
-933506	a
 a
-933509	c
-933512	c
-933514	a
-933516	c
-933518	c
+NA
 a
-933521	c
-933523	c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
 c
 a
 a
-933530	a
+c
 a
-933533	c
+NA
 a
-933536	c
-933538	c
-933544	c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-933548	c
-933550	c
-933556	a
-933561	det.
-933564	c
-933567	a
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
 c
-933573	a
-933575	c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
 a
-933580	a
-933582	c
-933584	c
+a
+NA
+NA
+a
+NA
 c
+NA
+NA
 a
-933588	c
+a
+NA
+NA
+NA
+NA
+c
 a
-933591	c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
 a
-933594	c
 a
-933599	c
-933603	c
-933608	c
+NA
 c
+NA
+NA
+NA
+a
+a
+a
+NA
 c
 a
-933614	a
-933617	c
 a
-933620	c
 c
 a
-933624	c
+a
+det.
+c
+NA
 a
-933627	c
+NA
+NA
 a
-933633	a
-933635	c
-933640	c
 a
-933643	c
+c
+NA
+NA
+NA
+c
+c
+det.
+c
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
-933647	c
+NA
 a
-933651	c
-933655	c
+NA
+c
 c
-933660	c
 c
+a
+NA
+NA
 c
-933664	c
+NA
 c
-933667	c
-933669	c
 a
-933673	c
+NA
+NA
 c
-933676	a
-933678	c
 a
-933682	a
-933684	a
-933686	a
-933689	c
-933692	c
+c
+NA
 a
-933695	c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
 a
+c
+c
 a
-933699	c
-933702	c
+NA
+NA
+c
+c
 c
+NA
+NA
 a
-933706	c
-933708	c
-933710	c
-933712	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-933716	c
 det.
-933719	det.
-933721	c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
+c
+a
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+c
+a
+NA
+c
+NA
+NA
+c
+c
+NA
+c
 c
-933724	c
+NA
 c
-933727	c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+a
+a
+a
+NA
+c
+a
+a
+NA
+a
+NA
+NA
 c
-933730	c
 c
-933733	c
+a
+NA
+NA
 c
-933736	c
-933740	c
-933742	c
-933745	c
-933748	c
-933752	c
-933754	c
-933757	c
-933762	c
 a
-933773	c
+NA
 c
 c
+c
+a
+NA
+a
+NA
+a
+NA
 a
-933778	a
-933780	c
 a
-933793	c
-933795	a
-933797	c
+NA
+c
+a
+NA
+c
+c
+c
 a
-933800	a
-933802	a
-933804	a
-933806	c
+NA
+c
 a
-933809	a
-933812	c
-933814	c
+NA
 c
-933817	a
 a
-933820	a
-933822	c
-933824	c
+NA
+NA
 a
-933827	a
-933829	a
-933831	c
+NA
 a
-933834	c
-933836	c
+NA
+NA
+NA
+a
+NA
+NA
+c
 a
-933839	c
-933841	c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+c
+NA
+c
+c
 a
-933845	c
+NA
+c
+NA
 a
-933848	c
+NA
+NA
+c
+NA
+c
+c
 a
-933851	c
+NA
+NA
 c
+NA
+NA
+c
 a
-933855	c
+NA
+c
+c
 a
-933858	c
-933860	c
+NA
+det.
+NA
+NA
+c
+c
 a
-933864	c
+NA
+c
+NA
+NA
+NA
+c
 c
-933868	c
-933870	c
+c
+c
+c
+NA
+c
 a
-933873	c
+NA
 a
-933876	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
 a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
 a
-933880	c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
 c
-a
 c
 a
-933886	c
+NA
+c
 a
-933889	c
-933891	c
-933893	c
 c
-933896	c
 a
-933899	c
+NA
+NA
+NA
+NA
 a
-933902	c
+NA
+NA
 a
-933905	a
-933909	a
-933911	c
-933917	a
-933919	c
-det.
-933924	a
-933928	a
-933930	c
-933932	det.
+NA
 c
-933937	a
-933940	c
+NA
 c
-933943	c
 c
-933946	c
+NA
 c
-933949	c
-a
-a
-933953	c
+det.
+NA
+NA
+c
+NA
+NA
+c
 a
-933956	c
+NA
 c
-933959	c
+c
+NA
+c
 a
-933962	c
+c
+NA
+NA
 a
-933966	a
+c
+NA
+NA
+NA
 c
 a
-933971	a
+c
+NA
+NA
+NA
 a
-933974	a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-933981	c
-933984	c
+NA
 c
+NA
+NA
+NA
+NA
 c
 c
-933990	c
+NA
 c
-933995	c
-933999	c
+NA
 c
-934003	c
-934005	c
-934010	c
-934012	c
-934016	a
-934020	c
-a
-934023	c
-a
+NA
+NA
+NA
 c
 a
-934028	c
-934030	c
+NA
+c
+NA
 a
-934033	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-934036	c
+NA
+c
+c
 a
+NA
+NA
+NA
+NA
 c
-934040	a
-934042	c
-934049	a
-934051	a
-934056	c
-934061	c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-934064	a
-934066	c
+NA
 a
-934069	c
+NA
+c
 a
-934072	c
+NA
 a
-934075	a
-934079	c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-934084	c
-934086	c
+NA
 c
-934091	c
-a
-934094	c
-934100	c
-934104	a
-a
-934107	c
-934115	a
-934118	c
+NA
+NA
+NA
+NA
 c
-934121	a
 c
-a
-934127	a
-934130	c
-934144	c
-934148	a
-934152	c
+NA
 c
-934155	c
-934158	a
-934162	a
+NA
 c
-a
-934167	c
-934174	a
-934182	c
-934186	c
-934189	c
 a
-934192	a
-934194	a
-934201	c
-934204	a
-934207	c
-934209	c
-934212	c
-a
-934215	c
-934217	c
-934219	a
+NA
+NA
+c
 a
-934222	c
+det.
+NA
+c
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+det.
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-934226	c
-934229	det.
-934234	c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
 a
-934237	c
+NA
+c
+NA
+c
 a
-934241	c
-934244	c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+c
 a
-934247	c
-det.
-934253	a
-934255	c
+NA
+c
+NA
+NA
 a
-934258	c
+NA
+c
 a
-934262	c
-934264	c
+c
+NA
+NA
+NA
 a
-934267	c
+NA
+c
+NA
+NA
+NA
 a
-934270	a
-934273	a
-934276	a
-934278	c
+NA
+NA
+c
+c
+NA
 a
-934282	a
-934285	c
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+c
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
 det.
-934289	a
-934291	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-934295	a
-934297	c
+NA
 a
-934301	c
 a
-934304	c
-934307	c
+NA
+c
+NA
+NA
+NA
 a
-934310	c
-934312	c
+NA
+NA
+c
 a
-934315	c
-934317	c
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
-934323	c
+NA
 c
-934326	a
-934329	a
-934331	a
-934333	a
-934335	c
-a
-934338	a
-934340	c
+c
+NA
+NA
 c
+NA
+NA
+NA
 a
-934346	c
 a
-934349	a
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-934353	c
-a
-934357	c
-934359	c
-934364	c
-det.
-934371	c
+NA
+NA
+NA
 det.
-934375	det.
+NA
+NA
 c
-934380	c
 a
-934385	a
-934388	c
 a
-934391	c
+NA
+c
+c
 a
-934394	c
+NA
+NA
 a
-934397	a
+NA
+c
+NA
 a
+NA
+NA
 c
+NA
 det.
-a
-934403	a
-934410	c
-934412	c
-a
-934415	c
-934418	c
-a
-934422	c
-a
-934427	c
-a
-934430	c
-934432	c
+NA
 c
-a
-934437	c
-a
-934440	a
-934444	c
 det.
-934450	a
+NA
+det.
+NA
 c
-a
-934456	c
-934459	c
-934461	det.
-934469	c
-a
-934473	c
-934475	a
-934477	a
-934479	c
+NA
 c
-a
-934484	c
-934486	a
-934490	c
-934493	a
+NA
+NA
 c
-934499	c
+c
+NA
+c
+c
+NA
+NA
+NA
 a
+NA
+NA
 a
-934509	c
-934514	c
+NA
 a
-934521	c
-934523	c
-934527	c
-934532	c
-934537	c
-934541	a
-934547	a
-934550	c
-934554	c
-934556	c
-934561	c
-934563	c
-934565	c
-934568	c
-934570	c
-934572	det.
-934575	a
-934577	a
-934580	c
 det.
-c
-934589	c
 a
-934593	c
-934598	a
-934601	c
 c
-934607	c
-934609	c
+NA
+det.
+NA
 c
-934615	c
-934618	c
-934621	a
-934626	c
-a
-a
-934632	c
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
 c
-934635	a
-934637	c
-934639	c
+NA
+a
 c
-934643	c
+NA
 c
-934646	c
+det.
+det.
+NA
 c
-934649	c
+det.
+NA
 c
-934656	c
-934660	c
-934662	c
-a
-934665	c
-934667	a
-934669	c
-a
-934673	c
 c
-934677	c
-934680	c
-a
-934683	a
-934685	a
-934687	c
+NA
 c
-934691	a
-934695	a
-934699	a
-934701	c
-934703	c
-a
+NA
 c
-934707	c
 c
-a
-934711	c
-934714	c
+NA
 c
 c
-934718	a
+NA
 c
-934722	c
-934724	c
-934726	c
-a
-934730	c
 c
-934733	c
-a
-934736	c
+NA
 c
-934740	c
-934742	c
-a
 c
-a
-934747	a
-934749	c
+NA
 a
-a
-934754	c
-934759	c
 c
-a
-934765	c
-934768	c
+NA
+NA
 c
+det.
 c
-934776	a
-934781	c
-934783	c
-934786	c
+NA
 c
-934789	c
+NA
 c
-a
-934793	a
-934795	c
-a
-934798	c
+det.
 c
-934801	c
-a
-934805	a
-934807	c
-934809	c
-a
-934812	c
-934817	c
+NA
+NA
 det.
-934820	a
-934825	det.
+NA
 det.
-934829	c
-934833	a
-934835	c
-934838	a
-934840	c
-934842	c
-a
-a
-934847	c
-a
-934851	a
-934854	c
-934857	c
-a
-a
-934861	c
-934863	a
-934866	c
-934870	c
-934874	c
-934877	a
-a
-a
-a
+det.
+det.
+NA
+det.
 c
-a
-934887	c
-934889	c
+NA
 a
-934894	c
-a
-934898	c
+NA
+det.
+NA
 c
-a
-934902	c
-934906	c
+NA
 c
 a
+NA
 a
-934912	c
 c
-a
-a
-934918	a
-934920	c
-934923	c
+NA
+NA
 c
-934927	a
-934929	det.
-a
-934932	c
+det.
+NA
 c
-934937	c
-a
-934940	c
-a
-934943	c
-934945	c
-934947	c
-934950	c
+det.
+det.
+NA
 a
+NA
+c
+NA
 c
-934954	det.
-934957	a
-934961	c
-934965	c
+NA
+NA
+NA
+NA
 c
-934969	c
+a
+NA
 c
-934973	c
+NA
+det.
+NA
 a
-934977	c
+det.
+NA
+NA
 c
+det.
+det.
+NA
+NA
 a
-934981	a
-934984	a
-934987	a
-934990	c
+NA
+NA
+NA
 c
+NA
 a
-934994	c
-934996	a
-934999	c
-935001	c
-935003	c
+NA
 c
-935007	c
-935011	a
+NA
+det.
 c
-935015	a
-935017	c
+NA
+NA
 c
-935021	c
-a
-935029	c
-935032	c
-a
 c
-a
-935037	c
-a
-935040	c
-935043	c
+det.
 c
 c
-935048	c
-935050	c
-a
-a
 c
+NA
 c
-935058	a
-935060	c
-a
-935063	a
-935066	a
-935071	c
+NA
+NA
 a
 c
-a
+NA
 c
-935077	c
-935080	c
-a
-935084	c
 a
-935087	c
-935089	a
-935091	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
 c
-935097	c
+det.
+det.
 a
-935100	c
-935103	c
+det.
+det.
+det.
+det.
 c
-935106	c
+det.
+NA
+det.
+NA
 a
-935111	a
-935114	c
+NA
+NA
+a
+c
+det.
 c
+NA
 c
-935118	c
 a
-935122	a
-det.
-935125	a
-935128	c
 det.
-935131	det.
-935134	c
 a
-935138	c
 a
-935142	c
-935150	c
-935153	c
+c
+NA
 a
+NA
 a
-935160	c
-935163	c
-935166	c
-c
-935170	c
-935172	c
-det.
-935175	a
 a
-c
+NA
 a
+NA
+det.
+NA
 c
-935183	a
-935185	c
-935190	c
 c
 a
-935195	c
+NA
 c
+NA
+NA
 c
-a
-a
-a
-935208	a
-935211	a
-935213	c
+c
+det.
 a
-935217	c
+NA
 a
-935220	c
-935222	c
+NA
+NA
+NA
+NA
+det.
 a
-935225	c
-935227	c
-c
-935230	c
+NA
+NA
+NA
 a
-935235	a
-935242	c
-935244	a
-935250	c
-935254	c
+NA
+NA
+NA
+NA
+NA
 c
-935257	c
-935262	a
-935264	a
-935266	a
-935270	a
-935273	c
+det.
+det.
 c
-935276	c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
-935281	a
+NA
+NA
+NA
+NA
 a
-935286	a
+NA
+det.
 c
+NA
+NA
 det.
+NA
+NA
+a
+NA
 c
-935294	a
-935297	c
-935302	c
+NA
+NA
+NA
+NA
+NA
 c
-det.
-935307	det.
-935309	c
-det.
-935312	a
-935314	c
+NA
+NA
+NA
 c
 c
-935319	c
-935321	c
-det.
-935325	c
-935327	c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
 det.
 c
+NA
+a
 a
-935332	c
-935335	a
+NA
 det.
-935338	c
-935340	c
-935342	c
+NA
+a
+NA
 det.
+NA
 c
-935347	c
 c
-det.
-935351	c
+NA
 a
-935354	a
-935356	c
-935358	c
+NA
+NA
 c
-935364	a
-935373	a
-935377	c
-935379	c
-935381	det.
-det.
-935384	det.
-935386	c
-935388	c
-det.
-935391	a
-935394	c
 c
-935397	c
-935399	c
-a
 c
-935403	c
-935406	c
-935408	c
+NA
+NA
 c
-935412	c
-a
-935419	a
-935421	a
 c
-det.
-935425	c
-935427	a
-a
+NA
+NA
+NA
+NA
 c
-935431	c
 c
-935436	a
+NA
+NA
 c
-a
-935441	c
 c
-935445	c
 a
-935448	a
+NA
 c
-935451	det.
-935453	a
-935457	det.
-935459	a
-935463	c
+NA
+NA
 det.
-935468	c
-935470	a
-935472	c
 a
-935476	c
-935479	a
-935481	a
-935484	c
-935487	c
 a
-c
 a
-935496	c
-935498	det.
-935502	a
-c
-935506	c
-935508	a
-935511	c
+NA
+NA
 det.
-935514	c
+NA
+NA
+NA
+c
 det.
-935517	c
-935521	a
-935523	c
+NA
 c
-935527	c
 c
+c
+NA
 a
-935532	c
 a
-935538	c
+NA
+NA
+NA
 c
 c
-935542	a
-935548	a
-935550	c
-a
-a
-det.
-935555	c
-935559	a
+NA
+NA
+NA
 c
 a
-935563	a
-935565	det.
-935567	c
-935569	c
-det.
-935579	a
-935581	det.
-935583	c
-det.
-935588	c
-935590	c
-det.
-c
-935595	c
-935598	c
-935601	c
-935603	det.
+NA
 a
+NA
 c
-935612	det.
-935617	det.
-c
 a
-det.
 a
-935623	c
-935628	c
-935630	a
-935634	a
-935636	a
-935639	a
-935641	c
-det.
-935644	c
-935646	c
-det.
-935649	c
-935652	c
-935654	det.
+NA
 c
+NA
+NA
+NA
+NA
+c
 a
 a
-935659	det.
-935662	c
-935665	c
-935668	c
-det.
-935673	c
-935676	c
-935679	a
-935682	c
-935687	c
-935691	det.
-det.
-935694	c
+NA
 c
-det.
 c
-935699	c
-935701	a
-935703	det.
-935705	c
-935707	a
 a
-935710	a
-a
-935713	a
+NA
+c
 a
 c
-935723	c
-935725	c
-935728	c
-935730	c
-det.
 a
 c
-935735	c
+NA
 c
 a
-935739	a
-935741	c
 c
-935744	c
-det.
-935747	c
-935749	c
-935751	c
-935755	c
-935757	c
-a
-935761	c
 det.
 c
-935766	c
-935769	c
 c
+NA
+NA
+a
 c
-det.
-det.
-935775	a
-935777	c
-935779	c
-935782	c
-935787	det.
-935789	a
-935791	c
-935793	a
-935796	det.
-935798	a
-935800	c
-935803	det.
-935805	c
+NA
+NA
+NA
+NA
+NA
 a
-935808	c
-935811	a
-det.
-935814	a
-935816	det.
-935818	c
-935821	a
+NA
 c
+NA
+NA
 c
-935825	a
-935829	det.
-935831	c
-935833	det.
-935835	det.
-det.
-935838	a
+NA
 c
-935841	c
+NA
+NA
+c
 a
-935844	det.
 a
-935847	det.
-935851	c
 a
-935854	det.
-935857	det.
-935862	c
 a
-935865	det.
-935872	a
-935877	a
 c
 a
-935881	c
-935887	det.
-c
-935890	det.
+NA
 c
+NA
+NA
 a
-935894	a
-935896	det.
-935900	c
-935902	det.
-935904	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
+c
 det.
-935910	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-935915	a
-935918	c
-935921	det.
-a
-935924	a
-935926	c
-935931	c
-935937	c
-935939	a
-935944	det.
-935946	a
-935951	det.
-935954	a
-935960	c
-935967	a
-935971	c
-935974	c
-935976	c
-a
-935988	c
+NA
+c
+NA
 c
-935993	c
+NA
+NA
+det.
+NA
+NA
 c
-935997	c
-935999	c
-936006	c
 c
+det.
+NA
 c
-a
-936011	c
-936015	c
-936019	a
-936026	c
-936030	c
-936034	c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 a
-936037	a
-936039	det.
-936043	c
+NA
 c
 a
-936048	det.
-936050	c
+NA
+c
+NA
+NA
+NA
+NA
+c
 det.
-936053	c
+NA
+NA
 a
-936056	c
+NA
+c
+NA
+NA
+NA
+c
 a
-936060	c
-936062	a
-936065	a
+NA
+NA
 a
-936068	det.
-936070	a
-936072	det.
-936075	a
 c
 a
-936079	c
-c
-c
+NA
+NA
+NA
+NA
 a
-936084	a
-936086	a
-936091	a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
 a
+NA
 a
+NA
+c
 det.
-936096	c
-936098	a
+NA
+a
 det.
-936102	a
-936109	a
-936112	c
+a
 det.
-936115	a
-936118	c
-c
-936124	c
+NA
 c
 a
 c
+NA
 det.
-936130	c
-a
-936133	a
-a
-936137	a
-a
+NA
 c
-936141	a
-936149	a
-a
+NA
+NA
+NA
+NA
 c
-936153	a
+NA
 c
-936157	c
-936159	a
+NA
+a
+NA
 c
-936163	a
-936165	a
 a
-936169	a
-det.
-936173	det.
-936175	det.
-936180	a
-936182	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-936187	a
-936189	a
-936193	a
-936198	c
-936201	c
 a
-936206	c
+NA
 det.
-a
-936210	c
-936214	c
-936216	det.
-936218	a
-936221	a
-936223	a
-936225	c
-936227	c
-936229	det.
-936234	a
-a
-936238	c
 a
-936241	c
 c
-a
-936245	c
-a
-936248	det.
+det.
 c
-a
-936254	det.
-936257	c
+NA
+NA
+c
 a
+NA
+c
+NA
 c
 det.
-936262	c
-936265	det.
 a
-936269	det.
 det.
-936272	c
+NA
+c
+NA
 det.
+NA
+NA
 a
-c
 a
-936278	a
-936283	c
 c
-a
+NA
+det.
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
+NA
+c
+c
+NA
+NA
+NA
 c
-936288	det.
+c
 det.
-936291	a
-936293	det.
-936295	c
+NA
 c
-936300	det.
 det.
+NA
+c
 c
+NA
+NA
 det.
+NA
+NA
+c
+NA
 det.
-936307	c
+NA
 c
-a
-a
-936312	a
-a
 c
-a
-936317	c
-a
+NA
+NA
+NA
 c
 det.
-936322	a
-936324	c
-a
+c
+NA
 a
-936330	a
-936334	c
-936336	c
-det.
-936340	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-936345	a
+NA
+NA
+NA
+NA
+NA
 c
-936349	c
+NA
 c
-det.
 det.
-936359	c
+NA
 c
-936363	c
 det.
-936368	a
-936370	a
-a
-936373	c
-936375	a
-936377	c
-a
-936383	c
-a
-936387	a
-936390	c
-a
-936393	c
-a
-936396	a
-936398	c
-a
-936401	c
-a
-936405	c
-c
-936409	a
+NA
 c
-936412	a
-a
-936415	c
-c
-936421	c
-936423	a
-936425	a
-936427	a
-a
-936430	c
-936434	c
+NA
 c
-936437	c
-936439	c
-a
-936444	c
 det.
-936447	c
+NA
+NA
 c
-936454	c
+NA
 c
-936459	a
-936464	c
 det.
-936473	a
-936476	a
+det.
+NA
+a
+NA
+NA
 a
-936481	c
-936485	a
-936487	c
+NA
+NA
 c
-936491	c
-936495	c
-936498	a
-936500	c
 det.
-936504	c
-936507	c
-936510	c
+NA
+NA
 c
-936513	c
+NA
 c
 c
-936518	c
-936520	c
+NA
 c
 a
-936524	c
+c
+NA
+NA
 a
-936527	a
+NA
+NA
+NA
+NA
+c
 a
-936534	c
+det.
+NA
+det.
+NA
+NA
 c
 c
 det.
-936540	c
-a
-936544	c
-936546	c
-936551	c
-a
-936554	c
+NA
 a
-a
-936558	c
-936562	det.
+NA
+NA
+c
+NA
+c
 det.
-936565	a
-936569	c
-936573	c
+NA
 c
-a
+NA
+NA
+det.
+NA
+NA
 c
-936579	c
+det.
+NA
+NA
 c
-936582	c
-a
-936585	c
-a
-936590	c
 c
 c
+det.
+det.
+NA
 c
+NA
+NA
 c
-a
-936597	c
+c
+det.
+NA
+c
+NA
 c
 a
-936601	c
+NA
 c
-936606	c
+NA
+NA
+NA
 c
-936609	c
-936611	c
-936613	c
+NA
 c
 a
-936619	c
-936624	c
-936627	c
+NA
 a
-c
-936631	c
-c
-936634	c
-936636	c
+NA
 a
-936639	c
+NA
+NA
+c
 a
+NA
 c
-936643	c
-936650	c
-936652	c
 c
+NA
+NA
+NA
 a
-936659	c
+NA
+c
 c
+NA
+c
+NA
+det.
 det.
-936664	c
-936666	c
+NA
+det.
+NA
+c
 a
+NA
 c
-936670	a
-936673	a
-936676	c
+NA
 det.
-936681	c
-a
-a
-936685	c
+NA
 c
-936688	c
-936694	c
-a
-936697	c
-936700	a
+NA
+c
+NA
 a
-936703	c
-936706	c
+NA
 a
-936709	c
-936711	c
+NA
+NA
+c
+NA
+c
 det.
-936718	a
+NA
 c
-936721	a
+NA
+NA
+NA
 a
-936725	a
-936727	c
-936730	c
-936732	a
-936740	c
-936742	c
+NA
 c
-936746	c
 c
+NA
 c
-936752	a
-936755	a
+NA
 a
-a
-936760	c
+NA
 c
-a
-936764	c
-a
-936767	c
-a
-a
-936771	a
-a
-936775	a
+det.
+NA
+NA
+NA
 a
-936778	c
 a
+NA
 c
 c
 c
-936784	c
-936786	a
-a
 c
-a
-936791	a
+c
 c
-936797	a
-936799	a
-936802	c
-936804	a
-936808	det.
-936812	c
-936822	c
-936824	c
 a
 a
-936828	c
+NA
+NA
+NA
 c
-936831	c
-a
-936834	c
 c
 a
-936839	c
-936843	c
-936845	a
 a
-936848	c
-c
-c
-936855	a
-936857	c
-936865	a
+NA
+NA
 a
-936869	a
-936871	a
-936874	c
+NA
+NA
 c
 det.
-a
-936880	c
-936883	a
-936886	a
-936888	c
-a
-a
+NA
+NA
 a
-936894	a
+NA
+NA
 a
-a
-936898	c
-936900	c
-936902	c
-936908	c
+NA
+NA
+NA
+c
 det.
+NA
+NA
+c
 det.
-936912	a
-936914	c
-a
+NA
+c
 det.
-936923	c
-936926	c
+NA
 c
+NA
 c
-936937	c
-936939	c
-936942	a
-936946	c
+NA
+NA
 c
-936949	c
-936957	c
-936959	c
-det.
-a
-936964	a
-936966	a
-936968	a
-936970	a
-936973	a
-a
-936977	a
-936979	c
-936981	c
-936984	a
-936987	c
-936989	c
-det.
-936993	a
-936996	c
+NA
+c
 a
-937001	c
-937004	c
+NA
 c
-937010	c
-937014	a
-937016	a
-937018	c
+NA
 c
-937024	a
-937029	det.
-937032	c
-937034	c
 det.
-det.
-937038	det.
+NA
 c
-a
 a
-a
+NA
+det.
+NA
 c
-a
-937046	c
 c
 a
+NA
+NA
 c
-a
-937053	a
-a
-937056	det.
 det.
 c
 a
-937062	det.
-det.
-937066	c
-det.
-937069	c
+NA
 c
-a
-937074	a
-a
+NA
 c
-det.
+NA
 det.
-a
 c
-a
-937083	a
-937087	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-937091	a
-937094	a
-a
-det.
-937099	det.
-937101	det.
-a
-a
-a
+NA
+NA
 c
-937107	c
-det.
-937110	det.
-a
+c
 a
-937114	c
-det.
-937117	c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 det.
-937123	det.
-937125	a
-a
-937128	det.
-a
-a
+NA
+NA
 a
-a
-a
-937135	c
+NA
 det.
-937138	c
-det.
+NA
+NA
+c
 a
-937143	c
+NA
 c
-det.
-937148	det.
-det.
+NA
+NA
+NA
+NA
 c
-a
-a
-937154	a
-937156	det.
-937159	c
-937161	c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
 det.
-937165	c
-a
-937168	a
-937170	a
 a
-a
-937174	det.
+c
+det.
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
 det.
 det.
-a
-a
-a
 a
-937184	a
-937187	det.
-937190	a
-a
-937193	det.
-937195	c
 det.
-937198	det.
-937200	c
+NA
+c
 det.
-937203	a
-937206	a
-a
+NA
+NA
 c
 c
-det.
 det.
-937213	det.
-937216	c
-937219	det.
-det.
-937222	a
-a
 a
-937227	det.
-a
 c
 det.
+c
+NA
+NA
+NA
+c
+NA
 det.
 a
 a
+det.
+det.
+NA
+NA
 c
 a
-937237	a
-937240	a
+NA
 a
+NA
+NA
+NA
 a
 a
+NA
+NA
+det.
 a
 c
 c
-a
-937249	a
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
 c
+NA
+NA
+NA
+NA
+c
 det.
 det.
+NA
 det.
-937255	a
-a
-a
-a
+NA
+NA
 a
-937262	det.
-937268	det.
-937271	c
+NA
+NA
 c
 c
-a
-937276	a
 c
 c
-det.
-det.
-937282	det.
-937288	det.
-937290	c
-937292	a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+NA
 c
-det.
 a
 a
-937300	det.
 det.
-937304	c
-937307	det.
-937309	c
+c
+NA
 a
-937313	det.
+NA
+c
+NA
+c
+NA
 det.
-937316	det.
-937318	c
+NA
+NA
+NA
+a
+NA
+NA
 a
+c
 a
+NA
+c
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
+c
 a
-937325	c
+NA
+NA
 c
 det.
-937330	c
-937333	c
-937335	a
+NA
+NA
 a
-937338	c
 a
+NA
+NA
 a
 a
-937344	det.
+NA
 c
-det.
-det.
-det.
-937351	c
-det.
+NA
+NA
 a
+NA
+c
+c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-937357	det.
-det.
-937361	c
-937363	a
+NA
+NA
 a
+NA
+NA
 a
-937367	det.
-937370	c
 det.
-937373	a
-a
+NA
+c
+NA
+NA
 a
-937378	c
+NA
 c
-det.
-937383	c
-det.
-937386	det.
 c
-det.
-937390	a
+NA
+c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
 a
-937396	det.
+NA
 c
-937399	a
+NA
 c
-c
-937403	a
-937406	a
-937409	c
 a
 c
-937414	det.
-937417	a
-937419	det.
-det.
+NA
 a
-a
-937424	a
-a
-a
+NA
+c
 a
-937430	a
-937433	c
-det.
-937436	a
-937440	a
-937442	a
+c
+NA
+c
 a
 a
-937447	c
-det.
-937451	c
 det.
 a
-a
-937456	a
+c
 det.
-937459	a
-a
-937462	a
-937464	a
+NA
+c
 a
-937467	a
-937470	det.
-937473	det.
-937476	det.
+c
+NA
+NA
+c
+c
 det.
-937479	det.
-937482	det.
-a
 a
+c
+c
+NA
+NA
+c
+NA
 a
-937488	c
+NA
+NA
+c
+NA
+NA
+NA
+c
 det.
-937491	det.
+NA
+c
 det.
-937494	a
-a
+NA
+c
 a
+NA
+c
 a
-937500	det.
-937503	c
-det.
-det.
-937507	a
+NA
+NA
+c
+NA
+c
 a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
 a
-937511	det.
-937514	det.
-det.
+NA
+c
+NA
 det.
-937518	c
 det.
-937521	a
-a
-a
-937525	a
-a
+NA
+NA
 c
-a
-937530	det.
-937532	c
+NA
+c
+NA
+c
+NA
 det.
+NA
+NA
+det.
+NA
+c
+NA
+NA
+NA
 c
 det.
-937537	a
-a
-a
-937542	a
+NA
+c
 a
-937546	c
+NA
+det.
 c
+NA
 c
+NA
+NA
 det.
-937551	a
-a
-a
-937556	c
 c
+NA
+NA
+c
 det.
-937561	det.
-937563	a
-a
-937566	det.
-a
-937569	a
-a
-a
-937573	det.
-937578	a
+NA
+NA
 c
-a
+NA
 c
+det.
+NA
 c
+NA
+NA
+det.
 det.
-937585	c
-937587	c
+NA
 c
-a
-937591	a
-937596	det.
 det.
-937601	det.
-937603	a
-a
-a
+NA
+NA
 c
-a
-937609	a
-a
-937613	det.
-937616	c
 c
-a
-937620	a
 a
-a
-937625	det.
-937628	det.
-det.
+NA
+NA
+NA
+NA
+NA
+c
+c
 a
-937632	a
-937634	det.
 det.
-a
-937638	a
-a
-937641	a
-a
-937645	det.
-937650	a
-937654	a
-a
-a
-a
+c
+NA
+NA
+NA
+NA
+c
 a
-937661	det.
-937664	c
+NA
+NA
+NA
+NA
+c
+c
 det.
-937667	a
-937669	c
-a
 c
-a
-a
-a
-937676	det.
-a
-a
-a
-a
-937683	c
+NA
+NA
 det.
-937686	det.
 det.
+NA
+c
+NA
+c
 a
-937690	a
+c
+NA
 a
-937693	a
+NA
 a
-937696	a
-937698	c
-det.
-937701	det.
+NA
+c
 det.
-a
-937705	det.
-937707	a
 a
-a
-a
-937713	det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
+c
+NA
+c
 a
-937718	c
-det.
+c
 det.
-937723	c
+c
+NA
+NA
 c
 a
-937727	a
-937729	c
-937731	a
+c
+NA
+NA
 a
+NA
+c
 a
-937736	det.
-937738	c
+NA
+NA
+NA
 c
-937741	c
-937744	a
-937746	det.
-937751	c
-937753	det.
-937755	det.
-det.
 c
-937760	a
-a
-937764	c
+NA
+NA
+NA
 c
-a
-937769	a
-937771	det.
-det.
-937774	c
+NA
+c
 a
-937778	det.
-937780	c
-937783	c
-937785	det.
 a
+NA
 a
+NA
+NA
 a
+NA
+NA
 a
 a
-937792	a
-937794	det.
-937797	c
-937800	c
+NA
 c
-a
+NA
 a
 a
-a
-937807	det.
-a
+NA
 c
-a
-a
-937813	a
+NA
+NA
+NA
+NA
 a
+NA
 a
+NA
+NA
 c
 c
-937820	det.
-det.
-937823	a
-a
-a
-a
-937829	c
-det.
-937836	c
-det.
-a
-937841	c
-937844	c
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 a
 c
+NA
+NA
 a
+NA
+c
 c
+NA
+c
+NA
+NA
 a
+NA
+NA
 c
-937853	c
+NA
+NA
 c
-det.
+NA
+NA
+c
 det.
-937858	c
-937860	c
+c
+NA
+NA
+NA
 c
 det.
+NA
+NA
 c
+NA
 c
-a
+NA
+NA
 c
-a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
+det.
+c
+NA
+NA
+NA
 c
-937872	c
+NA
 c
 det.
+NA
 det.
+NA
 a
-c
+a
+a
+NA
+NA
+NA
+NA
+NA
 c
+a
 a
 c
+NA
+a
+NA
+NA
 det.
+NA
 det.
-937885	c
+NA
+NA
+NA
+NA
 a
-937888	det.
-937890	c
+NA
+c
 det.
+NA
+NA
+c
 a
-937895	c
 c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 det.
+NA
+NA
+NA
 c
-937901	c
+NA
 c
-c
+NA
+NA
 a
-c
+NA
 a
-c
 a
+NA
 c
-937912	c
-937914	det.
-937917	det.
-937919	c
-937921	det.
-937924	c
+a
 c
+NA
 a
+NA
+a
+NA
+NA
 c
+NA
+a
 a
+NA
 c
 a
-937933	c
+a
+NA
+NA
+NA
 c
+NA
 c
+NA
 det.
+NA
 det.
+NA
+NA
+c
+NA
+c
+a
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
 det.
+NA
 a
-937941	a
+NA
+NA
 a
 a
+NA
 a
 a
+NA
 a
-937948	a
 a
-c
-937952	det.
-c
+NA
+NA
 det.
+NA
 det.
+NA
 a
+NA
+a
+a
+NA
+NA
 c
 c
 det.
-a
-937963	c
-937965	c
+NA
+NA
 det.
-937969	det.
+NA
+NA
 det.
+NA
+c
 a
 a
-937974	c
+NA
+NA
+a
+NA
 c
-937977	a
+NA
+det.
+NA
+NA
+NA
 a
-937981	c
+a
+NA
 det.
-937987	c
+NA
+c
+NA
 c
+c
+NA
+NA
+c
+NA
+c
+NA
+det.
 a
-937992	c
+NA
+a
+NA
+NA
+a
+NA
 c
+NA
 a
-937997	a
-937999	a
+a
+NA
 det.
+NA
 a
+NA
+NA
+c
+NA
 c
+NA
 a
-938005	det.
+a
+NA
+c
 det.
-938009	det.
-938013	c
-938017	c
-938020	det.
+NA
+a
+a
+a
+NA
 det.
+NA
 c
+det.
 a
-938025	a
+NA
+c
 a
-938028	det.
-938030	a
-938032	c
+NA
+NA
+NA
+NA
+NA
 a
-938035	c
 a
-938038	a
-938040	c
+NA
 c
 det.
+NA
+NA
+c
 det.
-938047	c
+NA
 c
 a
-938051	c
+NA
 a
 a
-938055	a
-938058	a
-938061	a
+NA
+NA
 c
 a
-938066	a
-938068	c
 a
-938071	c
-938073	a
-938075	c
+NA
+NA
+NA
 a
-938078	c
+NA
 c
 a
-938082	a
-c
-a
-938087	c
 a
+NA
 a
+NA
+c
+NA
+det.
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+c
+c
 a
-938093	a
-938096	c
+NA
+c
+det.
+NA
+NA
+c
+NA
 c
-938100	a
+NA
+NA
+NA
+NA
 c
+NA
 a
-938105	a
-938108	c
+NA
 a
-938115	a
-938119	c
-938122	a
-938124	c
-938126	c
+NA
+NA
 a
-938129	c
-938131	det.
+NA
 a
-938135	a
+NA
 c
-938139	a
-938141	c
-938143	det.
 c
-938146	c
-938150	c
-c
 a
-938154	c
-938158	c
-938160	a
-938165	c
-938171	a
-938173	a
+NA
+NA
+NA
 a
-938177	c
+NA
 c
 a
-938182	c
-938184	c
-938187	c
-938189	c
-c
-938196	c
+NA
 a
-938199	c
-938201	c
-938203	a
-938207	c
 c
+NA
+NA
+c
 a
-938214	a
-938216	c
-938218	a
-938220	a
-938222	a
+c
+NA
+NA
+det.
+NA
+NA
 c
-938231	c
+NA
 c
-938234	c
-a
-938237	c
-938240	c
-938246	a
+det.
+NA
+det.
+NA
 c
+NA
+c
+NA
+NA
+NA
+NA
+det.
+det.
 a
-938250	c
-938254	a
+NA
+det.
+c
+NA
+c
+det.
 a
-938257	a
-938259	c
+NA
 det.
-938264	a
-938267	c
-938282	a
 c
+NA
+NA
 c
-938286	a
-938295	c
+det.
+NA
 c
-938302	a
-938313	c
+NA
+NA
 c
-938317	c
+det.
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+NA
+NA
 c
-938321	c
 a
-938324	c
+NA
+NA
+NA
 a
-938333	c
-938338	c
-938340	c
-938343	c
-938345	a
+NA
 a
+NA
+NA
+NA
 c
+det.
+NA
+det.
+NA
 c
+NA
+a
 c
+NA
 a
-938354	c
-938360	a
+NA
 a
-938364	c
-938367	c
-938372	a
-938374	c
-938378	c
+NA
 c
-938383	c
 c
-938387	c
-938392	c
 c
-a
-938406	c
-938414	c
 c
-938417	c
-938425	a
-938427	det.
-938430	c
-938438	c
-938440	a
-a
 c
+det.
+NA
+NA
+a
+NA
 c
-938445	c
+NA
 a
+NA
 det.
-938449	c
-938454	c
-938459	c
-938462	c
-938471	c
+NA
+NA
 a
-938486	a
-938488	a
-938492	c
-a
-938495	det.
+NA
+c
 det.
+NA
+NA
 det.
-938500	c
-a
-938505	c
-938507	c
-938511	det.
-938513	c
-938518	det.
+NA
+NA
 det.
-938522	c
-c
+NA
+NA
 det.
-938528	c
-938531	c
-c
-938534	c
-938538	c
-938542	c
-938544	c
-938547	c
-a
-938550	a
 a
-a
-938554	a
-938559	det.
-det.
-c
-938563	c
-938567	det.
-938569	a
-938572	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
-c
-938579	det.
-938581	det.
-938583	det.
-938585	c
-det.
-938589	det.
-c
-938600	a
-938606	det.
-938609	det.
-938612	a
-938614	c
-det.
-938623	det.
-det.
-938627	c
-938629	c
+NA
+NA
+NA
 c
+NA
+NA
 c
-938634	a
+NA
+NA
+NA
+NA
 c
-938639	c
-938641	c
-938643	c
-938645	c
-938647	c
-938650	c
-c
 a
-938655	c
+NA
+NA
+NA
+c
+det.
+NA
 c
-938667	det.
+NA
 c
-938673	det.
+NA
 c
-938677	det.
+det.
+NA
+NA
 a
-938680	c
-938683	a
-938687	det.
-938690	c
-938694	c
-938697	c
-938699	c
-938703	a
-938705	c
-938708	c
-938711	c
-938715	c
-938717	a
-938722	c
-938724	a
-938726	a
+NA
 a
-938729	c
-938731	a
-938733	a
-938735	c
-938739	a
 a
-det.
-c
-938748	a
-938751	a
+NA
+NA
+NA
+NA
 a
-938754	a
-938764	a
-938767	det.
-938769	a
 a
-938772	a
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-938779	c
-938781	c
+NA
+NA
 det.
-938786	c
+NA
+NA
+a
 c
+det.
+NA
 c
-938790	c
+a
+NA
 c
+NA
+NA
 a
-938794	det.
-938796	det.
-938799	a
-938801	c
+NA
 det.
-938804	c
+NA
+NA
+NA
+c
+NA
+c
+NA
 det.
-938809	c
-938811	c
-938813	a
+NA
 a
-938818	c
-c
-938821	a
-938823	a
-938825	c
 a
-938828	c
-938830	c
+NA
+NA
+NA
 c
-938834	c
-938838	a
-938843	a
-c
+NA
+NA
 a
-c
-938848	a
+NA
+det.
+NA
+det.
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-938852	a
-938854	a
-938856	det.
-938859	c
-938861	c
 a
-938867	c
+NA
+det.
+NA
+NA
+a
+NA
 a
-938871	c
-938877	c
-938879	c
+NA
 c
-938883	a
-938885	a
-938887	a
+NA
+NA
+c
+NA
 det.
-938891	c
-938894	c
-938903	c
+NA
+NA
 det.
-938907	c
-938910	c
-938914	c
-c
+NA
 det.
+NA
 c
+NA
+NA
+c
+NA
+det.
+NA
+NA
+NA
 a
+NA
 c
+NA
+NA
 c
+NA
+NA
 c
-938923	a
-a
-938926	c
 c
+NA
+det.
+NA
+NA
+NA
 a
 a
-det.
-938932	c
+NA
 c
+NA
 det.
-c
+NA
+NA
+NA
+NA
 a
-938938	det.
-c
-det.
-938943	det.
-c
-det.
-938947	a
+NA
+NA
 a
+NA
+NA
+NA
 det.
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
 det.
+NA
+NA
 a
-938953	c
+NA
 det.
+NA
 a
+NA
 a
-c
-det.
+NA
 det.
+NA
 c
-det.
-938963	det.
+c
 a
+c
+NA
+NA
 a
-938968	a
-938972	a
+c
 a
+NA
+NA
 c
-938977	c
-938981	det.
-938983	det.
+NA
+NA
 a
-938991	c
+NA
 a
+NA
 a
-938995	a
+NA
 a
-939000	c
+NA
+NA
 a
+NA
 det.
+NA
 det.
-939009	a
-939011	c
-939014	c
-939017	c
-939020	a
-a
-939024	c
-a
-939027	a
-939032	c
+NA
+NA
+c
+det.
+NA
 a
-939037	c
+NA
+NA
+c
+c
+NA
+NA
 a
-939040	a
+NA
+det.
 a
-939044	a
+NA
 a
+NA
 a
-939048	c
-939052	c
-939057	a
-939072	c
+NA
 a
-939075	c
+NA
 c
-a
-939080	a
-939082	c
 a
-939088	a
-939091	c
-939093	det.
-939101	c
-939109	c
 a
-939112	c
-939115	a
-939117	a
-939120	c
-939122	c
-939127	det.
+NA
 a
-939132	a
-939137	a
-a
-939140	c
-939142	c
-a
-939145	a
-939148	a
-939151	c
-c
-c
-939156	c
-c
-939161	a
-939164	c
+NA
+det.
+NA
 c
+NA
 c
+NA
+det.
+NA
+a
 c
-939169	a
-939171	c
 a
 a
-939176	c
+NA
+c
 a
+NA
 c
+a
+NA
 c
+det.
+NA
 c
-939191	a
+a
+NA
+NA
 c
-939198	c
+NA
+NA
 c
-939205	c
-a
-939208	a
-939210	a
-939214	c
-939216	c
 c
-939219	a
-939221	c
+det.
 c
 c
 c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-939227	a
-939229	c
 c
-939233	a
-939235	a
-939242	a
-939246	a
+NA
+NA
+NA
+NA
 a
-939251	c
-939253	c
-939255	c
-939257	c
-det.
-det.
+NA
 c
 det.
-939263	a
-939273	a
-939275	a
-939278	c
-a
+NA
 c
-939283	c
+NA
 c
-c
-c
-939288	c
-939291	c
 det.
-939294	c
-939296	c
-939298	c
-939301	c
-939306	c
+NA
 c
-a
 c
 a
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-939314	a
-939318	a
+det.
+NA
 det.
+NA
+NA
 c
-939324	c
 c
-939328	c
+NA
+NA
+NA
+NA
 c
+NA
 det.
-939332	a
-939337	c
+NA
+NA
 det.
-a
-a
+NA
+NA
+NA
+NA
 c
-a
-939347	c
 det.
-939350	a
-939352	c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
 a
-939355	a
+NA
+NA
 det.
+NA
+NA
+NA
 c
-939360	c
+NA
 c
-939363	c
-939366	c
-939369	a
-939371	c
-939375	c
 a
-939378	a
-c
+NA
+NA
 a
+NA
+det.
+NA
 c
 a
-939385	c
-c
-939388	c
-939390	a
-939392	det.
-939394	c
-c
-939397	a
-939399	c
+NA
 a
-c
+NA
+NA
+NA
+NA
 a
-939404	c
 a
-939407	c
-939410	c
-det.
-939415	det.
-939417	c
-939421	c
+NA
 c
-939426	c
-939428	c
-939432	c
-939435	a
-939437	c
-det.
-939441	c
+c
+NA
+NA
+NA
+NA
+NA
 c
+c
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
 c
-939447	a
 c
+NA
+NA
+NA
+NA
 c
-det.
+NA
+NA
 c
-939454	c
+NA
+NA
+NA
+NA
 c
-det.
-939458	c
-det.
-939461	c
-det.
-939464	c
-det.
-939467	det.
-939470	c
 c
-det.
-939474	c
-939476	det.
-a
-939479	c
-939481	a
-a
-939487	a
-939489	a
-939491	a
-939493	a
+NA
+NA
 c
+NA
+NA
 c
-939498	c
-939503	c
+NA
+NA
+NA
 c
-939508	c
-939510	c
-939513	a
-939515	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-939519	c
+NA
 c
-a
-939523	a
-939525	a
+NA
 c
-939529	c
-939532	a
-939535	c
-939537	c
-939539	c
-a
-939542	a
-939544	a
+det.
+NA
+det.
+NA
 c
+NA
+NA
+c
 det.
+NA
 c
-939550	a
 c
-939554	c
-939558	c
+det.
 c
-939566	c
-939569	c
-939572	c
-939578	det.
-939581	c
-939584	a
+NA
+NA
 a
-939587	c
+NA
 det.
-939590	c
+NA
+NA
+NA
+NA
+NA
 a
-939595	a
+NA
+NA
 c
+NA
 c
 det.
+NA
 c
-939604	a
-939606	c
+NA
+NA
 det.
-939611	a
-939614	a
+NA
+NA
+det.
+NA
+a
 a
-939618	c
+NA
+a
+c
+c
+c
+NA
+c
+det.
+NA
 det.
+NA
 det.
-939622	c
 c
-939627	c
+NA
+NA
 c
-939631	c
+det.
+NA
 c
+a
+NA
+NA
 c
 c
+NA
+NA
+NA
+det.
+NA
+NA
 c
-a
 a
 a
-939640	a
+NA
 a
+NA
 a
-a
+c
+NA
+NA
 det.
+NA
+NA
+det.
 a
+NA
+NA
+NA
+c
+c
+c
 a
 c
-939651	a
-939662	c
-939665	c
 c
 c
-939669	c
+NA
+NA
 det.
-939672	c
-939675	a
-939677	a
-939679	c
-939682	c
+det.
+NA
 c
+NA
 det.
-939688	det.
+NA
 det.
+NA
+NA
 c
-939694	a
-939696	c
-det.
-939699	c
+NA
 det.
-939704	c
-939706	c
-939708	c
+NA
 a
-939713	a
-939719	c
-939722	c
-a
-939727	det.
-939729	c
-939731	det.
-939733	a
+NA
+NA
 det.
-939736	a
-939738	a
-939740	c
-a
-c
+NA
 det.
-939747	c
-a
-939750	a
-939752	a
+NA
 c
-939755	a
+NA
+NA
+c
 a
+NA
 c
 a
+NA
 a
-939761	c
-c
-939764	a
-939767	det.
+NA
+NA
+det.
+det.
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
-939771	c
-det.
-939774	det.
+c
+c
 det.
-939777	c
 det.
+NA
+NA
+NA
 c
-939782	c
-939784	a
-939788	c
-det.
-939794	c
 det.
-939797	c
+NA
+c
+c
+NA
+NA
+NA
+NA
+a
+a
+NA
 a
+NA
 a
+NA
 a
-939803	a
-939805	c
+NA
 a
-939808	c
+NA
+a
+NA
+NA
 c
+a
+NA
+NA
+a
+a
 a
+NA
 c
-939813	a
-939819	c
-939821	det.
-939829	a
+det.
+NA
 c
+NA
 c
+NA
+NA
+NA
+a
+a
+NA
 c
+NA
+NA
+a
+NA
 det.
-939836	c
 a
-939839	c
+NA
+NA
+NA
+NA
+det.
+NA
+c
+NA
+NA
+c
+NA
+c
 c
-939842	c
 c
-939845	c
-939847	a
-939853	c
-939856	a
-939858	a
-939860	a
-939862	c
-939866	a
-939869	a
-939874	a
+det.
+NA
+NA
 a
-939877	c
+NA
 c
+a
+NA
+NA
 a
-939881	c
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
 c
+det.
+NA
+NA
 a
-939889	a
-939891	c
 a
-939895	a
-939897	a
-939900	a
-939904	c
-939906	c
 a
-939909	c
-c
+NA
+NA
+NA
+det.
+NA
+a
 c
-939913	c
 det.
-939916	c
+NA
 det.
-939919	c
-c
+NA
+NA
 det.
-939924	a
-a
-939927	c
-939929	a
+NA
 c
 a
-det.
-939934	c
-939937	a
-939939	c
-939945	c
+NA
+NA
+NA
 c
-939948	c
-939951	a
-939956	a
 c
+NA
+NA
+NA
+c
+c
 a
+NA
+NA
+NA
+NA
 a
-939962	a
+NA
 c
-939968	a
-a
+NA
+NA
+NA
 c
-939972	det.
-det.
+NA
 a
-939982	a
-a
+c
+NA
+c
+c
+c
+NA
+NA
+c
 a
+NA
 a
-939987	det.
+NA
 c
-939991	a
-939993	a
-939997	a
-940000	c
+NA
+c
 det.
-940003	det.
-940005	det.
+NA
 c
+NA
+NA
 c
+NA
 c
-940010	c
-det.
-940013	c
-det.
-a
-940017	c
-det.
-940020	det.
-det.
-940024	a
-940026	c
+NA
 c
+NA
 c
+NA
 c
+NA
+NA
+NA
 c
-940033	c
+NA
 c
-940036	c
 c
+NA
 c
 det.
-940043	c
+NA
+NA
 a
+NA
 c
 det.
-940050	c
+NA
+c
+a
+NA
+det.
+c
+c
 det.
+c
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-940055	a
-940058	c
-940060	a
-940063	a
-940065	a
+NA
 a
-940069	a
-940071	det.
-940073	det.
-940075	c
-940077	c
+NA
+NA
+NA
 a
-940081	c
 a
+NA
 a
-940085	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
 det.
-940088	c
 c
-940091	a
-940093	c
-a
-940097	a
-940099	a
-940102	c
+NA
+det.
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-940107	c
+NA
+NA
+NA
+NA
 c
-940110	c
-940112	c
 a
-c
-c
-940118	c
-det.
-940125	a
-940127	c
-940130	a
-940135	c
-c
+NA
+NA
+NA
+NA
+a
 c
+NA
 c
+NA
+NA
+NA
 c
+NA
 det.
-940143	a
-940145	c
+NA
+NA
+NA
 a
-940151	det.
-940153	a
 c
-940156	c
+NA
+NA
+NA
 c
 c
-940161	c
+NA
+NA
+NA
+NA
+NA
+c
 det.
-940165	c
-940171	a
-940176	c
+NA
+NA
 c
-940183	c
-940185	c
-940187	c
-940190	c
-940192	c
-940195	c
-940198	a
-940201	c
-940203	c
+a
+a
+NA
+NA
 c
-940208	c
+NA
 c
 c
-940213	a
-940216	a
-940218	c
-940220	a
-940222	a
-940224	c
-det.
+NA
+NA
+NA
+NA
+NA
 c
-940230	a
-940234	c
 c
+det.
+NA
+NA
 c
-940238	c
-940240	c
+NA
 c
-det.
 det.
-940246	c
-det.
-940249	c
-940253	a
+NA
 a
+NA
+det.
 a
-940257	c
-940261	a
-940264	c
+NA
 c
-940267	a
-c
-det.
-940273	a
-940277	det.
+NA
+a
+NA
 det.
+a
+NA
+NA
+NA
 c
-940281	c
-940283	c
-940287	c
-940291	c
-940293	a
-940295	c
-940299	c
-940309	c
-940314	a
+NA
 c
-940318	a
-940324	c
+c
+det.
+NA
 a
+NA
+det.
 a
+NA
 c
+NA
+a
+NA
 det.
 a
-940331	a
-940333	c
+NA
 a
-940336	a
+NA
+NA
 a
-940339	c
+NA
+NA
+a
+NA
+det.
+c
+NA
+NA
+c
 det.
+NA
 c
-940344	a
 a
-940353	a
-940356	a
-940359	c
+a
+NA
+NA
 c
-940362	a
+a
 a
+NA
+c
 det.
-940366	det.
+NA
+NA
 c
 c
-940370	c
+det.
+NA
+NA
 c
-940373	a
-940375	det.
-940378	det.
 a
+NA
+a
+NA
+det.
 c
+NA
+c
 det.
-940383	c
-940385	a
-940388	c
-940391	c
-940393	c
+NA
 c
-940396	c
-940400	c
+a
 a
-940406	a
-940410	c
+NA
+c
 a
-940413	c
 a
 a
+NA
+c
 c
-940421	c
-940423	c
 a
+NA
+NA
+c
 a
+NA
+c
+NA
+c
 det.
-940431	c
-940433	c
+NA
+NA
 c
-a
-940437	c
 a
 c
-940441	a
-a
-940445	c
-a
-940448	c
-940450	c
-940453	c
-940456	c
+NA
+NA
 c
 det.
-940460	c
+NA
 c
-940466	c
+NA
+det.
+NA
+NA
 c
-a
-940470	a
 a
+NA
+NA
+NA
 a
-940474	c
 c
-940477	a
-940479	c
-a
-940482	c
 det.
+NA
+c
 c
-940487	c
-940489	c
 c
 c
-940493	c
+c
 a
+NA
 c
-det.
 a
-940499	c
+NA
+a
+NA
+NA
+NA
+c
 det.
+NA
+det.
+NA
+NA
 c
-940503	a
-a
-940509	a
-940512	a
 a
-940515	det.
-940518	c
-940520	c
 c
-940523	c
-940525	a
-940528	a
+NA
+NA
+NA
+NA
 c
+a
+NA
+a
+NA
+NA
+a
 c
+NA
+NA
 a
 c
+NA
+NA
+NA
 c
+NA
+NA
 c
-940536	c
 a
-c
-940540	c
+NA
+NA
 a
-det.
 c
+NA
+NA
+a
+NA
+NA
+a
 c
-940546	c
-940552	c
+NA
+NA
 a
 c
 c
-940558	c
-a
-940561	a
-940563	c
 det.
+NA
+a
+c
 c
-940567	c
+NA
+NA
 a
 c
-940571	c
 det.
-940574	c
-det.
 c
-940578	a
-940580	a
-940584	a
-940586	c
-a
-940589	c
 c
-a
-940593	a
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
 a
-940596	a
+NA
 a
 a
+NA
+NA
 a
-940601	c
 a
-940604	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-940607	c
+NA
+NA
+NA
+NA
+NA
 a
-940611	a
-940613	det.
-940617	c
+NA
+NA
+NA
+NA
 c
-940620	c
+det.
+NA
 c
 det.
+NA
+NA
 c
-940627	c
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
+det.
+NA
+NA
+NA
 c
+det.
+NA
+NA
 a
+NA
 a
-940633	a
-940635	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+det.
+a
+NA
+det.
+NA
 c
-940638	c
+NA
+NA
+c
 a
-940641	c
+NA
+c
+c
+NA
+NA
+c
+NA
+det.
+NA
+c
+det.
+NA
+NA
+NA
 a
-940644	c
+det.
+NA
+c
+c
+det.
+NA
+c
+det.
+NA
+c
+det.
+NA
+c
 c
+NA
+det.
+c
+NA
 a
-940649	c
-940652	a
-940654	c
+NA
+NA
+c
+det.
 c
-940659	c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
-940663	c
+NA
 c
-940666	c
+NA
+NA
 c
 a
+NA
+NA
 c
 a
+NA
+det.
+NA
+c
+NA
+c
 c
+det.
+NA
+NA
+NA
 a
+NA
 det.
+NA
+c
+NA
+c
 det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+a
 a
-940677	c
-940679	a
-940681	c
+a
+NA
+NA
+NA
+NA
+c
 c
-940684	c
-940686	c
-940688	c
+NA
+NA
+det.
+NA
+c
+det.
+det.
 c
-940691	c
+a
+NA
+a
+NA
 c
-940694	c
 a
-940697	a
+NA
+c
 a
+NA
+NA
+NA
 a
 a
-940702	a
-940704	a
+NA
+c
 a
+NA
+NA
+c
+NA
+NA
 a
-940708	a
-940711	c
+NA
+det.
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
 a
-940718	c
-940721	c
-940723	a
-940726	c
-940728	c
-940731	a
+NA
 c
-940736	c
 c
+NA
 c
-det.
-940741	det.
-det.
-940744	c
+NA
+NA
 c
+NA
+NA
+a
+a
+NA
 c
-940750	a
-940755	a
-940758	c
 c
-940762	c
-940764	c
 det.
+NA
+c
+NA
+NA
 c
-940768	c
+NA
+NA
 det.
-940771	c
+c
+NA
 det.
-940774	c
-940777	a
-940780	c
-940786	c
+NA
+NA
 c
-940790	c
+NA
 c
-940794	c
-940798	c
-940802	c
-940806	c
-940810	a
-940817	a
-940819	c
-det.
+NA
 c
-940823	c
-940826	c
-940830	a
-940832	c
+NA
+NA
+c
 det.
-940835	a
-940838	a
-940840	c
-940845	det.
+NA
 c
-940848	a
-940851	det.
-a
+NA
+NA
+NA
 c
-940855	c
-940857	a
+NA
 a
-940860	c
+NA
+NA
+NA
 c
 c
-a
-940866	a
-940868	a
+NA
 c
-a
+NA
 c
 c
+NA
+NA
 c
 c
-940876	a
 c
+a
+c
+NA
+a
+NA
 c
+NA
 c
 a
+NA
+det.
+NA
 c
+a
+NA
+NA
 c
-940884	det.
-940888	a
-940890	det.
-940892	c
-940895	c
 c
+NA
 a
-940900	c
-940902	a
-940904	det.
+NA
+c
+NA
 c
-940909	det.
+NA
 det.
 c
-940915	c
+a
+NA
+NA
+NA
 c
-940918	c
-940921	a
+det.
 c
-940924	c
-940927	c
-940929	c
-940931	c
-940933	c
+NA
+NA
 c
-940936	a
-940939	a
-det.
-940942	a
+NA
 c
-940946	a
-940948	c
+NA
 c
-940951	c
-940954	det.
-940957	a
-940960	a
+NA
+NA
 a
-940966	c
 a
 c
-940970	a
-a
-940973	c
+NA
+NA
+NA
+NA
+c
 a
-940986	c
-940988	a
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
 a
-940992	c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
 c
-940996	a
-940998	c
-a
-941003	a
-941008	c
+NA
+c
+det.
+NA
+NA
 a
-941011	c
-941014	a
-941023	a
-941026	a
-941032	c
-941034	a
-941036	c
-941038	c
+NA
 det.
-941041	a
-c
-941046	c
-941048	c
-941050	c
+NA
+a
+NA
+NA
 det.
-941053	c
-941055	c
-941058	c
-941060	a
-941062	a
+NA
+NA
+NA
+NA
+NA
 a
-c
-c
+NA
 c
+NA
+NA
 c
-941069	a
+NA
 a
-941073	a
-941077	c
-941080	c
-941082	c
+NA
+NA
+c
+NA
+NA
 det.
-941085	c
+NA
 a
-det.
+NA
+NA
+NA
 c
-941094	a
 c
+NA
+c
 a
+NA
 a
-941099	a
-941101	a
-941105	c
 a
 c
-941109	c
 det.
-c
-941114	c
+NA
 det.
-941119	c
+NA
+a
+NA
+NA
 c
-941123	a
-941125	c
-det.
-941130	c
 c
+NA
+a
+a
+NA
+NA
 a
+NA
+NA
+c
+det.
+NA
+NA
 a
+NA
+c
+det.
+NA
+NA
 a
-941136	det.
-941138	a
-941146	c
+NA
+NA
+NA
 c
-941149	c
 det.
+NA
+NA
 c
-941153	c
-941155	c
-941158	c
-941160	c
 det.
+NA
 c
-941164	c
 det.
-941167	a
-941171	c
-a
-941174	a
-941177	c
-941179	c
-a
-941182	a
-941185	c
+NA
 c
-a
+NA
+c
+NA
+NA
 c
-941191	c
-941193	c
-941195	c
-941197	c
-941201	c
-941204	c
+NA
+c
 a
-941207	det.
-941210	c
+NA
+c
+NA
 c
-941213	c
 det.
+NA
 det.
-941218	a
-941221	c
-941223	c
-941227	c
+NA
+NA
+det.
+NA
 c
-a
-941231	a
-a
-a
-941235	a
-941237	c
-a
-a
-941241	c
-941246	a
 c
+NA
 det.
-c
-941251	a
 a
-941254	a
-941257	c
+NA
 c
-a
-941262	c
-941264	a
-941267	c
+NA
+det.
 a
-941271	a
-941273	c
+NA
+NA
+c
+NA
+NA
 c
-941277	c
+c
+c
+a
+NA
+NA
+det.
+NA
+NA
 det.
-941280	a
-941283	det.
-941287	c
+NA
+NA
 c
-941292	c
-941295	c
-941298	c
+NA
 a
+NA
+det.
+NA
 a
 c
+det.
+NA
+NA
+NA
+NA
 c
+det.
+NA
+det.
+NA
+NA
+a
+NA
 c
 c
-941306	a
-941308	a
-a
-941311	c
+NA
+NA
+NA
+NA
 c
-941315	a
+NA
+NA
 c
 c
-941319	c
 det.
 c
-941324	c
+NA
+NA
+NA
 c
+NA
+NA
 c
-941330	det.
-c
 det.
-941334	det.
+NA
+c
 a
-941341	a
+NA
 a
-941344	a
-941346	a
-c
-941349	c
+NA
 det.
+NA
+NA
+a
 c
-941353	c
 c
-941357	c
+a
+NA
+NA
 c
-941362	c
-941365	c
-941367	a
 c
-det.
 c
-941372	c
-941377	a
-941383	c
-941391	c
-941393	det.
 c
+c
+NA
+NA
+NA
+NA
 det.
-941399	a
-941402	c
+NA
 c
-941405	c
-941408	c
-941410	c
-941413	c
-941417	a
-941419	c
+NA
 a
+NA
+c
 a
 a
-941424	a
-941426	c
 det.
-941429	c
-941431	a
-941433	c
-941435	a
+c
+NA
 a
-941438	c
-941443	a
-941445	c
-941447	det.
-det.
+NA
 c
-941451	c
-det.
-det.
-941455	c
-941457	det.
+NA
+NA
 c
-941462	a
-941466	c
-941468	c
-941470	c
+NA
+NA
 c
 a
-941476	c
-941480	c
+NA
+NA
+NA
 a
-941483	c
+a
+NA
+NA
+NA
+c
 a
-941489	c
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
 c
-941494	c
 a
-941498	c
-941501	c
+NA
+NA
+c
 det.
-941504	c
+NA
+NA
 a
-941510	a
-941512	a
 a
-941515	c
+NA
+NA
 a
-941518	a
-941520	c
-941525	c
-c
-det.
-941535	a
-941539	c
-941541	a
-941543	a
 a
 a
+NA
 c
+NA
+NA
+a
+NA
+c
 c
-941549	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
 a
+NA
+NA
+NA
 a
+det.
+NA
+c
+NA
+NA
+a
+NA
 c
+NA
 c
-941555	c
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-941558	c
+NA
+NA
+NA
+NA
+NA
 a
-941561	c
-941564	c
 a
-941567	det.
+NA
 c
-941574	c
+NA
 c
-941581	a
-941585	c
+a
 c
-941588	c
-941590	det.
-941592	c
+NA
 a
+NA
+c
 a
 c
+NA
 c
-941598	c
-941602	c
-det.
-941606	c
+a
+a
 det.
 c
 det.
+NA
 c
-det.
+a
 c
-det.
-941618	c
+NA
+NA
+c
+c
 a
-941622	c
 a
+c
+c
+NA
 det.
+NA
+NA
 c
 a
-a
-941633	c
-a
-941636	c
-941638	c
-941640	a
-941644	det.
+NA
+NA
 c
+NA
+NA
+NA
 c
-941648	a
 det.
+NA
 c
-941652	c
-det.
-941655	c
-a
-941658	c
-941660	c
-941663	a
-941665	a
-a
 det.
+NA
 c
-941672	a
-941674	a
-941678	a
-941680	c
-a
-941683	a
-941685	a
-941687	a
 a
-941694	a
+NA
+c
 a
-941697	c
-941701	a
 a
-941704	c
-941707	c
-941711	c
-941713	c
+NA
+c
 a
-941716	c
+NA
 a
-941721	c
 c
-a
-941725	c
-941733	c
+NA
 c
+a
+NA
 c
-941739	c
 c
-941742	det.
-941745	c
-941747	c
-941749	c
-941752	c
-a
-941755	c
+NA
 c
-a
-941760	c
-941762	c
-a
-941765	c
-941768	a
-941770	c
-a
-941777	a
-941783	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-941788	c
+NA
+NA
 c
-941791	a
-941796	a
-941798	a
-941803	a
 c
+NA
 a
+NA
+c
+NA
 det.
-941808	c
 det.
+NA
+NA
 c
-941812	c
-det.
-941815	c
-a
-941820	c
-941822	det.
-a
+NA
 c
-941826	det.
+NA
 c
-941830	c
-941833	a
-941835	c
+NA
 det.
-c
-941841	c
+NA
 a
+NA
 c
-det.
+NA
+NA
+NA
 c
-941847	c
+det.
+NA
 c
 a
-941851	c
-941853	det.
-941855	c
-det.
-941860	c
+NA
 det.
+c
+NA
+NA
 det.
-941864	a
 c
-a
-941869	c
-941871	det.
-941873	c
 a
-c
-941878	c
-c
-c
-941882	c
+NA
+NA
+NA
 det.
-a
-941886	a
-941890	a
-941893	a
-941898	a
 c
-941902	c
-det.
-a
+NA
+NA
 c
-det.
-det.
-941910	c
 a
-941915	c
-det.
+NA
 a
+NA
 a
-c
 a
-941922	c
+NA
 c
 det.
-941931	a
+NA
+NA
 c
-c
-a
-941936	c
-941938	c
-det.
-941941	c
-a
-941945	c
-941951	c
+NA
+NA
+NA
 c
-941954	c
-941957	c
-941964	a
-det.
-941967	c
-941969	a
-941973	c
-a
 det.
-941977	c
-941979	a
-941981	c
-det.
-941984	det.
-941986	a
-941988	c
-941990	c
-det.
 c
-det.
-941999	c
-det.
-942002	c
+NA
+NA
 det.
 det.
-942015	a
-942021	a
-942023	c
-942026	c
+NA
 c
 det.
-det.
+NA
+NA
 c
-942034	c
 c
-942041	c
 a
-942045	c
-942049	c
-942051	c
+NA
+NA
+NA
+NA
+NA
 c
 c
-det.
-942056	c
-942061	c
-942063	a
 a
-942068	c
-c
-942073	c
-942076	c
-c
-942082	c
 c
-942087	det.
-c
-942094	c
+det.
 c
-942097	det.
-942099	c
-942106	c
-942109	c
-942111	c
-a
-942114	c
+NA
+NA
+det.
 det.
+NA
 c
-942120	a
-942123	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
+det.
+NA
+NA
+NA
 c
-a
-942130	c
 a
+NA
+NA
 c
-c
-942136	a
-942138	c
-a
-942141	a
-942146	a
-942158	c
-942160	c
-942162	det.
+NA
+NA
+NA
 c
 c
-942167	a
-942170	c
-a
-det.
-942174	c
-942178	c
-942183	c
-942188	c
-942193	c
-942195	c
-942199	c
-942202	c
-942206	a
-942208	c
-942210	a
-942212	c
-942215	c
-942217	c
 c
-942221	a
 c
-942224	c
-942228	c
 c
-942233	c
-942236	c
-942238	c
-942241	a
 det.
+NA
 c
-942246	det.
-det.
-942249	c
-942253	c
-942255	c
-942260	a
+a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+det.
+NA
 c
-942264	a
-942266	c
 c
-a
-942270	c
-942272	a
-942274	c
 c
-942279	c
 c
 c
-a
-942291	a
-942293	a
-942295	c
-942297	c
+det.
+NA
+NA
+NA
+c
+c
 a
-942302	a
-942310	a
-942312	det.
-942314	a
 a
-942317	c
+det.
+det.
+NA
+c
 a
-942320	a
-942322	c
+NA
 c
-942331	c
-942335	c
 c
-942340	a
-942342	c
+NA
+NA
 a
-942346	c
+NA
+NA
+NA
+NA
+NA
 c
-942350	a
-942353	c
-942355	a
-942357	c
-942360	c
-942365	c
+NA
 c
-942369	c
-942371	a
-942373	c
 c
-a
 a
-942378	det.
-942380	c
-942384	a
-a
-942387	c
+NA
 c
-a
-942392	a
-942396	det.
-942398	a
-942400	a
 c
-942406	c
-942409	a
+NA
 c
+a
+NA
 c
-942413	det.
-942416	c
-942418	c
-942421	a
+NA
+NA
 c
-942425	a
-942428	a
-942434	c
+NA
 c
-942448	a
-942451	a
 c
-942456	a
-942459	c
-det.
 c
 c
+NA
+NA
 c
+NA
+NA
 c
-942466	c
 c
-942476	a
-942485	c
+NA
 c
-942489	c
 c
-942493	c
+det.
 c
-942496	c
-942498	c
+NA
+NA
 c
-942501	c
 c
 det.
-942506	a
-a
+NA
+NA
 a
-942512	c
+NA
+NA
 a
-942518	c
+NA
+NA
 a
-942524	a
-942529	c
+NA
+NA
 c
-a
-942534	c
-942537	c
-a
-a
-942542	c
-a
-942546	a
-942550	c
-942552	a
-942555	c
-942559	det.
-942562	c
-942569	a
 c
 a
-942574	a
-a
-942579	a
-942581	c
-a
-942584	c
-942586	c
-942591	a
-942593	c
-942597	a
-942602	a
-942606	a
-942608	c
-942610	c
+NA
+NA
+det.
+det.
+NA
 c
-942613	c
+det.
+NA
+det.
+NA
+NA
 a
-942617	c
 c
+NA
 a
-942621	c
+NA
 c
-942625	c
+NA
+NA
+NA
 c
 c
+NA
+NA
 a
-942632	c
+NA
 c
-942637	c
-942641	a
-942644	a
-942647	c
+det.
+NA
 c
 c
 c
+NA
+NA
 c
-942653	c
-942672	c
-942675	a
-a
-942678	c
 det.
-942682	a
-942685	a
-942690	a
-942696	a
+NA
+NA
+NA
 a
-942699	c
-det.
-942702	a
-942708	a
-942711	a
-942716	c
-c
+NA
 c
-942720	c
-a
-942724	c
-942726	c
 det.
-942729	c
-c
-942736	a
-942738	c
-a
-942741	a
-c
-a
-942746	c
-c
-a
-c
-942751	a
-942753	c
-942755	c
-942757	a
-942759	c
-942763	c
-c
-a
-942769	c
-942771	c
-c
-942774	c
+NA
+NA
+NA
 a
-942781	a
-942787	a
-942790	a
-942793	c
-c
-942796	c
-c
+NA
 a
-942800	a
-942802	a
-942804	a
-c
-942807	c
 c
+NA
+NA
 c
-942812	det.
+NA
+NA
 a
-942815	det.
 c
-942820	c
-942825	c
-a
-942832	c
-942834	a
-942836	a
 det.
-a
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
+NA
 c
 det.
+NA
+NA
 c
 c
-942848	a
-a
-a
-942855	det.
-942859	c
-942863	c
 c
-a
-det.
 det.
+NA
 c
-942870	c
-det.
-det.
-a
-det.
-a
-det.
-a
-942879	c
-det.
-942882	c
-942886	c
-a
-det.
-942891	c
-det.
 c
-942896	a
-942906	a
-942908	c
-942910	a
-942912	c
-942921	c
-942923	a
-942926	a
 c
-a
-942931	c
-942933	a
-942935	det.
-det.
-det.
 det.
-942940	a
 c
-a
-a
-a
-942946	a
-a
-a
-det.
+NA
+NA
 c
 det.
-c
-942955	c
+NA
+a
 a
-942958	c
-942960	det.
+NA
+NA
 det.
-c
-942966	det.
-c
-942969	a
-942971	a
-942973	c
-942975	a
-942977	c
 det.
-942980	c
-942982	a
-942985	a
+NA
 c
-c
-det.
-942992	c
-det.
 a
-942996	a
-942998	a
+NA
+NA
+NA
+c
+NA
+NA
 a
-943001	a
+NA
+NA
 a
-943004	c
-943006	det.
-det.
-943009	c
+NA
+NA
 a
+NA
+NA
 a
+NA
 a
-c
+NA
 c
-943016	c
 c
-943019	a
+NA
+NA
 c
-c
 a
-943024	c
-det.
+NA
+NA
 a
+NA
 c
-det.
-943031	a
-943034	c
+NA
 c
-943037	c
-det.
-943040	c
-det.
-943045	c
-943049	c
-det.
-943052	c
+a
+NA
 c
+NA
 c
-943056	c
-943059	c
-943062	a
-a
-943065	a
-943067	a
-943069	c
-det.
 c
-943077	c
-943080	a
-943083	c
+NA
+c
 a
 a
-943087	a
-943093	c
-943095	c
-943097	c
+NA
+c
+NA
+NA
+NA
+NA
 c
-943102	c
 a
-943107	c
-943109	a
-943113	c
+NA
 c
-943117	c
+NA
 c
-a
-943121	c
-943124	c
-a
-943127	a
 a
+NA
+NA
 c
 c
+NA
+NA
 a
-943133	det.
-943135	c
+NA
 a
-det.
-943140	c
-943142	c
+NA
+c
 a
-943146	a
-943148	c
 c
 c
-943152	a
-943155	c
+a
+NA
 c
+NA
+NA
+NA
 a
-943159	c
 a
-943162	c
-det.
-943165	det.
-943167	c
+NA
+a
+NA
 c
+NA
+NA
 c
-943171	c
+NA
 a
-943174	a
-943176	c
 a
-943180	c
-943182	c
-det.
-943185	a
-c
-c
 c
-943190	c
-943198	c
-943201	c
-a
-943208	a
 c
+NA
 c
-943213	det.
-943215	det.
-943221	c
-a
+NA
+NA
 c
-det.
-943226	a
-943228	c
-943230	c
-det.
 det.
-det.
-943236	c
-943238	c
-c
-943243	c
+NA
+NA
+NA
+a
+NA
 c
-943247	c
 c
-943258	c
 c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 a
-943265	a
-943267	c
-943269	a
-943272	c
+NA
 c
+det.
+NA
 a
-c
-943280	a
-943282	c
+a
 c
-943286	c
 a
-943290	c
+NA
 c
 c
-943295	a
-943298	a
-943303	a
+NA
+NA
 c
+det.
+NA
 c
 c
+NA
+NA
 c
+det.
+NA
 c
-943311	c
-a
-943317	det.
-943319	c
-943321	c
+det.
+NA
 c
-a
 c
-943327	c
 a
-a
-943332	c
+NA
+NA
+NA
+NA
 c
+det.
+NA
+NA
 c
-a
 c
+NA
+NA
 c
 c
-943340	a
-943345	a
-943349	det.
-943351	a
-943353	a
-a
-a
+NA
 c
-a
 det.
-943361	c
+NA
 a
-a
-943365	a
-943367	c
-c
-943370	det.
 det.
+NA
 c
-943374	c
-a
+NA
+NA
+c
+NA
+c
 det.
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
-943382	a
-943384	c
+NA
 c
+det.
 a
-943388	a
+NA
 a
-943391	a
-943394	c
-c
+NA
+NA
+NA
+a
+NA
 c
 c
-943401	a
-943404	a
+NA
 c
 c
-943408	c
-a
-943411	c
+NA
 c
-943414	a
-943417	c
-943419	a
-943421	c
-a
-943426	c
-943428	c
-943432	a
-943434	det.
 c
-943437	a
-a
-943440	c
-943442	a
-943444	c
-943447	c
-943449	a
-943453	c
+NA
+NA
+NA
+det.
+det.
 c
-a
+NA
+NA
 c
-943458	c
+det.
+NA
+NA
+NA
 c
-943462	c
-a
-943465	a
-943467	det.
-943471	a
-943474	a
-a
-943478	c
-a
 c
 a
-943483	c
-943487	a
-943489	c
-943492	c
-943494	a
-943496	a
+NA
+NA
+NA
+NA
 c
 det.
-943501	c
-943503	a
-a
+NA
 c
-943510	a
-943512	c
-943514	a
-943520	c
-det.
-943525	c
-943530	det.
-943532	c
-943534	a
-943542	det.
-943544	c
-943547	c
-a
-943550	det.
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-a
 c
 a
+NA
+NA
 a
 c
-a
-943560	a
-943562	a
-943564	a
-943567	c
+NA
+NA
+NA
 c
-a
-943572	a
-a
-943575	a
-a
-943578	a
-943580	c
 c
-a
-943586	c
-943588	c
+NA
+NA
 c
-a
-943592	a
-943594	c
-a
+c
+c
+NA
+NA
 c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-943599	c
+NA
+c
+NA
 c
-943602	c
 c
-943606	c
+c
+NA
 a
-943609	c
-943613	c
+NA
+NA
 a
-943616	c
+NA
+c
 a
-943619	a
-943621	c
 a
-943625	a
-943627	c
-943629	a
-943631	c
+NA
 c
+a
 c
-943636	c
 a
-943639	det.
-943643	a
-943646	c
+NA
+NA
+NA
+c
 a
-943649	c
+NA
 a
-943652	c
-c
-c
+NA
+NA
+NA
 c
-943658	c
-943660	a
-943662	c
-943664	c
 c
-det.
-943672	a
+NA
+NA
 a
-943676	c
-c
 a
-943681	c
 a
-943684	c
-det.
-943687	c
+NA
 c
-943692	c
-943697	a
-943700	c
-943702	a
-943708	a
 a
-943711	c
 c
 c
-a
-943719	c
-a
-943723	c
-det.
-943728	c
-943730	c
+NA
 c
-943734	det.
-943736	a
-943738	a
-943743	c
 a
-943747	a
 c
-943750	c
-943752	c
-943754	a
-943756	c
-943758	c
 c
-943761	c
-943765	c
-943767	c
-c
-a
 c
-a
-943774	c
+NA
+NA
 c
-a
-943778	c
 c
+NA
+NA
+NA
 c
-a
-943783	c
 c
-a
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
 c
-a
 c
 c
 a
-943797	c
-a
+NA
+NA
+NA
 c
-943801	c
-a
-943804	c
-943808	c
 a
-943811	c
-c
 a
-943816	c
-943818	c
-943820	c
-c
+NA
+NA
+NA
+NA
+NA
 c
 a
-943825	a
+NA
+NA
+NA
 a
-c
-c
+NA
 a
-943831	a
-943833	c
+NA
 c
-943836	a
-943838	c
 c
-943842	c
+NA
 c
 a
-943846	c
 c
+NA
 a
+c
 a
 c
 c
+NA
 c
+NA
+NA
 a
-943855	c
-c
+NA
+NA
+NA
 a
+a
+NA
 c
-943861	c
+NA
 c
-943864	a
-943866	a
-943868	a
-943872	c
-a
-943878	c
 c
-943885	c
-943887	a
-943890	c
 a
-943895	a
+NA
+NA
+NA
 a
-943899	a
-943901	c
+NA
 a
-943905	c
+NA
 a
-943908	c
-a
 c
-943912	a
-943914	c
-a
 a
-943918	c
+NA
+NA
 a
-943922	c
+NA
 c
 a
-943926	a
-943929	c
-c
-943932	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-943935	c
+NA
 a
-943941	c
+NA
+NA
 a
-943944	c
+NA
+NA
+NA
+NA
+NA
 a
-943947	c
+NA
+NA
+NA
 a
-943951	c
-943953	a
 c
-a
 c
 a
-943961	c
+NA
 a
 a
 a
-c
-a
-c
-943971	a
-943974	det.
-943976	c
-943978	c
-943984	c
 a
-943987	a
-943989	c
 a
-943992	c
-943995	c
-943999	a
-944003	a
-944005	a
-944008	a
-944010	c
-944012	c
-944015	a
-944017	c
-944020	c
-944022	c
+NA
+c
+NA
 c
-944026	c
 a
-944031	c
+NA
+NA
 a
-944036	a
-944039	c
-944043	c
-c
-944046	c
-944049	c
-944051	c
-944053	a
-944056	a
-944058	c
-944067	a
-944069	a
-944073	det.
-944075	c
-944078	c
-944082	a
-944084	c
 a
-944088	a
-944093	c
-944095	c
-944097	c
-c
+NA
 c
-944101	c
-det.
-944105	a
-944107	a
+NA
+NA
 a
-944111	a
 a
-944114	c
-c
-944120	c
-944124	c
-944127	a
-944129	a
-944132	a
-944135	a
 a
 a
-944139	a
-c
-944144	c
-944146	a
-944149	c
+NA
 a
-944152	c
-944155	a
-944161	a
-944163	c
+NA
+NA
 a
-c
-c
-944173	a
-944175	c
-944181	c
-944186	c
+NA
 a
-944190	c
-c
-944202	c
+NA
+NA
+NA
 a
-944205	c
+NA
 a
-944208	c
+NA
+NA
+NA
 c
-944212	c
 c
-944221	c
 a
-944227	a
-944230	a
-944233	c
+NA
+NA
+NA
 a
-944238	c
+NA
+NA
 c
-c
-944243	a
-944247	c
-944251	a
-944253	c
-c
 a
-944260	c
-a
 c
+a
 c
 a
-944266	a
 a
-944272	a
-944274	c
-944276	c
+NA
+c
 a
-944279	c
-944281	a
+NA
 a
 a
+NA
 a
+NA
 a
-944287	a
-944291	c
-944296	c
 a
-944299	a
-944301	c
-c
+NA
 a
-944305	a
-944307	a
-944309	det.
-det.
+NA
 a
-944314	c
-det.
+NA
 a
-944318	a
-944321	c
 c
-det.
-944325	a
-a
-det.
 c
-a
 a
-944333	c
-det.
 a
-944337	a
+NA
+NA
 c
-a
-944342	c
-a
-944345	a
-944347	c
+NA
+NA
+c
 c
+NA
 a
-944351	c
+c
+NA
+NA
+NA
+NA
+c
 a
-944355	a
+NA
+NA
+NA
 c
 a
-944359	a
-944361	c
+NA
+NA
 c
+c
 a
-944365	a
-944367	a
-944370	c
 a
-944373	a
-944375	c
-det.
-944383	c
 a
 a
-944387	c
 a
-944390	c
-944392	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-944396	c
-a
-944399	a
-944401	c
-944403	a
-944405	a
-944408	a
-944411	a
+NA
+NA
+c
 a
-944414	c
-944416	c
+NA
 c
 a
-944420	a
-944422	c
+NA
+NA
+NA
+NA
 a
-944425	c
+NA
 c
-a
-944429	c
-944431	a
-944433	a
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
 a
+NA
+c
 a
+c
 a
+NA
 c
-944442	c
-944444	c
 c
+NA
+NA
 c
-a
-944450	a
-944457	a
-944460	a
-944462	c
-944466	det.
-944469	c
-944473	a
-944476	c
-944478	c
 c
+NA
 c
-944482	a
-944485	c
-a
-944488	c
 c
+NA
+NA
+NA
+NA
 c
-944493	c
 c
+NA
+a
+NA
+NA
 c
-944500	a
-944505	a
-944509	c
 a
-944512	a
-944516	a
-944518	a
+NA
 a
-944522	a
-944527	c
-944530	c
+NA
+NA
 a
-c
-c
-944536	a
-c
-944540	c
-944542	a
 c
-944545	a
-944547	a
+NA
+NA
 a
-944550	c
+NA
+a
+NA
+NA
+NA
 c
-944556	c
-944562	c
-944568	a
-944571	c
+NA
+NA
+NA
 c
+NA
 c
-944575	det.
-944577	c
-944580	a
 a
-944585	c
-c
-944588	det.
-c
-944593	det.
-det.
-944599	a
+NA
+NA
 a
+NA
 a
-944603	a
+NA
 c
-det.
-944607	a
-944613	a
 a
-944616	a
-944618	a
+NA
 a
-c
-944622	c
-det.
+NA
 a
-c
-c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-944629	a
 a
 a
-944633	a
+NA
 c
-944636	a
+NA
+NA
+NA
+c
 a
-944639	a
+NA
+c
+NA
 a
-944643	c
-944646	c
-944649	c
-944651	c
-944653	a
-944658	a
-944660	a
 c
-944663	a
-944669	det.
-944671	a
-944675	a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-944678	a
 c
 a
-944682	a
-944685	c
+c
 a
-det.
-944691	c
-944697	c
-944703	c
-944706	c
 c
+NA
 c
-944710	c
-944712	c
-944719	a
+NA
+NA
+NA
+NA
 a
-944725	a
+NA
+NA
 a
-944728	c
+NA
 a
+NA
+NA
+NA
+c
+NA
 a
-944736	c
-944739	c
-det.
+NA
+NA
+c
+NA
 c
-944750	c
-944753	a
-944755	c
-944759	c
-944761	a
-944763	c
-944766	a
+NA
+NA
 a
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
 c
-944773	a
-944777	c
-944780	c
-944783	a
-944786	c
-944788	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-944791	c
-944796	a
-944799	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-944803	c
+NA
+NA
+NA
+NA
 c
-944806	a
-944811	c
-944816	a
-944818	c
-944820	a
-944824	c
-944829	c
 c
+a
 a
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
-944836	c
+c
+a
 a
-944844	c
+NA
+NA
 c
 a
-944849	c
+NA
+a
+NA
+NA
+c
+NA
 c
-944852	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
 c
-944856	a
+NA
+NA
+a
 c
-det.
-944860	c
 a
-944866	det.
+NA
 a
-944869	c
+NA
+c
 a
-944872	c
-det.
-944875	c
+NA
+NA
+NA
 det.
-944878	c
-det.
-944881	c
+NA
+NA
 a
-944885	c
+NA
+NA
+NA
+NA
 c
-944888	c
+NA
 a
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
 a
-944894	c
+c
+NA
+NA
+NA
+NA
+c
 a
-944898	c
+NA
+NA
+NA
+c
 a
+NA
+NA
 c
-944902	c
+NA
+NA
+NA
 c
-944905	c
-det.
-944908	c
-944910	c
-944913	c
+NA
 det.
+NA
+NA
 det.
-944920	c
-944922	a
-det.
+NA
+NA
 a
-944926	a
-944929	c
-c
+NA
+NA
+NA
 c
-944936	c
-944938	c
-944940	a
-944942	c
 a
-944945	a
-944947	c
-944949	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-944952	c
-944955	c
+NA
 c
-c
-944960	c
+NA
+NA
+NA
+a
+NA
 c
-944963	c
+NA
+NA
+NA
+NA
+a
+NA
 c
-det.
-944967	c
+NA
+NA
+NA
+a
+NA
 c
-det.
-944973	det.
-det.
-944976	c
+NA
+NA
 c
-944979	c
-det.
-944982	det.
-det.
+a
+NA
 c
-944986	a
-944989	c
-944994	a
+NA
+a
+NA
 c
-944997	c
-det.
-945002	det.
-945007	c
-945009	c
-945014	c
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-945019	det.
-945021	a
+NA
 c
 c
-945027	c
-945030	a
-945033	a
-945036	a
-945040	c
-945043	c
+NA
+NA
+NA
 c
-det.
-945049	c
+NA
 c
 c
-945053	a
 c
-det.
-945058	c
-945061	c
-945065	det.
-945068	a
-945072	c
-det.
-945076	c
-det.
-det.
-945080	c
-945082	c
-945087	a
 c
-det.
-945093	det.
+NA
+NA
 c
-945097	det.
-det.
-945100	c
-det.
-945103	c
-det.
-det.
-945107	c
 c
-det.
-945111	a
-945114	a
-945116	c
-det.
-945120	c
-det.
-945125	det.
-a
-945131	a
-det.
+NA
 c
+NA
 c
-945137	a
-945139	det.
-945141	a
+NA
+c
 a
-945144	a
-945146	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
 a
-945152	det.
-det.
-945156	a
-det.
-det.
-945161	c
-c
-det.
-945166	c
-945168	a
-945172	det.
-det.
-det.
-945177	det.
-945180	det.
-945183	c
-945185	det.
-945188	det.
-945191	c
-945193	det.
-945196	det.
-945199	det.
-945203	a
-c
-det.
-945207	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-945210	a
 c
-945213	det.
 a
-det.
-det.
-det.
-945219	c
-c
-945223	det.
 a
-945226	a
-945229	det.
-det.
-det.
-945234	det.
+a
+NA
+NA
+a
+NA
+NA
 c
-945237	det.
-945240	a
+c
+NA
+NA
 a
+NA
+NA
+NA
 c
 a
-945246	det.
-det.
-det.
-det.
-945253	c
-945256	a
-945258	a
-945260	a
-945263	det.
-det.
-945266	c
-det.
-945270	c
+NA
 a
+NA
+NA
 c
-det.
-945279	a
-945281	a
+a
+NA
+a
 c
-945284	a
-945286	a
-945288	a
-det.
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
 c
-det.
-945293	det.
-945295	c
+NA
+NA
+NA
 c
-det.
-det.
-945300	det.
-945302	c
-det.
-945305	det.
-945308	a
-945310	c
-a
-945313	a
+NA
+NA
+NA
+NA
+NA
 a
-945316	c
-det.
-945319	c
-det.
-945322	a
-945326	a
-945328	c
-945332	det.
-det.
-945335	c
-945340	det.
-945343	c
-945347	c
+NA
 a
-945350	det.
-945352	c
-det.
+NA
+NA
+NA
 c
-945356	det.
-945358	det.
-945364	c
-945366	a
+NA
+NA
 c
-det.
-945370	a
-det.
+a
+NA
+NA
+NA
+NA
 c
-945375	c
-det.
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
 a
+NA
+c
 a
+NA
 c
-945382	det.
-945387	c
 c
 a
-945391	a
-945393	a
+NA
 a
-945397	c
-945401	c
-945403	c
+NA
+c
+NA
 a
+NA
 c
-det.
-945408	a
-945410	a
-945413	a
-945419	c
-945424	c
+NA
 a
-945430	c
+NA
 c
-945435	c
-det.
-945439	c
-945441	c
-945443	c
+NA
+NA
 c
-945447	c
+a
+NA
+a
+NA
+NA
+NA
+NA
 c
-945453	c
-945455	c
+NA
+NA
+NA
 c
+NA
 c
-det.
-945460	det.
-945462	c
+a
+NA
 c
-det.
-945466	c
-det.
-945469	c
-det.
-945473	c
-945475	a
+NA
 c
-945478	c
+a
+NA
 c
 a
-945482	c
 c
-945485	a
-det.
-945491	a
-det.
 c
-945497	c
-a
+NA
+NA
 c
-945501	c
+a
+NA
+NA
 c
+NA
+NA
+NA
 a
-945505	c
-945509	a
-945512	a
-945515	c
 a
+NA
+NA
+a
+NA
+a
+a
+a
 c
-945519	a
 c
 a
-945523	a
-945527	c
-945530	det.
+a
+NA
+a
+NA
+NA
+NA
 c
-det.
-945535	det.
-945537	c
+a
+NA
+NA
+a
+a
+a
+NA
+a
+NA
+a
+NA
+a
+a
 c
 a
-945541	det.
-945543	det.
-945545	det.
+NA
+NA
+NA
 c
 c
-a
-945550	c
-det.
-det.
-945555	det.
+NA
+NA
 c
-945558	det.
-945561	det.
-945564	det.
+NA
 c
-945567	det.
-945570	det.
-945573	det.
-945576	c
-det.
-945579	det.
-945581	det.
-945583	c
-945585	c
-945587	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-det.
-945594	c
-945602	c
-945608	c
-945610	c
-det.
-945614	c
-945616	c
-945618	c
-det.
+a
+NA
+a
+a
+NA
 c
-945625	c
+NA
+c
+a
+NA
 a
+NA
+NA
+a
+NA
 c
-945629	det.
-945631	c
+a
 c
-det.
-945635	c
-945637	c
 a
-945640	c
-945642	det.
-945644	det.
+c
 c
-945647	c
-945649	a
-945651	c
+NA
 a
-det.
-945656	c
+NA
+c
 c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
 a
+NA
 c
-945664	c
+a
+NA
+NA
+NA
+NA
 c
+a
 a
 a
-945672	c
-945674	c
 a
 a
-945678	a
-945680	c
-945682	det.
+NA
+NA
+a
 c
-945687	c
-945690	c
-945696	c
+NA
+NA
 c
-945700	a
 c
+NA
+a
+a
 c
-945704	c
-945709	det.
+a
+NA
+NA
+NA
+NA
 c
-945715	c
 a
-945720	a
-945722	c
-945724	a
-945726	det.
-945729	c
-945734	c
+NA
 c
-det.
-945739	c
-945741	a
-945743	c
-945746	c
-945749	c
-945751	c
-945756	c
-945759	a
 a
+NA
+NA
+NA
 c
-945765	c
+NA
+NA
+NA
+NA
 a
-945769	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-945775	c
-945781	c
+NA
+NA
+NA
 c
-945784	a
-945787	c
-945789	a
-945791	a
-a
+NA
 c
-945799	c
-945809	det.
-945811	det.
 a
-det.
-945817	c
-c
-c
-945823	c
-945825	det.
-945830	det.
-945832	c
 a
-c
 c
-945837	c
+a
+a
+NA
 c
+NA
+a
+NA
 c
-945844	a
-945846	c
-945850	a
+a
+NA
 a
-945855	c
+NA
+NA
+a
+NA
 c
 c
-945861	a
-945863	c
-945867	c
-a
 a
+c
 a
-945872	a
-945875	a
-det.
-945879	a
+c
 a
-945884	c
-945886	a
-945888	a
-945894	det.
+NA
+NA
+NA
 c
-945898	c
+NA
 c
+NA
 a
-945902	a
-945906	c
-945909	c
-det.
-945912	c
-det.
-945915	c
-945917	c
-945926	a
-945928	a
-945930	a
-945933	a
-945935	c
+NA
+NA
 a
-945938	c
+NA
 c
-945942	c
+NA
+NA
+NA
 c
-945947	a
-det.
 c
+NA
+NA
 c
-945954	a
 a
-det.
-945958	a
-945960	c
-945963	det.
-945965	a
-945967	c
-945969	c
+NA
+NA
+NA
+a
+NA
 c
-945973	a
 a
-945976	c
-945978	c
 a
-945981	c
+NA
 a
-945984	a
+NA
+NA
+NA
 c
+NA
+NA
 c
-945988	det.
-945990	a
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 det.
-945996	c
-946002	c
-946005	c
-946009	c
-c
+NA
 c
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+a
 c
+a
+NA
 c
-946016	c
-det.
-946020	det.
 a
+NA
+NA
 a
-946028	a
+NA
 c
-946031	a
-946035	c
+NA
 c
-946038	det.
-946040	c
-a
-946043	a
-946045	det.
 a
-946048	det.
-946050	c
-946054	c
-946056	a
+NA
 a
-946059	a
-946062	a
+NA
 a
-946068	a
+NA
 c
-946073	a
-946075	c
 a
-946080	c
+NA
 c
-det.
-a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-det.
+NA
 c
-946089	c
+NA
+NA
+NA
+NA
 a
-946092	a
-946096	c
-946108	c
-946112	c
+NA
+NA
+NA
 c
-946121	c
-946126	c
 c
-946129	c
 a
+NA
 c
-946134	c
 c
+a
 c
-946140	c
-946142	c
+a
 c
-946147	c
+NA
 c
-946153	det.
 c
-946159	c
-det.
+a
 c
-det.
-946165	det.
-946169	det.
-946171	c
+a
+NA
+NA
 c
-det.
-946176	a
-946178	c
+a
+NA
+NA
+NA
 c
-946185	det.
-det.
+NA
+NA
+NA
+NA
 c
-946193	a
-946201	c
-det.
-946215	a
-946219	det.
-946221	c
-det.
-946225	a
-946229	c
-946231	det.
-det.
-946234	a
-946237	a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-a
+NA
+c
 a
-946244	a
-946253	det.
-946256	det.
+NA
+NA
 c
-946259	c
-det.
-946263	c
-det.
-946266	a
-946274	c
-946277	a
-946281	a
-946283	a
+NA
 c
-a
-946290	c
-946298	a
-946302	c
-946306	c
-946312	a
-946314	c
-det.
-det.
-946322	det.
-946324	c
-946328	c
 a
-946337	a
-946344	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
+NA
+NA
+NA
+c
 a
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-946351	c
-946353	det.
-946355	c
-det.
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-946359	a
-946363	a
-946368	a
-946376	a
-946379	a
-946388	a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-946399	c
-det.
+c
 a
-946404	c
-946407	det.
+NA
+NA
 a
-946410	c
+NA
+NA
+NA
+NA
 a
-946413	c
-946415	c
+NA
+NA
+NA
 a
-946419	c
-det.
-946427	a
-946430	det.
-det.
-det.
-det.
-946435	a
+c
 a
-946438	a
-946440	c
+NA
+NA
+NA
+c
 a
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
+c
 a
-det.
-946446	c
-946449	c
-946451	c
-946453	a
+NA
+NA
+NA
 a
+NA
+c
 a
-946457	c
-946461	c
+NA
+NA
+NA
+c
 a
 a
+NA
 c
-det.
-det.
-946469	c
-946471	c
-c
-946474	det.
-946477	c
-946483	a
-946485	a
-946489	c
-946496	a
-946498	c
-det.
-946508	c
-946510	c
-a
+NA
+NA
+NA
 c
 c
 a
+NA
+NA
+NA
+NA
 a
-c
-946518	a
+NA
+NA
+NA
 c
 a
-946523	c
-c
-det.
-946529	c
-946533	c
+NA
+NA
 a
-946537	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-946541	c
-946544	det.
-946548	c
-946553	c
 c
-c
-946557	c
-946559	c
+a
 c
 a
 a
 a
 a
-946567	c
-c
+NA
 a
-946571	c
-c
-946574	c
+NA
 a
-946577	c
-c
-c
+NA
+NA
+NA
 a
-c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
 a
-946585	c
-946596	det.
+NA
+NA
+NA
+NA
+NA
 a
-946599	c
-det.
-946604	a
-946606	c
-946610	c
-det.
-946615	c
+NA
+NA
+a
+NA
 a
-946618	c
+NA
 a
-946621	c
+NA
 a
-946624	c
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
 a
-946630	c
-946632	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
-946636	a
-946657	c
 a
-946662	a
+NA
+NA
+NA
 a
-946666	c
+NA
+a
+NA
+NA
+NA
 c
-946669	a
 a
+NA
 a
+NA
+NA
 a
-det.
-det.
-946676	c
 a
-c
-946680	c
+NA
 a
-946683	c
-det.
+NA
 c
 a
-946690	det.
-946695	c
-946697	c
-946701	a
-946707	a
-946709	c
-946717	c
-946721	c
-det.
-946729	c
-c
 a
-c
+NA
+NA
+NA
+NA
+NA
 c
-det.
-946736	c
 c
-946740	a
-946743	c
 c
-946747	c
-946753	c
-946755	c
-946758	c
+NA
+NA
+NA
 a
-946762	a
-det.
-946773	c
-946775	a
-c
-946778	a
-946780	c
-c
-946783	c
-946787	c
+NA
+NA
+NA
+NA
 a
-946790	c
-det.
-946793	c
-c
-946796	a
-946798	c
+NA
+NA
 c
-946801	c
-946805	c
-946807	c
+NA
+NA
 a
-946812	det.
-det.
-946819	c
-946821	c
-946823	c
-946826	c
-det.
-946829	c
-det.
-946833	a
+NA
 a
-946836	c
-946839	c
-946843	c
-946845	c
-det.
-946849	c
-946855	c
-946858	c
-946860	a
-946863	c
-c
-det.
-946869	c
-946872	a
+NA
+a
+a
+NA
 c
-det.
-946876	c
+NA
+NA
+NA
+a
+a
+NA
 c
-946880	c
-946884	a
 a
+NA
 a
-946889	c
+NA
+NA
+NA
 a
-946892	a
-det.
-946895	a
-946897	c
 c
-det.
-946902	det.
-946904	det.
-946906	c
-946909	c
-946912	a
-det.
-946915	a
-c
 a
-c
-946920	c
-det.
-946923	det.
-det.
-946926	a
-det.
-946931	c
-946936	c
-946939	det.
-c
-946942	a
-946944	a
-946947	c
+NA
+NA
 c
 a
-946952	det.
-946955	a
 a
-946958	a
+NA
+NA
 a
-946961	a
-946963	a
-946966	c
-det.
-det.
-946971	a
-946973	a
+NA
+NA
+NA
+a
+a
+NA
+NA
 c
-det.
-946977	a
+NA
+NA
 a
-det.
+a
+a
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-det.
+a
+NA
+NA
 c
-946987	c
-det.
+NA
+NA
+NA
+NA
+a
+NA
 a
+NA
+NA
+NA
+NA
 a
-946993	a
+NA
+NA
+c
 a
+NA
 a
-946997	c
-946999	c
-det.
-947003	a
-947007	det.
-947009	det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-947014	det.
-det.
-det.
-947018	det.
-947020	det.
-947022	a
-947024	a
-947026	det.
 c
-a
-947030	det.
+NA
+NA
+NA
 c
-a
-947034	a
-947036	a
+NA
+NA
 c
-947042	c
 c
-947046	a
-947049	a
+NA
 c
+NA
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
 a
-947054	a
+NA
+NA
 c
+NA
 c
-947060	a
-947062	c
-947067	c
+NA
 c
-947071	det.
+a
+NA
 c
-det.
-det.
+a
 c
-947078	c
-det.
-947081	c
+a
+NA
+c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
 c
-947087	c
-947089	det.
-947091	c
-947095	det.
+NA
 c
-947098	c
+NA
+a
+NA
 c
-947102	c
-947104	a
-947106	c
-det.
 c
-947111	c
-947113	a
-947116	c
-947119	a
-947122	a
-947124	c
-947126	c
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
 c
-947130	c
 c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
 a
-947134	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
 c
-947140	c
+a
+NA
+NA
+NA
+NA
 c
-947144	a
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
 c
-947148	a
+a
+NA
+a
+NA
+NA
 c
+a
+NA
+NA
+a
 a
-det.
-947154	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
 c
-947160	det.
 a
-947163	a
+NA
+NA
 c
-det.
 a
-a
-c
+NA
+NA
 c
-947171	c
+NA
+NA
+NA
+NA
+a
+NA
 c
-947175	a
-947177	a
-947181	c
-947190	c
+NA
 c
-a
-947194	a
-947196	c
 a
-947199	c
-947202	a
-947205	a
-947209	c
-947211	det.
-947213	a
-947216	c
-a
-947219	a
+NA
+NA
+NA
+c
 a
-947222	c
 c
+NA
+NA
+c
+NA
+NA
+NA
 a
-947226	c
+NA
+c
 a
-947230	det.
-947232	c
+NA
 c
 a
+NA
+NA
+NA
+c
 a
-947237	c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 a
-947240	det.
-det.
-947243	a
-947245	a
-947247	a
+NA
+c
+NA
 a
-947251	det.
-det.
-947254	c
+NA
 c
+NA
+NA
 a
 a
-947259	c
-det.
-947264	det.
-947266	det.
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-947270	a
+NA
+NA
+NA
+NA
+NA
 a
-947273	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
-947276	a
-947278	det.
-det.
 c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-947283	a
-947286	det.
-947288	det.
+NA
+NA
 a
-947291	c
+NA
+NA
+NA
+NA
+NA
 a
-947294	c
+NA
 a
+NA
+c
 a
-947298	det.
-det.
-947301	a
-947303	a
-947306	c
+NA
+NA
+NA
 a
-947309	c
+NA
+NA
 a
-947312	det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
 c
-det.
-947318	c
-det.
-947321	c
-det.
-947324	det.
-947326	c
-947328	c
-a
-a
-947332	det.
-det.
-947335	det.
-947337	a
-947339	a
-947341	det.
-det.
-947344	a
-947347	a
-947349	a
-947351	c
-det.
-947356	c
+NA
+c
 a
+NA
+NA
 a
-947360	c
+NA
+NA
+NA
+NA
+NA
 c
-det.
-947365	a
-947367	c
-det.
+NA
 c
-a
-947372	det.
 a
+NA
+NA
 c
-a
-947377	a
+NA
+NA
+NA
+NA
+NA
 det.
-947382	det.
-947384	c
-947387	det.
-947391	a
-947395	det.
-947398	c
+NA
+NA
+NA
 c
-a
+c
+NA
+NA
+NA
+NA
 a
-947405	c
-947410	c
+NA
+NA
+NA
 a
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-947414	c
-947416	a
-947418	a
 a
-det.
-947422	a
-947424	a
-947427	det.
-947430	c
+NA
+NA
+NA
 c
-a
+NA
 a
-det.
-947437	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-det.
-947444	a
-947447	c
-a
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
 c
-947452	c
+c
+NA
 a
-947455	det.
-947458	a
-947460	c
-det.
-947467	a
-947469	det.
-det.
-947472	a
-947474	c
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
-947478	c
+c
+NA
+NA
+c
 a
-947482	a
+NA
 a
+NA
 a
-947486	det.
-det.
-947489	det.
-947491	a
-947493	a
-947495	det.
-det.
-947498	a
-947500	det.
-947502	c
+c
+NA
 a
+NA
+NA
 a
-947506	a
 c
-a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-947511	a
-947513	a
-947515	a
-947517	a
+NA
+NA
+c
 a
-947520	a
+NA
+NA
 a
-947523	det.
-947525	c
+NA
+NA
 a
-947529	a
-947531	c
-947535	c
-947537	c
-det.
-947541	a
-947543	c
 a
-947547	c
-947555	c
-947558	a
-947560	c
+NA
+NA
 a
-947564	c
-947567	c
-947571	c
-c
 a
-947575	a
+NA
 a
-947579	c
-947582	a
+NA
 a
-947586	a
-947589	a
 a
-947592	a
 a
-947599	a
-947601	c
-947603	det.
-947605	det.
-947607	det.
-947609	det.
-947611	c
-947614	c
-947616	a
-947618	c
 a
 a
 a
+NA
+NA
 a
+NA
+NA
+NA
 a
-947626	det.
-det.
 a
-947631	c
-947634	c
+NA
+NA
+NA
+NA
 c
-947637	a
-det.
-947641	c
+NA
+NA
 c
-947644	c
 a
-947650	c
+NA
+NA
 c
-947654	c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-947658	a
-947661	c
-947668	a
+NA
+NA
+NA
 c
-947673	c
-947678	c
-det.
-947682	c
-947685	c
-det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-947690	c
-947693	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
 c
+NA
 c
+NA
+NA
 a
-947698	c
+NA
+NA
 a
-947702	a
-947706	c
+NA
 c
-947710	c
-947712	c
+NA
 c
-947715	c
 c
-947719	c
-947723	a
-947727	a
-947729	c
-947732	c
-947735	a
-947737	c
-c
-947742	det.
-a
 c
-det.
-947747	c
-947749	a
-det.
-947752	c
 c
-det.
+a
 c
-947761	c
-947763	c
 c
+NA
+NA
 c
-947767	c
 a
+NA
 c
-947771	det.
-947773	c
-det.
 a
-c
-c
-947780	c
-947783	det.
-947785	c
-947787	a
-det.
-947792	c
+NA
+NA
 a
-947795	det.
+a
+NA
+a
+NA
 c
-947798	a
-947800	c
-947803	c
-det.
-947806	c
-det.
 a
-947811	c
-947815	a
-947817	a
+a
+a
 c
-947821	c
-947824	det.
-947828	c
 c
 a
-947834	c
-947836	c
-947841	c
-947844	det.
-947846	c
-947854	a
-947862	c
+NA
+a
+NA
 c
-det.
+NA
+NA
 c
+a
+a
 c
+NA
 c
 a
-947870	c
-det.
 a
-947875	a
-det.
-947879	c
-947883	a
+a
+a
+NA
+a
+NA
+a
 a
-947886	a
+NA
 c
+c
+NA
+c
 a
-947893	a
+NA
 c
+NA
+NA
+c
 a
+NA
 c
-947900	c
-947902	c
-947907	c
+NA
 c
-947912	det.
-947918	c
-947920	c
-947927	a
-947935	det.
-947937	a
+a
 c
 c
+a
+NA
+NA
 c
-det.
-947943	c
-det.
-947946	a
 a
-947949	det.
+NA
+c
+NA
+c
 a
-947953	det.
-947955	c
+c
 a
+NA
 a
+NA
 det.
-947961	a
-947965	c
-947967	det.
-det.
-947970	det.
-a
-947976	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-c
-det.
-947982	c
 a
-947986	c
-947990	c
 a
-947994	c
-947997	a
+NA
 a
-948000	det.
-948002	c
-948004	c
-948007	c
 a
-948010	a
-948012	c
-c
 a
-948016	c
+NA
+NA
+c
 c
 a
-948021	c
-948023	c
 a
-c
-948027	c
+NA
 a
+NA
 a
-948031	c
+NA
+NA
+NA
 c
 a
-948035	c
-948039	c
+NA
+NA
 a
-948042	a
-948046	c
-948048	a
-c
+NA
 a
+c
+NA
+c
+NA
 c
-948053	det.
 c
 c
 a
-948058	a
-948060	c
+NA
+NA
 a
-948063	c
-det.
-948067	det.
-948069	c
 a
-948072	a
-det.
-c
-c
 c
-948078	c
-c
+det.
+NA
 a
-948082	c
-c
+NA
+NA
 a
-948088	a
-948090	c
 a
-c
-948094	c
+NA
 a
-948097	a
-948100	a
+NA
 a
-948103	a
-948107	c
-948109	c
-c
-948112	c
 a
-948115	a
+NA
 a
-948118	a
-c
-948121	c
 c
 c
-948127	c
-c
-a
-948133	a
-948135	c
 a
-948140	det.
-948143	a
-948145	c
-det.
 a
+NA
+NA
 c
+NA
+NA
 c
-det.
-948153	c
-948155	c
+NA
 c
-det.
-948162	a
-948166	c
-det.
+a
+a
 c
-948170	a
-948172	c
-948174	a
+a
+a
+NA
+NA
 c
 c
-948179	c
-det.
-det.
-948183	c
-det.
-948186	c
-948188	a
-det.
-948191	c
+NA
 a
+NA
+NA
+NA
+c
 a
-948195	c
-948197	c
-948199	det.
-948201	c
-948203	c
-det.
-948206	c
 c
-948209	c
+NA
+NA
+NA
 a
-948214	a
-948217	c
+a
+NA
+NA
 c
-948220	c
-948222	c
 a
-948225	c
+NA
 a
+NA
+NA
 a
 c
 c
 a
-948232	a
-948234	c
 a
 a
-948238	c
+NA
 a
-948243	c
+NA
 c
+NA
 a
-948247	c
+NA
+NA
+NA
+NA
+NA
 a
-948250	c
+NA
+NA
+NA
+NA
+NA
 a
-948253	c
-948255	a
 c
+NA
 a
-948260	a
+NA
 a
-948263	a
-c
-c
-c
-c
 a
-948270	c
-948272	c
-c
-948277	c
-948280	c
-948282	c
+NA
 c
-c
 a
-948287	a
-948290	c
-948292	c
+NA
 c
 a
 a
-948297	c
-c
-c
 a
-948305	a
-948308	c
-c
-948311	a
+NA
 a
-948314	c
-c
-c
+NA
 a
-948320	c
-948322	c
-c
-c
 a
 a
-948328	c
 c
-948332	c
-c
-948336	c
-948339	c
+a
 c
-948343	c
-948345	c
-948347	c
+a
 c
-948351	c
 a
-948354	a
-948357	c
+NA
+c
 a
-948360	c
+NA
 a
-c
-948367	a
-948369	c
-948373	c
+NA
 a
-948379	a
-948383	c
 a
+NA
 a
 c
-948388	c
-a
-948391	c
-948393	c
 c
-948396	c
-a
-948399	c
+c
 a
-948403	c
+NA
+NA
+c
 a
 a
-c
+NA
+NA
+NA
 c
-a
-948410	a
 c
 c
-948414	c
 a
-948417	c
 a
-948420	c
 a
-948423	c
+NA
 a
+NA
+NA
+NA
 a
-948427	c
+NA
+c
 a
-948432	a
 a
-948435	a
 a
-948438	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-a
-948443	c
-a
 c
-948447	a
 c
 c
-948451	a
-948453	a
-948455	c
-det.
-det.
-948460	c
+NA
+NA
+NA
 c
-948463	c
-a
-948467	c
-948469	c
 c
-948474	c
-948476	c
+a
+a
+NA
 c
-det.
-948481	c
 a
-948484	a
-948487	a
-948489	a
-948491	c
-det.
-948494	c
+NA
 a
-948497	a
-948500	a
-948503	c
+NA
+c
 a
-948506	a
-948508	a
-948510	c
-948512	a
 c
-948515	c
+NA
+a
+NA
 c
-948519	a
-948521	c
-948523	c
-948527	c
+NA
+NA
+NA
 a
-948532	a
-948534	c
-det.
-948537	a
-948541	c
+NA
 a
-948546	det.
-948549	a
-948551	c
-det.
-948554	c
-det.
-948558	a
-948560	c
-948563	c
-948566	c
-948568	c
-det.
-948571	det.
-c
+NA
 c
-det.
-948576	c
-948580	c
 c
-det.
-948586	a
-948588	c
-det.
-948591	c
-948594	a
-948597	a
-948599	c
-det.
-948605	c
-det.
-948608	a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+a
+a
+NA
+NA
 c
+NA
+NA
+a
+NA
+NA
 c
+a
+NA
 c
-948614	c
-948616	a
-948618	c
-948620	a
+NA
+NA
 a
-948623	a
-948625	a
-948627	a
-948629	c
-948632	c
-948634	a
-948636	c
+NA
+NA
 c
-948639	det.
-948641	c
-948643	c
-948646	c
-948648	c
 c
+NA
+det.
+NA
 c
-948653	c
-948656	c
+NA
 c
-948659	det.
-948661	c
-948664	a
 a
-948668	c
 a
-948671	c
-c
-948674	a
+NA
 a
-948677	c
+NA
 c
-948680	c
-948682	a
-948684	c
-det.
+NA
+c
+NA
 a
-948688	c
-det.
-948691	det.
-948694	c
+c
 a
-948697	c
-948699	c
-948701	a
+NA
+c
+NA
+NA
 a
-948704	a
-948706	c
+NA
+NA
+NA
+NA
 a
-948709	c
+NA
 c
-948713	c
-948715	c
-948717	c
+NA
+NA
+NA
 a
-948720	c
-948722	c
 a
-948725	a
-948728	a
-948732	c
-948735	a
-948737	c
-a
-948744	c
-c
-c
-det.
-948749	c
-948753	det.
-948755	a
-948760	a
-948763	a
-948767	a
-948769	a
-948771	c
-948776	det.
-det.
-948779	a
-948781	c
-948783	c
-948785	c
-948787	c
-c
+NA
 c
 a
-948794	c
+NA
 a
-948797	c
 a
-948800	c
-det.
+NA
 a
 a
 c
-det.
-948815	c
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
+a
+NA
+a
 c
-948821	c
+NA
+NA
+a
+NA
 a
-948824	c
 c
-948827	det.
-948829	c
-948833	det.
-948836	det.
-948839	det.
 a
 a
-948845	a
-948848	a
-948852	a
-948854	a
-948856	c
-948858	a
-948861	a
+NA
+NA
 a
-948864	a
-948867	det.
-det.
-948871	a
-948873	a
+NA
+NA
+NA
 a
-948877	c
-c
-948880	c
-948882	c
-det.
-948887	a
+NA
 a
-948893	det.
-948895	det.
-det.
-948898	c
-c
 a
-948902	c
 a
+NA
 a
-948906	c
+NA
+NA
+NA
+NA
+NA
 a
-948909	a
-948911	c
+NA
+NA
 a
-948914	c
-948916	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-948919	a
-948921	c
+NA
 a
-948924	c
+NA
+c
+NA
+NA
 a
-948927	det.
-948929	c
-948932	a
-948934	c
-948937	det.
-948939	a
-948942	a
-948945	a
-948947	c
-det.
-948950	a
-948953	c
-det.
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
-948960	c
-948962	c
-948965	c
+a
+NA
+NA
 c
+NA
+NA
+NA
 c
-948969	c
-948972	c
-948974	c
-948976	c
-948979	a
-948982	c
-948984	c
-det.
-948988	c
+NA
+a
+NA
 c
-948991	c
+NA
+NA
 c
-det.
-948996	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-949000	c
+NA
 a
-949003	c
 a
-det.
-949007	a
-949009	c
-949011	c
+NA
+NA
 a
-949014	a
-c
-det.
-949018	c
+NA
 a
 a
-949022	det.
-949024	a
-c
-c
-det.
-949029	det.
-949032	c
-c
-det.
-949036	c
-949038	c
 a
-c
-949043	c
+a
+NA
+a
+a
+a
 c
-949046	c
 a
-949050	c
-det.
-949053	a
-949055	det.
-949059	c
-949061	a
-949063	a
-949065	a
-949068	a
-949070	c
-det.
-949075	c
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+c
 a
-949079	a
-949081	a
-949083	c
-949085	c
+NA
+NA
 det.
-949090	a
-949092	c
+NA
+NA
+NA
 c
-c
-949098	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
 c
-949103	c
+NA
+NA
+NA
+NA
 a
-949106	c
-949108	c
-949110	c
+NA
 a
 a
-949114	c
+NA
 a
-949119	c
-c
+a
+NA
 a
-949123	c
-949125	c
+NA
+NA
+a
+a
+NA
+a
+NA
 c
 a
-949129	c
+NA
+NA
 a
-949132	c
 a
-949135	c
-949137	a
 a
-949141	a
+NA
 a
-949144	a
-949146	c
-c
-c
-c
-c
 a
+NA
+NA
 a
 a
-949155	c
-c
 a
-949160	c
-c
+NA
+a
+NA
 a
+NA
+NA
+NA
+NA
 a
 a
 c
-949168	a
-949170	c
+NA
 c
+NA
 a
-c
+NA
+a
+NA
+NA
 a
-949176	a
-949178	c
-949180	c
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-949186	c
-949190	c
+NA
+NA
 c
-949194	c
+NA
+NA
+NA
+NA
+NA
 c
-949198	c
-a
-949203	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
+NA
 a
-949209	a
-a
-949212	c
-949215	a
+NA
+c
+NA
+NA
 a
 a
+NA
+c
 a
-949221	a
+NA
+c
 a
+NA
+NA
+NA
+NA
 c
-949225	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-949228	a
-949231	a
-a
+NA
+NA
+NA
+c
 a
-949235	det.
+NA
 a
-949239	a
-949241	c
-det.
-949244	c
-949248	c
-det.
-949251	c
-949253	c
-det.
+NA
 c
-949257	a
 a
+NA
 a
+NA
+c
 a
-949262	a
+NA
+NA
 a
-949265	a
-949267	a
 a
-949271	a
+NA
 a
-949274	c
-949276	a
-det.
-949280	c
-949283	a
+NA
 c
-det.
 a
+NA
+NA
+NA
 c
+NA
 a
-949291	c
-a
-949294	a
-949296	c
+NA
+NA
+NA
+c
+NA
 a
-det.
-949301	c
-949303	a
+NA
 c
+a
+NA
+NA
 a
+NA
+NA
 c
-det.
+NA
+a
+NA
 c
-949314	c
+a
+NA
 c
+NA
+a
+NA
+NA
+NA
 c
 a
-949321	c
-949324	c
 a
-949327	c
+NA
 a
-949330	a
-949334	c
 a
-949337	c
-949340	a
-949344	a
-949346	det.
-det.
-949353	a
 a
-949357	c
-949360	a
-949365	c
+NA
 c
-det.
-949369	c
-949371	det.
-949374	c
-det.
-949377	c
+a
 a
-949380	det.
-949383	a
+NA
 a
-949386	c
 a
+NA
+a
 c
+a
+NA
+a
+a
+NA
+a
+NA
+NA
 c
-949392	c
+a
+NA
 a
-949395	det.
-949398	c
 a
-949402	c
-949404	c
+a
+NA
 c
 a
-949408	c
-det.
-det.
-949412	c
-det.
-949416	det.
-949418	c
+NA
+a
+NA
+a
+a
+NA
+a
+a
+NA
 c
-949421	c
-949423	c
-det.
-949427	c
 c
 a
-949431	c
-949433	c
-949435	a
-949439	c
-c
-det.
-949443	c
-949445	c
-949447	c
 det.
-949451	det.
-949455	c
-949457	c
-949461	a
-949463	a
-949465	c
-949467	c
-c
-949470	c
+NA
+a
+NA
 c
-949473	c
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+NA
 c
-949476	c
-949478	c
+NA
+a
+NA
+a
+NA
+a
+NA
 c
-949481	c
 a
-949484	c
-949486	c
+NA
 a
-949489	c
-949492	c
+NA
+NA
+NA
 a
+NA
 a
-949498	c
-949500	c
+NA
+c
 a
-949503	a
+NA
+NA
+NA
+NA
+NA
 a
-949506	a
-949509	c
-949513	c
+NA
+NA
 c
-det.
+NA
+NA
+NA
 c
+NA
+a
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-949522	c
 a
-949527	c
 a
-949532	a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+NA
 a
-949536	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-949540	a
+NA
 c
 a
-949544	a
-949547	a
+NA
+NA
+a
+NA
+NA
 c
-949551	c
 a
 a
-949555	c
-949557	c
+NA
+NA
+c
 a
-949561	c
+NA
+c
 a
-949565	c
+NA
 c
 c
 a
-949572	a
-949574	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-949578	a
+NA
+NA
 a
-949583	c
-949588	c
 a
 a
-949592	c
+NA
+NA
 a
-949595	a
-949597	a
-949601	c
-949603	a
-949608	a
-949610	c
-949612	c
-c
-c
-949617	c
-c
-949620	det.
-949622	c
+NA
 a
-949626	c
-c
-949629	c
-949631	c
-949633	c
-949635	c
-c
-949638	a
-949640	a
-949642	a
+NA
+NA
 a
-949646	det.
-949648	a
-949651	a
+NA
+NA
+NA
 a
-949658	a
+NA
 a
-949662	c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
 a
-949669	a
-949671	c
-c
+NA
+NA
+NA
+NA
 a
-949675	c
-949678	a
-949680	det.
-c
-det.
-949684	c
-949687	a
-949689	c
-949693	c
-949695	a
-949697	a
 a
-c
-c
-949702	c
-c
+NA
 c
 a
-949708	c
-c
+NA
 a
-c
+a
+NA
+NA
 c
-949715	a
-949717	c
-949720	c
+NA
 a
-949723	c
 a
-949731	a
-949733	c
+NA
+NA
+NA
+NA
+NA
 a
-949741	det.
-949743	det.
-949745	a
-949749	a
-c
-949753	det.
-949755	c
-949758	c
-c
+NA
+NA
 a
-949762	c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-949766	c
+NA
 c
+NA
 c
-949771	a
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
 c
-949777	a
+NA
+NA
 a
-949780	c
-det.
-949784	c
-949786	c
+a
+NA
+NA
 c
-949789	c
+NA
+NA
+NA
+NA
+NA
 c
-949792	c
+NA
+NA
+NA
 c
-949795	c
+NA
+NA
+NA
 c
-949798	c
+NA
+NA
 a
-a
+NA
 c
-949803	a
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
 a
-949808	det.
-949811	a
-det.
+NA
 c
 det.
-949816	det.
+NA
 c
-c
 a
-949821	c
-949823	c
-949825	c
-949830	c
-949832	a
-949834	c
-c
+NA
 a
-949842	c
-det.
-949851	c
-949854	c
+NA
 c
+a
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-949860	a
-949862	c
-949865	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
+NA
 a
-949871	c
-949873	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-949877	c
+NA
+a
+NA
+NA
 c
-949882	a
-949884	c
-949886	a
+NA
 a
-949889	a
-det.
+a
+NA
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
 a
+NA
+NA
 a
-949896	c
-c
+NA
 a
+NA
+NA
+NA
+NA
 a
-949902	a
 a
+NA
+a
+a
+NA
+NA
+NA
 c
-det.
-949907	c
-949912	c
+NA
+NA
+NA
+NA
+c
 c
+det.
+NA
+a
 a
+NA
 a
-949917	a
+NA
 c
-949921	c
+NA
 a
-949927	c
+NA
+a
+NA
 c
-949930	c
-949932	c
 a
-949936	a
+NA
+NA
+NA
+NA
+NA
 a
-949939	c
-949942	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-949946	det.
-949949	a
+NA
 a
-949954	a
 c
-949958	c
-949960	c
-det.
-det.
-949966	c
 a
-949969	c
-det.
-949978	det.
-949980	det.
-949982	c
-det.
-949987	c
 a
+NA
+NA
 a
-949992	c
-949994	det.
-det.
-det.
-949998	det.
-950001	a
-c
-c
-det.
-950006	c
-det.
-950009	a
+a
+NA
+NA
+NA
+NA
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-950013	a
-950015	a
+NA
+NA
 c
-950018	a
-950021	c
-det.
-950025	a
-950027	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-950030	a
-950032	c
-det.
-950036	a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-950041	det.
-950043	c
-det.
-950047	c
+NA
+NA
+NA
 a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-950053	det.
-det.
-950058	c
-950060	c
-950063	a
-950069	c
-det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
 a
-950075	a
-950077	c
-950079	c
-950082	a
 a
-950085	a
-950087	c
-det.
-950090	a
 a
-950093	det.
+NA
 a
+NA
+NA
 a
-950099	c
-950101	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
 a
-det.
+NA
+NA
+NA
+NA
+NA
 a
+NA
+a
+NA
+NA
+NA
+NA
 c
-det.
 a
-950111	c
 a
-950114	c
-950116	det.
 a
-950121	c
-c
+NA
+NA
+NA
 a
-950125	det.
-det.
+NA
+NA
+NA
+NA
 c
-950131	c
-950134	a
-950138	c
-950141	c
 a
 c
-950146	c
 det.
+NA
 c
-950150	c
+NA
+c
 a
-950154	c
+NA
 a
-950157	c
+NA
 c
 c
+a
 c
-950162	c
-950165	a
-950171	c
+NA
+NA
 c
-950174	c
-950176	a
-950178	a
-950180	a
-950182	c
-950184	c
-950186	a
+NA
 a
-950189	c
+NA
+NA
 a
-950192	c
+NA
 a
-950195	c
+NA
 a
-950198	a
-950203	a
-det.
-950208	a
+NA
+NA
+NA
 a
-c
 a
-950213	a
-950216	c
-950220	c
+NA
 a
-950223	c
-950225	c
+NA
 a
+NA
+NA
+c
 a
-950229	a
-950233	a
-950237	a
+NA
 a
-950241	c
-950243	det.
-950247	c
+NA
+NA
 c
-950252	c
-950255	c
-950257	c
 a
+NA
 a
 c
 a
-950263	det.
-950267	c
 c
-950271	a
-950273	c
 a
-950276	c
-950280	a
-950282	a
-950284	c
 c
+a
 a
-950289	a
-950291	c
 c
-950294	c
-950299	c
-950306	a
 a
 a
+NA
 c
-950311	c
-950314	c
-950316	c
-950323	c
 a
-950326	c
-950328	c
-950330	c
-950334	a
 a
 a
 a
-950340	a
-950342	c
-950344	c
-950346	c
-950349	a
 a
+NA
 a
-c
-det.
-950357	a
-950359	a
-950361	c
-c
-c
-950366	c
+NA
 a
-c
-950370	a
-c
-c
-950374	c
-950376	a
-950378	a
-950382	a
-950385	c
-950388	c
 a
-950392	c
-c
 a
-950397	c
-c
-c
-c
+NA
+NA
 a
-950403	c
 a
-950411	c
-950413	c
-950418	c
+NA
 a
-950421	c
-det.
-950425	a
-c
 a
 a
-950430	c
-950435	c
-950438	c
-c
-det.
-det.
-c
-c
 a
+NA
 c
-950450	a
-950452	c
-c
 a
-950457	a
-950462	c
+NA
 c
-det.
-950466	det.
-950468	c
-950470	c
 a
-c
 a
-950475	c
-950479	c
 a
-950484	a
-950487	c
-950491	a
-det.
 a
-det.
-950496	c
-950500	c
-950504	c
-c
-950508	det.
-950511	a
-950513	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+a
 det.
+NA
+NA
+NA
 c
-950518	c
-950523	c
-950525	c
-det.
-950529	c
-950531	a
-950534	a
-det.
+NA
 a
-c
-950541	c
-950543	a
-c
-det.
+NA
 a
-c
-det.
 a
+NA
 a
-det.
-950554	c
-950556	a
-950559	det.
+NA
+NA
+NA
+NA
+NA
 a
-c
-950566	det.
-950569	a
-c
-c
+NA
 a
-950574	c
-c
-950579	c
-950581	c
+det.
+NA
+NA
 a
+NA
+a
 det.
-c
-950587	det.
+NA
 c
 a
-950591	c
+c
 a
-950596	c
-950600	c
-950604	c
-950607	c
+NA
 c
-950615	a
-950617	det.
-950619	c
+NA
+NA
 a
-950622	a
-950628	a
-950630	a
-950633	c
-det.
-950636	c
+NA
+NA
+NA
+a
 c
-950639	c
-950641	det.
-950643	det.
-950646	det.
-950648	det.
-950650	c
 a
-950653	c
-950658	c
-950660	c
 a
 a
-950665	c
-c
 a
-950671	c
-950673	c
+NA
 c
-950679	c
 a
 c
-det.
-950686	c
-950688	c
-950691	a
-950693	c
-950695	c
-950699	c
-950701	a
-950703	a
-950708	c
-det.
 a
-950712	c
-950714	c
-950717	c
-950719	c
+NA
+NA
 c
-950722	c
+NA
+NA
+NA
+NA
 a
-950727	c
-950729	c
 c
-950733	c
-950736	det.
-det.
-950739	c
-c
-950742	c
-950744	det.
-950748	c
 c
-950752	det.
-950760	c
-950762	a
+a
+NA
+NA
 c
+NA
+NA
+NA
 c
-det.
-950767	c
-950769	c
-950771	c
-950775	det.
-950777	det.
-950779	det.
-950782	det.
-950785	c
-det.
-det.
+NA
 a
-det.
-950791	det.
-det.
-950795	det.
-950797	det.
-det.
-950800	a
-950803	det.
 a
+NA
 a
 a
+NA
+NA
 a
-950809	c
 c
-det.
-950813	det.
-950817	det.
-950819	a
-950823	a
-950825	c
-950827	a
-950831	a
 a
-c
-c
-det.
+NA
+a
+a
 c
-950838	c
-950843	c
-950845	c
-950849	det.
-950853	det.
-det.
-950857	det.
-950861	c
 c
-950864	det.
-950866	det.
-det.
-950869	det.
-950878	det.
+NA
+NA
+a
+NA
+NA
 c
-det.
-950882	c
-det.
+NA
 a
 a
-950887	c
+NA
 c
-950893	det.
-950895	det.
-950897	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-950901	c
-det.
-950905	a
-950907	det.
+NA
+c
+NA
 a
+NA
+NA
+NA
 c
 c
-det.
-950913	c
-950916	c
-950918	c
-det.
-950921	c
+NA
 c
 a
-c
-950926	c
-950928	c
+a
 a
-950931	c
 c
-det.
-950935	c
-950940	c
-950942	det.
-950944	c
-950946	c
-det.
+NA
 c
-a
-950954	a
-950956	a
-950958	c
-a
-950961	a
-950964	a
-950969	det.
-950971	c
-det.
-950974	det.
-det.
-950977	a
 c
-950981	a
-950983	c
 c
+a
 c
 c
 a
 a
-det.
-950991	a
-950993	c
-950998	c
-951002	det.
-951006	c
-det.
-951009	c
-det.
+NA
+NA
 a
-951013	c
-det.
-det.
-951017	a
-951022	c
-c
-951025	c
-951027	a
-951030	det.
-951032	c
-c
-951035	c
+NA
+a
+NA
 c
-det.
-951039	c
-det.
-951043	c
+a
+a
 a
-951046	a
-951050	c
-951052	a
-951054	det.
 det.
-951060	det.
-951062	a
-951064	c
-951067	a
-951069	c
-951074	a
-951076	c
-951080	a
-c
+NA
 a
-951085	c
+NA
 a
-951091	c
-951094	c
-det.
-c
-951098	c
+a
+NA
+a
+NA
 det.
-951101	det.
 c
-951104	det.
-951107	c
-951109	det.
+NA
 a
+NA
 c
-951113	c
-det.
-951116	c
-951120	c
-951122	a
-951126	c
 c
-951130	det.
-951132	c
-det.
-951135	a
-951139	det.
-951149	a
+NA
+NA
 a
-951153	c
+NA
+NA
+c
+NA
+NA
+NA
 c
-951157	c
 c
+NA
+NA
+NA
+NA
+NA
 a
-951161	a
-951165	c
 a
-951168	a
-951170	c
+NA
+NA
 a
-951174	c
-951176	a
-951178	a
-951180	a
-951182	a
+NA
+NA
 a
-951185	a
-951189	c
-det.
-951192	c
-det.
-c
+NA
 a
+NA
+NA
+NA
+NA
 c
-951198	a
+NA
+NA
+NA
 a
-951201	c
-951206	det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-951209	a
-951211	c
-951213	a
-951216	a
-det.
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+c
 a
-951221	det.
-951223	c
-det.
 a
-951231	a
-951233	c
-det.
-951237	c
-951239	c
+NA
+NA
+NA
+NA
+NA
 a
-951242	a
+NA
+c
+NA
 c
+NA
+c
 a
+NA
+NA
 a
-951249	a
-951251	a
-951253	c
-951257	c
-det.
-951261	c
+NA
+NA
+NA
+NA
 c
-951265	a
-951267	a
+NA
+NA
+NA
 a
-951270	det.
-951272	a
-a
-951275	det.
-951277	det.
+NA
 c
+a
+NA
 c
-951283	c
-951287	c
-951289	c
-951293	a
-951295	c
-951297	c
 a
-951300	a
-951302	a
-951304	c
-951307	a
-951310	c
-951312	c
-951314	c
+NA
+NA
 a
-951318	c
-951323	a
-951325	a
-951327	c
+a
+NA
 c
-951330	c
-951332	a
-951334	det.
-951337	c
+NA
 c
 a
-951341	c
-951344	c
-det.
-951348	c
+NA
+c
 det.
-951351	c
-951353	det.
-951355	c
+NA
 a
-951358	c
-c
+NA
+NA
 c
-951363	det.
-951365	det.
-951367	c
 a
-951370	c
-det.
-951373	det.
-951377	a
-c
-951382	c
-951385	c
 a
-951389	a
-951392	a
-c
-951397	c
-det.
-951400	c
-951403	c
-det.
-951408	c
-951413	a
-951415	c
+NA
+NA
 c
 a
-951419	det.
+NA
 a
 a
-951424	a
+NA
 a
-951429	c
 a
-951435	c
-951437	c
-951441	a
-951444	a
+NA
 a
-951449	c
-951453	c
-c
 a
 a
 a
+c
 a
+NA
 a
 a
-951463	c
 a
-c
-951467	c
-det.
-951472	det.
-951476	a
+NA
+a
 a
-951480	a
-951482	c
-951485	c
 c
-det.
-951490	a
-951493	c
-951495	c
 c
-a
 a
-951501	a
-951503	det.
-951505	a
-951508	c
-a
+NA
+NA
 c
-det.
-951513	c
-951518	det.
-951522	c
-951524	c
-951526	c
-951529	c
-951532	det.
 c
-951536	a
+NA
 c
-951540	c
-951543	c
-951547	a
-951551	c
-det.
-951557	c
 c
-951561	a
 a
+NA
 a
-951565	c
-951567	a
-951569	a
-951572	a
-951575	a
+NA
+NA
+NA
 a
-951578	c
-951581	c
-951583	c
-det.
-951586	a
-det.
-951589	c
+NA
+a
+NA
 c
-det.
-det.
-951594	c
-951599	c
 c
+NA
+NA
 c
-951604	c
-951606	c
-det.
-951609	a
-951612	c
-det.
-951618	det.
-det.
-951621	det.
-951626	a
-951629	c
+NA
+NA
+c
+c
+NA
 a
-951632	c
+NA
+c
+c
+NA
 a
-det.
-951637	c
-det.
-951640	a
-det.
 c
-951644	a
-951646	c
-951648	a
-951650	c
-951654	a
-951659	a
-951662	c
-951665	c
-951667	c
 c
-951670	c
+det.
+NA
+NA
 c
+NA
+det.
 c
-951674	det.
-951678	a
-951681	c
-951683	c
-951687	c
 c
-951690	c
+NA
+NA
 c
-951695	c
-951701	det.
-951703	det.
+NA
 c
-951707	c
-951709	c
-951711	c
-951713	det.
-951715	c
-951720	c
-951722	c
-det.
-951725	a
-det.
-951729	det.
-det.
-951734	det.
+NA
 a
-det.
-951739	c
 c
-det.
-951743	c
-951745	c
-det.
-951748	c
-det.
-a
-a
-951754	c
-a
-951758	det.
-951761	c
-a
-951766	c
-det.
+NA
+c
+NA
+NA
 a
 a
-951772	c
+NA
+NA
 c
-951777	c
-951780	c
-951782	det.
-951786	a
-951788	a
+NA
 c
-951793	det.
-951796	det.
-951801	a
-951803	a
-951805	a
-951808	c
+NA
+NA
 c
+NA
+NA
 a
-951812	a
-951815	a
-det.
-951818	c
-951820	det.
+NA
 c
+NA
 a
-951827	det.
-951830	a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-951833	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-951836	c
-951841	c
-det.
-951845	a
-951847	c
-951851	c
+NA
+NA
+c
 a
-951855	a
+NA
+NA
+NA
 c
 a
-951862	a
-951866	a
-951872	det.
+NA
 c
-951876	a
-951878	a
-951880	c
-951882	a
-det.
+NA
 a
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+c
 a
+NA
+NA
+NA
 c
-951889	det.
-951891	c
-951897	c
+a
+NA
 c
+a
+NA
+NA
 a
-951901	c
 a
-951904	c
-951906	c
+NA
 a
-951911	c
-951914	c
-951928	a
-951931	a
-951934	c
-951936	a
+NA
 c
-951939	a
-951946	a
-951949	a
-951952	a
-951954	c
 a
-951957	c
-951959	a
-951961	c
-951964	c
+NA
+NA
+NA
+NA
+a
+NA
 c
 a
-951968	a
-951970	c
-951972	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
 a
-951976	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-951981	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-951984	a
-951990	a
+NA
+NA
+NA
 a
-det.
+NA
 c
 a
-951996	a
-952000	a
 a
-952005	a
-952009	c
-c
-952013	a
-952015	det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-952018	det.
-952020	det.
-952024	a
-952026	a
-952029	c
 a
+NA
+NA
 a
+NA
+a
+NA
+NA
+NA
+c
 c
-952035	c
-952037	c
+NA
+NA
+NA
 c
+c
+NA
+NA
+NA
 a
-952041	a
-952043	c
+NA
 a
+NA
 c
-952048	a
-952050	c
 c
-952053	a
-952055	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-952058	c
+NA
+c
 a
+NA
 a
-952064	c
-952066	c
+NA
 c
-952069	c
-det.
-952073	c
-952076	c
-det.
+NA
+NA
 c
-952082	c
+NA
 c
-952087	det.
-952090	c
 a
 a
+NA
 a
 c
-det.
-952097	a
-952103	c
-det.
-952107	c
-952109	c
-det.
-952112	a
+NA
+NA
+NA
 a
-952115	c
-952117	a
-952119	c
 c
-det.
-952123	a
-952125	a
-952127	det.
+NA
+c
+a
+NA
 a
-952131	det.
 c
-952135	c
-det.
-952138	c
+c
 a
+NA
+c
+NA
 a
-952143	c
+NA
+NA
+c
+c
 a
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+c
 a
-det.
-952149	a
+NA
+NA
 a
-952152	c
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
+NA
 c
+c
 a
+NA
+NA
+NA
+NA
+c
 a
-952159	a
-det.
-952164	a
-952166	c
-952169	c
-det.
-952178	a
-952184	c
-952187	c
-952189	c
-952192	c
-952195	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
-952198	c
 a
-952201	a
-952203	a
-952205	c
-c
-952209	a
+NA
 a
-952215	c
-952217	a
-952219	c
-952226	c
 a
-952233	a
-952236	c
 c
 a
-952242	c
+NA
 a
-952245	a
-952248	c
+NA
 c
-952253	c
+a
+NA
+NA
+NA
+NA
+NA
 c
-952259	c
-952262	a
-952264	a
-952269	a
+a
+NA
+NA
 c
+a
+NA
 a
-952273	a
-952283	c
-952285	c
+a
 c
-952289	a
+NA
+NA
 a
-952292	a
-952295	a
-952303	a
-952305	c
-952307	c
-952310	c
-952314	c
+NA
+NA
 c
+a
+NA
+NA
+a
+NA
+NA
+NA
 c
-det.
-952320	det.
-952322	c
-952324	c
-952327	c
+NA
+a
+NA
+NA
+NA
 c
+NA
 c
-952332	c
-952334	det.
-952336	a
-952339	det.
-952342	a
+a
+a
+a
+NA
+NA
 a
-952345	c
+a
+NA
+a
 c
-952348	a
-952350	det.
+NA
+NA
+NA
 c
 a
-952356	a
-952359	det.
-c
-det.
-952364	det.
-952368	det.
-952371	det.
 det.
-952374	a
-952376	det.
 det.
-952380	c
-det.
-952383	det.
+a
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
 det.
 det.
-952387	det.
-952389	c
-c
-952392	det.
-952394	det.
+NA
 c
-952397	det.
-a
-952400	det.
-952403	a
+NA
+NA
+NA
+NA
 c
-a
 a
-952409	c
-a
-952416	c
 det.
-952419	c
 det.
-952422	c
-a
+NA
 c
-952428	det.
+a
 c
-952432	a
+a
 a
-952435	c
+a
 det.
-c
+NA
 c
-952440	a
 c
+NA
+NA
+NA
 a
 a
-952445	c
-952447	c
 a
 a
-det.
-952452	a
-952454	c
-952456	a
-952459	c
-952462	c
-952465	a
-952467	det.
-det.
-952473	det.
-952476	a
 a
+NA
+NA
+NA
 a
+NA
 a
-952482	c
-952488	a
-952490	a
-c
+NA
+NA
 a
-952494	c
+NA
 a
-c
+NA
+NA
 a
-952500	a
-952503	det.
-952507	a
-952509	a
-952512	det.
-952519	a
-det.
-952525	a
-det.
-952528	c
-952531	det.
-952533	c
-952535	c
-952537	a
-952541	c
-952543	c
-952546	c
-952550	c
-952552	c
-952554	det.
+NA
+NA
 c
-c
-952559	c
-c
-det.
-det.
-952564	c
+NA
 c
-952567	c
-det.
-952570	c
 c
-952574	c
-952576	c
-952580	c
-952582	c
-952584	c
+NA
 c
-952589	c
 a
-952592	c
 a
-c
-952598	c
+NA
 c
-952601	det.
-952605	a
-952607	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-det.
-952611	a
-952613	c
-952616	a
-952618	a
 a
+NA
 a
+c
+det.
 a
 a
+NA
 a
-952625	c
+NA
 c
 a
+NA
 c
-952632	a
-952635	c
+NA
+NA
+NA
 c
-952638	a
-952641	c
+NA
+NA
+NA
 c
 a
 c
-a
-952647	c
-a
-a
-952652	c
-952656	c
-952658	c
+NA
+NA
+NA
+NA
+c
 a
-952661	a
-952663	a
 c
-952667	a
-952669	a
-952671	a
 det.
-952674	a
-952676	c
-det.
-952679	a
+c
+NA
+NA
 c
 c
-952685	a
-952688	det.
-952690	a
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
 a
-det.
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-c
-952698	a
-952701	a
-det.
-952705	a
-952707	c
 a
+NA
+NA
+NA
+NA
 c
-952714	a
-952717	a
-a
+NA
 c
-det.
-952722	c
 c
-952725	c
 c
+c
 a
-952729	a
+NA
 det.
+NA
 c
-952737	c
-det.
-952740	c
 det.
-952743	c
-det.
+NA
 a
+NA
 a
-952748	a
-952751	c
+NA
 c
-952755	c
-det.
-det.
+NA
 a
-952761	a
-952763	c
-952765	a
 a
-952768	c
-952770	c
-952772	a
-952776	c
-952778	a
-det.
-det.
-952784	c
-952787	a
-952789	c
-det.
-952792	a
-det.
-det.
-952797	c
-952799	det.
+NA
 c
-a
-952803	a
-952805	a
-952807	c
-det.
-952814	a
-952816	c
-det.
-952820	c
-a
-952823	det.
-952825	a
+NA
+NA
 c
-952828	a
+NA
 c
-952833	a
 a
-952837	c
-a
-952842	det.
-952844	c
-det.
+NA
 c
-952848	c
 a
-952854	c
-det.
-952857	c
-952859	c
-det.
+NA
+c
+NA
 a
-952864	det.
-952866	a
-952868	a
-952870	c
-det.
-952873	c
+NA
+NA
+NA
+NA
+NA
 a
-952877	c
+NA
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-952882	c
-det.
-952886	c
-952888	c
+NA
+NA
+NA
+NA
+c
 a
-952891	c
+NA
+NA
+c
+c
+NA
+NA
+NA
 c
-952896	c
+NA
+NA
+NA
 a
+c
 a
-952900	a
+NA
+NA
+NA
 a
-952903	c
-952905	a
 a
-952908	c
-952913	a
-952915	a
-952918	c
-c
+NA
 a
-952924	a
-952926	c
-952930	c
-det.
-952933	a
-det.
+NA
+NA
+NA
+NA
 c
-a
+NA
+NA
+c
+NA
 a
-952940	c
+NA
+NA
 a
+c
+NA
+NA
+c
+NA
+c
+NA
+c
 a
-952944	c
-952947	c
-952949	c
-952952	a
-952954	c
+c
+NA
 a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-952958	det.
-952960	a
+c
+NA
+NA
 a
-952963	c
+NA
+NA
 det.
-a
+NA
+NA
 a
 a
-det.
-952970	c
-det.
 a
-952974	c
+NA
 a
-952981	a
-952983	c
-det.
-952987	c
-det.
 a
-952991	a
 a
-952996	a
-952998	c
+c
 a
+c
 a
-953002	c
-953004	det.
-953007	c
-det.
-953010	c
-953013	c
 c
 a
-953017	c
-det.
+NA
 c
-953021	c
-953025	c
-953027	a
-953029	a
-953032	c
-953036	c
 a
-953039	c
 a
+NA
 a
-c
 a
-953045	a
-det.
-953048	det.
-953058	a
-953061	c
-953064	c
-953066	det.
-953069	a
-953071	a
-953073	det.
-953075	c
-953078	c
-953080	c
-det.
-953086	a
-953089	a
-953091	a
-953093	a
-953095	det.
-953097	c
-c
 a
-953101	a
-953103	a
-953106	a
-953108	a
-953112	c
-c
+NA
 a
-953116	a
-953119	a
 c
-953122	c
 c
-953125	a
-953127	det.
-953129	a
-det.
-953134	det.
-953136	a
 c
-953141	a
-953144	c
-953147	c
-953150	c
 a
-953153	det.
-953157	a
+NA
 c
-953162	c
-953165	c
-953167	c
+NA
+NA
 c
-953171	det.
-953177	a
-953179	det.
-953181	det.
-953186	det.
-953189	c
 a
-953194	det.
 a
-953197	c
-det.
-c
-953201	c
-det.
-c
-a
-c
-953211	det.
-det.
-953217	c
-953219	c
-953221	c
-953224	c
-953227	det.
-c
-953231	c
-953237	c
-det.
-c
-953242	a
-953244	c
-953247	c
-953249	a
-det.
-953252	a
-det.
-953255	c
-c
-det.
-det.
-953260	c
-det.
-det.
-953265	det.
-det.
-953270	a
-953272	det.
-953274	c
+NA
+NA
+NA
 c
-det.
-953278	c
-953280	c
 c
 c
-953284	c
 a
-c
-953288	det.
 a
-953291	c
-det.
-det.
 a
-953299	c
-953303	a
-953306	c
-det.
-953309	a
+NA
+a
+NA
+NA
+NA
+a
 a
-953312	det.
-953314	det.
-det.
-953317	det.
+NA
+NA
 a
 a
-c
-953325	a
-953327	c
-953329	a
 a
-953332	det.
-953334	a
-953337	det.
-c
-953340	det.
-953342	c
-953344	c
-953346	a
+NA
+NA
 a
-953349	a
-953357	c
-c
-953361	c
-det.
-953364	det.
-953366	det.
-953368	det.
-953370	a
-953372	c
-det.
-det.
-953378	c
 a
-953381	a
-953384	c
-det.
 a
-953388	c
-953391	c
-953396	c
-det.
-det.
-953400	c
-det.
 a
-953404	a
-953406	c
+NA
+NA
+NA
+NA
 c
-953410	c
-953412	c
-953414	det.
-953418	c
-953420	c
-953424	a
-953427	c
-953430	a
 c
-953434	a
-953436	c
-953438	a
 c
-a
-a
 c
-953445	a
+NA
+NA
+NA
+a
 a
+NA
 c
 a
+NA
 a
-953452	a
-953454	a
-953458	c
 c
-953463	c
-953467	c
+NA
 a
+NA
+c
+NA
+NA
+NA
 a
-953471	det.
-953477	c
-953482	a
-953484	a
-953486	c
+NA
 a
-953490	a
-953494	a
-det.
 c
-953499	c
-a
-953502	det.
-953504	c
-953506	c
-953508	a
+c
 c
-953512	c
-953515	c
+NA
+NA
 a
 a
-953519	c
-953521	c
+NA
+NA
 c
-953525	a
-953528	a
-953530	a
+NA
+NA
+a
+a
 a
-953533	c
+NA
+NA
 det.
+NA
+NA
 c
-953538	a
-953542	c
-953550	c
-953553	a
-953556	det.
-det.
 c
-det.
-det.
-953562	c
-a
-953567	c
-953569	c
-953571	c
-953574	det.
-a
-953578	c
-953581	a
+NA
+c
+NA
+NA
 a
-953585	det.
+NA
 c
-953589	c
-953591	c
+NA
+NA
 c
-953594	c
-det.
-953597	c
-953601	c
-953603	a
-953606	c
 c
+NA
+det.
+NA
 c
+NA
 c
-953611	a
-953613	c
-953615	det.
-953617	c
-953619	c
-953621	c
-953624	a
 a
-953628	c
 a
-953633	c
-953636	c
+NA
 a
+NA
+c
+NA
+c
+NA
 a
-953641	c
-953643	c
-det.
-953647	a
-det.
-953652	c
-953657	c
-953659	a
-953663	det.
-953666	a
-953668	c
-953670	c
+c
 a
+NA
 c
+NA
+NA
 a
-953675	c
+NA
+NA
+NA
 a
-953678	c
-953681	det.
+NA
 c
-953684	c
-953686	det.
-953688	a
+NA
+NA
+NA
 a
-953691	a
-953693	det.
-953695	det.
-953698	det.
-953700	a
-953708	a
 a
-953711	det.
-953713	a
-953715	c
-953718	c
-953720	det.
-953724	c
+NA
+c
+NA
+NA
 a
 a
-953728	a
-953730	det.
-953732	c
-953735	c
-953737	a
-953741	c
-953745	det.
-953748	a
 a
-953751	det.
-953756	a
-953758	det.
-953761	a
-953763	a
+NA
 a
-953766	a
-953768	det.
-det.
-953771	a
-953773	a
-953775	det.
-953777	c
-c
 a
-c
-953782	a
-953785	a
-953787	a
-953789	a
-953791	a
-953793	a
+NA
 a
-953797	c
-c
-953801	a
-953803	det.
-953805	c
 a
 c
 a
+NA
 a
 a
-953812	c
-953814	c
-det.
-953818	c
+NA
 a
-953822	c
-c
-953829	det.
-953831	a
-953833	a
-det.
-953836	c
-953838	c
 a
 c
-953843	c
-953849	a
-953851	c
-953854	c
+NA
 c
-953860	c
-953862	det.
-953865	det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-953876	det.
-953879	a
-953881	c
-953885	det.
 a
-953889	a
-953892	a
-953894	c
+NA
 a
-953897	c
-det.
-953900	a
-953903	a
-953905	det.
-det.
-det.
-953910	det.
-953912	det.
-953914	a
-det.
-953917	det.
-c
-det.
 a
-953922	a
-953924	det.
-953926	det.
-953929	det.
-953931	c
-det.
-953936	c
-det.
-953939	det.
-953942	c
-det.
-det.
-det.
-953947	det.
-det.
-953950	a
-953955	det.
-953959	c
-det.
-c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-det.
-953968	det.
-c
-det.
-953972	det.
-953975	det.
-c
 a
-953979	c
-det.
-953982	det.
-c
+NA
+NA
+a
+NA
+a
 c
+NA
+NA
+NA
 a
-953987	c
-953989	c
-953992	c
-det.
-953996	c
-det.
 a
-954000	c
-954004	c
-det.
-det.
-954008	c
-det.
-954012	det.
-954015	c
-det.
-det.
-det.
+NA
 c
-954022	det.
-det.
-954025	det.
-954031	det.
-954033	c
-954037	det.
-954039	det.
-det.
-954042	det.
-954045	det.
-det.
-954051	det.
-det.
-954054	a
-det.
-det.
-954060	det.
+a
+NA
 a
-954065	a
+NA
 a
-954069	a
-954071	det.
-954073	c
+NA
+NA
 c
-954078	c
-det.
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
 a
 a
-954087	c
-954089	c
+NA
+NA
+NA
+NA
+NA
 c
 a
-954094	c
+NA
+NA
+NA
+NA
+NA
 a
-954097	a
-954099	c
-det.
-954104	a
 a
-954108	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
-954112	det.
-954114	c
-954118	c
+NA
+NA
 a
-954121	c
+NA
 c
+NA
+NA
+NA
 a
-954127	det.
-det.
 a
-954131	c
-det.
-954136	a
-954139	c
-954141	a
-954144	a
-c
-954147	a
+NA
+NA
+NA
+NA
 a
-954150	c
+NA
+NA
+NA
+NA
 c
-c
-det.
-954155	det.
 a
-954158	c
-det.
-954163	a
-954166	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
-954171	det.
-954176	c
-954183	c
-954187	a
-954191	c
-c
-954196	c
-c
-954199	c
+NA
+a
+NA
 c
-954204	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-954213	c
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+c
 a
-954218	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-954221	det.
-954223	a
-954226	a
-954230	a
-954232	c
-954237	c
-954240	c
-det.
-954243	a
-954245	c
+NA
 a
-954251	c
-det.
-c
-954255	det.
-954257	a
-954259	c
-det.
-det.
-954263	c
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
 c
-954269	c
-954272	c
-954278	a
-954281	c
+NA
+NA
+a
+NA
 c
-954286	det.
-954291	c
-954295	det.
-954297	c
-det.
+a
+NA
+NA
+NA
+NA
+NA
 c
-954302	a
-954307	det.
-954309	c
-954311	a
 a
-954314	c
-det.
-954317	a
-954319	c
+NA
+a
+NA
 a
-954323	det.
-954327	det.
+NA
+NA
+NA
+NA
+NA
 c
-954332	det.
+NA
 c
-954337	a
-954341	det.
-954343	a
 c
-954347	c
-954350	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-954360	c
-954362	det.
-954364	c
-954367	c
-954372	c
-954374	a
-954381	c
-det.
-954387	a
-954389	c
-954391	a
-954396	a
+NA
+NA
+NA
+NA
+NA
 a
-954399	det.
-954404	c
+NA
+NA
+NA
+NA
 a
-954407	c
-c
+NA
 c
-954411	c
-c
-954418	a
 a
-c
-954423	a
-954425	c
-c
-954433	c
-c
-954438	a
-954440	det.
-954442	a
-954446	det.
-954448	a
 a
-c
-954452	c
-c
-c
-954456	a
-954460	det.
+NA
 a
-c
-954464	c
+NA
+a
+NA
+NA
+NA
+NA
 c
-det.
-954468	c
 a
-954475	c
-det.
-954479	a
-det.
-954484	a
-det.
-954489	det.
-954491	a
-954493	c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
 c
-a
 c
-954500	det.
-954503	a
-954505	c
-954507	det.
-det.
-954513	a
-954515	a
-954519	c
-954524	det.
-954528	c
-954530	a
 a
-c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-954535	c
+NA
 a
-954538	c
-954541	c
-954543	det.
-954548	det.
+NA
+c
 c
-954554	det.
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-954558	c
-954560	a
-954562	c
+NA
 c
-954565	a
-954567	det.
-954571	c
-954573	c
-a
 c
+a
+NA
 c
-954578	det.
-954582	c
-954584	c
+a
+NA
+a
+NA
 c
-954587	c
+NA
+NA
 c
-a
-954593	det.
-954597	c
-det.
-954602	a
-954605	det.
+NA
 c
 a
-det.
-954611	a
 a
-954614	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-det.
-det.
-954620	c
-det.
-954623	c
-954625	det.
 c
-954630	c
-954632	a
-954636	det.
-954638	det.
-954640	c
-c
-det.
-954644	a
-954646	c
-det.
-954649	c
+NA
 a
-954652	a
+NA
 a
+NA
 a
-954657	a
+NA
 a
-954660	det.
-954662	a
-954666	det.
-954668	det.
-954670	c
-det.
-954674	det.
-954680	c
-det.
+NA
 a
-954684	c
-954686	det.
-954688	c
-det.
-954691	c
-954697	a
 c
-954700	c
+NA
 c
-954703	c
-c
+a
+NA
 a
-954707	a
+a
+NA
 c
+NA
+a
+NA
 c
-954711	c
 c
-954714	c
-954716	c
+a
+NA
 c
-954721	det.
+NA
+NA
+NA
+a
+NA
 c
-954726	det.
-954728	c
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-954732	det.
+a
+NA
+NA
 c
-det.
-954736	c
-954740	c
+NA
+NA
 c
-954744	det.
-954746	c
-det.
+NA
+NA
+NA
+NA
 c
-det.
-det.
-954753	det.
-954758	a
-954760	c
-954763	a
-954765	c
+NA
+NA
 c
-det.
 c
-954771	c
+NA
+NA
+NA
+NA
+a
 a
-954779	det.
+a
 c
-954783	det.
-954785	det.
-954787	det.
-det.
-954790	a
-954793	c
-954795	a
-954797	c
 c
-det.
 a
-954804	c
-c
+NA
 a
-954808	a
-954810	c
-c
 a
-954815	a
-954822	a
-954824	c
-c
+NA
 c
 a
-954830	a
-954832	a
-954836	a
-954838	a
-c
-954841	c
-c
-954844	c
-954846	c
-954848	c
 a
 c
-c
+a
+a
+a
 c
+a
+NA
+NA
 c
-954855	c
-det.
-954858	c
+a
+NA
+a
+a
 c
-det.
-954863	c
-954865	a
-954867	a
-954871	a
-954873	c
-954875	c
-954879	a
-954881	c
-954883	c
-954885	a
+NA
+NA
+a
+NA
+NA
 c
-954888	a
-954890	a
-954892	c
-954895	c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
 c
-954901	a
 a
+NA
+NA
+a
+NA
+NA
 c
-954907	c
+NA
+a
+NA
+NA
+NA
 c
+NA
 c
 a
-954913	a
-954918	c
+NA
 a
-954922	a
-954925	a
-954931	a
-det.
+NA
+NA
 a
-954938	a
 a
-c
-c
-det.
-954944	c
-c
+NA
 a
-954949	c
 a
-954952	c
+c
+NA
+NA
+NA
 c
+a
 det.
-954956	c
+NA
 c
-954960	c
-954965	c
+NA
 c
-954968	c
-954972	c
-954975	c
-954977	a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-det.
-det.
+NA
+a
+NA
 a
-954984	c
-954986	c
+NA
+NA
 c
+NA
+c
 a
-954990	a
+NA
 c
+NA
 c
-954994	c
+NA
+NA
+NA
+NA
 c
-det.
-det.
+NA
+NA
 a
-955003	a
-955006	c
 a
-955009	c
-955014	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-955017	c
 c
-955020	a
-955022	c
-955024	c
+a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
-955032	c
-det.
-955036	c
-955040	a
-955042	c
-955045	c
-955048	a
-955050	c
-det.
-955054	det.
-955057	det.
-955061	det.
+NA
+NA
 c
-a
-955065	c
-955067	c
-955070	c
-955074	det.
-955078	a
-955082	c
+NA
+NA
 c
-955085	c
-955087	c
-955092	a
-955095	c
-955100	a
-955103	a
-955106	c
+NA
+NA
 a
-955109	c
-det.
 a
-955115	c
-c
-955121	c
-955123	det.
-955125	c
-955128	c
-955130	a
-955135	a
+NA
+a
+NA
 c
-det.
-955139	c
+NA
 a
-955142	a
-955144	c
+NA
 a
-det.
+NA
 c
-det.
-955150	det.
-det.
-955155	c
-955158	det.
-det.
-955169	det.
-955171	det.
-955175	c
 c
-955179	a
 a
-det.
-955189	a
-955191	c
-955193	c
-955199	c
-det.
-c
-955203	a
-955210	a
-955212	a
-955217	c
-c
+NA
+NA
 a
-955222	a
-955224	c
+NA
 a
-955227	a
-955229	a
-955231	det.
-955236	a
-955238	c
-955241	c
 a
-955244	det.
-955247	a
-955249	c
-955253	c
-det.
-c
+NA
 a
-955258	a
-c
-c
 a
-955267	c
-955271	c
-955280	c
-955283	a
-c
-c
-955287	c
+a
+NA
+a
+NA
 c
 c
-955291	c
+a
+NA
+NA
+a
+NA
 c
-955294	c
+a
 c
-955297	c
+a
+a
+NA
 c
+NA
 c
-955301	c
-955303	c
+a
+NA
 c
+a
+NA
+a
+a
+a
+NA
 c
+NA
+a
+a
+NA
+NA
 c
+a
+NA
+a
+a
+NA
 a
-955309	c
 a
-955312	c
+NA
+NA
 a
+NA
+NA
 c
+NA
 a
 a
-955318	c
 a
+NA
 a
-955322	a
-955324	c
 a
+a
+a
+NA
 c
+a
+a
 c
 a
-955330	c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-955333	c
+NA
+NA
 a
+NA
+NA
+c
+NA
 c
 a
-955338	c
+NA
 a
-955342	a
+NA
 a
-955345	c
+NA
 a
-c
+NA
+a
+NA
 a
-955350	c
 a
-955353	c
 a
+NA
 a
+NA
+NA
+a
+NA
+c
+NA
+a
+NA
+c
+NA
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
 c
 a
-955359	c
+NA
 a
-955362	c
+c
 a
+NA
 c
 a
+c
 c
-955369	c
+NA
 c
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
 a
-955374	c
+NA
 a
-955377	c
+NA
+NA
 a
-955380	c
 a
-955383	c
-955385	c
+NA
 a
-955388	c
-955391	c
-c
 a
+NA
 a
-955396	c
-955398	c
+NA
+NA
+NA
 a
-955401	c
-955403	c
+NA
 a
-955406	c
-955408	c
-955410	a
-955413	c
 c
-955416	c
 c
-c
-955421	c
-955424	c
-c
 a
-955429	c
-a
-955432	c
 c
 a
-955437	c
-955440	c
+NA
+c
+NA
+NA
 c
 a
-955444	a
+NA
 c
 c
 a
-955449	c
+NA
 a
 c
-955453	c
-a
-955456	c
-c
-955461	c
-c
-c
-det.
-955466	c
-c
 c
-955470	a
-955472	c
-c
+NA
+a
 c
-955476	c
 a
+NA
 a
-955480	c
+NA
+NA
 a
-c
+a
+NA
+a
+a
+a
+NA
+a
+NA
+a
+a
 a
+NA
+a
+NA
+a
+a
+NA
+NA
 c
 a
+NA
 c
 a
-955489	c
+NA
+NA
+NA
+NA
 c
 a
-955493	a
-955495	c
 c
+NA
+a
+NA
 c
 a
 a
+NA
 c
 c
+NA
+NA
+NA
+NA
 a
-955504	c
 c
+NA
 a
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
-955509	a
-955511	c
+NA
 a
-955514	c
-c
 a
+NA
+NA
+NA
 a
-955519	a
 a
+NA
+NA
 a
 a
-955526	c
-c
-955529	c
+NA
 a
+NA
+NA
 c
-955533	c
+c
 a
-955536	c
+NA
+det.
+NA
 a
+NA
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
+NA
+c
+NA
+c
 a
 c
+NA
+NA
+NA
+NA
 c
+NA
 c
-955548	c
-955551	a
-955553	a
-det.
-955556	c
+a
+NA
+NA
 c
-955559	c
+NA
 c
-955562	c
 a
-955565	c
+NA
 a
-955570	a
-c
-955573	c
 a
-c
-c
+NA
 a
-955579	c
+NA
 c
+a
+NA
+NA
 a
-955583	c
-955586	c
-955588	c
+a
 c
-955591	c
 a
+NA
 a
+NA
+c
 a
-955598	c
-955601	c
-det.
-955604	c
-955606	a
+NA
+NA
+NA
+NA
 a
 a
-955610	a
-955616	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-955623	a
+NA
 a
-955626	c
+NA
+NA
+NA
+NA
 c
-955629	a
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 a
-955632	c
+NA
+NA
+NA
 c
-955635	a
 c
 c
 c
-955640	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-955643	a
 a
-955646	c
+NA
+NA
 c
+NA
+NA
+NA
 c
-955650	c
-a
-955653	c
-955655	c
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+det.
+NA
 a
 a
-955660	a
-det.
+NA
+NA
+NA
 c
-955664	a
+NA
+NA
+NA
 c
+NA
 c
+NA
 a
-955669	c
-c
-c
-955673	c
-c
-det.
-955677	c
-det.
-955680	c
-c
-c
 c
 a
-955686	c
+NA
+a
+NA
 c
-955689	a
-955692	c
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
+NA
 a
-955698	c
-c
 a
+NA
+NA
 a
 a
 a
-c
 c
-c
-c
-955710	c
-955712	c
 a
-955715	c
 a
 a
+NA
 a
+NA
+NA
+NA
+NA
 a
-955725	c
+NA
 c
 c
 a
+NA
 a
+NA
+NA
 a
-955734	a
-955737	a
-955739	c
-955744	a
-955746	c
-det.
-955752	c
-955754	c
 a
-955760	c
-955764	c
-955766	c
-955768	c
+NA
 a
-955772	a
-955774	c
-955776	c
-c
+NA
 a
+NA
+NA
 a
-c
-c
-c
-c
+NA
+NA
+NA
 c
+a
+a
 c
 c
+NA
+NA
+NA
+NA
 a
-955789	c
+NA
 a
-955792	a
+NA
 a
-955795	c
+NA
+a
+NA
+NA
 c
-955798	c
 c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-955802	c
+NA
 c
-955805	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
 c
+NA
+NA
+a
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+a
+NA
+a
+NA
 c
-955814	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
 c
-955819	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
 c
-955822	a
-955825	c
+a
+a
+a
+a
+NA
+NA
 c
-det.
+NA
+NA
+a
+a
 c
+a
+NA
 c
-955831	a
-955833	a
-955835	a
-955837	c
 a
-955842	c
-955845	a
-955847	a
-955849	a
-955855	det.
+NA
 a
+NA
 a
+NA
 c
+NA
+NA
+NA
 a
-955861	c
-c
-955864	c
 c
-955867	c
-955869	a
 a
+NA
 a
-955873	c
-c
+a
+NA
+NA
+NA
 det.
-955878	a
-c
-c
-955882	a
+NA
 c
+NA
+a
+NA
+NA
+a
+NA
 c
+NA
 a
+NA
 a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
 c
-955890	c
+NA
 a
-955893	c
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
 c
 a
 a
 a
-955900	c
+NA
+NA
+NA
 a
-955903	c
-955906	c
+NA
+NA
+NA
+NA
 c
-955909	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
+NA
 c
+NA
+NA
 c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
+NA
+NA
 a
+NA
+a
+NA
+a
 c
-955918	c
-955920	c
 c
 a
 a
-955929	c
-955934	c
+NA
 a
-955937	c
+NA
+NA
 a
-955940	c
 c
-955943	c
-955945	c
+a
 c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 a
+NA
 a
-955951	det.
-955953	det.
-955955	c
-955957	det.
 a
 a
 c
 a
-955963	c
+NA
 det.
-955969	c
+NA
+NA
 c
-det.
-c
-955974	c
 c
-c
-955981	a
-955983	c
-955987	c
-955989	a
-955993	a
-955995	c
-955997	c
-956000	a
-956004	c
+a
 a
-956007	c
-956009	c
-956012	a
 a
-956015	c
 c
+a
+NA
+a
+NA
 c
-det.
+a
 a
+NA
+NA
 a
-956022	c
+c
+NA
+NA
 det.
-956025	c
 a
+NA
 a
-956029	a
-956031	c
+NA
+NA
+NA
+c
+NA
 a
 a
-956037	c
+det.
+NA
 a
-c
+NA
 a
-c
-956044	c
+NA
+det.
+NA
+NA
+NA
 c
+NA
 a
-956048	c
-c
+NA
 a
-956052	c
 a
-956056	c
-956058	c
 a
-956062	c
-956064	c
-c
+NA
 c
-956068	a
-956071	a
-c
-c
-956075	c
+NA
 a
-a
-956079	c
-956091	a
-956093	c
+NA
+det.
 a
-956096	c
-956098	a
-956101	c
+NA
+NA
 c
 a
-c
-956106	c
-956108	c
-c
-956112	c
-956114	c
-956117	c
+NA
 a
-956120	a
-956123	a
-956126	c
+NA
 a
-956129	a
-956131	c
+NA
+NA
+NA
 a
-c
-c
 c
-956137	a
-956139	c
 a
-956144	a
-956146	a
-956149	a
-c
 a
-c
-c
-956156	a
-956159	c
 a
-956163	det.
-956166	c
-956168	c
-c
-956173	det.
-956175	c
+NA
 a
 a
-c
-956181	c
+NA
+NA
 a
-c
+NA
 a
-956186	c
-956188	a
-956191	a
-956210	c
-956212	c
 c
 a
+NA
 a
-det.
-956221	a
 a
-956224	a
-956226	c
-c
 a
 a
-956231	c
+NA
 a
+a
+a
+a
+NA
 c
-956236	a
-956239	c
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-956244	a
 c
-956249	c
+a
+NA
+NA
+NA
+NA
+NA
 c
-956252	c
-956254	c
 c
 a
-956258	c
-c
+NA
 a
-956263	c
+NA
+NA
+NA
+NA
 a
-956266	a
-c
+NA
+NA
 c
+NA
 a
-956271	c
-a
-a
-956275	c
-956278	a
+NA
+NA
 c
+NA
+NA
 c
+NA
+NA
 a
-956284	c
-956286	c
-956290	c
+NA
 a
-956295	c
-c
-c
-c
+NA
 a
-956301	a
+NA
 a
-956306	c
-956309	c
-c
-956317	a
-956319	c
-c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
 a
 c
 a
-956325	c
 a
-956329	a
 c
+NA
 c
+det.
+NA
+NA
 a
-956334	c
-956336	c
+NA
+NA
+NA
 a
-956339	c
+NA
+NA
 a
-956342	c
-956344	a
-956347	c
+NA
+NA
 a
+NA
+NA
+NA
 a
-956352	a
-956359	c
-956361	c
+NA
 c
-956364	a
-956366	c
-956368	c
-956371	a
+a
 c
+a
+NA
 c
+det.
 c
-956379	a
-956383	c
-956385	c
+a
+NA
 c
 a
-956391	c
-956394	a
-956396	c
 c
 a
+NA
 c
-956403	c
-956406	a
-956408	c
+det.
 c
-956411	a
-956414	det.
-a
-956420	a
-956423	c
-956429	c
-a
-956432	a
 c
-a
-956436	a
 c
+NA
 c
-956441	a
-956443	a
-a
 a
+NA
+NA
+NA
+NA
 a
-956448	c
+NA
 a
-956452	c
+NA
 a
-956455	a
-956457	a
 a
-956464	a
-956467	a
-956469	a
-956473	a
-956475	a
 a
-956478	c
-956480	a
-956482	c
-956484	c
-a
+NA
 c
-956490	a
-956495	a
-956505	c
+det.
 c
+a
+NA
 c
-956510	c
 a
-956514	c
-956519	a
-956521	c
 c
 a
+NA
 c
 a
-956527	a
+NA
 a
-956532	a
-956534	a
-956537	a
-956539	a
-956541	a
 a
-956546	a
+c
+NA
 a
+NA
 a
-956550	c
-c
-956553	a
-c
 a
-956558	c
+NA
+NA
+NA
 a
-956563	c
 a
-956568	c
-956571	c
-956573	a
-956575	c
+NA
 a
-956578	c
-c
-956582	c
-c
-c
-c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-956589	c
-c
-956592	a
-c
-det.
-956604	c
-c
-956608	a
-956611	c
-956614	c
-956616	a
-956621	c
-det.
-c
-c
-956627	a
-956629	a
-956631	c
-956633	c
-956636	c
-c
+NA
+NA
+NA
 a
-956640	c
-c
-956643	c
-c
+NA
 a
-956647	c
-956653	det.
-det.
-956657	a
-956660	c
+NA
+NA
 a
-956664	a
+NA
+NA
+NA
 a
-956667	a
-det.
-c
-956674	c
-c
-956678	a
-det.
-956682	c
-956688	a
-956696	c
-c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-956701	c
-956704	det.
-c
+a
+NA
+a
+NA
+NA
 c
+a
+NA
 a
+NA
 c
+a
+NA
+a
+NA
+NA
 c
-956715	a
-956719	c
-956722	a
-956724	c
 a
-956727	a
-956729	a
+NA
 a
-956733	det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-956738	c
 a
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+NA
 c
-956744	a
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-956747	c
-956750	c
-956754	c
+a
+NA
+NA
+a
+NA
 c
+a
+NA
+NA
+NA
+NA
 c
 c
-956760	c
-956766	c
+a
+NA
+NA
 c
-956769	a
-956773	c
+NA
+NA
 c
 c
+NA
 c
 a
-c
 a
-956781	c
-956783	c
-c
+NA
 a
-956787	det.
-c
-956792	c
-c
-956795	a
-956799	a
-956802	c
-956808	c
-956811	a
+NA
 a
-956814	c
-956816	c
-956818	a
+NA
+NA
 a
-956821	a
-c
-det.
-956827	a
-956831	c
 a
-956834	c
+NA
 a
-956839	a
-956843	c
+NA
 c
+NA
 a
-956847	a
-956849	c
-956851	c
-c
-c
-det.
-956856	c
+a
 c
 c
+a
+NA
 a
+NA
+NA
 c
+NA
 a
+a
+NA
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
 c
-956865	a
-956867	c
-956870	a
-956872	a
-det.
-956875	a
+NA
+NA
+NA
 c
+NA
+NA
 a
 a
-956880	c
+NA
+NA
+NA
+c
 c
 a
+a
 c
-956885	c
-956887	c
 a
-956890	c
+NA
 a
+NA
 c
-956895	det.
-956898	det.
-956900	c
-956907	c
 c
+NA
 a
 a
-956912	c
-det.
-956916	c
+NA
+NA
+NA
+NA
+NA
+c
 a
-956924	a
 a
-956933	c
+NA
+NA
+NA
 a
-956938	det.
-956940	c
-c
-956944	a
+NA
 a
+NA
+NA
+c
 a
 a
-c
-956951	c
+NA
+NA
 a
 a
+NA
 a
-956956	a
-956958	c
+NA
+NA
 a
-c
-c
-956963	a
 a
 c
 a
-956968	a
-956970	c
+NA
+NA
 a
-c
-c
-956979	c
-956982	c
-956985	det.
-956987	c
-det.
-956990	c
-956992	det.
-956995	a
-c
 a
+NA
 a
-957001	a
+NA
+NA
 a
-det.
-957011	a
+NA
+NA
 a
+NA
+NA
 a
-957016	a
-957024	a
-957026	c
-957028	a
-957030	a
-957033	a
-957035	a
-957040	a
-957042	c
-957044	a
-957046	c
-957048	c
+NA
+c
 c
+NA
+NA
+NA
+NA
+a
 c
-957052	a
-957054	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-957057	a
-957060	a
 a
-957063	c
 a
-957066	c
-957069	c
-957071	a
-957080	a
-c
-957085	c
-det.
-957088	a
+NA
+NA
+NA
+NA
+NA
 a
-957092	a
-957094	a
-957098	c
-957104	c
 c
+NA
+NA
 a
-957108	det.
-det.
-957111	c
-957114	c
-957117	c
-c
 a
-957121	a
-957123	c
-c
 a
-957127	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
-957131	c
 a
-957134	c
+NA
+NA
 c
+NA
+NA
 c
 c
+NA
 c
+NA
+c
 a
-957141	c
+NA
 a
-957144	a
 a
-957147	a
-957151	det.
-957153	c
+NA
+c
+c
+NA
 c
+NA
 a
 a
-957159	a
 a
-957163	a
-957166	a
-c
-957170	a
-957175	a
-957178	a
-a
-957185	c
 a
-957189	c
+c
+c
 a
-957196	c
 a
-957199	a
 a
-957202	c
 c
-957205	a
+NA
 a
-957208	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-957212	c
+NA
+NA
+NA
+a
+NA
+NA
 c
-957216	a
 a
+NA
 a
-957220	c
-c
+NA
+NA
 a
+NA
 a
-957226	c
-957228	det.
-957231	a
 a
-957235	c
+a
+NA
+NA
+NA
+c
+NA
+NA
 c
 c
-957239	a
+NA
 a
-957242	c
-957244	a
+NA
+NA
 a
+NA
+NA
 a
-957250	c
 c
-a
-957254	c
 c
+NA
+NA
+NA
 c
+NA
+NA
 c
-957261	c
+a
+NA
+NA
 c
-957265	a
-957268	a
 a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-957273	a
-957275	a
-a
-957278	a
-a
-957281	c
 c
-957284	c
+NA
+NA
+NA
+NA
 c
-957287	c
 c
+c
 a
-957292	a
 a
-957295	a
-957297	c
-957299	a
+NA
 a
+NA
 a
-c
+NA
+NA
 c
-957305	a
-957307	c
 a
-c
-957311	c
-957314	c
-957321	c
-c
-957326	a
-det.
-957331	a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-957338	det.
+NA
 a
-957342	a
-957344	a
-957346	a
-957349	a
-det.
-957355	a
-957365	c
-957367	c
-957369	c
-957379	c
-957382	c
-957384	a
-957386	c
-957388	c
-c
-957394	c
-957396	c
-957400	c
+a
 a
-957403	c
 a
-957406	det.
+NA
+NA
+NA
 c
-957409	c
-957413	det.
-957415	c
+NA
+NA
+a
+NA
+a
+NA
 c
-957421	a
-957423	c
-957426	a
-957432	c
 a
-957435	c
+NA
 a
-957439	c
+NA
+NA
 a
-957442	a
+NA
+NA
 c
+a
+NA
+a
+NA
+NA
+a
 c
-957447	a
-957449	c
-957451	c
+NA
+NA
+NA
 a
-957454	a
+NA
 a
-957458	a
-957464	a
-957466	c
-957469	a
-957472	det.
-det.
-957477	a
-957480	a
-957483	c
+NA
+NA
+a
 c
-957490	a
-957493	a
-957496	a
-957498	a
-957500	c
 c
-957504	c
-957506	det.
 a
-957510	c
-957512	c
-det.
-957515	c
-957520	c
-957526	det.
-957529	c
 c
-957533	a
+NA
+det.
+NA
 a
 a
-det.
+NA
+NA
+c
+NA
+c
+c
 a
 a
+NA
 a
-957541	c
-957544	c
-det.
-957556	c
-957560	det.
-957563	det.
-957565	det.
-957567	det.
-957569	det.
-957571	det.
-957573	det.
-957575	det.
-957578	det.
-957581	det.
-957584	det.
-957587	det.
-957590	det.
-957593	det.
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-957599	a
-957602	a
-957604	c
-957606	a
-957610	det.
-957612	a
-957615	det.
-957617	a
+NA
+NA
 c
-957620	c
-957622	a
-957624	a
+NA
 a
+NA
 a
-957628	a
-957631	det.
-957633	a
-957636	det.
-957638	a
+NA
 a
-957644	det.
-957646	a
-957648	a
-957650	a
-957653	a
+NA
+NA
+NA
+NA
 a
-957658	a
+NA
+NA
 a
-957661	det.
-957663	a
-957665	a
-957667	a
 a
+NA
+NA
 a
-957671	c
-957674	c
-957677	a
-957679	a
-957681	a
-957687	a
-957689	a
-a
-957692	a
-957697	a
-957700	c
-957702	det.
+NA
+NA
+NA
+NA
+c
 a
+NA
 a
-957706	a
-957709	c
-det.
-957712	c
-c
-957716	c
-957718	a
-957720	a
-957722	a
+NA
+NA
 a
-957725	a
-957728	a
-957730	a
-957733	det.
-957735	a
-957737	a
-957740	det.
-957742	a
-957744	a
-957747	det.
-957750	a
-957755	a
-957759	a
-957762	a
+NA
 a
-957765	a
-957767	a
-957770	a
-957772	a
-957775	a
-957777	a
-957779	a
+NA
+NA
 c
-957782	c
-957784	a
-957786	a
-957788	a
 a
-957792	a
-957795	det.
-957799	det.
-957802	a
-957805	det.
-957807	a
-957810	a
-957816	a
-957827	a
-957830	a
-957832	a
-957834	a
-a
+NA
+c
 a
 a
-957839	c
-957841	a
-957843	a
-957846	a
-957850	a
-957853	a
-957856	a
-957858	a
-957866	c
 a
-957869	det.
-957871	a
-957874	det.
-957876	a
-957879	det.
-957882	det.
-957885	det.
-957887	det.
-957889	det.
-957891	det.
-957893	a
+NA
+c
 a
-957896	a
+NA
+NA
+NA
 a
-957899	c
-957901	a
-957903	c
-957909	a
-957916	det.
-957918	a
-957920	a
-957923	a
-957926	c
-957928	a
-957933	det.
-957937	a
-957940	det.
 c
-957943	a
-det.
-957946	a
+NA
 c
-957950	det.
+a
+NA
 c
+NA
+NA
+NA
 c
-957954	c
-det.
+NA
+NA
+NA
 c
-957958	c
-957960	c
-957962	c
-957965	det.
+NA
+NA
+NA
 c
-957968	c
-957970	det.
+a
+NA
 c
-957974	a
+a
+NA
 c
+a
+NA
 c
 det.
-a
-957980	a
-957982	det.
+NA
+NA
+c
+NA
 a
 det.
+NA
+NA
 c
-957987	c
-957991	det.
+a
+NA
+NA
+NA
 c
-957994	c
-det.
-957997	c
-957999	det.
+a
+NA
 c
-958003	det.
+NA
+NA
 c
-958006	det.
-det.
+NA
+NA
+NA
 c
-det.
-a
-958012	a
-958014	det.
+NA
+NA
+NA
+NA
+NA
 c
-958017	det.
+NA
 c
-958020	c
-det.
+NA
+NA
+NA
+NA
 c
-958025	det.
+NA
+NA
+NA
+NA
+NA
 c
-958028	c
+NA
+NA
+NA
+a
 c
-958031	det.
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-958034	c
-958037	det.
 c
-958041	det.
 c
-958046	det.
 c
-958049	c
+NA
 det.
+NA
 c
-det.
-det.
-a
 a
+NA
 c
-958059	det.
 c
-958063	det.
+a
+NA
+NA
+NA
 c
-958067	det.
+a
+NA
+NA
 c
-958071	det.
+NA
+NA
 c
-958074	c
-958077	a
+NA
+a
+NA
+NA
+NA
 c
-958081	det.
 c
-958084	c
-958087	det.
+NA
 c
-958091	det.
 c
-958095	det.
+NA
+NA
+NA
 c
-958099	det.
-958102	det.
+NA
+NA
 c
-958105	c
-det.
+NA
 c
-958110	det.
+NA
 c
-958114	det.
+NA
+a
+NA
+NA
+a
 c
-958117	det.
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-det.
-det.
-a
-958128	c
-958131	det.
-958133	c
-958135	det.
+NA
+NA
 c
-958138	det.
 c
-958142	c
-958145	det.
+NA
 c
-958149	det.
+NA
 c
-958152	det.
+NA
+NA
 c
 c
-det.
 a
-c
-det.
+NA
+NA
 c
 a
-958162	c
-958165	det.
-958169	a
-958171	a
-958182	c
-det.
+a
 c
-det.
-958187	a
 c
-958193	det.
+a
 c
-det.
+a
+a
+NA
+NA
+a
+a
+a
 c
-958206	c
-958210	det.
-958216	c
-958222	a
-958225	c
-det.
+NA
+NA
+NA
 a
-958230	det.
-958233	a
-958235	c
-958237	det.
-958239	c
-958241	c
-det.
-958244	c
-958246	a
-958248	a
-958251	det.
-det.
-958256	det.
-958270	a
+NA
 a
-det.
-det.
-det.
-958284	a
-958294	det.
 a
-958303	a
-958331	a
-958335	a
-958337	a
 a
-det.
-958347	c
 a
-958350	a
-958352	det.
-det.
 a
-c
-det.
-det.
+NA
 a
-958361	a
-958365	det.
-958368	a
-958370	det.
-958373	a
-958375	c
-c
-958378	det.
-det.
-c
-958384	c
-c
-958387	det.
-958392	c
-det.
-958398	det.
-958403	c
-det.
-958409	c
-det.
-958415	c
-det.
+NA
+NA
+NA
+a
+a
+a
+a
 c
-det.
-det.
+a
+NA
+a
+a
 c
-958423	c
-det.
-958431	c
-det.
-958437	c
-det.
-958443	c
-det.
-det.
+a
+a
+a
 c
-958451	det.
-958456	c
-det.
-958462	det.
-det.
-958465	a
-det.
-det.
-958471	a
+a
+NA
+a
+a
+NA
 c
-det.
-958478	det.
-det.
-958482	c
-det.
-958485	a
+a
+a
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
 c
-det.
-958490	c
-det.
+a
+NA
+NA
+a
+NA
+NA
 c
-958497	det.
-958501	a
 c
-det.
-958508	det.
-det.
+a
+NA
+NA
+NA
+NA
+NA
+a
 c
-958514	a
+a
+NA
 c
-det.
-958521	c
-det.
-det.
+NA
 c
-958529	det.
-958534	c
-det.
-958538	det.
-det.
-958544	c
-det.
-958554	det.
 a
+NA
+NA
 a
+c
 a
-958559	a
 a
+NA
 a
-958563	a
-958570	a
-958572	a
-958580	a
+NA
+c
 a
-det.
-958584	a
-958587	det.
-958589	a
-958591	a
-958595	a
-958597	a
-958601	a
-958604	a
-958606	a
-958608	a
-958610	a
-958612	a
-958616	a
 a
-958619	a
-958621	a
+c
 a
-958624	a
-958626	a
-958628	a
-958630	a
-958634	a
-958637	a
+NA
+NA
 a
-958640	a
+NA
 a
-det.
-958644	a
+NA
+NA
+NA
 a
-958649	a
-958651	a
-958653	det.
-958655	a
-958657	a
-958659	a
-958663	a
-958665	a
-958669	a
-958671	a
-958673	a
-958675	a
 a
-958679	det.
-958681	a
-958683	a
-958685	a
-958688	det.
-958690	a
-958692	a
-958694	a
-958698	a
-958700	a
-958704	a
-958706	a
-958708	a
-958712	a
-958714	a
-958716	a
-958718	a
-958722	a
-958724	a
-958726	a
-958730	a
-958732	a
-958734	a
-958738	a
-958740	a
-958742	a
-958745	det.
-958747	a
-det.
-958750	a
-958752	a
-det.
-det.
-958758	a
-958765	c
-det.
-958769	det.
-958774	a
+NA
+a
+NA
+NA
+NA
 c
-det.
-958780	c
-det.
-958785	det.
-det.
-958789	c
 a
 det.
-958793	a
+NA
 a
+NA
 a
-det.
-958799	det.
-det.
-958806	det.
-958810	c
-det.
-det.
-958815	c
-det.
-958819	det.
+a
 c
-det.
-958824	det.
-958827	det.
-det.
-958830	a
-det.
-958834	det.
-det.
-det.
-958842	det.
-958846	c
-det.
-det.
-958854	det.
+NA
+a
 det.
-958859	a
-c
-958862	c
+NA
 c
-det.
-958869	det.
-958878	c
-det.
-958882	a
-958885	det.
-958889	c
-det.
-958898	det.
-958903	a
+NA
 c
-det.
+NA
+NA
 c
-det.
-958914	c
-det.
-958921	a
-958923	a
-958927	a
-958929	det.
-958931	a
-958933	a
-958937	a
-958941	a
-958943	a
-958947	a
 a
-958950	a
-958954	a
-958958	a
+NA
+NA
+NA
+NA
 a
-det.
-958962	a
-958964	a
-958969	c
-958972	a
+a
 a
+NA
 a
-958978	c
-958982	a
-958984	a
-958986	c
-958988	a
-958990	c
-958992	a
-958994	a
-958996	c
-958998	a
+a
+NA
 c
-959001	a
-959003	a
+a
+NA
+a
 c
+a
+a
+NA
+NA
+a
 c
-959008	a
 c
-959011	a
-959013	c
 a
+NA
+NA
 a
 a
-959019	a
 a
-959022	det.
+NA
+a
+a
+NA
 det.
-959025	a
-c
-959029	a
-959032	a
+a
+NA
 a
-959035	a
-959037	a
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
-det.
-det.
-959042	c
-det.
-959045	a
-959047	c
-det.
-det.
 c
-det.
 a
 a
-959055	a
-det.
-959058	a
-959060	a
-959063	a
-959065	a
+NA
 a
-959068	a
-959071	a
-959073	a
-959075	a
-959077	c
-959080	a
-959083	c
+NA
+NA
+NA
 a
-959086	a
-959088	a
-959090	c
 a
-c
-det.
-det.
-959102	a
-959104	c
-det.
-c
-det.
-det.
-c
 a
-959113	a
-959115	c
+NA
 a
-det.
-det.
-959120	a
-c
-det.
-959124	c
-959126	a
-959130	a
+NA
 c
-det.
 a
+NA
 a
+NA
+NA
+NA
 a
-959139	c
 a
-959143	det.
-959148	a
+NA
 a
-959159	a
-959162	a
 a
-959168	a
-959170	a
-det.
-959174	c
-c
-959177	a
-959179	a
-c
-det.
-det.
-c
-959185	a
-959190	a
-959192	det.
-det.
-959195	a
+NA
 a
-959200	a
-959202	det.
-959204	a
-959206	det.
-det.
-c
-c
-959212	c
-959217	a
-959219	det.
-959221	c
-det.
 a
-959225	c
-959227	a
 a
-959232	det.
-959235	a
 a
-959239	a
-det.
-959243	det.
-959245	a
-959253	a
+a
+a
+a
+NA
 c
 a
-959258	det.
-959260	c
-959265	c
+NA
 a
-959268	c
-959271	a
+NA
+NA
 a
+NA
 a
-959275	a
-959277	det.
-959280	c
-959282	a
-959285	det.
-959290	c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
 a
+NA
+NA
+a
+NA
+a
+NA
+c
 a
+NA
 a
-959295	det.
+c
 a
+NA
 a
+NA
+NA
 a
 a
+NA
 a
-959305	c
+c
 a
-959311	c
 a
 a
-959317	det.
-c
-959325	det.
-det.
+NA
+NA
 a
 a
-959347	a
-959351	a
-959358	a
-959366	a
-959391	a
-959395	a
-959402	a
-959410	a
-959417	c
-959420	c
-959422	a
+NA
+NA
 a
-959426	c
-959430	c
-959432	c
+NA
+c
+NA
+NA
+NA
 a
+NA
 c
-959437	c
-959439	a
-959442	c
-det.
+NA
+c
+NA
+NA
 a
+NA
+NA
+NA
 a
+c
+NA
+NA
+NA
+c
 a
 c
-959450	c
-959453	c
-959455	c
-959458	a
-959460	c
+NA
 c
 c
-det.
-959465	c
-959469	c
+NA
 c
-959473	c
 c
-959476	c
-959480	c
-959487	c
+NA
+NA
 a
-959491	a
+NA
+c
+NA
+NA
 a
+NA
 c
-959497	c
-959501	a
+NA
 a
+NA
+NA
+NA
 a
-959514	a
+NA
+NA
+NA
+NA
 a
-959519	c
+NA
+NA
 a
-959523	a
+NA
 a
-c
 a
+NA
+NA
+a
+NA
+a
+NA
 c
 a
 c
-959533	det.
-959536	a
 a
-959540	c
-959544	a
-959546	c
-959553	c
+NA
 c
-det.
 c
-959558	c
-a
 a
-959562	c
-det.
-959567	c
-959571	a
-959580	a
-det.
-det.
-959584	c
-959587	det.
-959592	det.
-959594	c
+NA
 c
-959598	c
-a
-959604	c
 a
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-a
-959610	a
-959612	a
-959614	c
-959616	det.
-959619	det.
-959624	c
-a
-959629	c
-959633	det.
-959636	c
-959638	c
-959643	a
-959649	det.
-959651	c
+NA
 c
-959655	c
+NA
 c
-959659	c
-det.
-959666	det.
-det.
-959669	det.
 c
-959673	c
-959678	a
 a
-959681	a
-959684	c
-959687	a
-959691	c
-959694	c
-959696	det.
-959698	a
+NA
 c
-det.
-959702	det.
-det.
-959705	c
-det.
-959710	det.
-959713	det.
-c
-det.
-959717	c
-det.
-959721	det.
-959724	c
 c
-959730	c
-c
-a
-959743	c
-959746	c
-959748	a
-det.
-959755	a
-959761	c
-det.
-det.
-959774	c
-959779	c
+NA
 c
 a
-959785	det.
-959787	c
-959791	c
-c
-959794	a
-c
-det.
-959799	det.
-959801	c
-959805	a
-959807	det.
-det.
-959810	c
-959813	det.
-959815	det.
-959817	det.
-959819	c
-959824	det.
-959827	c
-959830	c
 a
-959838	c
-959841	c
-959844	c
+NA
+NA
+NA
 a
-959847	c
-959859	a
-959862	a
-959865	a
-959867	a
-959869	a
+NA
 c
-959875	c
-959878	c
+NA
 c
-959885	c
-959890	c
-959897	c
-959899	c
-959902	c
 a
-959905	c
 c
-959908	det.
-959911	c
-959913	c
-959918	c
+NA
 c
+NA
 c
-959922	a
-det.
+NA
+NA
+NA
+NA
+NA
+a
 c
-959927	a
-959929	det.
+NA
+NA
 c
-959932	c
-det.
-959936	det.
+NA
+NA
+NA
+NA
 c
-det.
-959941	c
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
 c
-det.
-959946	c
-det.
-959949	c
-959952	c
-det.
-959955	a
+NA
+NA
+NA
 a
-959958	c
+NA
 c
-959961	det.
-959966	c
-959969	c
+a
+NA
 c
-959973	c
-959975	c
+NA
 a
-959978	c
-959986	det.
+NA
+NA
 a
-959990	a
-959994	c
 a
+NA
 a
-959998	a
-960001	c
-c
-960013	c
-960016	det.
+a
+NA
+a
+NA
+NA
 c
-960019	c
-960021	a
-960025	c
-960027	a
-960034	c
-det.
-960038	c
+NA
+NA
+NA
 a
-det.
 c
-960044	det.
-960048	det.
+NA
+NA
 a
-det.
-960054	det.
-960061	a
-960065	c
-det.
-960072	a
-960077	c
-960082	a
-960086	c
-960091	c
-960094	c
-960097	c
 c
-det.
-960101	c
+NA
 c
-960104	c
-960108	c
-a
-960111	det.
-960114	c
-960117	c
-960120	det.
 c
-960123	a
-960126	a
-960128	det.
-960131	c
 a
 a
-det.
-c
-960140	a
-det.
+NA
+NA
 c
-960145	det.
-960147	c
 a
-960151	det.
-960154	c
-960158	c
-960162	c
-960164	det.
-960167	det.
-960170	det.
-960173	c
 a
-det.
-960178	c
-det.
-960181	c
-960183	c
-c
-det.
-960188	a
-960191	det.
-960193	a
-c
-960200	c
-960208	det.
-960212	c
 a
-960217	a
-960219	c
-960224	a
-960228	c
-960231	c
-960234	c
-960236	c
 a
-960241	det.
-960243	a
-960245	c
-960247	det.
-960250	det.
 c
 a
-960258	a
-c
 a
 a
 a
-960264	c
+NA
+c
 a
 a
-960269	c
-960271	det.
-960276	det.
-960280	det.
+NA
 a
-960283	a
-960297	c
-960299	c
-960301	det.
-960310	c
+NA
 a
-960314	c
+NA
 a
+NA
 c
-960318	c
-det.
-960321	c
-c
-960326	c
-det.
-960329	c
-960332	c
-960334	c
-960336	c
+NA
 a
-960340	det.
+NA
 a
-det.
-960345	a
-960347	det.
-960351	c
-c
-c
-960355	c
-960358	a
-960360	a
-960365	c
-det.
-960368	det.
-960371	c
-960374	c
-960379	det.
-c
-960383	a
+NA
+a
+NA
+a
+NA
+a
+a
+NA
+NA
+NA
+NA
 c
 c
 a
-960390	c
 a
-960396	a
 a
 a
-960403	a
 a
+NA
 a
-960408	a
-960415	a
-960419	c
-960426	c
+NA
 a
-960432	det.
-960439	a
-960442	c
-det.
-960445	det.
-c
-960449	a
-960451	a
-960455	c
-960457	c
-960459	det.
-960461	c
-960465	c
+a
+NA
+NA
 c
 c
+a
+NA
+NA
 c
-det.
 c
-960473	a
-960475	c
-960479	c
-960482	c
-960484	a
-960486	c
-960490	det.
-det.
 a
 a
-960499	c
-det.
-960505	c
-det.
+NA
+NA
 a
+NA
 c
-a
+NA
+NA
 c
 c
+NA
 c
-a
-a
-a
-960517	c
-960519	c
-det.
+NA
+NA
 a
-960525	a
-det.
-960528	det.
-det.
+NA
 c
-a
-960533	c
-det.
-960536	c
-a
-960539	a
 a
 c
 c
-960544	a
+NA
 c
-960547	a
-det.
-960550	det.
-960552	a
-960554	det.
+c
 a
-960558	c
 c
+a
+NA
 c
-det.
-960564	c
-det.
 c
-960568	det.
-det.
+NA
+NA
 a
+NA
 c
-960573	c
+NA
 a
-960579	c
-det.
-960588	a
-960592	a
-960595	a
-960598	a
+NA
+NA
+NA
+c
+NA
 c
+NA
 c
-960603	a
-960605	a
-960607	a
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 det.
+NA
+a
 a
-960613	a
-960615	a
+NA
 c
-960618	c
 a
+c
 a
-960624	c
-det.
-det.
+NA
+NA
+NA
+NA
 a
-960629	c
-c
-det.
+a
 a
+NA
+NA
+NA
 c
 a
-960639	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
 a
+NA
+NA
 c
-960647	a
 a
+NA
 a
-960651	a
+NA
+NA
 a
-c
-960655	c
-960659	a
-960663	c
-c
-det.
-960669	det.
-960672	det.
-960675	det.
-c
-960680	det.
 a
-c
-c
+NA
+NA
+NA
 a
-960686	c
-960690	a
 a
-960693	det.
-det.
-det.
-960697	c
-960702	c
+NA
 det.
-960706	c
+NA
+NA
 det.
-960710	c
 det.
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
 det.
-960715	c
+NA
 a
-960718	a
-960720	c
-960722	c
+NA
+NA
+NA
 c
-960725	a
-960727	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-960731	a
-960733	c
+NA
+NA
 a
-960736	a
+NA
 a
-960739	c
-960747	det.
-960751	det.
-960753	c
+NA
+NA
+NA
 a
-c
+NA
 a
-960758	c
+NA
 a
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
 a
 a
-960764	c
+NA
 a
-960767	a
 a
-c
 a
+NA
 a
 a
-c
-960775	a
-c
+NA
+NA
+NA
+NA
 a
-960781	a
-c
+NA
+NA
+NA
 a
-960785	a
-det.
-det.
-960789	det.
-det.
+NA
 a
+NA
 a
-960794	a
-960796	a
-960798	det.
-det.
-960801	a
-960803	c
-960805	det.
-960807	c
+NA
 c
-960811	c
-a
-960814	c
-960816	a
-det.
 c
-960820	a
 a
-a
 c
+NA
 a
-960826	c
-960828	det.
-960830	c
 c
-det.
-det.
-960836	c
-960838	c
-det.
-960841	c
-960846	c
-960850	a
-960853	c
-det.
-960858	det.
-det.
-960861	a
-960863	a
-960865	det.
-960867	c
+NA
+NA
+NA
 a
-960871	a
-det.
-960874	c
-c
-960880	det.
-det.
-det.
-det.
-960886	a
-det.
-960889	c
 a
-c
-det.
-960898	a
-det.
-960901	c
-960903	c
-960907	det.
-960910	c
-960912	c
-960915	c
-960919	c
-960924	c
-960927	c
-960933	c
-960936	c
-960939	c
-960941	c
-960943	det.
-c
-960946	a
-960949	a
-960954	a
-960956	a
-960958	a
-960961	c
-c
-det.
+NA
 c
-960968	det.
-960970	c
-960973	c
-det.
-960977	det.
-960979	a
-960982	a
-960985	a
-960988	a
-960991	a
+NA
 c
-a
-960996	c
+NA
 c
-det.
-961000	c
-det.
-961004	det.
+NA
 a
-det.
-961008	det.
-det.
-961013	det.
-det.
-961018	c
+NA
 a
-961022	c
-961024	c
+NA
+NA
 a
-961027	a
-961031	a
-c
 a
-961035	c
-961047	c
 a
+NA
 c
-961051	a
-961056	c
-961058	a
-961062	a
-961064	c
-961068	c
-961071	c
-961074	c
-961077	c
+NA
+NA
 c
-961082	c
+NA
+a
+NA
 c
-961086	c
-961089	c
 a
-961092	a
-961094	c
-961097	c
+NA
+NA
 c
+NA
+NA
 c
 c
-961102	a
-961104	a
-961106	c
-961108	c
+NA
 a
-961116	det.
+NA
+NA
+NA
+NA
 a
-c
-961120	c
-c
-961125	c
-c
-det.
-c
-961130	det.
-961132	c
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
 c
-961135	a
+a
+NA
+NA
 c
-det.
-961139	c
-961141	c
-det.
-961144	c
-det.
-961147	c
-961149	c
+a
+NA
+a
+NA
+NA
+NA
 c
+a
+NA
+NA
+a
 c
+NA
 a
-961155	a
-961158	a
+NA
 c
 c
 c
 a
+NA
 c
+NA
+NA
+NA
 a
-961166	c
-det.
-961169	c
-c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-961174	c
 c
+NA
 c
 a
-961179	c
 a
-961182	a
+c
+NA
+c
+NA
+NA
 a
+NA
 a
+NA
+NA
 a
-961187	c
-961190	c
-961193	c
-961195	c
+NA
+a
+NA
 c
-961199	c
-961201	det.
+NA
+NA
+NA
 a
-961204	a
+NA
 a
+NA
 c
-961208	det.
-961211	c
 a
-961214	a
+NA
 c
-det.
-961219	det.
-961221	det.
-961223	c
+a
+NA
+c
 c
-961226	det.
-961230	c
-961232	det.
-961235	c
+NA
+NA
 c
 a
-961239	c
-961242	c
+NA
+NA
 c
-961246	c
-961248	a
 c
-961252	c
-961254	det.
-961259	c
-961261	c
-961267	a
-961269	det.
-961271	a
-961274	det.
+NA
 det.
-961278	a
+NA
 a
-961282	a
-961284	a
+NA
+NA
+NA
 a
-961288	a
-961291	det.
+NA
 c
-a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
 a
-961297	det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-961301	a
-961304	det.
+NA
+NA
 c
+NA
 a
+NA
 a
-961310	a
-961313	a
-961316	det.
-961318	a
-961321	c
-961323	a
-961332	c
-961334	c
-det.
-961337	det.
-c
+NA
+a
+NA
 c
 a
-961344	det.
-961346	c
-961351	c
-961356	a
-961368	c
-det.
-961374	c
+NA
+NA
+NA
 c
-961380	c
-961387	a
-961389	c
 a
 a
-961396	a
-961398	a
-961401	det.
-det.
-det.
-961405	c
-961407	a
+NA
+NA
+NA
 a
 a
-961411	det.
-det.
 a
-961415	det.
-961418	a
+NA
+c
 a
-961423	det.
-961428	c
+NA
 a
+NA
+NA
+NA
 a
-961436	c
 a
-961439	a
+NA
+c
+NA
+NA
 a
-961442	c
+NA
+NA
+NA
+NA
+NA
 c
-det.
-961446	c
-961449	c
-961452	c
-961459	c
-961465	a
-961467	c
-det.
-det.
-961471	c
-961477	a
-961479	c
-961481	c
-961483	c
-961485	a
-961487	a
-961489	c
-961494	c
-det.
-961497	c
-961502	a
-det.
+NA
 a
-det.
-961509	c
 c
-961513	c
-det.
-961521	c
+NA
+a
+NA
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
-det.
+a
+NA
 c
-961527	a
-961529	det.
-961532	det.
+NA
+NA
+NA
 c
-961537	c
-det.
-det.
-961541	det.
 c
-det.
-det.
-961546	c
-det.
-961550	c
-det.
-det.
-961555	a
-961557	a
-961559	det.
-961561	c
-961563	c
-961565	a
-961567	c
+NA
 c
-a
-961571	a
 a
-961574	det.
-961577	c
-961580	c
-961583	a
-961585	det.
-961588	det.
-961591	c
-a
-a
-961595	c
-a
-961598	det.
-961601	c
-a
-961604	c
-961606	c
-961609	det.
-961611	a
-det.
-a
-961617	a
-961619	c
-det.
-a
-961623	a
-961625	det.
-961627	det.
-961629	c
-a
-961632	a
-961634	det.
-961636	det.
+NA
+c
+c
 a
-961639	a
+NA
 a
-961642	c
+NA
+c
+NA
 a
+NA
+NA
+NA
 a
 a
+NA
 a
+NA
 c
-det.
-a
-961651	det.
-961653	c
 a
-961656	det.
-961658	c
+NA
 a
+NA
+NA
+NA
 c
-a
-961663	c
-det.
+NA
+NA
 a
 a
-961669	det.
-961671	a
-det.
-a
-961675	det.
-961677	det.
-a
-a
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 a
-961684	c
-a
-a
+NA
 c
-961689	det.
+NA
 c
-961692	a
 a
 a
-a
-961698	det.
+NA
+NA
+c
+NA
+NA
 a
+NA
 a
+c
+NA
+NA
+NA
+c
 a
-961704	a
+NA
+NA
+c
+c
 a
-det.
-det.
 a
-961710	a
+NA
 a
-det.
-961714	det.
-961717	a
+NA
+NA
 a
-961720	a
-det.
-961723	det.
-det.
-961726	a
-961728	a
-961730	det.
-961733	a
+a
 c
+a
+NA
 c
 a
+NA
 c
+NA
+NA
 c
-961740	a
 a
 a
-961745	det.
-a
-961749	c
-det.
+NA
 c
-961755	c
-a
-961760	c
+NA
+NA
 c
-961763	c
-det.
-961766	a
+NA
+NA
+NA
 c
-961775	c
-det.
-961780	c
-961783	c
-961786	c
-961790	c
-961794	c
 c
-det.
-961798	c
-961800	det.
-961803	det.
 c
-961806	c
-a
-a
+c
+c
+NA
+NA
+NA
 a
-961811	c
-961813	det.
-961816	det.
-961818	c
-961820	c
+NA
+c
 a
+c
 a
+c
+NA
+NA
 a
+NA
+c
+c
 a
-961826	c
-961828	c
+NA
 a
+NA
+NA
 a
-961833	c
+NA
+NA
+NA
+NA
 a
+NA
 c
-961839	a
-961842	a
-a
+NA
 a
-961846	c
-961848	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-961853	c
+NA
+NA
+NA
 c
+a
+NA
+NA
+a
+NA
 det.
+NA
 c
-961858	c
-961860	c
-961862	c
-961865	c
-961867	c
-961870	c
-c
-961876	c
-961880	c
-961883	c
-961885	c
-c
+NA
 a
-961889	c
-961891	c
-961894	det.
-961897	det.
-961899	det.
-961901	c
-det.
+NA
+NA
 c
 a
 a
-961911	a
-961913	a
-961921	c
+NA
 a
-961927	a
-961929	a
-961932	det.
+NA
 det.
-a
-961938	det.
-961942	c
-961945	a
-961947	c
-961949	c
+NA
 c
-961953	c
+NA
+NA
 c
-961957	a
-961959	c
-961961	a
-961963	c
+NA
 a
-961967	a
-961969	c
-c
-a
+NA
 det.
-961977	c
-961980	c
+NA
+NA
+NA
 a
-961985	det.
-961987	c
+a
+NA
+NA
 c
 a
-961991	a
+NA
+NA
+NA
+NA
 a
-961997	c
 a
-c
-962005	a
-962010	a
-962013	a
-962015	c
-962018	a
-c
-962021	c
-det.
-962024	c
-det.
-962028	c
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-det.
+NA
 a
+NA
 a
-962037	a
-962040	c
-c
-962044	a
+NA
+NA
+NA
 a
-962047	a
+NA
+NA
+NA
 a
-962050	c
-962052	det.
-962055	c
-962060	c
-962064	c
-962073	a
-962076	a
-962078	c
-962080	a
 c
 a
+NA
 a
-c
-c
-962088	c
-c
-c
-det.
-962093	det.
-962099	c
+NA
 a
-det.
-det.
-962105	a
-962108	a
-c
-962114	c
-962116	c
 c
 c
-c
-962121	c
-962123	c
-962125	c
-962130	c
-962133	c
 a
-962136	a
 a
-962140	a
-962142	c
-c
-962145	a
+NA
 a
-962148	a
+NA
 a
+NA
 a
 a
-962153	a
-962155	c
+NA
 a
-962158	c
-962162	c
-962168	a
-det.
-962171	c
-962174	a
+c
 a
-962177	a
 a
-962180	a
-962188	c
+NA
 a
-962194	a
-962196	det.
-962199	a
-962202	a
+NA
 a
-962206	a
+NA
+NA
+NA
 a
-962211	c
-c
-962214	c
-c
-962217	c
-c
-962224	c
-962226	c
+NA
 a
+NA
+NA
+NA
 a
-962231	a
 a
 a
 a
+NA
 a
-c
-962238	c
-962240	c
-c
-962244	a
-c
-c
-c
-c
-962251	c
-962255	c
-962257	c
-c
+NA
 a
-962261	c
-det.
-962265	c
 a
-962270	a
 a
-962274	a
-962276	a
-962278	c
+NA
 a
-c
+NA
+NA
+NA
+det.
+NA
 c
 a
-962284	c
 a
-962288	c
-c
-962291	c
-962293	a
+NA
 a
-962296	a
-962299	c
-962301	c
-962305	c
-962307	c
+NA
 c
 a
-a
-962312	c
-962314	c
-962316	c
-c
-962322	c
-c
-c
+NA
 c
+NA
 c
-962329	c
 c
+NA
+NA
 c
+NA
+NA
 a
-c
-962338	a
+NA
 a
-962342	a
-962344	c
-962346	a
+NA
+NA
 a
-962349	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
 c
-962354	c
-962363	c
-962366	a
-962369	det.
-962371	c
-962376	a
-962378	c
-962383	c
+NA
+NA
 c
-962387	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
+a
 c
-det.
-962395	c
-962398	c
+a
+NA
 c
+a
 a
-962402	a
-962405	a
+NA
 c
+NA
+NA
+NA
+NA
 c
-det.
-962412	c
+a
 a
-962415	a
+NA
 a
-962418	c
+NA
 det.
-962421	a
-962425	det.
-962432	a
+NA
 c
-962436	a
+NA
+NA
+NA
 a
-962440	det.
-962442	det.
+NA
 a
+NA
 c
 a
-962447	det.
-962452	a
-962455	c
-962458	c
-962461	c
+NA
+NA
+NA
+NA
+a
 det.
-c
 a
-962467	a
-962469	a
-962471	a
-962479	c
-c
-962482	c
-962485	c
-c
-962489	a
 a
-962492	c
-962495	c
-962498	c
-c
-962501	c
-962504	c
-962512	c
-det.
-962515	c
-962517	c
-962519	c
+NA
+NA
 a
-962523	c
-962526	c
+NA
 a
-962530	c
 a
-962533	a
+NA
+c
 a
-962536	c
-962538	a
-962543	c
+NA
 c
-962546	c
 c
-a
-962550	c
+NA
 c
-a
 c
-962556	c
-962560	a
-962564	c
-962568	a
+NA
 c
-962575	c
-a
-962579	det.
-962583	c
-962587	c
-det.
-det.
-962592	c
-962599	det.
-a
-962603	c
-det.
-962606	a
-962609	c
 c
-962612	c
+NA
+c
+c
 a
-962617	a
-962620	a
-962622	c
 a
-962626	c
-962628	c
 a
-962631	c
+a
+NA
 c
-962635	c
 a
-962638	a
-962640	det.
-962642	c
+NA
 a
-c
+NA
+NA
 c
 a
-962648	a
-962650	a
-962652	a
 a
-962655	c
-962657	a
-c
-962663	c
-c
-962666	c
-962668	c
-962670	c
+NA
+NA
 a
-962674	c
-962685	c
-c
 a
+NA
+NA
 a
-962690	c
-962692	a
-962694	c
-c
-962697	c
+NA
 a
-962704	a
 a
-962707	c
-962709	c
-962712	c
-962714	c
-962718	c
-det.
-962723	a
-962725	c
-962728	a
-962730	a
-962734	a
-962736	c
+NA
 a
-962739	a
-962741	c
+NA
+NA
 a
 c
+NA
 a
-962746	a
-962748	c
-c
-962751	a
-962754	a
-962756	det.
-962760	c
-c
+NA
 a
-962764	c
 a
-962767	c
+NA
 a
-962770	c
-c
 c
-962776	c
+a
+NA
+a
 c
+NA
 c
-962780	c
 c
 a
+NA
+NA
 a
 a
+NA
 a
-962789	c
-962791	c
+NA
 c
+a
+NA
 c
-962795	a
+NA
 a
-962799	a
-962802	c
+NA
+NA
+NA
 a
-962808	c
-c
-962812	c
-c
-962815	c
-962818	c
-962821	c
-962824	det.
-962827	c
-962829	det.
+NA
+NA
+a
 c
-962833	c
 c
 c
-962838	a
+NA
 a
-c
-962844	c
-c
-962848	c
+NA
+NA
 c
+NA
 c
-962852	a
+NA
+NA
 a
+NA
 a
 a
-962857	a
+NA
 a
-962860	det.
-962864	c
 a
+NA
 a
-962876	a
-962879	c
 a
-c
-962883	det.
-det.
-det.
-962887	a
-962889	c
-962891	c
-962893	c
-962895	c
-962897	a
-962904	a
-962906	c
-962910	c
-c
-c
-det.
-962916	c
-c
+NA
 a
-962920	det.
-det.
-det.
+NA
+a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
 c
-962929	c
+NA
+NA
 c
-962932	c
+NA
+a
+a
+NA
+a
+NA
 a
-962935	a
-962937	a
-962939	c
+NA
+NA
 c
+NA
 a
-962945	a
-962947	c
+NA
 a
+NA
+NA
+NA
 a
-962951	c
 a
-962954	c
-962956	a
-962960	a
-962962	c
 a
-962965	c
-c
+NA
+a
+NA
+a
+NA
 c
+a
+NA
+NA
 a
-962972	c
-962975	c
-962977	c
-962980	c
-962984	c
+a
+NA
 c
-962987	c
-962990	c
-962995	a
 a
 c
-963002	c
+NA
+a
+NA
+NA
 a
+NA
+NA
 c
 c
-963010	c
-963013	c
 a
-963016	a
-963020	c
-963022	c
+NA
+NA
+NA
+NA
 a
+NA
 c
-det.
-963027	c
 c
-963031	c
-963037	a
+NA
 a
-963040	c
+NA
+NA
+NA
 a
-963043	c
 c
-963047	a
-963052	a
-963055	a
-963057	c
+a
 a
 a
+NA
 c
-963062	c
-963064	c
-963068	c
-963070	a
+a
 c
-963075	a
 a
-963078	c
 a
-963081	a
-963084	c
-c
+NA
+NA
+NA
 a
 c
-963090	c
-det.
-963093	c
-963096	a
-det.
 a
 a
-963102	det.
-963105	c
-963107	c
 a
-963111	a
-963113	c
-a
-963117	c
+NA
 c
 a
+NA
 a
+NA
+c
 a
-963123	a
-963130	a
+NA
 c
 c
-963134	a
 a
-963137	a
+NA
+NA
 c
+NA
+NA
 a
-963141	a
-963145	c
-963147	c
-963150	c
-963153	c
-963156	c
+NA
 a
-963159	c
-det.
-963165	a
-963169	c
-963172	c
-c
-963177	c
-c
-963180	c
+NA
+NA
+NA
+a
+NA
 a
+NA
 c
+a
+NA
+a
+NA
+NA
+NA
 c
-det.
-963190	a
-963192	a
-963194	a
-963196	a
-963201	c
-963204	c
-963207	c
+a
+a
 c
-963211	a
-963214	c
 a
-963219	c
-963228	c
-963231	c
-963235	a
-963237	c
 a
-963240	a
-963242	c
-963245	c
-963250	c
-963252	c
 a
-963255	a
-c
+NA
 a
+NA
 a
-963261	det.
-963263	c
-963266	c
-det.
-963270	det.
-det.
-963276	c
-963278	c
-c
-963282	c
-963284	c
-c
-det.
-963288	c
-963290	c
-963292	det.
-c
-963299	c
-963301	c
+NA
+NA
 c
-963309	a
 a
 a
 a
+NA
 a
-963317	det.
-det.
-963320	c
-963322	c
-963324	det.
-c
-963327	c
-963329	c
-c
-963332	c
-det.
-det.
-c
-963338	c
-c
-det.
-det.
-963345	c
-c
-det.
-963349	c
+NA
 a
-963352	det.
-963356	c
-c
-det.
-963363	c
-det.
-963366	det.
-963371	c
+NA
+NA
 c
-det.
-det.
-det.
-c
 a
-963379	a
-963383	det.
 a
-det.
-963392	a
-det.
-det.
-c
-963397	c
-det.
-963401	c
-c
-det.
-963406	c
-det.
-963409	c
-963411	a
-963416	c
-det.
-det.
-963422	a
-963424	det.
-c
-963427	c
-det.
-c
-963433	c
-963438	a
-963440	c
-963444	c
 a
-c
-963450	c
+NA
+a
+NA
+a
+NA
+NA
 c
-963453	c
 c
-963456	c
-963458	c
-det.
-963462	c
 a
-963465	c
-963467	c
 a
-963470	c
-963472	c
+NA
 a
-963475	c
-963477	c
-963481	det.
-det.
-det.
-det.
+NA
 a
-963489	c
+NA
+NA
+c
 a
 a
-963494	a
-963496	c
-963498	a
-963500	c
-963503	det.
-det.
-963506	c
+NA
 a
+NA
 a
+NA
+NA
 c
-det.
-963513	c
-963516	c
 c
-963520	a
-963522	c
-963531	c
-963534	c
-963541	c
-963545	c
-det.
 a
-det.
-c
-963557	c
 a
-c
-963562	c
-c
-963565	c
-c
-963569	c
-963574	c
-963576	a
-963579	a
-963581	c
-963583	a
-963585	c
-963588	c
-963591	a
+NA
+NA
 a
-963594	a
-963596	a
-963599	det.
-963602	det.
-963604	c
-963607	a
-963612	a
-963614	det.
-det.
-963620	c
-c
 a
-963625	c
-det.
-963629	c
-det.
-963632	a
-963634	det.
-963638	det.
-963641	c
-963644	a
-963647	c
-963651	c
+a
 a
+NA
+NA
 c
-963658	a
-963661	a
-963663	a
 a
-963668	c
 a
-963671	c
-c
-963675	c
-c
-963678	c
-963681	a
 a
-963684	c
+a
+NA
+a
 c
-det.
-963691	a
-det.
-963700	a
-963704	c
-963706	c
-963709	det.
 c
+a
+a
 c
-963718	det.
-963724	a
+NA
 a
-963727	a
+NA
+NA
 det.
+NA
+NA
 c
-963742	c
-963745	c
-963747	c
+c
 a
-963750	c
-963753	a
 c
-963757	c
+NA
 c
+a
 c
-963761	c
-963765	a
-963767	c
-963771	a
+NA
 c
-963774	a
-963780	a
-963782	c
-963788	c
-963791	c
-963794	c
-963799	c
-det.
-963804	c
 a
-963807	a
+NA
 c
+NA
 c
-a
-963812	det.
-963815	det.
 c
+NA
 a
-963819	a
-963821	a
 a
+NA
+NA
+NA
+a
+NA
+NA
+c
 c
 a
-963826	a
+NA
+NA
 c
 a
-963831	c
 a
-963834	c
-963839	a
-963841	c
-963844	det.
-963846	c
-963849	c
-963855	c
-963858	c
-963860	c
-963864	c
-963866	c
-963869	a
-963874	c
+NA
+NA
+NA
 c
-963889	a
-963891	c
-c
-963895	a
-963897	a
-963899	a
-963901	c
-963904	c
-963907	c
-963912	c
+NA
+a
 c
-963915	c
-963917	c
+a
+NA
 c
-963921	c
-963926	c
+a
 c
+a
 c
-963932	a
-963934	a
-963936	c
-963939	det.
-det.
-963942	c
+NA
+NA
 c
-963946	c
-det.
-963949	c
-963951	c
-a
-963955	c
 a
+NA
+NA
 a
 a
-963961	a
-963963	det.
-963965	a
-963967	c
-963970	c
-963973	a
-963982	a
+NA
 a
 c
-963986	c
-963989	a
-963993	a
+a
+NA
+NA
 c
-964002	c
 a
-964006	a
+NA
 c
-964010	a
-964015	c
-964018	c
+NA
 c
-964022	c
-964025	c
-964028	det.
-det.
-964031	a
-964034	det.
-964036	det.
-det.
-964039	c
-det.
-964042	a
 a
-964045	c
-964047	c
-964049	a
-det.
-964052	det.
-964054	c
-det.
-964057	c
-964060	det.
-c
+a
 a
-964064	c
 c
-964067	a
-964069	c
-964071	det.
-det.
-964074	c
 c
+NA
+NA
 a
-964078	a
-964080	c
-964084	a
-964087	a
-964089	a
-964092	det.
-964099	c
+c
+NA
 c
 a
 a
+c
+c
+NA
 c
 a
 a
-964108	c
 a
+NA
+NA
+c
 a
-964112	a
-964130	c
+NA
 a
-964134	c
+NA
+NA
 c
-964137	a
-964139	c
-964141	c
-964143	a
-964146	c
+NA
+NA
 a
-964149	c
-964152	c
-c
 c
 c
-c
 a
-c
-964162	a
-964164	a
-c
-964171	c
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+a
+NA
 det.
+NA
+NA
+a
+a
+NA
 c
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
 a
-964176	c
-964179	c
+NA
 c
-964184	c
-964187	c
-964189	c
 a
-det.
-c
-964195	det.
-det.
-964198	c
-964201	c
-964203	c
-964208	a
+NA
+NA
+NA
+a
+NA
+a
 c
-964211	c
+NA
 c
 a
-964215	c
-c
+NA
+NA
 c
 a
-964227	a
-964229	a
-964231	c
 a
 a
-964237	a
-964241	c
-964244	det.
-964246	a
+NA
+NA
+NA
 a
-964249	a
-964252	c
-964256	c
-964258	c
-964265	a
-964267	c
-964269	c
-c
-964273	a
+NA
 a
-964276	a
-964279	a
-964282	c
-964295	c
-964299	c
-c
-964304	c
-964308	c
-964310	det.
+NA
+NA
 c
-964315	a
-c
-964318	c
-c
-964322	c
-964326	a
-964329	c
+NA
+a
+a
+a
 c
+NA
+NA
 a
 a
-964335	c
 a
-964338	a
 a
-964342	a
-964345	c
+NA
+NA
 a
-964348	a
-964350	a
-964352	c
-964355	a
-964358	c
 a
-964362	c
-964364	a
-964366	a
+NA
 a
-964373	a
 c
-964385	c
-964388	c
-964394	c
 a
-964398	c
-964402	a
-964407	c
-964410	a
-964414	a
+NA
+c
 a
-964418	a
-964424	a
-964429	a
 a
-964432	a
-964434	a
-964436	a
-964439	c
-c
-964442	a
-964445	a
-964447	c
 a
 a
+NA
 a
-964452	a
-964454	a
-964461	a
-964463	c
-c
+NA
 a
-964467	c
 c
 a
-964472	c
-964475	c
-964478	c
-964480	c
-964483	a
-964486	c
-964488	a
-964490	a
-964492	a
-964494	a
-964496	a
-964498	a
-964500	c
+NA
 c
-964504	a
-964506	c
-c
-964510	c
-c
 a
-964515	c
+NA
+NA
+NA
 c
-964518	c
-964520	c
-964522	a
-964525	c
 c
-964528	c
-964530	a
-964532	c
-964548	a
+NA
+NA
 a
+NA
 a
-964552	a
-964554	c
-964558	c
-c
+NA
 a
-c
-964566	c
 c
 c
-c
-964572	det.
-964576	c
-964579	c
-964583	a
 a
-c
-964589	c
-det.
-964593	c
-964596	c
-964598	c
-964603	a
-964608	c
-c
-964614	c
-964617	a
-964622	det.
-964624	a
-964628	c
-964630	c
-964636	c
-964639	c
+NA
+a
+NA
+NA
+NA
+NA
 c
-964643	c
 a
-964648	c
-964650	c
-964654	c
+NA
 a
-964659	c
-964661	c
-964664	a
-964668	a
 a
 a
-964672	c
-det.
-964675	a
+NA
 a
-964682	c
+c
 a
+NA
 a
-964688	a
-964691	c
-964693	c
-c
-c
-c
-964698	c
-964700	c
-964702	c
-c
-964709	c
-c
-c
-964715	c
-964717	c
-964719	det.
-964725	c
-c
-964729	c
 a
-c
-964734	a
-964736	c
-964742	c
-964744	c
+NA
+a
+a
 c
 c
-964748	c
+a
 a
+NA
 c
-964752	c
-det.
 a
-964761	c
 a
-964764	c
-c
-c
-c
-964770	c
-964772	c
-964774	c
-c
-c
-964782	c
+NA
+NA
+a
 c
-964788	c
+a
+NA
 c
-964791	c
+a
 c
-964795	c
-964797	c
 a
-964803	c
 c
-964806	c
+a
+a
+NA
+a
+NA
 c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
 c
+NA
+a
+NA
+NA
+NA
+NA
 c
-964814	a
 a
-964821	a
+NA
+NA
+NA
+NA
 a
-964824	c
 a
-964827	c
+NA
 a
-det.
+NA
 a
-964832	c
-c
-964835	c
-964838	c
+NA
+NA
 c
-964841	c
-964843	c
-det.
+NA
 c
-964848	c
-964853	a
-964862	a
+a
+NA
+a
+NA
+a
+NA
 a
-964867	c
-964871	c
+NA
+a
+NA
+a
+NA
 c
-964874	a
-964878	c
-964880	c
 a
-964884	c
-964888	c
+a
+NA
 c
+NA
 c
-964892	c
-964894	a
 a
-964901	c
+NA
+NA
 c
-964904	c
-964906	c
-964909	c
-964911	c
-964913	a
+NA
+NA
 a
-964917	c
-964920	c
-964922	c
-964924	c
+NA
 a
+NA
+NA
 c
-964928	c
 c
-964932	c
+a
 c
-964939	c
-964941	c
-964947	a
-964952	c
 a
-964956	a
 c
-964962	a
-964965	a
-964968	c
-964974	c
+a
 c
+a
+NA
 c
-964983	c
-964988	c
-964990	c
-964992	a
-964997	c
-964999	a
-965001	a
-965009	a
-965019	c
-965023	c
-965025	c
-965028	c
-965030	c
-965035	c
-965044	a
-965046	c
 a
-965050	c
+c
+NA
 a
-965053	c
+c
 c
+a
 c
-965061	c
 a
+NA
+NA
+c
 c
-965065	c
-965067	c
-965070	a
-965074	c
-965076	c
-965079	a
-965084	a
-965086	a
-965088	a
-965091	c
-965093	a
-965095	a
-965098	a
 a
-965101	c
-965103	c
 a
+NA
 a
 a
+NA
 a
-965110	c
+NA
 c
-965113	a
-965117	c
-965119	a
-965121	a
-965123	a
-965125	c
+NA
 a
-965130	c
-965132	a
-965134	c
-965136	a
-965138	a
-965143	c
-965145	c
-965148	c
-965153	c
-965159	det.
-965161	a
 a
-965165	a
-965167	c
-965171	det.
-965173	a
-965175	c
-965180	a
-965182	a
-965186	c
-965192	c
-c
-965204	det.
-det.
-965207	c
+NA
 a
-965210	c
 a
-965215	a
 a
-det.
-965219	c
 c
-965222	c
-965227	c
-965234	c
+NA
+a
 a
-965237	c
-965240	c
-965243	a
-965249	c
-965253	c
-965255	c
 c
+NA
 a
+NA
+c
+c
 a
-965260	a
-965262	det.
-965265	c
-965268	det.
-965276	c
 c
-965284	c
+a
+NA
+a
+NA
+NA
+NA
 c
-965287	c
-965289	a
-965292	c
+NA
 c
+a
+a
+NA
 c
-965296	a
+NA
+NA
 c
 c
-965300	c
+a
 c
+NA
+NA
 a
-965304	a
-965306	a
+NA
 a
-965309	a
-965312	c
+NA
 a
-965315	c
-c
+NA
 a
-965319	a
-965322	a
-965324	c
-c
-c
 a
-c
-c
+NA
 a
-965334	a
-965336	c
-965339	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-965342	a
+NA
 a
-965345	c
-965347	a
-965349	c
-965355	a
-965359	a
-965361	c
-965368	c
-965370	c
+NA
 a
-965374	a
-c
-965377	c
-965379	c
+NA
 a
-965382	c
+NA
 a
-965386	c
-det.
+NA
+NA
+NA
 a
-965390	a
-965394	a
-965398	a
+NA
+NA
+NA
 a
-965401	c
-965404	a
-965406	c
-965408	c
-965410	a
-965413	det.
-965415	c
-c
-det.
-965419	a
-965421	a
+NA
 a
-965424	a
-c
-965431	det.
+NA
 a
+NA
+NA
 c
-965435	a
-965437	c
-965439	a
-965443	a
-965446	c
-965451	c
-965454	a
-965456	c
+NA
+NA
+a
+a
+NA
+a
+a
+NA
+a
+NA
+a
+NA
+a
+NA
 c
-965461	c
+a
+NA
 c
-965464	c
-965467	c
 c
-965480	c
-965483	a
-a
-965486	a
-965494	c
-965497	det.
-965500	c
-965509	c
-965513	c
 c
+NA
+NA
+NA
 c
 c
-965519	det.
-965521	c
-det.
-965524	a
-965526	c
-det.
-965531	det.
-965533	a
-965538	c
 c
-965544	c
 c
-det.
-965551	a
-965553	a
-965555	c
-965566	a
-965568	a
-965571	c
-965573	a
 c
+NA
 a
-c
-965578	c
-965586	c
+NA
 c
-965589	c
 a
-965596	a
-965598	c
+NA
 a
-965601	c
-965603	c
-965606	c
-965608	c
 c
-c
-det.
-965614	a
-965624	c
+NA
 a
-965628	a
-965630	c
-965632	c
-965635	a
-965637	c
+NA
+c
 a
 a
-c
+NA
 c
 c
 c
 a
-965646	a
-965648	c
-965650	c
-965657	a
-det.
-965660	c
-a
-965663	a
-965665	c
-965667	c
-a
-965671	a
+NA
 c
-965675	c
-965680	a
-a
-965685	c
-965693	c
-965696	c
-965698	c
-965701	c
 c
+NA
+NA
 a
-965705	c
-965716	c
-965723	a
-965726	c
+NA
 c
-965731	c
-965736	c
-965738	c
-965740	c
-c
 a
-965745	c
+NA
+NA
 c
-965748	c
+a
+NA
+NA
 c
 a
-965753	c
-965755	c
-det.
-det.
-965759	a
+NA
+NA
 a
 c
-a
-965771	c
-965774	c
 c
-det.
-965785	c
-965789	c
-965793	det.
-965795	c
-965799	a
-965801	c
-965808	c
-965811	a
-965817	a
 a
-965820	a
-965826	a
-965828	c
-965831	c
 a
+NA
+NA
 a
+NA
 a
-965837	c
-det.
-c
-det.
-c
+NA
 c
+a
+NA
 c
-det.
-965846	c
 c
-965849	a
 a
-965853	a
-965859	c
-965862	c
-965864	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
-965868	c
-965871	c
-det.
-det.
+NA
 a
-965876	c
-c
-det.
-965882	a
-965892	a
+NA
 a
-965895	det.
+NA
+NA
 c
-965898	c
-965900	det.
-965902	a
-965905	c
-965908	c
-965912	c
-965921	c
-965929	c
-965936	c
 a
-965940	det.
-965945	a
-965947	c
-965949	a
-965955	a
-965960	a
-965963	a
-965966	c
-965969	c
-c
-det.
-965974	a
-965977	a
-c
+NA
 a
-965984	a
+NA
+NA
 c
-965999	a
-966006	a
-966015	c
-966018	det.
-c
-c
 a
-c
-c
+NA
+a
+NA
+a
+NA
+NA
 c
-966027	c
-966030	det.
 a
-966033	c
-966035	det.
-966038	a
-det.
-966041	c
-966043	c
-966053	det.
-966056	det.
+NA
 a
-966059	c
-966061	c
-966066	a
 a
-966070	a
-966080	a
-966084	a
+NA
+NA
 a
-det.
-c
-966091	c
 a
-966094	c
+NA
 a
+NA
+NA
 c
 a
-966099	a
-966101	det.
-det.
-966104	c
-c
-966107	det.
-966109	a
-966111	c
+NA
 a
-966115	c
+NA
+NA
 c
 a
-det.
-c
+NA
 a
-966122	c
+NA
 a
-966125	a
-966128	a
-966131	a
 a
-966134	c
-det.
-966139	c
-966141	det.
 a
 a
-966145	a
-966147	c
-966150	c
+NA
+a
 c
-det.
-966156	c
 a
+NA
 a
-966160	c
 a
-966163	det.
-966165	det.
-966167	det.
-det.
-det.
-966171	c
+NA
+NA
 c
-966176	c
 c
-966179	c
-966181	c
-966185	c
-966193	c
-c
-966196	c
-966200	c
+NA
 a
-966203	c
-966205	a
-966212	c
-c
-966216	c
-966221	det.
-966223	a
-966228	det.
-966230	a
-966233	det.
-966235	c
-966238	a
+NA
 a
-966242	a
 a
-966245	c
 c
 a
-a
-det.
-det.
-966252	a
-a
+NA
 c
-966258	c
-966262	a
-966264	c
 a
-966269	c
-966271	a
-966279	c
-966281	c
-966283	c
-966291	det.
-966293	a
-966295	c
-966301	c
 a
+NA
 a
-966305	c
-966311	a
-966313	a
+NA
 a
-966316	det.
-966318	c
 a
-966323	c
-966325	a
 a
-966329	c
+NA
 c
 a
-966333	a
-966338	c
-966341	det.
-det.
-966344	det.
-966348	c
-966350	c
-966355	c
-c
+a
+NA
+NA
 c
-966359	c
+NA
 c
-det.
-966365	c
-966367	det.
-966369	det.
+NA
+NA
 a
+NA
 a
-966373	c
+det.
+NA
 a
-966377	a
-966379	a
 c
 a
-966385	a
-966387	c
+NA
+NA
 a
-966390	c
-966392	a
-966394	det.
-966397	a
+NA
 a
-966400	det.
-966402	det.
-966405	c
-966408	det.
-det.
+NA
 c
-966413	a
-966419	c
-966422	c
-966424	c
-det.
-a
-966430	c
 c
+NA
+NA
 a
-966434	det.
-966436	c
-966444	det.
-det.
-966449	c
-966452	c
-c
-966455	c
-966460	c
-c
-c
-966464	c
-966466	c
-966468	a
-966470	c
-c
-966475	c
-966480	a
-966483	c
-966485	c
-966487	c
-966489	c
-966493	c
-966497	a
+NA
+NA
+NA
 a
-966501	c
-c
-966504	c
-c
-966509	c
-c
-det.
-966515	c
-966517	det.
-966523	det.
-966525	det.
-det.
-966529	a
-966531	a
-966533	a
-c
-966538	c
-966542	c
-966547	a
-c
-c
+NA
 a
-966553	a
-966555	a
-966558	a
-966565	c
-966572	c
-966576	a
+NA
+NA
 a
-966580	c
-966583	c
-966587	c
-966591	c
-966593	c
-966599	det.
-966601	a
-966603	c
-966606	a
-966609	a
-966613	a
-966615	c
-c
-966625	c
+NA
+NA
+NA
+NA
 a
-966628	c
-966635	a
+NA
 a
+NA
 a
-966644	c
-966648	c
-966650	c
-966657	c
-c
-966662	det.
 a
-966668	a
-966671	a
-966673	a
-966676	a
-966679	det.
-966685	c
+NA
+c
 c
-966692	c
-966695	c
-966698	det.
-966700	det.
-966704	det.
-966706	c
-966709	c
 a
-966715	a
-966717	c
 c
-det.
-966721	a
+c
+NA
+NA
+NA
+a
+NA
+a
 a
-966724	a
-966734	a
-966736	c
-966743	c
+NA
 a
+c
 a
 a
+NA
 a
+NA
 c
-966754	c
+NA
+NA
+NA
+NA
 c
-966757	c
-966763	c
-966765	det.
-966769	det.
-966771	a
-966774	a
-966781	c
+NA
 c
-966788	c
-966790	c
-966792	c
+NA
 c
-966795	c
-966797	c
-966799	c
-966803	c
-966805	c
+NA
 c
-966809	c
-966812	c
-966815	c
-a
-966823	c
+NA
+NA
+NA
+NA
 c
+NA
 c
-966829	c
-a
 c
-a
-966836	a
-966839	c
-966841	c
-det.
-966845	c
-det.
-a
-966849	det.
-966851	c
-det.
-966857	a
-966859	a
-a
-966863	det.
-966865	c
-det.
-966868	c
-966872	det.
-det.
-966876	a
-a
-966880	a
-966883	c
-966885	det.
-966887	c
-a
-966892	a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
 a
-966895	c
-966897	a
+NA
 c
-966901	a
-966906	a
-966908	c
-966910	c
 c
-966913	c
-966919	det.
-966923	det.
-966925	det.
-966927	c
 c
-det.
-966935	a
-966937	det.
-966939	c
+c
+NA
+NA
+NA
 c
-966942	det.
+NA
+NA
+NA
+NA
 c
-966945	a
+c
+NA
+NA
 a
-det.
-det.
-966952	a
+c
 a
 a
 a
-c
-966960	c
-966962	c
-c
-966967	c
 c
-c
-a
-966972	c
+NA
 a
-966978	det.
-det.
-966981	c
+NA
 a
-966984	c
-966986	det.
-966989	det.
-966992	a
-966994	det.
-966998	a
-967000	a
-967004	a
-967007	a
-967009	c
+NA
+NA
+NA
 c
-det.
 a
-967015	c
-967018	a
-967020	c
+NA
 a
 a
-967024	a
-967026	c
+NA
+NA
+NA
 c
-967029	c
-c
+a
+NA
+NA
 c
-967033	c
-967035	c
+a
+NA
+a
 a
-967038	c
+NA
+NA
+NA
 c
-967042	a
-967045	a
-967047	a
-967049	a
-967053	a
-967058	c
+a
 c
-967063	c
-967068	c
-967070	c
-967072	c
-967075	c
+NA
+NA
+NA
 a
-967078	c
-det.
-det.
-967082	a
-967084	a
+NA
 a
 a
 a
-967089	c
-c
+a
+NA
+NA
 c
-967098	c
-967102	a
+a
+NA
+NA
 a
-967105	c
-967107	c
+NA
 c
-967110	c
-det.
-967113	det.
-967117	det.
-967120	c
-967123	c
-967129	c
-967139	c
 a
+NA
+NA
 a
+NA
+NA
+NA
 a
-c
-967145	c
-967147	a
-967150	c
-967155	c
-967157	det.
-967159	a
+NA
+NA
 a
-967164	c
-967169	det.
-967171	det.
+NA
+NA
+a
 c
-967180	a
-967182	a
+a
 a
-967186	c
 c
-967190	a
-967192	c
-967194	c
+a
+NA
 c
+a
+NA
 a
-967198	c
-967204	a
-967208	det.
-967212	det.
-967214	c
 a
+NA
 a
-967219	c
-967221	c
 a
 c
-967226	c
-det.
-967231	c
+a
+NA
 c
-967234	c
 a
-967239	c
-967245	c
-967247	c
-967250	c
-967252	a
-967254	a
+NA
 a
-967257	c
-967260	det.
-967263	c
 a
-967266	c
-967268	c
-967271	c
-967275	c
-967279	a
 a
-967283	c
-det.
-967289	c
-967292	c
+NA
+a
+NA
+NA
 c
-967296	c
-967300	c
-967304	det.
-967307	a
 a
-967310	c
-967312	a
+NA
 a
-967315	c
+NA
+NA
+NA
+NA
 c
-967319	a
-967321	a
-967323	c
-c
-967327	c
-967329	c
-967331	a
-967333	c
-967335	c
-967337	c
-967339	a
-967341	det.
-967344	c
-c
-c
-967349	det.
-967351	c
-c
-967366	a
-967368	a
 a
-967372	a
-967374	c
 c
-967378	a
-967380	a
+NA
+NA
 c
-967387	a
-967390	a
-967395	a
-967397	a
-967400	c
-967404	c
 c
-967407	a
-a
-967411	c
-967418	c
 c
-967422	c
-967428	a
-967430	det.
-967432	c
-967434	c
 c
-967439	c
+NA
 c
-det.
-967444	c
-det.
 a
-967448	c
-c
-967451	c
-967453	det.
-967460	a
-967464	c
-c
-967467	a
-967469	c
-967472	c
-det.
+NA
+NA
 a
-967476	det.
-967479	c
-det.
-967482	a
-967484	a
-967486	a
-967488	a
-967491	det.
-967494	det.
-967496	c
-967499	c
-967504	c
+NA
+NA
 c
-967509	a
-967513	a
-967515	c
+NA
+NA
 c
-967521	c
-967524	c
 c
-967530	c
-det.
-967538	det.
-967540	c
-967544	c
-967547	c
-967550	c
-det.
-a
-967559	c
-a
-967563	c
-967565	a
+NA
+NA
 c
 a
-967570	det.
-det.
-967573	a
+NA
 c
 c
-c
-967578	c
-c
-c
-c
-967585	c
-c
-det.
-967590	c
-967594	a
+NA
+NA
 a
-967597	c
 c
-det.
-967601	det.
+NA
 c
-967606	c
-det.
-967620	c
-967624	det.
-967626	c
-967629	c
-967634	c
-967636	a
-967639	a
+NA
+c
 c
-967642	c
-967646	a
-967648	c
-967651	c
-967655	c
-967658	c
 c
-967667	c
-967669	c
-det.
 c
-967677	c
+NA
 c
-967680	c
-967685	c
 a
-967690	c
-c
+NA
 a
-967695	c
-967697	c
-det.
-967700	c
+NA
+NA
+NA
 c
-967704	c
-967708	c
-967710	c
-967712	a
-967715	a
-a
-967718	c
-967722	c
 c
-967727	c
-967740	c
-967742	c
-967744	det.
-967749	a
-967752	a
-967754	a
-967756	a
 c
-967765	c
+NA
+a
+c
+a
+NA
+a
 c
-967771	c
 a
-967774	a
-967777	c
+NA
+a
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
 c
-967782	a
 a
+NA
+NA
 c
-967791	c
+a
 c
-967795	c
-967797	c
-967801	det.
-967803	c
-967805	c
 c
-967808	c
-967811	det.
-967815	c
+NA
+a
+a
 a
-967818	c
+NA
 a
-967824	c
-967827	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-967834	a
-967837	a
+NA
+c
+a
 a
-967841	det.
-967845	a
+NA
 det.
-967850	a
 a
+NA
+a
+NA
 c
-967855	a
-967860	a
-967862	a
-967866	c
-967868	c
-967871	c
-967873	c
-967876	c
+NA
 c
+a
+det.
+NA
+a
+NA
 c
-967880	a
-967882	a
-967884	a
-967889	c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
 c
+a
+a
+NA
+a
+NA
 c
-det.
-967896	a
-967899	c
 a
-967902	a
-967904	a
-967908	c
 a
 a
 a
-967913	c
 a
-967916	c
 a
-967923	c
+NA
 c
-det.
-967927	det.
-967930	c
 a
-967934	a
+NA
+NA
 a
-967938	a
-a
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-967942	a
-967945	a
-967948	a
-967952	c
-967954	a
+NA
 c
 c
+NA
+NA
 a
-967959	a
-967966	a
-967968	a
-967971	a
-967973	a
 a
-967976	a
-967978	c
 a
-967981	c
 a
-det.
+a
 c
-967986	a
-967989	a
 a
-967992	det.
-det.
-967996	a
-967998	a
+NA
+a
+c
 a
+NA
 a
-968004	a
-968006	a
-968008	c
-968010	c
+NA
+NA
 c
-968013	c
-det.
+NA
 a
-968017	a
 a
-968023	det.
+a
+NA
 c
-968026	c
+NA
+NA
+NA
 c
-968029	c
-det.
-968033	c
-968037	a
-968039	c
-968042	a
-968044	c
-968046	c
-968049	a
-968055	det.
-968058	c
-968061	c
-968064	c
-a
-968067	c
-968071	c
-968073	c
-968075	c
-968077	c
+NA
+c
+NA
 c
-968081	a
+NA
 a
-968088	c
+a
+NA
+NA
+NA
+NA
+a
+NA
 c
 a
-968093	a
+a
 c
-968096	a
-968098	c
-968101	a
 a
-968105	c
-968109	c
-968111	c
+NA
 c
 a
-968115	a
-968117	c
-968119	a
-968121	a
-968123	c
-968125	c
-det.
-det.
-det.
-968131	c
-det.
-968134	det.
-968136	c
-968138	a
-968141	c
-968143	c
-968147	c
 a
-968150	c
-c
-det.
-968154	c
+a
+a
+NA
+a
+NA
 c
-968157	a
-968160	c
-968162	c
-968166	c
 a
-968169	c
+NA
+a
+NA
+NA
 c
-det.
-968176	a
-968181	c
-968191	a
-968193	c
-968195	a
-968199	c
-968202	a
-968204	c
-968207	det.
-968214	c
-968216	c
+NA
+a
+NA
+NA
+a
+NA
 c
-det.
-968220	c
 a
-968223	c
-968225	a
 a
-968228	c
 a
+NA
 a
-968232	a
+NA
 c
-968235	c
-968240	det.
-968242	c
-968244	c
-det.
-968247	c
-det.
-968250	a
-968252	det.
-968254	a
-968256	a
-968258	a
-968260	c
-det.
 c
-det.
 c
 c
-det.
 a
-a
-968272	a
-968274	a
-det.
-c
 a
 a
-968280	det.
-968285	c
+NA
 c
+NA
 c
-968289	a
-968291	c
-det.
-968294	c
-968296	det.
-968298	a
+NA
 a
-968302	c
+NA
 c
+NA
 c
-968308	c
-c
-968312	det.
-968314	a
 a
-968318	a
-968321	a
-968323	a
-968328	det.
-det.
-968331	det.
-968333	det.
-968335	c
+NA
 c
-det.
 a
-968341	c
+NA
 c
-968344	det.
-det.
+NA
+NA
+c
+a
+NA
 a
-968348	det.
 a
-968353	c
+NA
 c
+a
+NA
 c
-det.
-det.
-968360	det.
-968363	det.
-968365	c
-968367	det.
-968369	det.
-968371	c
-968374	c
-det.
-968377	c
 a
-968384	det.
+NA
 a
-968387	det.
+NA
+NA
+NA
+NA
+NA
 c
-det.
+NA
+NA
+a
+NA
+NA
 c
+NA
 a
-968393	c
-968395	det.
-det.
+NA
+NA
+NA
 a
 a
-968400	det.
+NA
 a
-968405	a
-968407	a
-968409	det.
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-968412	a
-968414	a
-968417	a
-968419	det.
-968422	a
 a
-968427	det.
+NA
+NA
+NA
 a
-c
+NA
+NA
 c
-c
-968435	a
-968437	c
-det.
-968440	a
-a
-det.
+NA
 c
-det.
-968446	det.
+NA
 a
-det.
-968450	det.
+NA
+NA
 a
+NA
+NA
 a
-968456	c
 c
-968460	c
-c
-det.
-968465	c
+NA
 a
-968469	a
+c
+NA
 a
-968474	det.
-968478	a
-968480	a
-968482	a
-968486	c
-968498	c
-968500	a
+NA
+NA
 a
-968503	c
-det.
-968508	det.
-968510	a
-968512	a
-968516	a
-968519	det.
-968521	a
+NA
+NA
+NA
 c
-det.
-968525	det.
-968527	c
-det.
-968530	det.
-968533	a
+NA
 a
-968538	c
-968540	c
-det.
+NA
+NA
 a
-968544	a
+NA
 a
-968547	c
-c
-det.
-968551	det.
-968555	a
-c
-det.
-968559	a
-det.
-968565	c
+NA
 c
-968568	a
 c
 c
-968572	det.
-968574	c
-968580	c
-a
-c
-968584	det.
-a
-a
-968588	c
-968590	det.
-968594	c
+NA
 c
-det.
-968598	c
-968600	det.
-968603	c
 a
-968608	det.
-968610	a
-968614	det.
-968617	det.
-968619	a
 a
-968622	a
-968626	det.
-968628	a
-968630	det.
 a
+NA
 a
-968635	c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
 a
-968638	det.
 c
-968641	a
-968643	c
-968645	c
+NA
 a
 a
-968650	a
-968654	det.
-968656	a
-968658	a
-968660	a
-968664	c
-968676	c
-968678	a
 a
-968681	c
-det.
-968685	det.
+NA
 a
-968688	a
-968693	a
+NA
 c
-det.
-968697	det.
-a
-968700	a
+NA
+NA
 a
-968708	c
+NA
 c
-968712	a
+NA
+a
 c
 c
-968719	c
 c
-det.
-det.
-968724	c
-968727	a
+NA
+NA
 a
-968730	det.
-968732	c
-det.
-968735	det.
-968737	det.
+NA
 a
-968742	det.
-968746	c
-det.
-968749	a
-968752	a
-968757	a
+NA
+NA
+NA
 a
-968765	a
+NA
 a
-968768	a
-968770	c
-c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
 c
-968774	c
-det.
-968777	a
-968780	a
 a
-968783	a
 a
-968786	a
-968789	c
-968791	det.
-968793	c
-det.
-968796	det.
-det.
-968800	det.
-968804	c
-det.
-968807	det.
-968810	det.
-det.
-968813	c
-det.
+NA
+NA
+c
+c
 a
-968818	a
+NA
+NA
+NA
 a
-968823	c
+NA
 a
-968828	c
 a
-968832	c
-968837	c
-c
-968840	c
-968844	a
 a
-968848	a
 c
-968851	c
-det.
-968854	det.
-968856	a
-968858	c
-968860	c
-968863	det.
-det.
-968868	c
-968871	c
+a
+NA
+a
+NA
+NA
 c
 a
-det.
-det.
+NA
+a
+NA
 c
 c
-968881	c
-det.
-968884	c
-det.
 a
-a
-968891	det.
-det.
-968894	a
-968896	det.
-968898	det.
+c
 a
 a
+NA
 a
-968904	a
-968909	c
+NA
+NA
 c
-968913	c
-det.
-968916	det.
-det.
-a
-det.
-968921	det.
-968923	c
-det.
-968926	a
-968929	det.
-968931	det.
-968938	a
 c
-det.
 a
-968943	a
 a
-968946	a
-c
+NA
 a
-det.
-968954	c
-det.
-968957	det.
-968960	det.
-det.
-968963	c
-det.
-det.
-968967	c
-968971	a
-968974	a
-968979	det.
-968981	det.
-968984	det.
-968986	det.
-968988	a
 a
-968993	a
-968995	det.
-968997	c
-969003	c
 a
-969006	a
-969008	a
-969010	a
 c
-969019	c
-969023	c
-det.
-969028	a
-969030	a
-969035	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
 a
+c
 a
-969041	a
-969045	det.
-969048	det.
-969050	a
-969052	c
-det.
+c
 det.
+NA
 c
-969059	c
+NA
 c
-969063	c
 c
-969066	c
-969070	c
-det.
-969074	det.
-969076	c
-969078	c
+NA
+NA
 a
-969081	a
-969086	a
 c
 c
-det.
-det.
-969093	c
-969095	det.
-969098	c
 c
-det.
-969102	c
-969104	c
-969108	det.
-969112	c
-969114	c
-969118	c
 c
 a
-969122	a
+NA
 c
-969127	a
-969131	c
-det.
-969134	a
-969136	c
-969139	a
 a
 c
-det.
-969152	a
-969155	c
-969160	c
-969167	a
+NA
+NA
 a
-969170	a
-969172	a
+NA
+NA
 c
+NA
+a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-969178	c
-969184	det.
-det.
-969187	c
-det.
+a
+a
+a
 det.
-969191	det.
-969197	c
-969202	c
+NA
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
 c
-969206	c
 c
+NA
+a
+a
+NA
+NA
 c
+c
+NA
 a
-969214	c
+NA
 a
-969219	a
-969221	a
+NA
+NA
 a
-969224	a
-969232	c
-c
-det.
-969238	a
-969242	c
-969244	a
-969246	c
 a
-969250	c
-969256	c
-969260	c
-969264	c
 a
-969267	c
-969275	c
-det.
-969278	c
-969280	c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-969287	a
-969289	c
-det.
-969292	det.
-969294	c
-969296	a
-969301	a
-969303	a
-969305	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-969308	c
-969310	c
-969312	c
-det.
-969315	c
-969320	a
-969322	det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+c
+NA
 det.
-969326	c
+NA
 c
+a
+NA
+NA
 c
 a
-969334	a
+c
+NA
 c
-969340	c
+NA
 c
 a
-969344	c
+NA
+NA
+a
+NA
+NA
+NA
 c
-969347	a
-969349	c
+NA
+NA
+NA
 c
 a
-969353	c
-969355	c
+NA
 c
 a
-969359	c
+NA
 c
+NA
 c
 a
-c
-969365	c
+NA
 c
-a
-969369	c
-a
-a
-969374	c
 det.
-969377	c
+NA
 c
+NA
 c
 a
+NA
+c
 c
+NA
 c
+a
+c
+a
+NA
 c
+NA
+a
+NA
+NA
 c
 c
-969387	a
-969389	a
-969393	a
-969397	c
-969400	c
 c
-969404	c
-969406	c
-969409	c
-969412	c
-969416	a
-969419	a
-969421	c
 a
-969427	c
+NA
 c
+NA
 a
-969432	c
+NA
 c
 c
 a
-969438	c
+NA
+a
 c
+a
+NA
+a
 c
 c
 a
+NA
+c
 a
-969445	c
+NA
 a
-969449	c
+NA
 c
 c
-a
-969454	c
+NA
+NA
+c
+NA
+NA
 c
-969457	c
 c
+NA
+NA
+NA
+c
+a
+NA
+NA
 a
-969462	c
+NA
 c
-969466	c
+NA
 c
+NA
 c
+NA
+c
+NA
 a
+NA
+c
+NA
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
 c
-a
-det.
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
 c
 a
+NA
 c
+NA
+NA
 c
-969482	c
+NA
 c
+NA
+c
+NA
 a
+NA
 c
+NA
 c
+NA
 c
+NA
+a
+NA
 c
+NA
 a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
+a
+NA
+a
+a
+a
+NA
 a
+NA
 c
-det.
+a
+NA
+a
+NA
 c
-969496	c
+NA
 a
-969499	a
-969501	a
-969504	c
+NA
+NA
 c
+NA
+a
+NA
 c
 a
+NA
+NA
+NA
+NA
 c
 c
 a
-a
-969514	c
+NA
+NA
+c
+c
 a
-969517	c
+NA
+NA
+NA
 c
 a
-969521	c
 a
-969524	c
 c
-969527	c
-a
+NA
+c
 a
+NA
+NA
+NA
 a
-969532	c
+c
+NA
 c
+NA
+NA
 a
-969536	a
-969538	c
+NA
+NA
 a
+NA
 a
-969542	a
-969544	a
-969546	c
-c
-969549	c
-969552	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-969556	c
+NA
 c
 a
+NA
 c
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-969563	c
+NA
 c
+NA
 c
 c
-a
-969570	c
 c
-969576	c
-969579	c
 c
+NA
+NA
+NA
+a
+NA
+NA
 c
-969583	c
 a
-969586	c
-969588	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+NA
 c
 c
 a
-969594	c
-c
+a
+NA
+NA
+NA
+a
+a
+a
+NA
 c
-det.
-969599	c
 c
-969602	c
+a
+NA
+NA
+NA
+a
+NA
+NA
 a
+NA
+a
+NA
 c
+NA
+a
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
+a
+NA
 c
-969608	c
-969610	c
-969612	a
+NA
+NA
 c
+NA
+NA
+NA
 c
-det.
-969618	a
+NA
+NA
 c
-969621	a
-969623	a
-969626	c
-969629	c
-969632	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
 a
-969637	a
-969639	c
 c
-969642	det.
-969644	c
 a
-969649	c
+NA
 a
-c
-969657	c
+NA
 c
-c
-969662	a
+NA
 a
-969665	c
-969667	c
-a
+c
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-969674	a
-det.
-969677	c
-a
-969682	a
-969684	c
-969686	c
+NA
+NA
+NA
 c
-c
-969690	c
+a
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-969695	c
+NA
+NA
+NA
+NA
 a
 a
 a
-969700	c
-c
+NA
+NA
 a
-969704	a
 a
 a
-969711	a
+NA
+NA
 c
-969714	a
-969716	c
-c
-969719	c
-969722	c
 a
-969725	a
-969728	c
-c
 a
-969738	a
+NA
+NA
+NA
 a
-c
-969742	c
+NA
 a
-969747	c
-969753	c
-c
 a
 a
+NA
 a
-969760	c
-969762	c
+NA
+NA
 a
-969766	c
+NA
 a
 a
-969770	a
-969772	c
-969777	c
-969779	c
 a
+NA
 c
-969783	c
 a
-969786	c
+NA
 c
+NA
 c
-a
-969791	c
+NA
+det.
+c
+NA
 a
-969794	c
+NA
+c
 c
 c
 a
 a
-c
 a
-969802	c
-969805	c
-c
-969808	c
-969810	c
+NA
 a
-969817	c
 c
-c
-a
-969823	c
 a
 c
 a
 a
-969830	c
-969832	c
-969834	a
-969836	c
+NA
 a
-969840	c
+NA
 c
 a
 c
-969846	a
-969849	a
-969852	det.
-det.
-a
-969856	c
 a
-969859	det.
-969861	c
-a
-a
-969865	c
 c
 a
+NA
+det.
+c
 a
-969870	a
+NA
 c
 c
 a
-c
 a
-969877	c
-det.
-969880	det.
-969882	c
-969884	c
-c
-969888	a
-969891	c
+NA
+a
+NA
 a
 a
-969895	a
+NA
 c
 c
+NA
 c
 a
-969901	c
-det.
-969904	c
-det.
-969907	c
-c
-969911	det.
-det.
 a
-969915	a
-c
+NA
 a
+NA
 a
 a
-969921	det.
-det.
-969924	a
 c
-969929	det.
-det.
 a
-969933	a
+NA
 c
 a
-c
-969938	c
-det.
-969941	c
-c
 a
-969945	c
 a
-969948	a
-c
-969953	det.
-det.
+NA
 a
-c
-c
 a
+NA
+NA
+NA
 c
+NA
 a
-c
-c
+NA
+NA
 c
+NA
 c
 c
-c
 a
-c
+NA
+NA
 c
-c
 a
-c
-c
-c
 a
-969977	c
-969979	c
-c
 a
-c
-969984	c
-969986	c
+NA
+NA
+a
+NA
 c
-969989	c
+NA
+NA
+NA
 c
 det.
-969993	c
-c
-c
-c
+NA
+NA
+NA
 c
 a
+NA
+NA
 c
+NA
 c
-c
 a
-970004	c
-970007	c
+NA
 c
-det.
+NA
+NA
 c
-a
-970015	c
+NA
+NA
+NA
 c
-det.
-970019	c
-970022	c
+NA
 c
-970025	c
-a
-970028	c
+NA
 c
+NA
+NA
+NA
+NA
 c
-970032	a
-970034	c
 a
-970038	a
+NA
 c
-a
-det.
-970043	c
-970046	c
 a
-970049	c
-c
+NA
 a
+NA
+NA
 c
 c
-c
-970058	c
-c
-a
-970062	a
-c
 a
-970066	a
-970068	c
-c
+NA
 a
-970074	c
+NA
+NA
 c
-970078	a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-970082	c
-c
+NA
+a
+NA
+NA
+NA
 c
-det.
-970087	c
 a
-970091	c
+NA
+a
+NA
 c
-970094	c
 a
-970097	c
+NA
+NA
+NA
 a
-970100	a
+NA
+NA
+NA
+NA
+det.
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-970105	c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-970109	a
 c
-a
-970113	c
-a
-970118	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
 c
+NA
+NA
 c
-a
-970125	a
+NA
+NA
+NA
 c
-970128	c
 a
-970131	c
-c
-970137	c
-c
+NA
+NA
 a
-970141	c
 c
+NA
+NA
 c
-a
+NA
 a
-det.
+NA
+NA
+NA
 c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-970151	c
-a
-970154	c
 c
-970159	c
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
 a
-970163	a
+NA
 c
+NA
 c
-det.
-det.
-970169	a
 a
-970172	det.
-970174	c
-a
-det.
-970178	c
+NA
+NA
+NA
 c
-a
-970182	c
-a
-970185	c
-det.
-970189	c
-a
 c
 c
-970194	c
 c
-a
-970198	c
 c
+NA
+NA
+NA
 c
-970205	c
-970208	a
 a
-970211	c
+NA
+NA
+NA
+NA
+NA
 a
-970214	c
 c
 a
-970218	c
+NA
 c
 a
-970222	a
-970224	c
+c
+NA
+NA
+NA
+NA
 c
 a
-970228	c
 a
-970231	c
-c
+NA
 a
-970235	c
+NA
+NA
 c
-970239	c
+NA
+NA
 c
+NA
+NA
 c
+a
 c
 a
-970245	c
 c
+NA
 c
 c
-970250	c
-970252	c
 c
-970255	a
-970257	c
-a
-970261	c
-970263	c
+NA
+NA
 c
 c
+NA
+a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
 a
+NA
+NA
+NA
 c
+a
+NA
 c
-970270	c
+NA
+NA
 c
 c
-970274	a
-970276	c
-970278	c
+NA
 c
 a
-970282	c
-c
 a
-970286	c
-det.
-970290	c
-970292	c
 c
 a
-970296	c
+NA
+c
+NA
 c
+NA
+NA
 a
-970301	c
-970304	c
-970306	c
 c
-970309	c
-970311	c
+NA
+NA
 c
+NA
 c
-970315	c
 a
 a
-970320	c
-a
-970324	c
+NA
 c
+NA
 c
-a
-970329	c
-a
-970332	a
-970334	c
-a
-970337	c
-a
-970340	c
+c
 a
-970345	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
 a
+NA
 c
 a
-970352	c
-c
-970356	c
+NA
+a
+NA
+a
+NA
 c
+NA
+NA
 c
-970360	a
+NA
+NA
+NA
+NA
+NA
 c
-a
-970364	c
+NA
+det.
 a
 a
+NA
+NA
+NA
 a
 a
-970370	c
+NA
 c
+NA
+NA
 a
-970374	c
 a
-c
+NA
 c
-c
 a
-c
-c
-970383	c
-c
-c
+NA
+a
+NA
 c
 c
 c
 c
 a
+NA
 a
-a
+NA
 c
+NA
+NA
+NA
+NA
 c
-a
-970397	a
-det.
-970400	c
-a
 a
+NA
+NA
 c
+NA
+NA
 a
-c
 a
+NA
+NA
 c
+NA
+NA
 c
+NA
 c
 a
+NA
 c
 a
-970415	c
-c
-c
-c
+NA
 a
-970421	c
-970423	c
-970426	c
-c
-c
+NA
+NA
 c
-970431	c
-c
-970434	c
+a
+a
+NA
+NA
+a
+NA
+det.
+NA
+NA
 c
+a
 a
 a
+NA
 c
+NA
 c
 a
 c
 a
-c
+NA
 a
-c
+NA
+NA
+NA
+NA
 a
-970448	c
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
 c
 a
-a
+NA
+NA
 c
+NA
 a
-970457	c
+NA
 c
 c
 c
 c
-970464	c
+NA
+NA
 a
-970468	c
+NA
 c
 c
-970472	c
+NA
+NA
 det.
-a
-a
-970477	c
-a
 a
-970481	c
-det.
-970484	c
+NA
 c
-det.
-970489	c
-a
-970494	a
-970498	c
 c
-a
-970502	c
 c
-970506	a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-970511	a
+a
+NA
+c
+NA
+a
+NA
 c
-970514	c
+NA
+NA
 c
 c
 a
-970522	a
 c
 c
-det.
+c
 det.
-970528	a
-970530	a
-a
+NA
+c
+c
+c
+NA
+NA
 a
-970534	c
+NA
 a
+NA
 a
+NA
 a
+NA
 a
-970540	c
+NA
+NA
 a
-970544	a
-970547	c
+NA
 a
-970551	c
+NA
 a
-c
-970555	c
 c
-c
+NA
 a
-970560	c
-c
+NA
+NA
 c
 c
-c
-a
+NA
 a
-970568	c
 a
-970571	c
+NA
 c
+NA
 a
-det.
+NA
+NA
+c
 c
+NA
 a
-970578	c
 a
-970581	c
+NA
 c
-970585	a
-970587	c
-a
-970590	c
+NA
+NA
 c
-det.
-970596	c
 a
-970599	c
-det.
-970602	a
-970604	c
+NA
+NA
+NA
+NA
+NA
+c
+c
 a
+NA
 c
-det.
-det.
-970610	c
 c
-970613	c
+NA
 c
+NA
+NA
+NA
 c
 a
-970618	a
-970621	c
+NA
+NA
 a
-970624	a
-det.
-970627	c
-970629	c
 a
-970632	a
-970634	c
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
+a
+NA
+NA
 c
+NA
+NA
+NA
 c
-970642	a
 c
 a
-970647	c
-a
-970650	c
+NA
+NA
 c
-a
-a
-970655	c
-det.
-970658	c
 c
+NA
+NA
+NA
+NA
+det.
 c
+NA
+NA
+NA
 a
 c
+NA
 a
-970666	c
-c
-c
-970671	c
-c
+NA
 a
-970675	c
 c
-970680	c
-c
+NA
 a
-970684	a
-970688	c
+NA
 c
-970692	a
+NA
 c
 a
-c
+NA
+NA
 a
 a
-970699	det.
+NA
 a
-970702	c
-970705	a
-970707	c
-970709	c
-c
+NA
+NA
 a
-970713	a
-970716	c
+NA
+NA
+NA
 a
+NA
+NA
 a
-c
+NA
+NA
 a
+NA
 c
 a
+NA
 c
+NA
 a
+NA
+NA
 c
 a
-970728	a
-c
-c
-970733	c
-970736	c
+NA
 c
 c
-c
-970741	c
-970746	a
-970748	c
-970756	c
+NA
 a
-970759	c
+NA
+NA
+NA
+NA
 c
 a
-970765	a
-c
-c
-c
-c
-970771	c
-c
-c
-c
-970776	c
-c
+NA
+NA
+NA
 a
-970780	c
-c
 a
-970785	c
-970788	a
+NA
+NA
+NA
 c
 a
-970794	c
-a
-970798	c
+NA
 c
-970803	c
+NA
 a
-970807	c
-970809	c
-c
 c
-c
-c
-970815	a
-c
-c
 a
-970820	a
+NA
+NA
 c
-970823	c
+NA
 c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+det.
+NA
 c
 a
-970828	a
+NA
+NA
+NA
 a
-970831	c
-c
-c
+NA
 a
-970836	c
+NA
+NA
+NA
+a
+a
+NA
+NA
+det.
+NA
 c
-970840	c
+NA
 c
 c
+NA
 a
-970845	c
-c
-970848	a
-970850	a
-970852	c
+NA
 a
 a
 a
+NA
 c
+c
 a
 c
+NA
 c
 a
 a
+NA
 a
-970867	c
-det.
-970870	c
 c
 a
+NA
+NA
+c
+NA
+c
 c
+NA
+c
 a
+NA
+NA
 a
-970877	c
-970879	c
 a
-c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-970885	c
-970889	a
 c
+NA
+NA
+NA
 c
-970893	c
-c
-970897	c
+a
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
 a
 a
 a
+NA
 a
-970906	c
+NA
+NA
 a
-970911	c
+NA
 c
 a
-970915	c
+NA
+a
+NA
+NA
+NA
+a
 c
+NA
+a
+NA
 c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+det.
+a
+a
+NA
+NA
+NA
 a
 c
-970922	c
-970924	c
+NA
+NA
+a
 c
-970928	a
-970930	a
-970932	det.
-970934	a
-970936	c
-det.
-970940	c
-det.
-970943	a
-970945	det.
-970947	a
-970949	c
+a
+a
+NA
+a
+a
+NA
+NA
+NA
 det.
-970954	c
 det.
-970958	c
-970963	a
-970965	c
-c
 det.
-970969	c
+NA
+NA
+NA
+NA
+NA
 a
 a
-970973	a
-c
+NA
+NA
 a
+NA
 a
-970980	c
-c
-c
-c
-970985	a
-c
-970988	a
+NA
+NA
+NA
+a
 c
+NA
+NA
+NA
 c
+NA
+NA
+a
+NA
 c
-det.
-970994	c
+NA
+NA
+NA
 c
 a
-970999	c
-a
+NA
 c
 a
-971004	c
-971006	a
-c
+NA
 c
+NA
+NA
+NA
 c
-971013	c
-c
 a
-971017	a
-971019	c
-c
 a
-971024	c
-c
-971027	det.
-971029	c
-c
-c
-971033	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
 a
-971039	c
-c
 a
-971044	c
-det.
+NA
 a
-971048	c
 c
-971051	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
+a
 c
 a
-971057	c
+NA
+c
 a
+NA
+NA
+NA
 a
 a
-971062	c
+NA
 c
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-a
+NA
 c
+NA
 c
-971073	c
+NA
+NA
 c
 a
+NA
+NA
 c
+a
+NA
+NA
 c
+NA
 a
+NA
+a
+NA
 c
+NA
 a
 a
-971083	c
+NA
+NA
+NA
+c
 a
+NA
+NA
 c
+NA
+NA
 c
 a
-971089	c
+NA
 a
+NA
 c
 a
-971095	c
+NA
 a
-c
+NA
+NA
+det.
 a
+NA
 a
+NA
+NA
 a
-971102	c
+NA
+c
 a
+det.
 a
-c
-c
+NA
 a
+NA
 a
-971110	c
+NA
 c
 det.
-971114	c
 c
-c
-c
-c
-c
 a
+NA
 a
-971123	c
+NA
 c
-c
-det.
-971129	c
-971131	a
-971134	a
-c
-971138	a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
 c
-det.
-971142	c
+a
 det.
-971145	c
+NA
 a
 a
+NA
+NA
 c
 a
-971151	c
+det.
 a
+NA
+det.
+NA
 c
-a
-971156	c
-971158	c
 a
+NA
 c
+NA
 c
-971164	c
+c
+a
+NA
 a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
 a
-971172	c
-det.
-971175	c
-c
-971181	c
 a
+NA
+NA
 a
 c
 c
-a
 c
+NA
 c
+NA
+NA
+NA
 a
-971191	c
+NA
+NA
+NA
+NA
+c
+c
 a
+NA
+NA
 c
+NA
 c
+NA
 c
+NA
 a
+NA
+NA
+c
 c
+a
+NA
+a
 a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
 c
+NA
 c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
 a
-971203	a
-971205	c
+NA
 a
+NA
 c
+NA
 a
+NA
+NA
 a
-c
+NA
 a
+NA
+NA
 a
-c
+a
+NA
 c
+NA
 c
+NA
 c
 a
+NA
+NA
+NA
 a
-c
-c
 a
-c
+NA
+NA
 a
-971225	c
-c
-c
 a
-971230	c
+NA
 c
+NA
 a
-971234	a
+NA
+NA
+c
+NA
 a
+NA
+NA
 a
+NA
 c
+NA
+NA
 c
-971240	c
 c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
 c
 a
-971245	c
-det.
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
 det.
-971252	c
+NA
+NA
+NA
 c
+a
+NA
 c
 a
-971257	a
-971261	c
+NA
 a
-971265	c
-c
-c
-c
+NA
+NA
 c
+NA
+NA
 a
+NA
 c
+NA
 a
-a
-971276	a
+NA
 c
 c
-a
 c
-a
-971283	c
-a
-971286	a
 a
+NA
 c
-c
-971291	c
-971293	a
+a
 det.
+c
 a
+NA
 a
-971300	c
-det.
-971303	c
+NA
+NA
+NA
+c
+NA
+NA
 a
-971307	c
+NA
+c
 det.
-971312	c
+NA
+NA
+NA
+NA
 c
 c
+NA
+NA
+c
 a
-971317	c
+NA
+NA
+NA
+NA
+NA
 a
-971320	c
-c
 c
+NA
+NA
 c
 a
-c
-c
+NA
 a
+NA
 a
-971330	a
-971332	det.
-det.
-971335	c
-c
-det.
+NA
+a
 det.
-971341	c
+NA
+a
+NA
+NA
 c
+a
 c
-971346	c
-det.
-971349	c
 a
-971353	c
+NA
 c
+NA
+NA
 c
-971357	c
+NA
 a
+NA
 c
+NA
+a
 a
 a
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 a
-971367	c
+NA
 a
-971370	c
+NA
 a
-971373	c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
 a
+NA
+c
+NA
 c
+NA
+NA
+c
+a
+NA
 a
+NA
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
+a
+det.
 c
+c
 a
+NA
+NA
 a
 a
+det.
+NA
+c
 a
-971385	c
 c
-det.
-971389	c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-971393	a
+det.
+NA
 c
-971396	c
 a
-971399	c
+NA
+NA
+NA
 c
+det.
+NA
 c
+NA
+NA
+NA
 c
+NA
+NA
 a
-971406	c
-c
+NA
 a
 a
-971411	c
-c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 a
+NA
 a
-971416	c
-c
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-971420	c
-971423	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-a
-971428	c
 c
+NA
 c
 c
+NA
 c
-971434	c
 c
+NA
 c
-971441	a
+NA
+det.
 c
-971444	c
+NA
 c
-a
-971448	c
+NA
+det.
+NA
+NA
 c
+NA
+a
 c
-971452	a
+NA
 c
+NA
+a
+a
+NA
+NA
 c
-971456	c
 c
+NA
 c
-det.
-971462	c
-971464	c
+NA
 a
-971467	c
 c
 a
+NA
 c
-c
-971473	a
-c
-971476	c
 a
-971480	c
-a
+det.
+NA
 c
+NA
+NA
 a
-971485	c
 a
-971489	c
-c
-c
+NA
 a
-971494	c
 c
+NA
 a
-971498	c
+NA
+NA
 a
+NA
+c
+NA
 a
+NA
+NA
+c
+NA
 c
 det.
+NA
+NA
 a
-971505	a
 c
+a
+a
+NA
 c
 a
+NA
+NA
 a
-971511	c
-971514	a
-971516	c
 a
-971521	a
-971523	a
-971526	c
 a
-971533	a
-971538	c
-971542	c
-c
-971546	c
-971549	c
-c
-971552	c
-971556	c
+NA
 c
-c
-c
+a
+NA
+NA
+a
+NA
+NA
 c
+det.
+NA
+NA
+a
 a
+NA
 a
-971564	c
+NA
 a
-971567	c
+NA
+a
+NA
 c
-971570	a
-971573	a
-971575	c
-971577	a
-971579	c
-971581	c
+a
+NA
+NA
 a
-971584	c
-971586	c
+NA
+c
 a
-971589	c
+NA
+c
+NA
+NA
 c
-971593	c
+a
+NA
+NA
 c
+a
+NA
+det.
+NA
 c
-971598	c
 a
+NA
+NA
 c
+a
+det.
+NA
 c
+a
+NA
 a
-971604	c
-971606	c
 a
 c
 a
+NA
+NA
+c
 a
+NA
 a
+NA
 c
 c
 a
+NA
+c
 c
+a
+NA
 c
-971618	c
+NA
 c
 a
-971622	c
+NA
+NA
 c
 a
-971626	c
-971628	c
+NA
+c
 a
-971631	c
+NA
 c
 c
+NA
 a
+NA
+NA
 a
-971637	c
 a
-971640	c
+NA
 c
 a
-971646	c
+NA
 c
-c
-c
 a
-det.
-971653	a
-c
-det.
-971657	c
+NA
+NA
+NA
+NA
+NA
 c
+a
 c
 c
+NA
+NA
 c
-971663	c
+NA
 c
+NA
+NA
 c
-a
-971670	c
-a
-971673	c
 c
 c
 c
-971678	c
-971680	c
+a
+NA
 c
-971684	c
+NA
 c
-971688	c
 a
-971691	a
+NA
+NA
 c
 c
 a
-c
+NA
+NA
 c
+NA
+det.
+NA
 c
 a
+NA
+NA
+NA
+NA
 a
 a
-971702	a
-971704	c
-971707	c
-c
+NA
 c
+NA
 c
 a
+c
 a
-971716	a
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
 c
+NA
 c
-971722	c
+a
+NA
 c
-971726	c
-971729	c
 c
-a
-971733	c
 a
-971736	c
+NA
+NA
+det.
+c
+NA
+NA
 a
-971739	c
+NA
 c
-971744	det.
-971746	det.
+NA
+NA
 c
 c
-971751	c
+det.
+NA
 a
-971754	a
+NA
 c
+a
+NA
 c
-971760	c
-971765	c
+NA
 c
-971770	c
 a
-det.
-971774	a
+NA
 c
+NA
 c
-det.
-971779	c
-det.
+NA
+NA
+NA
+NA
 c
-a
+NA
 c
-det.
-971787	c
-a
-971790	c
-971792	det.
-971795	a
+c
 a
-971799	a
-971801	c
-971804	c
-971806	c
+NA
+c
+NA
+NA
 c
+NA
+NA
 c
-971810	c
-971813	c
 a
-971817	det.
-971819	c
+NA
+NA
+NA
+NA
 c
+a
+a
+NA
+NA
+NA
+NA
+c
+NA
 det.
-971823	a
+NA
+c
+NA
 det.
-971826	c
 det.
-971829	c
 a
-971834	c
-c
-971838	det.
+NA
 a
-971841	c
+NA
+NA
+NA
 c
-a
-971845	c
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
-971849	c
-971851	c
-971853	c
 c
-971857	c
-971860	a
-det.
-971864	c
-971867	c
-a
+NA
+NA
+NA
 c
-971872	det.
-a
-971875	c
+NA
+NA
+NA
 c
-971878	a
-971880	c
-a
+NA
 c
-971885	det.
-det.
-971889	a
-det.
-det.
-971893	c
-det.
-a
-971898	c
-971900	c
+NA
+NA
+NA
+NA
+NA
 c
-971903	c
-971905	a
+NA
+c
 a
-971911	c
+NA
+c
 a
-971914	a
-971916	c
 a
 c
-det.
-971923	c
-det.
-971926	det.
+NA
 det.
-971934	c
-971938	c
+NA
 a
-971944	a
 c
-971948	a
-971951	c
-971953	a
-971955	a
-971960	a
 a
-971964	c
-c
-a
-971968	a
-971974	c
-971978	det.
-971986	det.
+NA
 a
-971990	c
+NA
 a
-971993	c
-971995	a
 a
+det.
+NA
 a
 a
-972001	a
-972003	a
-972006	a
-972014	c
-972019	c
 a
-972026	a
-972033	c
+NA
+c
 a
-972038	a
-972040	c
-972044	c
-972050	c
-972052	a
-972054	c
-972057	c
+NA
+NA
 c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
 a
-972063	c
-972065	c
 c
-972069	a
-972071	c
 a
-972076	a
+NA
+NA
+NA
+NA
 a
-972079	c
+NA
 c
+NA
+NA
 c
-972084	c
-972086	c
-972088	a
-972090	c
-972092	a
-972097	c
+NA
 a
-972101	c
+NA
 c
-a
-a
-972106	a
-972109	a
-972111	c
 c
-972115	c
+NA
 c
 c
+NA
+c
+c
+c
+NA
+NA
+NA
+a
+c
+NA
+c
+NA
 a
+NA
+NA
 c
+a
+NA
 c
-972122	c
+NA
+NA
 c
-972130	c
 a
-972133	a
-972135	c
-972138	a
+NA
+c
+c
 a
+NA
+NA
+c
 c
+c
+a
 c
 c
-972145	c
-972147	a
-972149	c
-972152	c
-972155	c
+NA
+NA
+NA
+NA
 c
-972158	c
 c
-972161	c
-972163	c
-972165	a
-972168	a
-972173	a
-972177	c
+NA
 c
 c
 a
-972182	c
+NA
+NA
 c
 c
-972186	c
-972190	a
-972194	det.
-det.
+c
+NA
 c
-972199	c
+a
+NA
+NA
+NA
 c
 a
 a
-972205	c
+NA
+NA
 c
-972208	c
-972213	a
-972217	c
-972219	c
-972221	c
 c
-972225	a
-972230	c
-972232	c
-972234	c
-972237	c
-972242	c
-972244	c
-972246	det.
-972248	c
-972252	c
-972254	c
 a
-972259	a
-972264	a
-972268	c
+NA
+NA
+NA
+NA
+NA
 c
-972271	c
-972274	a
-972276	c
-972282	c
 a
-972286	det.
-det.
+NA
+c
 a
-972293	a
-972295	c
-det.
-972299	a
-972301	a
-972303	a
+NA
+c
 a
-972308	c
-972311	c
-972313	c
+NA
 c
 c
-972317	c
 a
+NA
+NA
+NA
 a
-972321	c
 c
+NA
 c
-972327	c
-972329	c
+NA
+a
 a
-972334	a
-972341	c
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-det.
-972347	c
-972350	c
-a
-972353	c
-972355	c
-972359	c
 c
-972363	c
+NA
 a
+det.
+NA
 c
+NA
+NA
+NA
+NA
+c
 a
-972368	c
+NA
 a
+NA
+NA
+NA
 c
-972372	c
-a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 a
-972377	a
+NA
 c
-972380	c
-972382	c
 a
-972388	c
-972392	c
+NA
 a
-972395	c
+NA
+c
+NA
+NA
+NA
+NA
 a
-972408	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
 a
+NA
+NA
+NA
 c
 a
-972422	a
-972424	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
-972429	a
-c
-972434	c
+NA
+NA
 a
-972437	a
+c
+NA
+NA
+NA
 a
-972443	a
-972445	a
-972447	a
 c
-972452	c
+det.
+NA
+NA
+a
 c
-972458	c
-972461	a
-972465	a
-972467	c
-972469	c
-972473	c
-972475	a
-972484	a
-972488	c
+NA
+NA
 c
-972491	c
-972495	a
-972498	c
-972506	det.
-972508	c
+a
+NA
+NA
+a
 c
-972511	c
+NA
+NA
 c
+det.
+NA
+NA
+a
 c
-972518	c
-972526	c
-972530	c
+NA
+NA
 c
 a
-972534	a
-972537	c
+NA
+NA
+a
 c
-972541	a
+NA
+NA
 c
-972544	a
-972546	a
-972548	c
 c
+a
+NA
+NA
+a
 c
-972552	c
-det.
-972557	c
-972559	c
+NA
+NA
 c
-a
-972563	a
-972565	c
 c
-972569	a
-972572	c
-a
-972575	c
+NA
 c
+NA
+NA
+a
 c
-972579	c
-972583	a
-972585	a
-972587	a
-972591	c
+NA
+NA
 c
 a
-972595	c
+NA
+c
 a
-972598	a
-972601	c
-det.
-972604	c
+NA
+NA
 a
+c
+NA
+NA
 a
+NA
 c
+a
+NA
 c
+NA
+NA
 a
-972611	a
-972613	c
 c
-972616	c
+NA
+NA
 c
 a
+NA
+NA
 a
+c
+NA
+NA
+c
 a
-972626	c
-972630	c
-972633	c
+NA
+NA
 a
-972639	c
 c
-972642	c
+NA
+NA
 c
-a
-972646	a
-972650	a
-972656	a
-972661	a
+NA
+NA
+NA
 a
-972669	a
+c
+NA
+NA
 a
-972673	a
-972676	c
-972679	c
-972681	c
+NA
 a
-972686	c
+NA
+NA
 a
-972691	c
-972693	c
-972696	c
-972698	a
-972704	c
 c
-972708	c
+NA
+NA
 c
-972713	c
-972717	c
 c
-c
-972721	c
+a
+NA
+NA
 a
-972725	c
 c
-972729	a
+NA
+NA
 a
-a
-972735	a
-972738	c
-972743	c
-972745	c
+NA
 c
-972749	c
-972751	c
-972756	a
-972758	c
+a
+NA
 c
-972765	c
-972767	c
-972774	a
 c
-972779	c
-972783	c
+NA
 c
-972786	c
-972791	c
+a
 c
 c
-972795	c
-972799	a
+NA
+NA
+NA
 a
-972805	a
-972807	c
-972809	c
-972815	c
-972819	c
-972823	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 c
-972826	c
-972834	c
-972836	c
-972845	c
-972847	a
-972849	c
-972852	a
+NA
+NA
 c
 a
-972856	a
-972860	c
-972863	a
-972866	c
-972872	c
-972875	c
-972878	a
-972881	a
-972884	a
-972887	a
-972891	a
+NA
+NA
+NA
 a
-972896	c
-972899	a
-972902	c
-972908	c
-972912	a
-972915	c
+NA
 c
-972920	c
-972923	c
-972930	c
-972932	c
-972940	c
+NA
 a
-c
-972947	a
-972951	c
-972956	c
-972958	a
-972961	c
-972970	det.
-972973	c
-972976	a
+NA
+a
 c
-972979	c
-972981	a
+NA
+NA
+NA
 a
-972986	c
+NA
+a
+NA
+NA
 c
-972994	c
-973000	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-973005	c
-a
-973008	c
-973012	c
-973015	a
-973019	a
-973021	c
+NA
+NA
 c
-973024	c
-973026	a
-973028	c
-973030	a
-973033	a
-973035	c
-973038	a
-973042	c
-a
-973045	a
-973049	a
-973054	a
-973057	c
+NA
+NA
+NA
 c
-973060	c
-973063	c
-973065	c
-973068	c
-a
+NA
 c
+NA
+NA
 c
 a
-973077	c
+NA
+NA
+NA
 c
-a
-973081	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 a
-973089	a
-973091	a
-973094	a
-973096	a
+NA
+NA
+NA
 c
+NA
 a
+NA
 c
-973101	c
-973103	c
-973105	c
-973108	a
-973110	a
+NA
+NA
+NA
 a
+NA
 c
-973115	a
-973117	a
+NA
+NA
 a
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
-973121	a
 c
+NA
+NA
 c
+NA
+NA
 c
-973127	c
-973133	det.
-973138	c
-973141	c
-973143	c
 a
-973147	c
+NA
+NA
+NA
 c
 c
-973151	c
-973153	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-973156	c
-c
-973160	a
-973164	a
 a
-973168	c
-973172	c
 a
-973176	c
-c
+NA
 c
-973180	c
-973183	c
-973187	det.
-973193	c
-973199	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
+NA
 c
-973204	a
-973207	c
-973211	a
-973213	c
+NA
 c
-973216	a
+NA
+NA
 c
+NA
 c
-973220	c
-973223	c
-973225	c
+a
+a
+NA
 c
-973228	c
-973232	c
+NA
+a
 c
-973235	c
-973237	c
-973239	c
 a
-973242	a
-973244	c
+NA
+NA
+NA
 c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-973248	c
-973252	c
+NA
 c
-973256	c
-973258	c
-973263	c
-973267	c
-973269	c
-973271	c
+NA
+a
+NA
+a
+NA
+NA
+NA
 c
+NA
 c
-973275	c
+NA
+NA
+NA
+NA
 c
-973279	c
-973283	c
 c
-a
-973288	c
-973292	c
+NA
+NA
 a
-973295	a
-973298	c
-973302	a
-c
+NA
 a
-973307	a
-973309	a
 a
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-973313	a
+NA
+NA
+c
+NA
 a
-973322	a
-973325	c
+NA
 a
-973332	c
+NA
+NA
 c
-a
-973337	c
+NA
+c
+NA
+NA
+NA
 c
-973340	c
+NA
 c
-973344	c
-973347	c
-973350	c
+NA
 c
-973355	c
+NA
 c
+NA
 c
-973359	a
-973363	a
-973367	c
+NA
+NA
 c
-973370	a
+NA
+NA
+NA
 a
-973373	a
-973377	a
-973379	a
+NA
+NA
+a
+c
 a
-973382	a
-973385	c
+NA
+NA
+NA
+NA
 c
-973388	c
-973390	c
 c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-973394	c
+NA
 a
-973399	c
 a
-973402	a
-973404	c
-973406	c
-det.
 c
+NA
 a
-973412	c
-973416	c
-973418	c
-973421	c
+det.
+c
+NA
 a
-973425	c
 a
-973429	c
+NA
 c
-973433	c
 c
+NA
 c
 c
+NA
 a
-973441	c
-973443	c
+NA
+NA
+NA
 c
-973446	c
-973449	c
+NA
+NA
 c
+a
+NA
+NA
+NA
 c
-973456	c
+NA
+NA
 c
 a
-973460	c
-c
-973463	c
+NA
 a
-c
-973474	c
 a
-973477	c
-c
-973480	c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-973486	a
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
-973490	c
 a
 a
+NA
 c
-det.
-973496	a
+NA
+NA
 c
-det.
-973500	a
-a
-973503	a
-973505	c
-973507	c
+c
 a
+NA
 a
-973511	c
-973513	c
-c
-973516	a
 c
-det.
-973520	c
 a
-973526	a
-973529	c
 a
-973534	c
-973536	a
+NA
+NA
 c
-973540	a
-973543	a
-973545	c
+a
 a
-973550	c
 a
-973553	a
-973555	c
+a
+NA
 c
-973559	a
+NA
 a
-973563	c
+NA
+NA
+c
 a
-973567	c
 a
-973570	c
+NA
 c
+NA
+NA
+NA
 c
+NA
 c
 a
-973576	a
-973579	c
+NA
+NA
+NA
+a
+NA
 c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
 a
-973585	c
-973587	a
-973591	a
-973593	c
-973596	c
+NA
 c
-973602	c
-973605	c
-973607	c
+NA
+NA
+NA
 c
-973610	c
-973612	c
-973614	a
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
 a
-973619	a
-973622	c
-a
-973625	c
+NA
 c
+NA
+NA
 c
-973630	c
 a
+NA
 c
-a
-973635	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-973645	a
-det.
-973653	c
-973660	a
 a
-973663	c
-973665	a
-973670	c
-973674	a
 a
-973677	c
 a
-973682	c
-a
-973686	a
-973691	c
+NA
+NA
+NA
 c
-973694	c
-973704	c
-973709	c
-973712	a
-973714	a
-973719	c
-973723	c
 a
-973727	c
+NA
 a
-973732	c
+NA
+NA
 a
-973735	a
-c
 c
-973742	c
+NA
 c
 c
+NA
+NA
 a
-973747	c
-a
-973751	c
-c
-973754	c
-c
-973757	c
-973759	a
+NA
 a
-973767	c
-973769	a
+NA
+NA
+NA
 a
-973775	a
-973778	c
-973782	c
-973787	c
-973790	a
-973792	a
-973797	a
+NA
 c
-973800	c
-973805	c
+NA
+NA
+NA
 c
-973808	c
-973814	a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 a
-973820	c
+NA
+NA
+NA
 c
-973823	c
-973828	c
-973831	c
-973837	a
+NA
+NA
 c
-973840	c
 a
-973844	c
-973848	a
-973850	a
-973853	a
-973855	c
-973857	c
-973859	c
-973864	a
-973868	a
-973870	a
+NA
+NA
+NA
 a
-973873	c
-973876	c
-973878	c
+NA
 c
-973882	a
-973888	c
-973892	a
 a
-973897	c
-973900	c
-c
-c
+NA
+NA
+NA
+NA
 c
-c
-973907	c
 a
-973910	c
-973912	c
-973915	c
-973918	c
-973920	c
-973922	a
-973929	a
-973931	c
-c
-973934	c
-c
-c
-973939	c
-973942	a
-973946	a
-973948	c
-973950	c
-c
-973956	c
+NA
+a
+NA
 c
-973959	c
-973976	a
-973978	c
-973985	a
-973987	c
-973990	a
-973993	a
-973996	c
+NA
 a
-974000	a
-974002	a
-974004	c
+NA
+c
+NA
 a
+NA
 a
-974008	a
 a
-c
-974013	a
+NA
+NA
 c
 a
-974021	a
-c
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
 c
 a
-a
-974033	c
-974036	a
+NA
 c
-974045	c
-a
-974049	a
-974051	c
+NA
 c
-974058	c
 a
-974062	a
-974067	a
-974070	a
 a
-a
-974074	a
-974076	c
-c
-974081	c
-974084	c
-974086	c
 c
-974089	a
-974091	a
-974093	a
-974095	a
-974099	a
-974101	a
-974103	c
 a
-974106	c
+NA
 c
 a
+NA
 a
 a
-a
+NA
 c
-974114	c
-974117	a
 a
-974124	a
-974129	a
 a
+NA
+NA
 a
-974135	c
-c
+NA
 c
-974142	c
+a
 c
-974146	c
-974149	c
-974151	c
-974153	a
-974155	c
-974158	c
-974160	c
 a
 c
-974173	a
 c
+NA
 a
-974177	a
-det.
-974180	c
+NA
 c
-974186	c
 c
-c
-974190	c
-974192	a
-974194	c
-974197	a
+a
+NA
 a
 c
-974202	c
+a
+NA
+NA
 c
-974208	a
+NA
+NA
+NA
 c
-a
-974214	c
-974218	c
-974223	a
-974227	c
-974231	c
-974234	a
-974238	a
-974240	c
+NA
+NA
 c
-974243	c
-974246	a
-974250	a
-974252	c
 c
-974255	c
-974257	a
-974259	c
-974263	a
-974265	c
-974267	a
-974271	c
 a
-974277	a
-974280	c
-c
 a
-974284	c
-c
+NA
+det.
 a
-974290	a
-974292	a
-974294	c
-974296	c
-974298	c
-974300	c
-974305	a
+NA
 a
-c
-974310	a
+NA
 a
-c
-c
-c
-974317	c
-974319	c
-974321	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-974330	a
 a
 a
-c
-974335	a
-c
-974338	a
-c
-c
-974342	c
-974346	c
-974349	c
-c
+a
+NA
+NA
+a
 c
-974353	c
+NA
+NA
 c
-974358	a
 c
-974363	a
+NA
 a
 a
-974371	a
-974376	c
-974380	c
-det.
-974383	c
-974388	c
-974392	a
-974394	a
 c
 a
-det.
-974400	a
-974403	a
-974407	c
+NA
+NA
+NA
+NA
+c
 a
-974411	c
-974415	a
-974418	c
 a
-974421	c
-c
-974424	c
-det.
-c
 a
-974429	c
-974431	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-974434	c
-974437	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
 c
-974443	c
 a
-det.
-974447	a
 c
-974452	c
 a
-974455	c
-974458	c
-974460	c
-974468	det.
-974470	c
 a
-974473	c
-c
-974477	a
-974480	a
+NA
 c
-974488	a
-974490	a
-974492	c
-974496	a
-974499	c
-974501	a
+NA
 a
-974504	c
-c
 a
-974510	a
-974514	a
-974516	c
+NA
 c
-a
 a
-974522	c
+NA
 a
+NA
+NA
 a
-974528	a
-974531	det.
+NA
+c
 a
-974536	c
-974539	c
+NA
+NA
 a
-974543	a
-974546	c
-c
-c
+NA
 a
-974552	c
-c
-974556	a
-974558	c
-974561	a
+NA
 a
-974566	c
+NA
 a
-974572	a
 c
+NA
 a
-974576	c
+NA
 a
-974579	c
-974583	det.
-974587	a
-974589	a
-974597	a
-974601	a
-c
-c
-c
-974606	a
-c
-974609	a
-974611	c
-det.
+NA
+NA
 a
-974619	a
-974626	a
+NA
 a
-974633	c
+NA
 a
-c
-c
+NA
+NA
+a
+NA
 c
-974640	c
-974642	c
+NA
 c
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-974649	c
-974651	c
 c
 a
-974655	c
-a
-974659	a
-974661	c
+NA
+NA
+c
+NA
 c
 a
-974667	c
-974669	c
-det.
-974672	c
-974676	c
+NA
+NA
+NA
+NA
 a
-974682	a
-974687	a
-974690	a
-974693	c
-c
+NA
+NA
 a
-974701	a
-974704	a
-974706	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+a
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
+NA
 c
-974713	a
-974717	c
-974724	c
 a
-974727	a
-974729	c
 a
-974733	c
 a
+NA
 a
-974738	c
+NA
+c
 a
-974742	det.
-det.
-974747	det.
-974751	c
+NA
 a
-974763	c
+NA
+NA
 a
-974767	c
-974771	c
+c
 a
-974774	c
+NA
+NA
 a
-974777	c
-974779	c
 c
-974786	c
-974789	a
-974791	c
+c
+a
+a
+NA
+NA
+a
+NA
+NA
+NA
 a
-974796	a
 a
-974802	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-974809	c
+NA
+NA
 c
-974815	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-974819	a
-974821	a
-974824	a
 c
-974827	a
 c
-974830	c
-974832	c
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
 c
 a
-974837	c
-974842	a
-974845	c
-974848	c
-974853	c
+NA
+NA
+a
 c
+a
+NA
 a
+NA
 a
-974859	c
 a
-974862	c
-974864	c
-974866	a
-974870	a
-974872	c
-974880	c
-974883	c
-974885	a
+NA
+a
+a
+NA
 c
-974890	c
-974892	c
+NA
 a
-974895	c
-974901	c
+NA
+NA
 a
-974905	a
-974910	c
-974913	c
+NA
 a
-974919	c
-974921	c
+NA
 a
-c
-974925	c
-974927	c
-974929	c
-974931	c
-974933	c
+NA
+NA
 a
-c
-c
-974938	c
+NA
+NA
 a
+NA
+NA
 a
-974943	c
-c
 a
-974948	a
-974951	a
-974954	c
+NA
+NA
 a
-974959	a
-974961	c
-c
+NA
 a
-974968	c
-974972	c
-c
-c
-974976	a
-974978	c
-974980	c
-974982	c
-c
+NA
+NA
 a
-974992	c
+NA
 a
-974997	c
-c
-975000	a
-975002	c
-975004	c
-c
+NA
 a
-975018	c
-975021	a
-975023	c
-975025	c
-c
-c
 a
+NA
+NA
+NA
+NA
 c
-975032	a
 c
-975035	c
 a
-975038	c
-975041	a
-975047	c
-c
-975055	c
-975057	c
-975062	a
-975066	c
-c
-975069	c
-975071	c
-c
-975074	c
-975076	c
-975080	c
-975083	a
-975085	c
-975090	c
-975092	c
-c
-975096	c
 a
-975099	c
-c
-975110	c
-975112	c
+a
+a
+a
+NA
+NA
+NA
+a
+NA
 c
-975116	c
-975121	c
+NA
+NA
 c
 c
-975131	c
+NA
 c
-975135	c
 a
-975138	c
+NA
+c
+NA
 a
+NA
 c
+NA
+NA
 c
+NA
 a
-975144	a
-975146	c
+NA
 c
-c
+a
+a
+NA
 c
 c
-975154	c
 c
-975157	c
+NA
 c
-975160	c
 a
-975165	c
+NA
 a
-975168	a
-975171	c
-975174	c
-975180	a
-975182	c
-c
-c
-975189	c
-975191	c
+a
+NA
 a
+NA
 a
+NA
 c
-975198	c
-975202	c
-975204	c
-975206	a
-975209	a
-975211	a
-975213	c
-975216	a
 a
-975219	a
-975222	a
-975224	a
 a
-c
-det.
-975229	det.
-975231	c
-det.
-975235	c
-c
-975238	a
-975241	c
-975245	c
-975256	a
-975258	c
+a
+NA
+a
 a
 c
-975262	c
-975264	c
-975267	c
 c
 a
-975271	c
 a
-975274	a
+NA
 a
+NA
+NA
+NA
 a
+NA
 a
-975280	c
-c
-975284	c
-c
-975287	a
-975289	a
-975291	c
+NA
 a
-975294	c
+NA
 a
-975297	c
-a
-975303	c
-975309	c
-c
-975313	c
+NA
+NA
 a
+NA
 c
-975317	c
-975320	c
-975322	c
 a
-975325	c
+NA
 a
+NA
 c
-det.
-975339	c
+a
 c
-975344	a
+NA
+NA
 c
 a
-975348	c
-a
-975352	a
-975354	c
-975356	c
-975359	c
-975362	a
-975365	a
-975370	a
-975372	c
 c
-975376	a
-975378	c
+NA
+a
+NA
 c
+NA
+NA
 c
+NA
+NA
 a
-975383	c
-a
+NA
 c
+NA
+NA
 a
-975388	a
 c
-975392	a
+NA
 a
-975398	c
-c
-975402	a
-975409	c
-975412	c
+NA
+NA
+NA
 a
-975415	c
 a
-975419	c
+a
 c
 a
-975424	c
 c
+a
+NA
 a
-975429	c
 c
+c
+c
+NA
 a
-975433	c
+NA
+NA
 a
-975436	c
+NA
+NA
+NA
 a
-975439	a
 a
-975442	c
-c
-c
-975448	c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
 a
-975451	c
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-975454	c
-975457	c
-975459	c
 det.
 a
-975463	c
-975467	a
-975470	c
 c
-975474	c
-c
-975478	c
-975480	c
+a
+NA
+NA
 c
-975488	c
-975490	c
-975492	c
+a
+NA
+NA
+NA
 c
-975499	c
 c
 c
-975503	a
-975506	c
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
-975510	c
-975515	c
-975517	c
 a
-975520	a
+NA
 c
-det.
-975525	c
-975529	c
-975534	c
-975540	c
+c
 a
-975543	c
 a
-c
-c
+NA
+NA
 a
-975550	c
-975556	a
-975558	c
-c
-c
+NA
 a
-975568	c
+NA
 a
-975571	c
-c
-975575	c
 c
-975578	c
-c
-975581	a
+a
+NA
+NA
+NA
 a
 c
+a
+NA
+NA
+NA
 c
-det.
-975587	a
-975589	c
 c
 a
-975594	a
-975596	c
-975599	c
-975601	c
+NA
 c
-975604	a
 a
-975607	c
+NA
+NA
+c
+NA
+NA
 a
 c
-975611	a
-975614	c
 c
+a
+NA
 c
-975618	c
+NA
+NA
+NA
 c
 c
-975622	c
+NA
 c
-det.
-975629	a
-975631	a
-975637	c
 a
-975640	a
-975647	c
-975649	c
-c
-975655	a
+NA
 c
-c
 a
-det.
-975661	c
-c
-975666	c
-c
 a
-975671	c
-c
 a
-c
-975676	a
-975678	c
-c
+NA
+NA
+NA
 a
-975683	a
-975692	c
-975694	c
-975696	c
-c
-975700	c
-c
-975703	a
-975705	c
+a
+NA
 a
-975708	a
-975711	c
-975713	c
+a
 c
-det.
-975717	c
-975720	c
+a
+NA
+a
+a
+NA
+NA
+NA
 c
-975724	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+a
+a
+NA
+NA
 c
-975731	c
 c
-975734	a
+a
+NA
 c
+a
+a
+NA
+NA
+NA
+NA
 c
-975740	a
-975743	c
-975750	c
+NA
+a
 c
+a
+NA
+NA
+NA
+NA
+a
 a
-975757	c
-975759	c
-975762	c
-975764	c
-975766	c
-975768	c
-975771	c
 a
 c
-975776	a
-975778	a
-975780	a
 c
-975786	c
+NA
 c
-975791	c
 c
+a
 c
-975798	c
-975800	a
-975802	c
-975805	c
-975807	a
-975809	a
+a
+NA
+NA
 c
-975812	a
-975814	a
-975818	c
 a
-975822	c
 a
-det.
-975827	c
-975829	c
 a
-975834	c
+NA
+NA
 c
 c
+NA
+NA
 a
-975839	a
+c
+NA
 c
 a
-975844	c
-975846	c
-975848	det.
-975850	det.
-975853	a
-975856	c
+NA
 a
-975860	c
-975863	c
-975865	c
-c
+a
+NA
+NA
 a
-975869	c
-975874	c
+NA
 c
-det.
-975878	a
-975880	c
-975883	c
-975885	c
-det.
 a
-975890	c
-975895	a
-975897	c
 a
-975901	a
-c
-975904	c
-975910	c
-975913	a
-975917	a
-975919	a
-975923	c
-975925	a
+a
+NA
 c
-975928	c
-975931	c
+a
+a
+a
+NA
+NA
 a
-975935	c
 c
 a
-c
-975941	c
-975945	c
-c
-975948	c
-975952	c
-975954	c
 a
-975957	c
-c
-det.
-975969	c
-975971	c
 a
+NA
 c
 a
+c
 a
+NA
 c
 a
-975987	c
-975989	c
 c
 a
+NA
 c
-975994	c
+a
+NA
+NA
 c
-975999	c
-976001	c
-976003	c
-976005	det.
-976009	a
+NA
 a
-976015	c
-976020	a
-976022	a
+NA
 c
-976026	c
+NA
 c
+NA
 c
 a
-976031	c
 c
-976034	c
+a
+NA
 c
 a
-976039	a
-976041	a
-976047	c
+NA
+NA
 a
-976053	a
-976056	c
-976058	c
-976061	c
-976063	c
-c
-976066	a
-976069	c
-976071	a
-976073	c
-c
-976078	a
-976081	a
-976084	c
-c
 a
-976089	c
+NA
+NA
+NA
 a
-976092	a
-976096	c
-976100	c
-976104	c
+NA
 a
-c
-976108	c
-c
-976112	c
-976117	c
-976120	c
-976123	a
-976132	c
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
 c
+NA
+a
+det.
+NA
+a
+NA
+a
+a
 a
-976138	c
 c
-976144	a
+NA
+NA
+a
+det.
+NA
 c
+NA
+a
+NA
+a
+NA
 a
-976152	a
-976154	a
-976157	c
-976160	c
 a
+NA
 c
+NA
+NA
 a
-976166	c
-976169	c
-976171	c
+NA
+c
 a
-976174	c
-976176	a
-976180	a
+NA
 a
-976183	a
+NA
+NA
 a
+c
 c
+c
 a
-976188	c
 a
-976191	c
-976193	a
-976198	c
-976201	det.
-976207	a
-c
-976214	a
-976217	a
+NA
+NA
 a
+NA
+NA
+NA
 a
-976221	c
-976229	a
 a
+NA
+NA
+NA
 a
-976234	a
-976237	a
-976240	a
-976243	c
-976246	c
-976248	c
 a
-976253	c
-976257	c
 a
-976260	c
-976262	a
-976264	a
-976266	a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
+a
+NA
+NA
 c
-976271	a
+NA
+NA
+a
+NA
+NA
+NA
 c
+a
+NA
+a
+NA
+NA
+NA
 c
+NA
 a
-976277	c
+NA
+NA
 c
-976280	c
-976284	c
+NA
+NA
 c
-976293	a
+NA
+NA
+NA
 c
+NA
 c
-976297	a
 a
-976300	c
+NA
 c
-976306	c
-976308	a
-976311	a
-976315	a
-976317	c
-976320	a
-976323	c
+a
+NA
 c
-976328	c
-976330	a
 a
-976334	c
+NA
+NA
+NA
+c
+NA
 a
-976339	c
-det.
-976343	c
-976346	c
+NA
 c
-976349	a
+NA
 c
+NA
+a
+NA
 c
-976354	c
-976361	c
-976364	c
 c
-976368	c
 a
-c
-976374	c
-976376	c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-976382	a
-976384	a
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-976388	c
-976390	a
-976393	c
+NA
 a
-c
-976401	a
-976403	a
-976406	c
+NA
+NA
 c
-976411	c
-976413	a
-976416	c
+NA
+NA
+NA
 a
-976419	c
-c
+NA
+NA
+a
 a
-976424	c
-976427	c
 c
-976430	c
-976432	c
-det.
-976437	c
-976443	c
-976445	c
 a
-976448	a
-976451	c
+NA
+NA
+NA
 a
-976455	c
 a
-976458	c
+NA
+NA
+NA
 a
-976461	c
-c
-c
-976466	a
-976468	a
-976472	c
 a
-c
-976476	c
-976478	a
+NA
+NA
+NA
 a
-976481	c
+NA
+NA
 c
 a
+NA
 a
-976486	c
-c
-c
-976490	c
+NA
+NA
 c
-976493	c
-976496	c
-976499	c
-976502	a
 a
-976505	c
+NA
 a
-976508	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
-976511	c
-976513	c
+a
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
-976517	c
-976519	c
-976521	c
-976524	c
+a
 c
-det.
 a
-976529	c
+NA
 c
-976532	det.
-det.
-976538	c
-976543	c
-det.
-976546	c
 a
-976550	c
+NA
 c
 a
+NA
+NA
+NA
+NA
 c
-976557	a
+NA
+c
+a
 a
+NA
+NA
+NA
+NA
 a
-976562	c
-976564	c
+NA
+NA
 a
-976570	c
-976573	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-976577	a
-976579	c
-976583	c
-976585	a
-976588	c
-976592	c
+NA
+NA
 c
-976595	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-976600	c
 c
 c
+NA
+NA
+NA
 c
-a
+NA
+NA
+c
 a
-976607	c
-976609	a
-976613	c
-976618	c
+NA
+NA
 a
 a
-976628	c
+NA
+NA
+NA
 a
-976631	a
-976635	c
-976640	c
+NA
+NA
+NA
 c
-976644	c
-976646	c
-976652	a
-976654	det.
 c
-det.
-976658	det.
+NA
 c
 a
-976662	c
+NA
+NA
+NA
 c
-976665	a
-976667	c
-c
 a
-976674	a
+NA
 c
 a
-976678	c
-976681	a
-976683	det.
-c
-det.
-976687	det.
-c
-976690	c
+NA
+NA
 a
-976696	a
-c
-c
+NA
+a
+NA
+NA
+NA
+a
 a
-976701	c
+NA
 a
-976704	c
+NA
+NA
 c
 a
-976708	c
 det.
-det.
-det.
-976714	c
-c
-976718	c
-976720	c
-976723	a
-c
+NA
 a
-976728	c
-976730	c
-976732	a
-976736	det.
+NA
+a
+a
+a
 c
+NA
+NA
+a
 det.
-976741	a
+NA
 c
-976746	c
-976749	a
+NA
 c
-det.
-976754	det.
+a
+a
+NA
+NA
+a
 c
 c
+a
+NA
+NA
+a
+a
+a
+NA
+a
+NA
 det.
-976759	c
 a
-976762	det.
+NA
 a
-976765	a
+NA
 a
-976768	det.
-976770	det.
-976774	a
-976777	c
+NA
+NA
+NA
+NA
 c
 c
 a
-976783	c
-976791	det.
-det.
 a
-976795	c
 a
-c
+NA
+NA
 a
-c
 a
-976802	a
+NA
 a
-976805	a
-976807	c
-det.
-976812	c
-976815	c
-det.
+NA
+NA
+NA
 c
 a
-976825	c
-976827	a
-976829	a
+NA
 a
-976834	a
+NA
 a
 a
-976838	a
-976841	c
-976843	a
-976845	c
-976849	c
-c
-976852	c
-976854	c
-c
-c
-976859	c
-976863	a
-c
-det.
-976867	c
-c
-976870	a
-976872	c
-c
 a
-976876	c
-976880	c
-976885	c
-976887	c
-976889	a
-976892	a
-976894	c
-976896	a
-976898	c
-976901	a
-976903	c
-976905	a
-c
-976908	c
-976910	a
-976912	c
-c
-c
-c
-976920	a
-976922	c
+NA
+a
+NA
 c
-det.
 a
+NA
 a
-976929	c
-c
-976932	c
-c
+NA
+NA
 a
-976936	c
-976939	a
-976941	c
+NA
 a
-976945	a
-976948	c
-976955	c
+NA
+NA
+NA
+NA
+NA
 c
-a
 c
-976960	a
-976966	c
 c
 a
-976970	c
-976972	c
 a
+NA
+NA
+NA
 a
 a
-976977	c
-976980	a
+NA
+NA
 a
-976983	c
-a
-976989	c
-976992	c
+NA
 c
+NA
+NA
+NA
 a
-976996	a
-977000	c
-977005	c
-c
-977008	a
-977010	c
 c
-977013	c
-c
-977016	a
-977020	a
+NA
+NA
 a
 c
-det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
 c
-977028	c
-977032	c
-977034	a
-977037	c
+NA
+NA
+NA
 a
-977041	c
-977044	c
+NA
 c
 c
-977048	c
 c
-977052	c
+NA
+NA
+NA
 c
-977059	c
 c
-977064	c
+NA
+NA
 c
-977068	c
-977070	c
-977077	a
+NA
 a
-977080	c
-977083	c
-c
-c
-977087	c
-c
+NA
 a
-977091	c
+NA
 c
-a
-977096	c
 a
-977099	c
-977101	a
-977104	a
-977106	a
-977108	a
-977110	c
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
 a
-977115	c
-det.
-977119	c
-977121	c
-977124	c
-c
-977128	c
-977131	det.
-977133	det.
-c
-a
-977138	c
-a
-977141	c
-977144	c
-a
-977147	c
-977149	c
-977154	c
-977157	c
-a
-c
+NA
 c
-977162	c
-977166	a
+NA
 a
-977173	c
-c
 a
+NA
 c
 a
-977182	a
+NA
 a
+NA
 c
-a
 a
-977188	c
 c
 a
+NA
 c
-977193	c
-977196	c
-977198	a
-977201	c
-c
-a
-977205	c
-det.
-det.
-977210	c
 c
-a
-977214	c
-977216	c
-a
+NA
+NA
 a
+NA
+NA
 a
-977221	c
-977224	a
 a
-977227	c
-a
-977233	c
-977236	c
+NA
+NA
 c
-a
 a
-977241	a
-977245	c
-977250	c
 c
-977253	a
-977255	c
+NA
 c
+NA
 c
-977259	c
-c
-977262	a
-977266	a
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
 c
-977272	c
-977276	a
-977279	c
-977281	a
-977283	c
-977285	a
-a
-977288	c
+NA
+NA
+NA
 a
-977291	a
+NA
 c
-977294	a
-977297	a
-977301	a
-977304	a
 a
-977311	c
 a
-977314	c
-a
-977318	a
-977322	c
-977326	c
-977330	c
-c
 c
+NA
 a
-977336	c
 a
-977339	c
+NA
 a
-a
-977345	c
-a
-977349	c
+NA
+NA
 c
+NA
+NA
+NA
 a
-977355	c
 c
+NA
+NA
 a
 c
 a
-977363	c
-977365	c
-977367	c
-977369	c
+NA
 c
-977375	c
-a
-977378	a
 c
-a
 a
-977383	a
 a
-977390	c
-c
 a
-977396	a
-977399	c
 a
-977403	c
+NA
 a
+NA
 a
 a
-977409	a
-977414	a
-977417	c
+NA
 a
+NA
 a
-977421	c
-977424	a
-977426	c
-977430	c
+NA
 a
-977435	c
-977437	c
+NA
 a
-977441	c
+NA
 a
-977444	a
-977447	a
 a
+NA
+NA
+NA
+NA
 c
-a
-977454	c
-977457	a
-a
 c
 a
-977464	c
 a
-977467	c
+NA
 a
-977472	a
-977474	a
-c
-977479	a
 a
-977482	a
+NA
+NA
 c
-977485	a
-977487	a
-977490	c
+c
+NA
+NA
+NA
+c
+c
+a
 a
+NA
+NA
 a
-977495	a
+NA
 c
 a
 c
-977502	c
 c
-a
+NA
 c
+NA
+NA
 a
+NA
 c
+NA
+NA
 c
-977510	c
-977512	c
 c
+NA
 c
-977516	c
-a
-977519	a
-a
-a
-977524	a
+c
 a
 a
-977529	a
 c
-a
-977534	a
+NA
 c
-a
-977539	a
+NA
 c
+NA
 a
-977543	c
 c
 a
-c
 a
-977549	a
-977553	c
+NA
 a
+NA
 c
-c
-c
-977561	a
-977563	c
+a
 c
-977567	a
-977569	c
+NA
 a
 a
+NA
 c
+NA
 a
+NA
+NA
 c
-a
+NA
 c
 a
-977580	a
+NA
+a
+NA
 c
-977585	a
-977587	c
 c
+NA
 c
-977592	c
-977594	a
-977596	c
+a
 c
-977602	c
+NA
+a
+NA
 c
-977612	c
+NA
+NA
 a
-977615	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-977618	c
 a
-c
-c
+a
+NA
+NA
+NA
 c
+a
 c
-977625	c
 a
-977628	a
-977630	c
+NA
+NA
+NA
+NA
 a
-977633	a
-977636	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
+NA
+NA
 c
-977641	c
 a
-977646	a
+NA
 a
-c
-c
-977651	a
-977654	c
+det.
+NA
+NA
+det.
 det.
-977657	c
+NA
+NA
 a
-977660	a
+NA
+NA
 a
-977670	c
 a
-c
+NA
+NA
+det.
+NA
 a
-977675	a
+NA
+NA
 a
-977678	a
-977683	c
-977686	c
+NA
 a
-977695	c
-977700	a
-c
+NA
+a
+NA
 a
-977704	a
+NA
+NA
 a
-977707	c
+NA
+NA
+NA
+NA
 c
+NA
+c
 a
+NA
 a
-977713	c
-c
+NA
+NA
+NA
 a
-c
-977718	a
-c
+a
+NA
+a
+NA
 c
-977729	a
-977736	a
-977738	c
 c
-977742	a
-977744	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-977748	c
-977751	c
 c
 a
-977756	a
-977758	a
-977760	c
+NA
+NA
 c
+NA
 a
-977764	c
-c
-977767	c
-977769	a
-det.
-977772	a
-977774	c
-c
-977778	c
-c
+NA
 a
-977783	a
-977787	a
-977789	c
+NA
+NA
+NA
 a
-977792	a
-977794	a
-977796	a
-977799	c
+NA
+NA
+NA
+a
 c
-977808	a
-977811	det.
+NA
 a
-977814	a
-977822	a
+NA
+NA
+NA
+NA
 c
-977826	a
-977830	c
 a
-977836	c
-977839	c
-977841	c
+NA
 a
-977845	c
+NA
+NA
 a
-977849	c
-977852	a
-977854	c
+c
+NA
 a
-977857	a
-977859	c
-977861	a
-977863	c
-977865	c
-977867	c
+NA
+NA
+c
 a
-977870	c
+NA
 a
-977874	a
+NA
+NA
 c
-977877	c
 a
-977880	c
+NA
 a
-977884	c
 a
-977888	a
-977891	c
+c
 a
-977894	det.
 a
-977897	a
 c
 c
-977901	c
+NA
+NA
 a
-977907	c
-c
 a
-977911	c
+NA
+NA
 a
-977914	c
-977916	c
-c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-977922	c
-c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
 c
 a
+NA
+NA
 a
+NA
+NA
+a
 c
 a
+NA
+NA
+NA
+NA
+c
 det.
-977933	c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
 a
-977937	a
-977940	c
+NA
+c
+NA
+c
+NA
 a
+NA
+c
 a
 a
-977945	c
 c
 c
-977949	c
 a
-977952	a
-977955	a
-977958	a
-977960	a
 a
-977964	a
-977966	a
-977969	a
-977971	a
-977973	a
-977975	c
+NA
+c
+det.
+NA
+NA
+NA
 c
+c
 a
-977979	a
-977981	a
-977984	a
-977986	a
-977988	a
-977992	a
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
 a
-977997	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+c
 a
-978001	a
-978005	a
+NA
+c
 a
-978008	a
-978011	a
-978014	a
-978017	a
-978019	c
 a
-978022	c
+NA
 a
-978027	a
-c
-978030	c
 a
-978033	c
+NA
+a
+NA
+NA
+NA
+NA
+c
 c
+NA
+c
 a
-978038	c
-978041	a
+NA
 a
-c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-978046	a
-978049	c
+NA
 c
+NA
 c
-978053	a
-978055	c
+NA
+a
+NA
 c
-978058	a
-978060	c
-978062	c
-978064	c
 c
 c
-978068	c
+NA
 c
+NA
 c
-978072	c
-det.
-det.
-978076	c
-978078	c
+NA
+c
 c
-978082	c
+NA
 a
-978085	c
+NA
+NA
+NA
 a
-978091	c
-978094	a
-978096	a
-978099	c
-978101	a
+NA
 c
+NA
+c
+c
+c
+c
+NA
+c
+det.
+NA
 a
-978106	a
-978108	c
+NA
 a
-978117	c
+NA
 a
+NA
 a
-978121	c
-c
+NA
+NA
 a
-978125	c
-978127	c
 c
 a
-978131	c
+NA
+c
+NA
+NA
+NA
 a
-978134	c
-978136	c
+NA
+NA
+NA
 c
-978140	c
+NA
+NA
 c
-978143	c
-978146	a
+NA
+NA
+NA
+NA
+c
 a
-978152	a
-978154	a
-978156	c
+NA
+c
+NA
 a
-978160	c
 a
-978163	c
+NA
+NA
+NA
 c
 a
-978167	c
+NA
+NA
+NA
 a
 a
-a
-det.
 c
+NA
+NA
+NA
+NA
+NA
 a
-978175	c
-978177	a
-978179	c
+c
+NA
 a
-978182	a
-978184	a
-978187	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
+a
+NA
 a
-978192	c
+NA
+c
 a
-978195	c
+NA
+det.
+NA
 c
 a
-978200	c
-978202	c
+NA
 a
+NA
+NA
 a
-978206	a
+a
 det.
-978211	a
-978213	c
+NA
 a
+NA
 a
-978217	c
-c
+NA
 a
-978222	c
-978224	c
+NA
 a
-978227	c
 a
 a
-978231	c
-978233	c
 a
-978238	a
-978240	c
+NA
+NA
+NA
 a
-978243	a
-det.
+NA
 a
-978247	c
+NA
 a
-978252	a
-978254	a
 c
 a
-978261	c
-978263	c
-978267	c
 a
-c
+NA
 a
-978274	c
 a
-978277	c
+NA
+NA
+a
 c
+a
 a
-978281	a
 a
-978284	c
-978286	c
 a
-978289	a
-978291	c
-978293	c
+NA
+a
+NA
 c
 a
-978298	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
+c
 a
-978302	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-978308	c
-a
-978311	c
-978314	c
-978316	c
-978320	a
-978323	c
-978328	c
 c
-978331	c
-978334	c
-a
-978337	c
 a
 a
-978342	c
-978345	c
-978347	c
-978349	c
+NA
+NA
+NA
+NA
+NA
 c
-978352	c
-978354	c
-978356	c
 a
-978359	c
-978361	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-978365	c
-978367	c
-978369	a
-978371	c
+NA
+NA
+NA
+NA
 a
-978379	a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 c
-978385	a
+NA
+NA
 a
-978388	c
-978390	a
-978392	c
+NA
 a
-978397	a
-978400	a
-978402	c
-978405	c
+NA
 a
-978408	c
 a
-978411	c
 a
-978414	a
-978416	c
-978420	a
+NA
+NA
+NA
 a
-978423	c
+NA
+NA
+NA
 a
-978427	c
+a
+NA
+NA
+a
+NA
 c
 a
-978431	a
-978433	c
-978436	a
-978439	c
 c
 a
-978445	c
+NA
+c
+det.
+c
 a
-978449	c
-978451	c
+NA
 c
-978454	a
 a
-978458	c
-978460	c
-978463	c
 c
-978466	c
+a
+NA
 c
+det.
+NA
 c
-978472	a
 a
-978475	c
+NA
+NA
+NA
 a
-978479	c
+NA
 a
-978482	c
-978484	c
-978486	c
 a
-978492	a
-978495	c
-978497	a
-978499	a
-978501	c
+NA
 c
-978505	a
-978508	c
-978511	c
-978514	c
 det.
 c
-978518	a
-978520	a
-978522	a
-978524	a
-a
-978527	c
-978535	c
 a
-det.
-978539	c
+NA
 a
-978543	c
-978545	c
 a
-978556	a
+NA
 a
-978559	a
+NA
 a
-978565	a
+NA
+NA
 c
-a
-978569	c
-978571	a
-978574	c
-978576	c
-a
-a
-978580	a
-978583	c
+NA
+NA
 a
-978587	c
+NA
 c
-a
-978592	a
-978596	a
-a
+NA
+NA
 c
-978601	c
-a
-a
-978606	a
-978608	c
-978610	c
-978612	c
 c
-978615	a
-978618	c
-978622	a
-a
-978626	c
-a
-978629	a
-978631	c
-a
+NA
+c
 a
-978635	a
-978638	c
+NA
 a
+NA
 c
-978642	a
-978645	a
 c
 a
-978650	c
+NA
 a
-978654	c
-978659	c
-978662	a
-a
-978665	c
-978668	c
-978672	c
+NA
+NA
 c
-978676	a
 c
-978679	c
+NA
+NA
 a
+NA
 a
-978685	c
+NA
 a
-978688	c
-c
-978691	c
-c
-c
-978698	c
 c
-978702	c
+NA
+NA
+NA
 c
 a
+NA
 c
 a
-978708	a
-c
-c
-978715	c
+NA
 a
-978727	c
+NA
+NA
+NA
+NA
 c
+NA
 c
-978735	c
-978739	c
-det.
-a
-978748	a
-978750	a
 a
-978753	c
 a
-978757	a
-978759	a
-978761	a
-978763	a
-978765	a
-978768	a
-978770	a
-978772	c
+NA
+NA
 a
-978775	a
-978777	a
-978780	a
-978783	a
-978787	a
-a
+NA
+NA
+c
 a
-978793	a
+NA
+NA
 a
 a
-978798	a
-978801	a
-978803	c
-978805	c
+NA
+NA
 a
-978808	c
+NA
+NA
 c
-978812	a
-978814	a
-978819	c
 c
+NA
+NA
+NA
+NA
 a
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-c
-978826	c
 a
+NA
+NA
+NA
 c
+a
+NA
+NA
 c
-978832	c
+NA
+a
 c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-978837	c
-c
-978840	c
-c
-978844	a
-978846	c
+NA
+NA
+NA
 a
 a
-978850	c
 a
-978853	a
-978855	c
 c
-978858	c
-978860	c
-a
+NA
 a
-978865	a
-978867	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
+NA
 a
+NA
+NA
 a
 c
-c
+NA
 a
+NA
 a
-c
-c
-c
-c
+NA
+NA
 a
-c
+NA
+NA
 a
+a
 c
 a
-978886	c
+NA
 a
 a
-978890	a
+c
+NA
 a
-978893	c
 a
-978896	c
-978899	c
-978902	c
-978904	a
 a
-978907	c
-978909	c
 a
-978914	c
 c
-978917	c
 c
 a
-978921	c
-978923	c
-978927	a
-978933	c
-978935	c
-978937	c
-978939	c
-978941	c
+NA
+NA
+NA
+NA
 a
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
 c
-978945	c
-978947	c
-978949	c
-978951	a
-978962	a
-978965	a
-978971	a
-978973	det.
-978975	a
-978979	c
+NA
+NA
+NA
 a
-978983	a
-978985	c
+NA
 a
+NA
+NA
 a
-978991	c
-978997	a
-978999	a
-979002	a
-979005	c
 a
-979008	a
+NA
 a
-979011	c
+NA
+NA
+NA
+NA
+NA
 c
 a
-979016	c
-979019	c
-c
-979025	c
-c
-979028	c
-c
-det.
-979034	c
-979037	c
-c
-979040	c
-c
-979044	c
-979047	a
-c
-979051	c
-c
-979054	c
-979058	c
-979063	c
-c
+NA
 a
-979067	a
-979069	c
-979072	c
-979075	c
-979080	c
 a
 c
 a
-979085	c
-c
-c
+a
+NA
+NA
+a
+NA
 a
-979090	c
+NA
 c
-979093	c
 a
-979096	c
-979099	a
 c
-979103	c
-979109	c
+a
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
 c
-979112	a
-979114	a
+a
+a
+a
+NA
+NA
+NA
 c
-979118	c
 a
-979122	a
-979128	c
 a
-979131	c
-979133	a
-979135	c
+NA
 a
-979139	c
-979141	c
-979143	c
+NA
+NA
 c
-979146	a
 a
-979150	c
-979152	c
-979154	c
-979156	c
-979158	c
+a
+NA
+NA
 c
-979162	c
+NA
+a
+NA
+NA
 c
-979167	c
 c
-979172	det.
+NA
+NA
+a
+a
 c
-979175	c
+NA
 c
-979180	c
 a
-979185	c
 c
-979190	c
-979193	c
-979198	c
-c
+a
+NA
 c
 c
-979204	c
 a
-979210	c
-c
+NA
+a
+NA
+NA
+a
 c
+NA
+a
 a
-979215	c
+NA
 c
-979219	a
 a
-979222	c
+NA
 a
-979228	c
+NA
 a
-979236	c
 a
-979239	a
-979241	a
-979243	a
-979249	c
+NA
 a
-979252	a
-979254	a
+NA
 c
-c
-979258	a
-979265	a
-979268	a
 a
-979275	c
-979277	c
-c
-979280	a
-979285	c
-979289	c
-979292	c
+NA
+NA
 a
-979301	c
-c
+NA
+a
+NA
+NA
 a
-979305	c
-979307	c
+a
+NA
 c
-979311	c
-979314	c
+a
 a
-979319	c
+a
+NA
+a
 c
 a
-979325	c
-979329	c
-979332	c
+NA
 c
-979339	det.
+a
+NA
+NA
 c
-979342	a
-979346	c
-979348	c
+NA
 a
+NA
 a
-979352	c
-979354	a
-979357	a
-979359	c
+NA
+NA
 a
-979362	a
-979366	c
-c
+NA
+a
+a
+a
+NA
+a
 c
-979371	c
 a
+NA
 a
-979375	c
-979378	c
+a
+NA
+a
+NA
+NA
+a
 c
-979381	c
-979383	a
 c
 c
-979387	c
-979390	a
-979392	a
-979395	a
-979398	c
-979400	a
-979402	a
-979404	c
-979406	c
 a
-979409	c
+NA
+NA
+NA
+NA
 a
-c
-979414	a
-979416	c
-c
-979419	c
-979422	c
-979424	c
+NA
+NA
 a
-979432	c
+NA
 a
-979441	c
-979445	det.
-979447	c
+NA
+NA
 a
-979452	a
-979454	a
-979456	c
-det.
-979459	c
-det.
-979463	c
-979465	a
-979468	a
-979474	a
-979476	a
-979479	c
-c
+NA
 a
-c
-c
+NA
 a
-979488	a
 c
-c
+a
+NA
+NA
+NA
 a
-979493	a
+NA
 a
+NA
+NA
 c
+c
 a
-979499	c
 c
-979505	c
+a
+NA
 c
-979508	c
-979511	c
-979514	c
+NA
 a
-979518	a
-979520	c
 a
 a
-979527	a
-c
-979533	c
+NA
 a
-979536	c
-c
-979539	c
 a
-979543	c
+NA
+NA
 c
-979546	c
-c
-c
 a
-979551	c
-979553	a
 a
-979556	a
-979558	a
-979560	c
-979562	c
-c
-979565	c
-979567	c
 a
-979570	a
 c
+NA
+a
 a
 c
-979576	c
-979579	c
-979581	c
-979583	c
-979593	c
-979595	c
-979597	c
 c
-979601	c
-979606	c
-979608	c
-979614	c
+a
+NA
+a
+NA
+NA
+NA
 c
+NA
 c
-979619	c
-979621	a
 a
-979624	c
-979627	c
-979631	a
-979636	a
-979640	a
-c
+a
+NA
 c
+NA
+NA
 c
 c
-979648	c
-979651	c
-979658	a
 a
-c
+NA
+NA
 a
-c
+NA
 a
-979665	a
-979668	c
-c
+NA
+NA
+NA
 a
-979680	a
-c
+NA
 a
-979684	c
+NA
 a
-c
+NA
 a
-979689	c
+NA
 a
-979694	a
+NA
 a
-979698	c
-979702	c
-c
-979706	c
-c
-979711	c
-979714	c
-c
-979717	c
-979719	c
-979722	c
-979725	c
+NA
 a
+NA
 a
-979729	c
-979731	a
+NA
+NA
+NA
 a
-979735	c
-979737	a
-979739	c
-c
-979742	c
-979746	c
-c
-979751	c
-979753	c
-979755	c
+NA
+a
+NA
+a
+NA
+NA
 c
-979759	c
-979762	c
-979764	c
-979766	c
-979771	a
+NA
+NA
 a
-979774	c
+NA
 c
-979783	c
 a
-979788	c
-979791	a
-979793	c
+NA
 a
-979796	a
-979799	c
-979802	c
 a
-979807	c
+NA
 a
-979810	a
-979812	c
+NA
 c
-979816	c
-979820	c
 c
+a
+NA
 c
-979826	c
-979832	c
-979835	c
 c
-979838	c
-979842	c
-979844	a
+NA
 c
+NA
 c
 c
+NA
+NA
 c
-979853	c
+NA
 c
-979857	c
-979859	c
-979861	a
+NA
 a
-979864	c
-979867	c
+NA
 c
+NA
 a
-979872	c
-979874	c
+NA
+NA
 a
-979877	c
+NA
 c
 a
-979884	a
-979889	c
-c
+NA
+NA
 c
-979894	c
 a
 c
 a
-979899	c
-979902	c
-c
-979905	a
-979907	c
-979912	c
+NA
+NA
 a
-979918	c
 c
-979922	c
-979926	c
-979929	c
-979931	a
-979933	a
 c
-979939	c
-979941	c
-979943	a
-a
-979946	c
 a
 a
-979950	a
-979952	c
+NA
+NA
 a
-979956	c
+NA
 a
-979960	c
-979962	c
-979964	c
-a
-c
-a
-979969	c
-a
-979975	c
-979978	a
-979980	c
-979982	c
-c
-979987	c
-a
-979991	c
-c
-979994	c
-980003	c
-c
+NA
 c
-c
-980009	c
-980011	c
-c
-980015	c
-c
 a
-980020	c
-980022	c
+NA
 c
 c
-980026	c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-980030	c
-980033	c
-c
+NA
 a
-980037	c
-980039	det.
+NA
 c
-c
-980044	c
-c
-980048	a
-980050	c
-c
-980053	a
-980055	c
-a
-980060	c
-det.
-980063	a
 a
-980066	c
+NA
 a
-980069	a
+NA
 c
 a
-980073	c
-c
+NA
 a
-980077	c
+NA
+NA
 c
-c
+a
+NA
 a
-980083	c
+NA
 c
+NA
 a
+NA
+NA
 c
 a
+NA
 a
+NA
+NA
 a
+NA
 a
-c
-980093	c
-980097	c
-c
+NA
+NA
+NA
 a
-980101	c
 a
-980104	c
-980106	c
+NA
 c
-980109	c
 a
-980112	c
-det.
-980115	c
-980118	c
-980121	c
-det.
-c
-c
 a
-980128	a
-980131	c
-980133	c
-980135	c
+NA
 c
-980144	a
-c
 a
-980154	a
-980158	c
 a
 a
 a
-980168	a
-980171	a
-980175	c
-980178	c
-980181	c
-980183	a
-980185	c
-980188	a
-980190	a
-980192	a
-980194	c
-980197	c
-980200	c
-980202	a
-980206	c
-980211	c
-980213	c
-980219	a
-980221	c
-980224	c
-980226	a
-980230	a
-980232	c
-980237	c
+NA
 a
-980240	c
-980243	c
+NA
 a
-980246	c
 a
-980249	a
+NA
 a
-980252	a
-980254	a
-980256	c
-980262	c
+NA
+NA
 a
-980266	c
-980268	c
+NA
 a
-c
+NA
 c
-a
-det.
-980275	det.
-980277	c
 c
 a
-980281	c
-det.
-980284	det.
+NA
 a
 c
-980290	c
 a
-c
-980294	c
-980296	c
-c
-980302	c
-980305	a
-980307	a
-980311	a
-980314	c
 a
-980317	c
-c
-980323	c
+NA
 c
-c
-a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-980331	a
 c
-980338	c
-980340	c
-980347	a
-980354	c
-980356	c
+NA
+NA
+NA
+NA
+NA
 a
-980359	c
+NA
 a
+NA
 c
-980365	a
-980368	det.
-980370	c
-c
-c
-980374	c
-980376	c
-c
 a
-980380	a
-c
-980384	c
-980386	c
-980388	c
-980395	c
-980397	c
-980401	a
-980403	c
-980405	a
+NA
 a
-980408	c
-980410	c
 a
-980414	det.
-980417	det.
-det.
-c
-c
-c
-c
-c
-c
-980426	c
-c
 c
+NA
+NA
+NA
+NA
 c
-c
-c
-980433	c
 a
-det.
-980438	a
-980442	c
+NA
+NA
 a
-980446	c
-det.
-980454	c
-c
-980457	a
-980460	c
-980462	c
-c
-980468	c
-980472	c
+NA
+NA
 a
-980476	c
-c
-980479	a
-c
-980483	det.
-det.
-980487	c
-980489	a
+NA
+NA
 a
-980495	a
-980498	c
-980502	det.
-det.
 c
-980512	det.
-980516	a
-c
 a
-c
-c
-980522	a
-980526	a
-980529	c
+a
 c
-980532	c
-980534	c
-980536	c
-980539	c
+a
+NA
 c
-980543	det.
-980551	c
 a
-980555	a
-980557	c
-980562	det.
-det.
+NA
+NA
 a
 a
-980568	c
+a
+NA
+NA
+NA
 c
-det.
-980574	c
-det.
-980577	det.
-980584	det.
-det.
 c
-980592	c
+a
+NA
+NA
 c
-980597	c
-det.
-980606	det.
 a
+NA
 a
-980610	c
-980612	a
-980614	c
-980618	a
-980626	det.
-980628	a
-980637	c
-980640	a
+NA
+NA
+NA
+NA
+NA
 c
-det.
-det.
-980645	a
-980648	c
-980650	c
+NA
 a
-980658	c
-980660	a
-980665	c
-980669	c
-a
-980674	a
-980690	det.
-980692	c
-980694	a
-980696	c
+NA
+NA
+NA
+NA
 c
-980699	a
-980701	c
+NA
 c
-980705	c
 c
-a
-980713	a
 a
-980716	c
-980718	c
-c
-980722	c
-980726	c
 a
-980730	a
-980735	a
-980738	det.
+NA
 a
-980741	c
+NA
+NA
+c
+NA
 a
-980751	c
 c
-980754	c
+NA
+NA
+c
 a
-980759	c
-980764	c
+NA
 c
-980770	a
-980775	a
-980781	c
 c
-980784	c
 c
-980788	c
-980792	a
-980796	c
-a
-980800	c
-980804	c
-980806	c
-a
-980809	c
-980813	c
-980815	a
-a
-980823	a
-980829	c
-980831	a
+NA
+NA
 c
-a
-980836	c
+NA
 c
-980840	c
+NA
 c
-980843	c
-980847	c
-980852	c
 c
 a
-980856	c
+NA
+NA
+NA
+NA
+NA
 c
-980859	c
-a
-980862	c
-a
-980870	det.
-980873	a
-980878	a
-980882	a
-980885	det.
-980887	a
-980889	det.
 c
+NA
+NA
+NA
+a
 c
-980894	a
+NA
 a
-980898	det.
-980901	det.
 c
-det.
-980906	det.
-980908	c
-det.
-980911	c
-det.
 a
-980918	a
-980926	c
-980928	c
-det.
-980935	a
-980942	a
-980944	c
 a
 c
-980951	a
-980953	a
-980955	a
-980959	c
+NA
+a
 c
-980964	c
-980966	c
-980968	c
-980971	c
-980975	c
-980977	c
-980980	c
+a
+NA
+NA
+NA
 c
-980988	a
-980993	a
-980995	c
+a
+NA
+NA
+NA
 c
-980999	c
+a
 c
-981002	c
 c
-981005	c
-981009	c
 a
-981012	c
-981016	a
-c
-det.
-981021	a
-981024	c
-det.
-981027	c
-981032	a
-981034	a
+a
 a
-981039	a
+NA
+a
+NA
+NA
+NA
+NA
 c
 c
 c
+NA
+a
+NA
 c
-981049	a
-981051	a
 c
-det.
-a
 a
-981068	a
-a
-981072	c
-981074	det.
-981076	c
-981079	c
-981081	a
-981085	a
-a
-a
-981089	c
+det.
 a
-981093	c
-981098	a
-981100	c
+NA
 a
+NA
 a
+NA
+c
 a
-981105	c
-981111	a
-981113	a
-981116	c
+NA
 det.
-981120	c
-981122	a
-981125	det.
-981133	c
-c
+a
 c
+a
+NA
 a
+NA
 c
-981139	c
-981144	c
+NA
+NA
+NA
+NA
 c
-981147	c
-981152	a
 c
-981155	a
-981157	c
-981160	a
-981162	c
 c
-981165	c
 a
-981175	c
-det.
-981178	det.
-c
-c
-981183	det.
-981185	c
-981191	a
-981193	c
-981195	c
+NA
 a
+NA
 a
-981204	c
 a
+NA
+NA
 c
-981210	det.
-981214	a
 a
-981218	c
-c
-c
-981222	c
-981224	a
-981226	c
-981229	c
-c
-c
-981236	c
-c
-981241	c
-c
-981245	a
 a
-981251	a
-981253	c
-981256	c
-981258	a
-981260	c
-981263	a
-981266	c
-c
-det.
-c
-981271	c
-981275	a
-981277	c
+a
 c
-981281	det.
-981283	a
-981285	c
 c
 a
-981290	c
-981295	det.
-det.
-981300	c
-981303	c
-981305	c
-det.
-981308	det.
-det.
-981316	a
-981318	c
-det.
-981322	c
-981324	det.
-981326	c
-981329	c
-981334	c
-det.
+NA
+NA
+NA
 a
-981342	c
+NA
+NA
 c
-981345	c
 a
-981348	c
-981350	c
-det.
+NA
 a
-981354	c
-981356	a
-c
-981359	c
-c
+a
 c
+a
+a
+NA
+a
+NA
+a
+NA
 c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
 c
-981365	c
+a
 a
-981369	c
 c
-981372	c
 c
 c
 a
-981379	c
+a
 c
-981383	c
-981385	a
-981387	a
-981391	c
-det.
 c
+a
+NA
 c
 a
-981406	c
-981418	a
-981422	c
+NA
 a
-981426	c
-981437	a
-981441	c
-c
-981445	c
-981448	c
-981450	a
-981452	a
-981454	c
+a
+NA
 c
+NA
 c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-981459	a
-981461	a
-981465	c
 c
+NA
+a
+NA
+NA
 c
+NA
+NA
 c
-a
-a
-a
 a
-981474	c
-981476	a
-981482	c
-981484	c
-981487	c
-981490	c
+NA
 c
+NA
 c
-981498	a
 a
+NA
+NA
+NA
+c
+a
+NA
+NA
+c
 a
+NA
+c
+NA
 a
+NA
+NA
 a
-981509	a
+NA
 a
+c
+NA
 a
-981513	a
-981515	c
-981520	a
-981522	c
-981524	c
-981526	c
-981528	c
-981533	a
-981536	a
-981539	c
-981542	c
+NA
+NA
+c
 a
-981545	c
 c
-det.
-981549	c
+c
+NA
 c
+NA
+NA
+c
+NA
 a
-981553	a
-981556	c
-981559	a
-981561	c
-981566	c
-981570	a
+c
+NA
+NA
 a
-981573	det.
 a
-981576	c
 a
 a
-981581	c
+NA
 a
-981584	a
-981586	c
-c
-981590	det.
-981592	a
-c
-981595	a
+NA
 a
-981598	c
+NA
 c
+NA
+NA
 a
-981602	a
+NA
 c
-981607	c
 c
 c
+NA
 a
+NA
+NA
 c
+NA
 a
 a
-981615	c
+NA
 a
-981620	det.
-det.
-981625	c
-981627	c
-981630	c
-det.
-c
-981635	c
-981637	c
-det.
-981641	c
+NA
+NA
+NA
+NA
 a
-c
 a
-det.
-981649	c
+NA
+NA
+NA
 a
-981653	c
+NA
 a
+c
 a
-981657	c
+NA
 a
-981660	c
-981662	c
-det.
-981667	a
-981669	c
+a
+NA
+c
 c
-981674	c
-981678	a
-981683	c
-981689	c
-981692	c
-981694	c
+NA
 c
-981699	c
 a
-981703	a
+NA
 c
-981710	c
-981712	c
-981714	a
+a
+NA
 c
 c
 a
+NA
+NA
 a
-981725	a
+NA
 a
-det.
-981729	a
-981731	c
+NA
+NA
 a
-981734	a
-981741	c
-981744	a
-981746	a
+NA
 c
+NA
 c
-981750	a
-981754	a
-c
-981759	a
 a
-981764	c
+NA
 c
-981767	a
 c
+a
+NA
 c
-981772	a
-981774	a
+NA
 a
+NA
 c
-981780	a
-981782	c
 c
-981786	c
-981794	c
 a
-981799	c
-981804	c
+NA
 c
-981807	a
-981810	c
-981812	a
+NA
+a
 c
-981818	c
+a
+NA
 a
-981821	a
 c
-981829	det.
-981834	a
 a
+c
 a
-981839	c
+NA
 c
-981845	c
-981847	c
-981850	c
-981855	c
+a
 c
-981858	c
-981861	a
+NA
+NA
 a
+NA
+NA
 a
-981865	c
+NA
 a
-981868	a
-981870	c
-981874	c
+NA
+NA
+NA
+NA
 a
-981877	a
+NA
+NA
 c
-981883	c
-c
 a
+NA
 c
-981895	c
+NA
 c
-981901	c
-981905	c
-a
-981908	a
+NA
 c
+NA
 a
 c
+NA
 c
-981915	a
-981923	a
-981926	c
-c
-c
-981930	c
-981933	a
+NA
 a
+NA
 c
-981937	a
-981939	c
-981941	c
+NA
 c
-981947	c
+NA
+NA
+NA
 c
-981950	c
-981952	c
-a
-981957	c
+NA
+NA
+NA
+NA
+c
 a
-981961	c
+NA
 a
-981964	c
-c
-c
-c
-981969	c
+NA
 a
-981972	c
-det.
-981975	c
-det.
-981980	c
-det.
-981983	a
-det.
-981986	c
-c
 a
-981990	a
-981992	a
-981994	a
 a
-981997	c
+NA
 a
 a
-det.
-982002	c
-det.
-982006	det.
-det.
-982009	c
-det.
-982012	c
-982014	a
 a
-982018	det.
+NA
 a
+NA
 c
-982023	c
-982026	c
-982028	c
-det.
-982031	c
-982034	c
 a
-982038	c
-982040	c
+NA
 a
-det.
-det.
-982045	c
+NA
 c
-982049	a
-982051	a
-982053	c
-a
-982057	det.
-982059	det.
-982061	c
 c
-det.
-982068	c
-982070	a
-982073	a
-982076	a
-982079	a
-982081	c
+c
 a
+NA
+NA
+NA
+NA
 c
-982087	det.
-det.
-982093	a
-982095	c
+NA
+NA
+c
+c
 a
-982098	c
+NA
 a
-det.
-det.
-982103	c
-det.
+NA
+NA
+NA
+NA
 det.
-982107	c
-982109	c
-det.
-982112	a
-a
+NA
 a
 c
+NA
+NA
+NA
 a
-982118	a
-982120	c
-det.
+NA
+NA
+NA
+NA
+NA
 a
-982124	a
-982126	c
-det.
-det.
-982131	a
-982134	a
 c
 a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-982140	a
-982144	det.
-982146	c
-det.
-982149	c
-982151	c
-det.
-982154	a
-982156	det.
-det.
-982159	c
-982163	a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+c
+a
+NA
 c
-982166	det.
-982168	a
-982171	a
-982174	a
+NA
+NA
+NA
 c
-det.
-982178	c
 a
-982182	det.
-det.
-982185	c
-det.
 a
-det.
-det.
-982192	det.
-982194	a
-982196	c
-982198	c
 c
-det.
-982205	c
-det.
-982209	det.
+NA
 det.
-982212	c
-982218	det.
-982220	c
-det.
-982223	det.
-982225	c
+NA
+NA
+c
 a
-det.
-982231	c
+NA
 a
 a
-982235	c
+c
+NA
+NA
+NA
 a
-982238	c
-det.
+NA
 c
-det.
-det.
-982245	c
-982247	c
-982249	c
+NA
+NA
 a
 a
-982253	a
-det.
 a
+NA
+NA
 c
+NA
+NA
 a
-982259	c
 a
-982262	c
 c
-c
-982266	c
-982268	c
-982273	a
-c
-982276	det.
+NA
 a
-982279	c
 a
-982282	c
+det.
+det.
+det.
+NA
+NA
 a
-982286	a
-982289	a
-982292	c
+NA
+NA
+NA
+NA
 a
-982295	a
-982297	c
+NA
+NA
 a
-982300	a
-982302	a
-c
+NA
 a
-982306	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-982309	c
+NA
 a
-c
-c
+NA
+det.
 a
+NA
+NA
 a
-982316	c
-c
 a
-982321	a
 c
-c
-det.
 det.
+NA
+a
+NA
 c
-982329	c
+NA
+NA
 a
-982337	c
-982339	c
 a
-982345	c
-982347	a
-982350	c
-982352	a
-982354	c
-c
-982360	c
-982363	c
+NA
+NA
+det.
+det.
+NA
 c
+NA
+det.
 a
-982367	c
-982370	c
-982372	c
-c
-982375	c
+NA
+NA
 c
-982378	c
-982380	c
-982383	c
-a
-982388	a
 c
-det.
-982394	c
 c
 a
-982398	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
 a
-982402	a
+NA
 a
-982405	c
+NA
 a
-982408	c
+NA
 a
-982414	c
 c
 a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
 c
+NA
+NA
 det.
-982422	a
-982425	c
-982428	c
-982430	a
-982432	c
+NA
+a
+NA
+NA
+NA
+c
 det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
 det.
-982436	a
+NA
+NA
 c
+NA
+NA
 det.
-982440	c
-982442	c
-a
-982445	det.
-a
-982448	a
-982451	det.
+NA
+NA
+NA
+NA
+NA
 det.
-982457	det.
+NA
+NA
+NA
 det.
-982460	a
-982464	c
-982466	c
+NA
 c
-982472	a
-982474	c
-982476	a
-982479	a
-982482	a
-982485	a
-982487	c
-982490	a
-982495	c
 c
+det.
 a
-982501	c
-c
-982504	a
-982507	a
-982513	c
-982515	c
+NA
+NA
+a
+NA
+NA
 c
-982518	c
-982521	c
 a
-982524	c
+NA
 a
 a
-c
 a
-982530	c
+NA
 a
-982535	c
+NA
 c
 a
-a
-982540	c
-982542	c
-c
-982549	c
-982555	a
-982559	c
 c
-982562	c
 a
-982567	a
-c
 a
+NA
+NA
+NA
 a
-982574	c
-det.
-982579	a
+NA
+NA
+NA
 a
 a
-982586	c
-982590	a
-982592	c
+NA
+NA
+c
+NA
+c
+NA
 a
-982605	a
-982613	c
-982615	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-982625	c
-982629	a
-982632	c
-982634	c
+NA
+NA
+NA
+c
+NA
+NA
 det.
-982639	c
-982642	c
-982649	a
-982651	c
-a
-982656	c
+NA
 c
-982660	det.
-982664	det.
-982667	c
 a
-982670	a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
+NA
 c
-982673	c
 c
+det.
 a
-982677	c
+NA
 a
-982680	a
-982684	c
-det.
-982687	c
-c
+NA
+NA
 a
-982691	c
-det.
-982697	c
-982699	a
+NA
 a
 a
-982703	det.
-982706	c
-det.
-det.
+a
+NA
+a
+a
+NA
+NA
+NA
+a
+NA
+NA
 c
-982711	c
 c
+NA
+NA
+NA
+NA
 c
-982723	c
+NA
+NA
 c
-982726	a
-982729	c
+NA
+NA
 c
+NA
+NA
+c
+NA
+a
+NA
 a
-982734	c
 c
 a
-982739	c
-982741	c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
-det.
-det.
-982746	c
-982749	c
-982752	a
-982756	a
+NA
+NA
 det.
-982760	c
 det.
-982763	a
-982765	a
-982767	c
+NA
+NA
 c
+det.
 a
-982773	c
-c
-982776	c
-982778	det.
+NA
+NA
+a
+a
+NA
 a
+c
 a
-982782	c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-982786	c
-982788	c
+c
 a
-982791	c
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+det.
+NA
 a
-982794	c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 c
-982797	det.
-982800	c
+NA
+NA
 det.
-982803	c
+NA
 det.
+NA
+NA
+NA
+NA
+NA
 c
-982810	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 det.
-982815	a
+NA
+NA
+NA
+NA
 det.
+NA
+c
+c
 det.
-982820	c
-982822	c
+c
+c
 a
-982827	c
-982829	c
-982831	c
 a
-982834	c
-982836	c
+NA
 det.
 a
+NA
+NA
+NA
 a
+c
 a
-982842	det.
-982844	c
+NA
+NA
+NA
 a
+NA
+NA
+det.
+NA
+NA
+NA
 a
-c
 a
-982851	a
+NA
 c
-982856	c
-det.
-982860	a
-a
-982865	a
-982868	a
-982881	a
+NA
 a
+NA
 a
-982885	c
-det.
-982889	det.
-982892	c
-det.
-982897	c
 c
-982904	c
+NA
 c
+NA
+NA
 c
-a
-a
-982910	a
-982912	c
 c
-det.
+NA
+c
+NA
 c
+NA
+NA
 c
+NA
 c
+a
+NA
 c
-982920	c
-982922	a
-982926	c
-982928	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-982932	a
-982935	a
-a
-982938	a
-a
-982941	a
-982944	c
-982946	det.
+NA
+NA
 c
-a
+NA
 det.
+NA
 a
-982955	a
-det.
-det.
-982959	det.
-982961	a
-982963	a
 a
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
 c
-det.
-det.
-982972	a
+NA
+NA
+NA
 a
-982975	c
 a
+NA
+NA
 c
-982983	c
+a
+NA
 c
+NA
+NA
+NA
+a
+NA
 c
+NA
+NA
 c
-a
-982989	c
-982991	a
-982993	a
-982996	c
-982998	c
+NA
 c
-983003	a
-983005	c
-a
-983008	c
-983010	c
-a
-983013	c
-983015	c
-983017	c
+NA
+NA
 c
-983021	c
-a
-983025	c
-983029	c
-a
-983032	a
-983034	det.
-983037	det.
-983040	c
-det.
+NA
+NA
+NA
 c
-983046	c
-983048	c
-a
-983052	a
+NA
+NA
+NA
+NA
+NA
 c
-983057	c
-a
-983060	det.
-983062	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-det.
-a
-983068	c
-983070	c
-983072	c
-983076	c
-det.
-det.
-983080	det.
+NA
+NA
 c
-983085	c
-det.
-983090	c
-det.
-983093	c
-983097	det.
-983099	c
-det.
-983102	det.
-983105	c
-det.
+NA
+NA
+NA
+c
+NA
 a
-983109	c
+NA
+c
 a
-983112	det.
-983115	c
+NA
+NA
+NA
+NA
+NA
 det.
-983118	c
-det.
-983121	det.
-983125	c
 c
-det.
-983130	c
 c
+a
+NA
+a
+NA
+a
+NA
 det.
-983138	a
 a
-983141	c
+NA
 c
-det.
-983145	c
+NA
+NA
 c
-det.
-983149	c
-983153	c
-a
-983156	det.
-983159	c
+NA
 c
-983164	c
-det.
-983167	c
-det.
-983171	det.
-det.
-983175	c
-det.
-det.
-det.
-983180	a
-983182	c
-983184	c
-983188	c
-983191	c
-983193	det.
-det.
-det.
-983197	det.
-983200	c
-det.
+NA
 c
-det.
-983206	a
-a
-983209	det.
-983211	det.
-983213	c
+NA
+c
+c
+NA
+NA
+NA
 det.
-983216	c
-983218	det.
-983221	c
 det.
-983224	c
+NA
 a
-983227	a
-983229	c
-983231	c
+NA
+a
+NA
 c
-983234	a
-983240	c
+NA
 a
-983244	c
+NA
 c
+NA
+NA
 c
-983248	a
-983250	c
+NA
+NA
 c
+NA
+NA
 c
+NA
+a
 c
-983256	c
+a
+NA
+a
+NA
 a
-983259	c
+NA
+det.
 a
-983264	c
+NA
 c
-983267	c
+NA
+NA
+NA
+NA
 a
-983270	c
 a
-983273	a
-983275	det.
-983277	c
-983281	det.
-983286	det.
 a
-983289	c
+NA
 a
-983293	det.
-983295	c
-983297	c
-c
-det.
+a
+a
+a
+NA
+a
+NA
+a
+a
 det.
-983303	det.
-983306	det.
-c
-983310	det.
+NA
 c
+NA
 det.
-c
-983315	det.
-c
-c
+NA
+NA
+NA
+NA
 a
-983320	c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
+NA
 det.
-983327	det.
-a
+NA
+c
+NA
+NA
+c
 a
-983332	c
-983343	a
+NA
 a
-983347	c
-983349	c
+NA
 a
-983353	c
-983357	c
+NA
+NA
+NA
 c
-983364	a
-983368	a
+NA
+NA
+NA
 a
+c
+NA
 c
-983374	a
+NA
+NA
+NA
+NA
+NA
 a
-983377	a
+NA
+a
 c
+a
 c
-983382	c
 c
+NA
+NA
+NA
+det.
+det.
+NA
 c
-983386	c
 c
 a
-983390	c
-983392	c
 c
+a
+NA
 det.
-c
-983397	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-983400	c
-983404	a
+NA
 c
-983407	c
-983409	c
+det.
 a
-983413	c
-c
-983416	c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-983419	c
+NA
+NA
+NA
 c
-det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 det.
 a
-983426	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-983430	a
 a
-983433	c
-c
-983436	c
+NA
+a
+NA
+NA
 c
-983443	c
-983445	c
+NA
 a
-983450	c
+NA
+NA
 c
 c
-983454	a
-983458	c
+NA
+NA
 c
+NA
+NA
+NA
 c
-983463	c
-983467	c
-983470	c
-a
-a
-983475	c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
 c
-983480	a
-983482	c
-983485	c
-983489	a
-983491	a
+NA
 a
+NA
+c
+NA
 a
+NA
 c
+NA
 a
-983497	c
-983499	c
-983501	c
-983503	a
+NA
+NA
+c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
+det.
+a
 a
-983509	a
-983511	a
-983513	a
-983515	det.
+NA
+NA
+NA
 det.
-983518	c
-983524	c
-983526	c
+NA
+NA
+det.
+NA
+c
 c
+a
+NA
+NA
+a
+NA
 a
-983530	a
-983535	a
-983541	a
-983543	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
-983547	a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+NA
+NA
+c
 a
-983550	a
-983552	c
-983555	a
 a
-983558	c
-983560	det.
-983562	c
-983564	c
-983566	c
+NA
+NA
+NA
 c
-983569	c
 c
+NA
+a
+NA
+NA
+NA
 c
-983573	c
-983575	c
+a
+NA
+NA
 c
+NA
+det.
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 c
+det.
+NA
 c
-983582	c
+NA
+NA
+NA
 a
-983585	c
-983589	c
 c
+NA
+NA
 a
 a
-983594	a
-983597	a
-983599	a
-983601	c
-c
+NA
 a
-det.
-983607	c
-983609	c
+NA
+NA
+NA
+NA
 a
-983612	det.
+NA
 c
-a
-983616	c
-983618	c
-983620	c
-983623	c
+NA
+NA
 c
-983626	c
+NA
+NA
 a
-983629	c
-983631	a
-c
+NA
+a
+NA
 c
 c
-983639	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
 c
+NA
+NA
+NA
 a
+NA
 a
-983644	a
+NA
 a
 a
-983648	a
-983650	c
+NA
+NA
 a
-983656	a
-983658	c
+NA
+NA
+NA
+NA
 c
-c
 a
 c
-983664	c
 a
-983670	a
-983672	c
-983674	c
-983676	c
-c
-983681	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-c
-983686	c
 a
-983689	c
-c
-983692	c
+NA
+NA
+NA
 c
 a
-983698	c
+NA
 c
-983701	c
-983704	a
+NA
+NA
+NA
+a
+a
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-983709	a
 a
-983712	a
-983714	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-983721	c
 a
-983729	c
-983731	c
 a
-983734	a
-983736	a
-983740	c
 a
+NA
 a
-c
-983745	c
-c
+NA
 a
-983749	a
-983751	a
-983754	a
+NA
 a
+NA
 a
-c
-983759	a
-c
-983768	c
+a
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-983773	c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-983780	c
-983782	c
-983791	a
-983794	c
+NA
 a
+NA
 a
+NA
+NA
+c
 a
+NA
+NA
 c
-983800	a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-983812	c
-983814	a
-a
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
-983821	det.
-983823	c
-983830	a
+NA
+NA
+NA
 c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
 a
-983837	a
-983840	c
-983842	a
-983845	c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 c
-983848	a
-983851	a
+NA
 c
+NA
+NA
+NA
 c
-a
-983860	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
 det.
-983867	det.
+NA
+NA
 det.
-983871	a
-983875	a
+NA
+NA
+det.
+det.
+NA
+NA
 c
 c
+NA
+NA
+det.
+NA
+a
+det.
+NA
+NA
 c
 c
-983882	a
-a
-983885	a
-983891	a
+det.
+NA
+NA
 c
-983894	c
-983896	c
 c
+NA
+NA
+det.
+NA
+NA
+NA
 c
-983900	det.
-a
-983904	c
-983907	c
-983910	c
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
 a
+det.
+NA
+det.
+NA
 a
-c
+det.
+NA
 det.
-983920	c
-983922	c
-983924	det.
-983927	a
 det.
-983930	c
+NA
+NA
+NA
+NA
+c
 a
-983933	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
 det.
-983937	a
-a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+det.
+NA
 a
-983943	c
+det.
+NA
+NA
+det.
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
 a
-983947	c
+NA
 a
-983952	a
-983954	det.
-983957	a
-983959	a
+NA
+NA
+NA
 c
-983962	a
-983965	c
+NA
 c
+NA
+NA
+c
 det.
-983969	c
+NA
 a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 c
+NA
+NA
+NA
 c
-983975	c
+NA
 c
+a
+NA
+c
+det.
+NA
 c
+a
 a
-983981	c
 a
-983984	a
-983986	a
+NA
 a
+a
+a
+NA
+a
+NA
+NA
 c
-983990	c
-983994	c
-983996	det.
-983998	c
+NA
+NA
+NA
+NA
+NA
 a
-984002	det.
-det.
+a
+NA
+c
 det.
+NA
+NA
+a
+NA
+a
+a
+a
+a
+NA
+a
 a
-984008	a
+NA
+NA
+NA
+det.
+det.
 a
-984011	det.
-984014	c
+NA
 c
 a
+NA
+c
+NA
 det.
-984019	a
+NA
 c
-984022	c
+a
+NA
+det.
+NA
 a
+NA
+NA
 c
 a
-984029	a
-984031	c
+NA
+NA
+NA
 a
 a
-984035	a
+NA
 c
-det.
+NA
+NA
 c
+NA
 c
-984041	a
-984043	a
-984045	a
-984047	a
-984050	c
-a
-984053	c
+NA
+NA
 c
-det.
-984057	a
+NA
+NA
 c
-984060	det.
-984063	det.
-984065	c
+NA
+NA
 c
+NA
 c
+NA
+NA
 c
-984072	c
-a
+NA
+NA
 c
+NA
 c
-984077	c
+NA
 c
+NA
+NA
 c
-984081	det.
-984083	c
-984087	c
-det.
-984090	c
-a
-984093	a
-a
-a
-a
-984099	a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
 a
-984104	a
-984106	det.
-984108	det.
-984110	a
+NA
 c
+NA
 a
+NA
 c
-984115	c
+NA
 a
-984121	c
+NA
+NA
+NA
+c
 a
+NA
+NA
 c
+NA
 c
-a
+NA
+NA
+NA
 c
-a
-984131	c
-984133	a
-a
-984136	det.
-984138	a
-984143	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-984146	det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 det.
-984150	c
+NA
+NA
+NA
+det.
+det.
+NA
+NA
 c
-984153	a
-984159	a
-984161	det.
+det.
 c
+NA
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-a
-984168	det.
-984173	a
-984175	det.
-984177	a
-984184	det.
-984186	c
+NA
+NA
+NA
 c
-a
-984191	c
-984193	c
-984196	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 a
-984201	c
+NA
 det.
-984204	det.
-984207	c
-984210	a
-984213	a
-984215	a
-984217	det.
-984219	a
-984222	a
-984225	a
+NA
+NA
 a
-984228	c
+NA
+NA
 a
-984231	a
-c
+NA
+a
+NA
 c
 a
+NA
 a
-984237	a
-984240	c
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
 c
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
 a
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
+c
 a
-984248	c
+NA
 a
-984251	a
+NA
 a
 a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 c
-984256	a
+NA
+NA
+c
+NA
+c
+NA
 a
+NA
 c
+NA
 a
+NA
 c
+NA
 a
-984263	a
+NA
+det.
+NA
+c
 c
 a
-984272	c
+NA
+NA
 c
-984276	c
+NA
 c
-984280	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984284	a
-984290	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984293	a
-a
-984298	c
+NA
 c
+NA
+NA
+NA
+NA
 c
-984302	det.
-984304	a
-984310	c
+NA
 c
-984313	det.
-984315	a
+NA
+NA
+a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+det.
+NA
+a
+det.
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 c
-984318	c
-984320	c
-984324	a
-984326	c
-984328	c
+det.
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+det.
+NA
+NA
+det.
+NA
 c
-984331	c
+NA
+NA
+NA
 c
-984335	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 a
-984340	c
-984342	det.
-984348	a
+NA
+NA
+NA
 c
-984351	a
 c
+det.
 a
+NA
 a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 a
+NA
+NA
 c
 a
-c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-984362	a
-c
-984365	c
-984369	c
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+a
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
 a
+NA
 a
-984379	a
+NA
 c
-984384	c
 det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-984389	c
-984397	c
-984399	a
+NA
+NA
+det.
+NA
+NA
+NA
 c
+a
 a
+a
+NA
+a
+a
+a
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
-984406	c
-984409	det.
-det.
-984412	a
+NA
+NA
 c
-984415	c
-984421	a
+c
+NA
+a
+NA
+c
+NA
 a
-984424	c
+NA
+c
+NA
 a
+NA
+NA
 c
-984428	det.
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+a
+NA
+a
+NA
+a
 a
-984432	det.
-984438	a
-984441	a
-984446	det.
+NA
+a
+NA
 c
 c
-984452	c
+NA
+NA
+NA
 a
-984455	a
-984457	c
+NA
 c
-984463	a
+NA
 c
-984467	a
-det.
-det.
-det.
-984472	det.
+a
+NA
+NA
 det.
-984475	c
-984479	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+a
+NA
 a
+a
+NA
+NA
+c
 c
-984486	c
-984488	det.
+NA
+NA
+NA
 det.
-984491	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-984497	c
+NA
+a
+NA
 c
-984500	c
-984502	c
-det.
-det.
-984510	c
-det.
-984514	c
 c
+NA
+NA
+det.
 c
-984519	c
-984521	c
-984528	c
-984530	a
-984533	a
+NA
+NA
 det.
 det.
-984539	c
+c
+a
+NA
+NA
+NA
+NA
 a
-984546	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984549	c
-984553	det.
-984555	c
+a
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984561	c
+det.
+a
+NA
+NA
 c
+NA
+NA
 a
-984565	det.
-984569	a
-984571	a
-984577	c
-984579	a
 a
-984583	a
-984591	c
+a
+NA
+NA
+NA
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-984596	c
-984598	c
-984600	c
-984605	c
-984610	c
-984614	c
+NA
 c
-984619	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984623	c
+NA
+NA
 c
-984626	c
-det.
-984630	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984633	c
-a
-984637	c
-984639	c
-984641	c
-984644	c
+NA
 c
-984649	c
+NA
+NA
+NA
 c
-984653	c
+NA
 a
-984656	c
+c
 a
-984660	c
 a
-984664	c
-c
-984667	c
-984669	a
-984671	a
-984675	a
-984677	a
-984679	c
-984681	c
-984685	c
-984690	c
-984697	a
+NA
+NA
+NA
 c
-det.
-984702	c
-984704	a
-984706	a
-984709	c
-984712	c
-984716	c
-984719	a
-984723	c
-c
-det.
-984730	c
+NA
+NA
 c
-984735	c
+NA
+NA
+NA
 a
-984738	c
-984743	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
 a
-984750	a
-984752	a
-984754	a
-984759	det.
-984765	c
+NA
 c
-984768	c
+NA
+NA
+NA
 c
+NA
 c
-984776	c
-984780	c
-det.
+NA
+NA
+NA
+NA
 c
-984785	c
-det.
-984788	c
-det.
-984792	c
-984795	c
-984797	c
-984799	c
-a
-984806	c
-984808	det.
-984810	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984814	a
-984820	c
+NA
+c
+a
+a
+a
+a
+NA
 det.
-984825	c
-984828	c
-984833	c
-984835	c
+NA
+NA
 a
-984838	c
-984844	c
-984847	c
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
 det.
-984851	c
 det.
-984855	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-984859	c
+NA
+NA
 c
-984864	c
-det.
-984868	c
+NA
 a
-984871	a
-984873	a
+NA
 a
-984876	c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-984880	c
-984882	c
-984886	c
+NA
+NA
 c
-984889	c
+NA
+NA
 c
-984893	a
-984895	a
-984902	c
-a
+NA
+c
+NA
 a
-984907	c
+NA
+c
 a
-984910	c
-984913	c
-984916	c
-984919	c
-984921	c
+NA
+NA
+NA
 c
-984924	c
+NA
+NA
+NA
 c
-984927	c
-984929	a
-984932	a
-984934	c
-a
-984939	c
-984947	c
-984949	c
+NA
+NA
+NA
 c
-984954	a
-a
-984957	c
-984960	c
-984963	c
+NA
+c
 c
-984967	c
+NA
 det.
-984973	det.
-984977	c
-984980	c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
+NA
 c
-984986	c
-984988	c
-984990	c
-984994	c
-984996	c
+NA
+NA
 c
-985000	c
-985002	c
-985006	c
+det.
+NA
+NA
 c
-985010	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-985014	c
-985020	c
-985022	a
+NA
+NA
+NA
+NA
+NA
 c
-985027	a
-985029	a
-985031	a
-985033	c
-det.
-985038	a
-985040	c
-985043	a
-985045	c
-985048	c
-985050	c
-985056	c
-985058	c
-985062	det.
-985067	c
-985072	det.
-det.
+NA
 c
-985076	c
-985079	c
-985082	c
+NA
 c
-985085	c
-985087	c
-985090	a
-985095	c
-985098	c
-985101	c
-985103	c
-985105	c
-985107	c
+NA
+NA
+det.
 c
+det.
 c
+NA
+NA
+NA
+NA
+NA
 c
-985114	c
-985119	c
-985122	c
-985124	c
-985126	c
 a
-985131	c
-985134	a
-985137	a
-985140	c
-985142	c
-985146	c
-985148	c
-985150	c
-985154	c
-985156	det.
-det.
-985159	det.
+NA
+NA
 c
-985162	c
+NA
+NA
+NA
 det.
-985165	c
+NA
+NA
+NA
+NA
+c
 det.
-985168	c
-985171	c
+NA
+NA
+c
+c
 det.
+NA
+NA
+NA
+NA
+NA
 c
-985176	c
-a
-a
+det.
+NA
+NA
 a
-985181	c
+NA
+c
+NA
 det.
-985185	c
+NA
+NA
 c
-a
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-a
-985193	det.
+NA
+NA
+NA
+c
+NA
 det.
-985196	c
+NA
 a
-985199	a
-985201	det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-a
-985206	c
-a
-a
+NA
+NA
+NA
+NA
 c
+NA
 a
-985214	c
-985218	a
+NA
+c
+NA
+c
 det.
-985221	a
-985224	det.
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+a
+NA
+NA
+c
+NA
 det.
+c
+NA
 det.
-985233	a
-985236	c
-985239	c
+NA
+c
+NA
+c
+NA
+NA
 det.
 det.
-985244	a
-985247	a
-985251	a
-985255	c
+c
+NA
+NA
+c
+NA
 det.
-985258	det.
+NA
 det.
-985261	det.
-985269	c
-985271	c
+NA
 c
-985276	det.
-985278	c
+NA
+NA
+NA
 c
-985282	c
-det.
-985285	c
+NA
+NA
 c
-985288	c
-985292	c
-985294	c
-a
-985298	c
-a
-985301	c
+NA
+NA
+NA
 c
+NA
 det.
-985305	c
-985311	c
-985314	c
-a
+NA
+NA
 c
-985318	c
-985320	a
-985322	a
-a
+NA
+NA
+NA
+NA
+det.
+NA
 c
-985327	c
-a
-985330	c
-985332	c
-985334	c
-985336	c
-985338	c
-985340	a
-a
-985343	c
+NA
+NA
 c
-985346	c
-985350	a
-985352	c
-a
-985356	c
+NA
+NA
 c
-985359	c
-985362	det.
-985364	c
+NA
+NA
 c
-985370	c
-985372	det.
-985374	c
-985378	c
-985380	c
-985382	c
+NA
+NA
 c
-985385	c
-985387	c
+NA
+NA
 c
-985390	c
-a
-985395	c
+NA
+NA
 c
-985399	a
-a
-985406	a
-985408	c
-985410	c
-985417	a
-985420	det.
-985425	c
-985427	c
-a
-985431	c
-a
-985434	c
-985436	c
-985438	c
+NA
+NA
+det.
 c
-a
 c
-985444	a
-985446	c
-985449	c
-a
-a
-985453	a
-det.
-985458	a
-985462	c
+NA
+NA
 c
-985465	a
-985469	c
 c
-a
+NA
+NA
 c
 c
-985475	c
-985479	c
-985481	c
-985492	a
-a
-985499	c
-a
-a
-985503	a
-985506	c
-985509	c
+NA
+NA
+NA
+det.
+NA
 c
-985513	c
-985515	c
-985517	c
-985522	c
-985524	det.
-985528	c
-a
-a
-985533	a
-985538	c
-a
-a
-a
-985543	c
+NA
 det.
-985546	c
 det.
-a
 c
+NA
+c
+NA
 det.
-a
-985554	c
-985559	a
-a
-985563	a
-985565	c
-985567	a
-985569	a
-985572	c
+NA
+det.
+NA
 c
-985575	det.
-985578	c
-a
-a
-985583	c
-985585	c
-985587	det.
+NA
+NA
 c
-985592	c
-985599	c
+NA
+NA
 c
-985602	c
-985608	det.
-985611	a
-985617	a
-985620	a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
 det.
+NA
+a
+NA
+c
 c
-985627	det.
 c
-985631	c
-985636	a
-985638	c
-985640	c
 a
-985643	a
+a
+NA
+NA
+NA
 c
+NA
 c
-985648	a
 a
-985651	det.
-985655	c
-c
-985658	det.
-985660	c
-985663	c
-985667	c
-985669	det.
-985671	c
 a
-985674	c
+NA
 c
-985678	c
-985681	c
-985683	a
-985687	a
-985689	a
-985692	a
-985694	a
-985697	c
 c
-985700	a
-a
-985703	a
-985705	c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
 a
 a
-985715	c
+NA
+NA
+NA
+NA
 c
-985718	c
-985722	c
-a
+NA
+NA
 c
-a
-985729	det.
-985731	det.
-985733	c
-985735	a
-985743	c
+NA
+NA
 c
+NA
 c
-det.
 det.
+NA
+NA
 c
-985752	c
-985755	c
-985762	c
-985766	c
-985768	c
-a
-a
-985774	a
-985778	c
-985781	a
-a
-985784	c
-985786	c
-985788	c
 c
-985792	c
-985795	c
-a
-985798	c
+NA
+NA
+NA
+NA
 c
-a
-985803	a
-985807	c
-985810	c
-985812	c
-a
-985817	c
 c
-985823	c
+NA
+NA
+NA
 c
+NA
 c
-a
-985828	a
+NA
 c
-a
-985837	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-985840	c
-985843	c
-985845	c
-985847	a
-a
-985850	c
-a
-985853	a
-985855	a
+NA
 a
-985858	c
-985860	a
-985864	det.
-a
-a
 c
-985869	c
-985871	det.
-985875	c
-det.
-985878	a
-985880	c
-985883	a
-985886	c
-det.
 det.
+a
+NA
 c
+NA
 a
-985892	c
+NA
 c
-985895	c
-det.
 det.
-985902	a
 det.
-985911	a
-985914	a
-c
-a
-985918	c
-985920	a
-985922	a
-985924	a
-985926	c
-985928	c
-985931	c
-985933	c
-c
 a
+NA
 c
-985938	c
+NA
 a
-985945	c
-985951	a
-985953	a
-985955	c
+NA
 a
-985959	c
-985961	c
-985964	c
-c
-985969	c
-985974	a
-985978	c
-c
+det.
 a
-985990	c
-985993	c
-985995	c
-985997	a
+NA
 c
-986009	c
-986013	c
-986017	c
 c
-c
 a
-986022	c
+NA
 a
-986027	c
-det.
-986031	c
-986033	c
-986035	c
+NA
 c
-986038	c
-c
+NA
 a
-986043	c
+NA
 c
 c
+NA
+a
+NA
+NA
 c
+NA
 a
+NA
 a
-det.
-986052	c
-986054	c
-c
-c
-986060	c
-c
 c
-986064	a
-986066	c
-986068	a
-986076	c
-986083	c
-986087	c
-986092	c
-986094	a
-986098	c
-det.
-986102	c
-c
-986105	c
-986107	c
-986111	a
-986114	det.
-det.
-c
-c
-c
-c
-c
-986122	c
-986125	a
-986127	c
-986131	a
+NA
 a
-986135	det.
-986139	c
+NA
+c
+NA
 a
+NA
+c
+NA
 a
-986146	c
-986152	c
+NA
+NA
+det.
 a
-986155	a
-986159	a
+NA
+NA
+det.
+NA
 a
-986163	c
-986166	a
+NA
 c
+NA
 a
-986170	c
+NA
 det.
-c
 a
-986175	c
-986177	c
+NA
+NA
 a
+NA
 c
-a
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
 a
-986185	c
+NA
+NA
 a
-986188	c
-986190	c
-c
+NA
+NA
 a
-986195	c
+NA
 c
-986203	c
 c
+NA
 c
-986208	a
+NA
+NA
 a
-c
+NA
 c
-986213	c
-986216	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-a
-986222	c
-a
-986225	a
-a
+NA
+NA
 c
-a
-a
-a
-986232	a
-986234	det.
-a
-a
-986238	c
+NA
+NA
+NA
 c
-a
-986245	c
+NA
 c
+NA
+NA
 c
-986249	c
+NA
 c
+det.
 a
-986253	c
+NA
+NA
 c
-c
-a
-986258	c
+NA
 c
+NA
+NA
 c
 a
-986265	c
 a
-986269	c
 c
-a
-986273	c
-a
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-986280	c
-c
-c
+NA
+NA
 a
 a
-986286	a
+NA
+NA
+det.
+det.
+NA
 c
-986290	c
-986292	det.
-986294	c
+a
+NA
+det.
+det.
+NA
 c
-986297	a
+a
+NA
+det.
+det.
 c
-986301	c
 a
-986304	c
+NA
+det.
+det.
 a
-986308	a
-986310	c
-986312	c
+NA
+det.
+NA
+c
+NA
+det.
+det.
+NA
 a
+NA
+det.
+det.
+NA
 c
-986319	c
+det.
+NA
+det.
+det.
+NA
 c
+NA
 a
-986323	c
-986325	c
-c
 a
-986331	a
+NA
 c
-c
-986336	c
+NA
+det.
+det.
+NA
 c
-986339	c
+det.
+NA
 a
 a
-986345	a
-986347	c
+NA
+c
+det.
+NA
 a
 a
-986352	c
+NA
 c
 a
+NA
+det.
+det.
 c
 c
-986360	c
-a
-986363	c
+det.
+NA
+det.
+det.
+c
+det.
+det.
+NA
+det.
+det.
 c
+det.
+det.
+NA
+a
 a
-986367	c
+det.
+det.
+det.
+NA
+det.
+det.
 c
-986370	c
+det.
+det.
+NA
+det.
+det.
 c
-986373	c
-a
 det.
-986379	a
-a
+det.
+NA
+det.
+det.
 c
-986383	c
-a
-986387	c
-986389	c
-986392	c
-a
-986395	c
+det.
+NA
+det.
+det.
 a
-986398	c
-986400	c
-986402	c
+NA
+det.
+det.
 c
-986406	c
-986408	c
+det.
+NA
+det.
+det.
+NA
 c
+det.
+NA
+det.
+det.
+NA
 c
-986412	c
-986417	c
 a
+NA
+det.
+det.
+NA
 c
-986421	c
-a
-986424	c
-986427	c
+det.
+NA
+det.
+det.
+NA
 c
-a
-986432	c
-a
-986437	a
-986439	c
-986441	c
-a
-986449	a
-986453	det.
-986456	c
-986460	a
+det.
+NA
+det.
+det.
 c
-986464	c
-986466	a
-986469	c
 a
-a
-a
-986474	c
+NA
+det.
+det.
 c
-986479	c
+det.
+NA
+det.
 a
-986483	c
+NA
 c
-986487	a
-986489	a
-986491	c
+det.
+NA
+det.
+det.
 c
-986496	c
 det.
+NA
 a
-986500	c
-c
-986503	c
-c
 a
-986507	c
-c
+NA
 c
+det.
+NA
 a
-986514	c
-986519	a
 a
-c
+NA
 c
-986524	c
+det.
+NA
+det.
+a
+NA
 c
 a
-986528	c
+NA
 a
-986531	a
-986533	c
 a
-986538	c
+NA
 c
-986541	a
+a
+NA
 a
-986544	a
-986546	c
+NA
 c
-986549	a
-986551	a
-986553	c
 a
-986556	c
+c
 a
-986559	c
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
+det.
+NA
 a
-986562	a
-986565	c
 a
+NA
 c
-986570	c
-c
+det.
+NA
 a
-c
-986575	c
-986578	c
-c
 a
-986582	a
-986584	a
-986587	c
+NA
+c
+det.
+NA
 a
 a
-c
-986592	c
-c
+NA
 c
 a
-986597	c
+NA
 det.
-c
+det.
+NA
 c
-a
-986603	c
+det.
+NA
+det.
+det.
+NA
 c
-a
-986607	c
+det.
+NA
 a
-986610	c
-986612	c
-c
-986615	a
-986619	c
 a
-986622	c
-986624	c
-986628	c
-c
-986634	a
-986636	c
 c
+NA
+det.
+NA
 c
+det.
+NA
 a
-986641	a
-986644	c
+a
 c
+det.
+NA
+det.
+det.
+NA
 a
-986650	c
 a
-986653	c
-986655	c
 a
-986658	c
-986660	c
+NA
+NA
+NA
 a
-986663	c
 c
-c
-986667	a
-c
-986671	c
+det.
+NA
+NA
 a
-986676	c
-c
 c
-c
-c
-986682	c
-c
-986685	c
+det.
+NA
+NA
 a
+NA
 c
-986690	a
-986693	c
-986695	c
-c
-a
-a
-986700	c
+NA
+det.
 a
+NA
+det.
+NA
+NA
+det.
 c
-986704	c
+det.
+det.
+NA
+NA
+det.
+det.
 a
-986707	c
-986709	c
 c
-986712	c
+NA
+det.
 a
-986716	c
 c
-986719	c
-986721	c
-986723	a
-986726	a
+NA
 a
-986733	c
-c
-986736	a
-986738	c
-c
-986742	a
+NA
+det.
+NA
+NA
+det.
 c
-986747	a
+det.
+det.
+NA
+NA
+det.
+det.
+a
 c
-986750	a
-986752	c
+NA
+det.
+a
 c
-986759	a
-986761	c
-986763	c
-986765	c
+NA
+det.
+NA
+det.
+NA
+NA
+det.
 c
-986769	a
-986773	c
-a
+det.
+det.
+NA
+NA
+det.
 c
-a
-986780	det.
-986782	c
 det.
-986787	a
-a
-986790	a
-986792	a
-986799	a
-986801	c
-986803	c
-a
-986806	c
+NA
 a
-986809	c
-a
-986812	c
+det.
 a
-986816	c
+NA
 c
+NA
 a
-986820	c
-a
-986824	a
-986826	a
-986829	c
+det.
 a
-986832	a
-986834	det.
-986837	a
-c
-c
-c
-986842	a
-c
+NA
 c
-986847	c
-a
-986851	c
+NA
+det.
 a
-986854	c
+NA
 c
-986857	c
+NA
 a
-986861	c
-c
+NA
+det.
+NA
+NA
+det.
+NA
 c
 a
-986866	c
-986868	c
-986870	c
-c
+NA
 c
-986878	c
-986883	c
-986886	det.
-986889	c
+NA
+NA
+det.
 c
-986896	c
-986898	c
-986903	c
 a
-986907	c
-986909	c
+NA
 c
-986913	c
-det.
+NA
+NA
 c
-986918	c
-986921	c
-986923	c
+NA
 c
-986929	a
-986931	c
 a
+NA
 c
-986935	c
-c
-986938	c
-c
-986942	a
-986945	c
+NA
+NA
+det.
 c
-986951	c
-986956	a
-986959	c
-986961	c
 a
-986964	c
-986967	c
+NA
 c
+NA
+NA
+det.
 c
-986972	c
-986974	a
-986976	c
 a
-986980	c
+NA
 c
-986985	c
-a
+NA
+NA
 c
+NA
+NA
 c
-a
-986991	c
-986993	c
+NA
+NA
 c
-a
+NA
+NA
 c
-a
-a
-987003	c
-987005	c
-a
+NA
+NA
 c
-det.
+NA
+NA
 c
+NA
+NA
+NA
 det.
-987015	c
+NA
 c
-det.
+NA
+NA
 c
-det.
+NA
+NA
 c
-det.
-987023	a
-987025	c
-a
-987028	a
-987031	c
+NA
+NA
 c
-det.
-987037	c
-a
-987042	a
-987044	c
+NA
+NA
 c
-987047	c
+NA
+NA
 c
+NA
+NA
 c
-987052	a
-987055	c
+NA
 c
+NA
+NA
 c
-987061	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-987066	c
-987069	c
+NA
+NA
+NA
 c
-987072	c
-987075	c
+NA
+NA
+NA
 c
+NA
+NA
+det.
+NA
 c
-987079	c
+NA
+NA
 c
+NA
+NA
 c
 a
-a
-987085	c
-c
+NA
 c
-a
-987090	a
-987093	c
+NA
+NA
 c
+NA
+NA
+det.
+det.
+NA
 a
-987098	c
-c
+NA
+NA
 a
-c
-987103	a
+NA
 a
-987107	a
-987111	c
-c
-987117	c
-987119	c
 a
-987123	c
-c
-c
+NA
 c
-c
+det.
+NA
+NA
+NA
+NA
+NA
 a
-987130	c
+NA
 c
-c
+det.
+NA
 a
-987135	a
-987137	c
-c
-c
-987141	c
-987144	c
 a
-987147	c
-987149	c
 a
-987152	c
-c
 a
-987157	c
-987159	c
 a
-987163	c
-c
-987166	c
-c
+NA
 a
-987170	a
-c
-987173	c
 a
 a
 a
 a
+NA
+NA
+det.
 a
-987180	a
-987183	a
-987192	c
+NA
 c
-987195	c
-987198	c
-det.
-987202	a
-987204	c
 c
+NA
+NA
+NA
 a
-987208	c
-987212	c
 c
+NA
+NA
+c
+det.
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
 c
+NA
+NA
+NA
 c
 a
-987221	c
-987223	c
+NA
+NA
+NA
 c
-987226	a
+NA
+NA
 a
+NA
 a
-c
-987231	c
-987235	a
-987238	c
-c
-987241	c
-987244	a
+NA
+NA
+NA
 a
-987249	c
-c
-c
+NA
+NA
 a
-987255	c
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-987261	det.
+det.
+NA
 a
-987267	a
-987271	c
-987277	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-987281	c
+NA
 a
-c
-987286	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-987289	a
-987291	c
 c
-987296	c
 c
-987299	c
+c
+NA
 a
-987302	a
-987304	c
+NA
+NA
+NA
+NA
 a
-987307	a
-987309	c
-987313	a
-987318	a
-987322	c
-c
+NA
 a
-det.
-987327	c
-c
-987330	c
-det.
-det.
-987337	a
-987339	a
-987343	c
-987345	c
-987348	c
-c
-987351	c
-987359	a
-987364	c
+NA
+NA
 a
-987368	a
-987370	c
+NA
+NA
+NA
+NA
 c
 c
-987374	c
-987376	c
+a
+NA
+NA
+NA
 c
-987379	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-987388	c
-987394	a
-a
-987398	c
-987401	c
+NA
+NA
+NA
 c
-det.
-987405	c
+NA
+NA
 det.
+NA
+NA
 det.
-987410	c
-c
-987415	c
-987417	c
+NA
 a
-c
-c
-987422	c
 a
-987425	c
-987430	c
-987432	c
-det.
-987435	c
-987438	a
-987443	c
-c
-987447	c
-987449	c
-c
+a
+NA
 c
-987455	c
-987457	a
-987461	c
-987467	c
-987471	c
+NA
 c
-987476	c
-987478	c
-987481	c
+NA
+a
+NA
 c
-987485	c
-987488	det.
+NA
 det.
-987497	c
-987500	c
-987502	c
 a
-987506	c
-a
-987509	c
-a
-987512	c
-a
-987515	c
-a
-987518	c
-a
+NA
 c
-987522	a
-987524	c
+NA
 a
-987527	c
-987530	c
-987532	c
-c
-987535	c
+NA
 c
-987538	c
-987543	c
-a
-987546	det.
-a
-987549	c
-987551	a
-a
-987556	c
-987558	a
 det.
 c
-987563	c
-987565	c
-987569	c
-a
-a
-987573	c
-987577	a
-987579	a
-987581	c
-987586	a
-987588	c
-987593	c
-det.
-987596	det.
+NA
+NA
+NA
+NA
 c
-987600	c
+NA
+NA
 c
-987603	a
-987605	a
-987608	c
-987611	c
 c
 c
-987620	c
-a
-987624	det.
+NA
 c
-a
-987633	c
-det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
+NA
 det.
+a
+NA
+NA
 c
-987640	c
-987642	a
-987648	det.
-987652	c
-987654	det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-987658	c
-det.
-987669	c
-987672	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-987680	a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-987685	c
-c
-c
-987690	c
-987696	c
-987698	a
 c
-987705	c
-987708	c
+NA
+NA
 c
-c
-c
-987715	c
-987717	c
-987721	c
+a
+a
+a
+NA
 c
-987727	c
-987730	a
-987733	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
 c
 a
 a
-987738	det.
-987740	det.
-987742	det.
 a
+c
+NA
+NA
 a
-det.
 c
-det.
-987749	det.
-det.
-987752	c
-det.
-987755	c
-987757	c
-det.
-987760	a
-987762	c
+NA
 det.
-987766	c
+NA
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-987770	c
+NA
+NA
 c
-987774	c
-987779	a
-987782	det.
+NA
+NA
+NA
 c
-c
-987786	a
-987789	c
-a
+NA
+NA
+NA
+NA
+NA
 a
-987793	c
+NA
+NA
 c
+det.
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-987798	c
+NA
 a
-987802	c
-987805	c
+NA
 a
-c
-987810	c
-987812	c
-987816	c
-987818	a
-987820	a
-c
+NA
+NA
+det.
+a
+NA
+NA
+NA
+NA
+det.
+det.
+det.
 c
-987824	c
+NA
 c
-987829	a
+NA
+NA
 det.
-det.
-987833	c
-987836	c
-987838	c
 a
-987841	a
-987847	a
+NA
 c
-987850	c
+det.
+NA
+NA
 a
-987853	a
-987857	c
-987866	c
-987875	det.
-c
-987881	a
-c
-987885	a
-c
-c
-c
-987890	c
+NA
+NA
+NA
+NA
+NA
 a
-987895	c
 det.
-987898	c
-987905	c
 c
-987908	c
-987912	c
-987914	c
-987916	c
+NA
 det.
-987919	c
+NA
 c
 det.
-987923	c
+a
+a
 c
-987929	a
-987933	a
-987936	c
-987938	c
+NA
+NA
 det.
-987944	c
-987947	c
 det.
-987950	c
-c
-987954	c
-987956	c
-987962	c
 det.
-987965	c
-c
+NA
 det.
-987969	c
 c
-987975	a
-987979	a
-987982	c
-987984	a
-987986	a
-987991	c
-987993	c
-988000	a
 c
-988004	a
-a
+det.
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-988009	c
-988012	c
-988015	a
-988023	a
-988026	c
 a
-988030	c
-988034	det.
+NA
+NA
+NA
+c
 a
+c
+NA
 a
-988042	c
-988051	det.
-988053	det.
-988057	c
+NA
 c
+NA
 c
-988064	c
 a
-988067	c
-988070	c
-988076	a
-988080	c
-det.
-988083	c
-988087	a
-988090	a
-988092	a
-988096	a
 c
-988100	a
-988103	c
-988107	a
-988109	c
 c
-a
+NA
 c
+det.
+NA
+NA
+NA
+NA
 a
 c
+NA
+c
+NA
+c
+NA
 a
+c
+NA
+det.
+c
+NA
+c
+NA
 a
 a
-988120	a
-988123	a
-988126	c
-988128	c
+det.
 c
-a
-988136	a
-988143	c
-988148	a
-988150	a
-988152	a
-988155	a
-988157	a
-988160	a
-988164	c
 c
 c
-988170	a
-a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-988174	a
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
 c
 c
 c
-988180	c
-988182	a
+det.
 det.
-988185	c
+NA
+NA
+NA
 a
-988188	c
-988195	c
-988200	a
-988210	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-a
+NA
+NA
+NA
 a
-988220	c
 c
+NA
+NA
+NA
 det.
-988224	c
+NA
 c
-988227	a
-988229	c
+NA
 c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-988233	a
 c
-det.
-988237	det.
-988239	c
-988243	a
+NA
+NA
+a
 a
-988247	a
-988249	det.
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
 c
-988258	c
-988260	c
-988262	c
 a
-988266	c
-988268	a
-988271	a
-988274	a
-988276	c
 a
+NA
+NA
 a
-c
-988283	c
-988286	c
+NA
 c
 c
 a
-988291	c
+NA
+NA
 c
-988294	c
-988299	c
+NA
 c
-988305	c
-988309	c
-988312	a
-988321	det.
-988325	det.
-c
+det.
+NA
+NA
+NA
+NA
 a
-988329	c
+NA
 a
-988332	c
-988334	det.
 det.
-988339	a
-988341	a
-988343	det.
-988348	det.
-988354	a
-988358	a
-988363	c
+det.
+NA
+NA
+NA
 c
-988366	c
+NA
+NA
 a
-988371	c
-988376	c
+NA
 c
-988382	a
-988392	c
-988394	a
-a
-988407	a
-988414	c
-988419	c
-988429	a
-988435	c
-988438	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-988442	det.
-988448	c
-988451	c
+NA
 a
-988455	a
+NA
 a
-988459	c
-988461	c
-988464	c
-988471	c
 det.
-988476	c
-988478	det.
-988481	c
-988483	a
-988485	a
+NA
+c
+NA
+c
 a
-988488	a
-988491	a
-988493	c
-988495	c
-det.
-988499	a
-988501	c
-988506	c
+NA
+NA
 a
-988509	det.
+NA
+NA
 c
-988514	a
-det.
-988518	det.
-988521	det.
-a
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 c
-988525	c
-988528	c
+c
+NA
+NA
+NA
+NA
 det.
-988535	det.
-988539	c
+NA
 c
-988543	a
-988546	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
-988555	c
+NA
+det.
+NA
+NA
 a
-988560	c
-c
 a
-988567	a
-988577	det.
-988581	a
-988583	c
-988588	c
-988590	c
-c
 c
-988595	c
-988601	c
 c
-988606	c
+NA
 c
-988609	c
-988614	a
+NA
+NA
+NA
+det.
+NA
 a
-988617	c
+NA
+NA
+NA
 a
-988620	c
-c
-988623	c
-988627	c
-988630	a
-c
-988633	det.
+NA
+NA
+a
+NA
 c
+NA
 det.
-988637	det.
-988639	c
+NA
 c
-988642	c
-988644	c
+NA
 c
-det.
-988648	c
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+a
 c
-988651	c
+NA
+NA
 a
 a
+NA
+NA
+NA
 c
-988656	c
-988659	a
 a
-988662	c
 c
+NA
+a
+NA
 det.
+NA
 det.
-988668	a
-c
+NA
+NA
 c
+NA
+NA
+NA
+det.
 c
-988676	c
+NA
+NA
 c
-988679	c
-988681	c
-988683	a
-988686	c
-988688	c
-988690	a
-988693	c
-988698	c
-988702	a
-988705	c
-988707	c
-988710	c
-988715	a
+NA
 c
-988719	a
 a
-988722	a
-988724	c
-988726	c
-c
-988729	a
 a
-988732	c
-988735	c
-c
+NA
+NA
+a
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-988743	c
+NA
 a
+NA
+a
+c
+NA
+NA
 c
+NA
+NA
+NA
 det.
-988752	c
-a
+NA
 c
 c
-988757	c
-a
-988766	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-988771	a
-988775	c
 a
-988780	c
+a
+det.
+NA
 c
-988785	c
-988788	c
-988790	a
-988795	c
+NA
+NA
 c
-988799	c
 a
-988806	a
-988809	c
+NA
+NA
+NA
 c
-988816	a
-988819	c
-988823	c
+NA
+NA
 c
-988827	c
+NA
+NA
+NA
+NA
 c
-988831	c
-988833	c
-a
-988837	c
-988839	a
-c
-988843	a
-988846	c
-988848	a
-988851	c
-a
-988859	c
 det.
-988864	a
-988867	c
-c
+NA
+NA
 c
-988872	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-988875	c
-a
-988878	a
-988880	c
+NA
 c
-988884	a
-988886	a
-988891	c
 a
 c
+NA
+NA
 a
-988898	a
 c
-988904	c
-a
-988908	c
-988911	a
+NA
 c
-988914	c
-988916	c
-a
+NA
 c
-988924	a
-a
 c
-a
-988929	c
-988933	c
-988936	c
-988939	a
-988941	c
-a
-a
-988945	a
-988948	c
-988952	a
-988955	c
-988958	c
-988960	c
-a
-988964	a
-988966	a
-988968	c
-988971	c
-988973	a
+NA
+det.
 a
+det.
+det.
+NA
+NA
+det.
 a
+NA
+NA
 c
-988978	a
 a
+NA
+det.
+NA
+det.
+c
+NA
+det.
+NA
+det.
+NA
+c
 a
-988982	a
-988984	a
-988986	c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-988989	a
-988991	c
+NA
 a
-988997	a
-988999	c
-989002	c
-989006	c
 a
+det.
+NA
+NA
+NA
+NA
+NA
 c
-989012	a
-989014	a
-989023	c
-989025	a
-989027	a
-989029	c
+c
+NA
+det.
 a
-989032	a
-989035	a
-989041	c
+a
+NA
+NA
 c
 c
+NA
 a
-989046	c
+NA
 c
-989049	a
-989051	c
+NA
+NA
+NA
 c
-989055	c
 a
-989062	c
-989064	a
-989068	c
-c
+a
+NA
 c
-989072	c
-989075	c
+NA
+NA
 c
-989078	c
-a
-989082	c
+NA
 c
-989085	c
-989089	a
-989091	a
-a
-989094	c
-989099	c
 c
-989106	c
+NA
+NA
 a
-989109	a
-989111	c
-989114	c
-989118	a
-989120	c
-989123	c
 a
-c
-989128	c
+NA
+NA
+NA
+NA
 c
-989131	c
-989135	c
-a
-989142	a
+NA
+NA
+NA
 c
-989146	c
-989148	a
-989150	c
-989153	c
+NA
+NA
 a
-989158	c
-989160	a
-c
 c
 c
 a
-989168	c
-989172	a
-989175	a
-989180	c
-989182	c
-989184	a
-989186	c
-989189	c
-989192	c
-a
-989195	c
-989204	c
+NA
+NA
+c
+NA
+det.
+NA
+NA
 c
-989208	det.
-989211	a
 c
-989215	c
-a
-989218	a
-989220	c
-989222	a
-989225	c
+NA
 a
-989230	a
-989232	c
+NA
+NA
 a
-989236	c
 a
-989239	a
-989243	c
-989246	a
-989249	a
-989251	a
-989257	a
-989260	a
-989262	a
-989264	a
+NA
+NA
 a
-989268	c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
 a
-989271	c
+NA
 a
+NA
+NA
 a
-989277	c
+NA
 c
-a
-989281	c
-989283	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-a
-989288	c
-989292	a
+NA
+NA
 c
+NA
+NA
 c
+NA
+NA
 c
-a
-989299	c
-a
-989302	c
-989306	a
+NA
+NA
+c
+NA
+NA
+det.
+NA
 a
-989309	a
-989312	a
-989317	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-989321	a
-989324	c
+c
+c
+NA
+NA
 a
-989329	c
-989331	a
-989333	det.
 det.
-989336	c
-989339	c
-a
-989342	a
-989346	det.
-989349	c
+NA
+NA
 c
-989352	c
+NA
 a
-989356	c
+det.
+NA
 a
-989360	c
-989362	c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
-989369	a
+c
+NA
+c
+NA
+NA
+c
 c
+NA
+NA
 c
-989375	c
-989378	c
+det.
+NA
+c
 a
-989384	c
+NA
 c
-989388	c
-989390	c
+NA
+det.
+NA
+NA
 a
-989393	c
+NA
+NA
 a
-989397	a
+det.
 c
-989400	c
 a
-989411	c
 a
+NA
 a
-989416	c
+NA
+NA
 a
-989421	a
-989423	a
-989426	c
+NA
 a
-989429	a
-989433	a
-989437	c
 c
-c
-a
-989442	c
-c
 a
-c
+NA
 a
+NA
+NA
 a
-989450	a
-989453	a
-989455	a
-989457	c
 a
+NA
 c
+c
+NA
 a
+NA
+NA
+det.
+NA
+c
 a
-989468	c
-989470	a
-989472	a
-989474	a
-989476	a
-989480	c
-989482	a
-989484	c
 a
-989487	c
+NA
+NA
 c
-det.
-989491	a
-989497	c
-989501	det.
-det.
-989505	c
-989511	c
-989513	c
-989518	c
-989521	c
-989523	a
-989525	c
-989528	det.
-989530	a
-989532	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-989535	c
-989537	c
-989539	det.
-989541	c
-989543	det.
+NA
 c
+NA
+NA
+NA
 c
 c
-989548	det.
-989552	c
-989554	c
-989561	det.
-989565	a
-989568	c
-989572	det.
+NA
+NA
+NA
 c
-989576	a
-989578	a
+NA
 c
-det.
-989585	c
-989587	c
-a
 c
-989591	a
-a
-989594	c
-989605	c
-989607	a
-989610	det.
-989612	c
-989614	a
-a
-989618	c
-a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-989623	a
+NA
 c
-989626	det.
+NA
 a
-989629	c
-989632	c
+NA
 a
-989636	c
-c
-989640	a
-989642	c
+NA
 det.
-c
+NA
+NA
+NA
+NA
+NA
 det.
-989651	a
-989654	c
-989656	c
-989659	c
 a
-989663	a
-989666	c
-989669	c
-989671	c
-989674	c
-989676	c
-c
-989682	c
-989689	c
+NA
 a
-989695	c
-989697	a
-989699	c
-989701	c
-c
-c
-989706	c
+NA
+NA
 det.
-989712	a
 a
+NA
+NA
+det.
 a
-989716	det.
-989719	c
-989722	c
+NA
 c
-989725	c
+NA
 c
-det.
 det.
-989731	a
-989734	c
-989740	c
-989743	det.
-a
-989748	c
-989750	c
-a
 c
-a
-989757	c
-989759	c
+NA
 c
-989762	a
-989764	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-989769	c
-det.
-989772	det.
-989776	c
-989778	c
-989780	c
-989782	a
-a
-989788	a
-989793	c
-989797	c
-989799	a
-a
-989803	det.
-989807	det.
-989809	c
-989812	a
+NA
+NA
 a
-989815	det.
-a
-989821	a
-989823	c
-a
-989826	c
-989829	c
-989831	a
+NA
+c
 a
-989834	det.
-989836	c
 det.
-989840	c
+NA
+NA
+NA
 a
-989844	c
+NA
+NA
+det.
+NA
+NA
+NA
 c
-989847	c
-989854	det.
+NA
+NA
+NA
 c
 c
-989862	c
-989865	c
-989871	c
-989877	a
-989879	det.
 c
-989883	a
+NA
 c
+NA
 c
-989887	c
-989894	c
-989896	c
-989898	a
-989900	a
-989906	c
-989908	c
+NA
 c
-989912	det.
-989914	det.
-989917	a
-989921	a
+c
 a
-989925	det.
-det.
-989930	a
-989932	c
+NA
+NA
+c
+NA
+NA
 det.
-989935	c
-989937	det.
-989940	c
-989942	c
-989944	c
-989946	c
-989949	a
-989951	det.
+NA
+NA
+NA
 det.
-989955	a
+NA
+NA
+NA
 c
-989958	det.
-a
 c
+det.
+NA
+det.
+NA
+NA
+NA
+NA
 a
-989963	c
+NA
+NA
 c
-989968	c
-989970	c
-989980	c
-det.
-989984	a
 c
-a
-989989	c
-989991	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
-989997	c
-a
-990000	c
-990003	a
+NA
 c
+NA
+NA
 a
-c
-990010	c
-990012	c
-990014	c
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
 a
 a
-990019	a
-990021	a
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-990025	c
+NA
+NA
+NA
+NA
+NA
+c
 a
-990029	c
-990032	c
 a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-990037	c
+NA
+NA
+NA
+NA
+NA
 a
-990040	c
-990042	c
+NA
+det.
 a
-990045	a
 c
-990050	c
-990052	a
-990054	c
-990059	a
-990062	c
+det.
+det.
+NA
+NA
+det.
+det.
+NA
+NA
+NA
+det.
 det.
+det.
+det.
+NA
 c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 c
+NA
+det.
+NA
+NA
+NA
 a
-990069	c
-990071	a
-990076	c
+NA
+det.
+NA
+NA
+NA
+NA
 c
-a
-a
-a
-990084	c
-a
-990087	a
-990091	c
-990093	c
-990096	a
-990098	c
-990100	det.
-990103	c
-990108	c
+NA
+NA
+det.
+NA
+det.
+det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+det.
+NA
+det.
 a
-990111	a
-990113	c
+NA
 c
-990119	c
+NA
+NA
 c
-990122	c
-990124	c
-a
-990128	c
+NA
+NA
+NA
+NA
+NA
 c
-990132	a
-990135	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-990140	a
-990142	c
-990144	a
+NA
 c
-990147	c
-990149	c
 a
-c
-det.
-990154	c
-det.
-990157	c
-990159	a
 a
+NA
 c
-990164	c
-990166	c
+NA
+NA
 c
-990169	a
-a
+NA
+NA
+c
+NA
+c
+NA
+NA
 a
-990175	a
+NA
+NA
+NA
+NA
+NA
+det.
 a
-990178	a
+NA
+det.
 a
-990181	c
+NA
+NA
+det.
+det.
+NA
+NA
+NA
 a
-990184	a
 a
-990187	c
 a
-990190	c
+NA
+c
+NA
+det.
+NA
 a
-990193	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+det.
+det.
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
-990196	c
+NA
+NA
+c
+NA
+NA
 a
+NA
 a
 c
-990202	c
+NA
+NA
 a
+NA
+NA
+c
+NA
+NA
 c
-990206	c
-990208	a
+NA
+NA
+NA
+c
+NA
+NA
 a
-990212	c
-990214	a
-990216	c
-990218	c
+NA
+c
+NA
+NA
+NA
+NA
+det.
 a
+NA
+NA
+NA
+NA
 c
-990222	c
+NA
 c
-990226	a
-990228	a
+NA
+NA
 c
-990231	c
 a
 a
-990235	c
-990237	c
 a
-990240	a
-990244	c
-990247	c
-990249	c
+NA
+NA
+NA
 a
-990252	c
-990254	a
 a
-990257	c
+NA
+c
+NA
 a
-990260	a
-990266	a
-990272	c
-990274	a
+NA
+NA
+NA
 a
-990280	c
-c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-990284	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-990289	c
 c
+NA
 c
+NA
 a
+det.
+NA
 c
+NA
+NA
+NA
+NA
 c
-a
-990299	c
-a
-990302	c
-990304	c
+NA
 c
-990308	c
+a
+NA
 c
-990313	c
 c
 c
-990317	c
-990319	c
-990321	a
-990323	a
+NA
+NA
+NA
+det.
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
+NA
+NA
+NA
+NA
+det.
+NA
 a
-990329	a
-990331	c
-990333	c
-990335	c
-990337	c
-990339	a
-c
-990342	c
-c
-990345	c
-990347	a
-990352	c
-990354	c
-990362	c
+NA
+NA
+NA
+NA
+a
 c
-990366	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-990371	c
-990375	c
-990378	c
+NA
+NA
+NA
+NA
 c
-990381	c
-990384	c
-990388	a
-990390	c
-990394	c
+NA
+NA
+det.
+det.
 c
-a
-990398	a
-990404	a
-990408	a
-990411	a
+NA
+NA
+det.
+NA
 c
+NA
+NA
 a
+NA
 a
+NA
 a
-990418	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-990425	c
-990429	c
-990433	c
+NA
+NA
 det.
-990436	c
-990439	c
-c
-990442	c
-990444	a
-990446	c
-990455	c
+NA
+NA
+NA
+NA
 c
-990460	c
-990466	a
-990468	c
 a
-990471	a
-990473	c
-990476	a
-a
-990480	c
-990484	a
+NA
+NA
+NA
+NA
 c
-990487	a
-990489	a
-990492	a
 a
-990497	c
-990499	c
-990505	det.
-990507	c
-990510	c
-990513	c
-c
-990517	c
-990521	c
-990524	c
-990530	c
+NA
+det.
+NA
+NA
+NA
+NA
 c
-990533	c
-990537	a
-990540	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-990546	a
 c
+NA
 a
+NA
+det.
+NA
 c
-990552	a
-990554	c
+NA
+NA
+NA
 c
-990557	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+det.
 a
-990560	a
-990564	c
+NA
+NA
+det.
+NA
+NA
+NA
 a
+NA
 c
-det.
-990569	c
+NA
+a
+NA
+NA
+NA
 c
-990574	c
 c
 c
+NA
 c
-990581	a
+NA
 c
-990584	c
+NA
+NA
 c
-990589	c
+NA
+NA
 c
-990593	a
-990596	c
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+a
+det.
+NA
+NA
+NA
+NA
 a
-990600	a
-990604	c
-990606	c
-990608	c
-990616	c
-990620	c
-990623	c
-990628	c
-990630	a
-990632	a
-990635	a
-990638	c
+c
 a
+NA
 a
-990642	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-990646	c
-990648	a
-990650	a
-990653	a
-990655	c
+NA
+NA
+NA
+NA
 c
-990658	c
+c
+NA
+c
 a
-990661	c
+NA
+NA
 a
-990664	a
-990668	c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
 a
-990675	a
-990677	a
+NA
+NA
 c
-990680	c
-990682	c
-990688	c
-990690	c
+NA
 c
-990693	c
-990698	c
-990700	c
-990705	c
-990714	c
+NA
+NA
 a
+a
+NA
+NA
 c
-det.
-990720	c
-det.
-990723	c
-990726	c
 c
+NA
+NA
 c
-990731	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-990737	c
-990740	c
-990744	a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
 c
-990747	a
-990750	c
-990757	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 c
-990762	c
-990767	a
-990769	a
 a
-990775	c
-990778	c
-990783	c
-990785	a
-990789	a
+NA
+NA
+NA
+NA
 c
-990793	c
-990801	c
+NA
+NA
+NA
+NA
+NA
 a
-990805	c
-990808	c
-990810	c
-990815	c
-990817	c
-990824	a
-990826	a
-990828	c
+NA
+NA
+NA
+NA
+NA
 a
-990831	a
-990833	a
-990835	c
+NA
+NA
+NA
+NA
 a
-990839	c
+NA
+NA
+NA
+det.
+NA
+det.
 c
-a
-a
-a
-990845	a
 c
 c
-a
-990850	a
-990852	a
+NA
+det.
 c
+NA
 c
-a
+det.
+NA
 a
-990858	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-990862	c
+NA
 c
-990866	c
-c
-990873	c
-990876	a
-a
-a
-a
-a
-990882	c
-a
+NA
 a
-a
-a
-990888	c
-a
-a
-990892	c
-990894	a
-990898	c
-990901	a
-990903	c
-990907	c
-990909	a
-990911	a
-990913	c
+NA
+NA
+NA
+NA
 det.
-990916	a
-990918	a
-990920	a
-990922	c
-c
-990925	c
-a
-990928	a
-990933	a
+det.
+NA
+NA
 a
-990937	a
+NA
+NA
+NA
+NA
 a
-990941	a
+NA
+c
 c
+NA
+NA
+NA
+c
+NA
+NA
 a
-990945	c
 a
-990948	a
-990950	c
-990952	c
-det.
-990955	c
-det.
-990958	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-990961	a
-990963	c
-c
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-990968	a
-990970	c
+NA
 a
-990974	c
+NA
+NA
+NA
+NA
+NA
 det.
+NA
+NA
+NA
+c
 a
-990978	a
 a
-990982	c
-c
+NA
 det.
-990987	c
 c
-det.
-990992	c
-det.
+NA
+NA
+NA
+c
 a
+c
 a
-990998	c
-det.
+c
+NA
 c
-991002	a
-991004	a
-991006	c
 a
-991009	a
-991011	c
-991013	det.
 a
-991017	det.
 c
+NA
 a
-991021	a
 c
-991026	a
 c
-991033	c
-det.
-991039	c
-991041	a
-991044	c
-991046	a
-991048	c
-c
-991052	a
-991054	c
-991058	c
-c
-991061	a
-991063	c
 a
-991069	a
-991071	c
-991074	c
-det.
-991080	det.
-991084	det.
-991086	c
-991088	det.
-991090	c
-991101	c
+NA
 c
-det.
-991106	c
-det.
 a
-991111	a
-991113	a
+NA
+NA
+a
+NA
+NA
 c
-991116	c
-991120	c
-991122	c
-991124	c
+NA
+NA
 c
-det.
-991128	c
-det.
-det.
-991132	c
-det.
-991135	c
-991139	a
-991146	c
-det.
-991151	c
-det.
-991155	a
-991157	c
-991159	a
-991161	c
 c
+NA
+NA
+NA
 c
-a
-991170	c
-a
-991174	a
-a
-991177	c
-991182	det.
-991185	c
+NA
+NA
 c
-991188	det.
-991195	a
 a
+NA
 a
-991199	c
+NA
 c
-991202	a
-991207	c
-991214	det.
-991216	c
-991219	a
+NA
 c
 a
-991227	a
-991231	c
+NA
+NA
 c
-991237	c
-det.
-991241	c
-991243	c
-c
-991246	c
-991251	det.
-991256	det.
-991258	c
+NA
+NA
 c
-c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
-991264	c
+NA
+NA
+NA
+NA
 a
-991268	det.
-det.
 c
-991272	det.
-991275	a
-a
-991278	a
-991280	det.
-det.
-991283	a
+NA
+NA
+NA
+NA
 c
 c
-991287	c
-991292	c
-det.
-991297	c
-991299	c
-991302	c
 c
 c
-991306	c
-991308	c
-991310	c
-991312	a
-991314	c
-991316	det.
-991319	a
+a
+NA
 c
-991322	c
+NA
 c
-991325	c
-991328	c
-991330	c
-991332	c
-991334	c
-991336	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
 c
-991339	c
-991342	c
-991344	c
+NA
+a
+NA
 c
-991348	a
-991350	c
-991352	c
+NA
+a
 c
-991355	c
 c
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-991361	c
+NA
 c
-991364	c
-991366	c
-991370	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
 c
-991373	c
-991376	c
-991378	c
-991385	c
+NA
 c
 c
-a
-991390	c
-991392	a
-991394	c
-991398	c
+NA
 c
-991406	c
-991408	c
-991410	c
+NA
 c
-a
 c
-991415	c
-991418	c
-991420	c
-991424	c
-991426	c
-991429	c
-991432	c
+NA
+NA
 a
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
+c
 c
-991438	c
-991441	a
-991443	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-991447	c
-991449	c
-991454	c
-991456	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-991459	c
-991461	c
-991464	c
-991474	a
-991476	c
-991489	c
-991491	det.
-991494	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-991499	a
+NA
+NA
 a
-991502	det.
-991504	a
-991506	a
-c
-991509	a
-991517	a
-991519	c
-991521	c
-991525	a
-991527	a
-991531	c
-991533	c
-991542	c
-991544	a
+NA
+NA
 a
-991549	a
-991552	a
-991554	c
-991557	a
-c
-991560	a
-991563	a
+NA
+NA
 c
-991566	c
-991569	a
+NA
 c
-991572	a
+NA
+NA
 a
+NA
 a
-991577	a
+NA
 c
-991580	a
-991584	a
-991586	c
-991588	a
-991590	c
+NA
 c
-991593	a
-det.
-991596	a
-991598	a
-991601	a
-991603	a
-991605	a
-991607	a
-991609	a
-991611	a
-991613	a
-a
-991617	a
-c
-a
-991623	c
 c
-991626	c
-991630	a
-991632	det.
 c
-991636	a
-991638	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
 c
-a
+NA
+NA
+NA
+NA
+NA
 c
 c
+NA
+a
 c
-991649	a
 a
-991653	c
+det.
+c
 a
-991658	c
+NA
 c
+NA
 c
+NA
+a
 c
-991663	c
+NA
+NA
+NA
 c
-991668	c
-991672	c
-991675	c
-991681	c
 a
 a
-991689	c
-991692	c
-991695	a
-991699	c
-991705	c
-c
-991708	c
-c
-991711	a
+NA
+NA
 a
-991714	c
-991716	det.
-991718	c
-991720	c
-991722	c
+NA
+NA
 c
+NA
 c
-c
+NA
+NA
+NA
 det.
-991728	det.
-991730	a
-c
-991733	a
-991737	a
-991739	a
-a
-991744	c
-991746	a
-c
-c
 a
-991752	c
-991754	a
-991756	a
-991759	a
-c
-991762	c
-991765	c
-991767	a
-991769	c
-991773	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
 det.
-991782	a
-991784	a
 a
-991787	c
-991790	det.
-991793	a
-991795	c
-991797	det.
+NA
+NA
+NA
+NA
+NA
 det.
-991802	det.
-991804	det.
-991806	a
-991809	det.
 det.
-991812	c
+NA
 a
-991815	c
+NA
 c
-991819	c
+NA
 c
 c
-991824	c
 det.
-991827	c
-a
-a
+NA
 a
-991832	a
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-991838	c
-991841	c
 a
-991846	det.
-det.
+NA
+c
+NA
+NA
+NA
+c
 a
-991850	a
+NA
 c
-991853	a
+NA
 a
-991857	a
-991859	det.
+NA
+NA
+NA
+NA
 c
-det.
-det.
-991865	a
+NA
 a
+NA
 c
-991869	c
-991872	c
 c
-991875	c
+NA
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
 a
-991881	c
-991883	c
-991886	a
-991889	a
-a
-991892	det.
-991894	a
-991896	c
-det.
+NA
 c
-c
 a
+NA
+NA
 a
-991903	c
 c
-991907	a
-991909	c
-991914	det.
-991921	a
-991924	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-991930	c
+NA
+NA
+NA
+NA
+NA
 c
-a
+c
+c
+NA
+c
 a
-991937	a
 a
-991942	c
+NA
+c
 a
 a
-991947	a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-991950	c
-991953	c
 a
-991957	a
-991959	det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
 det.
-991964	a
-991968	c
-991970	det.
+NA
+NA
 a
+NA
+NA
+NA
+a
+NA
 c
-991977	c
-991980	a
-991982	c
-991984	det.
-991986	det.
-991991	c
-det.
-991994	a
-det.
-991997	c
-991999	a
+c
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 det.
+NA
 c
-992005	c
-992007	c
-992009	c
+NA
 c
-992012	c
-992014	c
-992016	a
-det.
-992020	a
-992022	c
-992025	a
-det.
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
 a
 a
-992031	a
-992034	c
-992036	a
-992039	c
-992042	c
+NA
 det.
+NA
+NA
+c
+a
+a
+NA
+NA
+c
+NA
 a
 c
 c
+NA
 c
-a
 c
-992053	c
-det.
-992060	c
+NA
+NA
+NA
+NA
+NA
+c
 c
-992065	a
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-992071	a
-992073	c
-992075	c
+NA
+NA
+NA
+NA
 c
-992080	det.
-992082	c
-det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-det.
-992089	c
-992091	a
 c
-det.
-det.
-992096	c
-992099	c
+NA
+NA
+NA
 c
-a
-992103	c
 c
-992106	a
-992108	c
 c
+NA
+NA
+NA
+NA
 c
-992112	a
-det.
-992115	c
+NA
+NA
+NA
+NA
+c
+NA
+NA
 det.
-992119	a
-992122	c
 c
 c
-a
-992127	c
+NA
 a
-992130	c
 a
-992134	c
-992136	c
-992138	a
+NA
 a
-992141	c
-992143	a
 c
+NA
 a
-992147	a
-992149	c
-992151	a
-992153	c
 a
-992156	a
+NA
 c
-992159	a
-992162	c
+a
 c
+NA
+det.
+NA
 c
-992166	c
-992168	c
-a
-992171	c
-992174	a
-992176	c
+NA
+NA
 c
-a
-992181	a
-992184	c
+NA
 c
 c
-992189	c
+NA
 c
 c
-992193	a
 c
 c
+NA
 c
-a
-det.
-det.
-a
-992202	c
-det.
+NA
+NA
 c
-992207	det.
 c
-992212	a
 c
+NA
 a
+NA
+NA
+NA
 c
-a
 a
-a
-992221	c
+NA
+NA
 c
+NA
+NA
 det.
 det.
+NA
+NA
 a
-992227	det.
 a
+NA
 c
-a
-992232	c
-992235	a
-a
-det.
-992239	c
-992241	c
-det.
-992244	c
-992247	c
 c
+a
 c
-det.
-992255	a
-992259	c
+NA
 a
-992265	c
-992267	a
 c
-det.
 det.
-992272	c
-992274	c
+NA
+NA
+a
+NA
+NA
 det.
-992277	c
-992280	c
-992283	c
-992287	a
-992289	c
 a
-992294	a
-992298	a
-992300	c
-992302	c
-992304	a
-992309	c
-c
+NA
 a
-992314	c
-992316	a
-c
-992319	a
-992321	a
-992323	c
-992326	c
-c
-det.
-992332	c
-992334	a
 c
-992339	c
-992344	a
-992347	c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-992351	a
+c
+NA
+NA
 c
 c
-992355	c
 a
-992358	a
-992360	a
+NA
 c
+det.
+NA
+NA
+NA
 c
+NA
 c
-992366	a
-a
-992370	c
-992376	c
-det.
+NA
+NA
 c
-992380	a
-992382	c
-992384	c
+NA
+NA
+NA
+NA
 c
-a
-a
-992389	a
-a
-992392	a
-992394	c
-992397	c
-992399	c
 c
-a
-a
-992404	a
-992406	a
-992408	det.
-992411	c
+NA
+NA
+NA
+det.
 a
-992419	a
-992421	c
-992424	a
-992426	a
-992430	c
+NA
+NA
+NA
+NA
+NA
 c
-992433	a
-992435	c
-992437	a
+NA
+NA
+NA
+NA
+NA
+det.
 a
-992441	det.
-992444	a
-992446	c
-992448	a
-992451	c
+NA
 c
-a
-992455	c
-992457	c
+det.
 c
+NA
+NA
 a
-992461	det.
+NA
 det.
-a
-992465	c
-992467	c
-992469	c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
 c
-992472	c
-992474	c
-992477	c
 a
-992481	c
-992487	c
-992489	c
-992491	c
-992494	c
-992497	c
-992501	c
-992510	c
-992513	det.
 c
+NA
 c
-992519	c
-992521	c
 c
+NA
+NA
+NA
 det.
-992525	c
-a
-a
-a
-992530	c
 c
 a
+NA
+det.
 c
-992535	c
-992537	c
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 c
-a
-a
+NA
 c
 c
-a
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
 c
-a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 a
 a
-992551	c
 c
+NA
 c
-c
+NA
+NA
+NA
+NA
+NA
+a
 c
-992557	c
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
-992562	c
+NA
+NA
 c
-992565	c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-992568	c
+NA
+a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
 c
-det.
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+a
 c
-992577	a
 c
-a
-992581	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
 c
 c
-c
+NA
+a
 a
+NA
+NA
+det.
 c
 a
+NA
+NA
+NA
 a
+NA
+det.
+det.
+det.
+NA
+c
+NA
+NA
 a
+c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+c
 a
-992596	c
-992598	c
+NA
+NA
+NA
+c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
 a
+NA
 c
-992607	c
-992609	a
-992613	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
-992617	c
 c
-992621	c
 c
+NA
+det.
+NA
 c
-a
-a
+NA
 c
+NA
+NA
+NA
 c
 c
-a
 c
-992633	a
 c
-992637	c
-992640	a
-det.
-992644	c
-a
+NA
 a
-992648	a
-992650	c
-a
-992653	a
+NA
+NA
 c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-992658	c
+NA
+NA
+NA
 c
+NA
 a
-992662	a
+NA
+NA
+c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+det.
 c
-992666	c
 c
+NA
 c
 det.
-992672	c
 c
-a
-a
-992677	a
-992679	c
-a
-992682	c
 det.
-992685	c
-a
-992689	c
-992691	c
-c
+NA
 c
-a
-992697	c
-992702	c
+NA
 c
+det.
+NA
+det.
 a
-c
+det.
+NA
+NA
+NA
+det.
+NA
+det.
 c
-992708	c
-a
+det.
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+det.
+det.
 c
 c
-992713	c
 c
+det.
+NA
 det.
-992717	c
+NA
 a
+NA
+NA
 a
-992721	a
-992723	a
-992725	c
-c
+det.
 a
-992729	c
-992731	a
-992733	c
-c
-c
+a
+NA
+NA
+NA
+a
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
-992744	c
+NA
 c
+NA
+NA
+NA
 c
+NA
 c
 c
-992752	a
-992754	a
-992756	c
+NA
+NA
+NA
+NA
 c
+NA
 c
-det.
-992761	c
+NA
+NA
+NA
 c
+NA
+NA
 c
-992765	c
-det.
-992768	c
+NA
 c
+NA
 c
+NA
 c
+NA
+NA
 a
-992774	c
-c
-992778	c
-c
-c
-c
-992784	c
-c
-992787	c
+NA
+NA
 c
+NA
 c
+a
+NA
 c
-992793	c
-992797	c
+NA
 c
-992800	c
 c
+NA
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-992808	a
+NA
+a
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-a
 c
+NA
+NA
+NA
 c
 c
-992817	c
-992819	c
+NA
+NA
 a
-992823	c
-992825	a
-992831	a
+NA
+c
 a
-992834	c
-992837	c
+NA
+NA
+c
+NA
 c
-992842	c
+NA
+NA
 c
-992846	a
-992848	a
 c
-992852	a
-992854	a
 a
-992860	a
 a
 a
+NA
+c
 a
-992867	c
+NA
 c
-992873	a
-992875	a
 c
 c
-a
-992880	a
-992882	c
-992889	a
-992891	a
-992893	c
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
-992898	a
 a
-det.
-c
-992903	a
 a
 c
-det.
-992909	det.
-992913	det.
-a
-992916	c
-992918	a
-a
-992923	c
-992925	a
-992928	det.
-992930	c
-992932	c
+NA
+NA
 c
-det.
-a
+NA
+NA
+NA
+NA
 a
-992938	det.
-992941	a
 a
-a
-a
-a
-a
-992950	det.
-992952	det.
-992954	a
-a
-992957	det.
-a
-a
-992961	det.
-a
-992964	a
-a
-a
-992968	det.
-a
+NA
+NA
 c
-a
-a
-a
-a
-992977	c
-992979	det.
-992981	det.
-992983	c
-992985	a
 c
 c
-992989	a
-a
-992992	det.
-992994	c
+c
+NA
+NA
+c
 det.
-992997	det.
-a
-993000	a
-993002	det.
-993004	c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-993007	det.
-993009	c
 a
+NA
+NA
+NA
 c
+NA
+NA
 c
-det.
-993015	det.
-993017	a
+c
+c
 a
-993020	a
-993022	c
-993024	det.
+NA
+NA
+NA
+c
 a
-993027	det.
 c
+c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-993031	det.
 det.
 c
-det.
-993036	a
 a
-993039	a
-993042	c
+NA
+NA
 a
 a
-a
 c
-993048	det.
+NA
 c
-993052	a
-993054	a
-a
+NA
+NA
+NA
+NA
 a
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-993060	a
-993062	det.
-993065	c
+NA
+NA
 a
+NA
+NA
+NA
+det.
+NA
+c
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+c
 a
 c
+NA
+NA
+NA
 c
-993073	a
+NA
+NA
+NA
 a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-993079	c
+NA
+c
+NA
+NA
+NA
 det.
+NA
+NA
+a
+NA
+NA
+c
 det.
+NA
+c
+NA
+NA
 det.
-993084	det.
-993086	a
+NA
+NA
+NA
 c
+NA
+a
+NA
+c
+c
+c
 det.
-993090	c
+NA
 det.
-993094	a
-a
-993097	c
-993100	det.
+NA
+NA
 det.
+NA
 c
-a
-993105	c
-993107	c
+NA
+NA
 c
-a
-a
-993112	c
+NA
+NA
 c
-993118	det.
+NA
 c
 c
-a
-993123	c
-993125	det.
-a
-a
-993131	a
-993133	a
-a
-a
+c
 a
-993138	c
-993140	a
 a
+NA
+NA
+NA
 a
-993145	c
+NA
+NA
 det.
-993149	c
+NA
 c
+NA
+NA
+NA
 det.
 det.
-993154	c
+NA
 det.
-993158	c
-det.
-993162	c
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-993166	c
-det.
-993170	c
+a
 det.
 det.
+NA
+NA
+NA
+c
+NA
+NA
 c
-993176	a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 a
-993179	a
 a
-c
 a
-993186	c
+NA
+c
+NA
+NA
+NA
+NA
 a
-993189	c
+NA
+NA
+NA
+c
+NA
+NA
 a
-993192	a
-993194	a
-993196	a
 det.
-993200	a
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+NA
+c
+NA
+NA
+NA
 c
-993206	det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
-993211	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-993215	c
+NA
+NA
 det.
-993218	a
-a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+det.
 c
+NA
+det.
 det.
 a
 a
-993226	det.
-det.
+c
+c
 a
-993232	c
-993234	c
-det.
-993238	a
-993240	det.
+NA
 det.
+NA
+c
+NA
+NA
+NA
 det.
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-a
-993247	a
+NA
 a
-993251	a
 a
-a
+NA
+NA
 c
-993257	c
 c
+NA
 c
-det.
-993262	a
-993264	a
-a
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-993272	det.
+NA
 det.
-993276	det.
-993279	c
 det.
+NA
+c
+NA
+c
 a
-993283	det.
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
 det.
-a
-a
-993290	c
-a
-993293	c
+NA
+NA
+NA
+NA
 c
 det.
-993299	a
-993301	c
-a
-993304	det.
 det.
-993308	det.
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-993312	det.
-993314	c
-993316	c
-993318	a
+NA
+NA
+NA
+NA
+a
+NA
 a
+a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
-993323	a
+NA
 det.
-993327	c
+c
+NA
 det.
 c
+NA
 c
+NA
+det.
 a
-993333	c
-993335	det.
-993337	c
-993339	c
 c
-993343	det.
 det.
-993346	c
-993348	c
-993350	c
-993352	det.
+NA
 c
+NA
 c
-993356	a
-993358	det.
-993360	det.
-993362	a
-993365	c
-det.
-993370	det.
-det.
-993375	c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
 c
-993378	det.
-993381	c
+NA
 det.
+NA
+NA
 c
-993385	det.
-993387	c
+NA
+NA
+NA
+NA
+NA
 det.
-993390	c
+NA
+det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+a
 det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-993394	det.
-993397	c
-993400	c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
 a
+NA
+NA
+NA
+NA
 a
+NA
+c
+c
 c
+NA
+NA
+NA
+det.
+NA
+det.
+det.
 c
+NA
+NA
+NA
+NA
+a
+NA
 a
-993407	c
-993410	c
-993412	c
-993415	a
-993417	a
+NA
 a
-993420	det.
-993422	a
-993424	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+c
+NA
 a
-993429	det.
+NA
 det.
 c
-993433	a
-993437	det.
-993439	c
-993442	c
-993446	c
-993448	c
-993450	c
 det.
+NA
+NA
+NA
+NA
 c
-993455	c
+NA
+NA
 c
 c
-det.
-993461	c
-993464	c
-993466	det.
+NA
+NA
 c
-a
-a
+NA
+NA
+c
 det.
-993480	det.
+c
+NA
 det.
-993483	c
+NA
 c
-993486	a
 a
-993489	det.
-det.
-993494	c
+NA
+NA
 c
-993499	a
+NA
+NA
 a
 a
-993503	a
-993509	det.
-993511	c
-det.
-993517	a
-993519	c
-993522	a
 a
-993525	det.
+a
 det.
-c
 a
-c
-c
 a
-993535	c
 a
-c
 a
-993544	c
 a
-993547	a
-993549	c
+NA
+c
+c
+NA
+NA
+det.
+c
 det.
+NA
+NA
 det.
-a
-993555	a
+NA
 a
-993558	a
-993560	a
+NA
 c
+NA
 a
 a
 a
-993566	c
+NA
+NA
+NA
 a
-a
-993570	det.
-993572	c
-993574	c
-993576	a
-993578	det.
-993581	det.
-993584	det.
-993587	det.
-993590	det.
-det.
-993594	c
+NA
 c
 a
-993601	det.
+c
 det.
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+a
+a
 det.
+NA
+NA
 a
-993607	det.
-993609	c
-993611	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-993615	a
-993617	a
+NA
+NA
+NA
+NA
 c
-det.
-993621	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
-a
 c
-993627	a
-993630	det.
-a
-a
-993634	c
-993636	det.
-993639	c
+NA
+det.
+NA
+det.
+c
+NA
+NA
 a
 a
-993643	c
+NA
+NA
+c
+NA
+NA
 c
-993646	det.
-993650	c
+NA
+NA
+c
+det.
 det.
 det.
-993654	a
-993657	a
+NA
+NA
+NA
+NA
 a
-993662	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
+c
 a
+NA
+NA
+NA
+NA
 a
-993669	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
 a
-993675	det.
+NA
 det.
+NA
+NA
+NA
+NA
+NA
 det.
-993679	c
-993684	c
-993687	det.
-993689	det.
-993691	a
+NA
 c
 det.
-993695	a
-a
-993698	a
-993701	det.
-a
-993704	c
+NA
+NA
+det.
+NA
+NA
+NA
+det.
+NA
+det.
+NA
 c
+NA
+NA
 c
-a
-993709	c
-a
-993712	a
-993714	a
-993719	c
+NA
+NA
+NA
+NA
 c
-993722	det.
 det.
-993726	c
+NA
+c
+NA
+NA
+NA
+c
 det.
-993729	c
+NA
+NA
 det.
 det.
-993733	a
-a
-993737	a
-a
-993740	a
-a
+NA
+c
+NA
 a
-993744	c
+NA
+c
+c
+NA
 c
-993747	c
+c
+NA
+NA
+c
+a
+NA
 det.
-993750	det.
-993754	det.
+NA
 det.
-993757	det.
+NA
 det.
-a
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 a
 a
+NA
+NA
+c
+NA
+NA
 c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+a
 c
+NA
+NA
+NA
 c
-993766	a
 det.
-993771	det.
-993773	c
+NA
+NA
 c
+c
+NA
+NA
 det.
+NA
+NA
 c
-993778	det.
+NA
 det.
-993782	c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
 det.
-993787	det.
-993789	c
+NA
+a
 det.
-993794	c
-993796	c
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-993802	c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
-993807	a
-993809	a
+NA
 c
-993813	a
-993815	a
-993819	c
-993823	det.
-993826	det.
-993830	det.
+NA
+NA
 det.
-993833	det.
-993836	a
-993838	det.
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+c
 det.
-993841	det.
-993844	c
+NA
+NA
+NA
 c
-993847	a
-993856	a
+NA
+c
+NA
 det.
-993860	det.
-993862	c
 det.
-993866	det.
-993871	det.
-993873	c
+NA
+NA
+c
+NA
+NA
+NA
 det.
-993878	a
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
 a
-993883	c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
 det.
-993886	c
-a
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-993890	det.
 c
+NA
+c
 det.
-993895	a
-a
-993898	c
+NA
 c
-993901	a
-993905	c
-a
-a
-993909	a
-993911	det.
-993914	c
-993917	c
-993919	a
-993921	c
-993923	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+det.
+NA
 c
-993926	c
+NA
+NA
+NA
 c
-a
-a
+NA
+NA
 a
-993932	c
-a
-a
-993936	a
-993940	det.
+c
 det.
-a
+det.
 a
+NA
+det.
+NA
 c
+NA
 a
-a
-993948	a
+NA
+NA
+NA
+det.
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
+det.
+NA
+det.
+NA
+c
 a
+NA
+NA
+c
+NA
+c
 a
+NA
+c
+NA
 a
-993956	c
+det.
+det.
+NA
+NA
+NA
+c
+det.
 det.
+c
+NA
+NA
+NA
+c
+NA
+NA
 det.
-993960	a
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-993964	a
+c
+det.
+NA
 a
-993967	c
+NA
+NA
+c
+det.
+NA
 c
 c
-993971	c
+NA
 det.
-a
-993975	det.
-a
-a
-a
-993981	c
+NA
 det.
+det.
+NA
+NA
+NA
+NA
+NA
 a
-993985	c
-993988	a
-993991	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
+NA
 det.
-a
-a
-993998	det.
-994001	det.
-994004	c
-a
-994010	c
-994012	c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
 c
-994016	c
+NA
 det.
-994019	c
-994022	det.
 a
-994026	c
-c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 det.
-994030	c
+det.
+c
 c
+NA
+NA
+NA
+c
 det.
+c
+c
 det.
-994035	c
+c
+NA
+NA
+c
+c
+NA
 det.
-994038	det.
-994041	a
-994043	c
-994046	det.
-994048	det.
-a
-994052	c
-994056	c
-994059	det.
-a
-a
-a
-994066	det.
-a
-a
-a
-a
-994073	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
 a
-994076	a
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
+c
+det.
+NA
 a
+det.
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
 a
-994084	det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
 det.
-994087	det.
 det.
-994090	c
-994092	c
-a
-994095	c
-a
-994098	a
+NA
+c
+c
+NA
 a
-994104	det.
-det.
-994108	det.
-994111	det.
+NA
+c
 det.
-994115	c
+NA
+NA
 c
+c
+det.
+NA
 det.
-994119	c
-994121	a
+NA
+NA
+det.
 a
-994124	a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 c
-994127	a
-994130	c
+NA
+NA
 a
 a
-994134	c
-994136	c
-994138	a
-a
-a
-a
-a
-a
 c
-994146	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
-c
-994152	det.
+NA
+NA
 c
+NA
 c
-det.
-994158	det.
-det.
-994162	c
-994165	c
 c
-994171	c
-994173	c
-det.
-994178	c
-994180	det.
-994182	a
-994186	c
-994188	c
-994190	c
+NA
 c
 c
-det.
-994196	c
+NA
+NA
 c
+a
+NA
+NA
+NA
 c
-det.
-994203	c
-994205	c
+NA
+NA
 c
-det.
+NA
+NA
+NA
 a
-994210	c
-c
-994213	det.
+NA
+NA
+NA
+NA
+NA
 det.
-det.
+NA
 c
 det.
-994219	c
 c
-994222	det.
-994224	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 det.
+NA
+NA
 c
-det.
-994231	c
-det.
+c
+NA
+a
+NA
+NA
 c
-994236	c
+NA
+NA
+NA
 c
-994239	det.
-994242	det.
-994244	det.
-994246	c
-994248	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
 c
 a
-994256	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-det.
-994261	c
+NA
 c
-994264	c
-det.
-994267	c
-994269	a
-994272	a
-994274	a
-994277	a
-994279	c
-994281	a
-994284	c
-994286	c
-994288	c
-994290	c
-994292	c
-994295	c
-det.
-det.
-994299	c
+NA
 c
-994303	a
-994305	c
-994308	c
-det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+NA
+NA
 a
-994313	c
 c
-994316	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
 det.
-994320	det.
+NA
 det.
-994323	c
-994326	a
-994328	c
-994330	c
+NA
+NA
+NA
 c
-994333	c
+NA
 c
-994340	det.
-det.
-994344	c
-994347	a
-994350	c
-994353	a
-994356	det.
-det.
-994359	c
-994362	a
-994364	c
-994367	a
-994370	det.
-det.
-994373	c
-994376	a
-994378	c
-994381	a
-994384	det.
+a
+NA
+NA
+NA
 det.
+NA
+NA
+NA
+NA
 c
-a
+NA
 c
-994390	c
-994394	a
 c
+NA
 a
+NA
 a
-994399	c
-994401	c
-994403	c
-994405	c
+NA
+NA
 det.
-994408	c
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-994412	c
-det.
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-994417	c
-994420	det.
+NA
+NA
 det.
-994425	c
 c
 a
+NA
 a
-994431	det.
+c
+NA
+NA
+NA
 det.
-994435	a
-994437	det.
+c
+NA
 det.
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
 a
+NA
+NA
+NA
+NA
+c
 a
-994447	c
-994449	c
+NA
+NA
+NA
+NA
+det.
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
 c
-994455	c
+NA
 det.
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
 det.
-994461	c
-994465	a
-994468	a
-a
-a
+NA
 a
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 c
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
 a
-a
-994480	det.
-994482	a
-994484	c
-det.
-994487	c
-994489	c
-994491	c
-994493	det.
-994495	det.
-994498	det.
-994501	det.
-994504	c
 det.
-994507	a
+NA
+NA
 a
-994510	a
-a
-994513	det.
-det.
-994518	c
-c
-det.
+NA
+NA
 det.
-a
-a
-994525	c
-994527	c
 det.
+NA
 c
-994531	c
-994535	c
-994540	c
 c
+NA
 det.
-994544	c
 c
-994548	c
 c
-994552	c
+NA
 det.
-994556	c
-994559	c
-994562	c
-994564	c
+a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
 det.
-a
-994573	c
+NA
 c
+NA
+NA
+NA
 det.
-994582	c
-994585	c
-994587	c
-det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
+NA
 det.
-994594	c
-994596	c
 c
+a
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
 c
-994601	c
+NA
 c
-994604	c
+NA
+NA
 c
-994609	c
-det.
-994614	c
-det.
-994617	c
 a
+NA
 a
-994622	det.
-994624	c
-994627	c
 c
-994633	a
-994636	det.
-994639	det.
-994643	c
-994645	c
-det.
-994649	det.
-994651	c
-994653	c
-a
-994656	c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-994660	a
-994662	det.
+c
+NA
+NA
+c
+c
+c
+NA
+NA
 det.
-994666	a
-994671	c
-a
-994674	c
-a
-994679	c
+NA
 det.
+NA
+NA
 c
-994684	a
-994686	c
-994693	c
-c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+det.
+det.
+det.
+det.
+NA
 c
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
 a
-994701	det.
-det.
-994707	a
-994709	c
-c
-994714	c
 a
-994718	a
+NA
+c
+NA
 a
 a
-994722	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 det.
+NA
+NA
 c
 c
-a
-994728	det.
-det.
-994731	a
-994734	det.
-994736	c
+c
+NA
 det.
+NA
 c
 c
-det.
-a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
+c
+NA
+NA
 a
-994746	c
+NA
+NA
+NA
+c
+NA
+c
+NA
 a
 a
-994750	a
-994752	c
-994754	c
-994756	c
-994758	det.
-994761	det.
-994764	det.
-994767	det.
+NA
 c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 c
-a
+NA
+det.
+NA
+det.
 a
-994776	det.
+NA
+c
+NA
+c
+c
 det.
 a
+NA
+NA
+NA
 c
-994781	a
+c
+NA
 a
+NA
+det.
+NA
+NA
 a
+NA
+NA
 a
+c
 a
-994787	c
+c
+NA
 a
 a
-994791	det.
-994793	c
-994795	c
-994797	a
-994799	det.
-994801	det.
-994804	det.
-994807	det.
-994810	det.
+NA
 det.
+NA
+NA
 a
-a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
 a
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-a
+NA
 a
-a
-994822	c
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
 a
-994826	det.
-994828	c
-994830	c
-994832	a
 c
-994835	a
-a
-994838	c
-994841	c
-994844	c
-994846	det.
+NA
+NA
 c
-994849	c
-994851	a
-994853	c
-994856	c
-994859	a
-994861	c
-994863	c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 c
-994867	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-994871	c
+NA
 c
+NA
+NA
+NA
+det.
+NA
 c
-994877	a
-994883	a
-994888	a
-994890	a
-994893	c
-994895	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-994900	c
-994902	c
-det.
+NA
 c
-994908	c
-994910	c
-994912	c
-det.
-994915	det.
+NA
 c
-994924	c
-994928	c
-a
-994931	det.
 c
-994936	c
-a
+NA
+NA
+NA
+NA
+NA
 a
-994940	det.
+NA
 a
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-994944	a
-994946	a
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-994949	det.
+NA
 c
-det.
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
-994955	c
+NA
+NA
+NA
+NA
 c
-994959	c
 c
-a
-a
-994964	det.
-994966	c
-994968	a
-994970	a
-a
+NA
+NA
+NA
 a
-994974	a
-994976	det.
+NA
 c
-a
+NA
+NA
 c
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-994983	c
 c
 c
-994987	a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-994990	det.
-det.
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-994995	c
+NA
+NA
+NA
+NA
 det.
+NA
 a
-994999	c
-det.
-995002	a
+NA
+NA
+NA
+NA
+c
+NA
 a
-995005	det.
-det.
-995008	c
-det.
+NA
 c
-995012	a
-995015	c
-det.
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
 det.
-995022	a
-995024	c
-995026	c
-995028	a
-995032	a
-995034	c
-995036	c
-995040	a
-995042	det.
 c
+NA
 a
 a
-995047	c
+det.
+NA
+NA
 c
-a
-995051	a
-a
-a
-995055	det.
-a
+c
 a
-995059	c
-det.
+NA
 a
+NA
 a
-995064	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
+NA
+c
+NA
 a
-995071	det.
-995074	det.
-995077	det.
-995079	c
+NA
+NA
 det.
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-995084	c
-a
-a
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+det.
 c
-995090	c
-995092	det.
-995095	c
-995097	det.
 det.
-995100	det.
-995102	c
-995104	det.
-a
-a
-a
-a
-995110	a
-995114	c
 c
-995118	a
-995122	c
-995125	a
 a
-995128	det.
+NA
+NA
+NA
 c
-a
-995133	det.
-995135	a
-a
-995138	c
+c
+NA
+c
 det.
-995141	det.
-a
-a
-995146	a
-995148	c
+c
+NA
+NA
 det.
-995153	a
-995155	c
-a
-995159	c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
 det.
-a
-995164	a
+NA
+c
+NA
+NA
+NA
 det.
-995167	a
-995169	a
-995171	det.
-995173	det.
-995176	det.
-995180	c
+a
+NA
 det.
-995184	a
-995186	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-995190	c
+NA
 c
-det.
+NA
+c
+NA
+c
+c
+NA
+a
+NA
+NA
+NA
+c
 a
-995195	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 c
-995199	c
 c
-995202	c
-det.
-995205	a
+NA
 a
-995209	c
-995212	c
+NA
+NA
+NA
 a
-c
 a
-995217	c
+NA
+NA
+NA
 c
+NA
+NA
 c
-det.
-995222	c
-det.
-det.
+NA
 c
 c
-a
+NA
+NA
 a
-995230	a
+NA
+NA
 c
-a
+NA
 c
-995235	c
-a
-995238	c
-a
-a
-a
+NA
+NA
+NA
+NA
+c
+c
+NA
 a
-995244	c
-det.
-995247	det.
-995250	det.
-995253	det.
-995256	c
-det.
+NA
+NA
+NA
+NA
+NA
+c
 c
-995260	a
-995263	det.
-995266	det.
-995268	det.
-995271	c
-995273	c
 a
-995276	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-det.
-995280	c
-det.
-995283	a
-995285	det.
-995287	a
-995289	a
-995291	c
 a
-995294	det.
-995297	det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-995300	a
-995304	a
-995307	a
-995309	a
-995312	c
-det.
+NA
+NA
+NA
+c
+c
+NA
 a
-995316	a
-995318	det.
-995320	a
-995322	c
-det.
-995327	c
-995329	a
-995332	c
-995334	a
-995336	det.
-995338	a
-995340	a
+NA
 c
-det.
-995345	det.
-995347	a
-995349	a
-995351	a
-995354	det.
+NA
+NA
+NA
+NA
+c
+NA
 c
-995357	det.
+NA
+NA
+NA
 a
-995360	a
-995362	c
 c
-995365	c
+NA
+NA
+NA
+NA
+det.
 c
-995369	c
+det.
 c
 c
-995377	det.
 c
-995381	det.
-995383	det.
 c
+NA
 c
+NA
+NA
 a
-995388	c
-995392	a
 a
-995395	c
+NA
+NA
 c
-a
-det.
-995400	a
-995402	a
-a
-995406	c
-a
+NA
+NA
 c
-a
+NA
+NA
 c
-995413	a
-995415	a
-995419	c
-995421	a
-995426	c
+NA
 c
-995429	c
 c
-a
-995433	a
-995437	a
-995439	det.
-995442	det.
-995445	det.
-995448	a
-995451	c
 a
-995454	a
-995456	a
-995459	a
-995461	c
 det.
-a
+NA
+NA
+NA
+NA
+NA
 c
-a
-a
-995468	det.
-995471	det.
-a
+NA
 a
-995475	a
-995477	c
-det.
-995481	det.
-995484	c
+c
+NA
+c
 det.
-995488	c
-995492	a
+NA
+NA
+NA
+NA
+NA
 c
-995498	a
-995500	c
 a
-995503	a
-995505	c
-995508	det.
-995510	c
+NA
 c
+NA
 det.
-995515	c
 c
 a
-995519	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-995523	det.
-995525	det.
+NA
+NA
 a
-995528	a
+NA
 det.
-a
-995532	det.
-a
+det.
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
 c
+NA
+NA
 c
-995538	det.
-995540	a
-995542	a
-995544	det.
-det.
-995548	det.
-995550	c
-det.
+NA
+NA
 a
+c
+NA
+NA
+NA
 a
-995555	det.
-995557	c
+NA
+NA
+NA
+NA
 a
-995560	a
-995562	det.
-995564	det.
-995566	det.
-995568	c
 det.
-995571	det.
-a
 a
-995575	det.
-995577	a
+NA
+NA
+NA
 c
-a
-a
-a
-a
-995584	c
-a
-a
-a
-995590	c
-det.
-995593	det.
 det.
-995596	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
-995599	a
-995601	det.
-995605	c
+NA
 c
+NA
+NA
 det.
+a
+NA
 det.
+a
+NA
 c
-995611	det.
-det.
-995614	det.
+NA
 a
-995618	c
+NA
 det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-995622	det.
-995624	c
-det.
-995627	c
-det.
+NA
 c
-995631	c
+a
+a
+NA
+NA
+NA
+a
 c
+NA
 c
-995635	det.
+NA
 c
-995640	det.
-995642	det.
 a
-995645	det.
-995647	a
-995649	c
-det.
-995652	det.
-det.
-c
-c
-det.
 a
 a
-995660	det.
-995662	c
-995665	det.
-995668	det.
-995671	c
+NA
+NA
+NA
+NA
+NA
 c
 c
-995675	a
-995679	c
+NA
 c
+NA
+NA
 c
-995684	c
 det.
-995688	c
+NA
+NA
+NA
+NA
 c
+NA
 det.
-995692	a
-c
-995695	a
-995698	c
-995701	det.
-995703	det.
-995705	det.
-995708	det.
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
 c
-det.
 c
 a
+NA
 c
-995718	det.
-995720	a
-995722	c
-995725	c
-det.
-det.
-995730	a
-det.
-995734	det.
-995737	c
-det.
-995741	a
-a
+NA
 a
-995745	det.
+NA
+NA
+NA
+NA
 det.
-a
-a
-995750	det.
-995752	a
-995754	c
+NA
+NA
 det.
 a
-995758	c
+NA
+NA
+NA
+NA
+NA
 a
-995761	det.
-995764	a
-995766	a
-995768	c
 c
-995771	det.
-995774	det.
-995777	det.
-995779	c
 c
-a
-a
-995784	a
-a
-995787	a
-995789	det.
-995791	a
-a
-995794	det.
-995796	det.
 c
-det.
-995800	c
+NA
+NA
+NA
+NA
+NA
 a
+c
+c
+NA
+NA
 a
-995804	det.
-det.
+NA
+NA
+NA
 c
 a
-995810	a
-995813	c
-995815	c
+NA
 c
 c
+det.
+NA
+NA
 c
-995823	a
-995825	a
-995827	a
 c
-995830	a
+NA
+NA
 c
-995833	a
+NA
+NA
 c
-det.
 c
 a
-995839	a
-995841	c
-995843	a
-det.
-995847	c
-995851	c
-det.
-995854	a
-995856	c
-a
-995860	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-995864	det.
-det.
-995867	c
+NA
 c
-995871	a
-995875	c
-a
-995883	c
-a
-a
-995891	det.
-995893	a
-995897	a
-995899	c
-a
-995902	a
-a
-995905	a
-995907	c
-a
-995910	c
-995912	a
-995914	a
-995916	det.
-995918	det.
-995921	det.
-det.
-995924	c
 a
+NA
 a
-995928	a
-995930	det.
-995932	det.
-995935	c
-a
-995938	c
-995941	c
-995943	det.
 c
-995949	det.
-995952	a
 a
-995956	c
-995959	det.
-c
-995962	a
-995964	det.
+NA
+NA
+NA
+NA
 det.
-a
-a
-995969	a
-995971	a
-995973	c
 a
-995976	a
-995978	a
-995980	c
-a
-995983	a
-995985	det.
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-995988	a
-995991	det.
-995994	det.
-995997	det.
-a
-996000	a
+NA
+NA
+NA
 a
-996003	a
-996005	det.
-996007	a
 a
-996011	c
-996013	a
-996015	c
+NA
+NA
+c
+c
+NA
 det.
-996018	c
-a
-996021	a
-996023	a
-996025	a
-996027	a
-996029	a
-996031	det.
-996033	a
-996035	det.
-996037	c
 det.
-a
-996041	det.
-996043	c
-a
-996046	det.
+NA
+NA
+NA
+NA
 c
-a
-996050	a
-996052	det.
+NA
+NA
+NA
+c
+NA
+NA
 a
-996055	c
+c
+c
+NA
+c
 a
-996058	det.
-996061	c
-996064	c
+NA
 a
-996067	det.
+NA
+NA
+NA
+c
 det.
-996071	c
-a
-996074	c
-996077	det.
+NA
+NA
+c
+c
+c
+NA
+c
+c
 det.
+c
+NA
+NA
+NA
 det.
-996081	det.
+NA
 a
-996084	det.
-996087	c
-996090	c
+NA
+NA
 a
-996093	det.
 c
-a
-996097	a
-996099	det.
-996101	c
-a
-996104	a
-996106	det.
-996110	c
-996113	c
-a
-a
-996117	c
-a
-996120	det.
-996123	c
-a
-996126	c
-996128	c
-a
-996131	a
-996133	det.
-996136	c
-det.
 c
+NA
 a
-996141	a
-996143	det.
-996145	a
-det.
-996148	c
-det.
-996151	a
-a
-a
-996157	a
-996159	c
-det.
+NA
+NA
 a
-996163	a
-996165	det.
-996167	c
+NA
+NA
+c
+NA
 c
+NA
 det.
-a
-a
-996173	det.
-996175	c
-a
-996178	a
-996180	det.
-996182	det.
-a
-996185	a
-a
-a
-996189	a
-a
-996192	c
-a
-a
-a
-996197	c
-a
-996200	a
-996203	a
-996205	det.
-996207	c
+NA
+NA
 det.
-996211	c
-996214	a
-a
-996217	c
-996219	c
-a
-996222	c
+NA
 c
-det.
-996226	c
+c
+NA
 det.
 a
+NA
 a
-996231	c
+NA
 det.
+NA
+c
+c
 det.
-996236	det.
-996239	det.
-996241	a
 a
-996244	c
-996246	c
-996248	a
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-996251	a
-996253	c
+NA
 det.
-996257	c
-det.
-996260	a
-996262	a
-996264	a
-996266	a
-996268	a
-a
-996271	a
+NA
 a
-a
-996276	det.
-a
-996280	c
-a
-996283	a
-996285	c
-det.
-996288	c
 det.
-996291	det.
-996293	c
 c
-det.
-996297	c
-996301	c
+NA
+c
+NA
+NA
 det.
-996305	c
 det.
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
 c
-996309	a
-996311	a
-996314	c
-996316	c
+a
+a
 det.
+a
+NA
 c
-996320	c
+NA
+NA
 det.
-996323	c
 det.
-996327	c
-996330	c
 det.
-996333	det.
-996335	det.
-996338	det.
-996345	a
+NA
+NA
+NA
 a
-996350	a
-996353	c
-det.
-996356	c
+NA
+NA
+NA
+c
 det.
-996359	a
-996361	det.
-996363	det.
+NA
 det.
-996366	c
+NA
 c
 det.
-996370	det.
-996372	c
+NA
+NA
+NA
 c
-det.
-996376	det.
-det.
-996379	c
 c
 det.
-996383	det.
-996385	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 c
-996388	det.
 det.
-996391	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
 a
-996397	det.
-996399	c
+NA
+det.
+NA
+NA
 c
-996403	c
-996407	a
-996411	a
-996415	det.
-996417	a
-996419	det.
+NA
 c
+NA
 c
-a
 c
+NA
+NA
+NA
+NA
 c
-996427	c
-996434	c
-996437	a
-996441	det.
-996445	a
-996447	a
-996449	a
-996451	a
-996453	a
-996457	c
 det.
-996464	c
+c
+NA
+NA
 det.
-996467	c
-996469	a
-a
-996473	c
+NA
 det.
-996480	c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
 det.
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-996487	c
-996491	det.
-996493	c
+NA
 c
+NA
+NA
 c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-996498	c
-996500	c
-996502	c
-996505	a
-996507	a
+NA
 a
-996510	c
-996512	c
 c
-996516	det.
-996519	c
-996522	a
-996524	a
+NA
 a
-996527	c
-996529	det.
-c
-996532	c
-996534	c
-996536	det.
+NA
 c
 c
+NA
+NA
+det.
+NA
 c
-996542	c
-996544	a
-996546	a
-a
-996549	c
-996551	c
-996554	c
-996561	c
 a
-det.
-996566	c
-996569	c
-det.
-996572	c
-996575	det.
 det.
-996578	c
-a
-996581	c
-a
 det.
-996585	a
-996587	a
-996589	det.
-996591	c
-996597	c
-a
-996600	c
-996603	a
-a
-996606	a
-a
-996609	det.
+NA
 det.
-996612	a
-996614	det.
 a
+NA
+NA
+NA
+NA
 c
-a
-996619	c
-996621	det.
-996623	a
-996627	c
 a
-996632	c
-det.
-996635	c
-996637	c
+NA
 a
-996641	c
-996645	det.
+NA
 det.
-996649	det.
 det.
-996652	c
-996655	a
-996658	det.
-996663	c
 c
-996666	c
-996670	a
-996674	c
 c
-a
-996680	c
+NA
 c
+NA
+NA
+NA
+c
+c
+c
 det.
 c
-996685	c
-996687	c
-a
 c
-a
-a
-996695	c
+NA
 c
-996701	det.
 c
-996704	a
-996706	c
-996710	a
-996712	c
 c
-996716	a
-996718	a
-996720	c
-a
+NA
+NA
 c
-996725	c
-996729	c
-a
-996732	c
-996736	det.
 det.
 c
-996742	c
+NA
+NA
 c
-996745	a
-a
-a
-996750	c
 det.
-996753	c
-a
-996756	a
-996761	c
-996765	c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 a
-996768	a
-996773	c
-996778	c
-996786	a
+NA
+NA
+NA
+det.
+NA
+NA
+c
+NA
+NA
 a
-996789	c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 c
 det.
-996793	det.
 det.
-996796	c
-996798	c
-c
-996801	a
+NA
 c
+NA
+NA
 det.
-c
-996806	a
-996808	c
-996811	a
+det.
 a
-996814	a
-996816	det.
+a
+NA
+NA
+det.
+c
+c
+NA
 det.
+NA
 c
 a
+NA
+NA
+NA
 a
-996822	det.
-996824	c
+det.
+NA
+NA
 c
 det.
 c
-996829	a
 c
-996834	c
-996836	c
-996839	a
-a
-996842	det.
+NA
 a
-a
-996846	det.
-c
-996849	a
 c
 c
-det.
-996854	det.
-996858	a
+NA
 a
-996861	c
+NA
 c
-996864	c
-996868	c
+NA
+NA
+NA
 c
-996873	c
 c
-996876	a
-996878	c
-996882	c
 a
 a
-996886	det.
+NA
+NA
+NA
 c
-996889	a
-996892	det.
-996894	c
-det.
-996897	det.
-a
-996900	a
-996902	a
-996904	c
-996906	det.
-a
-996909	c
-996913	a
-996915	a
-a
-996918	det.
 c
-a
-a
-996924	a
-a
-996927	c
+NA
+NA
+c
+c
+det.
+NA
+c
+NA
 det.
+NA
+c
+NA
+c
+NA
+c
 a
 a
-996932	a
-c
-996935	a
+NA
+NA
 det.
-996938	det.
-996940	det.
+NA
 c
-996944	c
-996946	a
-996948	c
-996950	a
 c
 a
-996954	a
-996956	det.
 c
-996962	c
 c
+NA
+NA
+NA
+NA
 c
+det.
+NA
+det.
+NA
 c
-996967	c
-996969	a
-996971	a
-996973	c
-a
-996976	c
-a
 c
-996982	a
+det.
+NA
+NA
 c
-996985	c
-996987	a
-996989	c
+NA
+NA
+det.
+NA
 c
-996994	a
+NA
 a
-996997	a
-996999	c
+c
+NA
 a
-997002	c
+NA
 a
-997005	a
 c
+NA
 c
+NA
+NA
 c
-a
-a
+NA
+NA
+NA
+NA
+NA
 c
-997014	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-997021	c
-997023	a
-997025	c
-997027	c
+NA
+a
+NA
 c
-997031	c
+NA
 c
-997037	c
-997039	c
-997044	det.
 c
-997047	a
-997049	c
-997051	c
-997053	c
-997056	c
+NA
+det.
+NA
 c
-997060	det.
-997063	a
-997065	c
-997068	c
-997070	c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
-997073	c
+NA
+NA
+NA
+NA
 c
-997079	c
-997081	c
+NA
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
+det.
+NA
 c
-997087	c
+NA
+NA
+NA
+det.
+NA
+NA
 c
-997092	a
-997094	c
+det.
 c
-997097	c
-997100	c
+NA
 c
+NA
 c
-997104	det.
-997107	c
-997112	c
-997116	c
-997121	c
-997123	c
 c
+NA
+NA
 det.
-997127	c
-det.
-997134	c
-997136	c
-997138	c
-c
+NA
+NA
+NA
+NA
 c
-997142	a
-997144	c
-997146	c
-997149	det.
-997151	det.
-997153	c
-997155	det.
-997157	c
-997159	det.
-997161	c
-997163	det.
-997165	c
-997168	c
+NA
 det.
-997171	det.
-997173	a
+NA
+a
 c
+NA
 c
-997177	a
-997180	c
-997182	c
-997185	det.
-997188	c
-997190	c
+NA
 c
-a
-997194	a
-997197	a
-997202	a
-997204	a
-997206	c
-a
-997211	c
-a
-997216	c
-a
-997221	c
-997227	a
 c
 c
-997231	a
-997233	a
-997235	a
-997239	c
-997241	c
-a
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-997247	a
+NA
+NA
+NA
 a
-997252	c
-997257	c
-997262	c
+NA
 det.
+c
+c
+NA
 a
-997266	c
+c
+NA
 a
+NA
 a
 a
-997271	c
-997275	c
+NA
+NA
 c
-a
-a
-997281	a
-997284	c
+NA
 c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-997288	a
-997290	c
-997292	c
-a
-a
-997296	a
-997298	c
-997302	c
-a
-997305	a
-997307	a
-997309	a
-997311	a
-997314	a
-997317	a
+NA
 c
-997322	c
-997328	det.
-997331	a
-997333	c
-997335	c
+NA
+NA
 c
-997339	c
+det.
 c
-997346	c
-997348	c
+NA
+NA
+NA
+NA
 c
-997351	det.
 c
-997354	a
-a
-997357	a
-997360	det.
-997364	c
-997367	c
-a
-997371	a
-997374	c
-997376	c
-997378	c
 det.
-997383	a
-997387	c
+NA
+det.
+NA
+NA
+NA
+NA
+det.
 c
-a
+NA
 c
-997393	det.
-997395	c
-a
+NA
+NA
 c
+NA
 c
-997400	det.
-997402	c
+c
+NA
+NA
 det.
-997405	det.
-997407	c
-a
-997410	c
-a
+NA
+NA
+NA
+c
+NA
+NA
 c
-997415	a
-997417	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 det.
-997421	c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+a
 a
-997425	c
+NA
 c
-997429	c
 a
+NA
+NA
+NA
+NA
+NA
+det.
 a
-997434	det.
-997437	c
+NA
 a
-997441	c
+NA
+NA
+NA
 det.
 c
-997447	det.
+NA
+NA
+NA
+NA
 c
-997452	det.
-997455	det.
-997457	c
+NA
 c
-a
-997461	a
-997463	c
-a
 c
-997467	c
-997469	c
-997472	c
-997474	c
-997476	c
-997478	c
-997481	a
-997483	det.
+NA
+NA
+a
+NA
 c
-997487	det.
-997491	det.
-997494	c
 c
-a
-997498	a
-997500	c
 c
-a
 a
-997505	a
-997507	c
-a
+det.
+det.
 c
+det.
+NA
 c
-997512	a
-997514	a
-997516	a
-997518	a
-997521	det.
 c
 c
-997526	det.
-997528	c
+NA
+NA
+NA
 c
-997532	det.
-997535	a
-997538	c
-997540	det.
-997544	det.
-det.
-997548	c
-a
-997554	c
-997557	det.
+NA
+NA
+NA
+NA
 c
-997560	c
-997563	det.
-det.
-997566	a
-997571	c
-997573	c
-997577	a
-997579	det.
-997581	c
-997583	c
+NA
+NA
+NA
 c
-997587	a
 c
-997593	c
-a
+NA
 c
-det.
-997599	a
 a
-997602	c
-997605	det.
-997607	det.
-det.
-997612	a
-997614	c
-det.
-997617	c
+NA
+NA
 a
 c
-997622	c
-det.
-997625	c
-a
-a
-997630	c
+NA
 a
-997634	a
-997637	c
-a
-a
-997645	c
-det.
-det.
-997653	c
-det.
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
 det.
-a
-a
 a
+NA
 c
-997662	c
-det.
+NA
+NA
+NA
+NA
 c
-997668	c
-997674	a
-997676	a
-997679	a
-997682	c
-997684	c
+NA
+NA
 c
+NA
+NA
 det.
-c
 a
-997690	c
-a
-997694	a
 c
-a
+NA
 c
-997702	c
 c
+NA
 c
-a
-997707	c
 det.
-997710	a
-997712	det.
-997716	c
 det.
-997721	c
 a
-997725	c
-997729	det.
-det.
-997733	det.
-det.
-997738	c
-997743	det.
-det.
-997746	a
-997749	c
-997754	det.
-997758	c
 det.
-997761	a
-997763	a
-997765	c
-c
+NA
 a
-997769	c
-det.
-det.
-997775	c
+NA
 c
-a
-997780	a
-a
-997785	a
-997788	a
 c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 det.
-997793	det.
-997795	det.
-997797	det.
-997799	c
-997801	det.
-997803	det.
-997805	det.
-997807	det.
 c
-a
 c
-997814	c
+NA
+NA
+NA
 det.
-a
-997821	c
-997824	det.
-997827	c
-997830	det.
-997834	c
+NA
+NA
 det.
-997837	c
-997840	c
-a
-997843	a
-997845	a
-997848	c
-997852	a
-997855	det.
-a
-997860	c
-997863	c
+NA
+NA
+NA
+NA
+NA
+NA
+c
 det.
-997870	c
-997872	a
-997875	det.
 det.
-997883	a
-997885	c
-c
-997893	c
+det.
+det.
+NA
 c
-997898	a
+det.
 a
-997901	a
-997905	c
+NA
 c
-997908	c
-997910	a
-997912	a
-997916	a
-997920	a
-997922	det.
-a
-a
-997926	a
-997928	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-997932	a
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-997936	a
-det.
-997939	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 det.
-a
-a
-997945	c
-997952	det.
 c
-997955	a
-997958	c
+NA
 c
-det.
-997962	det.
+NA
+NA
 c
-997965	a
-997968	c
-997976	c
-997980	c
-997982	c
-det.
-a
-997986	c
-a
+c
+NA
+c
 a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-997991	a
-997993	a
-997995	a
-997997	a
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-998002	c
-998005	a
-998014	a
-998016	c
 a
-998022	c
+NA
+NA
 c
-998025	c
-998031	a
-998033	a
+det.
 c
-998037	c
-a
-a
-998041	a
+NA
+NA
 a
-998048	a
-998050	a
-998052	a
-998054	a
-a
-998057	a
-a
-998061	a
-998063	a
-998067	c
-998071	a
+NA
+det.
+NA
+NA
+NA
 a
-998076	a
-998078	a
+NA
 c
-det.
+NA
+a
+NA
+NA
 c
-998084	c
-998087	c
 det.
-998094	c
-c
-998099	c
 c
-998102	c
-998104	a
-998106	a
-998108	c
 c
-998115	a
-a
-998118	a
-998120	c
+NA
+det.
+det.
+NA
 a
 a
-998127	c
-998129	det.
-998131	det.
-998135	det.
-998138	det.
-998140	det.
-998144	det.
-998147	det.
-998151	a
-998155	a
-998157	c
-998159	c
-998162	a
-998165	a
-998169	a
-998171	a
-998173	a
 a
-998176	c
+NA
 c
+NA
+NA
+NA
 a
-998180	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-998187	c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-998191	c
-998193	a
-998195	c
-a
-998202	c
-998204	c
 c
-998208	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-998212	c
-det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-998218	a
-998220	c
-998222	a
-998224	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
 a
 a
-998230	a
-998232	c
-998234	c
+NA
+NA
+c
+c
 a
+NA
+c
 a
-998239	c
+NA
 a
-998242	a
-998244	a
-998246	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-998250	a
-998252	c
 c
-998255	c
+NA
+NA
+NA
 c
-998260	c
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-998268	c
-998270	c
+a
+NA
+a
+NA
 c
-det.
-998275	c
-998278	c
-998280	c
+NA
+NA
+a
 a
-998283	a
-998287	c
-998290	c
-998292	c
+NA
+NA
 c
-998299	c
-998301	det.
-998303	det.
-998307	det.
-998310	det.
-998315	c
-det.
-998318	det.
-998321	det.
-998325	a
-998327	det.
+NA
+NA
+NA
 a
-det.
-998334	det.
-998336	det.
-998338	c
-998343	c
 c
-998346	a
-998349	det.
-998351	det.
-998353	c
-998356	c
-998358	c
-998360	c
+NA
+a
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
-998366	det.
+NA
 c
-998369	c
-998375	c
-998377	c
-998382	c
-998387	a
-998391	c
-998393	a
-998396	c
-998401	a
-998408	a
-998411	a
-998413	c
-998415	a
-998417	c
-998419	c
-998421	c
-998424	a
-998427	a
-998431	a
-998433	c
-a
-998436	c
-998440	c
-998442	c
+NA
+NA
+NA
+NA
+NA
 det.
-998445	c
-998447	a
-998450	a
-998454	a
-998456	c
-998458	c
-c
-998461	a
-998463	c
-998466	c
-998468	c
-998471	det.
+NA
 c
-998475	c
-998479	c
-998482	c
+NA
+NA
 c
-998485	c
+NA
+NA
 c
 c
-998490	c
-998494	a
-998496	c
-998499	c
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
+NA
 c
-998504	c
+NA
+NA
+NA
+NA
+NA
 c
-998508	c
-998517	c
-998519	c
 c
-a
+NA
 c
-998525	c
-998528	c
+NA
 c
-998535	c
+det.
+NA
 c
+det.
+NA
 a
-998539	a
-c
-c
-998544	c
-998548	c
-c
-998552	c
-c
+NA
 det.
-c
-998557	c
-998559	det.
-998562	c
-998573	c
+NA
 a
-998576	c
+NA
 a
-998581	a
-998583	a
-998587	det.
-998589	det.
-c
-998594	c
-998598	a
+NA
 a
+NA
 c
-998606	c
-det.
-det.
-998611	c
-det.
 det.
-998615	a
-998619	c
-998621	c
-a
-998625	c
-c
-998628	c
 c
-998632	c
+det.
 c
 c
-998636	c
-998648	det.
-det.
-998651	c
 det.
-998655	a
-998658	c
-c
-998662	c
-998667	c
 a
-998670	c
-998672	det.
-c
-998676	c
-998680	det.
-998682	c
-998686	c
-c
-c
-998690	c
-c
-998693	c
-998695	c
-998697	c
-c
-998700	c
-c
-998703	c
-998705	det.
-998707	c
-998711	a
 a
-c
-998720	c
-998722	a
-998725	c
-998727	c
-998729	a
-c
-998733	c
-998737	c
-c
-c
-998741	c
-998745	a
-c
-998755	a
-998758	a
+NA
+NA
+NA
 a
-det.
-998762	det.
+NA
+a
 det.
-998766	a
-998769	c
 c
-det.
-det.
-998774	c
 a
-998780	c
-c
-998785	c
-c
-998789	c
 a
-998793	c
+NA
+det.
+NA
+NA
+NA
+NA
 c
-998797	c
 c
-998802	a
-998804	det.
-998807	c
 c
-a
-998812	c
-998816	c
+NA
 a
-998820	a
-998825	c
-998828	det.
-998830	c
-998833	c
-c
-998838	a
-998840	c
-998843	c
-998848	c
-998851	c
-c
-c
-c
+NA
 c
-998857	c
 det.
-998860	c
+NA
+c
+NA
 det.
-998863	det.
-998865	c
-998867	c
-998871	c
-998873	c
+NA
+a
+a
+NA
+NA
 c
 c
-998877	a
-998879	a
-998881	a
 c
-998885	det.
-998887	c
-998889	c
+NA
+NA
+NA
 c
-998895	a
-a
-998902	det.
-998905	det.
-998908	c
 c
+NA
+NA
 det.
-998918	det.
-det.
-998924	a
-998927	a
-998929	det.
-998931	det.
-det.
-998940	det.
+NA
+a
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
 det.
-998944	det.
 det.
-998949	det.
-998958	c
+NA
 det.
-998963	c
+NA
 det.
+NA
 c
-998970	c
-det.
 c
-998976	c
 det.
-998982	a
-998984	det.
-c
-998988	c
+a
+NA
+NA
 c
-998994	c
-998996	c
 c
-999001	c
+NA
+det.
+det.
+a
+NA
 det.
+a
+NA
+NA
+NA
 c
-999010	det.
 c
-999014	a
-999016	a
-999018	det.
 c
-999025	a
-999028	c
-999030	det.
 det.
-999034	c
-999036	c
-999039	det.
-999042	det.
 det.
-999046	det.
-999048	a
-999050	c
+NA
+NA
 det.
-999058	a
-999064	det.
-c
-999067	a
-999078	a
-999080	c
+NA
+NA
 det.
+NA
 c
+NA
+det.
+NA
+det.
+NA
 c
-999085	a
-999088	a
+NA
+NA
 c
-999093	c
+det.
+NA
 c
-999097	a
-999101	a
 a
-c
-999105	c
+NA
+NA
+NA
+NA
+NA
+det.
 a
-999111	a
-999116	det.
-999119	c
+NA
+det.
 c
-999122	a
-999124	a
-999126	a
-999134	c
-999136	det.
 det.
+c
 a
-999143	a
-999147	c
-999149	c
-999151	a
-999153	a
-999157	a
-999161	c
-999163	c
+NA
 c
-999169	det.
-det.
-999172	a
-999175	c
-det.
-999178	a
+NA
 det.
 det.
-999182	det.
-c
-999186	c
-999189	c
 a
 a
-999194	c
+NA
+det.
 a
+NA
+NA
+NA
 a
-999198	c
-999202	c
-c
+NA
 a
-999206	c
+NA
+det.
 a
-999209	c
+NA
 a
-999212	c
+NA
 a
-999215	c
-c
-999223	a
+NA
+NA
 a
-999226	det.
-999228	c
-999230	a
+NA
+det.
+NA
+NA
 a
 a
-c
+NA
+NA
+NA
+det.
 a
 c
-999239	c
-999243	c
-det.
-999246	c
-det.
 c
-999251	c
-a
 c
+NA
+NA
+NA
 a
+NA
 c
-a
-999258	c
+det.
+NA
 a
-999261	a
-999265	a
 a
-999268	a
-999270	a
-999273	c
+det.
 c
 a
-999278	c
-a
+NA
+NA
+NA
 c
-999284	c
-999286	a
-a
 c
+NA
+NA
 c
-999293	det.
-a
+c
+det.
+NA
+NA
+c
 a
-999298	det.
+NA
+NA
 a
 a
-c
-999303	a
-999305	a
-999307	a
-999310	a
-999314	c
-999319	c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 a
-999322	c
+NA
 a
+NA
 a
-999327	a
-999331	c
-c
-det.
-999337	c
+NA
+NA
+NA
 c
-999341	a
-999343	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-999349	a
+NA
 a
-999352	a
-999354	c
-999357	c
-c
-c
-999366	a
-999368	c
-c
-999371	c
-999375	a
-999379	a
-999381	c
-c
 a
-999387	a
-999389	a
-999391	c
+NA
+c
+det.
+NA
+NA
+NA
+det.
+NA
 a
-999394	a
-999396	c
+NA
 a
-999404	c
-999409	det.
-999411	c
+NA
+NA
+NA
 a
-999414	a
+NA
+NA
+det.
+NA
 a
-999417	c
-999419	c
 c
-a
-999427	c
 det.
-999431	c
+NA
 det.
-det.
-999435	c
-999440	c
+NA
+c
 det.
+NA
 det.
-999444	c
-999447	a
-999449	c
-999455	a
+NA
+NA
 a
 a
-999460	c
-999465	c
+NA
+NA
+NA
 c
+NA
+c
 det.
-999470	a
-999472	a
-999474	a
-999476	a
+a
+NA
 a
-999481	c
+a
+NA
+c
 c
 det.
-999485	c
+NA
 det.
-999488	a
-999490	c
-999493	c
-c
-999497	a
-999499	c
-c
-999502	c
+NA
+NA
+NA
+a
 c
-999505	det.
-999510	c
 det.
-c
-c
+NA
+a
 det.
-999516	c
+NA
+a
+NA
+NA
+NA
+det.
+NA
+NA
 det.
-999524	c
-999532	c
+NA
 a
-999537	c
-999542	det.
-c
-999546	det.
 a
-999549	a
-999552	det.
+NA
 a
-999555	det.
-999557	det.
-999560	c
+NA
+NA
+NA
 det.
-999563	c
+NA
+a
+NA
 det.
-999566	c
+a
+a
+NA
+NA
+NA
+NA
 c
-999570	c
-999575	a
-999577	c
-999580	c
 c
-det.
+NA
+NA
+a
 c
-det.
+c
+NA
+NA
+NA
+NA
 c
 c
 det.
-999591	c
+det.
+NA
 c
-a
-999596	c
+NA
+NA
 a
-999600	c
 a
-999603	a
-999610	c
+NA
 det.
-det.
-999617	c
-det.
-999620	det.
-999622	c
-999626	c
-999628	a
-999630	c
+NA
 c
-999633	c
-999638	c
-c
-999641	c
-999644	c
 det.
-999647	det.
-999651	c
-c
-c
-999656	c
+NA
 det.
-c
-999662	a
-a
-999667	a
-999669	a
-999672	a
-999675	a
-a
-999679	c
+NA
+det.
 a
-999684	a
-c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 c
+det.
+NA
 a
+NA
+NA
 a
-999690	a
+NA
+NA
+NA
+NA
 a
-999693	a
-999696	a
-999699	a
-999702	c
 a
-999706	a
-999708	c
-c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-999712	a
-999714	c
 a
+NA
 a
-999724	c
+NA
 c
 c
-999729	c
-999734	a
-999737	a
-999740	a
-999743	a
-999745	c
 c
+NA
 c
-999749	c
-999752	c
-999754	c
-999758	c
+det.
+NA
 a
+NA
+NA
 a
-999764	c
-c
-999768	c
+a
+NA
+a
+a
+NA
+a
+NA
+NA
 c
-999771	c
+NA
+det.
+NA
 c
 det.
+NA
 det.
-999778	c
-c
-999783	c
-c
-999788	c
+det.
+NA
+NA
+det.
+NA
+NA
+NA
 c
-999801	a
-999806	a
-999808	det.
+det.
+NA
+det.
+NA
+NA
+det.
+det.
+NA
 c
-999811	c
-999813	c
-999815	c
-999819	a
+det.
 a
-999822	c
-c
-c
-999828	a
-999830	c
-999832	c
+NA
+NA
 a
-999837	c
-999839	c
-999842	c
-c
-999847	det.
-999849	det.
-999851	c
-999855	a
-999858	c
-999860	c
+a
+NA
+NA
+NA
 c
-999864	a
-999871	c
+a
+NA
+NA
+NA
 c
-999875	c
+a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-999879	c
-999881	c
 c
-999884	c
-999889	c
-999891	a
+NA
 c
-999898	a
-999900	c
-999902	a
-999904	a
-999908	a
-999911	a
+NA
+NA
+NA
+a
 a
-999914	c
+NA
+NA
 a
-999917	c
 c
-999921	c
+NA
 c
+det.
+NA
+det.
+NA
+a
+NA
+c
+NA
 c
+NA
+NA
 det.
-999926	c
-999928	c
+det.
+NA
+NA
+NA
+c
+NA
+NA
 c
-999931	c
 c
-999934	det.
-999937	det.
-999940	det.
 a
-999943	a
+det.
+det.
 c
-999947	c
 c
-999951	c
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-999954	det.
-999957	det.
-c
+NA
 det.
-999961	det.
-999963	det.
-c
-999969	a
-a
-999972	det.
-999975	c
+NA
+NA
 det.
-999978	det.
-999980	det.
-999983	det.
-999986	det.
-999988	det.
-999991	det.
-999994	det.
-a
-999997	det.
-1000000	c
+NA
 det.
-1000003	a
-1000005	det.
+NA
 a
-1000008	det.
-1000011	det.
 a
-1000014	det.
-1000016	c
-det.
-1000022	c
-c
-1000025	c
-1000027	c
-1000030	c
-1000033	c
-1000035	c
+NA
+NA
+NA
 a
-1000038	c
-c
-c
+NA
 det.
-1000045	det.
-1000047	c
+NA
 c
-1000050	c
-1000052	c
+NA
+NA
+NA
+NA
+NA
 c
 a
+NA
 a
-1000058	c
-c
-c
-1000062	det.
+NA
+a
+NA
+a
 c
-1000066	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1000069	c
+NA
+NA
+NA
 c
 det.
-1000074	det.
-1000077	c
+NA
+NA
+NA
 a
-1000080	a
-1000083	a
-1000086	a
+NA
 a
-1000089	det.
-1000093	det.
-c
-1000096	a
-1000101	c
-1000103	c
-det.
+NA
+NA
+NA
+NA
 det.
-1000109	a
-c
-1000112	c
-1000114	det.
-a
 a
-1000118	a
-1000120	a
-1000122	a
 a
 a
+NA
+NA
 a
-a
-1000128	a
-1000130	a
-1000132	det.
-1000137	det.
+NA
+NA
+NA
+det.
+NA
+NA
 det.
-1000140	c
-1000143	c
+NA
 a
-1000148	c
-1000150	det.
+det.
+NA
+c
+NA
+c
+NA
+NA
+NA
 det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
 c
 a
+NA
 a
-1000157	det.
-det.
-1000165	c
-1000169	det.
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-1000175	c
-1000177	det.
-1000179	c
-1000184	det.
-1000188	a
 det.
+NA
+a
+NA
 c
-1000194	a
-1000196	det.
-1000202	a
+NA
+NA
 a
-1000205	a
-1000207	c
 a
-1000211	c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
-1000216	c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
 a
-1000221	c
+NA
 a
+NA
 a
-1000225	a
 c
-1000228	c
 a
-1000231	a
-1000233	c
-1000235	a
-1000238	c
 det.
+NA
 c
-1000242	det.
-1000244	c
-1000247	c
 det.
-1000250	det.
-1000253	c
 det.
-c
-1000258	det.
+NA
 det.
-1000262	det.
-1000265	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+c
 a
-det.
-1000269	a
-1000272	c
-1000277	c
-1000280	c
-1000282	c
-1000285	det.
-1000287	c
-1000289	det.
-1000298	a
-1000300	c
-1000302	det.
-det.
-det.
-1000306	c
-1000308	c
-1000310	a
-1000312	a
+NA
+NA
+NA
+NA
+c
 a
-1000315	a
+NA
+NA
+NA
 a
-1000322	a
-1000324	c
-1000327	a
-1000329	a
-1000331	a
+NA
 a
-1000340	c
-1000342	c
-1000347	c
-1000349	a
-1000352	det.
-1000356	det.
-1000363	a
-1000365	c
-1000367	det.
-1000371	det.
-det.
-1000374	c
-det.
-1000380	c
-1000384	c
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1000387	c
-1000391	c
-det.
-1000394	c
-1000396	det.
-1000400	a
-1000402	c
-1000408	a
-1000412	a
-1000419	c
-det.
+c
 det.
-1000426	a
-1000437	a
-1000444	c
-1000448	c
-1000450	c
+NA
+NA
+NA
 a
-1000453	det.
-1000455	det.
-1000457	det.
-1000459	c
+NA
+NA
+NA
 c
-1000463	det.
+NA
+a
+NA
 c
+a
+NA
+NA
 c
-1000467	c
-1000469	a
-1000474	det.
-det.
-1000477	a
+NA
+NA
+NA
+NA
+NA
 c
-1000481	c
-det.
-det.
-a
-1000487	c
-det.
+NA
+NA
+NA
 c
-1000491	a
-1000493	a
-1000496	c
+NA
+NA
+NA
+c
 a
-1000499	a
-1000502	det.
-1000505	det.
-1000507	det.
-det.
-1000510	det.
-1000512	det.
-1000514	det.
-1000516	c
+NA
 c
-1000521	c
-1000523	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1000528	c
-1000532	c
-det.
 det.
-1000536	det.
-1000538	c
-a
+NA
 c
-1000550	det.
-1000553	det.
+NA
 c
-a
-1000560	c
-1000562	c
-1000565	c
-1000567	c
-1000570	c
-1000572	c
+c
 a
-1000575	c
+NA
+NA
+NA
+NA
 a
-1000578	c
+NA
 c
-det.
 det.
+NA
 det.
+NA
 c
-det.
-1000587	c
-1000589	c
-det.
-det.
-1000593	det.
-1000598	c
-1000602	det.
-det.
-1000605	c
-1000610	c
-1000612	c
-1000618	a
+NA
 a
-1000621	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1000627	det.
-1000632	a
+NA
+NA
 a
-1000638	det.
-1000640	det.
-1000642	c
-1000644	c
-1000648	a
-1000650	c
-1000655	c
-1000659	c
-1000663	det.
-a
+NA
+NA
 c
+NA
 a
-1000676	a
-1000680	c
-c
-1000685	c
-1000689	c
-c
-1000694	c
-c
-1000701	c
-1000705	c
-1000708	c
+NA
+NA
 a
+NA
+NA
 a
 a
-1000720	a
-1000726	det.
-1000728	c
 a
-1000731	c
+NA
 a
-1000737	a
+c
+c
+NA
+NA
+c
+a
 a
+NA
+NA
 a
-1000744	a
+NA
 a
+NA
+c
+c
 a
-1000748	a
-1000750	a
-1000752	c
+NA
+c
+c
 c
-1000756	c
 c
-1000768	c
-1000770	c
-1000774	c
 c
-1000778	c
+a
+a
+NA
 c
-1000783	c
 c
 c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
 a
-1000789	a
-1000792	a
-1000794	c
+NA
+NA
+NA
+NA
+c
 a
-1000797	a
-1000800	c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
 c
+NA
+a
+NA
+NA
+NA
+NA
 c
-1000804	det.
-1000809	det.
-1000811	c
-1000813	c
+NA
+NA
 c
-1000821	c
+a
 a
-1000824	c
-1000826	a
-1000828	c
-1000830	c
+NA
+NA
 a
-1000833	c
 a
-1000836	c
-1000841	det.
-1000845	c
 a
+NA
 a
-1000850	c
+NA
+NA
 a
+NA
+a
+c
+NA
+NA
+NA
 a
-1000855	a
-1000858	det.
-1000862	a
 c
 c
 a
-1000869	c
-det.
-1000874	c
-1000877	c
-1000884	det.
-1000891	c
-1000893	det.
-1000895	a
-1000898	det.
-det.
-1000901	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
 a
-1000904	a
+NA
 a
-1000907	det.
-1000912	det.
 c
-1000915	a
-1000917	a
-1000921	c
+NA
+NA
+NA
+NA
+NA
 c
-1000925	c
-1000928	c
-a
-1000933	a
-1000936	c
-1000940	a
 c
-1000949	c
 c
-1000955	c
-1000958	c
-a
-1000961	c
-1000963	a
-1000965	c
 a
-1000969	det.
 a
-1000972	a
-1000974	det.
 a
-1000977	det.
-1000980	a
-1000984	det.
-1000986	det.
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
 a
-1000990	det.
-1000993	det.
-1000997	c
-1001002	a
-1001005	a
+c
+NA
+c
 a
-1001009	a
-1001011	c
-1001015	a
-1001017	c
-1001020	det.
-1001024	a
+NA
 a
-1001033	a
+NA
+NA
+c
+c
 a
-1001038	det.
-det.
-1001048	a
-1001051	c
-det.
-1001054	c
-1001058	c
-det.
-1001061	det.
+NA
 a
-1001065	c
-det.
-1001068	det.
-1001070	c
-1001073	det.
-det.
-1001076	a
-1001081	a
-1001084	c
+c
 a
-1001087	c
-1001091	c
+NA
 a
-1001095	c
+NA
+NA
 c
-1001099	det.
-1001101	c
+a
+NA
+NA
+NA
 c
-det.
-det.
-1001107	c
-det.
-det.
-1001111	det.
-det.
-1001119	a
+NA
 a
-1001124	c
+NA
+c
+c
+NA
+c
+c
 det.
-1001128	a
 a
-1001131	c
-1001138	det.
-1001142	det.
-1001144	a
+NA
+NA
 c
-1001149	det.
-1001152	det.
-1001154	a
 c
-1001158	c
 c
-1001162	det.
-1001166	det.
-1001168	det.
-1001170	det.
-1001172	a
-a
-1001176	a
-1001179	det.
-1001188	det.
-det.
-1001192	c
-1001195	det.
-1001198	a
-1001201	det.
+NA
+NA
+c
+NA
+c
 c
+NA
 a
-1001206	c
-1001208	a
-1001210	c
-1001213	a
+NA
+c
 a
-1001216	det.
-det.
-1001220	a
-1001223	det.
-det.
-1001227	a
-1001230	a
+NA
 a
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
+c
 c
-1001237	a
+NA
+c
 a
-1001241	det.
-1001246	a
-1001249	det.
-det.
-1001253	c
-det.
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+c
 a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
 a
-1001263	a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-1001270	c
+NA
 c
+NA
+NA
 c
-1001275	a
-1001277	c
+NA
+NA
+NA
+NA
 c
-1001282	c
+NA
 c
-1001286	a
-1001288	c
+NA
+NA
 c
-1001293	c
+NA
 c
 c
+NA
 c
-1001298	c
+NA
+NA
+NA
 c
-1001301	a
-a
-1001305	a
-1001307	c
+NA
 c
 c
-1001311	c
 c
-1001315	a
-1001317	c
+NA
 c
-1001321	c
+NA
 c
-1001324	a
-a
-1001328	a
-1001330	c
+NA
+NA
+NA
+NA
 c
-1001333	c
+NA
 c
-1001336	a
-a
-1001343	det.
-1001345	c
-a
-1001349	a
-a
-a
-1001353	c
 c
-det.
-1001357	det.
-1001359	c
-1001361	a
-1001364	a
+NA
+NA
+NA
 c
-det.
-1001368	c
-det.
+NA
 c
-1001372	det.
-1001374	c
 c
-1001378	c
+NA
 det.
-1001381	det.
-a
+NA
 c
-1001385	a
-1001388	det.
-1001390	c
-1001392	a
-a
 c
+NA
 c
-a
-det.
-1001399	c
-1001401	c
+NA
 c
 a
-1001406	det.
-det.
 c
-1001410	det.
+NA
 c
-det.
-1001416	c
-1001418	det.
-1001420	a
-1001422	c
-det.
-det.
-1001426	c
-det.
-1001430	c
-det.
-1001433	c
-det.
-1001438	det.
-1001440	a
-1001442	c
 c
+NA
 c
-det.
-det.
-1001448	a
-a
-det.
-1001452	c
-det.
-a
-1001456	c
-1001458	c
-1001460	a
-1001462	det.
-1001467	det.
-a
-a
-a
+NA
+NA
 c
 a
-1001474	det.
+NA
+NA
+c
+c
 a
+NA
+NA
+c
+NA
+c
+NA
+c
 a
-1001478	a
-1001480	c
-det.
-1001485	a
+NA
 a
+c
+NA
 a
+NA
+c
+NA
 c
 a
-1001491	c
-1001493	a
 a
-det.
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
 a
-1001498	det.
-1001500	det.
-det.
-1001503	a
+NA
 c
+NA
+c
 a
 a
-1001508	c
-det.
+NA
+NA
 c
-1001512	c
-1001514	a
-1001516	det.
-1001519	det.
-1001523	c
-det.
-1001526	c
-det.
-1001530	det.
-1001533	a
+c
 a
+NA
+NA
+c
+NA
+NA
+NA
+c
 a
-det.
-1001538	det.
-1001540	c
+NA
 c
-1001543	c
-1001545	c
+c
 a
-1001549	c
 a
-1001552	a
-det.
-1001556	det.
-1001558	c
-det.
-det.
-1001563	det.
-1001565	c
-det.
-1001568	c
-1001570	det.
-1001572	det.
-1001574	a
-1001578	det.
-det.
-1001581	det.
-1001583	c
 a
-1001588	c
 c
-det.
-det.
-1001594	a
-a
+NA
+c
 a
+NA
+NA
+c
 a
-1001600	c
-det.
+NA
 a
+NA
 c
-1001605	c
-det.
-1001609	a
+c
+NA
+NA
+c
+c
 a
-1001613	a
-1001616	c
 a
+NA
 a
-1001620	det.
-det.
-1001624	det.
-1001626	c
-det.
-det.
-1001630	c
-det.
+NA
 a
 a
+NA
 a
-1001639	c
-det.
-1001642	c
-1001644	det.
-det.
+NA
 c
-det.
-a
 a
+NA
+NA
 c
 c
-det.
-det.
-1001656	det.
+NA
+NA
+NA
+NA
+NA
 c
-det.
-1001660	c
 a
-1001663	c
-1001665	c
-1001667	a
-1001670	det.
+NA
+c
 c
-1001677	det.
 a
+NA
 a
 a
+NA
 a
+NA
 c
+a
+NA
 c
-1001686	c
-1001688	det.
 c
-1001694	det.
-det.
-1001698	a
-1001700	a
-det.
-a
-1001705	a
+NA
 a
 a
-1001709	c
-det.
-1001712	a
 c
-det.
 a
+NA
 a
+NA
 c
-a
-1001721	a
-a
 a
+NA
 a
-a
-a
-1001728	a
-1001732	c
-det.
-det.
-a
-a
+NA
+NA
 c
+NA
+NA
 c
-det.
-det.
-1001743	det.
-1001746	det.
-1001748	c
 c
+NA
 c
-1001752	a
-1001755	det.
-det.
+NA
+NA
 c
-1001759	a
-1001761	det.
-det.
-a
+c
+NA
+c
+c
+NA
 det.
+NA
+c
+c
+NA
 a
+NA
+NA
 a
-1001769	a
-1001771	det.
-det.
+NA
+c
 a
-1001775	a
-1001781	c
-1001785	det.
+NA
+NA
+NA
+NA
+c
 a
-1001789	det.
-1001792	a
+NA
 c
+NA
 c
-1001797	det.
-det.
-1001800	a
+NA
 c
-1001805	c
-1001807	c
 c
-1001810	a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-1001815	c
+a
+NA
 c
 c
-a
 a
-1001822	a
-1001824	a
-1001826	c
-1001833	det.
-det.
-1001836	a
-1001839	a
-1001847	det.
-1001849	c
+NA
+NA
 c
-1001853	det.
-1001855	det.
 c
-1001858	a
 a
-1001862	det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1001866	a
-a
-a
-1001871	c
-1001873	c
-1001875	c
-1001877	det.
-1001879	c
+NA
+NA
 c
-1001888	c
-1001890	c
-1001892	c
-a
-a
-1001897	a
-1001905	a
-1001907	det.
-1001910	det.
-a
-a
-1001914	det.
-1001916	c
-1001918	a
-1001924	c
-1001926	c
-a
-1001931	c
-det.
-det.
-1001935	det.
-det.
-1001938	a
+c
+NA
+NA
+NA
 a
-1001941	a
-1001943	c
-1001945	c
+c
 a
-1001948	c
-1001950	c
-1001953	c
+NA
 c
+NA
 c
-1001957	a
+NA
+NA
+NA
 c
+NA
 c
-1001963	c
-1001966	a
-1001968	c
-a
 det.
-1001976	a
-1001978	c
+NA
+NA
 c
-1001981	c
-a
-1001985	c
-1001987	c
 a
-1001990	a
-1002004	a
-1002006	a
-1002015	c
-1002018	a
-det.
-1002022	a
+NA
 c
-1002025	a
-1002028	c
 c
-1002035	a
-1002040	c
+det.
+NA
+a
 c
-1002045	a
-1002052	a
 a
-1002063	c
+NA
 c
-1002067	a
-1002070	a
-1002073	c
 a
-1002076	det.
-1002079	a
-1002086	c
 c
 a
-1002091	c
-det.
-1002100	c
+c
+c
 a
-1002106	c
-1002108	a
-1002110	c
+NA
 c
-1002113	c
-1002115	det.
 a
 a
-1002122	c
-1002126	a
-1002130	a
-1002132	c
+NA
 a
-1002136	c
 a
-1002140	det.
-1002145	a
-1002147	a
-1002157	a
-1002166	det.
-1002168	a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-det.
-1002173	c
-1002179	a
-1002182	c
-1002186	c
-1002189	c
-1002194	a
-1002197	c
-1002199	c
+a
 c
-1002206	det.
-1002214	c
-1002221	c
-1002226	c
-1002228	a
-1002231	c
-1002233	c
-1002240	c
-1002243	a
+a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+a
+NA
 c
-1002251	c
-1002253	a
-1002255	c
-1002260	det.
-det.
-1002265	a
-1002267	a
+a
+NA
+c
 a
-1002274	det.
-1002277	c
-1002280	a
-1002282	c
-1002284	a
+NA
 c
-1002287	a
+NA
+NA
 a
-1002290	a
+NA
+NA
+c
+NA
+NA
+det.
+c
+NA
+NA
+NA
 a
 c
 c
-1002299	c
-1002301	c
+NA
 c
-1002306	a
-1002314	c
-1002316	a
+NA
+NA
+a
+NA
 c
-1002319	a
-1002325	a
 c
-1002334	a
+a
 a
 a
-1002339	a
-1002342	a
-1002344	a
-1002346	a
+NA
 c
-1002349	a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+a
+NA
+a
+a
+NA
 c
+NA
+NA
 c
-1002354	c
-det.
-1002357	a
-1002359	c
 c
+NA
 c
+NA
 c
-1002367	c
-1002371	c
 c
-1002374	c
-1002376	det.
-1002378	c
-1002382	a
-1002388	c
-1002391	a
-1002394	c
-1002400	c
+NA
 c
-1002408	det.
-a
-1002416	c
-1002418	a
-1002421	a
-a
-1002431	c
 c
-det.
-1002441	a
-1002444	c
 a
-1002450	c
-1002453	c
-1002455	a
+NA
+NA
+NA
 a
-1002458	c
-1002460	c
-1002464	a
-1002467	c
-1002473	c
-1002475	det.
-1002479	det.
-1002481	c
-1002486	c
-1002490	c
+NA
+NA
 c
 a
+NA
 c
-1002495	c
-det.
-det.
-a
-det.
-1002504	c
-a
-1002511	c
-1002515	c
-1002518	c
-a
+NA
+NA
 c
-1002530	c
-1002534	a
-1002536	a
-a
-1002539	a
-a
+NA
 c
 a
-1002544	a
-1002549	det.
-1002553	a
 a
-1002557	c
-1002560	a
-1002562	a
-1002564	c
+NA
 c
-det.
-1002570	c
 a
-1002576	det.
-1002579	a
-1002581	c
-1002588	c
-1002591	c
+NA
 a
+NA
 c
-a
-1002596	a
-1002598	det.
-det.
-1002602	det.
-det.
-det.
-1002607	c
-a
-1002613	a
-1002616	c
-a
-1002620	c
-a
 c
-a
 a
-1002627	c
-a
+NA
+NA
 c
-1002663	c
-1002665	c
-1002674	a
-1002676	c
 c
-1002679	c
 c
 a
-1002683	c
+NA
 c
 a
-1002687	c
-1002689	c
 c
-a
 a
-a
-1002695	c
-1002697	a
-1002699	c
-1002703	det.
-c
-1002706	c
-1002708	c
+NA
 c
-1002712	c
-1002715	c
-1002720	c
+a
 c
+a
+NA
 a
-1002724	c
 c
-1002727	c
 c
+NA
+NA
 c
-det.
-det.
-1002733	det.
-1002735	det.
+NA
 c
-a
+NA
 c
+NA
 c
-a
-a
-a
-a
-1002745	a
-1002747	c
-1002750	c
-det.
 a
-1002754	c
-det.
+NA
 c
 a
-1002759	c
-det.
+NA
 c
-a
-1002764	c
-a
-1002769	det.
+c
+c
+NA
 det.
-a
-a
-a
+NA
 c
 c
 a
+NA
+NA
+c
+NA
 c
 a
+NA
+NA
 c
 c
+NA
 c
 a
+NA
 c
 a
-c
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
+NA
 a
+NA
+NA
 c
-a
 c
+NA
 c
 c
+NA
+NA
 c
-a
-1002797	a
 c
-a
+NA
 c
-1002802	c
 c
 a
+NA
 c
 a
-1002808	c
+NA
 c
-1002812	c
 c
-a
+NA
+NA
 c
-1002817	c
-det.
+NA
 c
-1002821	c
-1002826	a
-1002831	a
-1002833	c
-a
-1002837	c
-1002840	c
-1002842	c
-1002846	c
-1002848	a
-1002854	c
-1002862	a
+c
+NA
+NA
+c
+NA
 a
-det.
-1002867	a
+NA
 a
-1002877	a
-1002879	c
-1002881	c
+c
 c
-1002884	c
-1002887	c
-1002897	a
-1002902	c
+NA
+c
 a
-1002906	c
-1002908	a
+NA
 a
-1002916	c
-1002918	c
-1002920	a
-1002922	det.
-det.
-1002925	a
+NA
+NA
 a
+NA
+NA
 c
-1002930	c
-1002932	a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
 a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
 det.
-1002937	c
-1002940	a
-1002944	c
-1002946	c
-a
-1002950	c
+NA
 c
-1002955	det.
-1002959	c
-1002962	a
-1002964	c
+NA
+NA
 c
-a
-1002970	c
-a
-1002973	a
-1002976	c
-a
-1002979	a
-1002982	c
 c
-1002985	c
-1002988	c
-1002993	c
-1002997	a
-1003000	c
 c
-a
-1003004	a
-1003009	a
-1003014	c
 c
-a
-a
+NA
 c
-a
-1003021	a
-1003023	c
-1003026	c
-1003028	c
-1003039	c
-a
-1003042	c
-1003044	c
-1003049	c
 c
-1003052	c
+NA
+NA
+NA
 c
-1003057	c
-1003061	a
-a
-a
-1003067	a
-1003070	a
-a
-a
-a
-1003076	a
-1003078	c
-1003081	a
-a
-1003087	c
-a
-1003090	c
-1003092	c
 c
-1003097	a
-a
-1003100	c
-1003104	a
-a
+NA
+NA
+NA
+NA
+c
 a
-1003108	c
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
 c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
 a
+NA
+NA
 a
+NA
+c
 det.
+det.
+NA
 c
-1003117	a
-1003120	a
 a
-c
-1003126	c
+NA
 c
-det.
 c
-1003133	c
 a
-1003138	a
-1003140	a
-1003142	c
+NA
 c
 c
+NA
+NA
 a
-1003148	c
-1003150	c
+NA
 a
-1003154	c
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
 c
-1003158	a
-1003160	c
-1003162	c
 c
-1003166	c
 c
-1003169	c
-1003171	a
+a
+NA
+NA
+a
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
 a
-1003177	c
+NA
+NA
+NA
+NA
 c
 c
-1003182	a
-1003186	a
-1003190	c
-det.
-1003194	a
-1003197	a
-1003203	c
+c
+NA
 a
-1003207	c
+NA
+c
 c
+NA
+NA
+c
+c
+c
+NA
 a
-1003211	c
-1003215	a
-1003218	c
+NA
 a
-1003221	c
-1003224	c
-c
-1003227	c
 c
-1003230	c
-1003232	a
-1003234	c
-1003239	c
-1003241	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
 a
-1003246	c
 a
+NA
+NA
 a
-1003250	a
-1003253	c
+NA
 c
 a
-1003258	c
-a
-1003261	c
+NA
+NA
+NA
+c
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-1003266	a
-1003268	a
-1003270	a
+NA
+c
+NA
+c
+NA
 a
-1003273	c
+NA
 a
-1003276	c
+NA
+NA
 c
 c
+NA
+NA
+c
+NA
+a
+NA
 a
-1003281	c
+NA
+NA
+NA
 a
-1003284	c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
 a
-1003288	a
-1003290	a
-1003294	a
-1003297	c
 a
-1003301	c
-1003305	c
-1003310	a
-1003316	c
-1003318	det.
-1003322	c
-1003326	c
+NA
+NA
 c
-1003329	c
-1003331	c
+NA
+NA
+a
+NA
+a
+NA
 c
-1003334	c
+NA
+NA
 c
 a
-1003338	c
-1003340	a
-1003343	c
-1003345	c
+NA
 c
-a
-1003350	c
-1003353	c
+NA
+NA
 a
-1003356	c
 c
 a
-1003360	det.
-1003363	c
+NA
 c
-a
-1003367	c
-1003371	c
+NA
+NA
+c
+NA
+NA
 c
 c
+NA
 c
+NA
+a
+NA
+c
+NA
+NA
 c
-1003377	c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1003380	a
+NA
+NA
+c
 a
-1003388	c
-1003390	c
-1003393	c
-1003395	c
+NA
+NA
+c
 a
-1003399	c
-1003401	c
-1003405	c
-1003407	c
-1003410	c
+NA
 a
-1003413	c
+NA
+NA
+NA
+NA
+NA
 c
-1003418	c
-1003420	c
+NA
 c
+NA
+NA
+NA
 a
-1003424	c
 a
 c
-a
-1003432	a
-1003435	a
-1003437	c
-1003439	c
+NA
 c
-1003442	c
-det.
-1003446	c
-1003449	c
-a
-1003452	c
 c
-1003455	c
-a
+NA
+NA
+NA
+NA
 c
-1003460	a
+NA
+NA
+NA
 c
-1003465	c
 a
-c
-1003471	a
 a
-1003482	c
-1003484	c
-1003489	c
 c
-1003492	c
-1003494	c
-1003498	c
+NA
+NA
+NA
 a
-1003501	c
-1003503	a
-1003513	a
-1003515	c
+NA
 c
-a
-1003522	c
 c
-1003535	a
-1003537	a
-1003539	c
-a
-1003542	a
+NA
+NA
+NA
+NA
 c
-1003551	c
-1003553	c
-1003558	c
 c
-1003561	c
-1003563	c
-a
-1003567	c
+c
 a
-det.
-1003571	c
-1003575	det.
-1003578	c
-1003580	det.
-1003583	a
-1003588	c
-1003590	c
-1003593	c
 c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
 c
+NA
 c
-1003600	c
-1003603	c
+NA
+NA
+NA
 a
-1003606	c
-1003608	c
-1003612	c
-1003616	c
-1003620	c
-1003625	c
-det.
-det.
-1003631	a
-1003633	c
-1003635	c
+NA
+NA
 a
-1003640	c
-1003643	c
+NA
+NA
 c
-c
-1003647	c
-a
-1003650	c
-1003653	a
-1003655	c
 a
+NA
 c
-1003661	a
-1003663	c
-1003667	a
-1003670	c
+NA
 c
-1003673	a
+NA
+NA
 c
-1003677	c
-1003679	c
+NA
+a
+NA
+NA
 c
-1003682	c
+NA
+NA
 c
 c
+NA
+NA
 c
-1003687	c
 c
-1003690	c
 c
 c
-1003694	det.
-1003700	c
-1003703	a
-1003705	a
-a
-1003708	c
-1003712	a
-1003715	c
-a
-1003719	c
+NA
+c
 a
-1003724	a
-1003726	c
+NA
 c
-1003730	c
-1003734	a
 a
-1003738	c
-1003745	a
-1003749	det.
-1003752	c
+NA
+NA
 a
+NA
+NA
+NA
 a
-1003756	c
 c
+NA
 a
-1003761	a
-1003763	c
-1003765	a
-1003768	c
-1003770	det.
-1003772	c
-det.
-1003775	det.
-1003777	c
-1003779	c
-1003782	c
+NA
+NA
 c
-1003785	c
 c
-1003790	a
-1003793	a
-1003795	a
-det.
+NA
+NA
 a
+NA
+NA
 c
-1003800	det.
-1003802	c
-1003805	det.
-1003808	det.
-1003811	c
-1003813	a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
 c
-1003816	c
-det.
-det.
-1003820	c
-det.
-1003823	c
+NA
+NA
 c
-1003826	c
-1003828	c
 c
-1003831	c
+NA
 c
-1003834	c
+NA
+NA
+NA
 c
-1003837	c
+NA
+NA
+NA
 c
-1003840	a
+NA
+a
+a
+NA
 c
-1003844	c
-det.
 c
-1003848	c
-1003850	c
-det.
 c
-1003855	det.
-1003857	det.
-det.
-det.
-1003861	det.
+NA
+NA
 c
-1003864	a
-1003866	det.
-1003868	c
-1003870	c
+NA
+NA
+NA
+NA
 a
-1003873	a
+NA
 c
-1003877	c
-det.
-1003880	c
-det.
-det.
-1003884	a
-1003886	c
-1003888	c
-1003893	c
 a
-1003896	c
-1003898	det.
-1003900	a
-det.
-1003904	c
-det.
-det.
-1003909	a
-1003913	c
-1003915	a
-1003917	c
-1003919	det.
+NA
 c
-1003923	c
+NA
+NA
 c
 det.
-c
+NA
+NA
+NA
+a
+a
+NA
 c
+a
+NA
+NA
+NA
 c
-1003930	c
-1003933	a
 c
-1003936	c
+NA
+NA
 a
-1003946	c
-1003948	c
+NA
 c
-det.
-det.
-a
-det.
-det.
-det.
-det.
+NA
+NA
+NA
+NA
 c
-det.
-1003960	det.
-1003962	a
-1003965	a
 c
-det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1003970	c
 a
-det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-1003977	a
-1003979	a
 a
-1003982	a
-1003984	det.
-1003986	c
+NA
 c
 a
-1003990	c
-1003993	c
+NA
+NA
 c
-det.
-a
-1003998	a
-1004003	det.
 a
-1004008	a
-1004014	c
-det.
-det.
+NA
+NA
+NA
+NA
+NA
 c
-1004020	det.
-1004027	c
 c
-1004033	a
-1004035	det.
-c
-1004039	det.
-1004042	a
-1004044	c
-1004050	c
-1004054	c
-c
-1004060	a
-1004063	a
 a
-1004066	det.
-c
-1004069	a
+a
+NA
+NA
+NA
 a
-1004072	det.
-1004074	a
-1004076	det.
-1004078	c
+NA
+NA
+a
+a
+NA
+NA
 c
-1004081	a
-1004084	c
+NA
+NA
+det.
+NA
+NA
 c
 c
-1004089	c
 c
-1004095	c
+NA
 c
-1004099	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-1004103	c
-1004106	det.
-a
-a
-a
-1004112	det.
-1004116	c
-det.
-1004119	c
+NA
+NA
+NA
+NA
 c
 c
-1004123	a
-a
-1004128	c
+NA
+NA
 c
-1004133	c
-a
-1004136	a
-1004138	c
-a
-a
-1004142	c
-1004147	c
+NA
 a
+NA
+NA
+NA
 a
-1004151	c
+NA
 c
-a
-1004155	c
-a
 c
+NA
+NA
+NA
 a
+NA
 c
-1004161	c
 a
+NA
+NA
 c
-det.
 c
+NA
 c
-1004169	a
 c
-1004176	a
-1004178	c
-1004181	c
-1004183	c
-1004186	c
-a
-a
-a
-a
+c
+NA
+NA
 c
 a
-1004194	c
-1004197	a
-1004201	a
-1004207	c
+NA
 c
-det.
-1004217	c
-1004219	c
-1004221	c
-1004224	det.
-1004227	c
 c
-det.
-1004231	c
-det.
-1004237	det.
-1004240	a
-1004242	c
 a
-1004245	c
-1004250	c
-det.
-1004254	a
-1004256	c
-1004260	c
+NA
+NA
 a
-1004264	a
 c
-a
-1004271	a
-1004275	a
-1004281	det.
-a
-1004284	a
-1004286	c
-det.
-1004289	a
-det.
-a
-det.
-1004294	c
+NA
+c
+c
 a
+NA
 c
-1004298	det.
-1004300	c
-1004305	c
-1004307	c
-1004309	a
-1004311	c
 a
-1004318	c
-1004320	c
 a
-1004323	det.
+NA
+c
 a
 c
-det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
 c
-1004330	c
+NA
 a
-1004333	c
-1004335	c
+c
 det.
-a
+NA
 det.
-1004340	c
-1004342	det.
-1004345	a
-a
-c
-1004349	det.
-1004351	c
-1004354	c
 c
-det.
-1004359	c
 c
-1004364	c
 c
-det.
-1004368	c
-det.
-1004371	c
+NA
+NA
+NA
+NA
 c
-1004375	det.
-1004378	c
-1004380	det.
-1004382	c
+NA
+NA
+NA
 c
-1004387	c
-det.
+NA
 c
-1004391	a
-1004395	c
-1004399	c
-1004405	c
-1004407	c
-det.
-1004410	c
-det.
-1004413	c
-1004415	c
-det.
-1004419	c
-1004421	c
-det.
-det.
-1004425	a
-1004428	a
-1004431	c
-det.
-1004435	c
-1004437	c
 c
-1004440	c
 a
+NA
 c
-1004445	a
-1004450	c
-a
-det.
-1004454	det.
-1004457	c
 c
-det.
-1004461	a
-1004464	c
-1004466	c
-det.
-1004469	c
-1004472	det.
-1004475	c
-det.
-1004479	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-det.
-det.
-1004485	c
-1004488	c
 c
-det.
-1004492	c
-1004494	c
-a
-1004497	c
-1004501	c
-1004503	c
-a
-1004506	a
-1004508	a
-1004511	c
-a
-1004514	c
+NA
 c
-1004519	a
-1004521	c
+NA
 c
-1004524	c
-1004526	det.
-det.
-1004529	det.
-1004531	c
-a
-1004534	c
-1004536	det.
-1004538	c
-1004540	c
-1004542	a
-1004544	a
-1004547	c
-1004549	c
-det.
-1004552	c
-1004556	a
-1004558	c
+NA
+NA
 c
-1004561	c
-1004563	a
-1004565	c
-det.
-1004570	a
 a
-1004573	c
+NA
 c
+NA
+NA
 c
+NA
+NA
+NA
 c
+a
+NA
+NA
 c
+NA
 c
-a
-a
-1004584	c
 c
-a
-a
-1004590	a
-1004593	c
-det.
-1004597	a
-1004600	a
-1004604	c
-det.
-1004608	c
-det.
-1004611	c
-det.
-1004614	c
-1004616	c
-1004619	c
-1004621	c
-a
-1004624	c
-1004626	c
-det.
-1004629	c
-a
-1004632	det.
-1004634	c
+NA
+NA
 c
-a
-1004639	c
-det.
+NA
 c
-a
-1004644	c
-1004646	c
-1004648	det.
 c
-1004655	c
-1004658	c
+NA
+NA
 c
+NA
 a
+NA
 c
-1004664	c
+a
+NA
+NA
 c
-1004671	c
+NA
 c
 c
-1004681	c
-det.
-1004685	a
-1004687	det.
-1004690	c
 a
-1004693	c
-1004698	c
+NA
+NA
 c
-1004702	c
-c
-1004705	c
-1004707	c
 det.
-a
+NA
 c
 det.
-1004713	c
-1004718	c
-1004720	det.
-det.
-a
-det.
-1004725	c
-det.
-1004729	c
 c
-det.
-a
 c
 det.
+NA
+NA
+NA
 c
-1004739	c
-1004741	det.
-a
-a
-det.
-det.
-1004748	c
-a
-1004751	a
-1004755	a
-a
-1004759	det.
 a
+NA
+NA
+NA
 c
 c
-det.
-1004766	c
-1004770	c
+NA
+NA
 c
-1004776	c
-det.
+c
+NA
+NA
 det.
-1004780	det.
-1004783	a
-1004786	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
 c
 c
-1004796	c
-1004798	a
-1004800	c
-a
-a
-det.
+NA
 c
-1004806	a
-1004808	c
-1004810	c
-1004812	det.
-1004816	a
-1004819	a
+NA
 c
-a
-1004823	c
-1004827	c
-a
-1004832	c
-a
-1004836	c
-det.
-1004840	a
-a
-1004844	a
-a
-1004847	c
-1004850	a
-1004852	c
 c
-1004857	a
-1004861	a
-1004864	a
-1004867	a
-det.
-1004870	c
-1004873	a
-1004875	c
+NA
 c
-1004878	c
-1004883	a
-1004889	a
+c
 a
-1004892	c
-1004894	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
-1004898	a
-1004900	c
+NA
 a
 c
-1004904	c
-a
-a
-det.
-a
+NA
+NA
+NA
 c
-det.
-1004912	c
-a
 c
-1004917	c
+NA
 c
-det.
+NA
 a
+NA
 c
+NA
 c
-1004925	c
-1004927	a
-1004930	c
-1004934	c
-det.
-1004937	c
-det.
-1004940	c
-a
-1004943	c
-a
-1004947	c
-1004949	c
-a
-1004952	c
 c
-1004955	c
-1004960	c
-1004963	c
+NA
+NA
 c
-1004966	a
-1004968	c
-1004970	det.
-det.
-1004974	c
-1004976	c
-1004978	c
-1004980	det.
-1004983	det.
-1004985	c
-1004989	c
-det.
-1004992	c
-a
-1004995	det.
+NA
 c
-1004998	c
-1005001	det.
+NA
 c
-1005005	c
-det.
-1005009	c
-1005011	c
-det.
-1005014	c
-1005017	det.
-det.
-1005020	c
-det.
-1005024	c
 c
-a
-1005032	c
 c
-a
-det.
+NA
+NA
+NA
 c
-1005041	c
-a
-1005047	c
+NA
 c
-det.
 c
-1005053	det.
-det.
-1005056	c
-1005058	c
-a
 c
-1005062	a
-1005064	a
-1005066	c
-det.
-a
-1005075	c
 c
-1005078	c
-a
+NA
+NA
 c
-det.
+NA
+NA
 c
-1005085	c
-a
 c
-1005090	a
-1005092	c
-a
-1005097	c
+NA
 c
-1005102	c
-1005104	c
-a
+NA
 a
-1005108	a
-1005111	a
-1005114	a
-a
-1005117	c
-1005119	a
-a
-1005122	c
-1005127	a
-1005129	a
-1005132	c
+NA
+NA
 c
-1005138	c
+NA
 a
-1005142	c
+NA
+NA
+NA
+NA
 c
-1005147	c
-a
+NA
 c
-1005152	a
-1005154	c
 c
-1005157	c
-1005160	a
-1005163	c
-1005166	c
-1005169	c
-det.
+NA
+NA
 c
-1005175	c
-det.
-1005179	c
-1005181	c
-1005184	c
-det.
-1005192	c
-det.
 c
-1005198	c
-1005200	c
-det.
-1005203	det.
-1005205	a
-a
-a
-1005213	c
-a
-a
+NA
+NA
+NA
+NA
+NA
 c
-1005218	a
-1005221	det.
-1005223	det.
-1005228	a
-1005230	c
-det.
-1005234	c
-a
 c
-1005240	a
-1005244	det.
-1005248	c
-1005250	c
-1005253	a
-1005255	a
 a
-1005258	c
-a
 c
-1005262	a
-1005264	a
-1005267	c
-1005269	a
-a
-1005272	c
 a
+NA
+c
+c
+NA
+NA
+NA
 a
-1005278	c
-1005280	c
-1005282	det.
-1005284	det.
-1005287	c
-1005289	c
+NA
 a
-1005292	c
+c
 a
-1005299	det.
-1005301	a
-1005304	a
+NA
+c
 a
-1005307	a
+NA
 a
-1005310	a
+NA
+c
 a
-1005314	det.
-1005316	det.
-1005318	a
-1005320	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1005324	c
+NA
+c
+NA
 c
+c
 det.
-1005329	det.
-1005332	det.
-1005334	c
+NA
+NA
 a
+NA
 a
-1005339	a
-1005341	c
-1005343	det.
-1005347	a
 a
-1005350	det.
-1005352	c
-1005354	c
+NA
 c
-1005358	c
-1005360	c
-1005362	det.
-a
-1005365	a
-1005368	a
-1005370	c
-1005372	a
-a
-1005375	det.
-1005377	a
-1005380	c
-1005382	c
-1005384	a
-a
-1005387	c
 det.
-1005390	a
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+NA
 a
+c
 a
-1005394	det.
-1005396	c
-det.
+NA
 a
-1005400	c
+NA
+NA
 a
-1005407	a
+NA
+NA
 a
-1005410	c
+NA
+c
+NA
+c
 det.
-1005414	c
+c
 det.
-1005417	c
-a
-1005420	a
-a
-1005424	c
+NA
 a
-a
-1005430	a
-1005432	c
-a
-a
-1005436	a
-1005438	c
-1005440	det.
-1005443	c
-det.
-1005446	c
-1005449	c
+NA
 c
-a
-1005453	c
-det.
-1005457	c
-1005459	c
-1005464	c
-1005466	a
-1005468	a
-1005471	a
-1005473	a
-1005475	c
 c
-a
-1005481	a
-1005483	c
-a
-1005486	a
+NA
 c
-1005490	c
 a
+NA
 c
-1005495	det.
-1005498	c
-1005500	c
-det.
-1005503	det.
-1005505	c
-1005507	c
-1005512	det.
-det.
+NA
+NA
+c
+c
+NA
+NA
+c
 a
-1005516	det.
+NA
+NA
 c
-1005519	c
-det.
+NA
+NA
+c
+c
+NA
+c
+a
+NA
 a
-1005523	det.
+NA
+NA
+NA
+NA
+NA
 c
-1005527	c
-det.
-1005530	c
-1005533	c
-det.
-1005537	a
+NA
+NA
+c
+NA
+NA
+c
+NA
 a
+NA
+c
+c
+NA
+NA
+NA
 a
-1005541	a
-1005545	c
+NA
+c
+NA
+NA
+c
+NA
+c
 a
-1005550	a
-1005552	a
-1005556	c
-det.
-1005559	det.
-1005561	c
-1005563	a
+NA
 c
-1005566	a
-1005568	a
-1005570	c
+NA
 c
 c
+NA
 c
+NA
 c
-det.
-1005578	a
-1005580	c
-1005582	a
-1005584	det.
-1005587	a
-1005589	c
-det.
-1005593	det.
-1005596	det.
-1005599	det.
-a
-1005611	a
-1005613	a
-1005617	c
-1005620	c
-1005625	c
-a
-1005630	c
-det.
-1005633	c
-1005635	c
-1005637	c
-det.
-1005641	a
-1005643	a
-a
-1005649	a
 a
-1005655	a
-1005658	a
-1005661	det.
-1005664	a
+NA
 c
-det.
-1005668	c
-a
-1005671	c
-1005674	a
-1005676	det.
-1005680	c
-1005682	c
-1005684	det.
-1005686	a
 a
-1005691	c
-1005694	a
-1005696	det.
-1005698	det.
-1005701	det.
-1005703	a
-1005707	a
-1005719	a
-a
-1005722	det.
-1005725	a
-1005727	a
-1005729	c
-1005732	c
-1005734	det.
-1005737	det.
-1005739	det.
-1005741	c
-1005744	c
-1005746	det.
-1005750	a
-1005752	c
-1005755	c
-1005758	c
+NA
 c
-1005761	det.
-1005765	a
 a
-1005768	c
-1005770	det.
-1005775	a
-1005778	a
-1005782	det.
-1005785	a
-1005787	a
+NA
+c
 a
-1005790	a
-1005792	det.
-1005795	a
-1005797	det.
-1005799	a
-1005801	a
-1005803	det.
-1005805	c
+NA
 c
 a
+NA
+a
+NA
 c
-1005811	a
+NA
 c
 a
-1005816	c
-1005819	a
-1005821	a
-1005823	a
-1005825	a
-1005828	a
-1005830	det.
-1005832	det.
-1005835	c
-det.
-1005838	a
-1005841	c
+NA
 c
-1005845	a
-1005847	det.
+NA
+NA
 a
-1005850	a
-1005852	a
-1005854	a
-1005856	c
-a
-a
-1005860	a
-1005862	det.
-1005864	c
-1005866	c
-1005868	det.
-1005870	a
+NA
 c
-a
-a
-1005875	c
 a
-1005878	c
+NA
 a
-1005881	c
-det.
-1005884	c
-a
-1005888	c
-1005891	c
+NA
+NA
 c
-det.
+NA
+NA
 c
+NA
 c
 c
-1005903	det.
+NA
+NA
+NA
 c
-1005909	a
-1005911	c
-det.
-1005914	c
-1005916	c
-det.
-1005919	c
+NA
 c
 a
 c
-1005925	c
-1005931	a
-1005933	c
-det.
-1005936	det.
-1005939	c
+NA
+NA
+a
+NA
 c
-1005945	c
-1005947	det.
-1005950	det.
-1005955	c
-det.
 c
-1005965	c
 a
-1005968	a
-1005971	det.
-1005975	c
-1005977	c
-a
-1005981	a
-1005983	det.
-1005985	c
+NA
+c
 a
-1005988	a
-1005993	a
+NA
+NA
+c
+NA
+c
+NA
+c
+c
+NA
 a
-1005996	c
+NA
+c
+NA
+NA
+c
 c
-1006003	c
+NA
 c
-1006008	a
+NA
+NA
 a
-1006011	a
+NA
 a
-1006014	a
-1006016	c
+NA
 c
-1006022	c
-1006025	c
-1006030	c
 c
-1006034	c
-1006037	c
-1006041	c
-1006045	c
-1006049	a
-1006051	c
-1006053	c
-det.
-1006056	det.
-1006058	c
-1006061	c
-det.
-1006064	c
 c
-det.
 c
-1006070	a
-1006072	det.
-1006078	a
-1006081	c
-1006083	c
-det.
-1006086	c
-1006089	det.
-1006092	det.
-1006094	a
-a
-1006097	a
+NA
+NA
 c
 c
+NA
+NA
+NA
 c
-1006102	c
-det.
-1006105	det.
-1006107	det.
 c
-1006111	c
-det.
-1006114	c
-a
-1006118	c
+NA
 c
-1006123	det.
-1006126	c
-a
-a
-1006130	a
-1006132	a
 c
-1006136	det.
-1006139	det.
 a
-1006144	c
+NA
+NA
 c
 c
 a
+NA
+NA
 c
 c
+NA
 c
-1006153	det.
-det.
-1006156	c
-1006158	det.
-1006160	det.
-1006163	c
-1006165	det.
-1006167	a
-1006170	det.
-1006172	det.
-1006174	c
-1006177	c
-a
-1006180	c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
 a
-1006183	a
-1006186	det.
+NA
+NA
+c
+det.
+NA
+c
 det.
-1006189	c
-1006195	a
 c
+det.
+NA
 c
 det.
+c
 det.
-1006203	c
+NA
+c
 det.
-1006206	c
 c
-1006212	a
+det.
+NA
 a
-1006215	a
-1006217	a
-1006219	a
-1006221	a
-1006223	a
-1006226	c
+NA
+NA
 a
-1006230	a
+NA
 a
+NA
+c
 a
-1006234	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-1006237	c
-1006239	c
-1006243	a
-a
-1006246	c
-1006249	a
-1006251	det.
 a
-1006257	det.
-1006259	c
-1006262	c
-1006264	c
+NA
 c
+NA
+NA
 c
-det.
-1006270	a
-1006272	c
-a
-1006276	a
-1006279	det.
-1006283	det.
-1006286	det.
-1006288	c
-det.
-1006292	a
-a
-a
-1006298	det.
-1006300	a
 c
-det.
-1006304	det.
-1006307	det.
-1006309	c
 a
-1006314	c
+NA
 c
-1006319	c
 c
 a
-1006326	a
-1006328	c
-1006332	c
-1006334	a
+NA
 c
-1006337	c
 c
 c
-1006342	c
 a
-1006345	a
-1006347	c
-1006349	c
-det.
-1006352	c
-1006355	c
-1006357	c
-1006359	c
-1006361	c
-1006363	c
-1006367	c
-1006369	c
+NA
 c
-1006372	c
-det.
-1006376	a
-1006378	c
-det.
-1006381	c
-a
-1006384	det.
 c
+NA
 c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1006390	det.
-1006398	a
-1006400	a
-1006404	a
+NA
+NA
+NA
 a
-1006407	a
-1006410	a
-1006415	det.
 c
-1006418	det.
-1006422	a
-1006426	a
-1006432	a
-1006437	c
-a
-1006443	a
+NA
+NA
+NA
+NA
 c
-1006446	c
-1006450	c
-1006452	det.
-1006456	a
+NA
+NA
+NA
+a
+NA
 c
-1006461	c
+det.
+NA
+NA
 c
-1006468	c
 det.
-1006472	c
-a
-a
-1006477	c
-1006479	c
 c
-1006486	c
 c
 det.
-1006491	c
-1006493	c
-det.
-1006496	a
-1006498	det.
-a
-1006501	c
-1006503	a
-1006505	det.
-a
-1006510	c
-1006512	c
+NA
 c
 det.
-1006516	a
-1006518	det.
-a
-1006521	c
-1006523	a
-1006525	det.
-a
-1006528	a
-1006531	a
-1006534	a
-1006536	det.
+NA
+NA
 c
-1006540	c
-det.
-1006543	c
-a
-a
-1006548	c
-a
-a
-1006552	c
 det.
-1006556	c
 c
 det.
-1006561	c
-a
-1006564	a
-1006566	det.
+NA
 c
-1006569	c
 det.
-1006572	c
+NA
+NA
 a
+NA
 a
-1006576	c
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+c
+c
+NA
+NA
 a
+NA
 a
-1006581	c
+NA
+c
 c
 a
-1006586	c
+NA
 a
-1006589	c
-1006591	c
-det.
-1006595	c
+NA
+NA
 a
+NA
 c
-1006600	c
-det.
-1006603	c
-1006605	det.
-1006608	c
+NA
+c
 a
-1006613	a
+NA
 c
-det.
-1006617	c
+NA
 c
 c
+NA
+NA
 c
 c
-a
-1006624	c
-a
-1006627	a
-1006631	c
-det.
-1006634	det.
-1006637	c
-a
+NA
 c
-1006644	c
-a
-1006647	a
-1006650	a
 c
-1006654	a
 c
-1006659	c
-1006662	c
-a
-1006666	a
+NA
 c
-1006670	a
-1006673	a
 c
-1006677	a
+NA
+NA
 c
 c
-det.
-1006682	a
+NA
 c
 c
-1006687	a
 c
-det.
+NA
 c
 c
-1006697	c
+NA
+NA
 c
-1006701	a
-1006703	a
 a
-1006707	a
-a
-1006715	a
-1006721	a
-1006726	c
-det.
-1006729	c
-det.
-1006733	c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
 a
-1006738	c
-1006744	c
-det.
-1006749	c
-det.
-1006753	a
-1006755	a
-1006763	a
-1006768	det.
+NA
+c
 a
-1006771	det.
-1006773	c
-1006776	c
+NA
+c
+NA
+NA
+c
 a
-1006779	c
+NA
 c
-1006783	c
-1006785	det.
-1006787	c
-det.
-1006792	a
-det.
-1006795	c
 c
-det.
-1006799	c
-det.
-1006802	c
-det.
-1006805	c
+NA
 c
-1006808	det.
 c
-1006811	a
-1006814	c
-det.
 c
-1006822	det.
-1006824	c
-1006826	c
-1006829	c
-a
-1006833	c
-a
-1006836	det.
-1006838	c
-1006840	c
+NA
+NA
+NA
 c
-det.
-1006846	a
-1006848	det.
-1006850	c
-1006852	c
-det.
-1006856	c
-1006861	c
-1006863	c
-1006866	c
-a
-1006870	c
+c
+c
+NA
+NA
+c
 a
+c
+c
+c
+NA
+NA
+NA
+c
 a
+NA
 a
-1006878	c
+NA
 c
-1006882	det.
-1006884	c
-det.
-det.
-c
 a
-1006890	a
-1006892	c
+NA
 a
-1006895	c
+NA
+NA
 a
-1006900	a
 a
-1006903	c
+NA
 a
-1006907	c
-1006910	a
-1006912	det.
-1006914	c
-1006916	c
-1006918	c
-1006922	det.
 a
-1006925	c
-c
-1006928	c
-1006931	c
-1006934	a
+NA
 a
-1006937	c
+NA
 c
-det.
-1006941	c
-1006944	c
-1006947	det.
 c
-1006950	det.
-1006953	c
-1006955	c
-1006957	c
-1006960	c
-det.
-1006963	c
-1006967	c
-1006969	a
-1006973	c
+a
+NA
 c
-1006976	c
-1006978	c
+a
+NA
+a
+NA
+NA
+NA
+NA
 c
-1006982	c
+NA
+NA
 c
 c
 a
+NA
+NA
+NA
+NA
+NA
 c
-1006988	a
-1006990	c
-1006992	c
-a
-1006995	det.
-1006997	c
 a
-1007001	c
+NA
+NA
 c
-1007004	a
-1007006	c
-1007008	c
-1007010	det.
 c
-a
-1007016	c
-det.
 c
-1007021	c
-1007023	c
-1007025	c
-1007028	a
 a
+NA
+NA
+NA
 c
-1007035	c
 a
-1007040	c
-1007043	c
-a
-a
-1007052	det.
-1007054	c
-1007056	c
-det.
-1007060	a
-1007062	det.
-1007064	a
-1007067	det.
-1007073	a
-1007075	c
-1007078	c
-1007080	a
-1007083	c
-1007086	det.
-1007088	a
-1007092	c
+NA
 c
-1007095	c
-a
-1007098	a
-a
 c
-det.
-1007103	det.
-1007105	a
-1007108	c
+NA
 c
-1007111	a
-a
-1007115	a
-1007118	c
-det.
-1007122	a
-1007124	c
-det.
-1007128	a
-1007132	c
-det.
-1007136	c
-det.
-1007139	c
-det.
-1007142	c
-1007144	c
-1007147	c
-1007149	c
 a
-1007152	c
-1007154	c
-det.
-1007157	det.
-1007160	det.
-1007162	c
+NA
 c
-1007165	det.
-a
-1007168	c
-1007170	det.
+c
 a
-1007174	c
-1007177	c
+NA
 c
+a
 c
 a
-1007183	det.
-1007186	det.
-1007189	c
-1007191	a
-1007193	det.
-1007195	a
+NA
 c
-det.
-1007202	c
-det.
-1007205	det.
-1007208	a
-1007210	c
 c
-1007216	c
-1007219	c
+NA
 c
-det.
 c
-1007226	c
-1007229	c
-det.
-1007232	c
 a
-1007235	a
-1007237	det.
-1007240	a
+NA
 c
+a
+NA
+NA
 c
 a
-1007246	c
+NA
 c
 c
+NA
+NA
 c
+NA
 c
-1007255	det.
-1007257	c
-1007259	a
-1007261	c
 a
+NA
+c
 a
-det.
+NA
+NA
+c
+NA
 c
-1007267	a
-1007269	c
-1007272	c
-1007275	c
 a
-1007280	a
+NA
+NA
 a
-1007285	c
+NA
 a
-1007291	c
+NA
 a
-1007296	c
+NA
+c
+c
 a
-1007300	c
-det.
-1007304	a
+a
+NA
 a
-1007308	a
+NA
 a
 a
-1007312	c
-1007315	a
-1007317	c
+NA
 c
-1007322	a
-1007326	a
-1007329	a
-1007333	a
-det.
-1007336	c
-1007339	a
-1007341	c
-1007343	c
-1007348	a
-1007351	c
-1007357	a
+c
 a
-1007360	c
-1007362	c
+NA
+NA
 a
-c
-1007366	a
-1007368	c
+NA
+a
+NA
 a
 c
-1007372	c
 a
+NA
 a
-det.
+NA
 c
-det.
-1007379	c
 a
+NA
+NA
+NA
 c
-1007384	c
-c
 a
 a
-c
+NA
 c
-1007391	det.
-1007394	c
 a
-1007398	c
-1007402	c
-det.
-1007405	c
-det.
-1007408	c
 a
-1007411	c
+NA
 a
+NA
+NA
+NA
 a
-1007415	c
+NA
 a
-1007418	a
+NA
+NA
 c
-1007421	c
 a
-1007424	c
+NA
+NA
+NA
+NA
 c
-1007427	c
-1007434	c
-1007437	c
-c
-1007440	a
-1007442	c
-1007444	det.
-det.
-1007448	c
-1007450	c
-1007452	c
-1007454	det.
-1007456	a
-1007458	c
-1007462	c
-det.
-1007465	c
 a
-1007468	det.
+NA
 c
-1007472	det.
 c
 a
-1007478	det.
-c
-1007482	c
+NA
 a
-1007485	a
-1007487	a
+NA
+NA
+NA
 a
-1007490	c
-det.
-1007494	c
-1007498	c
-det.
+NA
 c
-1007503	det.
-det.
-1007506	c
-det.
-1007510	c
+a
+NA
 c
 a
-1007518	c
+NA
 c
 a
+NA
 c
-det.
+a
+NA
+NA
 c
-1007526	det.
-det.
-1007529	c
-1007538	c
+c
 a
-det.
-1007544	c
+NA
+NA
+c
 a
-1007548	c
-1007552	c
+NA
 c
+a
+NA
 c
+a
+NA
 c
 c
-det.
-1007559	c
 a
-1007567	a
-det.
-1007570	c
+NA
+NA
+NA
 c
+a
+NA
 c
 c
 c
-det.
-1007579	c
+a
+NA
+NA
+NA
 c
+c
 a
 a
-det.
-det.
-1007586	c
+NA
+c
 a
-1007589	c
 c
-1007593	a
-1007599	c
-1007601	c
+NA
+NA
+NA
+a
 c
 a
-1007605	c
+c
+NA
+NA
 c
-1007608	c
+NA
+NA
+NA
 a
-1007611	c
-1007614	c
-1007616	c
+NA
+NA
 c
+NA
 c
 c
-1007622	c
-1007625	c
+a
+NA
 c
-1007628	c
+NA
+NA
+NA
+NA
+a
+a
+NA
+a
+a
+NA
 c
-det.
+NA
+a
+NA
 c
-1007634	c
+NA
 c
-det.
-1007639	a
-1007642	a
-1007645	a
-1007648	c
+NA
+NA
 c
-a
-1007653	det.
+NA
+c
+NA
+c
 det.
-1007656	c
 det.
-1007659	det.
-1007662	a
+NA
+NA
 c
-1007665	a
-1007667	c
-1007671	c
+NA
 c
-1007675	a
-1007677	c
-det.
-1007680	c
 c
+a
+NA
+a
+NA
 c
-1007685	c
-det.
-1007690	a
-1007692	c
-det.
-1007697	a
-1007699	a
+NA
 c
-1007703	c
-1007706	a
+NA
 c
-det.
-1007715	c
+NA
 a
-1007718	c
-det.
-1007722	c
 c
+a
+NA
 c
-det.
-1007727	c
+a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-det.
+NA
 c
-1007734	c
-det.
-1007737	a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
 a
-1007741	det.
-det.
-1007744	c
+NA
+c
+NA
+c
+c
+a
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
 a
-1007749	c
-1007752	a
-1007755	a
-1007758	a
-1007761	a
-1007763	a
-1007765	c
+NA
+NA
 c
-1007769	c
+c
+c
+NA
+NA
+a
+NA
+NA
 a
-1007773	a
-1007775	c
-1007777	c
 a
-1007780	c
-1007782	c
+NA
 c
-1007785	c
 a
+NA
 a
-1007789	c
-1007794	c
 a
-1007797	c
-1007799	c
 a
-1007803	c
+NA
+NA
 c
-1007807	a
-1007809	a
-1007811	c
 a
+a
+c
 c
+a
+NA
+a
+NA
 c
 a
-1007817	c
-1007821	a
+NA
 a
-1007824	a
-1007826	c
-1007829	c
-1007831	a
+NA
+NA
 a
+NA
+a
+NA
 c
 c
-1007836	c
-1007839	c
-det.
-1007844	a
-1007846	c
+NA
+NA
+NA
 c
 c
-1007853	det.
-1007856	a
-1007858	c
-det.
-1007861	a
+NA
 a
+NA
+NA
+c
+NA
 c
+NA
 a
-1007866	c
+a
+NA
+NA
+NA
+NA
 c
-1007870	c
-det.
-1007873	c
+NA
+a
+NA
+NA
 c
-1007877	c
-det.
-1007880	c
-det.
-1007883	c
+NA
+NA
+NA
 c
+NA
+NA
 a
-1007890	c
-det.
-1007894	c
+NA
 c
-1007898	c
+NA
 c
-1007901	c
-det.
-1007904	a
-det.
-1007907	c
-1007910	c
-1007912	c
-det.
-1007917	c
-a
-1007922	c
-a
-1007929	c
-1007931	c
-a
-1007934	c
-det.
-a
-1007938	a
-1007942	a
-1007944	c
+NA
+NA
+NA
 c
-1007947	c
+NA
+NA
+NA
+NA
+NA
 c
-1007950	c
 c
-1007955	det.
-det.
 c
-1007960	c
-det.
-1007965	c
 c
+c
+NA
+NA
+NA
+c
+c
 a
-1007972	c
-det.
-1007975	c
-1007979	c
-1007983	c
+NA
+NA
 c
+c
 a
-1007988	a
+NA
 c
-1007993	c
+a
 c
-1007997	c
+NA
+NA
 c
 c
-1008002	c
-1008006	c
-1008012	a
-1008014	c
-1008016	c
+NA
 c
+NA
 c
-1008020	a
-1008023	a
-1008025	c
-a
-a
-1008029	c
 a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-1008036	c
+NA
 a
-1008039	a
-1008043	c
+NA
 c
-1008047	a
-a
-a
-1008051	c
+c
+c
 a
+NA
+NA
 c
+NA
 c
-1008056	c
 a
+NA
+a
+NA
 c
+a
+NA
+NA
+NA
 c
+NA
 c
-1008063	c
+a
+NA
+NA
 c
-1008068	c
+NA
+NA
+NA
 c
 c
-1008075	c
-1008082	c
+NA
 c
 c
+a
+NA
+NA
 c
+NA
 a
-1008090	c
 a
 a
-1008098	c
+c
+NA
+a
+NA
+NA
 a
-1008103	a
-1008105	a
-1008107	c
+NA
+NA
 c
-1008110	c
+NA
 a
+NA
 c
-1008114	a
+NA
+NA
+NA
+NA
 c
-a
+NA
+c
+NA
 c
+NA
+NA
 c
-1008120	c
-1008123	a
-1008127	a
 a
-1008130	c
-1008132	c
+NA
 c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
 a
-1008138	a
-1008140	a
-1008142	a
+NA
 c
 a
-1008147	a
-1008149	c
+NA
+NA
+c
 a
-1008167	a
-1008169	a
-1008172	a
-1008178	a
-1008182	a
+NA
+NA
 c
+NA
 c
 a
-1008187	a
 a
+NA
+NA
 a
+NA
 a
 a
-1008193	c
-1008195	c
 a
-1008199	a
+NA
+c
+NA
+c
+NA
+c
 a
-1008202	c
-1008205	a
+NA
+NA
 a
+NA
+c
 a
+NA
+c
 a
-1008210	a
-1008213	a
-1008215	a
-1008219	a
-1008221	a
-1008225	c
+NA
+NA
+c
+NA
+NA
 c
 a
-1008231	a
-1008234	c
+NA
 a
+NA
+NA
 c
 a
+NA
+NA
 c
 a
 a
-1008242	c
 a
-1008245	a
+NA
+c
+NA
+NA
 a
-1008248	a
-1008250	a
+NA
 a
-1008253	a
-1008255	a
-1008257	a
+NA
 c
+NA
 c
-a
 a
-1008264	c
-1008267	c
+NA
 c
-1008270	a
+a
+NA
 c
-1008276	c
+NA
 a
-1008281	c
+NA
+c
+NA
+NA
+c
+NA
+c
 a
-1008285	c
+NA
 c
 a
+NA
+c
 a
+NA
 a
 a
+NA
+c
 a
-1008299	c
+NA
+c
+c
 a
-1008303	c
+NA
+c
 a
-1008306	c
+NA
 a
-1008312	a
-1008314	c
-1008318	c
+NA
+c
 a
-1008324	a
-1008326	c
+NA
+NA
 a
+NA
 c
 a
-1008331	c
-c
-1008335	c
-c
-1008338	c
+NA
 c
-1008344	c
-c
-1008347	a
-1008350	c
 a
-1008353	a
-1008356	a
+NA
 c
-1008360	a
-1008362	a
-1008366	c
-1008370	c
-1008372	c
 a
-1008376	a
-1008378	a
-1008380	c
 a
-1008383	a
-1008385	a
-1008387	a
-1008394	a
+NA
+c
 a
+NA
+c
+NA
+NA
 a
-1008398	c
-1008402	c
+NA
 a
-1008405	c
-1008407	a
+NA
+NA
 c
-1008410	a
-1008412	a
-1008416	a
-1008427	c
 c
-a
+NA
 c
 a
+NA
 c
-1008434	c
-1008439	a
-1008442	a
-1008444	a
-1008448	c
-1008450	a
-1008453	c
-1008455	c
-1008458	a
-1008461	a
-1008464	c
-1008467	c
-1008475	c
-1008483	a
-1008487	c
-1008492	c
-c
-a
 a
-1008500	a
-1008503	c
-1008508	a
+NA
 c
+c
 a
+NA
+NA
+NA
 a
-1008514	c
 a
-1008517	a
-1008520	c
-1008522	c
-1008528	c
-1008531	a
-1008533	a
-1008537	c
-1008540	a
+NA
 c
-a
-1008544	a
-1008546	c
 a
-1008551	det.
-1008554	a
-1008559	c
-1008561	a
-1008566	c
+NA
+c
+c
+NA
+NA
+c
+NA
+c
 a
-1008571	a
+NA
 c
-1008577	c
+c
 a
-1008582	c
+NA
+c
+c
+c
 a
-1008586	c
-1008590	c
-1008592	det.
-1008595	det.
-1008598	a
-1008602	c
+NA
+NA
+c
 a
-1008611	a
-1008613	c
-1008617	a
-1008619	c
-1008624	a
-1008626	c
-1008630	a
-1008632	c
-1008635	c
+c
+c
 a
-1008638	c
-1008640	a
-1008642	c
+NA
+c
 a
-1008647	c
-1008651	a
-1008653	c
 c
-1008658	c
-1008660	c
 c
 c
+a
+NA
+NA
+NA
+NA
 c
-1008666	c
+NA
+NA
+NA
+NA
 c
-1008669	c
-1008671	c
-1008673	c
-a
-1008679	c
-1008682	a
 a
-1008693	a
+NA
+NA
 c
 a
+NA
+NA
+NA
 a
+NA
+NA
 a
-1008700	a
-1008703	c
+NA
+NA
+NA
 c
-1008707	a
-1008711	c
 a
-1008714	a
-1008717	c
-a
-1008720	a
+NA
 c
-1008724	a
-1008726	a
-1008730	a
-1008732	c
-1008736	c
-1008742	a
-1008744	a
-1008748	c
-1008751	c
-a
-1008757	c
+NA
+NA
 a
-1008763	c
-a
-1008767	a
-1008769	c
-a
-1008772	c
+NA
 c
 a
-1008776	a
-1008778	c
-1008780	a
-1008782	c
-1008784	a
-1008786	c
-1008789	c
+NA
 a
-1008792	a
-1008797	c
-1008801	c
-1008803	c
 a
-1008806	c
-1008808	c
+NA
+NA
 a
-1008811	c
 a
+NA
 c
+NA
+det.
+NA
 c
-1008817	c
-a
-1008821	c
-1008825	a
 a
-1008829	a
-1008831	a
-a
-a
+NA
+NA
 c
+NA
+det.
+NA
 c
-a
-a
-1008839	a
-1008843	c
-a
-1008847	a
-a
-a
-1008851	a
-1008853	a
-1008855	a
-a
 c
 a
-1008862	c
+NA
+NA
+NA
+det.
 c
-1008866	c
-1008868	c
-1008871	c
-1008876	a
-a
-1008879	a
-a
-1008882	c
-1008884	c
 a
-1008887	a
-1008890	a
-1008892	c
-a
+NA
 c
 a
+NA
 c
 c
-1008899	a
-1008901	c
+NA
 c
-a
-1008905	a
-1008907	a
-1008909	a
-1008916	c
-1008919	a
-a
-1008922	c
-a
-1008928	c
 a
-a
-a
-a
-a
-1008936	a
+NA
+NA
 c
-1008940	c
+NA
+NA
 c
-1008943	a
-a
+c
 c
+NA
+NA
+c
+det.
+NA
+NA
 a
-1008951	c
+NA
 a
-1008954	c
+NA
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+c
 a
-1008959	c
-1008964	a
-1008969	c
-1008972	c
-1008976	c
-1008978	c
+NA
+NA
 a
+NA
 a
+NA
+NA
+NA
+NA
 c
 a
+NA
+NA
 a
-1008985	c
-1008987	a
-1008989	c
 a
-1008992	a
-1008995	a
-1008997	c
+NA
 c
 a
+NA
 c
-a
+NA
+NA
 c
+c
 a
-1009007	c
-1009009	c
-1009011	a
-1009014	a
-1009016	c
-1009020	c
+NA
 c
-1009024	c
 a
-1009029	a
-1009031	c
+NA
+c
 a
+NA
+c
+c
+c
 a
-1009035	a
-1009039	c
-1009042	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-1009050	c
-1009052	det.
-1009054	c
-1009056	a
-1009060	a
+NA
+c
 a
-1009063	a
+NA
 a
+NA
 c
 a
-1009068	c
+NA
 a
-1009072	a
-1009074	c
-1009076	c
+NA
+c
 a
-1009079	a
-1009081	a
-1009083	c
+NA
 a
-1009086	c
-1009093	c
-1009109	a
-1009111	c
-1009116	a
-1009120	c
+NA
 c
 a
-1009124	c
+NA
 c
 a
+NA
 c
 a
-c
-1009131	c
-c
+NA
+NA
+NA
 a
+NA
+NA
 c
 a
-1009138	c
-a
-1009143	c
-1009148	c
-1009153	c
-1009156	c
-1009158	c
+NA
+c
+c
 a
-1009162	c
-1009164	c
+NA
 a
-1009173	c
-1009177	c
 a
-1009181	c
-1009186	a
-1009188	c
-1009190	c
-1009197	a
-1009200	a
-1009206	c
+NA
 c
-a
-1009211	a
-1009216	a
-1009220	a
+c
+NA
+c
 c
 a
-1009226	c
 a
-1009229	c
+NA
 a
-1009236	c
+NA
+c
+NA
+NA
+NA
+c
 a
-1009241	a
-1009243	c
+NA
 a
-1009248	c
+c
+c
+NA
+c
 a
+NA
+NA
+NA
+c
 a
-1009252	c
-1009256	c
 c
 a
-1009263	a
-1009267	c
+NA
 a
-1009271	a
-1009278	c
+NA
 c
 a
+NA
 c
 a
+NA
+NA
+NA
 a
 a
+NA
+NA
+NA
+NA
+NA
 a
-1009287	a
-1009289	a
-1009293	a
-1009296	a
-1009302	a
-1009304	c
+c
 a
-1009311	a
-1009314	a
-1009316	a
-1009318	a
-1009320	a
-1009322	a
-1009327	c
-1009329	a
-1009331	c
-1009337	c
+NA
+NA
+c
 a
-1009342	a
-1009344	a
-1009348	c
+NA
 a
-1009351	a
-1009354	a
+c
 a
-1009357	a
-1009359	c
+NA
 a
+NA
+NA
+det.
+det.
+NA
 a
-1009367	c
+NA
+c
 c
+NA
+NA
+NA
 c
-1009373	a
-1009378	a
-1009381	c
-1009384	a
-1009386	a
-1009388	a
+c
+NA
+NA
+NA
+NA
+a
 a
-1009391	c
-1009395	a
+NA
+NA
 a
-1009398	c
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+det.
+NA
+NA
+c
+NA
+NA
+NA
+c
 a
-1009401	a
-1009405	a
+NA
 c
+c
+a
+NA
+NA
 a
-1009410	c
+NA
+NA
+NA
+NA
 a
+NA
 a
-1009415	a
-1009419	a
+NA
+det.
+NA
 a
-1009423	c
-1009426	a
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
 a
 a
-1009436	a
-1009438	c
 a
-1009442	c
-1009447	a
-1009449	a
-1009454	a
-1009457	c
 a
-1009460	a
-1009470	c
+NA
 c
-1009475	c
-1009478	c
+NA
+NA
+NA
 c
-1009481	c
-1009484	c
-1009488	a
-1009491	a
-1009494	c
-1009496	c
-1009498	c
 a
-1009501	c
-a
+c
 c
 a
-1009506	c
+NA
+NA
 a
-1009511	a
-1009513	a
-1009515	c
-1009517	c
-1009519	a
-1009521	c
 c
+NA
+c
 a
-1009527	a
-1009530	a
-1009534	a
-1009537	a
-1009542	a
+NA
+c
+NA
+NA
+NA
 a
-1009545	a
-1009550	c
+NA
 c
-1009553	a
-1009556	a
-1009562	a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1009573	a
-1009579	c
-1009583	a
-1009585	a
-1009588	c
-1009592	a
-1009594	a
-1009596	a
-1009598	c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
 a
-1009604	c
+NA
+NA
 a
-1009610	a
+c
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
 a
-1009615	a
 a
-1009620	a
-1009623	c
+NA
 a
-1009626	a
-1009629	c
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1009633	a
+NA
+NA
+NA
+NA
+NA
 a
-1009638	a
-1009642	a
-1009644	c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
-1009648	c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
 a
-1009652	c
-1009657	a
-1009659	c
-1009661	c
 a
-1009666	c
+NA
 a
 c
-1009671	c
-1009675	a
-1009677	c
 a
-1009680	c
+NA
+c
 a
-1009685	c
+NA
+NA
 a
-1009690	c
+NA
 c
-1009695	c
-a
-1009698	c
-1009700	a
-1009702	c
-1009705	a
+c
+c
+NA
+NA
+c
+NA
 a
-1009712	a
-1009715	a
-1009721	a
-1009727	c
-1009729	a
+NA
 c
+NA
+NA
 c
-1009735	c
-1009738	c
 a
-1009742	a
-1009748	a
-1009750	a
-1009752	c
+NA
 a
-1009757	a
-1009760	a
-1009767	c
+NA
+NA
 c
-1009770	c
-a
-1009774	a
-1009780	c
-1009782	c
+NA
 a
-1009786	c
-1009792	det.
-1009796	c
+NA
 c
-1009802	a
-1009806	a
 c
-1009809	c
-1009811	c
-1009815	a
-a
-1009820	c
-1009822	a
-1009828	c
-1009830	a
-1009833	a
-1009839	c
-1009843	a
+NA
 c
-1009848	c
-1009850	c
-1009852	c
+NA
 c
-1009856	c
+NA
 c
+NA
 c
-1009860	a
-1009862	c
-a
-1009868	a
+NA
 c
-1009872	c
+NA
+NA
 a
-1009875	a
-1009877	a
+NA
 c
-1009880	a
-1009883	a
 c
-1009891	a
-1009894	c
 a
-1009898	a
-1009901	a
+NA
+c
 a
-1009905	a
+NA
+NA
+c
+c
+NA
+NA
 a
-1009908	a
-1009910	a
+NA
 a
 a
+c
 a
+NA
+NA
+NA
+NA
 a
+NA
 a
-1009918	a
-1009922	a
+NA
+NA
+NA
+NA
+c
 a
-1009928	c
-1009931	c
 a
-1009935	c
 a
-1009942	a
-1009944	c
-1009948	c
+NA
 a
-1009958	c
-1009962	a
-1009966	a
-1009969	c
-1009971	c
-1009974	a
-1009977	a
-1009979	c
-1009981	c
+NA
+c
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+a
+c
 a
+NA
+a
+NA
+NA
 c
 c
-1009990	c
 a
-1009993	c
+NA
 a
-1009997	a
 a
-1010000	a
-1010002	c
+NA
+NA
+c
+NA
+c
+NA
 a
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
 a
+NA
 a
+NA
+NA
 c
 c
+NA
 a
-1010010	a
-1010012	c
-1010015	c
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+det.
+c
+c
 a
+NA
 c
-1010020	c
 a
+NA
+NA
 a
+NA
+NA
 a
+NA
+c
+c
+NA
+NA
+a
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
 a
-1010026	a
-1010028	a
+NA
+c
+NA
+c
+c
+NA
+NA
 a
-1010031	c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
-1010034	c
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
-1010037	c
-1010040	c
+NA
+NA
 a
-1010043	c
-1010045	c
+c
+c
+det.
+NA
+det.
 a
+NA
 c
+NA
+NA
+det.
+NA
 c
-a
-1010052	c
-a
-1010055	c
-1010057	c
-a
 c
-a
-1010062	a
-1010064	det.
-1010072	c
-a
-a
-1010076	a
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
-1010081	c
 c
+NA
+NA
 a
 a
-1010086	a
-1010088	a
-1010092	c
+NA
+NA
+NA
+NA
+c
 a
-1010096	a
-1010098	a
+NA
 c
-1010101	c
-1010103	c
+NA
 c
+NA
 c
-a
-1010109	a
+NA
 a
+NA
 c
+c
 det.
-1010114	a
-1010117	a
-a
-1010120	a
-1010122	a
+NA
+c
+NA
 a
-1010125	a
 c
 c
-a
-a
-1010132	c
-1010135	c
-1010137	c
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
 a
-1010145	c
+NA
 c
-1010148	a
-1010152	c
 a
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+det.
 c
-1010158	a
+NA
 a
-1010162	c
+NA
+NA
 a
-1010165	a
-1010168	a
+NA
+NA
 c
+a
+NA
 c
+a
+NA
 a
+NA
 a
+NA
 a
-1010175	a
-1010177	c
-1010179	a
-1010185	a
-1010191	a
+NA
+NA
+a
+NA
 c
-1010194	a
-1010196	a
 a
-1010199	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1010202	c
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+c
 a
-1010207	a
-1010209	a
+NA
 a
 a
 c
+c
 a
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-1010219	c
+NA
+NA
+c
 a
-1010222	a
-1010224	a
+NA
+c
 a
-1010227	a
+NA
 c
+NA
 c
 c
-a
-1010234	c
-a
-a
-1010240	c
+NA
 c
 c
-a
-a
-a
-1010247	a
-1010251	a
-1010253	c
-a
-a
-a
-1010259	a
-1010265	c
+NA
 c
 c
+NA
 c
-1010272	c
 c
-a
-a
-1010277	c
+c
+NA
+NA
 a
-1010280	a
-1010282	c
+NA
 a
+NA
+NA
 c
-1010286	a
-1010288	c
-1010292	a
-1010294	a
-1010296	c
 c
-1010304	c
-1010306	a
-a
-1010310	c
-1010313	a
-1010316	c
-a
-1010319	c
-1010322	a
-1010325	c
+NA
+NA
+NA
 c
-1010328	det.
-1010330	c
-1010332	c
-a
-a
-1010336	a
-1010338	c
-1010340	c
-1010342	a
+NA
+det.
+NA
 c
 a
-1010346	c
-1010349	a
-1010354	a
-1010356	c
-1010360	a
-a
-1010363	c
+NA
+NA
+c
+NA
 a
-1010366	a
 a
-1010369	a
+NA
 a
+NA
+NA
 c
-1010373	a
-a
-1010381	c
-a
-1010384	a
+NA
 c
-1010388	a
-1010390	a
 c
-a
-a
-1010396	a
-1010400	a
-1010402	a
-a
-a
-1010406	a
-1010412	a
-1010415	a
-1010417	c
-1010423	a
-1010425	a
-1010427	c
-1010430	a
+NA
 c
-1010435	a
 a
-1010441	a
-1010448	c
+NA
 c
+NA
 a
-1010453	c
-1010457	c
-1010459	a
-1010461	c
-1010464	c
-1010476	c
-a
-1010479	a
-a
-1010483	a
-1010485	a
-a
-a
-a
-1010490	a
-a
-a
+NA
 c
-a
-1010498	c
-1010501	a
-1010503	c
-a
-1010507	det.
-1010511	c
-a
-1010519	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-1010526	a
-1010528	a
-a
-1010531	a
-a
-1010534	a
-1010537	a
-a
-1010540	a
-1010542	c
-a
-1010546	a
+NA
+NA
+c
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+c
 a
-1010550	a
 a
-1010554	a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
 a
+NA
+NA
+c
 a
-1010558	a
-1010560	a
-1010565	a
+NA
 a
+NA
 c
-1010569	c
-1010571	a
-1010573	a
-1010576	a
-1010578	c
-1010580	c
-1010585	a
-1010590	c
-1010599	a
-1010604	c
-1010607	c
-1010613	c
-1010623	c
-1010625	a
-1010627	c
-1010630	a
+NA
+NA
+NA
 a
-1010633	c
+c
+c
+NA
+NA
+NA
+NA
 a
-1010636	c
+NA
 a
-1010642	c
-1010650	c
-1010654	c
+NA
+NA
+c
+NA
 a
-1010657	a
-1010659	c
+NA
+NA
 a
-1010662	a
-1010664	c
+c
+c
+NA
+NA
+c
+NA
+c
+c
 a
-1010668	a
 a
-1010671	a
-1010673	c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
 a
-1010678	c
-1010680	a
-1010684	c
-1010686	a
-1010688	c
+c
+NA
+NA
+NA
+NA
+c
 a
-1010692	a
-1010695	c
-1010697	a
-1010699	c
 a
-1010702	c
-1010704	a
-1010708	c
+NA
+c
 a
 a
-1010712	a
+c
+c
 a
+NA
+c
+c
 a
-1010716	c
+NA
+NA
+NA
 a
+NA
 a
-1010720	a
 a
-1010723	a
 c
 a
-1010727	a
+NA
+c
 a
-1010730	a
-1010733	c
+NA
 a
-1010736	a
+NA
+c
 a
+NA
+NA
+NA
 a
-1010740	c
+NA
+NA
+c
 a
-1010743	a
-1010745	a
+NA
+NA
+c
+NA
+NA
 a
-1010748	a
 a
-1010751	c
+NA
 c
-a
-det.
-1010756	a
-1010758	c
+NA
+NA
+c
 a
-1010762	a
-1010764	a
+c
+NA
 a
-1010767	a
-1010769	a
-1010772	c
-1010774	a
-1010776	a
-1010778	a
-1010780	c
+c
+NA
+c
+NA
 a
-1010783	a
-1010787	a
-1010789	a
-1010791	c
 a
-1010798	a
-1010801	c
-1010805	c
-1010807	a
 c
-1010815	a
-1010817	c
 a
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+c
 a
-1010822	c
-1010826	c
-1010829	a
-1010832	a
-1010839	a
-1010841	c
+NA
+c
+NA
+NA
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
 a
-1010845	a
-1010848	c
+NA
+c
 a
+c
+NA
+NA
 a
-1010853	c
+c
+NA
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+c
 a
-1010856	c
+NA
 a
-1010859	c
+NA
+NA
 c
+NA
 a
-1010869	c
-1010872	a
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+c
+c
 a
+NA
+NA
 a
-1010877	a
-1010879	a
-1010882	a
-1010886	a
-1010888	a
-1010893	a
-1010897	a
+NA
+NA
+NA
 a
-1010903	a
+NA
 a
-1010906	c
+NA
+c
 a
-1010909	a
+NA
+NA
 a
-1010913	c
-1010915	a
 a
-1010922	a
-1010925	a
+NA
 c
-1010936	a
-1010938	c
-1010940	c
-1010945	c
 a
-1010951	c
-1010954	a
+NA
+c
 a
-1010958	c
-1010964	c
-1010968	c
-1010972	c
-1010975	a
-1010977	c
-1010980	c
-1010986	a
+NA
+NA
+NA
+c
 a
-1010989	c
+NA
+c
+NA
+c
 det.
-1010992	c
-a
-1010995	a
-1010997	c
+NA
+c
+NA
+NA
+c
+NA
+c
 a
-1011000	a
-1011002	c
-1011008	a
-1011010	c
-1011012	c
-1011022	c
-1011024	a
-1011034	c
-1011036	a
-1011039	c
-1011041	a
+NA
 a
-1011047	c
-1011049	a
-1011052	a
-1011055	a
-1011057	a
-1011062	a
+NA
+c
 a
-1011065	a
+NA
+NA
 a
-1011070	c
-1011075	c
-c
-det.
-1011079	a
+NA
 a
-1011082	a
-1011084	c
-1011086	a
-1011088	a
-1011090	c
+NA
+NA
 a
-1011097	a
-1011104	a
-1011106	a
 c
-a
 a
-1011112	a
+NA
 a
-1011118	a
-1011120	a
+NA
+NA
+NA
+NA
+NA
 a
-1011123	a
-1011127	a
-1011129	a
-1011143	a
-1011146	c
-1011156	a
+NA
+NA
+NA
 a
-1011164	a
-1011169	c
-1011173	a
+NA
+c
+NA
+NA
 a
-1011185	c
-1011191	a
-1011198	c
+NA
 c
+NA
+NA
 a
+NA
+c
 a
+c
+NA
+NA
+c
+NA
 a
-1011204	a
-1011207	a
-1011223	a
+NA
 c
-1011231	c
 c
-1011235	c
+NA
 c
 a
-1011243	a
-1011245	a
-1011250	c
-a
-a
+NA
+c
+NA
+NA
 a
-1011257	a
-1011262	c
 a
 c
-det.
-1011267	c
-1011269	c
 a
-1011272	a
-1011274	c
 c
-a
 c
-1011280	c
-1011282	a
-1011285	a
-1011287	a
-1011289	a
-1011293	a
 a
-1011296	a
-1011298	a
-1011301	c
+NA
+NA
+NA
+NA
 a
-1011304	a
-1011307	c
+NA
 a
-1011310	a
+NA
 c
 a
-c
+NA
 a
 c
-a
-a
+NA
 c
-a
-a
-1011322	c
-a
-a
-a
-a
-a
-1011329	a
-1011331	a
-a
-a
-1011336	a
-a
-1011339	a
-a
-a
-a
-1011344	c
-a
-1011347	c
-a
-a
-a
-a
-a
-1011359	a
-1011363	a
-a
-a
-det.
-1011370	c
-1011372	a
-1011374	a
-a
-1011377	a
-1011383	a
-1011385	a
-det.
-1011389	a
-1011391	a
-det.
-1011394	c
-a
 c
+NA
+NA
 a
-1011399	c
-1011402	a
-1011406	a
+NA
+NA
 c
 a
+c
+c
+c
+NA
+c
+c
 a
+NA
 a
 a
-1011413	c
+NA
+NA
+c
+NA
+NA
+NA
 a
+NA
 c
 a
-1011419	c
-1011424	a
+NA
+NA
 c
 c
-a
-1011430	c
-1011434	c
-1011436	a
-a
-1011439	a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
 a
-1011443	a
+NA
 c
 a
-1011447	a
+NA
 a
 c
 c
-1011453	a
-1011456	c
-1011458	a
-a
-1011461	c
-1011469	c
+NA
+NA
+c
+NA
+NA
+c
 a
-1011472	c
-1011474	a
-1011478	c
+NA
 c
-1011481	c
 a
 a
+NA
 a
+NA
+NA
 c
-1011487	c
-c
-c
 a
+NA
+NA
 c
 c
 a
+NA
+NA
 a
-1011497	a
-1011499	a
-1011501	c
+NA
+NA
+NA
 a
 a
+NA
 a
-det.
-1011507	a
-1011509	a
 a
-1011512	a
-1011514	det.
+NA
 c
-1011517	a
-1011519	c
 c
-1011523	a
-1011526	c
-1011530	c
+NA
 c
-1011537	a
 a
-1011541	a
-1011544	a
-1011546	a
-1011551	c
-1011555	a
-1011557	c
+NA
+NA
 c
-1011565	c
-a
-1011569	c
 a
-1011575	c
-a
-a
-1011583	a
-1011585	c
-1011587	c
-1011589	c
-a
-1011593	a
-1011598	c
-1011602	a
-1011604	c
-a
-1011607	c
+NA
+NA
+c
 a
-1011611	a
+NA
+NA
+NA
 a
-1011614	c
-1011616	c
+NA
+NA
 a
-1011619	c
-det.
-1011622	a
-1011625	c
+NA
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
 a
-1011630	c
+c
+NA
+NA
 a
-1011633	a
 a
-1011636	a
+c
+NA
 a
-1011639	a
+NA
 a
 a
+NA
 a
+NA
 c
-a
-1011646	a
 a
+NA
+NA
+NA
+c
 a
-1011650	a
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
 a
-1011657	c
+NA
+NA
 c
-1011660	c
 c
+NA
 a
-1011664	a
-1011668	a
-1011670	a
-1011672	c
+NA
 c
-1011676	c
-1011679	c
-c
-1011682	a
-1011684	c
+a
+NA
+a
+NA
+NA
 c
-1011687	a
+a
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+NA
 c
-det.
-1011693	c
-1011695	det.
+NA
+a
+NA
+NA
+NA
 c
 c
-1011700	c
-1011702	c
-1011704	a
+NA
 c
-1011707	c
-1011710	a
-a
-1011714	c
-1011716	c
-1011719	c
-1011722	a
-1011724	c
-1011726	a
-1011729	c
-1011732	c
-1011735	a
-1011737	c
-1011743	a
-1011746	c
-a
-1011751	c
-a
-1011754	c
-1011756	a
-1011770	a
-1011772	a
-1011775	c
-a
-1011780	c
-a
-1011783	c
+NA
 a
-1011787	a
+NA
 a
-1011790	a
-1011792	c
+NA
+NA
+NA
 a
-1011798	a
-1011800	c
+c
+NA
+c
+NA
+c
 a
-1011809	c
 a
-1011812	a
-1011815	a
-1011823	c
-1011826	c
-1011832	a
-1011836	a
-1011838	c
+NA
 a
+NA
+NA
 a
-1011842	a
-1011849	c
+NA
 a
-1011853	a
-1011855	a
-1011859	c
-c
-1011864	c
+NA
+NA
+NA
 c
-1011869	a
-1011871	a
-1011873	c
-c
-1011881	a
-1011883	c
-a
-1011886	a
-1011888	c
-1011891	c
-1011893	c
+NA
 a
-a
-1011897	a
+NA
 c
-1011902	a
+NA
 c
-1011905	c
 a
-1011908	a
+NA
+NA
+NA
+NA
 c
 c
-a
-1011913	c
-1011915	a
-1011918	c
+NA
 c
 a
-1011923	a
-1011925	c
-1011929	c
+NA
+NA
+c
 a
-1011933	a
-1011936	a
-1011940	a
-1011943	c
 c
 a
-1011950	c
+NA
+c
+NA
+NA
+NA
 a
-1011964	c
-1011969	c
-1011975	c
+NA
+NA
 c
-1011981	a
+NA
 a
-1011984	a
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
 c
 a
-1011989	a
-1011991	c
+NA
+c
+c
+NA
 a
-1011998	c
 a
-1012002	c
+NA
 a
-1012005	a
+NA
+c
+NA
+NA
 a
+NA
+c
+NA
+NA
 c
-1012010	a
-1012013	c
+c
+NA
 a
-1012017	a
-1012021	c
-1012023	a
-1012027	c
-1012029	c
+NA
+NA
+c
+c
+NA
 a
+NA
+NA
 a
+NA
 a
-1012035	a
+NA
+NA
 a
-1012038	a
+NA
+NA
 c
-1012043	c
-a
-det.
-det.
+NA
+c
+c
 a
+NA
+c
 a
-1012050	c
-1012055	c
-1012057	det.
-det.
-1012060	c
-1012065	c
+NA
+NA
+c
 a
-det.
+NA
+NA
+NA
+c
 det.
-1012070	c
 a
+NA
+NA
+NA
 c
-a
 a
-a
-det.
-1012078	c
+NA
 c
-1012083	a
-a
-a
 a
-a
-1012091	a
-1012093	a
-1012096	a
-1012098	a
-1012101	a
-1012104	c
-1012106	c
+NA
 c
-1012109	c
 a
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
 a
-1012113	c
-1012120	a
-1012124	c
+NA
+NA
+NA
+c
 a
-1012127	a
+NA
+NA
 c
-det.
 a
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-1012133	a
-1012135	c
 a
-1012138	c
-1012142	c
-1012146	c
+NA
+c
+NA
 a
+NA
+c
+NA
+NA
+NA
 c
-1012153	c
+NA
 a
+NA
+NA
 c
-det.
 c
-1012160	c
 c
-1012163	c
-1012165	c
-1012169	c
-a
-1012174	a
-1012178	a
-1012182	a
-a
-1012188	c
-1012190	c
+NA
 c
+NA
+NA
 c
+NA
+NA
 c
-a
-1012196	det.
-1012198	c
-det.
-1012201	a
-1012203	a
-1012205	c
-1012207	a
 a
-1012210	c
-1012213	c
-1012215	c
+NA
+c
 a
-1012218	c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
 a
-1012221	c
-1012223	a
-1012229	a
-1012234	c
+c
+c
+NA
+c
 c
-1012242	a
-1012247	c
 a
-1012251	c
+NA
 c
-1012256	c
-1012260	a
+NA
 c
 a
-1012266	a
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-1012269	a
-1012274	c
-1012277	c
-1012279	a
-1012282	a
 c
-1012286	c
-1012288	c
-1012290	c
+NA
+c
 a
+c
+NA
+NA
+c
+NA
+c
 c
-1012294	a
-1012296	c
-1012305	a
 c
-1012309	a
-1012312	det.
-1012315	a
+NA
+NA
 a
+NA
+NA
+c
 a
-1012319	a
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+det.
+NA
 a
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
 a
+NA
+NA
 c
 a
+NA
+NA
 c
+c
 a
+NA
+c
 c
 a
-1012329	c
+NA
+NA
+NA
+NA
 a
+NA
+c
 a
-1012333	a
+NA
+c
+NA
 a
+NA
+c
+NA
 a
-1012337	a
+NA
 c
 c
+NA
 c
-a
-1012343	c
-1012346	c
+NA
+NA
+NA
 a
+NA
+NA
 a
-1012352	c
-c
-c
+NA
+NA
+NA
 a
+NA
+NA
 a
+NA
+NA
 a
-1012359	a
-1012363	a
+NA
+NA
+c
 a
-1012367	a
+NA
+c
 a
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+c
+NA
 a
-1012372	a
 a
+NA
+c
+c
 a
+NA
 a
-1012380	c
+NA
+NA
 c
+NA
 c
+a
+NA
 c
-1012387	a
 a
-1012390	c
+NA
+NA
 a
-1012393	a
+NA
+NA
 c
-1012396	a
-1012398	c
-1012402	a
-1012404	a
+NA
 c
+NA
 c
 c
-1012410	a
+NA
 a
-1012414	c
-1012417	a
+NA
 a
+NA
 a
-1012422	det.
-1012425	c
+NA
+NA
+NA
+NA
+NA
 c
-1012428	c
-1012431	a
-1012433	c
-1012436	c
 c
-1012439	det.
-1012441	c
-1012443	c
+NA
+NA
+c
+NA
+NA
+NA
 a
 a
-1012447	a
-1012449	c
-1012451	c
-1012453	a
+NA
 c
-a
-1012457	c
-1012460	a
-1012464	a
-1012466	c
-1012470	a
+NA
+NA
 a
-1012473	c
-1012476	a
+c
 a
+NA
+NA
 a
-1012480	a
+NA
+NA
+NA
+NA
 a
-1012483	a
+NA
 a
+NA
 c
-a
-1012488	a
 a
-1012491	a
-a
 c
-1012495	c
-a
-1012503	c
-a
-1012506	a
+NA
+c
+c
+NA
+NA
+c
 a
-1012514	c
 a
-1012518	a
-1012520	a
+NA
+NA
 c
-1012525	a
+c
 a
-1012528	c
 a
-1012531	a
-1012533	a
-1012536	c
+NA
+NA
+c
+NA
+c
 a
-1012539	a
-1012543	a
-1012546	a
+NA
+c
 a
-1012553	c
+NA
+NA
 a
-1012560	a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
 a
-1012569	a
-1012571	a
-1012574	a
-1012576	c
-1012580	a
+NA
+NA
+NA
 a
-1012586	a
-1012591	c
+NA
+c
 a
-1012604	a
-1012606	a
-1012608	c
-1012611	c
-1012624	c
-1012627	a
-1012629	c
-1012635	a
-1012638	c
+NA
 a
-1012651	a
-1012653	a
-1012659	c
+NA
 a
-1012662	c
-1012665	a
-1012667	c
 a
-1012674	c
+NA
 a
-1012677	a
-1012679	a
-1012685	c
-1012687	c
+NA
+NA
+NA
 c
-1012698	c
-1012704	a
-1012709	a
-1012711	c
-a
+c
+NA
+NA
+NA
 a
-1012715	a
-1012717	a
-1012722	c
+NA
 a
+NA
 a
-1012726	a
-1012728	a
-1012732	c
-c
-1012737	c
+NA
 c
 a
-1012746	a
-1012748	a
-1012750	c
+NA
 c
 a
-1012761	a
-1012763	c
+NA
 c
+c
 a
-1012767	c
+NA
+c
 a
-1012770	a
-1012772	c
-1012775	c
-1012777	c
 a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1012781	c
-1012788	a
+NA
 c
-1012791	a
-1012793	a
-1012795	a
-1012797	a
-1012799	a
 c
-1012802	c
 a
-1012805	a
+NA
+NA
 a
-1012808	c
-1012810	a
-1012812	c
+NA
 c
 a
-1012816	c
-1012820	a
-1012822	c
+NA
+NA
+NA
+NA
+NA
 a
-a
-1012827	a
-1012830	a
-1012834	a
-1012839	c
+NA
+c
+c
+NA
+c
+c
+c
+c
 a
-1012843	c
-1012846	c
-1012851	c
-1012854	c
+NA
+NA
+NA
 c
-1012860	a
 a
+NA
+c
 a
+NA
 c
 c
+c
+NA
+NA
+NA
+c
 a
-1012867	a
+NA
+c
+c
 a
-1012870	c
+NA
+NA
 a
+NA
+NA
 a
 c
+NA
+NA
+c
+det.
+NA
 a
+NA
 a
+NA
+c
 a
+NA
+c
 c
 a
-1012881	c
+NA
+NA
+NA
 a
-1012884	a
+NA
 a
+NA
+a
+NA
+NA
+NA
+a
+NA
 c
-1012889	a
-1012892	c
 a
-1012897	a
-1012899	a
-1012902	c
+NA
 a
-1012906	a
-1012909	c
-1012911	a
-1012915	c
-1012917	c
+NA
+NA
+NA
 a
-1012920	a
-1012923	a
+NA
+NA
 a
-1012926	a
+NA
+c
 a
+NA
+NA
+c
 c
-1012932	c
 a
-det.
-1012936	c
-1012938	c
-1012942	c
-1012947	c
-1012949	a
-1012951	a
-1012954	c
-1012956	c
+NA
 a
-1012959	c
-1012961	c
-1012966	c
-1012969	a
 a
-1012980	c
+NA
 c
 a
-1012988	a
-1012991	c
-1012994	c
-1012997	c
-1013000	a
 a
-1013003	a
-1013005	c
-1013007	a
-1013009	a
-1013011	c
+NA
 c
-a
-1013016	a
-1013018	a
 a
-1013021	a
+NA
+NA
 a
-a
-1013025	a
-1013027	c
+NA
 c
-a
-1013032	a
-1013034	c
 a
+NA
+NA
 c
 a
 a
-1013040	c
-1013042	c
+NA
+NA
+NA
+NA
+NA
 a
-1013045	c
 a
-1013048	a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-1013052	c
-1013054	a
+NA
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+NA
+c
 a
-1013058	c
 a
-1013061	a
+NA
+c
+NA
+c
 a
-1013064	a
+NA
+c
+NA
+c
 a
-1013068	a
-1013071	c
-1013073	a
+NA
 a
+NA
+c
+c
+c
+NA
+NA
+c
+c
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
 a
-1013077	a
 a
+NA
+c
 a
+NA
+NA
+c
+NA
 a
-1013082	c
+NA
+c
 a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
 a
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
 a
-1013088	det.
-1013098	a
-1013101	a
-1013104	c
-1013106	c
+NA
 a
-1013109	a
-1013111	a
-1013113	a
-1013115	a
-1013117	a
 a
+NA
+NA
+NA
 a
-1013121	a
-1013124	a
-1013126	c
-1013128	a
-1013130	c
-1013134	a
 c
-1013141	c
-1013143	c
-1013147	c
+NA
 c
 a
-1013151	a
+NA
 c
-a
-1013155	c
-a
+NA
 c
 c
-1013160	c
-1013163	c
-1013165	a
-1013169	a
-1013171	a
-1013174	a
+NA
+c
 a
-1013177	a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-1013180	a
-1013184	a
-1013186	a
+NA
+NA
+NA
+c
+NA
 c
+NA
 c
+NA
+NA
+NA
+c
 a
+NA
+NA
 c
 a
-1013193	c
-1013196	c
+NA
+c
+c
 a
-1013199	c
+NA
+NA
+c
 c
 a
-1013203	a
+NA
 c
+c
+NA
+a
+NA
+NA
 c
-1013207	a
+NA
 c
 a
-1013211	a
-1013214	a
+NA
 a
-1013217	a
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
 a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
+c
+NA
+c
 a
-1013221	a
-1013223	a
+NA
+c
+NA
+c
+NA
+c
 a
 a
-1013227	a
-1013229	a
+NA
+c
 a
-1013233	c
+NA
 a
-1013236	c
+NA
+NA
 a
-1013242	c
 a
+NA
+NA
 c
-1013246	a
-1013248	c
-a
+NA
+NA
+NA
+c
+NA
 a
-1013252	c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+c
 c
-1013258	a
 c
-1013261	a
-1013263	c
+NA
+NA
 c
-1013269	a
-1013271	a
+NA
 a
-1013276	a
+NA
+NA
+c
+c
 a
-1013280	a
+NA
+NA
+NA
 a
-1013283	a
-1013286	c
+NA
 c
+NA
+NA
+c
 a
-1013290	det.
-1013292	a
-1013297	c
-1013299	a
-1013303	c
-1013305	c
+NA
+NA
+c
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
+NA
+c
 c
-1013312	c
-1013314	c
 a
-1013318	c
-1013320	c
+NA
+c
+NA
 a
-1013323	a
+NA
+NA
 a
-1013326	a
-1013328	c
+NA
+c
 a
-1013332	a
+NA
 a
+NA
 c
 a
-1013337	a
-1013339	c
+NA
 a
-1013345	a
 a
-1013352	c
-1013354	c
-1013356	a
-1013361	c
-1013363	a
-a
-1013371	a
-1013374	a
-1013378	c
+NA
 c
 c
+NA
+NA
 c
-1013385	a
-1013392	c
-a
-1013396	c
-1013400	c
-1013405	c
-a
-1013410	det.
-1013412	a
-a
-1013417	c
-1013421	c
-1013423	c
-1013425	a
+NA
 c
-a
-1013429	a
-1013431	c
-1013434	c
-a
-1013440	c
-1013443	a
-1013445	a
-a
-1013449	a
-a
-a
 c
-a
-a
-a
-1013457	a
-1013462	a
-1013464	c
+NA
+NA
 c
-a
-1013468	a
-1013471	a
-a
-1013474	a
-1013476	a
-1013479	a
-1013483	c
+c
+c
+NA
+c
+c
+NA
 a
+NA
+c
 a
+NA
 c
+NA
 c
-1013492	a
-1013494	a
-1013496	a
-1013498	a
-1013501	c
+NA
 c
-1013507	a
-1013513	a
-1013518	c
-1013520	c
-1013523	a
-1013529	c
+NA
 c
-1013533	a
+NA
+NA
 c
-1013544	a
-a
+NA
 a
+NA
+NA
+NA
+c
 a
-1013556	c
-1013561	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
-1013564	a
-1013566	c
-1013570	a
-1013574	a
-1013576	c
+NA
+NA
+c
+NA
+NA
 a
-1013587	a
-1013591	a
-1013594	a
-1013597	c
 a
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
 a
-1013604	c
-1013607	a
+NA
+c
+NA
+c
+c
+c
+NA
+c
+c
+c
+NA
+NA
 a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
 c
-a
-1013612	c
-a
-1013615	a
-1013617	a
-1013619	c
-1013623	a
+NA
 c
-a
-1013627	a
-a
-1013632	det.
-1013634	c
-1013636	a
-1013639	a
-1013641	c
-1013643	a
-1013645	a
-1013649	a
-1013654	c
+NA
 c
-1013657	a
-1013659	c
-a
-1013666	c
-a
+NA
+c
 a
+NA
+c
 a
-1013673	a
-1013678	c
-1013685	a
-1013687	c
-1013689	c
-1013692	c
-1013699	a
-1013701	c
-1013704	a
-1013706	a
-1013708	a
+NA
+NA
 c
 c
-a
-a
-1013714	a
-1013717	a
+NA
+NA
 c
 a
+NA
+NA
 c
-1013724	det.
-1013728	a
-1013730	a
+NA
+NA
 a
-a
 c
 a
-1013736	det.
-1013739	c
+NA
 c
-a
 a
-a
+NA
 c
-a
-1013747	a
-1013749	c
-a
+NA
+c
+c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
-1013754	a
+NA
+NA
 c
-1013758	det.
 a
-1013761	a
-1013765	c
-1013767	a
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+c
 a
-det.
-1013771	a
-1013773	a
-1013775	det.
-1013779	c
-1013781	a
-1013783	a
 a
+NA
 a
-1013787	c
-1013789	a
-1013791	det.
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
 a
-1013795	c
+NA
+NA
+NA
 a
-1013798	a
-1013800	a
-1013804	a
+NA
+NA
+NA
+NA
+NA
 c
-a
+NA
 a
+NA
+c
 a
-1013810	a
+NA
+c
 a
-1013814	a
-1013816	a
+NA
 c
 a
-1013820	a
+NA
+c
 a
+NA
 a
+c
 a
-1013825	a
+NA
 a
+NA
 a
 a
-1013830	c
-det.
-1013834	a
-1013839	c
+NA
 c
-a
-1013847	c
 c
 a
-1013851	a
-1013856	a
-1013859	c
-1013861	a
-1013864	c
-1013867	c
-1013870	a
-1013872	a
-1013874	a
-1013876	a
-1013881	a
-1013885	a
+NA
 c
 a
 a
+NA
 c
-1013891	c
-det.
-1013895	a
-1013899	a
-1013902	a
-1013905	a
-1013909	a
-1013911	c
-a
 c
-a
-1013916	c
-det.
 c
 a
-1013921	c
+NA
+NA
+NA
+c
 a
+NA
 c
 a
-1013926	c
-det.
+NA
 c
 c
+NA
+NA
 c
-1013932	c
+NA
 a
-1013938	a
-1013940	a
-1013942	a
+NA
+NA
+NA
+NA
 a
 a
-1013946	c
-det.
 c
-a
-1013951	c
-a
+NA
+NA
+NA
+NA
+NA
 c
-a
-1013956	c
 a
-1013959	a
-a
+NA
+NA
 c
-1013963	a
-1013965	a
-a
-1013970	a
-a
-1013973	a
-1013981	c
-1013984	a
-1013988	a
-1013990	a
-1013993	a
-1013997	a
-1014003	c
-1014005	c
-a
-1014008	a
-1014011	c
-a
-1014014	a
-1014016	c
-a
-1014019	a
-1014022	c
-a
-1014025	a
-1014031	a
-1014033	c
-a
-1014039	c
-1014042	a
-1014045	c
-1014048	a
-1014053	c
-a
-1014057	a
-1014059	c
-a
-1014065	c
 c
-a
-1014070	c
-1014073	c
+NA
 c
-1014076	c
-a
+c
 a
-1014080	a
-1014082	a
-1014085	a
+NA
 a
-1014088	a
-1014090	c
-1014092	a
+c
+NA
+c
+c
 a
+NA
 c
+NA
 c
+c
 a
-1014098	a
-1014101	c
-1014103	a
+NA
+NA
+NA
+c
+c
 a
-1014107	a
-1014109	a
+NA
+NA
+c
+NA
+NA
+NA
 a
-1014113	a
-1014116	c
-1014120	a
-1014122	a
-1014124	a
-1014126	c
-1014130	c
-1014133	a
+NA
+NA
 a
-1014138	c
-c
+NA
+NA
 a
 a
 c
 a
-1014145	a
-1014147	c
+NA
 c
-1014150	a
-a
-1014157	c
 a
 a
-1014163	a
-1014165	a
-1014168	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-1014173	a
 a
-1014176	a
-1014179	a
-a
 c
-a
-1014185	a
+c
+NA
+NA
 a
-1014188	a
-1014191	a
-1014194	a
-1014197	a
-1014199	c
+NA
+c
 c
-1014205	a
+NA
 c
-1014215	c
+c
 a
+NA
+c
 a
-1014223	a
+NA
 c
-1014227	a
 a
 a
-1014232	c
-1014238	a
+NA
+NA
 a
-1014242	c
-1014245	c
+NA
 c
-1014248	c
-1014250	c
 a
-1014253	a
-a
-1014256	c
+NA
+NA
 c
-1014259	c
-1014261	a
-a
 a
+NA
+NA
+c
 a
+NA
+NA
 c
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+c
+c
 a
+NA
+NA
+NA
+NA
 c
-1014272	a
-1014277	c
-1014281	a
-1014285	a
-1014288	c
 a
-1014291	a
-1014294	a
-1014296	a
 a
 a
-1014302	c
-1014305	c
+NA
+NA
+NA
 c
-1014308	a
-1014311	a
-1014314	a
+NA
+NA
 c
+NA
+NA
 c
-1014320	c
-1014323	c
+NA
 a
-1014327	c
 a
-1014332	c
-1014337	c
+NA
 c
-1014343	c
+NA
 c
-c
-a
 a
-1014349	a
-1014351	a
-1014354	c
 a
-1014358	a
-1014368	a
-1014370	a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
+NA
+NA
 a
-1014377	c
-1014380	a
-1014382	a
-1014384	c
+NA
+NA
 a
-1014387	a
-1014390	a
-1014393	c
 a
-1014396	a
-1014399	a
-c
-1014404	a
-1014406	a
-1014409	a
-c
-c
+NA
+NA
+NA
 a
-c
-1014415	det.
-1014417	a
+NA
 a
-1014421	c
-1014423	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-a
-1014428	a
-1014434	a
-1014447	a
-1014450	c
-1014452	a
-1014454	a
-1014456	a
-1014461	a
-1014464	a
-a
-1014468	a
-1014473	c
 a
-1014476	a
-1014479	a
-1014481	a
-1014484	c
+NA
 a
-1014487	c
+NA
 a
-a
-a
-1014492	c
-a
-1014497	a
+NA
 c
-1014500	c
 a
-1014503	c
-1014507	c
-1014511	c
-1014515	c
+NA
 a
-1014518	c
+NA
 a
-1014521	c
 a
-1014524	c
-det.
-1014528	c
-1014530	a
-det.
-1014534	c
+NA
+NA
 a
-1014539	c
+NA
+NA
+NA
+c
+NA
+c
 a
-1014542	c
-1014545	c
-1014549	c
-1014555	c
-1014557	c
-1014562	c
-1014568	c
-1014572	a
+NA
+NA
 c
-1014575	a
-1014578	a
-1014580	a
-1014583	a
-1014585	a
-1014587	a
-1014590	a
-1014592	a
-1014595	a
-1014597	a
-1014600	a
-1014603	a
-1014605	a
-1014609	a
-1014612	a
-1014619	a
-1014622	c
+NA
 c
+NA
+NA
 c
+NA
 c
-1014627	det.
-1014629	c
-a
-1014632	c
+NA
 c
+NA
+NA
+c
+c
+NA
 a
-1014638	c
 a
-1014642	c
-1014645	c
-1014647	a
-1014651	c
+NA
 c
-1014654	c
 c
-1014659	c
-1014662	c
-1014664	c
-1014666	c
-1014668	a
-1014671	a
+NA
 c
-1014678	c
-1014682	c
-1014685	c
+NA
 c
-1014688	c
-1014690	c
-1014693	c
-c
-a
-1014698	c
 a
-a
+NA
+c
+NA
+NA
+c
+c
+NA
 c
+NA
 c
 a
+NA
+a
+c
+NA
+NA
 c
 a
+NA
 a
-1014709	a
+NA
+NA
+NA
 a
+NA
+NA
 a
+NA
 c
-1014716	a
-1014718	a
+NA
 a
+NA
 a
-a
+NA
+NA
+c
+NA
 a
-1014724	a
-1014728	a
+NA
 a
+NA
 a
+NA
 a
 c
-a
-1014735	a
+NA
+NA
+c
 a
+NA
 c
 a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
 a
 a
+NA
 c
 a
-1014744	a
+NA
 a
-1014747	c
+NA
 a
+NA
+NA
+NA
 a
 a
-1014752	a
-1014754	a
+NA
 a
-1014758	a
+NA
 a
-1014761	a
-1014764	a
-1014766	a
-1014768	c
+NA
+NA
+NA
+NA
 a
-1014772	a
-1014775	c
-c
-a
-1014783	a
-c
+NA
 a
-1014787	c
-1014789	c
 a
-1014793	a
+NA
+NA
 c
-a
 a
-1014798	a
-1014800	c
-a
-a
+NA
+NA
 c
 a
-1014807	a
-1014809	a
-1014813	a
+NA
+NA
 a
-1014816	a
-1014820	c
+NA
+c
+c
+NA
+NA
+NA
 a
-det.
-1014824	a
-1014826	a
 a
 c
-1014830	a
-det.
-1014833	c
-1014835	c
-1014838	c
+NA
+c
+a
+NA
 a
-1014844	a
+NA
+NA
 a
+NA
+NA
+NA
 a
-1014848	a
 a
-1014851	c
 a
-1014854	a
+NA
 c
+NA
 a
 a
-1014860	a
+NA
 c
+NA
 c
 a
-1014866	a
+NA
 a
+NA
+NA
+c
 a
-1014870	a
+NA
 a
-1014873	det.
+NA
+NA
+NA
 a
-1014876	a
-1014878	a
-1014884	c
+NA
 c
-a
+NA
+NA
+NA
 a
-1014889	a
-1014893	a
-a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-1014897	a
-1014899	c
+c
+NA
+NA
+NA
+det.
+c
+NA
+c
+c
+NA
+NA
 a
-1014902	a
-1014906	a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
 a
-1014909	a
+NA
+c
+NA
+NA
 a
-1014912	a
+NA
+NA
+NA
 a
+c
+NA
+NA
+NA
+c
 a
+NA
+NA
 a
+NA
+c
+c
+NA
 a
+c
+NA
+NA
+c
 a
+NA
 a
-1014920	c
+NA
+NA
+c
+NA
+NA
 a
-1014923	a
-1014926	a
-1014928	a
-1014934	c
+NA
+NA
+NA
 c
-1014937	a
-1014940	a
-1014942	a
-1014944	c
 a
-1014947	a
+NA
 c
 a
-1014951	a
-1014954	a
+NA
+c
+c
 a
-1014957	a
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
 a
+NA
+NA
 a
 a
-1014964	a
+NA
+NA
 a
-1014968	a
-1014970	c
-1014974	a
-1014976	c
-1014978	c
-1014981	a
-1014985	a
 c
-1014990	c
+c
+NA
 a
+NA
+NA
 c
-1014994	c
 c
-1014997	c
 c
-1015001	a
-1015003	c
-1015006	a
-1015008	c
-1015010	a
-1015014	a
-1015019	a
-1015022	a
-1015024	a
-a
-1015028	a
-1015030	a
-1015032	c
-a
 c
+NA
 a
-1015037	c
+NA
 c
-a
-1015041	c
 a
-1015046	a
-1015050	a
-1015052	c
-1015054	c
+NA
 c
+NA
+NA
 a
-1015058	c
-c
-1015061	c
+NA
+NA
 a
 a
-1015067	a
-1015069	c
-1015071	c
 a
-c
-1015075	c
-1015077	c
-1015083	a
-c
-1015087	c
-1015092	c
 a
-1015099	a
-1015103	c
-c
-1015108	a
-1015110	c
+NA
 a
-1015113	c
-1015115	a
-1015118	a
+NA
+det.
+NA
+a
+NA
 a
-1015121	a
+NA
+NA
 a
-1015124	a
-1015127	c
-1015131	a
 c
-1015135	a
+a
+NA
+a
+NA
 c
-1015138	c
 c
+NA
 a
+NA
+NA
+c
+NA
+c
 a
-1015144	c
+c
+NA
 a
+NA
 a
+NA
+c
+NA
+c
 a
+NA
+NA
 a
+c
+NA
+NA
+NA
 c
+NA
+c
+NA
 a
+NA
+NA
+NA
 a
+NA
 a
+NA
+NA
 a
-1015155	c
+NA
 a
+NA
+NA
 a
-1015159	a
-1015161	a
-1015163	a
-1015165	c
-1015167	a
-1015169	a
-1015171	a
-1015173	a
-1015175	a
+NA
 a
-1015181	c
+NA
 c
-a
-a
-a
-a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
-1015189	a
-1015191	a
+NA
 a
-1015195	c
+NA
 c
-a
-1015200	c
+NA
 c
-a
+c
+NA
+NA
+NA
+c
 a
-1015206	a
-1015208	c
-1015211	c
+NA
+NA
 c
-1015214	c
-1015217	a
-1015219	c
+NA
 a
+NA
+NA
 c
+NA
 c
-1015224	c
+NA
+NA
+NA
+NA
 c
-a
+NA
+NA
+NA
 c
-a
-1015230	c
+NA
+NA
 c
-1015234	a
-1015236	c
-1015238	a
-1015242	c
-1015244	c
-1015246	c
-1015250	a
-1015256	a
-1015259	det.
-1015261	a
-a
-1015264	c
-a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-1015272	a
-a
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-1015278	c
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
-1015286	c
+NA
+NA
+NA
+NA
 a
-1015295	a
-1015300	a
 a
-1015304	c
+NA
+NA
+NA
+c
 a
-1015307	a
-1015310	a
+NA
+c
+NA
 a
-1015315	a
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
 a
-1015318	det.
-1015321	det.
-det.
-1015325	a
+NA
 a
-1015331	det.
-1015333	a
-1015337	c
-1015341	a
-1015347	a
-1015350	a
-1015352	a
-1015356	a
-1015358	a
-1015360	a
-1015362	c
-1015366	a
-1015369	a
+NA
+NA
 a
-1015372	a
+NA
+c
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+NA
 a
-1015376	a
+NA
+NA
+NA
+c
+NA
+NA
 a
-1015382	a
-1015386	a
-1015388	a
-1015390	a
-1015392	c
+NA
+NA
 c
+NA
+NA
+NA
+c
+NA
 a
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1015397	a
+NA
+NA
+NA
 c
-1015402	a
+NA
+NA
+NA
+c
+NA
+NA
 a
-1015405	c
-1015407	c
-1015409	c
-1015411	a
-1015413	a
-1015416	a
+c
+c
+c
 a
+NA
 a
-1015420	c
-1015423	c
-1015425	a
-1015427	c
+NA
+c
+NA
+NA
+NA
+c
+NA
 a
-1015431	c
-1015434	c
+NA
+c
+c
+NA
 c
-1015437	a
-1015442	a
-1015445	a
-1015447	a
-1015449	a
-1015452	c
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1015456	c
+NA
+NA
+c
+NA
+c
+NA
+c
 a
-1015459	a
-1015463	c
 a
-1015467	a
+NA
 c
-1015470	a
-1015472	c
 c
 c
-a
-1015477	c
-1015481	a
-1015483	a
-1015495	a
-1015498	a
+NA
+NA
 c
-1015501	c
 a
+NA
+c
+NA
+c
 a
+NA
+NA
+c
+NA
 c
-1015506	c
-1015509	a
-1015511	a
-1015514	a
-1015516	a
-1015518	c
-1015522	a
-1015524	a
-1015526	c
+NA
 a
-1015529	c
+NA
 a
-1015532	c
+NA
+NA
+NA
 c
-1015536	c
-a
-1015540	c
 c
-1015543	det.
-1015545	a
-1015549	a
-1015551	c
-1015553	c
-1015560	c
-1015563	c
-1015565	a
-1015568	c
-1015571	c
-1015574	a
-1015577	c
-1015579	a
-1015581	a
-1015583	a
-1015585	c
-a
-1015590	c
+NA
+NA
+c
+c
 a
+NA
+c
 a
-1015596	a
+NA
+c
+c
+NA
+c
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 a
+NA
 a
-1015600	c
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-1015603	a
-1015607	a
+c
+NA
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+NA
+c
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
 a
-1015610	c
-1015613	a
-1015619	c
-1015621	a
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
 c
-1015624	a
-1015627	det.
-1015634	a
-1015640	c
-a
-1015643	c
-1015647	c
 c
-1015650	c
-a
-1015653	c
+NA
 c
-a
-1015657	a
-1015659	c
-1015661	a
-1015665	a
-a
-1015668	a
-1015670	c
-a
-1015673	a
-1015677	c
-1015680	a
-a
-1015683	c
-1015685	c
-1015690	a
-1015692	c
-1015694	c
+c
+NA
+NA
+c
+c
 a
+NA
+c
 a
-1015699	c
-1015702	a
-1015704	a
+NA
 c
-1015709	c
+NA
+NA
 a
-1015713	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
+NA
+c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-1015718	a
-1015721	a
+NA
 a
+NA
+NA
+c
 c
 a
-1015726	c
+NA
+NA
+NA
+NA
+NA
 a
-1015729	c
-1015732	c
+NA
+NA
+c
+c
+NA
 a
 a
-1015736	c
-1015739	c
-1015743	c
 c
+NA
+NA
 c
+NA
+a
+NA
+NA
 c
 c
-1015751	a
-1015753	c
+NA
 a
+NA
 c
-a
+NA
+NA
 c
-1015760	a
-1015762	c
 c
+NA
+NA
 a
-1015766	a
-1015769	a
-1015774	a
-1015776	c
-1015778	a
-1015780	a
-1015786	a
-1015790	c
+NA
+NA
+NA
 a
-1015794	a
-1015796	det.
-1015798	c
-1015800	a
-1015803	c
 a
+NA
 a
-1015807	a
-1015809	det.
-1015811	c
-1015814	c
-1015816	a
-1015818	det.
-1015822	a
 a
-1015826	c
 a
-1015832	a
+NA
+NA
+NA
 a
-1015839	a
-1015841	c
-1015843	a
-1015845	a
-1015849	a
-1015853	a
 c
-a
-1015857	a
-1015859	a
+NA
+NA
+NA
+NA
 c
 c
-a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1015865	a
-1015867	a
-1015869	a
+NA
 a
-1015872	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-a
-1015877	a
-1015879	a
-1015883	a
-1015885	a
-1015889	a
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
+c
 a
-1015894	a
-1015896	a
+NA
 a
+NA
+c
 a
-1015900	a
-1015904	det.
-1015906	c
+NA
 a
+NA
+c
 a
-1015910	a
-1015912	c
+NA
+NA
+NA
+NA
+NA
 a
-1015915	c
-1015917	c
+NA
+NA
+NA
+NA
+NA
 c
-1015921	c
-1015924	a
-1015926	a
-1015929	a
-1015935	c
-1015937	a
-1015939	c
-1015944	c
-1015947	c
-1015951	a
-1015957	a
-1015959	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
 c
+NA
+NA
+c
+NA
 a
-1015964	c
+NA
+NA
+NA
+c
+c
+c
+det.
+NA
 a
+NA
+c
+NA
+c
+c
+NA
+NA
+NA
 a
-1015968	c
-1015973	c
 a
+NA
+c
+NA
+NA
 a
-1015977	a
-1015979	det.
-1015981	c
-1015985	a
-1015987	a
-1015989	c
+NA
+NA
+c
+NA
+c
+NA
 a
-1015995	a
+NA
+NA
+c
 det.
-a
-a
-1016001	a
-1016003	a
-a
-1016006	c
-a
-1016009	c
+NA
 c
-1016012	c
+det.
+NA
+NA
+NA
+NA
 c
-1016015	c
 c
-1016018	c
+NA
+NA
+NA
 c
-a
-a
-a
-a
-1016025	c
-a
-1016028	a
-1016031	c
-a
-a
-1016036	a
 a
-1016040	a
-1016042	a
+NA
 a
-1016045	a
-1016048	a
+det.
+NA
 c
-1016051	a
-1016053	a
-a
-1016056	a
+NA
 c
-a
-1016060	a
 c
-1016063	c
+NA
+NA
 c
-a
-1016068	a
-a
-1016071	a
-1016073	c
-a
-1016076	c
-1016078	a
-1016082	a
-1016085	a
 c
 c
+NA
 c
-1016090	a
-1016093	c
-1016095	c
-1016098	a
-1016100	a
-a
-1016103	a
-a
-1016106	a
+NA
 a
-1016109	a
-1016111	a
-1016113	a
-1016116	a
-1016118	a
-1016121	c
-1016124	c
-1016126	a
 a
-1016129	a
-1016131	a
-1016134	c
-1016136	a
-1016138	a
-1016142	a
-a
-a
-1016146	a
-1016148	a
-1016150	c
-a
-1016154	a
-a
-1016157	c
-a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1016161	a
-1016164	a
-1016167	c
+NA
 c
-a
-1016174	a
-1016176	c
+NA
+NA
 c
-1016179	a
-1016183	a
+NA
 c
-a
-a
-a
-1016189	c
-a
+NA
 c
-a
-a
-1016197	a
+NA
+NA
 c
-a
-a
-a
-1016203	c
-a
-1016206	a
-1016208	c
-a
-1016211	c
+NA
+NA
+NA
 c
-a
-1016216	c
-1016219	a
-1016221	a
-1016225	a
-1016227	a
-1016229	c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
 a
-1016232	a
-1016236	c
+NA
+NA
+c
+c
+NA
+c
 a
+NA
+NA
+NA
 a
 c
 a
+NA
+c
 a
+NA
+c
 a
-1016244	a
-1016246	a
-1016249	c
 a
+NA
 a
+NA
+NA
+NA
+NA
 a
-1016254	a
-1016256	a
-1016259	c
 a
+NA
 a
 a
-1016264	a
-1016266	a
-1016269	c
+NA
 c
 a
+NA
+c
 a
-1016274	a
-1016276	a
-1016279	c
+NA
+NA
+NA
+NA
+c
+c
 a
+NA
+NA
 a
-1016283	a
-1016285	a
-1016288	c
+NA
+NA
 c
 a
+NA
 a
-1016294	a
-a
+NA
+NA
+c
+c
+NA
 a
+NA
+NA
+c
+c
+NA
 a
-1016300	c
+NA
+c
+NA
+NA
+NA
+c
 a
+NA
 a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+c
+c
+NA
 a
+NA
 a
-1016306	a
+NA
+NA
 c
-c
 a
+NA
+NA
 a
 c
-1016313	a
-1016316	det.
-1016319	c
+NA
 c
-a
+NA
 c
-1016324	c
+NA
+c
+NA
+NA
+NA
 a
+NA
 c
-1016328	c
 a
-1016331	c
-1016333	c
+NA
 c
-1016336	a
 a
-1016341	a
-1016344	c
+NA
 c
+NA
 a
-1016349	c
+NA
 a
 a
-1016355	c
-1016357	a
-c
 a
-1016361	c
+NA
+NA
+NA
 a
+NA
 c
 a
+NA
+NA
 c
-1016368	c
+NA
 a
-1016372	a
-a
-1016375	a
+NA
 c
-a
-1016380	c
+NA
 a
-1016383	c
-1016385	c
+NA
+c
+NA
 a
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
 c
-1016393	a
+NA
 c
-1016396	c
 a
+NA
 a
+NA
 c
 c
-1016402	c
-a
-a
-a
-1016408	c
-a
-1016411	a
-1016414	c
-1016417	a
+NA
+NA
+NA
 c
+NA
+NA
 c
 a
-1016423	a
 a
-a
-1016428	a
-a
-1016431	det.
-1016434	a
-a
-1016437	c
-a
-a
-1016441	a
-1016443	a
-1016445	a
-1016447	a
-1016449	c
-a
-1016454	a
-1016456	a
+NA
 c
-1016459	c
-a
-1016463	c
-a
+NA
+NA
+NA
+c
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
+c
 a
-1016470	a
-1016472	a
-1016475	c
-1016477	a
+NA
 a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 c
-1016483	a
+NA
+NA
+NA
+c
 a
+NA
+NA
+c
 a
+NA
+c
+c
+NA
+c
 a
-1016489	a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+c
+det.
 a
-1016492	a
+NA
+c
+NA
+NA
+c
+NA
+c
 c
 a
-1016496	c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
+c
 a
+NA
+NA
+c
+c
 a
+NA
+NA
+c
+c
 a
-1016502	a
-1016504	a
+NA
 c
 a
-1016508	c
+NA
 a
-1016513	c
+NA
 c
-1016517	a
-1016519	a
-1016521	a
 c
 c
-a
-1016526	a
-1016531	c
-a
-1016534	a
-a
 a
-1016538	a
+NA
+NA
 c
+c
 a
-1016542	a
+NA
+c
+NA
+c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+c
+NA
 a
-1016545	a
+NA
 a
+NA
 c
+NA
+NA
 c
-a
+c
 a
-1016552	c
+NA
+c
 a
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
 a
-1016557	a
+NA
 c
+NA
+c
+NA
 a
-1016561	c
+c
 a
+NA
 c
 a
 c
+NA
+NA
 a
 a
-1016569	a
-1016571	c
+NA
+c
+NA
+NA
+c
+NA
 a
-1016575	a
-1016580	c
+NA
+c
+NA
+c
 a
-1016584	c
-1016586	a
-1016591	c
+NA
+c
+NA
+c
+c
+c
 a
-1016597	a
 a
-1016600	a
-1016602	a
-1016605	c
-1016607	c
+NA
+NA
 a
-1016610	a
-1016612	a
-1016614	a
-1016616	a
-1016618	a
-1016620	c
 a
+NA
+c
 a
-1016624	c
-1016626	c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
 a
-1016630	c
-1016633	a
-1016635	a
-1016638	c
+NA
+NA
 c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+det.
+NA
+NA
 c
+NA
+NA
 a
 c
+NA
+NA
+NA
+NA
 a
+NA
 c
 a
-1016648	c
+NA
+NA
+NA
 a
+NA
 c
-1016652	a
+NA
 c
 c
 a
+NA
 c
 a
-1016660	c
+NA
 c
 a
+NA
+c
 a
-1016665	a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
+c
 a
-1016668	a
-1016670	c
-1016672	a
+NA
+c
 a
-1016675	a
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
+NA
 c
-1016680	a
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
-1016684	a
-1016686	c
-c
 a
+NA
 c
-a
-1016692	a
-1016696	c
-1016698	c
-a
-a
-1016702	c
-1016705	c
 c
 a
+NA
+NA
 c
-1016711	a
-1016713	a
-1016715	a
-1016717	a
 a
-1016720	a
-1016727	a
-1016729	a
-1016731	a
-1016733	a
-1016735	a
-1016739	a
-1016743	a
-1016745	a
-1016747	a
-1016750	c
-1016753	a
+NA
+c
 a
-1016756	a
 a
-1016759	a
-1016761	a
-1016763	a
-1016765	c
+NA
+c
 a
-1016768	c
+NA
+NA
 c
+NA
+NA
+NA
 c
-1016774	c
 c
+NA
+NA
+NA
 c
 c
 c
-1016780	a
-1016782	c
-a
-1016785	a
+NA
 c
-1016788	a
-1016790	c
-a
-a
-1016794	c
 c
+NA
 c
-a
-1016799	c
+NA
 c
-1016803	a
-1016805	c
 a
-1016809	c
-a
-1016813	c
-a
-1016817	a
+NA
+NA
 c
 c
-a
-a
-1016824	a
-1016826	a
-1016828	c
+NA
 a
-1016831	c
+NA
 c
 a
-1016842	a
-1016844	a
-1016846	a
-1016849	c
+NA
+NA
 a
-1016852	a
-1016855	c
+NA
 a
-1016858	a
-1016860	a
-1016863	c
+NA
 a
-1016866	a
-a
-1016870	a
-a
-1016873	a
-1016876	c
-a
-1016879	a
-1016882	c
-a
-1016885	a
-1016887	a
-a
-a
-a
-1016892	a
+NA
+NA
 c
-a
-1016896	a
-a
-1016900	c
+NA
+NA
 c
-1016903	a
-1016905	a
 a
+NA
 c
-a
-1016910	c
-a
-a
-1016914	a
-1016916	a
 a
 a
-1016920	c
-a
+NA
+c
+NA
+NA
+c
+c
 a
-1016925	c
-1016927	c
-1016930	a
-1016932	a
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+c
+NA
+NA
+c
 det.
-1016935	a
+NA
+det.
+NA
 c
-a
-1016940	a
-1016942	a
-1016944	c
 c
-1016948	a
-1016952	a
-1016954	a
-1016957	a
-1016962	a
-1016964	a
-1016966	a
-a
-1016969	c
+NA
 c
-a
 c
+NA
 c
-1016977	a
-1016979	a
-a
-1016982	a
 c
-a
-a
-1016987	a
-1016989	c
-1016994	c
-1016996	c
-1016998	c
-1017000	c
-1017005	c
-1017007	c
+NA
 c
-1017013	c
 c
-1017017	c
-a
-1017020	c
+NA
 c
 c
+NA
 c
-1017027	c
-1017032	c
+NA
+NA
+NA
 c
-1017036	a
+NA
 c
-a
-a
-a
+NA
+NA
 c
-1017043	a
-1017045	a
-1017049	c
-a
-1017052	a
-a
-1017057	c
-a
-1017061	c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
-1017064	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
 a
-1017069	c
+NA
 a
+NA
 c
-1017075	a
-1017077	a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+NA
+c
 a
-1017083	c
+NA
 a
-1017087	a
-1017089	c
+NA
 a
-1017093	a
-1017097	a
-1017100	a
-1017103	a
+NA
 c
 a
+NA
 a
+NA
+NA
 c
-a
-1017110	c
+NA
+c
+c
+NA
 a
-1017113	a
 a
-1017116	a
+NA
 a
+NA
 c
-a
-1017121	c
-a
-1017124	a
+NA
+c
 a
+NA
 a
-1017128	a
-1017131	c
+NA
 a
-1017134	a
-1017139	c
+NA
+c
 a
+NA
 c
-1017144	c
+NA
 c
+a
+NA
+c
+NA
 c
+a
+a
+NA
 c
-1017149	c
 a
-1017153	a
-1017156	c
-1017159	c
+NA
 c
-1017163	c
 a
-1017166	c
+NA
 c
-1017170	a
 c
-1017173	c
-1017175	c
+a
+NA
 c
+a
+NA
 c
+NA
 c
-1017180	c
 a
-1017183	a
-1017187	c
+NA
+NA
 c
 c
-1017191	a
+NA
+NA
 c
-a
-1017195	a
+NA
 c
 a
-1017199	a
-1017203	c
+NA
+c
 a
-1017208	c
+NA
+c
 a
-1017212	c
 a
+NA
 c
 c
-1017217	a
-a
-a
-1017221	a
-1017229	a
-1017231	c
-a
 a
-1017235	det.
-a
-1017238	a
-1017240	c
-1017242	c
-a
-det.
-1017246	a
-1017248	c
-1017251	a
-1017253	a
-1017260	c
-a
 c
-a
-a
-1017266	a
-1017268	c
-a
-a
 a
-a
-a
-a
-1017276	c
+NA
+c
 a
-1017280	a
+NA
 c
+NA
 c
-1017286	c
-1017290	a
-1017292	c
+NA
 c
-1017296	a
-a
-a
-a
-a
 c
-a
-1017304	a
+NA
 c
-a
-1017308	a
-1017311	c
-1017313	a
-a
-a
-1017317	c
-1017321	c
-1017323	c
-1017325	c
-1017327	a
 a
-1017333	a
-1017335	c
-a
-a
+NA
 c
 a
-1017341	c
-a
+NA
+c
 a
+NA
 a
+NA
+NA
+NA
 a
-1017347	a
-1017349	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1017352	a
-1017355	c
-1017357	a
-1017360	a
-1017362	c
+NA
+c
+det.
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
+c
+NA
+det.
+c
+NA
+NA
+NA
 a
-1017367	a
-1017369	c
+NA
+NA
 c
 c
+NA
 c
-a
+c
+NA
+c
+c
+NA
+c
 a
 a
-1017377	c
-1017379	c
-1017381	a
-1017383	c
-1017385	c
+NA
+c
 a
-1017388	c
+NA
+c
+c
+NA
+c
 a
-1017391	c
-1017394	c
+NA
+c
 a
-1017397	a
+NA
+NA
 a
-1017400	c
+c
 a
-1017403	c
+NA
+NA
 a
-1017406	a
-1017412	c
-1017415	a
-1017418	c
-1017420	a
-1017424	a
 a
-1017427	a
-1017431	c
-1017434	c
+NA
 a
 a
-1017440	a
-1017443	c
-1017445	c
-1017447	a
-1017450	a
-1017453	a
 c
-1017456	a
+NA
+NA
+NA
+NA
 c
-1017459	a
-1017462	a
-1017466	c
-1017468	a
-1017471	a
-1017473	a
-1017475	c
+NA
+NA
 c
 c
-1017479	c
-a
-a
-a
-1017484	a
 c
 c
-1017488	c
-1017491	c
-1017493	a
+NA
+NA
 c
-1017496	a
-a
-a
-1017500	a
-1017502	c
-1017505	a
-1017507	c
-1017509	a
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-1017515	a
-1017517	a
-1017521	a
-1017523	a
-1017530	a
-a
-1017533	c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
 a
-1017538	c
+NA
 c
 a
-1017544	a
-1017546	a
+c
 a
+NA
+c
+NA
+c
 a
+NA
 c
 a
-1017552	a
-1017555	c
+NA
+c
 a
-1017558	a
-1017560	c
 c
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
-1017567	a
-1017570	c
+NA
+NA
+NA
+NA
 c
-a
+NA
+NA
+NA
+NA
+c
 a
-1017575	a
+NA
 a
+NA
+c
 a
+NA
 c
-1017586	a
 a
+NA
 c
 a
+NA
+a
+NA
+NA
+NA
 c
-det.
-1017593	c
-1017595	c
 c
-1017599	a
 c
+NA
+NA
 c
+NA
 c
 c
-a
-1017606	c
-a
+NA
+NA
+NA
 c
-1017611	a
-1017614	c
-1017616	a
-1017619	a
-1017625	c
 a
-a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-det.
-1017631	a
-1017636	a
 a
-1017639	c
+NA
 c
-1017642	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1017646	c
+NA
+NA
 c
-1017649	a
-1017651	a
-1017654	a
-a
+c
+NA
 a
-1017658	a
-1017665	c
-1017667	a
-1017674	a
-1017679	a
-1017682	a
-1017685	c
-1017687	det.
-1017689	c
+c
 a
-1017693	c
+NA
+NA
+NA
 a
+NA
+NA
 c
-1017697	c
-1017699	c
-a
-1017703	a
-1017707	c
-1017711	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-1017714	c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
 a
-1017717	c
-1017719	c
+NA
+NA
+NA
+NA
 a
-1017722	c
-det.
-1017725	c
-1017727	c
+NA
+c
 a
-1017730	c
 c
-1017733	c
 a
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1017738	c
-1017740	a
-1017743	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-a
-1017748	c
-1017750	a
-1017752	c
+NA
+NA
 c
+a
+NA
 a
-1017756	a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-1017760	a
+NA
+NA
 c
+NA
 c
-a
-1017765	c
+NA
+NA
+c
 a
-1017768	a
-1017770	c
+NA
 c
-1017774	c
-1017777	c
+NA
 c
-1017782	c
-a
-1017786	a
-1017788	c
-1017790	c
-1017792	c
-1017794	c
-1017796	a
-1017798	c
-1017801	a
-1017805	c
-1017808	c
-1017813	c
-1017815	c
-1017819	c
+NA
 a
-1017822	c
-1017825	c
-1017827	c
-1017829	c
-1017831	a
-1017833	c
-1017835	c
-1017837	c
-1017839	a
-1017841	c
-1017843	a
-1017846	a
-1017852	c
 a
-1017855	a
-1017857	a
-a
-a
-1017861	a
-1017863	c
+NA
+c
 a
-1017866	a
-1017868	c
-1017870	a
-1017873	c
-1017875	a
-1017877	c
 a
-1017883	c
+NA
 c
-a
-1017888	c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
 c
-a
-1017894	c
 a
+NA
+c
 a
+NA
+NA
+c
+NA
+NA
 c
-1017899	c
 a
-1017904	a
+NA
 c
-1017907	c
-1017910	a
-1017913	a
-1017915	a
-1017919	a
-1017923	c
-1017925	c
+det.
+NA
+NA
+NA
+NA
 a
-1017928	c
-1017930	a
-1017933	a
-1017936	a
-1017939	c
+NA
+c
 a
-1017947	a
-1017949	c
-1017951	c
+NA
 c
+a
+NA
+NA
 c
+NA
 c
-1017958	a
-1017961	c
 a
-1017966	a
-1017970	c
-1017974	a
-1017977	c
+NA
 c
 a
+NA
 a
-1017984	a
+NA
+NA
 a
+NA
+NA
 a
-1017988	c
+NA
 c
-a
-1017994	a
-1017997	a
-1017999	a
-1018001	c
-1018003	a
 a
-1018008	det.
-1018011	a
+NA
+NA
 a
-1018016	c
-a
-1018019	c
-1018022	c
-1018026	c
-1018029	c
-1018033	a
-1018037	c
-a
+NA
+NA
+c
+det.
+NA
 c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-1018042	a
-1018044	c
-1018046	a
+NA
+NA
+NA
+NA
 c
-1018049	c
-1018051	c
-1018057	a
-1018060	a
-1018064	c
 a
-1018069	c
 a
-1018074	a
-1018078	c
-1018083	a
+NA
+NA
+NA
+c
+c
+NA
 a
+NA
+c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
 a
-1018088	a
+NA
+c
+NA
 a
+NA
+c
 a
-1018093	c
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
 a
-1018099	a
-1018101	a
+NA
 a
+NA
+c
+c
+NA
+NA
 a
-1018105	a
-1018108	a
-1018110	a
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
-1018114	c
+NA
+c
+NA
+c
 a
-1018117	c
-1018119	c
-1018121	det.
 c
-1018124	a
-1018126	c
+NA
 c
 c
-a
-a
 a
-1018133	a
+NA
 c
-a
+NA
+NA
 c
-a
-a
-1018140	a
-1018142	c
-a
 c
+c
+NA
 a
+c
+NA
+NA
+c
+NA
+c
+NA
 c
 a
-1018149	det.
+NA
+NA
 c
+c
+NA
+c
 a
-1018153	c
+NA
+c
+c
+NA
+NA
 c
+NA
+c
 a
+c
 a
-1018158	a
-1018160	a
+NA
 a
-1018163	c
+NA
 c
-1018166	c
 a
+NA
 a
-1018170	a
-1018172	a
-a
+NA
 c
-a
-1018177	c
 a
+NA
+NA
 a
+NA
+c
 a
-1018182	a
+NA
+NA
+c
 a
-1018187	c
-1018189	a
-1018192	c
-1018194	c
+NA
 c
+NA
+NA
+c
 a
-1018199	c
+NA
+c
+NA
+c
 a
+NA
+c
+NA
+c
 a
 a
-1018205	a
-1018207	c
-1018211	c
-det.
-1018216	c
+NA
+NA
+NA
+c
+c
+NA
 a
-1018220	c
-1018222	c
+NA
+NA
 a
-1018225	c
-1018228	c
-1018232	c
-1018234	c
-1018236	c
-1018241	c
+NA
 a
-1018244	c
+NA
 a
-1018247	a
-1018250	c
+NA
 c
 a
-1018254	a
-1018257	c
-1018264	c
-1018268	a
-1018270	a
-1018274	c
+NA
 a
-1018277	a
-1018279	c
-a
-1018284	a
-1018289	det.
-c
-1018295	c
-1018298	c
+NA
 c
-1018308	c
 c
-1018313	a
-1018317	c
+a
+NA
+NA
+NA
 c
-1018321	c
-1018325	c
+a
+NA
 a
-1018329	a
 c
-1018333	c
-1018335	a
-1018339	c
-1018346	a
+a
+NA
 c
-1018349	a
-1018353	c
-1018356	a
-1018358	c
-1018360	c
 a
-1018365	c
+NA
+NA
+c
+NA
 c
+NA
+NA
+NA
+NA
 c
+det.
+NA
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+det.
 c
+NA
+NA
+NA
 c
-1018373	c
 a
-1018380	a
+NA
+NA
+NA
+a
+NA
+NA
 c
 a
-1018384	c
+NA
+c
 a
+NA
 c
-1018391	c
 a
+NA
 a
-1018395	a
-1018398	c
-1018401	c
-1018404	c
 a
 c
+det.
+a
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1018410	c
+NA
 c
+a
+NA
 c
-1018415	c
+NA
+NA
 c
-1018418	a
-1018423	det.
-det.
-1018426	a
-1018430	c
 a
-1018433	c
-1018436	c
+NA
+NA
 c
-1018439	c
 a
-a
+NA
+NA
+NA
 c
 a
-1018445	c
-1018447	c
-1018450	a
+NA
 c
-1018454	c
-1018456	c
-a
-a
-1018460	c
-1018462	c
+NA
 c
-a
-1018467	c
-1018473	c
-a
-1018476	c
-a
-1018479	a
-1018481	a
-1018483	c
-1018486	c
-1018492	c
-1018494	det.
+c
 a
+NA
+NA
+c
 a
-1018500	a
+NA
 a
-1018503	c
-1018506	a
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+NA
 a
-1018509	c
 a
-1018512	a
-1018514	c
+NA
+NA
+NA
 c
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
-a
-1018520	a
-1018522	c
-1018527	c
 a
-1018531	c
-1018534	a
 a
-1018538	c
-1018541	c
-1018543	c
-a
-1018546	c
+NA
+c
+c
 a
-1018549	a
-1018552	c
 a
 a
-1018557	a
-1018559	det.
-1018562	c
 a
+NA
+det.
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
 a
+NA
+NA
+c
+NA
 a
-1018567	c
-1018569	c
+NA
 a
+NA
 c
+c
 a
-1018574	a
-1018579	a
-1018582	a
-1018584	c
-1018588	c
+NA
+NA
+c
+NA
 a
-1018592	c
-1018594	a
-1018596	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
+a
+a
+NA
+NA
+NA
+NA
 c
-1018602	a
-1018604	c
+NA
 c
-1018608	det.
 a
-1018611	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-1018616	c
-1018621	c
-a
-1018624	c
-1018626	a
-1018628	c
-1018631	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
 c
-det.
-1018639	c
+NA
+NA
+NA
+NA
 c
+NA
 c
-1018644	a
-1018646	a
-1018648	a
-1018650	a
-1018652	a
-1018655	a
-1018657	a
-1018659	a
+NA
 c
-1018662	a
-1018665	c
+NA
+NA
 c
-1018668	a
-a
-1018671	c
-1018673	a
-1018676	c
+NA
 c
-1018679	a
+NA
+det.
+NA
+NA
 a
-1018682	c
-1018685	c
+NA
 a
-1018692	c
+NA
+NA
 c
-a
-1018696	c
+det.
 c
-1018699	c
-1018703	c
-a
-1018707	a
-a
-1018712	c
-a
-1018720	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-1018725	c
-1018729	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
-1018734	c
+NA
+NA
 c
-1018740	det.
 c
-1018745	a
+NA
+NA
+NA
+NA
 c
-1018748	a
-1018750	a
+NA
 c
-1018753	a
-1018755	c
-1018757	c
+NA
 a
-1018761	a
-a
-1018764	a
-1018767	a
-1018771	a
-1018774	a
-1018777	a
-1018779	c
-a
-1018782	c
-1018784	a
-1018787	c
-a
-1018790	c
 c
-1018793	a
-1018798	c
-a
-1018803	a
-a
-1018808	c
-a
-1018811	c
-1018813	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-1018818	c
-1018820	c
-1018825	a
-1018829	det.
-1018831	c
-a
-1018836	a
-1018838	a
-1018842	a
-a
-1018846	det.
-1018848	c
-1018850	c
+NA
 c
-1018853	a
-1018855	a
-a
 a
-1018859	c
+NA
+NA
 c
-a
+NA
+NA
+NA
+NA
 c
-1018864	c
-a
-a
-1018868	a
 c
 a
-1018873	c
-1018875	c
+NA
+NA
+NA
 c
-1018878	c
-a
-1018882	a
-a
-1018887	c
-1018891	a
+NA
+NA
 c
-1018896	c
-a
-1018899	c
-1018905	c
-1018907	c
+c
+c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+c
 a
+NA
 a
-1018912	a
-1018915	a
-1018917	c
+NA
+c
 a
-1018920	a
-1018924	a
+NA
+c
 c
-1018927	a
-1018929	c
-1018933	a
+NA
+c
 a
-1018938	c
-1018942	det.
+NA
+NA
 a
+NA
+c
+NA
+c
 a
-1018948	a
+NA
 c
-1018952	a
+NA
+NA
+NA
+NA
 c
-a
-a
-1018957	a
+det.
+NA
 a
-1018962	det.
+NA
+NA
+NA
+NA
 det.
 det.
-1018970	a
-a
-1018974	a
-1018976	a
-1018980	a
+NA
+NA
 c
-1018985	c
-1018988	a
-1018990	c
-1018994	c
+NA
+NA
+NA
 a
-1018997	c
+NA
+c
+NA
+NA
 a
-1019000	c
-1019004	c
+NA
+c
+NA
+c
 a
 a
-1019009	a
-1019014	c
+NA
+NA
+c
 a
+NA
+NA
 a
-1019018	a
+NA
+NA
 c
-1019027	a
-1019030	c
-a
+NA
+NA
 c
-a
-1019035	c
 a
-1019040	a
 a
-1019043	c
-1019048	a
-1019050	c
-1019052	c
-1019062	a
-1019064	c
-1019066	c
-1019069	c
+NA
+c
+NA
 a
-1019073	c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
 a
-1019077	c
-1019079	a
-1019081	a
-1019083	c
-1019085	a
 a
-1019090	c
 a
-1019094	c
-1019097	c
 a
-1019100	a
-1019102	c
+c
 a
-1019105	a
-1019108	det.
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
-1019111	a
-1019114	a
-1019116	c
+NA
+NA
+NA
+c
 a
-det.
+NA
+NA
 a
-1019121	a
-1019123	a
-1019125	c
-det.
+NA
+NA
 c
-a
-1019130	a
-1019132	c
-1019137	a
-1019140	a
+NA
+NA
 c
-a
-det.
-1019145	a
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
 a
-1019149	c
 a
-det.
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
 a
-1019154	det.
-1019156	c
+NA
+c
+c
 a
-1019159	c
-1019161	c
+NA
 c
 a
-1019165	a
-1019168	c
-1019173	c
+NA
+c
+NA
+c
+NA
+NA
+c
 a
+c
+NA
+det.
+NA
+NA
 a
-1019178	a
+NA
+NA
+NA
+c
+NA
+NA
+NA
 c
 c
+NA
+NA
 c
-1019183	c
-1019187	a
-1019192	c
 c
+NA
+c
 a
-1019197	c
-1019199	c
-1019201	c
-1019203	a
-1019206	c
+NA
+NA
+c
 c
 a
-1019210	a
+NA
+NA
 a
-1019214	det.
-1019220	c
+NA
+NA
 c
-1019223	c
-1019226	c
-det.
-1019232	a
-1019234	a
-1019236	c
-1019238	a
-1019241	a
-1019243	a
-1019246	a
-a
-1019249	c
-1019251	c
-1019253	c
+c
+NA
+NA
+c
+NA
+NA
 a
-1019258	a
+NA
+NA
 a
-1019262	a
 a
-1019265	c
-1019267	a
-1019270	c
-1019272	a
-1019275	a
-1019277	c
-1019280	c
+NA
 c
-1019285	a
-1019289	a
+NA
 a
-1019295	c
-a
-1019300	c
+NA
 c
-1019305	c
-a
-1019311	a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
 a
-1019314	det.
-1019318	c
+c
+NA
 a
-1019321	c
+NA
+c
+NA
+NA
+c
 a
-1019324	a
-1019327	c
-1019330	a
-1019332	c
-1019334	a
-1019336	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
 a
-1019341	c
 a
-det.
+NA
+NA
 c
-a
-1019347	a
-1019351	c
-1019354	a
-1019356	c
-det.
-1019362	c
 c
-1019366	c
-a
-1019373	a
+NA
 c
-1019377	c
-a
-1019380	a
-1019382	a
-1019384	a
-det.
-1019387	a
-1019390	c
+NA
+NA
+c
 a
+NA
+c
+NA
+c
 c
+c
+NA
+NA
+c
+NA
+c
 a
-1019395	c
-1019398	c
-1019400	a
-1019402	c
-1019404	a
 a
+c
+c
+NA
+NA
+NA
 a
-1019409	c
+NA
+c
 a
-1019415	c
-1019417	c
-1019422	a
-1019424	a
-1019426	a
-1019428	c
-1019431	c
-1019434	c
-1019436	c
-1019438	a
-1019440	c
-1019442	c
-1019445	c
+NA
 a
-1019448	a
-1019451	c
+NA
+NA
 a
-1019458	a
-det.
-c
+NA
+NA
+NA
+NA
 c
 a
-1019465	a
-a
-det.
-1019469	c
+c
 a
 c
+NA
 c
-1019482	c
-a
-det.
-1019486	c
+NA
+NA
+c
 a
-1019491	c
-det.
-1019494	c
-1019498	c
-1019501	a
-1019503	a
+NA
+NA
+c
 a
-1019507	det.
-1019512	a
-1019514	a
-1019519	a
-1019522	c
-1019533	c
+NA
+c
+NA
 a
+NA
 c
-1019537	c
 c
-1019540	c
 c
-1019543	c
-1019545	det.
 c
-1019548	c
-1019550	det.
-1019553	c
-1019555	a
+NA
+NA
 c
-1019558	c
-1019560	a
 a
-1019564	c
+NA
 c
-1019567	c
-1019569	a
 c
-a
-1019573	c
-a
-det.
-1019577	c
-1019580	a
-a
-1019583	a
 c
-1019586	a
-1019589	a
-1019591	c
-1019593	a
-1019596	c
-1019598	c
-det.
-1019602	a
+NA
 c
-a
-a
-1019607	c
 a
-1019611	a
-a
+NA
+NA
+c
+NA
+c
 a
-1019615	c
+NA
+NA
 a
-1019619	a
-1019622	c
+NA
+NA
+c
 det.
-1019626	a
-a
-1019629	a
-1019631	a
-1019633	a
-1019635	c
-a
-1019639	a
-1019641	c
-a
-1019644	c
-1019647	c
-a
-1019651	c
-a
-1019654	det.
-1019656	c
-a
-1019660	c
-a
+NA
 det.
-1019664	c
-a
-1019667	a
 a
+NA
+NA
 c
 a
-1019673	c
-a
-1019676	a
-1019678	c
+NA
+NA
 c
+NA
+NA
 a
-1019682	c
+NA
+NA
 c
-a
-1019686	c
-1019688	c
-a
-1019692	c
+c
+NA
 a
-1019695	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1019698	c
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1019701	a
-1019704	a
 a
-1019707	c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+det.
+NA
 a
-1019710	c
 a
-1019717	c
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
 c
+NA
+NA
 c
-1019723	c
-1019725	c
-1019728	c
 c
+NA
 c
 c
 a
-1019734	c
-1019736	c
-a
-1019740	c
 c
-a
-1019745	c
-1019747	det.
-1019749	c
+NA
+NA
+NA
 a
-1019755	a
-a
-1019758	c
-1019760	c
-a
+NA
 c
-a
-1019769	c
-a
-1019772	c
-1019774	c
-a
-1019777	c
+NA
+NA
+NA
+NA
+c
 c
 a
-1019782	det.
+NA
+NA
 c
-1019786	a
-1019788	c
-1019791	c
 c
-det.
-1019795	a
-1019797	c
-a
-1019800	c
-1019802	c
-a
-1019805	c
-1019807	c
-1019812	c
-1019814	c
 c
-a
-1019818	c
-1019821	c
-1019824	c
 a
-1019830	c
 a
 a
-1019837	c
-1019839	det.
-1019841	c
-1019843	det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1019847	a
-1019851	c
-1019854	c
+NA
+NA
 a
-1019859	a
+NA
 c
-1019864	c
-1019868	c
-1019870	c
-1019876	c
-1019878	c
-a
-1019881	c
 a
+NA
+NA
+c
 a
+NA
 c
-1019886	det.
-1019888	a
+NA
 c
-a
-1019892	a
-1019894	a
-a
-det.
-1019898	a
 a
+NA
+c
+NA
+c
+c
+NA
+c
 a
-1019902	c
+NA
+NA
+NA
 a
-1019906	c
-1019908	c
-1019910	c
-1019912	c
-1019916	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1019919	c
-1019922	a
-c
+NA
 a
-1019929	a
-1019931	c
-1019934	c
-1019936	a
-1019938	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1019941	c
+NA
+NA
+NA
 c
-1019944	c
 c
+a
+NA
 c
-1019950	a
 c
-1019953	c
-1019955	a
-1019958	c
-a
-1019961	c
-1019964	c
-a
-1019967	c
+NA
+NA
 c
+NA
+NA
 a
-1019972	c
+a
+NA
+NA
 c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
 c
 c
-1019982	c
+NA
+NA
+NA
+NA
+NA
 c
-1019985	c
+NA
+NA
+NA
 c
+det.
 a
-1019990	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-1019994	c
-a
-1019999	c
-a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1020004	c
+NA
+c
+NA
 c
+c
+c
+NA
 a
-1020012	c
+NA
+NA
 a
-1020015	c
+NA
+c
 a
-1020018	c
 a
-1020021	c
+NA
 c
 a
-1020027	a
 c
-1020030	c
-1020032	a
 a
-1020036	a
-1020039	a
-1020043	a
-1020049	c
-1020052	c
+NA
+NA
+NA
 c
-1020055	a
-det.
-1020058	c
-1020063	c
 a
-1020066	a
-1020070	c
-1020074	c
+NA
+a
+NA
+NA
+NA
+c
 c
-1020079	c
+NA
+NA
 a
-1020082	c
 a
-1020085	a
-1020087	c
-1020092	a
-1020095	c
-1020100	c
-1020103	c
 a
-1020108	c
+NA
+c
 a
-1020118	c
-1020124	a
-1020127	a
 c
-1020132	a
 c
-det.
-1020137	a
+NA
 c
-1020141	c
 a
-1020145	a
 c
-1020149	c
-det.
-1020153	a
 c
-1020157	c
-a
-1020161	a
 c
-1020165	c
+NA
+NA
 c
-a
-1020170	a
 c
-1020174	c
+NA
+NA
+NA
 c
-1020177	c
-1020180	a
 c
-1020184	c
-a
-1020187	c
-a
-1020191	a
 c
-1020195	a
-1020197	c
-a
-1020200	c
-1020203	a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
-1020207	c
+c
+c
 a
-1020211	a
+NA
+NA
+NA
 c
-1020215	c
 a
-1020219	a
+a
+NA
+NA
+NA
+NA
 c
-1020223	c
-1020227	a
+a
+NA
+NA
+NA
+a
+NA
+a
+NA
 c
-1020231	a
-1020233	a
-1020236	a
 c
-1020240	c
+NA
+NA
 c
 a
-1020245	a
 c
-1020249	a
-1020251	c
+NA
 a
-1020254	c
 c
-1020257	c
 a
 c
 c
-1020264	a
-1020272	c
-1020274	c
-1020277	c
-a
-1020282	a
-1020284	c
-1020286	a
-1020288	a
+NA
 c
-1020293	a
-1020295	a
-1020298	c
-1020305	c
-1020308	c
-1020312	c
-1020314	c
-1020317	c
+NA
+NA
 a
-1020322	c
-1020324	c
-1020332	a
-1020335	a
-1020339	c
-1020341	a
-1020343	c
-1020347	a
-1020349	c
-1020352	a
-1020355	a
+NA
+NA
+NA
 a
-1020360	c
-c
-1020364	c
-1020367	c
 a
-1020372	c
+NA
 c
-1020382	c
+NA
+c
+c
 a
+NA
+NA
+NA
 a
-1020386	c
-1020393	a
-1020396	a
-1020398	c
-1020400	c
-1020403	c
-1020405	c
+NA
 a
+NA
 a
-1020409	c
-1020411	a
 c
 a
-1020417	c
-1020419	a
-1020426	a
-1020428	c
-1020430	c
-1020432	a
-1020434	a
-1020438	c
-1020440	c
-1020445	c
-c
-1020449	a
-1020451	a
+NA
+NA
 a
-1020454	c
-1020456	c
-1020460	a
-1020463	c
-1020465	a
-1020467	a
-1020470	c
-1020472	c
-1020476	c
-1020478	c
-1020480	c
-1020482	c
-1020484	c
-1020487	c
-1020491	a
-1020494	a
+NA
 c
 a
-1020501	c
-c
-1020504	c
-1020510	a
-1020512	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
-1020516	a
-det.
-c
-1020520	a
+NA
+a
+NA
+NA
 a
-1020523	c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
 c
-1020526	c
 c
-1020529	a
-1020533	c
-1020536	c
 a
-1020541	c
-1020544	c
+NA
 a
-1020547	a
 a
-1020553	a
-1020558	c
-1020561	a
-1020566	c
 a
 a
-1020570	c
-1020573	c
-c
 a
-1020577	a
+NA
 c
-a
-a
-1020583	c
+NA
+c
 a
+NA
+NA
 a
 a
+NA
+c
+NA
+NA
 a
-1020589	c
-1020591	a
-1020594	c
 a
 a
-1020598	c
-1020602	c
-1020604	c
 a
-1020609	a
-1020611	c
-1020616	a
-1020620	a
-1020622	c
-1020626	c
-1020631	a
-1020633	c
-1020635	a
-1020637	c
-1020640	c
+NA
 a
-1020643	c
-1020653	c
+NA
+NA
 a
+NA
 a
+NA
+NA
+NA
 a
-1020660	c
+NA
 a
-1020663	a
-1020666	a
+NA
+NA
+NA
 c
-1020669	c
 c
-1020673	a
-1020675	a
-1020679	a
-1020681	c
-1020685	c
-1020691	a
-1020693	a
-1020697	c
-1020700	c
 a
-1020705	a
-1020707	c
+NA
+NA
+NA
 a
-1020713	c
+NA
+NA
+c
 a
-1020716	a
-1020718	c
-1020720	a
-1020722	c
-1020724	a
-1020726	a
+c
 a
-1020730	c
+c
 a
-1020733	a
-1020738	c
-1020743	c
-1020745	c
 a
-1020748	c
-1020750	c
+NA
+c
 a
+NA
 a
-c
 a
-1020756	c
+NA
 a
-1020759	a
+NA
 a
-1020762	c
 a
+NA
 a
-1020767	a
-1020769	c
+NA
 a
+NA
+a
+c
 c
 a
+a
+NA
+NA
 c
+NA
+NA
 c
-1020776	a
-1020778	c
 c
+NA
 a
-1020782	a
+c
+NA
+NA
+NA
+NA
 c
 a
-1020787	c
-1020791	c
-1020794	c
+NA
+NA
+NA
 c
 a
+NA
+NA
+c
+c
 a
-1020799	det.
 a
-1020802	a
-1020804	a
-1020806	a
-1020813	c
-1020815	a
 a
 a
 a
-1020821	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1020825	c
+a
+NA
+NA
 c
-1020828	a
 a
+NA
 c
+a
+NA
+NA
+NA
+NA
 a
-1020836	c
+NA
+c
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
+NA
+c
 a
-1020842	a
-1020847	c
+c
 a
-1020855	c
-1020858	c
-1020862	c
-1020864	c
+NA
+c
+c
+NA
+NA
+c
+c
+NA
+c
+c
+NA
+NA
+NA
+NA
+c
+c
+NA
 a
+NA
+NA
 c
 a
+NA
 a
-1020870	c
-1020872	a
+NA
+NA
 a
-1020875	c
+c
+NA
+NA
 a
-1020878	a
-1020881	a
-1020883	c
+NA
 a
-1020887	a
-1020889	a
-1020891	a
-1020893	a
+NA
+NA
+NA
+c
+NA
+NA
+NA
 c
-1020896	a
-1020898	a
-1020901	a
-1020903	a
-1020905	a
-1020908	a
-1020910	c
-1020912	c
-1020915	a
-1020917	c
-1020924	a
+NA
 c
 a
-1020929	c
-1020931	c
+NA
+NA
 a
-1020937	a
-1020940	a
-1020946	a
-1020950	a
+NA
+a
+NA
 c
-1020955	c
-1020959	a
-1020961	c
 a
+NA
 a
+NA
 a
-1020966	a
-1020968	c
+NA
 a
-1020971	a
-1020974	a
-c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1020979	a
+a
+a
+NA
 c
+NA
+NA
+NA
 c
 a
+NA
+c
+NA
 a
-1020986	a
-1020990	a
+c
+NA
 a
-1020999	c
+NA
 a
-1021003	c
-1021007	a
-1021013	a
-1021020	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
 a
-1021028	a
-1021030	a
-1021035	a
 c
 a
-1021040	a
 c
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
 a
-1021044	a
-1021046	a
+NA
 a
-1021049	a
+NA
+NA
+NA
+c
+NA
 a
-1021052	c
-1021054	a
-1021057	a
-1021059	a
-1021061	a
-1021064	a
-1021067	a
-1021070	a
+NA
+NA
+c
+NA
+c
+NA
+NA
 a
-1021074	a
-1021076	a
-1021079	a
-1021081	a
-1021083	a
+NA
+NA
 a
-1021089	c
+NA
+NA
+c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+c
 a
 a
+NA
+NA
+NA
+NA
 a
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-1021099	a
-1021101	c
-1021104	c
 c
-1021107	c
+a
 a
-1021110	c
-1021112	a
-1021114	c
-1021117	c
-1021119	a
-1021121	c
+NA
+NA
+c
 a
+NA
 a
-1021125	c
+NA
+NA
 c
+NA
 c
-1021129	c
-a
-1021132	a
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-1021135	a
-1021137	a
-1021139	c
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
 a
+c
 a
-1021144	a
+NA
 a
+NA
 c
+a
+NA
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
+NA
+NA
+c
 a
-1021151	a
-1021155	a
-1021157	a
-1021159	a
-1021161	a
-1021164	a
-1021166	c
+NA
+NA
+NA
 a
-1021169	a
-1021171	c
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
 c
-1021176	c
 a
+NA
+NA
+c
+NA
+NA
+NA
 c
-1021180	a
-1021182	c
-1021185	c
-1021188	a
-1021190	c
-1021193	a
+NA
+det.
+NA
+NA
+det.
+NA
+NA
+a
+NA
+NA
+NA
 c
-1021196	a
-1021200	a
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
+NA
 a
-1021208	a
+NA
 c
+NA
+NA
+NA
+a
+NA
 c
+NA
+NA
 c
-1021213	a
-1021216	a
-1021220	a
 a
-1021223	a
-1021226	a
-1021230	a
+NA
+c
+NA
 a
+NA
+c
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-1021236	a
-1021241	c
-det.
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+c
+c
+c
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
+NA
+c
 a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+a
 a
-1021248	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1021253	c
 c
-c
-1021260	a
-1021263	c
 a
-1021266	c
-c
 a
 a
-1021272	a
-1021274	a
-1021276	a
-c
+NA
+NA
 a
-1021282	a
+NA
+NA
+c
 c
+NA
+NA
 a
-1021288	c
+NA
+NA
+NA
 c
 a
-1021292	c
+NA
 a
-1021296	c
-1021299	a
+NA
+NA
 c
-c
+a
+NA
 a
-1021304	c
-1021308	c
 c
-1021311	c
+NA
+NA
 a
-1021314	c
+NA
 a
+NA
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1021321	a
+NA
 a
-1021324	a
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
 c
 a
-1021329	a
+NA
+NA
+NA
+NA
+c
 a
-1021334	c
+NA
+NA
 a
-1021343	a
-1021345	a
+NA
+c
 a
-1021349	c
+NA
 c
+c
 a
-1021353	c
+NA
 a
+NA
+c
+NA
 a
-1021360	c
-1021362	a
+NA
 c
+NA
 a
-1021369	a
+NA
+c
+NA
+NA
+c
 a
+NA
 a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-1021375	c
+NA
 c
 a
+NA
 c
-a
-1021382	c
-a
+NA
+c
 a
+NA
+c
 a
-1021388	c
 c
-1021392	a
 c
-1021395	c
-a
-1021398	a
+NA
+NA
+c
 a
-1021402	a
-1021404	c
+NA
+NA
+c
+NA
+NA
+NA
 a
 a
+NA
+NA
 a
-1021409	c
+NA
 a
 a
 a
-1021415	a
 c
-a
-a
-a
-1021421	c
-a
 c
 a
-1021426	c
 a
-c
+NA
 a
-1021431	c
+NA
+NA
+NA
+c
 a
-1021435	c
-1021437	a
-1021439	c
-1021441	c
-1021443	c
+NA
+NA
 a
-c
 a
-1021448	c
 a
-1021452	a
+NA
 a
-1021457	a
-1021459	a
-1021463	a
+NA
 a
-1021466	a
-1021469	c
-1021471	a
-det.
-1021474	a
-1021476	a
+NA
 a
 a
 c
-1021482	a
-det.
-1021485	c
-1021487	a
-1021489	a
-1021491	a
 a
-1021494	c
-1021497	a
-1021499	c
-a
-1021502	a
-1021505	a
+NA
+NA
+NA
 c
 c
+NA
+NA
 c
-a
-a
-1021513	a
-1021517	a
-a
-1021522	a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
 a
+NA
 a
-1021532	a
-1021534	c
 a
-1021538	c
-1021541	a
-1021545	c
+NA
+c
+NA
+c
 a
-1021548	a
-1021552	c
-1021554	a
-1021557	c
-1021560	c
-1021564	c
-1021566	c
+NA
 a
-1021569	c
+NA
+NA
 a
-1021572	c
+NA
+c
 a
-1021577	c
-1021579	a
-1021581	c
-1021583	c
-1021585	a
-1021587	c
 c
 a
-1021594	a
-1021598	a
-1021601	a
-1021605	c
-1021608	a
-1021615	c
-1021619	a
-1021623	c
-1021627	a
-1021629	a
-1021632	c
-1021636	a
-1021639	a
+c
+c
+NA
 a
+NA
+c
 c
 a
-1021646	a
+NA
 a
-1021651	a
+NA
 a
-1021656	a
-1021659	c
+NA
 a
-1021662	a
-1021665	c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-1021668	a
-1021672	a
-1021678	c
 a
-1021683	a
-1021687	c
+NA
+c
 a
+NA
+NA
+NA
+NA
 c
 a
-1021692	c
 a
-1021695	c
 a
-1021701	c
-1021703	c
 a
 a
-1021710	a
-1021713	a
-1021719	a
-1021723	a
-1021726	c
-1021729	a
-1021735	c
-1021737	a
+NA
+NA
+a
 c
+NA
+NA
 c
-1021743	c
-1021746	c
-a
-1021750	a
-a
-1021755	a
-1021759	c
 c
-1021762	c
-a
-1021767	c
-a
-1021770	c
-a
-1021774	a
-1021776	a
-1021780	a
+NA
 a
-1021783	a
-1021786	c
 a
-det.
-1021790	a
-1021792	a
+c
 a
+NA
+NA
+NA
+NA
+c
 a
+NA
 c
-1021798	a
-det.
-1021801	c
-1021803	c
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 a
-1021808	a
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
-a
-1021814	a
-a
-a
-1021818	a
-1021820	det.
-a
-1021823	a
-1021825	a
-1021830	c
+NA
+NA
+NA
+c
+NA
 c
 a
 a
+c
 a
-1021837	a
 a
-1021840	a
-1021844	c
+NA
+c
+NA
 a
-1021847	a
-1021849	a
+NA
+c
 a
+NA
 a
-1021853	a
-1021855	c
+NA
+NA
 a
-1021858	a
-1021861	a
-1021863	a
-1021869	c
+NA
 c
 c
 a
+c
 a
-1021877	a
+c
 a
-1021881	a
-1021883	c
-1021887	a
+NA
+NA
+NA
 c
-1021891	a
+NA
 c
-1021898	a
-1021905	c
+NA
+a
+NA
+NA
+a
+NA
 c
-1021910	a
-1021912	c
+NA
+NA
+NA
 c
 c
-1021918	c
+NA
+NA
 c
-1021922	c
-1021924	a
-1021926	a
-1021928	c
-a
-1021931	a
-1021935	c
-1021938	a
-1021940	c
-1021942	a
 a
-1021945	c
+NA
+NA
+NA
 a
-1021948	a
-1021950	c
-a
+NA
 c
 a
-1021955	c
-c
-1021959	a
-1021962	a
 a
-1021966	c
+NA
 a
+NA
+NA
+NA
 c
-1021970	c
-1021972	c
-1021980	c
+NA
+NA
 c
-1021985	a
-1021987	c
 a
-a
-c
-1021992	a
-a
-1021995	a
-1021998	c
-1022002	a
-c
-1022006	a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-1022010	c
+NA
+det.
+NA
 c
+NA
 a
+NA
+NA
+NA
 a
 a
+NA
 a
-1022017	a
-1022019	a
 a
-1022022	a
-1022024	a
-1022026	a
-1022028	a
-1022030	a
-a
-1022036	c
 c
 a
+NA
+c
 a
-1022041	a
+NA
+NA
 a
-1022045	c
+NA
 c
-1022050	c
+NA
 c
 a
+NA
 a
-1022056	a
-1022058	c
+NA
 a
+NA
 c
-c
-1022063	c
-1022066	a
-1022068	c
-1022071	c
+a
+NA
 c
-1022074	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
-1022080	c
-1022082	c
-1022084	a
 c
-a
 a
-1022089	a
-1022091	c
-a
+NA
 c
-1022095	a
-a
-1022098	c
-1022100	a
-1022103	c
-1022105	c
-a
-1022108	a
-1022110	c
 c
-1022113	c
 a
 c
-1022117	a
-1022119	c
-1022122	a
-1022130	a
-a
 a
-1022136	c
-a
 c
-a
-1022144	a
-1022152	a
-1022155	c
-a
-1022158	a
-det.
-1022162	det.
-det.
-1022166	a
-1022169	a
-a
-1022173	det.
-1022175	a
-1022178	a
-1022180	a
-1022182	a
-1022184	a
-1022187	a
-1022192	c
-1022194	c
-a
-1022197	a
-1022201	a
-a
-1022204	a
-1022206	c
+NA
 c
-1022217	a
 c
 a
-1022222	c
-1022224	a
-1022226	a
-1022230	a
-1022234	a
 c
-1022237	a
-1022242	c
 a
-1022245	a
-1022248	a
+NA
+NA
 c
-1022251	a
-1022254	c
 a
-1022257	a
-1022260	c
-a
-1022263	a
-a
+NA
+NA
+NA
 c
-a
-a
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-1022272	a
-a
-1022276	a
-1022281	c
-1022285	a
-1022287	a
-1022294	c
-a
+NA
+NA
 c
-a
-1022300	a
-1022303	a
+NA
 c
-a
-1022310	c
-det.
-1022315	c
-1022319	c
-1022322	c
-1022324	a
-1022326	c
-1022328	c
-1022330	a
-1022332	c
-a
 a
+NA
+NA
 c
+NA
 c
 a
-a
-1022340	c
-det.
-1022345	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+c
 a
+NA
+NA
 c
-1022352	c
-1022357	c
+NA
+NA
+NA
+NA
 a
-1022364	a
-1022370	c
-1022374	c
+NA
+c
+NA
 c
-1022377	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
 c
 a
-1022382	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
-1022386	a
+NA
+NA
+NA
 a
-1022389	a
-1022394	c
 c
-1022397	c
 a
-1022400	a
-1022411	a
-1022413	c
-1022415	c
-1022417	a
-1022419	c
+NA
+NA
+NA
 c
-c
-1022423	c
-1022425	c
-1022427	c
-c
-1022430	a
-1022434	a
-1022436	c
-1022438	c
-c
-c
+a
+NA
 c
-1022443	c
-det.
-1022446	a
-1022448	a
-1022450	a
-1022452	a
-1022455	a
+a
+NA
+NA
+NA
+NA
+NA
 c
 a
-1022459	c
-1022463	a
-1022467	c
-1022470	c
-1022475	c
+NA
+NA
+NA
 a
-1022478	c
-1022480	a
+NA
+c
 a
-1022485	c
+NA
+NA
+NA
+c
 a
-1022490	a
 a
+NA
 c
-1022498	a
+NA
+NA
+NA
 c
-1022501	a
-1022515	a
-1022517	c
-a
-1022520	a
-1022522	c
-a
-1022525	det.
-1022527	c
+c
 a
-1022530	a
-1022533	a
+NA
+NA
+NA
+NA
 a
-det.
-1022537	a
-1022539	a
-1022541	a
-1022543	a
+NA
+NA
+NA
+c
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
 a
-1022550	a
-1022552	a
-1022554	a
 c
 a
 a
-1022559	a
 a
-1022563	a
-c
 a
+NA
 a
+NA
 a
+NA
+NA
+NA
 a
-1022570	a
-1022572	c
+NA
+NA
 a
-1022576	a
-1022581	c
-c
+NA
+NA
+NA
+NA
+NA
 a
-1022591	a
-1022597	c
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
 a
-1022606	c
+NA
+NA
 a
-1022614	a
-1022619	a
-1022622	c
-1022628	c
-1022631	c
-1022634	a
-1022636	a
-1022638	a
+NA
 a
+NA
 a
-1022644	a
-1022648	a
+NA
 a
-1022652	a
-1022654	c
+NA
 a
+NA
+NA
+NA
+NA
 c
+NA
 a
-1022659	c
-det.
+NA
+c
+NA
+NA
+NA
+NA
+NA
 c
 a
-1022664	c
+NA
+NA
+NA
 a
+NA
+a
+NA
+NA
+NA
 c
 a
-1022669	c
-det.
-1022672	c
+NA
 a
-1022677	a
-1022679	a
+NA
+NA
 a
-1022682	c
-det.
-c
 a
-1022687	a
+NA
 a
-1022690	a
-1022692	a
-1022695	c
-1022698	a
-1022700	c
-1022703	c
+NA
 c
-1022706	c
 a
-1022709	a
-1022711	c
-c
 a
-1022715	a
-1022718	c
+NA
+NA
+NA
+NA
+NA
+c
 c
-1022722	a
-1022724	a
-1022726	a
 c
-1022731	c
+NA
+NA
+NA
 a
-1022734	c
+NA
+NA
+NA
+NA
 a
-1022737	a
-1022742	c
-1022744	c
+NA
+NA
+c
+NA
+NA
 a
+NA
 a
-1022749	a
-1022752	c
+NA
 a
-1022756	a
 a
-1022760	a
-1022763	c
-c
-1022769	a
+NA
 c
-1022779	c
+NA
+NA
+NA
 a
-1022784	c
 a
-1022788	c
-1022790	a
+NA
 c
-1022795	a
-1022799	a
-1022803	a
 a
+NA
 a
-c
-1022808	a
-1022815	c
+NA
+NA
+NA
 a
-1022818	a
-1022821	a
 c
-1022824	a
-1022826	a
-1022829	a
-1022832	a
 a
+NA
+NA
 c
 a
-1022837	a
 a
-c
-1022841	a
+NA
+NA
 a
+NA
+NA
+NA
 a
 a
+NA
+NA
 c
-c
-a
-1022852	a
+NA
+NA
 a
-1022856	a
 a
-1022862	c
-1022866	a
-1022868	a
-1022871	a
 a
-1022874	a
-1022880	c
 a
-1022883	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
 a
-a
-1022890	a
-1022892	a
-1022894	c
-a
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
-1022899	a
-1022901	a
-1022905	a
-1022907	a
-1022909	c
+NA
 a
+NA
+NA
+NA
+NA
 a
+NA
+NA
+c
 a
-1022916	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
-1022920	a
-1022923	c
+NA
+NA
 a
+NA
+NA
+c
+NA
+c
+NA
+c
 a
-1022928	c
-1022930	a
-1022933	c
+NA
 c
-1022937	a
 a
 c
-1022941	c
 a
+NA
 c
+a
+NA
+NA
+NA
 a
-1022946	c
+NA
+a
+NA
+c
+NA
 c
+NA
 a
-1022950	a
-1022953	a
+NA
 c
-1022956	a
+c
 a
-1022959	c
+NA
+NA
+NA
 a
-1022962	a
-1022964	a
+NA
+NA
 a
-1022967	a
-1022969	c
+NA
+NA
+NA
 a
-1022973	a
-1022975	a
-1022978	a
+NA
+NA
 a
-1022981	c
+NA
+NA
+NA
+NA
 a
 a
+NA
 a
-1022986	a
+NA
+NA
+NA
+NA
+c
 c
+NA
 a
-1022990	c
+NA
+NA
 a
-1022994	c
-1022996	a
-1022998	a
-1023001	a
-1023003	a
+NA
+NA
+NA
+NA
+NA
 a
 a
-1023007	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-1023011	a
+NA
 a
-1023014	a
-1023017	a
-c
+NA
+NA
 c
-c
+NA
+NA
+NA
+NA
 a
-1023026	a
-1023029	a
-1023031	a
-1023034	a
-1023036	a
-1023038	a
-c
+NA
 a
-1023044	a
-1023046	a
-1023049	c
-c
+NA
 a
+NA
 c
 a
-1023055	c
-1023057	a
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
-1023061	a
 a
-1023065	c
+NA
+NA
+NA
 a
 a
+NA
+NA
+NA
 a
+NA
+NA
 c
-1023071	a
 a
-c
-c
+NA
 a
-1023077	a
-1023081	c
-1023083	c
+NA
+NA
+c
 a
+NA
+NA
 a
-1023087	c
-1023090	c
-c
 a
-1023095	a
-1023097	a
-1023101	a
-1023103	a
-1023105	a
-1023107	a
-1023109	a
-1023111	a
-1023113	a
-1023115	a
-1023119	a
-1023121	a
-1023123	a
-1023126	c
-1023129	a
-1023131	c
+NA
+NA
+NA
 a
-1023134	a
+NA
+NA
+NA
 a
-1023137	a
-1023139	c
+NA
 c
 a
-1023143	c
+NA
+NA
 c
-1023146	c
-1023148	c
+a
+NA
+NA
 c
-1023152	c
-1023154	c
-1023156	a
-1023158	c
-1023160	a
-1023163	a
-1023165	c
+NA
+NA
+NA
+NA
 a
-1023169	c
+NA
+c
+NA
+c
 a
+NA
+NA
+NA
 c
 a
-1023175	a
 c
+NA
+NA
 c
+NA
+NA
+NA
 a
+NA
+c
 a
-1023182	a
-1023184	a
-1023186	c
+NA
+c
 a
-1023189	c
+NA
+NA
+NA
 c
 a
-1023200	a
-1023202	a
-1023204	c
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+c
 a
-1023207	a
-1023209	c
+NA
+c
+NA
 a
-1023212	a
-1023215	c
+NA
+c
+NA
+NA
 a
-1023218	a
-1023220	c
-1023222	a
-1023225	c
 a
-1023228	a
-1023231	a
-1023233	a
-1023237	a
+NA
+NA
+NA
+NA
+NA
 a
-1023240	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-1023244	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+c
+c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-1023250	a
-1023252	a
+NA
 a
-1023255	a
-1023258	a
-1023260	a
-1023262	c
+NA
 c
 a
-1023266	a
-c
+NA
+NA
+NA
 a
+NA
+NA
 a
-1023271	c
-1023276	c
-1023279	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1023286	a
-1023288	a
-1023290	c
+c
+NA
+c
 a
-1023293	a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-1023300	c
-a
-1023304	a
-1023307	a
-1023310	a
+NA
 c
-a
 a
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
-1023317	c
+NA
+NA
+NA
 a
-1023321	a
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
 a
-1023327	c
+NA
+NA
+NA
 c
+NA
 a
-1023332	c
-a
-1023335	a
-1023341	c
-1023343	a
-1023348	c
-1023350	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
 a
-1023355	a
-1023358	c
-1023360	a
+NA
+NA
+NA
+NA
+NA
 c
-1023364	c
+NA
+NA
+NA
 a
-1023367	c
 c
+NA
+NA
+NA
 c
-1023372	c
-1023374	c
-1023376	c
+NA
 c
-a
-1023384	c
+NA
 c
-1023389	a
 c
-1023392	a
+NA
+NA
 c
-a
-a
 c
-1023398	a
 c
+NA
 a
-1023404	c
+NA
+c
 a
-1023409	c
+NA
+NA
+NA
+NA
 a
 c
+NA
+NA
 c
 a
+NA
 a
+NA
 a
-1023417	a
-1023422	c
-c
 c
-1023426	a
-1023428	c
-c
-a
-det.
-a
-1023434	a
-1023436	a
-1023438	c
+NA
 a
-1023441	det.
+NA
+NA
 a
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1023446	a
-1023448	c
-1023453	c
+NA
+NA
 c
-c
 a
-1023458	a
-1023460	a
+NA
+NA
 a
-1023464	c
+NA
+NA
 a
 a
+NA
+NA
+NA
+NA
 a
-c
-c
+NA
+NA
+NA
 a
-1023474	a
-1023477	c
 a
-1023480	a
+NA
+NA
+NA
+NA
 a
-c
 a
+NA
 a
-1023486	a
-1023488	a
-1023490	c
-1023493	a
-1023495	a
-1023499	a
+NA
 a
-1023502	c
 a
 a
+a
+a
+a
 c
+NA
+NA
 c
+a
+NA
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
+NA
+NA
+NA
 c
 a
-1023514	c
-a
-1023517	a
-a
-1023520	c
-1023522	c
-1023525	a
-1023532	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1023535	a
-1023538	c
-1023541	c
+NA
+NA
+NA
 a
-1023544	c
-1023546	c
+NA
+NA
+NA
 a
-1023551	c
+NA
+NA
+c
+NA
+c
+NA
+NA
 a
-1023555	c
+NA
+NA
 a
-1023558	c
-1023560	a
-1023563	a
-1023565	a
+NA
 c
-1023568	a
-1023571	c
-a
+NA
 c
 c
-1023576	c
-1023579	c
-1023581	a
 c
-1023585	a
-a
-a
+c
 a
-1023590	a
-1023592	a
-1023594	c
-1023597	a
-1023599	c
 c
 c
-1023603	a
-1023606	c
-1023608	a
-a
-1023611	a
-1023616	a
+NA
+NA
+c
 a
-1023621	a
-1023623	a
+NA
 c
 a
-1023627	a
+NA
+NA
 a
-1023630	c
-c
-1023633	c
 a
-1023636	c
+NA
 a
-1023639	c
+NA
 c
 a
-1023644	a
-1023646	a
-1023649	a
-1023651	c
-1023653	c
 a
-1023656	c
-c
 a
-1023660	c
-1023662	a
-1023664	c
 c
-a
-1023668	c
-1023670	a
 c
 a
-1023674	a
-c
+NA
 a
+NA
 c
+NA
+NA
+c
 a
-1023680	c
 a
 c
-1023685	a
-1023688	a
-1023690	a
-1023695	a
-1023698	c
-a
-1023701	c
-1023703	c
-1023705	c
-1023707	a
+NA
 c
-1023710	c
-1023712	a
-1023714	c
-1023716	c
-1023720	c
-1023725	c
 a
-1023728	a
-1023730	a
 a
 a
-1023734	a
 a
+NA
 a
-1023738	a
-1023740	c
+NA
 a
-1023743	a
-1023745	c
+a
+NA
 c
 c
-a
-1023753	c
-1023756	c
+NA
 c
 a
-1023760	a
-1023765	det.
-1023767	a
+NA
 c
-1023772	a
-1023778	a
+NA
+NA
 c
 a
+NA
 c
-1023826	a
-1023829	a
-1023831	a
-1023836	c
-a
-1023839	c
-1023843	c
-a
-a
+NA
 c
-1023848	det.
-1023851	c
-a
-1023854	a
 a
 c
-1023860	a
-1023862	c
-1023865	a
-a
-a
-1023870	c
-1023873	a
-a
 c
-1023877	a
 a
-det.
-det.
-det.
-1023884	a
-1023889	a
-1023892	a
-1023894	a
-1023901	a
-1023903	a
-1023905	det.
+NA
+NA
+c
 a
-1023909	a
+NA
+c
+NA
+c
 a
 c
-det.
-1023914	a
-1023916	c
-1023919	a
 a
-1023923	det.
-det.
-1023926	c
-1023928	det.
+NA
 a
-1023932	c
-c
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-1023937	c
-1023945	det.
 a
-1023948	a
-1023950	a
-1023952	a
-c
+NA
 a
-1023956	c
-1023959	c
-1023961	c
-1023963	c
-1023966	det.
-1023968	a
-1023972	c
-det.
-1023977	c
-1023981	c
-1023984	c
 a
-1023990	det.
-1023993	c
-1023996	det.
-1024002	det.
-1024006	det.
-1024008	c
-c
-det.
 a
-1024014	a
-1024017	c
+NA
+NA
+c
+c
 a
-1024020	a
 a
+NA
 a
-1024024	a
-1024026	c
+NA
 a
+NA
+NA
+NA
 c
 a
+NA
+NA
 a
-1024034	a
-1024038	a
+NA
 a
-1024042	c
-1024044	c
-1024046	a
-1024053	c
-1024057	c
-1024060	det.
-1024062	c
+c
+NA
+c
+NA
+c
+c
+c
 a
-1024070	det.
-1024077	det.
-det.
-1024082	det.
-1024084	c
+NA
+NA
+a
+a
 c
 det.
+NA
 a
-1024089	a
-1024092	a
-1024094	a
+NA
+NA
 a
 a
-1024098	a
+NA
 a
-1024103	a
-1024106	c
-c
-1024112	c
-1024115	c
-1024118	c
-1024121	c
-1024123	a
-1024125	a
-c
+NA
 a
-1024129	c
-1024132	c
-1024136	a
-1024139	det.
-det.
-1024143	c
-det.
 a
-1024148	a
+NA
 a
-1024151	a
 c
-a
-1024157	c
-1024159	c
-1024162	c
-1024165	a
 c
+a
 a
-1024169	c
-1024172	c
-1024174	c
-1024176	c
-1024179	det.
-1024181	a
-1024185	c
-1024190	c
-1024194	c
-1024197	det.
-1024199	det.
-1024205	c
-1024213	c
-1024216	det.
-1024221	det.
-1024223	c
+NA
+NA
 c
-det.
+NA
+NA
 c
+NA
 c
-a
 a
-1024231	det.
 a
-1024236	a
 c
 a
-1024242	a
-1024245	det.
-1024249	a
 a
-1024252	c
-1024254	a
-1024256	a
+NA
+NA
 c
-1024259	c
-1024262	c
 c
-1024265	c
-1024267	c
-1024270	c
-1024272	c
+NA
 a
-1024275	c
-1024277	c
-1024284	det.
-1024287	c
-1024289	det.
-1024291	a
-a
-1024298	c
-1024300	c
-1024304	c
-1024308	a
+NA
+NA
+NA
+c
 a
-1024312	c
+c
+NA
+NA
+NA
 a
-1024315	c
-1024319	a
-1024321	c
-1024324	c
-1024326	c
-1024329	c
-1024333	c
-1024339	c
-1024344	c
-1024347	c
-1024350	c
-1024354	c
-1024356	a
-1024358	c
 a
-1024365	det.
-c
+NA
+NA
 c
 a
-1024370	a
-1024372	a
-1024374	det.
+NA
 a
-1024377	c
-1024380	c
-1024382	c
-1024384	c
-1024386	c
+NA
+NA
+a
 c
-1024391	det.
-det.
-1024394	a
-1024396	a
-1024398	c
-1024400	a
-1024402	c
-1024405	c
-1024408	c
-1024411	c
-1024413	a
 c
 a
-1024417	a
-1024419	a
-1024421	det.
 a
-1024424	c
-1024429	a
 a
+NA
 a
-1024433	a
+NA
+c
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-1024438	a
-1024440	a
+c
+NA
 a
-det.
-1024444	c
-1024446	det.
-1024451	a
-1024455	c
-1024462	a
-1024466	c
-1024470	det.
-1024472	c
-1024475	c
+NA
 a
-1024478	a
-1024480	a
-1024484	c
-1024488	a
-c
-1024491	c
-1024497	a
-1024499	a
-c
 a
-c
+NA
 c
-1024507	det.
-det.
-1024510	c
-c
 a
+NA
 c
 a
-1024516	det.
-1024528	c
-1024530	c
-det.
 a
-1024534	a
-1024542	c
-1024546	c
-1024549	a
-1024558	a
-1024563	det.
 a
-1024577	a
+NA
 a
-1024580	a
-1024583	c
-1024585	a
-1024588	c
-c
-1024592	c
-1024596	c
-1024600	c
-1024603	c
-1024605	c
-1024607	a
-1024609	c
-1024611	a
-1024613	c
-1024615	a
-1024618	c
-1024622	c
-1024626	c
-det.
+NA
+a
 a
 a
-1024633	det.
-1024636	det.
-1024638	c
 c
 a
-1024643	a
-1024645	a
-1024647	c
-1024653	c
-1024659	c
-1024661	a
-1024665	c
+c
 a
+c
 a
-1024671	c
+NA
 c
-1024674	a
-1024678	c
 a
-1024682	c
-1024684	det.
-1024689	c
-1024695	det.
-1024697	a
+NA
 a
-1024707	det.
-1024712	c
-det.
-1024715	c
-1024719	a
-c
-1024723	a
+NA
 a
-1024726	a
-1024731	a
-1024733	c
-1024736	c
-1024739	a
-1024741	a
-1024743	c
-c
-1024751	a
-c
-1024756	a
-1024758	a
-1024760	a
 a
-1024764	a
-1024769	c
+NA
 a
 c
-a
-1024777	c
-1024780	a
+c
+c
 a
-1024785	c
+NA
+NA
+c
 a
-1024788	c
-1024792	a
 a
-1024796	c
-1024805	a
+NA
+NA
+NA
 c
-1024857	a
+c
+c
 a
-1024862	c
-1024868	c
-1024872	a
 a
 a
+NA
 a
-1024877	a
-1024879	a
-1024881	a
-1024883	a
+NA
+NA
+NA
 a
-1024886	c
+NA
+c
 a
-1024895	a
-1024897	c
 a
-1024903	det.
-1024913	c
-1024915	a
-1024917	a
-1024920	c
 a
-1024924	c
-1024926	c
-1024936	c
-1024938	c
-det.
-1024948	c
-1024950	c
-1024956	c
-1024960	c
-1024962	c
-1024964	det.
-1024969	a
-1024974	det.
-1024979	c
-1024981	c
-1024985	c
-1024987	c
-1024993	det.
-1024996	det.
-1024999	det.
-det.
-1025003	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
-1025007	det.
-1025009	a
-det.
-1025013	c
 c
-det.
-1025018	c
 c
-1025022	det.
-1025026	c
-1025038	det.
-1025040	a
-det.
-1025043	det.
-1025045	a
-det.
-1025048	det.
-det.
-1025054	c
+c
+NA
+NA
+NA
+c
+c
 a
-1025059	a
-1025063	c
-1025066	det.
-1025071	c
-1025076	c
-1025078	det.
-1025080	a
-det.
-1025084	det.
-det.
-1025087	det.
-det.
-1025093	c
 a
-1025096	a
-1025100	c
-1025102	c
-1025105	c
-det.
-1025108	a
-1025110	c
-det.
-1025117	c
-1025120	c
-1025124	c
-1025126	c
+NA
+c
 a
-1025129	c
-det.
-1025132	c
+NA
 a
+NA
+c
 a
+c
+NA
 a
-1025137	a
+NA
+c
+NA
+NA
+NA
 a
+NA
 a
-1025141	a
-1025144	c
-1025150	a
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
-1025153	c
-det.
-1025157	a
-1025159	a
 a
+NA
+NA
+c
+NA
+NA
 a
+NA
+NA
+c
 a
-1025164	a
+NA
+c
+NA
+NA
 a
-1025169	det.
+NA
+NA
+c
+c
+NA
 det.
+NA
+c
+NA
+c
+a
 a
-1025173	c
+NA
 a
-1025176	c
-1025178	det.
-1025180	c
+NA
+c
+NA
+c
+NA
 a
-1025183	det.
-1025185	a
-1025188	c
+c
 a
-1025193	a
+NA
+c
+NA
+NA
 a
-1025196	c
-1025199	c
-1025201	c
-1025204	c
-1025207	c
-1025210	c
-1025212	c
-1025215	c
-1025218	c
-1025220	c
-1025222	c
-1025225	c
-1025228	c
-1025230	c
-1025232	c
-1025234	a
-1025236	c
-1025238	a
-1025240	c
-1025242	a
-1025246	c
+NA
+NA
+NA
+NA
 a
-1025250	c
-1025252	c
-1025256	c
-1025258	c
-1025266	c
-1025270	a
-1025273	det.
-1025278	det.
-1025282	det.
-det.
-1025286	c
-det.
+NA
 c
-1025291	det.
-1025299	c
-1025301	c
-1025305	c
-1025307	c
-1025313	det.
-1025315	a
-1025317	det.
-1025320	a
-1025323	a
-1025325	a
-1025327	c
+NA
+NA
+NA
 a
-1025330	a
 a
-1025336	det.
-1025339	a
-1025342	c
-det.
-1025348	det.
-1025351	det.
-1025358	a
+NA
+c
 a
+NA
 a
 a
+NA
 a
 a
-1025371	a
-1025378	c
-1025380	c
-1025382	c
+c
+NA
 a
-1025385	a
-1025387	a
 a
-1025390	c
-det.
-1025397	c
-1025400	c
-1025403	c
-1025405	c
-1025407	a
-1025409	c
-1025411	a
-1025413	c
-1025415	a
-1025417	det.
-1025419	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-1025424	c
-1025426	c
-1025433	c
-1025441	c
-1025443	c
-1025448	c
-1025450	c
-1025453	a
-1025456	det.
-1025461	det.
-1025463	a
-det.
-1025467	det.
-1025469	a
-1025475	det.
-1025478	c
-det.
-1025484	det.
-det.
-1025488	det.
-det.
-1025492	det.
-1025495	det.
-1025497	c
-1025501	c
-1025511	det.
-det.
-1025518	det.
-1025520	a
-1025524	c
+NA
+a
 c
-det.
+NA
+NA
+a
+NA
 a
-1025529	a
-1025534	det.
-1025537	a
-1025540	c
+c
 a
-1025548	det.
-1025552	det.
-1025554	a
-1025561	a
 a
+NA
+NA
 a
-1025567	a
+NA
+NA
+NA
 a
+NA
 a
-1025577	a
-1025584	c
-1025586	c
-1025588	a
-1025590	a
-1025592	c
-det.
-1025600	c
-1025603	det.
-1025607	c
 a
 a
+NA
 a
-1025612	a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-1025616	a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+a
+NA
 a
-1025619	a
-1025625	c
-1025628	c
+NA
 c
-1025631	a
-1025633	c
-1025635	a
-1025637	c
-1025639	a
-1025642	c
-1025645	c
-1025652	c
-1025654	a
-1025656	a
-1025658	a
+NA
+NA
 a
-1025661	a
-1025663	c
 c
-1025668	a
-1025670	c
-1025672	c
+NA
+NA
+NA
 a
-1025676	det.
-1025685	c
 a
-1025688	a
-1025690	a
+NA
+NA
+NA
+NA
 a
-1025694	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1025699	det.
-1025701	c
-1025709	a
-1025711	a
-1025713	c
 c
-1025717	det.
+a
+NA
+NA
 c
-1025721	det.
-det.
+NA
+NA
+NA
 c
+NA
 a
-1025729	a
-1025736	c
-a
-1025739	c
-a
-1025747	c
-det.
-a
-1025752	c
-1025755	a
-a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1025763	det.
+NA
 a
-1025769	det.
-1025777	c
-1025781	c
-1025783	c
-1025792	c
-1025795	c
-1025802	c
-1025804	c
-1025808	c
-1025810	a
-c
 a
+NA
+NA
 a
-1025817	c
-1025820	c
-1025824	a
-1025827	c
-1025835	a
-1025837	c
+NA
 a
-1025840	c
-1025844	c
-1025846	c
-1025851	c
-1025859	c
-1025861	c
 a
 a
 a
+NA
 a
-1025867	det.
-1025870	a
-1025875	c
 a
-1025882	det.
-det.
-1025892	c
-1025895	c
-1025897	a
-1025899	a
-1025904	det.
-1025908	c
-1025912	c
-1025915	c
-1025918	c
-1025920	c
-1025922	a
-1025924	c
 a
-1025929	c
-1025933	c
-1025937	c
-1025939	c
-c
-1025942	det.
-1025944	a
-1025951	det.
-1025954	c
-1025957	c
-det.
-1025961	c
-1025975	c
-1025981	c
-1025983	c
-1025985	c
-1025988	det.
 c
-det.
-c
-1025997	c
 a
-1026001	c
-1026005	det.
-1026010	c
-det.
-1026014	c
-c
-det.
-1026022	c
-det.
-1026026	a
-1026028	c
-1026030	det.
-1026033	c
+NA
+NA
+NA
 c
-1026038	c
-1026042	c
-1026046	c
-1026048	det.
-1026050	a
-1026052	det.
-1026061	c
-1026063	c
-1026068	c
-1026070	a
-1026072	c
-1026074	c
-det.
-1026077	c
-1026080	c
-1026083	c
+NA
+NA
 a
-1026087	c
-1026089	det.
+NA
 c
-1026092	det.
-1026094	c
-1026096	c
-1026099	det.
+a
+NA
+NA
 det.
-c
-1026104	c
-1026106	det.
-1026108	det.
-1026110	c
-1026114	c
-1026117	c
-1026121	c
-1026123	det.
-1026126	c
-1026131	det.
-1026133	c
-1026136	c
-1026139	c
-1026142	c
-1026145	c
-1026148	c
-1026151	c
-1026154	det.
-c
-c
-1026159	c
-c
-1026163	c
+NA
+NA
+NA
 c
-1026168	det.
-1026170	c
-1026172	det.
-det.
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1026176	c
-1026178	det.
-1026180	det.
-1026182	c
-1026185	c
-1026188	c
-1026192	c
-1026197	c
-1026199	det.
-1026201	a
-1026203	c
 c
 c
+NA
+NA
+NA
+NA
 a
+NA
 a
-1026211	c
-1026213	c
 a
-a
-1026217	c
-c
-1026220	c
-1026222	c
-1026224	c
-1026235	c
+NA
 a
 a
+NA
 a
-1026243	c
-1026246	c
-1026249	c
-1026251	c
-det.
-1026255	c
-c
-1026261	c
-c
-1026266	c
-1026268	c
-1026270	c
-1026278	c
-1026280	a
-c
-det.
+NA
+NA
 a
-1026285	c
-1026287	a
-1026289	c
-det.
-det.
 a
-1026294	c
-1026296	a
-1026298	a
-det.
+NA
 a
-1026302	c
+NA
 c
 a
-1026306	a
-1026308	c
-1026310	a
-1026312	c
-c
-1026315	a
-1026318	c
-1026320	a
-1026322	a
-c
-1026325	a
-1026327	c
-1026329	a
-1026331	c
-1026333	a
-1026336	det.
+NA
+NA
 a
-1026340	det.
-1026342	a
-1026344	c
-1026346	a
-1026348	det.
 a
-1026352	a
-1026354	c
-1026358	c
-1026360	a
-1026363	a
-1026366	a
-1026369	a
-1026371	c
-c
-1026374	c
-1026377	a
-1026379	c
-1026382	c
-1026390	c
-1026395	c
-1026398	c
-1026402	c
-1026404	c
-1026407	c
-1026409	c
-det.
 a
-1026414	c
-1026416	c
-1026419	c
+NA
 a
 a
-c
-1026424	c
-1026427	c
-1026430	a
-1026432	c
-1026442	a
-1026445	a
-1026448	a
+NA
+NA
 a
-1026452	det.
-det.
-1026455	c
 a
-1026458	det.
-det.
-1026461	c
 a
-1026464	det.
-det.
-c
+NA
 a
-1026469	det.
-det.
+NA
 a
-1026473	det.
-1026475	c
-1026477	det.
-det.
-1026480	a
-1026482	det.
-det.
-1026485	c
-det.
-1026488	det.
-det.
-1026491	c
-1026493	a
+NA
+NA
+NA
+NA
 a
-1026496	c
-1026498	det.
-det.
-1026501	c
-det.
-1026504	a
 a
-1026507	c
-det.
-1026510	a
+c
+NA
+c
+NA
 a
-1026513	c
+NA
 a
-1026516	det.
-det.
-c
+NA
+NA
+a
+NA
 c
-det.
-1026522	det.
-det.
+NA
 c
-det.
-det.
-1026528	det.
-det.
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-det.
-det.
-1026534	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-det.
-det.
-det.
-1026540	det.
-det.
+NA
+NA
+NA
+NA
 c
-det.
-det.
-1026546	det.
-det.
+NA
+NA
 c
-det.
-det.
-1026552	det.
-det.
+NA
+NA
+NA
+NA
+NA
 c
-det.
-1026557	det.
-det.
-a
-1026561	det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-1026566	det.
-det.
-1026569	c
-det.
-1026572	det.
-det.
-1026575	c
+NA
 a
-1026578	det.
-det.
-1026581	c
-det.
-1026584	det.
-det.
-1026587	c
-det.
-1026590	det.
-det.
+NA
 c
+NA
+NA
 a
-1026595	det.
-det.
-c
-det.
-1026600	det.
 a
-1026603	c
-det.
-1026606	det.
-det.
+NA
 c
-det.
-1026611	a
-a
-1026614	c
-det.
-1026617	a
-a
-1026620	c
-det.
-1026623	det.
-a
-1026626	c
 a
-1026629	a
+NA
+c
 a
-1026632	c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+c
 a
-1026635	a
-1026637	c
+NA
 a
+NA
 c
 a
-1026642	det.
-1026644	det.
-1026646	det.
-1026648	det.
-1026650	det.
-1026652	a
+NA
 a
-1026655	c
-det.
-1026658	a
+NA
+c
 a
-1026661	c
-det.
-1026664	a
+NA
+NA
 a
-1026667	c
 a
-1026670	det.
-det.
-1026673	c
-det.
-1026676	det.
-det.
-1026679	c
-det.
-1026682	a
+NA
 a
+NA
 c
-1026686	det.
-1026688	c
-det.
-1026691	a
 a
+NA
+NA
+NA
 c
-det.
-1026696	det.
-det.
-1026699	a
+NA
 a
-a
-1026705	a
-c
-det.
-1026710	a
+NA
+NA
+NA
 c
-det.
-1026715	a
-1026717	c
-1026719	det.
+NA
 a
-1026722	det.
-1026725	det.
+NA
 c
-det.
-det.
-1026731	det.
-det.
 a
-c
-1026736	det.
+NA
+NA
 a
+NA
+NA
 c
-1026740	a
-1026742	det.
-1026745	det.
-c
-det.
-det.
-1026751	det.
-det.
+NA
 a
+NA
 c
-1026756	det.
 a
+NA
 c
-1026760	det.
-1026762	det.
-1026765	det.
-c
-det.
-det.
-1026771	det.
+NA
+a
+NA
+NA
+NA
 c
-det.
-1026775	a
-det.
 a
-1026779	c
-1026781	a
-det.
+a
+NA
 a
-1026785	c
-1026787	det.
 a
-1026790	c
-1026792	a
-1026794	det.
-1026797	det.
-1026799	c
 a
-1026802	c
-1026805	det.
+NA
 c
 a
-1026809	c
-1026812	c
-1026814	c
 a
-1026817	c
-1026820	det.
-c
+NA
+a
 a
-1026824	c
-1026827	det.
+NA
+a
 c
 a
-1026831	c
-1026834	c
-1026837	c
-1026840	c
-1026843	c
-1026846	c
-1026849	c
-1026853	det.
-1026855	c
-1026858	c
-1026861	c
-1026864	c
-1026867	c
-1026870	c
-1026873	c
-1026875	c
-1026878	c
-1026882	c
-1026886	c
-1026890	c
-1026894	c
-1026897	det.
-1026899	c
-1026902	c
-1026905	c
+NA
 a
-1026908	c
-1026911	c
-1026914	det.
-det.
-1026917	a
-1026920	a
-1026922	a
 a
-1026925	c
-det.
-1026932	a
-1026934	c
-det.
-1026937	a
+NA
 a
+NA
+NA
+c
+a
+NA
 a
 a
 a
-1026943	a
+NA
+c
 a
+NA
 a
+NA
 a
 a
-1026950	det.
+NA
 a
-1026953	c
-c
-1026958	a
+a
+NA
 c
-1026962	c
-det.
-det.
-1026968	det.
-1026970	det.
-det.
-1026973	c
-1026989	a
 c
-1026994	c
 a
-1026999	c
-1027002	a
-1027004	a
-1027008	a
-1027011	a
-1027013	c
-1027015	c
-1027022	c
 det.
-1027025	a
-1027030	c
-1027033	a
-1027035	a
-1027042	a
-c
-c
-c
-1027047	a
-1027052	a
-1027054	a
-1027057	a
-1027062	c
+NA
+a
+NA
 c
+a
+NA
+NA
 a
-1027068	c
-1027072	c
-1027076	c
-1027080	c
-1027083	det.
-1027086	det.
-1027088	a
+NA
 a
 a
-1027092	c
-1027094	c
-1027096	a
-1027098	c
-1027100	det.
+NA
 a
-1027103	c
-1027105	a
-1027107	c
-det.
-c
-1027114	c
-1027117	c
-c
-c
-1027121	c
-1027130	det.
-1027133	det.
+NA
 a
-1027137	c
-1027144	a
-1027152	c
-1027155	c
-1027160	a
-1027166	a
+NA
+NA
 c
-1027170	c
+NA
 a
+NA
 a
+NA
 a
-1027175	c
-1027183	a
+NA
 c
 a
+NA
 a
+NA
+NA
+NA
 a
+NA
+a
+NA
 c
-1027191	a
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-1027194	det.
-1027197	det.
-1027204	c
-1027207	c
-1027211	c
-1027217	a
-1027220	c
-det.
-1027226	c
-1027230	a
-1027232	a
-1027234	a
-1027237	det.
+NA
+NA
+NA
+c
+NA
 a
-1027243	det.
-det.
-det.
 c
-1027248	c
-1027251	det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1027254	c
-det.
-1027258	a
-1027264	a
-det.
+NA
 c
-1027268	det.
-1027270	c
-det.
 a
 a
-c
-1027277	det.
-det.
-det.
-1027281	det.
+NA
+NA
 c
+NA
+NA
+NA
 c
-det.
-1027288	c
-1027292	c
+NA
+NA
 a
-1027297	c
+NA
+NA
 a
-c
-1027301	a
-1027303	c
-1027305	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
-c
-1027310	c
-det.
-1027316	a
-c
-1027319	c
-1027321	c
-1027323	a
-c
-1027326	det.
+NA
 c
-1027329	c
-1027331	a
 a
-det.
-c
-c
+NA
+NA
+a
+NA
+NA
 c
-1027342	c
-1027345	c
 a
-1027352	c
-det.
-1027355	c
+a
+NA
+NA
 c
+a
+NA
 c
-det.
-det.
-1027363	a
-1027369	c
-1027373	a
+a
+NA
 c
-1027378	det.
-1027380	c
-1027382	c
-1027385	c
 c
-1027394	c
-1027398	a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1027402	a
+NA
+NA
 a
-1027405	a
-1027409	c
-1027414	c
-1027416	c
 a
 a
-1027421	a
-1027423	c
-c
+NA
+NA
 a
-1027428	c
-1027430	c
-det.
-1027436	a
-1027438	a
-det.
-det.
-1027444	c
-1027447	a
-1027449	c
-1027451	c
-1027458	c
+NA
 a
-1027461	a
-1027463	a
-det.
-1027466	c
-1027468	c
+NA
+NA
 a
-1027472	a
-1027475	c
-c
-1027478	c
-1027486	c
-1027491	c
-c
-1027497	det.
-1027499	c
-1027509	a
-1027511	a
-1027513	det.
-1027516	a
+NA
+NA
+NA
 a
-c
-c
-1027521	c
-1027525	det.
-1027527	a
-1027531	a
-1027534	a
-1027536	c
-1027538	det.
-1027540	c
-1027542	c
-1027545	a
-1027547	a
-1027552	a
-c
-1027556	a
+NA
 a
-1027561	c
+NA
+NA
+NA
+NA
 a
-c
-1027565	a
-1027567	det.
-1027569	det.
-1027572	c
-1027576	det.
-c
-1027580	c
-1027582	c
+NA
+NA
+NA
 a
 a
-1027587	a
-c
-1027600	c
-1027602	a
-1027604	a
+NA
+NA
+NA
+NA
+a
+a
+NA
 c
-1027608	c
-1027612	det.
-1027614	c
+a
+NA
+a
+a
+NA
+NA
 c
-1027617	a
-1027626	c
-1027628	a
+NA
 a
 a
-det.
-1027633	c
-1027636	c
+NA
+NA
+NA
+NA
+NA
 a
-1027641	c
-1027644	c
-1027649	c
-det.
-1027653	c
-1027660	c
-1027662	c
+NA
+NA
+a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-1027667	a
+NA
 c
-1027670	c
-1027672	c
+NA
+NA
+NA
+NA
 c
-1027675	det.
 a
-det.
-det.
-1027681	det.
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-1027685	c
 a
-1027688	det.
-1027690	det.
+NA
+NA
 c
-1027693	det.
-1027695	det.
-1027697	c
-a
-1027703	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 c
-1027708	c
-1027710	c
-1027712	det.
-1027720	a
-1027722	a
+NA
+NA
+NA
+c
+NA
+NA
 a
-det.
-1027730	c
+NA
 c
-1027733	det.
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
 a
-1027738	c
+NA
+c
+det.
+NA
 c
-1027741	a
-1027743	c
-1027747	c
 a
+NA
 a
-1027751	c
-1027754	c
-1027756	c
+NA
 c
-1027760	a
 a
-1027766	c
-1027770	c
-1027773	a
-c
-c
+NA
 a
-1027779	c
-1027781	det.
-1027784	c
+NA
 c
-1027787	a
-1027790	a
+NA
+NA
+NA
+NA
+NA
 a
-1027794	a
-1027799	c
-1027801	c
-1027804	a
-1027806	a
-1027809	a
-1027811	c
-1027817	c
-1027819	c
-1027822	c
-1027825	c
-1027828	c
-1027831	c
-1027834	det.
-1027836	a
-1027847	a
+NA
 c
+NA
 c
-1027852	a
-det.
-1027856	c
-1027858	a
-det.
-1027861	a
-1027863	det.
-1027869	c
-1027872	c
-1027876	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1027879	c
-1027882	c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1027886	c
-det.
-1027889	c
+NA
 a
-1027892	c
-1027894	det.
-1027897	a
-1027900	a
-det.
+NA
+NA
 c
+NA
 a
 a
-1027906	a
-1027909	a
-1027911	a
+NA
+NA
+NA
+NA
 c
+NA
 a
-1027915	a
-1027918	a
+NA
+NA
 a
-1027921	c
-c
-1027924	a
-1027927	det.
-1027929	c
+NA
+NA
 a
+NA
 a
-1027934	c
-1027946	c
-1027948	c
-1027952	c
-c
-1027957	c
-1027959	c
-c
-1027964	c
-1027966	c
-1027968	c
-1027977	a
-1027979	c
-1027981	c
-1027985	a
-1027987	c
-1027989	a
-1027991	a
-1027993	det.
-1027999	det.
+NA
+NA
+NA
+NA
 a
-1028002	a
-1028005	det.
 a
-1028009	det.
+NA
 a
-1028012	c
-1028014	c
-det.
-c
-1028018	c
-1028025	c
-1028028	a
-1028030	c
 a
-det.
-1028036	a
-1028039	det.
-1028043	c
-1028047	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-1028051	c
-1028053	c
-1028055	c
 c
-a
-1028060	c
-1028063	det.
-1028067	det.
-1028071	c
-c
 det.
-1028075	det.
-1028080	a
-1028083	c
+NA
+a
+a
+NA
+a
+NA
 c
-1028092	a
-1028097	c
-1028099	c
-1028102	a
+NA
 a
+NA
 a
-1028111	a
+NA
+c
 a
-1028118	a
-1028120	c
-1028126	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1028131	det.
-1028136	a
-1028143	a
-1028149	a
-1028151	det.
+NA
 a
 c
-det.
-det.
-1028158	det.
-det.
-1028163	det.
-det.
-det.
-det.
-1028168	c
-1028173	det.
-1028176	c
-1028178	det.
-1028182	a
-1028184	det.
-1028189	c
-1028192	det.
-1028194	det.
-det.
-1028200	c
-1028204	det.
-1028206	det.
 a
-1028209	c
-1028212	c
-1028218	c
-1028222	c
-1028226	c
-1028228	c
 a
+NA
+NA
 a
-1028232	c
-1028235	c
-1028238	c
-1028240	c
-1028243	a
-1028249	det.
 a
-1028252	det.
+NA
+NA
+NA
+NA
 a
-1028256	det.
-det.
-1028261	a
+NA
+a
+a
+NA
 a
+NA
+NA
+NA
 a
-1028265	c
-1028267	det.
-1028269	a
-1028275	c
-1028279	c
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-1028282	det.
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1028286	c
-1028288	c
-1028290	c
-1028294	det.
-1028296	det.
-1028305	c
-1028307	c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1028313	a
-1028316	c
-1028319	a
-1028321	a
 c
-1028325	a
-1028328	c
-1028331	c
-1028335	c
-1028338	a
-1028340	c
-1028345	det.
 a
-1028351	c
-1028353	c
-1028356	c
 a
 a
+NA
 a
-1028363	a
+NA
+NA
 a
-1028366	c
-1028368	a
-1028372	a
-1028374	det.
-1028381	a
-1028388	c
-c
-1028391	c
-1028393	a
-det.
-1028396	c
-1028401	c
-1028403	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1028406	c
 c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1028412	det.
-1028414	a
-1028429	a
-1028434	det.
-1028436	a
-1028441	a
 c
-1028450	c
-1028455	c
-1028458	det.
-det.
+NA
+NA
+c
 c
-1028463	det.
-1028465	c
-1028468	a
-1028470	a
-1028472	a
-1028481	c
-1028484	det.
-1028489	c
 a
-1028495	c
+NA
+NA
+NA
+NA
+NA
 a
-1028498	det.
-1028503	c
-1028510	c
+NA
+a
+NA
+NA
+NA
+NA
 c
-1028513	a
-1028515	det.
-1028517	c
-1028521	c
-1028524	c
-1028533	a
-1028539	det.
+a
 a
-1028543	det.
-1028547	a
-1028549	c
-1028551	a
-1028555	c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
+a
 c
-1028559	c
-1028561	c
-1028564	c
-1028567	c
-1028569	a
-1028574	c
-1028580	a
 det.
-1028586	a
+NA
 c
-a
-1028590	a
-1028596	a
-1028602	a
-1028607	c
+NA
 c
-1028610	c
 a
-1028614	a
-1028617	c
-1028619	c
-1028624	a
-1028627	c
-1028629	c
-1028632	a
+NA
 a
-1028636	c
+NA
 c
-1028640	c
-1028652	c
-1028654	c
-1028657	c
-1028663	c
-1028667	c
 c
-1028671	c
-1028682	c
-1028686	c
-1028689	c
-c
-1028698	det.
-1028701	c
 a
-1028707	c
-1028713	a
-1028719	a
-1028724	a
-1028728	det.
-1028730	det.
-c
-c
-c
-1028735	det.
 c
-1028738	c
-det.
-1028741	a
-1028750	a
-1028752	c
-1028754	a
-1028759	det.
-det.
-1028763	a
-1028768	a
-1028770	c
+NA
+NA
 c
-1028775	c
-1028778	a
+NA
 a
-1028792	a
-det.
-1028803	a
-1028805	a
-1028811	det.
-1028815	c
+NA
+NA
 a
+NA
 a
-1028819	det.
-c
-1028824	c
+NA
 a
-c
+NA
+NA
+NA
 a
-c
-1028830	c
 a
+NA
 a
-c
-1028835	a
-c
+NA
+a
+NA
+NA
 c
 a
-1028840	c
+NA
 a
-1028844	a
-1028847	c
-1028850	c
+NA
+NA
 c
-1028855	c
-1028858	c
 a
-1028861	a
-1028863	c
-1028865	c
+NA
 a
-1028869	c
-1028872	c
-1028876	a
-1028880	c
-1028885	a
-c
-1028891	c
-c
-c
 c
 a
-1028897	c
-1028899	c
-1028902	a
-1028909	a
-c
-1028912	a
-1028914	c
-1028916	a
-c
-c
-1028921	c
-1028926	c
-1028928	c
-1028941	det.
-1028944	a
-1028947	c
-1028949	c
-c
-1028952	c
-1028954	c
 c
-1028958	a
-1028960	a
-1028970	c
-1028974	a
-c
-c
-1028984	c
-1028991	c
-1029008	a
-1029011	a
-1029014	a
-1029017	c
-1029019	c
-1029022	a
-1029024	a
-1029026	c
-1029028	c
-c
-c
-1029038	c
-c
-1029045	c
-c
-1029048	a
+a
 c
 a
-det.
+a
 c
+a
 a
-1029055	c
-1029057	c
-1029059	a
+NA
 c
-1029064	c
 a
 a
-1029069	a
-1029072	c
-1029074	c
-1029078	det.
 a
-1029089	a
-det.
 a
-1029097	det.
-det.
-1029100	a
-1029102	c
-1029104	c
-c
-det.
-1029108	a
-1029118	c
 a
-1029121	c
-1029125	c
+NA
 a
-1029128	c
-1029130	a
-1029135	c
-1029137	a
-1029139	c
-c
-1029143	a
-1029147	c
-1029152	c
+NA
 a
-1029155	c
 a
-1029159	a
-c
-1029167	c
-1029174	c
-1029180	c
-c
-c
-1029184	c
 a
+NA
+NA
 a
-1029188	c
 a
+NA
 a
-1029194	c
-c
-c
-1029205	a
 a
-1029209	c
-1029218	c
-c
-1029221	c
-1029223	c
-1029225	c
-1029227	c
-1029229	det.
-1029232	a
-1029236	a
-1029238	c
+a
+a
+NA
 c
-1029241	det.
-1029249	c
-1029251	det.
-1029253	c
-1029255	c
+a
+NA
 c
-1029265	det.
-1029267	a
 a
-1029270	det.
-1029273	c
 a
 a
-1029278	c
-1029280	a
-c
-c
-1029284	c
-c
-1029291	c
-c
-1029298	c
-1029300	a
-1029305	c
-1029313	c
-c
-1029318	c
-c
-c
-1029325	c
-1029330	c
-1029333	det.
-c
-c
-1029337	a
 a
-1029340	a
-c
-1029343	a
 a
-1029346	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
-1029350	det.
-1029352	c
-1029355	c
-1029357	c
-c
-1029360	c
-c
-c
-c
-1029365	c
-1029368	c
-c
-c
-1029372	a
-1029376	c
+NA
+NA
+NA
 a
-1029380	c
-1029383	det.
-det.
-1029387	a
 a
-1029390	c
-c
 a
-c
-1029395	a
-c
 det.
-1029400	a
-1029403	det.
-a
-1029406	a
-c
-1029412	a
-1029416	a
-c
-1029420	c
+NA
+NA
+NA
 c
+NA
 a
-1029424	c
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
 det.
-1029429	c
-1029431	c
-1029434	c
-1029439	c
-c
-1029444	det.
+NA
+NA
 a
-1029451	c
-1029457	det.
+NA
 a
-1029460	c
 det.
-c
-1029465	a
-1029467	det.
-1029469	c
-1029471	c
-c
-1029475	c
+NA
 c
-1029479	c
 a
 c
-1029483	c
-c
-1029488	det.
-c
 a
-1029492	det.
+NA
 c
-1029495	det.
-1029498	det.
-1029503	c
-1029505	c
-c
-det.
-1029514	c
-1029516	c
-1029520	c
-1029526	det.
-1029528	a
+NA
+NA
 a
-c
-1029532	c
-1029538	a
-c
-1029541	c
-1029543	c
-1029549	c
-1029552	c
+NA
+NA
+NA
 a
-1029555	a
-1029564	c
-1029566	a
-1029568	c
-1029576	a
-1029578	a
-1029580	c
-1029586	c
-1029589	c
-1029595	a
-1029598	a
 c
-c
-1029602	a
-1029609	a
+a
+a
+a
+a
+NA
 c
+a
 c
-1029613	a
 a
-1029617	det.
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
-1029623	a
-1029625	det.
-det.
-det.
-1029629	c
-1029632	a
 c
-1029635	c
-1029644	c
 c
 a
-1029650	c
-1029653	c
-1029660	c
-1029662	a
-1029665	a
-1029667	c
-1029673	a
-1029677	c
+NA
+NA
 c
+NA
+NA
+NA
 c
-1029681	det.
-1029683	c
-1029685	c
-1029689	c
+NA
+a
+a
+NA
+a
+a
+NA
+NA
+a
 c
+a
+NA
+a
+a
 c
 c
-1029694	a
-1029697	c
-1029700	a
-1029709	c
-1029713	c
-1029715	a
-1029718	c
-1029723	c
-1029727	det.
+NA
+NA
+a
+NA
+NA
 c
+NA
+a
+a
+NA
 c
-1029731	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-1029736	c
-1029738	c
-det.
-1029741	det.
 a
-det.
-1029747	det.
-1029749	det.
+NA
 c
-det.
-1029753	det.
-1029755	det.
-1029759	det.
-det.
+NA
+a
+NA
+NA
+NA
 c
 c
+NA
 c
-det.
-1029766	det.
-1029768	a
-1029771	a
-det.
 a
 a
-1029778	a
-1029780	c
-1029785	c
-1029791	c
-1029793	c
-1029797	c
-1029799	c
-c
-1029805	c
-1029807	c
-1029811	c
-1029814	c
-1029816	c
-1029818	c
-1029820	c
-1029823	a
-1029826	c
-1029828	c
 a
-1029831	c
-1029833	c
 c
-1029839	c
+NA
 c
-1029845	a
-1029853	c
-1029855	a
-1029857	c
-1029862	c
-1029865	c
 c
-1029870	c
 c
-1029874	a
-1029876	c
 a
-1029880	c
-1029882	c
-1029885	c
+c
 c
 a
 a
+NA
+NA
 a
-1029891	c
+NA
 a
-1029894	c
+NA
 c
-c
-1029905	c
-c
 a
 a
-c
-1029912	c
-1029917	a
 a
-1029921	c
-c
-c
-c
-1029927	c
 det.
-1029933	c
-1029935	c
-1029943	c
-1029946	a
-a
-1029951	c
-1029954	c
-c
-c
+NA
 a
-1029961	c
+NA
 a
-c
-c
-1029971	det.
-det.
-c
 a
-1029977	a
+NA
 a
+NA
+det.
 c
-1029981	c
-1029986	a
-1029989	c
-1029994	a
-1029997	a
-1030001	det.
-1030003	c
-1030005	c
+NA
 a
-1030013	c
-1030015	c
-a
+NA
 c
-1030021	c
-1030025	a
-1030028	c
-1030041	c
-1030043	c
-1030047	det.
-1030050	a
-1030053	c
-det.
-1030056	c
-1030059	det.
-1030063	c
-1030065	a
-1030067	c
 c
+NA
+NA
+a
+NA
+NA
 c
-det.
-1030072	det.
-1030075	det.
-1030077	c
-1030080	c
-1030083	c
-1030085	c
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
+NA
 a
 a
-1030093	a
-1030096	det.
-1030098	c
-1030102	det.
-det.
-1030105	det.
-1030107	a
-1030111	a
-1030119	c
+NA
+NA
 a
-det.
-det.
-1030126	c
-1030129	c
-1030134	det.
-1030137	a
+NA
+NA
 a
+NA
 a
-1030141	c
-1030146	a
-1030150	c
-1030153	a
-det.
-det.
-1030161	c
-1030164	c
-c
-1030171	c
-1030173	a
-1030175	c
-1030179	c
-1030185	det.
-1030187	c
-1030196	det.
-1030199	det.
-1030205	a
-1030209	det.
+NA
+NA
+NA
+NA
 c
-1030212	det.
-det.
-a
+NA
+NA
+NA
 a
+NA
 c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1030220	det.
-1030222	c
-1030226	det.
-1030231	c
-1030235	c
-1030237	a
+NA
+NA
+c
 a
-1030241	c
+NA
+NA
+NA
+NA
 c
-1030244	c
-1030248	c
+a
 a
-1030261	a
-1030271	c
-1030273	det.
-det.
-1030276	c
-1030278	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-1030283	c
-1030288	det.
-1030293	c
-det.
-det.
+NA
 c
-1030299	c
+NA
 c
-1030302	c
-1030304	c
-1030313	det.
-1030318	a
-1030320	a
 a
-1030323	c
-1030337	a
-1030342	a
-1030344	det.
-c
-1030347	det.
-c
-1030350	c
-1030352	det.
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
-det.
-1030357	c
-1030359	c
-1030365	a
-1030367	a
-1030372	c
-1030374	det.
-1030377	c
-1030383	det.
-1030385	det.
-1030387	c
-1030393	c
+NA
+NA
+NA
 a
-det.
-1030398	c
-1030410	a
-1030415	c
-c
-1030420	c
+NA
 c
-1030423	c
-1030429	c
-1030433	a
-1030435	a
-1030440	a
-1030442	c
+a
+NA
 c
+a
+NA
+NA
+a
+a
+NA
 c
-1030448	det.
-1030450	det.
-det.
+NA
 c
-1030457	a
-1030459	a
-1030461	a
-1030473	a
-1030476	c
-1030478	a
-1030480	det.
+a
+NA
 c
 det.
-1030487	c
-1030490	c
+NA
+a
+NA
+NA
 c
-1030494	c
-1030497	c
-det.
+a
+a
+NA
+NA
 c
-1030501	det.
-1030503	c
 a
-1030507	c
-1030510	a
+NA
 a
 a
+NA
 a
-det.
 a
+NA
 a
 a
 a
+c
+c
 a
-1030521	c
+NA
+NA
 c
-1030525	det.
 c
-det.
-1030530	det.
-1030532	a
-1030534	c
-1030536	a
 a
+c
 a
-1030542	a
-1030544	c
+NA
 a
-c
-det.
-det.
-1030556	c
 a
 a
-det.
-1030562	a
-1030573	a
-1030577	a
-1030582	c
-1030593	c
-c
-c
-1030597	det.
-1030599	det.
-c
-1030603	a
+NA
 a
-1030607	c
-1030610	c
-1030613	c
-det.
-det.
-det.
-1030621	a
-1030632	c
-c
 a
-1030639	a
-1030646	a
-1030648	c
+NA
 c
 c
-1030653	c
-1030655	a
-1030671	c
-1030675	a
 a
-1030678	det.
-1030684	det.
-1030686	c
-det.
-1030690	det.
-1030694	det.
-1030696	det.
-1030698	c
-1030701	c
-1030706	c
-det.
-1030709	c
-1030713	c
-det.
-1030717	det.
-det.
-1030720	c
-1030722	a
-1030724	c
-c
-1030727	c
-c
-1030731	c
+NA
 a
-1030734	det.
-1030736	det.
-1030738	det.
-1030744	det.
-1030746	det.
-1030752	det.
-1030754	a
+NA
+NA
+NA
 a
-1030758	c
-1030761	c
-1030763	det.
-1030770	a
+NA
+a
+NA
 c
-1030775	c
-det.
-1030779	c
 c
-1030783	det.
-1030786	c
-1030788	det.
-1030790	c
-1030792	c
-1030794	c
+NA
+NA
 c
-1030799	c
-1030801	c
+NA
+NA
 c
-det.
-1030805	a
-det.
-1030809	c
-1030813	c
-1030820	a
-1030823	det.
-1030830	a
-1030834	c
-1030836	c
-1030839	det.
-1030841	c
-det.
-1030848	c
 c
-det.
-1030854	c
-1030856	c
-1030858	det.
-det.
-1030862	c
-1030866	det.
-1030868	a
-1030874	a
+NA
+a
+NA
 c
-1030878	a
 c
-1030883	c
+NA
+a
 c
-1030889	det.
-1030891	det.
-1030898	a
 c
-1030901	c
 det.
-1030904	c
-1030912	det.
-1030914	det.
-1030916	c
-1030920	c
-1030923	a
+NA
+NA
 c
-det.
+NA
 det.
-a
-1030929	det.
-1030931	c
-1030933	a
-1030937	det.
 c
-1030940	c
-1030943	c
-1030947	a
-det.
-1030950	det.
-1030952	c
-a
-1030956	c
-1030958	c
-a
-1030961	c
-1030963	a
-det.
-det.
-1030969	c
-det.
-det.
 c
-1030976	c
-1030979	det.
+NA
+NA
 c
-1030982	c
-1030989	a
+NA
 c
-det.
-1030993	a
-1030996	c
-det.
-1030999	c
+NA
+a
 c
-1031002	det.
-1031004	det.
-det.
-1031011	a
-1031020	a
-1031022	c
-1031028	det.
-1031030	det.
-1031036	c
-1031038	det.
+NA
+c
+NA
+NA
 a
 a
-1031047	det.
-1031052	det.
-det.
+NA
+NA
 c
+NA
 c
-1031059	c
-det.
+NA
+NA
 c
+NA
+NA
+a
+NA
 c
-det.
+NA
+a
+NA
+NA
 c
-1031067	c
+NA
+NA
 c
-1031070	det.
-1031073	c
-1031081	c
+NA
+NA
+a
+NA
 c
-1031085	a
-1031090	c
-1031093	a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-det.
-1031097	a
-det.
-1031100	c
-1031105	c
 a
-1031108	a
-1031115	c
-det.
-det.
-1031119	c
+NA
+NA
+NA
 c
-1031122	a
-1031124	c
-det.
-1031128	c
+a
+NA
 c
-det.
-1031132	det.
-1031135	det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1031141	det.
-1031144	c
-1031147	a
+NA
 a
-c
-1031152	a
-1031157	a
-1031160	c
-1031162	c
-c
-1031165	c
-c
-1031169	c
+NA
 a
-1031174	c
-1031177	c
-1031181	a
-1031187	det.
-1031189	c
-det.
-c
-1031204	c
-det.
-1031208	c
+NA
+NA
 c
-1031211	a
-1031214	c
-1031218	c
-1031221	a
-1031227	c
+a
+NA
+NA
+NA
 c
 a
-1031238	a
-1031241	c
-1031243	c
-1031245	c
-1031251	c
-1031253	c
+NA
 c
 a
-1031261	a
+NA
+NA
+a
+a
+NA
+a
+NA
 c
-1031268	c
-1031272	a
-det.
-1031275	det.
-1031279	c
-1031281	c
 a
-1031286	det.
-1031291	c
-1031293	c
+NA
+NA
+NA
 c
-1031296	a
-1031298	a
-1031301	det.
-det.
-1031321	c
-1031327	a
-1031331	a
-1031333	a
-1031337	c
-1031344	c
-1031353	a
-1031356	det.
+a
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
 a
-1031360	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1031365	det.
+NA
+NA
 c
-1031368	det.
-1031373	c
-1031380	a
-1031382	c
+NA
+NA
+NA
+NA
+NA
 a
-1031388	c
+NA
+NA
+NA
 a
-1031394	det.
+NA
 c
+a
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1031402	c
-1031411	det.
-1031413	c
-1031415	det.
-1031418	c
-1031420	c
-1031422	c
-1031425	c
-det.
-1031428	a
-1031430	c
-det.
-1031442	c
 a
-1031447	c
-1031452	c
-1031454	c
-1031459	c
+NA
+NA
 a
-1031466	a
-1031468	c
-1031470	a
-det.
-1031474	a
-1031477	det.
-det.
-1031480	c
+NA
+a
+NA
+NA
+NA
+c
 c
-1031483	det.
+NA
+NA
+NA
 c
 c
-1031487	det.
+NA
+NA
+NA
 a
-1031493	c
-1031497	c
-det.
-1031500	c
-1031504	det.
-1031508	c
+NA
+a
+NA
 c
-1031517	det.
-1031519	det.
 c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1031526	a
+NA
+c
 a
-1031530	c
-1031532	c
-1031535	c
+NA
 a
-1031538	a
-c
-1031544	a
-1031548	a
+NA
 c
-1031552	c
+NA
+NA
 c
+NA
 c
-1031557	det.
-1031559	det.
-1031562	c
-1031571	det.
-det.
-det.
-det.
-det.
-1031577	c
-1031580	a
-1031585	c
 a
 a
-1031589	c
-1031591	a
+NA
 a
-1031601	c
-1031603	det.
-1031606	c
 c
+NA
+NA
+NA
+a
 c
-1031610	det.
-1031612	c
+NA
 c
-1031615	c
-1031623	c
 a
-1031634	a
-1031636	c
-c
-1031640	a
-1031644	c
-1031646	c
-1031648	a
+NA
 a
-1031651	c
-1031655	det.
-1031659	c
-1031661	det.
-1031663	det.
+c
+c
 a
-1031666	c
-1031668	c
+NA
 c
-det.
+NA
 a
-1031675	c
+NA
+NA
 c
-1031678	a
-1031680	det.
-1031683	a
-1031686	a
 c
 a
-c
-1031691	a
+NA
+NA
 a
-1031694	det.
-1031697	a
-1031702	c
+NA
 c
-1031707	c
+NA
+NA
+NA
 c
 a
+NA
+NA
 a
-1031713	a
-1031719	c
-1031721	a
-1031724	det.
-1031727	c
-1031730	c
-1031733	a
+NA
+NA
 a
+NA
+NA
+NA
+a
+NA
+NA
 c
-1031738	c
-1031740	a
-1031744	det.
-1031748	c
-1031755	c
-1031757	c
-1031761	det.
-1031763	c
-1031770	c
-1031772	c
-1031774	c
 c
-1031781	a
-1031783	a
-1031788	c
-1031791	a
-1031796	c
-1031799	a
-1031801	c
-1031804	a
-1031809	a
-1031814	c
+a
+NA
+NA
+NA
+NA
 c
-1031819	a
-1031821	c
-1031824	c
-1031835	a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-1031840	c
-1031848	a
-1031850	c
+NA
+NA
+NA
+NA
+NA
 c
-1031853	c
-1031863	det.
-1031868	det.
-1031870	a
-1031875	c
-1031877	a
-1031879	c
 c
-1031889	c
+NA
+NA
+NA
+NA
 a
-1031892	c
-1031895	c
-1031902	det.
-det.
-c
-1031906	a
 a
-det.
-1031911	c
-c
+NA
 a
-1031915	a
-1031917	a
-1031928	a
-1031930	a
-1031932	c
-1031934	a
-1031937	det.
-1031949	a
-1031953	c
-1031956	a
-1031962	det.
-c
-det.
-c
 a
-1031970	c
 c
-1031973	c
-det.
+a
+NA
+a
+NA
 c
-1031978	det.
+a
+NA
+NA
+NA
+NA
+NA
 c
-1031981	c
-1031985	c
+a
+NA
+NA
 c
-det.
-1031989	c
-1031993	det.
 a
-1031996	det.
+NA
 a
-1032009	c
-1032011	c
-1032013	c
-1032015	c
-c
-1032018	a
-1032022	c
 a
-1032037	c
-1032039	c
 c
+NA
+NA
+a
+NA
+NA
 c
-1032043	a
-1032047	a
 a
-1032052	c
-1032055	c
-1032057	c
+NA
+NA
+a
+NA
+NA
+NA
 c
-1032061	a
-1032064	c
-1032066	c
-1032071	c
+NA
+a
+NA
+NA
+NA
 c
-1032074	a
-1032080	c
+NA
 c
 a
-1032085	c
-1032091	c
-1032096	c
-1032098	c
-1032100	c
-1032109	a
 a
-1032114	c
-c
-1032120	c
-1032125	a
-1032129	c
-c
-1032132	a
-1032134	c
-1032139	c
-1032141	c
-1032145	a
+a
+NA
+NA
+a
+a
+NA
+a
 c
-1032151	det.
+NA
+NA
+NA
 c
+a
 det.
-c
+det.
+a
+a
+NA
 c
+NA
+NA
+NA
+NA
 c
+NA
+det.
+det.
+NA
 c
-1032159	c
-1032162	a
-a
-1032166	c
-1032169	c
-1032172	c
-1032174	c
+NA
+NA
+NA
+NA
 c
 a
 det.
-1032183	c
-1032185	a
-c
-1032188	c
 det.
-1032195	c
+NA
+c
 a
-1032198	c
-1032200	det.
 c
 a
-1032211	c
-1032214	a
-1032216	det.
+a
+a
 det.
-1032219	c
+NA
 c
-1032225	c
-1032231	a
 c
-1032235	c
-1032238	a
-c
-1032243	a
-1032248	a
-det.
+NA
+NA
+NA
 a
-1032254	c
-det.
-1032263	c
-1032265	c
-a
-1032268	c
-1032271	det.
 a
-1032274	det.
 a
-1032277	c
-1032279	a
-1032281	det.
-1032290	a
-1032292	c
 a
 a
-1032298	a
-c
-1032301	c
-1032303	c
+NA
+NA
+NA
 a
+NA
 a
+NA
+NA
 a
-1032312	c
-c
-1032315	c
-1032318	c
-det.
-1032324	c
-1032326	det.
-1032331	a
-1032337	c
-c
-c
+NA
 a
-1032342	c
-1032344	a
-1032349	det.
-1032352	det.
+NA
+NA
 a
-1032359	a
-c
+NA
+NA
 c
+NA
 c
-1032368	a
 c
+NA
 c
-1032373	a
-1032377	c
 a
-1032380	c
-c
-det.
-1032385	c
+a
+NA
 c
-1032389	c
-1032392	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
 a
-1032403	c
-1032405	c
+NA
 a
-1032408	a
 c
+det.
 a
-1032415	det.
 a
-1032423	det.
-1032427	a
+NA
 a
-1032431	c
-c
-1032434	det.
-det.
-1032440	c
-1032444	c
-1032447	a
-c
+NA
 c
-1032451	c
 a
-1032454	a
-1032458	c
-det.
-1032462	c
-c
+NA
 c
-1032466	c
-c
-det.
+NA
+NA
+NA
 c
-1032473	det.
-1032475	a
-1032478	a
+NA
+NA
+NA
 c
+a
 c
-1032482	a
-1032485	a
-1032488	c
-1032490	c
-1032492	det.
-1032495	det.
-1032497	c
+NA
+NA
+NA
+NA
 c
-1032500	det.
 a
-1032503	a
-1032505	det.
-1032507	c
 c
 det.
-a
 c
-1032513	c
-1032515	c
-1032519	a
-1032521	det.
-1032523	a
-det.
+NA
+NA
 c
-1032527	c
-1032530	det.
-det.
-1032533	a
-1032535	c
-1032540	c
 c
-1032547	c
+NA
 c
+NA
 c
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
-det.
+NA
+NA
+NA
 a
-1032555	c
-1032558	det.
-det.
-det.
-1032564	a
-1032568	c
-det.
-1032571	det.
-1032573	c
-det.
-1032578	c
-c
-det.
-1032586	c
-1032589	c
-det.
-1032595	c
-1032599	a
-1032602	c
-1032607	det.
-1032614	c
-1032617	a
-1032621	c
-1032624	a
-1032626	det.
-1032629	c
-1032631	c
-1032633	c
-c
-1032639	c
-det.
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
 c
-1032644	det.
-1032646	det.
-1032651	c
-1032656	c
+NA
 c
-1032661	det.
-1032663	c
-1032665	c
-1032667	c
-1032671	a
-1032673	c
-1032676	c
 c
-1032686	a
-1032688	a
 c
-1032691	a
-1032693	c
 c
-1032697	det.
-1032699	c
 a
+NA
 det.
+NA
+c
 det.
-1032704	det.
+NA
 a
-1032710	c
+NA
 a
-1032713	a
-1032715	det.
-det.
-c
+NA
 c
-1032720	c
-1032724	c
-c
-c
-det.
+NA
+a
+a
+NA
 c
+NA
+NA
 c
-1032731	c
+NA
 c
+a
+NA
 c
-1032736	c
-det.
+a
+NA
 c
-1032741	c
-det.
-1032749	det.
-1032751	a
-1032755	det.
-1032758	c
-1032761	a
-1032765	det.
-1032770	c
-det.
-det.
-1032774	c
-1032777	det.
-det.
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-1032783	det.
+NA
+NA
+NA
+NA
 c
 c
-1032787	det.
-1032789	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1032794	a
-det.
-1032798	c
-det.
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
 c
-1032803	a
 c
+NA
+NA
+NA
 c
-1032807	a
-1032809	c
-1032813	c
+NA
+NA
+NA
+a
 c
 a
+NA
+NA
+NA
 a
-1032820	c
+a
+NA
+a
+NA
+NA
+NA
+NA
 c
-1032824	c
+NA
+NA
 c
-det.
-1032828	c
-1032830	det.
-1032832	c
-1032834	c
-1032836	c
+NA
 a
+NA
+NA
 a
-1032841	det.
-1032843	c
+c
+NA
+NA
 c
+NA
+c
+NA
+c
 a
 c
+NA
+a
+NA
 c
-1032852	c
-det.
-1032855	det.
-1032857	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
 c
+NA
+NA
+a
+NA
+NA
 det.
-1032862	c
-1032865	det.
-1032867	c
-1032869	a
+NA
+NA
+a
+a
+a
+NA
+a
+a
+a
 c
-1032872	a
-1032874	a
+a
 c
-1032877	c
-1032880	c
-1032886	c
-1032905	c
-1032907	a
-1032909	c
-1032911	c
+a
 c
-1032914	det.
-1032916	c
-1032922	det.
-1032924	c
-1032929	c
-1032936	det.
-1032938	c
-1032943	a
-1032948	c
-1032950	det.
-1032952	c
-1032956	det.
-1032959	c
-det.
+a
+NA
 c
-1032963	c
-1032965	c
+a
+a
+NA
+a
+a
+a
+NA
+a
 c
-1032969	det.
-1032974	c
-1032976	det.
-1032978	a
 c
-1032981	c
-1032983	c
 c
+a
+NA
 c
+NA
+NA
 c
-det.
-1032994	c
-1032998	a
-1033000	det.
+a
+a
+NA
+NA
+NA
 c
 c
-1033004	a
 c
-1033007	a
-1033009	a
 a
-1033013	c
-1033015	c
-1033019	det.
-1033026	c
-1033028	c
-1033031	c
-det.
+a
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+a
+NA
+NA
+a
+a
+a
+a
+NA
+NA
+NA
+NA
 c
-1033038	c
 c
-det.
-1033042	det.
-1033047	det.
 c
-1033050	c
-1033053	c
-1033055	c
 c
-1033059	det.
-1033063	c
-1033066	c
-1033072	c
-1033074	det.
-1033077	c
+NA
+NA
+NA
+a
+a
+NA
 c
-1033084	a
 a
-1033087	c
+NA
 a
-1033094	det.
+c
+NA
 a
-1033097	a
-1033101	det.
+NA
 c
-1033107	c
-1033109	c
+NA
+NA
+NA
+a
+NA
+a
 c
-1033113	a
-1033115	c
 c
 c
+NA
+NA
 a
-det.
-det.
+a
+NA
+NA
 c
+NA
+NA
+a
+a
+a
+NA
+NA
 det.
-1033124	c
+NA
+NA
 c
 c
-1033130	c
-1033135	c
-1033139	c
+NA
 c
-1033142	c
+NA
+NA
 a
-1033146	a
+NA
 c
-1033149	a
-1033151	c
+NA
+NA
 c
-1033155	c
-1033160	c
 c
+NA
 det.
-a
-1033165	c
-1033170	c
-1033173	c
-1033176	det.
-a
+NA
 c
-1033180	c
+NA
 c
-1033183	c
-det.
-det.
 a
-det.
-1033189	a
-1033191	c
-c
-det.
-1033200	c
-1033203	det.
+a
+NA
+a
+NA
 c
+NA
 c
-1033209	det.
-1033212	det.
-1033219	c
-det.
-det.
-det.
-det.
-1033225	c
-det.
+NA
 a
-1033229	c
-1033248	c
-1033253	a
-1033257	a
-1033268	c
-det.
 c
-1033272	c
-1033275	c
+a
+NA
 c
-1033278	c
+NA
+NA
 a
-1033281	c
-1033289	a
-1033291	a
-1033300	c
-1033302	a
+NA
+NA
+NA
 a
-1033306	c
-det.
-c
-1033311	a
-1033313	det.
-1033317	a
-1033319	c
-1033321	a
-1033324	c
-det.
-c
+NA
 c
-1033329	det.
-det.
-1033332	a
+NA
+NA
+NA
 a
 a
-1033336	c
-1033340	a
-1033352	c
-1033359	c
-1033361	det.
-1033368	c
+NA
 c
-1033376	a
-1033650	c
-1033658	c
-1034271	a
+NA
+NA
 a
 a
-1034276	c
-c
 a
-1034280	c
+NA
 a
-1034283	a
-1034285	c
-1034294	c
-c
-1034299	c
-1034305	a
-1034307	c
 a
-1034310	a
-1034312	c
-1034315	a
+NA
 a
-1034319	c
-1034323	a
-c
-1034326	a
-1034328	a
-1034331	a
 a
-1034336	c
-1034338	c
-1034344	det.
-1034346	c
-1034349	c
-1034352	c
-c
-1034356	c
-1034360	c
-1034363	c
-1034369	c
-c
-1034372	c
-1034374	c
-det.
-1034377	c
-det.
-1034380	a
-1034382	det.
-1034384	a
-1034386	a
-1034388	a
-1034390	c
-det.
-c
-det.
-c
 c
-det.
 a
+NA
 a
-1034402	a
-1034404	a
-det.
-c
 a
+NA
 a
-1034410	det.
-1034415	c
-c
-c
-1034419	a
-1034421	c
-det.
-1034424	c
-1034426	det.
-1034428	a
 a
-1034432	c
 c
+NA
 c
-1034438	c
-c
-1034442	det.
-1034444	a
 a
-1034448	a
-1034451	a
-1034453	a
-1034458	det.
-det.
-1034461	det.
-1034463	det.
-1034465	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
+a
+NA
 a
-1034471	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1034474	det.
-det.
 a
-1034478	det.
+NA
+NA
 a
-1034483	c
+NA
+a
 c
+NA
+NA
+NA
+a
+a
+NA
 c
-det.
-det.
-1034490	det.
-1034493	det.
-1034495	c
-1034497	det.
-1034499	det.
-1034501	c
-1034504	c
-det.
-1034507	c
 a
-1034514	det.
+NA
 a
-1034517	det.
+NA
+a
+NA
+NA
 c
-det.
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
 c
 a
-1034523	c
-1034525	det.
-det.
+NA
+NA
+NA
+NA
+NA
+a
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+a
 a
-1034530	det.
+NA
+NA
+NA
+NA
 a
-1034535	a
-1034537	a
-1034539	det.
+NA
+NA
+NA
+NA
+c
 a
-1034542	a
-1034544	a
-1034547	a
-1034549	det.
-1034552	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1034557	det.
+NA
 a
+NA
 c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1034565	a
-1034567	c
-det.
-1034570	a
+NA
+NA
 a
-det.
+NA
 c
+NA
+NA
+NA
+NA
+NA
 a
-1034578	c
-c
-1034582	c
+NA
+NA
 c
-det.
-1034587	c
 a
-1034591	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1034596	det.
-1034600	a
-1034602	a
-1034604	a
-1034608	c
-1034620	c
-1034622	a
+NA
 a
-1034625	c
-det.
-1034630	det.
-1034632	a
-1034634	a
-1034638	a
-1034641	det.
-1034643	a
+NA
+NA
+NA
+NA
+NA
 c
-det.
-1034647	det.
-1034649	c
-det.
-1034652	det.
-1034655	a
-a
-1034660	c
-1034662	c
-det.
 a
-1034666	a
+NA
+c
+NA
+NA
 a
-1034669	c
+NA
 c
-det.
-1034673	det.
-1034677	a
+a
+NA
+NA
+NA
+NA
+NA
 c
-det.
-1034681	a
-det.
-1034684	a
-1034688	det.
-1034691	det.
-1034693	a
 a
-1034696	a
-1034700	det.
-1034702	a
-1034704	det.
+NA
 a
+NA
 a
-1034711	c
+NA
+NA
+NA
+NA
+NA
 c
-1034715	a
+NA
 c
 c
-1034722	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-det.
-det.
-1034727	c
-1034730	a
-a
-1034733	det.
-1034735	c
-det.
-1034738	det.
-1034740	det.
-a
-1034745	det.
-1034749	c
-det.
-1034752	a
-1034755	a
-1034760	a
+NA
+NA
+NA
+NA
+NA
 a
-1034768	a
+NA
+NA
+NA
+NA
 a
-1034771	a
-1034773	c
-c
+NA
 c
-1034777	c
-det.
-1034780	a
-1034783	a
 a
-1034786	a
 a
-1034789	a
-1034792	c
-1034794	det.
-1034796	c
-det.
-1034799	det.
-det.
-1034803	det.
-1034807	c
-det.
-1034810	det.
-1034813	det.
-det.
-1034816	c
-det.
+NA
 a
-1034821	a
+NA
 a
-1034826	c
+NA
+NA
+NA
+NA
+c
 a
-1034831	c
 a
-1034835	c
-1034840	c
-c
-1034843	c
-1034847	a
+NA
 a
-1034851	a
+NA
+a
+NA
+NA
+NA
 c
-1034854	c
-det.
-1034857	det.
-1034859	a
-1034861	c
-1034863	c
-1034866	det.
-det.
-1034871	c
-1034874	c
 c
-a
-det.
-det.
+NA
+NA
+NA
 c
 c
-1034887	det.
-1034889	det.
-1034892	det.
-1034894	det.
-1034896	a
 a
-1034901	a
-1034903	det.
-1034905	c
-1034911	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1034914	a
-1034916	a
-1034918	a
-c
-1034927	c
-1034931	c
-det.
-1034936	a
-1034938	a
-1034943	det.
+NA
 a
+NA
+c
+c
 a
+NA
 a
-1034949	a
-1034953	det.
-1034956	det.
-1034958	a
-det.
-1034961	c
-1034963	c
-1034967	det.
-1034971	c
-1034973	c
-1034977	c
+NA
 c
-a
-1034981	a
 c
-1034986	a
-1034990	c
-det.
-1034993	a
-1034995	c
-1034998	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-det.
-1035011	a
-1035014	c
-1035019	c
-1035026	a
 a
-1035029	a
-1035031	a
-c
+NA
 a
-det.
-1035036	c
-det.
-det.
-1035040	det.
-1035046	c
-1035051	c
+NA
 c
-1035055	c
+NA
+NA
 c
+NA
 c
 a
-1035063	c
 a
-1035068	a
-1035070	a
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1035073	a
-1035081	c
 c
-det.
-1035087	a
-1035091	c
-1035093	a
-1035095	c
+NA
 a
-1035099	c
-1035105	c
-1035109	c
-1035113	c
+NA
 a
-1035116	c
-1035124	c
-det.
-1035127	c
-1035129	c
-c
+NA
 a
-1035136	a
-1035138	c
-det.
-1035141	det.
-1035143	c
-1035145	a
-1035153	c
-1035156	a
-1035159	c
-1035161	a
-1035164	a
-1035167	a
+NA
 a
 a
-1035171	a
 c
+NA
 c
-1035176	c
 a
+NA
 a
-1035181	a
-1035183	a
-1035185	c
-c
 a
-1035189	c
+NA
 c
-c
+NA
+a
+NA
 c
 c
 a
-a
-1035197	c
-c
+NA
 c
-1035202	c
-1035209	a
-1035213	c
+NA
+NA
+NA
 a
-1035219	c
+NA
+c
 a
-1035223	c
-1035225	c
-1035227	c
-1035229	c
-1035231	a
-1035236	c
-1035239	c
 a
+NA
+NA
 a
-1035244	a
+NA
+NA
 a
+NA
+NA
+NA
 a
-1035248	a
-1035251	a
-1035253	a
+NA
+NA
+NA
+NA
 c
-1035258	a
+a
+NA
+NA
 c
+NA
+NA
 c
-a
-1035268	a
-1035272	c
-a
-1035275	a
+NA
+NA
+NA
+NA
 c
-1035282	c
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
 a
 a
 a
-1035291	c
-1035293	c
 c
-1035296	c
 c
-1035300	c
 a
-c
-1035304	c
+NA
 a
-1035307	a
-1035310	c
-c
 a
-1035314	a
+NA
 c
 a
-1035318	a
-1035321	c
 a
-1035326	c
-1035328	a
-1035330	c
 c
-1035333	c
+a
+a
+a
 c
-det.
 a
-1035339	c
+NA
+NA
 c
+a
+NA
+a
+a
 c
-1035344	c
-1035346	c
+NA
+NA
+a
+NA
+NA
 c
-1035349	a
-1035351	c
+a
+NA
+NA
+NA
+a
+NA
 a
-1035354	a
+NA
+NA
 c
-1035360	c
 a
-1035363	c
+NA
+NA
+a
+NA
+NA
 c
-1035366	c
+NA
 a
-1035369	c
+NA
+NA
+NA
 c
+NA
 c
-1035374	c
-1035376	c
 a
-1035382	c
-c
-1035386	c
+NA
+a
+NA
+NA
+a
+a
+NA
+a
+a
 c
-1035389	c
+NA
+NA
+NA
 c
-1035393	a
-1035397	c
-1035400	c
-1035406	c
+a
 det.
-1035409	a
-1035415	c
-1035417	c
-1035420	c
-1035425	c
-1035427	c
-1035430	c
-1035432	c
+NA
 c
-1035435	c
-1035439	c
-1035441	c
+NA
 c
+NA
+NA
+NA
 c
-1035445	c
-1035447	c
-1035452	c
-1035454	c
+NA
+NA
+NA
+NA
 c
-1035459	c
-1035461	c
+NA
+a
+NA
+a
+NA
+NA
 c
-1035464	det.
-1035466	c
+NA
 c
-1035469	c
-1035471	c
 a
+NA
 c
-1035475	c
+NA
 c
-1035478	c
-1035481	c
-a
-1035485	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-1035490	c
-1035492	c
-1035494	c
 a
-1035497	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
-1035500	a
-1035502	c
-1035504	c
 a
+NA
+NA
+NA
+NA
+NA
 a
-1035509	c
+NA
+NA
 c
-1035512	c
+NA
+NA
 c
-1035515	c
+NA
+NA
 c
+NA
+NA
 a
-1035519	c
-1035521	c
 a
+NA
 a
-1035526	c
+NA
 c
+NA
 a
-1035531	c
-1035535	c
+NA
 a
-1035538	c
+NA
 c
-a
+c
 a
+NA
+NA
 a
-c
-1035545	c
+NA
 a
-1035549	c
 a
-1035552	a
-1035554	c
-c
-1035558	c
-c
+NA
 a
 a
-1035563	a
-1035565	a
 a
-1035568	a
-1035570	c
+NA
 a
-1035574	c
+NA
 c
-1035581	c
-a
-1035584	c
 c
 a
-1035588	a
+NA
+NA
 a
-1035591	a
-1035593	c
-a
-1035596	c
+NA
 c
-1035599	a
 a
 c
 a
-1035604	a
-1035606	c
 a
-1035609	a
-1035612	c
-1035615	c
-c
-1035618	c
-1035621	c
+NA
 c
-1035624	c
+NA
 c
-1035627	det.
-1035629	c
+a
+NA
 c
-1035632	a
-1035635	a
-1035637	c
+a
+NA
+a
+a
+NA
 a
-1035643	c
 a
-1035646	c
-1035648	c
-1035650	c
+a
+NA
 c
-1035655	c
-1035660	c
+NA
+a
 a
-1035663	c
+NA
+NA
 c
+a
+NA
+a
 a
-1035668	c
+NA
+NA
+a
+NA
+NA
 c
+NA
+a
+a
+a
+NA
 a
-1035678	c
-1035681	c
+a
+a
+a
+NA
 c
-1035686	a
+a
+a
 c
 a
-1035690	c
-1035692	c
-1035696	c
-1035698	c
+NA
 det.
-1035702	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 a
-1035705	c
+NA
+NA
 c
-det.
-1035709	a
+NA
 c
 a
-1035713	c
+NA
 a
-c
+NA
 a
-c
-c
+NA
 a
-1035721	c
+NA
 a
+NA
+NA
 a
-1035725	a
 a
-1035728	a
-1035734	a
-1035736	c
 a
-c
 a
-1035742	c
-1035747	c
-1035752	c
+NA
 a
-1035755	c
+NA
+NA
 a
-1035758	c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-1035761	c
-1035764	a
-1035767	c
-1035770	det.
+c
+NA
+NA
+NA
+NA
+NA
 c
-1035775	a
+NA
 c
+NA
+NA
+NA
 c
-1035779	c
-1035782	a
-1035784	c
 c
 a
+NA
 a
+c
 a
-1035790	c
-1035796	c
-1035798	a
-1035800	a
+NA
+c
 a
-1035803	c
-1035806	c
 c
-1035809	c
-1035811	c
 c
-1035814	c
+NA
 c
+NA
+NA
+c
+NA
 a
-1035820	a
-1035823	c
+NA
+NA
+NA
 a
-1035826	c
-1035829	c
-1035831	c
+NA
 a
+NA
+NA
 a
-1035835	c
 a
-1035838	a
-1035840	c
-c
+NA
 a
-1035845	c
-c
-c
 a
-1035850	c
+NA
 a
+NA
+NA
+NA
+a
+NA
+a
 c
+c
 a
-1035855	c
+c
 a
+NA
 c
+NA
+NA
+c
 a
-1035860	a
+NA
 c
 c
-1035865	c
-1035867	c
-1035869	c
-1035871	c
 a
-1035874	c
+NA
 a
-1035877	c
 c
 c
-1035881	det.
-1035883	c
+NA
+a
 c
 a
-1035888	c
-1035890	c
+NA
 a
-1035894	c
-c
-1035897	c
+NA
+NA
 a
-1035900	c
 a
-1035903	a
-1035908	c
-1035911	c
-1035913	a
-1035916	c
-c
-1035919	c
-c
-1035923	c
-c
-1035926	c
-c
+NA
 a
-1035930	c
+NA
 a
-1035933	c
-c
-1035937	c
-1035939	c
-c
-1035943	c
-1035945	a
-1035947	a
+a
+NA
+a
+a
+NA
+a
+NA
+a
+a
+a
+NA
+a
+NA
 c
+a
+NA
 c
-1035951	c
 a
-1035954	a
-1035957	a
-1035960	c
-1035962	c
+NA
+NA
+NA
+NA
 c
+a
 c
-1035969	c
+NA
+a
+NA
 c
-1035973	a
-1035976	c
-1035979	c
-1035984	c
-1035986	c
-det.
-1035989	c
-1035992	c
+a
+a
+NA
 c
 c
+NA
+NA
+NA
+NA
+a
 c
-1035997	c
+NA
+a
+NA
 c
-1036002	c
 c
-1036008	c
+NA
+NA
+NA
+NA
 a
-1036011	c
+NA
 a
-1036019	a
-c
-1036028	c
-c
-c
-1036032	c
-1036036	c
+a
+NA
+NA
+NA
+a
+a
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
 c
-1036039	c
 c
-1036042	a
-1036045	a
-1036047	c
-det.
+a
+NA
 det.
-1036051	c
+NA
 a
-1036054	c
 c
-a
-1036058	c
+NA
+NA
+NA
+NA
 c
-1036062	a
-1036064	a
-1036067	c
-1036070	c
+NA
 a
-1036074	c
+NA
+NA
+NA
 c
+NA
 c
 a
-1036080	a
-1036083	c
-1036087	c
-1036089	a
-1036094	c
-c
+NA
+NA
+NA
+NA
 c
-1036098	a
-1036100	c
+NA
 c
-1036104	c
+a
+NA
+NA
 c
+NA
 c
-1036108	a
-1036110	a
+a
+NA
+a
+a
+NA
+a
+NA
 c
-1036117	a
-1036122	a
+a
+NA
+NA
 a
 a
-1036127	a
-1036129	c
+c
+a
+NA
 a
-1036134	c
-1036136	c
-1036141	c
-1036144	a
-1036146	c
-1036148	c
-1036150	a
-1036152	a
-1036155	c
+NA
 c
-1036159	c
-1036161	a
-1036163	a
-1036167	a
-1036171	det.
-1036175	a
 a
-1036179	c
-1036182	a
-1036184	a
-1036186	c
-1036189	c
+NA
+NA
+NA
+NA
 a
-1036192	c
-1036195	a
+a
+NA
+NA
+NA
+NA
+NA
+c
+NA
 c
+NA
 a
-1036199	c
-1036202	c
-1036205	c
+NA
+NA
+NA
+NA
 c
-1036208	c
-1036210	a
-1036212	c
-1036215	c
-det.
-1036223	a
-1036226	c
+NA
+a
 a
-1036230	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+det.
+NA
 a
-1036233	a
-1036239	c
-1036241	c
-1036245	a
 a
+NA
+NA
+NA
 c
-1036249	c
 c
-1036255	c
-1036259	c
-a
+c
+c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1036266	a
-1036268	c
+a
+NA
+NA
 c
-1036274	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-a
+NA
+NA
+NA
+NA
 c
-1036281	c
-1036286	a
-1036288	c
-1036290	c
-1036294	a
-1036297	a
-1036300	c
 a
-1036303	c
-1036305	c
-1036308	c
-1036310	a
-1036313	c
-1036316	c
-c
-1036320	c
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
+NA
+a
 c
-1036325	c
 a
-1036328	c
+NA
 a
-1036332	a
-1036336	a
+NA
 c
-1036339	a
-1036342	c
+NA
+NA
 c
-1036346	a
-1036349	c
 a
-1036354	a
-1036356	a
-1036360	c
-1036363	c
+NA
+NA
+NA
+NA
 c
-1036366	c
-1036370	c
-1036374	c
-1036376	a
 a
-1036379	c
-c
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+a
+a
+NA
 c
-1036384	c
-1036389	a
-1036391	c
 a
-1036394	c
-1036397	c
-det.
-1036402	a
+a
+a
+NA
 a
-1036405	c
+NA
+NA
+NA
+NA
 a
-1036410	c
+NA
 c
-1036414	a
-1036416	c
-1036421	c
 c
 a
-1036430	c
+NA
 a
-1036433	c
-1036442	a
-1036449	a
-1036451	c
+NA
+NA
 a
-1036454	c
 a
-1036458	c
+NA
+NA
+NA
+NA
 a
-1036465	c
-c
+NA
+a
+NA
+NA
 a
+NA
+NA
+NA
+c
 a
-1036472	a
-1036475	a
 a
-1036479	c
-1036482	det.
-1036485	c
 c
 c
-1036489	c
-1036495	c
-1036500	c
+a
+NA
+a
+NA
+a
+NA
+a
+NA
+NA
 c
-1036504	c
-1036506	a
-1036510	a
-1036512	c
 c
-1036517	a
-1036519	c
+NA
+NA
+NA
+NA
 a
-1036523	c
-c
-1036526	c
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
+NA
 c
-1036531	c
+NA
+NA
 a
-1036534	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-1036539	a
 c
-1036542	c
+NA
+NA
+a
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1036546	c
 a
 a
-1036550	c
 a
-c
-1036556	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1036561	c
-1036563	a
+NA
+NA
+NA
+NA
 c
-det.
-1036567	det.
+a
+NA
+a
+NA
 c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
 c
-1036575	c
-1036579	c
-1036581	c
+a
+a
+a
+a
+NA
+NA
 c
+NA
+NA
+a
 a
-1036585	c
 c
-1036595	c
-1036597	c
+a
+NA
 c
-1036600	c
-1036602	c
-1036605	c
 a
-1036608	c
-1036611	c
-1036615	c
+NA
 a
-1036619	c
-1036621	c
-c
-1036625	c
-1036627	c
+NA
+a
+NA
 c
-1036631	c
-1036633	a
-1036635	c
+NA
+NA
+NA
+a
 a
-1036639	c
-1036641	c
+NA
+a
 c
 a
-1036646	c
-det.
-1036649	c
+NA
+a
+a
+NA
+NA
+NA
 det.
+NA
 c
+NA
+a
+NA
+NA
+a
+NA
 c
-det.
-1036657	c
+NA
+NA
+NA
+NA
 a
-1036662	c
+NA
+NA
+NA
+NA
 c
-1036666	c
 c
-1036670	det.
-1036676	c
-1036680	c
+NA
 a
-1036686	c
-c
-1036689	c
-1036691	c
+NA
 c
-1036694	c
+a
+NA
+NA
+NA
+NA
+NA
 c
+a
 a
-1036702	a
-1036707	c
-1036709	a
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-1036714	c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-1036717	c
-1036719	a
-1036721	c
-1036723	c
+NA
 c
-1036727	c
-1036729	c
-1036731	c
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
 c
-1036737	c
-1036739	c
+NA
+NA
+a
+NA
+a
+NA
+a
 c
 c
+a
+a
+NA
+a
+NA
+NA
+a
 c
-1036745	c
-1036748	c
+a
 c
-1036751	c
-1036753	a
-1036756	c
-1036758	a
-1036763	c
-1036765	c
+NA
+NA
+NA
+det.
+NA
+NA
+NA
+a
+NA
+a
+a
+a
 c
-1036769	c
+a
+NA
+det.
+NA
+NA
 c
-1036776	c
 c
+a
 a
+NA
+NA
+a
 c
+a
 a
-1036782	c
 c
-1036787	a
-1036789	a
+a
+NA
+a
+NA
 c
 a
-1036793	c
+NA
+NA
+det.
 a
-1036796	a
-1036798	c
+NA
 a
-1036807	a
-1036809	c
-1036811	c
+NA
+NA
+NA
 c
+NA
+a
+a
 det.
-1036816	a
-1036818	a
+NA
+a
+NA
 a
-1036821	c
+NA
 det.
-1036824	c
-1036827	c
+NA
+NA
+NA
 c
-1036832	c
-c
-c
-1036838	c
-1036840	a
-c
+NA
 a
-1036844	a
-1036847	a
-1036850	a
-1036852	c
-1036854	c
-det.
+NA
+a
+a
+a
+NA
 c
+NA
+a
+NA
 det.
-1036859	a
-1036861	c
-c
-1036864	c
 a
-1036867	c
-1036870	c
+NA
+NA
 c
-1036874	c
 a
-1036878	c
-1036881	c
-c
-1036884	c
+NA
 a
-1036887	a
-1036893	c
-1036896	c
-1036899	c
-1036901	a
-1036903	c
-c
-1036908	a
-1036910	c
-1036913	c
-1036915	c
+NA
+a
+NA
+NA
+NA
 a
-1036918	c
-1036920	c
 c
-1036923	c
-1036925	c
 a
-1036928	c
 a
-1036931	c
 a
-1036934	c
+NA
 a
-1036937	c
 a
-1036940	a
-1036942	c
-1036944	c
+NA
+NA
 a
-1036947	c
-1036950	a
-1036952	c
+NA
 a
-1036955	a
-1036958	c
-1036961	c
-1036963	c
 c
-1036968	c
-1036970	c
 a
-c
-1036975	a
-1036977	c
-c
+NA
 a
-1036981	c
 a
-1036985	c
-1036987	c
-1036989	c
-c
-1036992	a
-1036994	c
-1036997	c
-c
-1037000	c
-1037003	a
-1037005	a
-1037007	c
-c
-c
-c
-1037013	c
-c
-1037018	c
-c
-1037021	c
-c
 a
-1037026	c
-c
 a
-1037031	c
-c
-1037034	c
-1037036	c
-c
-1037046	c
-1037050	c
-1037052	c
+NA
 a
-1037056	c
-det.
-1037059	c
-det.
-c
-det.
-1037064	c
-det.
-c
-det.
-1037069	c
-det.
-c
-det.
-1037074	a
-1037077	a
-1037079	a
-1037081	c
 a
-1037093	det.
 a
-1037096	c
-1037099	c
-c
 a
-1037103	c
+NA
 c
+det.
+NA
+NA
 a
-1037107	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 c
 a
-1037112	c
-c
-1037115	c
-1037122	c
-1037126	a
-c
-1037132	c
-1037136	a
-1037138	c
-det.
-1037142	c
-det.
-c
+NA
+NA
+NA
 c
-det.
-1037148	c
-det.
-1037152	c
-det.
 c
-det.
-1037157	c
-det.
-1037161	a
-1037163	a
-1037166	c
-1037169	c
 a
-1037172	c
-c
-1037176	a
-1037178	a
-1037180	c
-c
+NA
 a
-1037184	a
-1037187	a
-1037189	c
-1037191	c
+NA
+NA
+NA
+NA
 a
-1037194	c
-1037196	c
-c
-1037200	c
-c
-1037203	c
-c
+NA
+NA
 c
-1037207	c
-c
-1037211	c
-c
-1037214	c
-c
+NA
+a
+NA
+NA
 c
-1037218	c
+NA
+NA
 c
-1037222	c
+NA
+NA
 a
-1037227	c
-1037229	c
-c
-1037232	c
+NA
 a
-1037235	c
+NA
 a
-1037238	c
-1037241	c
+NA
 a
-1037244	c
-c
-1037247	c
-c
-c
-1037253	c
-c
-c
-1037258	c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+a
 c
+a
+a
 c
+NA
 c
-1037266	c
-a
-1037269	a
-1037271	c
+det.
+NA
+NA
 a
-1037274	a
-1037277	a
+NA
+NA
+NA
 a
-1037280	a
+NA
+NA
 a
-1037283	a
-1037285	c
-c
+NA
+NA
 a
-1037289	c
+NA
+NA
+NA
 a
-1037292	a
-1037297	c
-1037300	c
+NA
 c
 a
-1037308	c
+c
 a
-1037312	c
+NA
 c
+det.
 c
-a
-1037319	c
-a
-1037322	c
 c
-1037325	c
 a
-1037328	c
+NA
 c
 a
-1037332	c
-a
 c
 a
-1037337	c
+NA
+c
+det.
+c
 c
-1037340	c
+NA
 c
 a
-1037344	c
+NA
+NA
+NA
+NA
 a
-1037348	c
+NA
 a
-1037351	c
-c
-1037355	c
-1037357	c
+NA
 a
-1037360	c
 a
-1037364	c
-1037366	c
 a
-1037370	a
-1037372	a
-1037374	a
-1037376	c
+NA
 c
+det.
+NA
 a
 a
-1037381	a
-1037383	a
+c
 a
-1037386	c
+NA
 c
 a
-1037391	a
-1037393	a
-1037395	a
 c
 a
-1037399	a
-1037401	c
+NA
+c
 a
-1037406	c
+c
+NA
 a
+NA
 a
-1037410	c
 a
+NA
+NA
+NA
 a
-1037414	a
-1037418	a
-1037420	a
-1037423	c
 a
-1037429	c
+NA
 a
-1037432	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-1037436	a
-1037440	a
-1037442	c
+NA
+NA
+NA
 a
-1037445	c
+NA
 a
-1037448	c
+NA
+NA
 a
-1037451	c
+NA
+NA
+NA
 a
-1037455	c
+NA
+NA
+NA
+NA
+NA
 c
-a
-1037460	c
-a
-1037463	c
+NA
+c
 a
-1037466	c
+NA
 a
-1037469	c
+NA
+NA
 c
 a
-1037475	c
+NA
 a
-1037478	c
+NA
 c
-c
+a
+NA
 a
-1037485	c
+NA
+NA
 c
 a
+NA
 a
-1037490	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
 c
-1037496	a
-c
 a
-c
-1037502	c
-1037506	a
-1037509	c
-1037511	c
+NA
+NA
+NA
+NA
 c
+NA
+NA
 a
-1037515	c
-1037520	a
-a
-1037523	a
-a
-1037526	c
-1037528	a
-1037530	c
-1037532	c
-1037535	c
-1037537	c
-1037539	c
-det.
-det.
-1037544	c
-1037546	c
+NA
+NA
 c
+NA
+NA
 a
-1037550	a
-1037552	c
-1037554	c
-1037556	c
-1037558	a
+NA
+NA
+NA
+NA
 c
 a
-1037562	c
+NA
+NA
 a
-1037569	c
-1037572	c
-1037574	c
-1037578	c
-1037583	c
-1037585	c
+NA
 c
-1037588	c
 a
-1037591	c
-1037593	c
+NA
+NA
+NA
+NA
 c
+c
 a
-1037599	c
+NA
+NA
 c
+NA
+NA
 c
-1037607	a
-1037610	c
 c
+NA
 c
-1037615	a
-1037618	a
 a
-1037621	c
 a
-1037624	a
+NA
 a
+NA
 a
-1037629	c
+NA
+NA
+NA
 a
 a
-c
+NA
+NA
+a
+a
+a
+NA
+a
+NA
 c
+NA
 a
-1037636	a
-1037638	c
 a
-1037641	a
-1037644	a
-1037646	a
-1037648	c
 c
-1037653	c
+c
+a
+NA
+a
+NA
+NA
 c
-1037656	a
-1037659	c
-1037661	c
-1037663	a
+NA
+a
 a
-1037669	c
-1037671	a
-1037674	c
-1037678	c
-1037681	a
-1037683	c
-1037685	c
-1037689	c
-1037695	c
+NA
+NA
+a
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+a
+NA
+a
+NA
 c
+NA
+NA
+NA
 c
+NA
+NA
+a
+a
+NA
+NA
+NA
 c
-1037703	c
 c
 a
-1037708	c
+a
 c
 a
-1037712	c
+NA
 a
+NA
 c
-1037717	c
 c
-1037720	c
-1037722	c
+NA
 a
-1037729	c
-1037733	a
-1037735	a
-1037737	c
-c
+a
+NA
+NA
+NA
+NA
+NA
 c
 a
-1037743	c
-1037745	c
 a
-1037748	a
-1037750	c
+NA
+NA
+NA
 a
-1037755	c
-1037757	c
+NA
 a
-1037761	c
-1037765	c
-c
-1037768	c
+NA
+NA
 c
 a
-1037773	c
-1037775	a
 a
 a
-c
-1037780	a
-1037783	a
-1037786	c
-1037788	a
-1037790	c
-1037795	c
-1037797	c
-1037799	c
-1037802	c
+NA
+NA
+a
 a
-1037805	c
-1037809	c
-1037811	c
-1037815	c
-1037817	a
-1037819	c
+NA
 a
-1037823	c
+NA
+NA
 a
-1037827	c
-1037829	c
+c
 a
+NA
+NA
 a
-1037834	a
-1037836	a
 a
+NA
 a
-1037840	c
-1037842	c
-1037844	c
+NA
+NA
 a
-1037848	a
-1037850	c
+NA
+NA
 a
-1037853	c
+NA
+NA
 a
-1037857	c
-1037860	c
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
-1037863	a
-1037866	c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1037870	c
 a
+NA
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
 a
-1037875	c
-1037878	a
-1037880	a
-1037882	c
-1037884	c
 a
-1037887	c
+NA
+NA
+c
+NA
 a
-1037890	c
-1037892	a
-1037894	c
-1037897	c
-1037899	c
+NA
+NA
+NA
+NA
 a
-1037902	c
 a
-1037905	c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+c
 a
-1037908	a
+NA
 a
-1037911	c
 a
-1037914	c
+c
+c
+NA
 c
+c
+NA
+c
+NA
 a
-1037918	c
 a
-1037921	a
-1037923	c
 a
-1037927	a
-1037929	c
 a
-1037932	c
 a
-1037935	c
 a
 a
-1037939	c
+c
+NA
 a
-1037942	c
-1037945	a
-1037947	a
-1037950	c
+NA
+NA
+NA
+NA
 c
-1037953	c
+NA
+NA
+NA
 a
-1037956	c
+NA
+NA
+NA
 a
-1037959	c
+NA
+NA
 c
 a
-1037965	a
+NA
 a
-1037968	c
+NA
+NA
 a
-1037971	c
-c
-1037975	c
-1037977	c
+NA
 a
-1037980	c
-c
+a
 a
-1037984	c
+NA
+NA
+NA
 c
+NA
+NA
 c
+c
+NA
+a
+NA
+NA
 a
-1037990	c
+NA
+NA
 a
 c
 c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-1037996	c
+NA
+NA
+c
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
+NA
 c
+c
+c
 a
-1038006	c
-1038011	c
 a
-1038015	c
+NA
 a
-1038020	a
-1038023	a
-1038027	c
+NA
 a
-1038030	c
-1038033	a
-1038035	c
+NA
+NA
+c
 a
-1038038	a
+NA
+NA
 a
-1038042	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1038045	c
-1038047	det.
-1038049	c
+NA
 a
-1038053	c
-1038055	det.
-1038057	c
-c
 a
-1038063	det.
-c
 a
-1038067	c
 a
-1038070	c
+NA
+NA
+NA
 c
-1038073	c
+NA
+NA
 a
-1038077	c
-1038080	c
-c
+NA
+a
+NA
 c
-1038085	c
-det.
-1038089	a
-1038091	a
-1038097	c
 a
-1038103	c
+NA
 a
-1038107	a
-1038109	a
-1038114	c
+NA
+NA
 a
-1038118	a
+NA
+NA
+c
+a
+NA
 a
-1038121	c
+NA
+NA
 a
-1038124	c
-1038127	c
 c
+NA
+NA
+NA
 a
-1038131	c
+NA
 a
-1038134	c
+NA
+NA
 a
-1038137	c
 c
 c
 a
-1038143	c
-1038148	a
-1038150	c
+c
+NA
+det.
+NA
 a
-1038153	a
-1038155	c
 a
-1038158	a
-1038160	c
+NA
+NA
+c
+NA
+c
+c
 a
-1038163	a
-1038165	c
 a
-1038168	c
+NA
 a
-1038171	c
+NA
+NA
+NA
+NA
+NA
 a
-1038176	a
-1038179	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1038182	c
+NA
+NA
 c
+NA
 a
-1038186	a
+NA
 a
-1038189	c
-c
-1038192	c
-c
 a
+NA
 a
-1038197	a
-1038199	c
-1038203	c
+NA
+NA
+NA
+NA
 a
-1038206	a
-c
-c
-1038210	c
+NA
+NA
 a
-1038215	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
 a
-1038220	a
-1038222	c
+NA
 a
-1038225	c
+NA
 a
-1038230	a
+NA
+NA
+c
 a
-1038237	a
+NA
 c
+a
 a
-1038242	c
 a
-1038245	a
+NA
 c
 a
-1038249	a
-1038252	det.
-det.
-1038255	a
-1038257	c
+NA
+NA
+NA
+a
 c
-1038262	c
+NA
 c
-1038268	a
 a
-1038272	a
-1038274	c
+NA
 c
-1038279	c
+NA
+NA
+NA
 c
-1038282	c
+NA
+NA
+NA
 c
-1038285	c
-det.
-1038289	c
-1038293	c
-a
-1038296	c
+NA
+NA
+NA
 c
-a
-1038301	a
-1038306	a
-1038308	a
-1038310	det.
-1038312	a
-1038316	a
-1038320	c
-a
 a
-a
+NA
+c
 a
-1038326	c
-1038330	c
+NA
+c
 a
+NA
 c
+det.
+NA
+NA
 c
+NA
 a
-1038337	a
+det.
+NA
+NA
 c
-1038340	c
 a
-1038343	c
-1038347	a
-1038349	c
-1038353	c
-1038355	c
-1038361	a
+NA
+NA
+NA
 c
-1038365	c
-1038369	c
 a
-1038373	a
+NA
 c
-1038377	c
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
 c
-1038385	c
-1038387	c
-1038390	a
-a
-1038393	a
-1038400	c
-a
-1038407	a
-1038410	c
+NA
 c
-1038419	c
-1038426	c
-1038428	a
-1038430	c
-1038432	c
+NA
+NA
+NA
+NA
 c
-1038436	c
+NA
+NA
+NA
+NA
+NA
 c
-1038443	a
+NA
+NA
+NA
 a
-1038446	a
 c
+NA
 a
-1038450	c
+NA
+NA
 a
-1038454	a
-1038456	c
-c
-c
-1038461	c
-1038463	a
-1038465	c
-1038468	c
+NA
 a
-1038471	a
-1038474	c
-1038476	a
-1038478	c
-c
-1038481	c
-1038483	c
-1038485	c
-1038487	c
-1038489	c
-1038492	a
-1038494	c
-c
+NA
+NA
 a
-1038498	c
+NA
 a
-1038502	c
-c
-1038506	a
-1038508	a
+NA
 a
-c
+NA
+NA
 a
-1038516	a
-1038518	a
-1038523	c
+NA
 a
+NA
+NA
 a
+NA
 a
-1038528	a
-1038530	c
-1038533	c
+NA
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-1038541	c
 c
-1038545	c
 c
-1038550	c
-1038552	c
 c
-a
+NA
+det.
+NA
 c
 a
-1038558	a
-1038561	c
+NA
 c
+c
 a
-1038565	a
+NA
+NA
+NA
+c
 a
-1038569	c
-1038571	c
-1038573	a
+NA
+NA
 c
+NA
+NA
 c
-1038578	c
-1038583	c
-1038587	c
+NA
 a
-1038590	a
-1038593	c
+NA
+NA
+NA
+c
+c
+NA
 c
-1038596	a
-1038599	a
-1038603	c
-1038605	c
-1038607	c
-1038610	c
 c
-1038613	c
-1038616	c
+NA
+NA
+NA
 c
-1038620	c
-1038624	det.
+NA
+NA
 c
+NA
 c
+NA
+c
+NA
 a
-1038629	c
+NA
+NA
 a
-1038633	a
-1038636	a
-1038638	c
-c
-1038642	a
-1038644	c
 c
-1038647	c
-1038649	c
-1038652	c
-1038654	a
-1038656	c
-1038658	c
+NA
+NA
+NA
+NA
+NA
 c
-1038662	a
-1038666	c
-1038672	c
-1038674	c
-1038676	c
+NA
+NA
+NA
 c
-1038682	c
-1038688	c
-1038690	a
-1038693	a
+NA
+NA
 c
 c
-det.
-1038698	det.
-a
-1038701	c
-1038704	det.
-1038706	c
+NA
 c
-1038712	c
-a
-1038717	a
+NA
 c
-1038721	a
-a
-1038727	c
-a
-1038730	c
-1038732	c
-1038734	c
-1038736	a
-1038738	c
 c
-det.
-1038742	c
-1038744	a
+NA
+NA
 c
 c
-1038750	c
 a
-1038759	a
-1038762	c
+NA
+NA
 c
-1038766	c
-c
-1038772	a
 a
-1038775	c
 a
-1038778	c
 c
-1038782	c
-1038784	c
-det.
+a
 c
-1038788	a
-1038791	a
-1038794	c
+a
 a
-1038797	c
+NA
+NA
 a
-1038800	a
-1038802	a
-1038804	a
-1038807	a
-1038809	c
 a
-1038818	a
 a
-1038826	a
 c
+NA
+NA
+NA
 a
-1038830	a
+NA
 a
-c
-c
 a
-1038836	c
 a
-1038843	c
-1038845	a
-1038848	c
 a
-1038851	c
 a
-1038854	c
-1038856	c
-c
-1038859	c
-c
-1038862	c
-c
-1038865	c
-c
-c
-1038870	a
-1038872	a
-1038875	c
-c
-1038880	c
-1038882	det.
-1038884	c
+NA
 a
-1038888	c
-1038890	a
+NA
+NA
+NA
 a
-1038893	a
-1038896	c
-1038898	c
-c
-1038901	c
 a
-1038904	c
-1038906	a
-1038908	c
-1038913	c
-1038916	c
-1038919	c
-c
-c
-1038923	c
-c
-1038929	c
-1038932	a
-1038934	c
 a
 a
-1038939	c
-1038942	c
 c
-1038946	a
-1038949	c
 a
-1038952	a
-1038954	c
-1038958	a
-c
-c
-1038965	a
-1038967	a
-1038970	c
-1038972	a
-1038975	a
-c
-c
-1038980	c
-1038982	c
-c
+NA
 a
 a
-c
-1038988	c
-1038991	c
-1038995	c
-1038998	c
-c
-c
-1039007	c
-1039009	c
 c
-1039012	c
-1039018	c
-c
-1039023	a
-c
-1039029	c
 a
 a
-1039033	c
 a
-a
-c
 c
 a
-1039040	c
-c
+NA
 a
-1039046	a
-1039048	a
 a
+NA
 c
 a
-1039053	c
 a
-1039056	a
-1039058	c
 a
-1039063	a
-1039066	c
+NA
 a
-1039070	c
-1039073	a
+NA
 a
-1039076	c
-1039079	c
 a
-c
-1039083	a
-c
-1039086	c
-1039088	a
+NA
+NA
 a
-c
 a
+NA
+a
+NA
+NA
+a
+NA
+a
+NA
 c
+a
+NA
+NA
+a
+NA
+NA
 c
-1039095	c
-1039098	c
-1039101	c
-1039104	c
-1039107	c
 c
 a
-1039111	c
-1039115	c
-c
+NA
+NA
+NA
+NA
+NA
+a
 c
-1039121	c
+a
+NA
 c
-1039126	c
-1039128	c
+NA
 c
-1039131	c
+a
+NA
+NA
+a
 c
-1039135	c
-1039138	c
 a
-1039141	c
 a
+NA
+a
+NA
 c
-1039146	a
+a
+a
 c
-1039150	c
-1039152	c
+a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
 c
+a
+det.
+NA
+a
+NA
+a
+a
 c
-1039157	c
+NA
 a
-1039160	a
-1039163	c
-1039165	a
-1039167	c
-1039171	c
+det.
+NA
 c
-1039175	c
+NA
 c
-1039179	c
+NA
+NA
 c
 a
-1039184	a
-1039188	a
-1039190	a
-1039192	c
+NA
+NA
+NA
+NA
 a
-1039196	a
 a
-1039199	c
 a
-1039202	c
+NA
 a
-1039207	c
 a
-1039210	c
-1039212	c
-det.
-1039215	c
-1039218	c
-1039220	c
+NA
+c
 a
-1039223	a
-1039225	c
+NA
 a
-1039229	a
-1039231	a
-1039234	a
 c
+a
 a
-1039238	a
-1039244	a
-1039248	a
-1039250	c
-1039253	a
-1039255	c
-1039258	a
-1039260	c
+NA
+NA
 a
 c
-1039265	c
-1039267	a
-1039269	c
 c
-1039272	c
 a
-1039275	c
-1039278	a
+NA
+NA
 a
-c
 a
-c
-c
 a
-1039289	a
-1039291	a
-1039293	c
+NA
 a
-1039296	a
-c
-1039299	c
-c
-1039303	a
-1039306	c
 a
-c
-c
-c
-1039312	c
-c
+NA
+det.
 a
-1039316	a
+NA
 a
-1039320	c
-1039324	a
-1039326	c
+NA
 a
-1039330	c
+NA
+NA
+NA
+NA
+NA
 c
-1039335	c
 c
-1039339	c
 a
-1039342	c
 a
-1039345	a
-c
-c
-1039350	c
-1039353	c
+NA
 a
-1039356	c
+NA
+NA
+NA
 a
 a
-1039360	a
-1039363	c
 a
-1039367	c
+NA
+a
+NA
 c
 a
-1039372	a
-1039376	a
+NA
 a
-1039379	a
+NA
+NA
+NA
 a
-1039382	c
-c
-1039385	c
 a
-1039389	c
+NA
 a
-1039393	c
 a
-1039398	a
-1039401	a
-1039405	c
-1039407	a
-1039411	a
-c
-1039415	a
+NA
 a
-c
-1039419	a
-1039421	a
 a
-1039424	a
-1039426	c
 a
-1039431	c
 a
-1039435	c
-1039437	a
-1039441	c
-1039443	c
-1039447	a
-1039450	c
+a
+a
+a
+NA
 c
-1039453	a
-1039455	c
+a
+NA
 a
-1039458	a
-1039461	c
+NA
+NA
 a
-1039465	c
-1039469	a
-1039472	c
-1039474	a
-1039478	c
+NA
+a
+NA
+NA
+NA
+NA
+NA
 c
-1039481	c
-1039483	a
-1039485	a
-1039489	a
 c
-1039492	c
-1039494	c
+NA
 a
+NA
+NA
 a
-1039498	a
-1039501	a
-1039503	a
-1039507	c
-1039509	a
-1039511	c
-1039513	c
+NA
 a
-1039519	c
+NA
 c
-1039522	c
 a
-1039526	c
+NA
 a
 c
 a
-1039531	c
-1039535	a
-1039538	c
-1039540	a
-1039545	c
+NA
 a
-1039549	c
+NA
+NA
 a
-1039552	c
-c
-1039555	a
 a
-1039558	a
-1039560	c
-1039563	a
-1039565	c
-1039568	c
-c
-1039571	a
-1039574	c
-c
-1039577	a
-1039580	a
-1039582	a
-1039585	a
-1039588	c
-1039590	c
-c
+NA
 a
-1039594	c
+c
 a
-1039598	c
 a
-1039603	c
-det.
 a
-1039609	c
+NA
+NA
 a
-1039612	c
 a
-1039615	c
+NA
+NA
 a
-1039619	c
-1039621	c
+NA
 c
-1039625	a
-1039629	c
+NA
+NA
+NA
 a
-1039633	c
+NA
+c
+NA
 a
-1039636	c
-1039639	c
-1039642	a
+NA
+c
+NA
+NA
 a
-1039645	c
-1039647	a
-1039649	c
-1039653	c
-1039655	a
-1039658	c
+NA
+NA
 c
+NA
+NA
+NA
 c
-1039662	c
-1039665	c
-1039668	c
-a
-1039671	c
 a
-1039675	c
-1039677	c
-1039680	c
 c
-1039683	c
-1039685	c
-1039687	c
-1039690	c
-1039693	c
-a
+NA
 c
 c
-1039698	c
+NA
 c
-a
-1039702	c
-1039704	c
-a
 c
-1039709	c
-1039713	c
-1039716	c
+NA
+NA
 a
+NA
 c
-1039720	c
+NA
+NA
 a
+NA
 c
-1039725	c
-1039727	c
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+a
+NA
+NA
+a
+NA
+NA
+a
+NA
 c
+NA
+a
+a
+NA
+NA
+a
+NA
+a
+NA
 c
-1039732	a
-1039735	c
 a
-1039739	c
-1039742	c
+NA
 c
-1039745	det.
-1039747	a
-1039750	c
 c
-1039754	c
-1039756	c
-1039758	c
-1039761	a
-1039764	c
 a
-1039768	c
+NA
 c
-a
-1039772	c
 c
 a
-1039779	a
-1039781	c
-a
-1039784	c
-1039786	a
-1039788	c
-1039790	a
-1039792	c
+NA
 c
-1039795	c
-1039799	a
-1039802	a
-1039806	a
-1039809	a
-1039812	a
-1039815	c
 a
-1039818	c
+c
 a
-1039822	c
-1039824	c
+NA
 c
-1039827	c
 c
-1039830	a
-a
-1039833	c
+NA
 c
 a
-1039837	a
-1039840	c
-1039842	c
 a
-1039845	c
+NA
+NA
+NA
 a
-1039849	a
-1039852	c
-1039854	c
-1039856	c
+NA
 c
-1039859	a
-1039861	a
-1039863	a
-1039869	c
+NA
 c
-1039873	c
-1039877	a
+a
 a
-1039880	c
-1039883	a
 c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
-1039888	a
-1039893	a
-1039895	a
-1039897	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
-1039901	c
 c
-1039905	c
-a
+NA
+NA
+NA
 a
-1039910	c
+NA
 c
 a
+NA
+c
+NA
 a
-1039916	c
-1039918	c
+NA
+NA
 a
-1039921	c
 a
-1039925	a
-1039927	c
-1039933	c
+NA
 a
-1039938	a
-1039940	c
 a
-1039943	a
-1039945	a
+NA
 a
-1039948	a
-1039952	c
+NA
+NA
 c
-1039957	a
-1039959	a
-1039961	a
-1039963	c
-a
-1039966	c
+NA
+NA
+NA
 a
-1039969	c
 c
+NA
+NA
 a
-1039973	c
-a
-a
-1039980	c
 c
-1039988	a
-1039990	c
+NA
 c
+c
 a
-1039995	a
-1039997	c
 a
-1040004	a
-1040006	c
-c
-1040009	c
+NA
+NA
 c
-c
-c
 a
-1040017	c
 a
-1040020	c
 a
-1040023	c
-c
-c
-1040029	c
 a
-1040032	c
 c
 a
-1040037	a
-1040040	a
-c
-1040044	c
-det.
-1040047	a
-1040049	a
-1040051	c
+a
+a
 a
-1040054	c
+NA
 c
 a
-1040060	a
-1040062	a
-1040064	a
-1040068	a
-1040070	c
 a
-1040073	a
-1040077	a
-1040080	a
-1040082	c
+NA
 a
-1040086	c
+NA
+a
+NA
+a
+NA
 c
+NA
 a
-1040090	a
+NA
 a
-1040093	c
+NA
 a
+NA
 a
-1040097	c
+NA
 a
-1040101	a
-1040103	c
+a
+NA
+NA
+NA
+NA
+c
+c
 a
-1040107	c
 a
 a
-1040115	a
 a
-1040119	a
-1040124	c
-1040129	a
-1040131	c
-1040135	det.
-c
-1040138	c
-1040140	c
 a
+NA
 a
-1040144	c
-1040146	c
+NA
 a
-1040149	c
-1040151	c
 a
-1040154	a
-1040156	c
+NA
+NA
 c
 c
-1040161	c
-c
+a
+NA
+NA
 c
-1040165	c
-1040169	c
 c
-1040174	a
 a
-1040177	c
 a
-1040181	c
-1040183	a
-1040185	c
+NA
+NA
 a
-1040190	c
+NA
 c
-1040197	c
-1040199	c
+NA
+NA
 c
-1040209	c
 c
-a
-1040214	c
+NA
 c
-1040219	c
-1040225	c
-a
-1040228	a
+NA
+NA
 a
-1040233	a
+NA
 c
-1040236	c
 a
-1040239	c
-1040241	c
 c
-1040244	c
-a
-1040251	c
-1040254	c
-a
-1040259	c
-1040261	c
-1040263	c
-1040267	c
-a
-1040271	c
-a
-1040274	c
 c
-a
-1040279	c
+NA
+c
 c
 a
-1040283	c
 c
-1040286	a
-1040289	c
-1040291	c
 a
-1040294	a
-1040298	c
+NA
 c
-1040302	c
 c
+NA
+NA
 a
-1040308	c
-1040310	c
-1040313	c
-1040315	c
+NA
 c
-1040318	c
+NA
 a
-1040321	c
-1040323	c
-1040325	c
+NA
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 a
-1040329	c
+NA
+NA
+det.
+NA
 a
-1040332	a
-1040335	a
 a
-1040339	c
-1040343	c
-1040345	a
-1040349	c
+NA
 c
-1040353	c
-1040355	c
-c
-c
-1040360	c
-1040362	a
-1040365	c
-c
-a
-1040371	a
-1040373	c
-1040376	c
 a
-1040380	c
-1040383	c
-1040385	a
-1040390	c
 c
 a
-1040394	c
-1040396	a
-1040399	a
-1040401	c
+NA
+NA
+NA
+NA
 a
-1040404	a
-1040406	c
 a
-1040409	a
 a
-1040412	c
+NA
+NA
+NA
 c
-1040416	c
-1040418	c
-c
-1040422	c
-c
-c
-1040426	c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1040429	a
-1040431	c
 a
-1040434	c
-1040436	c
-1040438	c
-1040440	c
-1040443	c
-1040445	a
-1040449	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1040453	c
-1040458	c
+NA
+NA
+NA
+NA
 a
-1040462	c
-1040465	a
 a
-1040471	c
+NA
+NA
 c
-1040476	c
-1040478	c
-1040481	c
-c
-1040484	c
 a
-1040490	a
-1040500	c
-1040502	c
-1040506	c
-1040508	c
-1040510	c
-1040512	a
-1040514	c
-1040516	c
-c
-c
-1040520	c
-c
-c
-1040525	a
-1040527	c
-1040529	c
-1040531	c
-1040533	c
-c
-1040537	c
-c
-1040540	c
-1040542	c
-1040544	c
+NA
 a
-1040547	c
+NA
+NA
 a
-1040551	c
-c
-1040555	c
 a
-1040559	c
-1040562	a
-c
+NA
+NA
+NA
 a
-1040566	c
 a
-1040569	c
-1040571	c
-c
+NA
+det.
+NA
+NA
+det.
 det.
-1040579	c
-1040581	c
+NA
+NA
 a
-1040585	c
 a
-1040589	c
-1040593	c
-1040596	c
-1040600	c
-c
-1040603	c
+NA
+NA
+NA
+NA
+det.
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-1040608	a
-1040611	c
-1040614	c
-1040616	c
-1040619	a
-1040623	a
-1040629	c
-1040631	a
-1040633	c
+NA
 a
-1040636	c
+NA
+NA
+NA
 a
-1040639	c
+NA
 a
-1040642	c
+NA
 a
-1040645	a
+NA
 c
+NA
+NA
+NA
 a
-1040649	a
-1040651	a
+NA
+NA
 a
-1040654	c
-c
 a
-1040658	c
+NA
 a
 a
-1040662	c
-c
-c
 a
-1040669	c
+NA
 a
-1040672	c
 a
-1040675	c
-c
-1040679	c
-1040681	a
-1040686	a
+NA
+NA
+NA
+NA
 a
-c
-1040694	c
+NA
+NA
+NA
 a
-1040698	c
-c
-1040701	c
-c
+NA
+a
+NA
 a
-1040705	a
+NA
 c
-1040708	c
 c
 a
-1040712	c
-1040714	c
 c
+NA
 a
-1040720	c
 c
+NA
+NA
+NA
 a
-1040725	c
-1040729	a
-1040732	a
-1040735	a
 a
+NA
 c
+NA
+c
+NA
+c
+NA
 a
-1040740	c
+NA
 a
+NA
+NA
 a
-1040746	a
-1040750	a
 a
-c
+a
+NA
 c
-1040756	a
-1040758	c
+NA
+NA
 c
-1040761	c
+NA
+a
+NA
 c
 a
-1040765	c
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
 a
-1040768	c
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-1040773	a
-1040775	c
+NA
 a
-1040779	c
+NA
 a
-1040783	c
+NA
+NA
+c
 a
-1040787	c
-1040789	c
+NA
+NA
+c
 a
-1040802	c
+NA
 a
-1040806	c
+NA
+NA
+NA
 c
 a
-1040813	c
+NA
+NA
 a
+c
+NA
 a
+NA
+c
+c
+c
 a
-1040820	c
-1040823	c
-1040826	c
-1040828	a
+NA
+c
+NA
+NA
+NA
 a
-1040831	c
-1040833	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1040839	det.
-1040845	a
-1040847	a
-1040850	a
-1040853	a
+NA
+NA
 a
-1040858	a
-1040860	a
-1040866	c
+c
+NA
+c
 a
-1040869	a
-1040871	a
-1040873	c
+NA
+NA
 a
-1040876	a
-1040878	a
+NA
 a
-1040882	a
-1040886	c
-1040888	c
+NA
 a
-1040892	c
-1040894	c
-1040897	c
-1040899	c
-1040901	c
-1040904	c
+c
+NA
 c
-1040907	a
+NA
 a
-1040910	c
+NA
+a
+NA
 c
-1040913	c
-1040915	c
+NA
+NA
+NA
+a
+NA
 a
-1040918	c
-1040921	c
+NA
 c
-1040924	c
-1040926	c
 a
-1040929	a
+NA
 c
-1040933	c
 a
-1040936	a
-1040940	a
-1040943	a
-1040945	c
-1040947	a
-1040949	a
-1040952	c
-1040954	a
-1040956	a
-1040958	a
-1040960	a
+NA
 c
-1040964	c
+c
+NA
+NA
+c
 a
-1040967	c
+NA
+NA
+c
+c
+NA
+det.
+NA
 a
-1040970	c
-1040976	c
+NA
+NA
+NA
 a
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
 a
-1040980	c
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-1040983	a
-1040985	a
-1040989	a
+NA
+NA
+c
+NA
 a
-1040992	a
-1040994	a
-1040999	a
-1041001	a
+NA
 a
-1041005	c
+NA
+NA
 a
-1041009	c
+NA
 a
-1041013	a
-1041015	c
+NA
 c
-1041020	a
 a
+NA
+NA
+NA
 c
-1041024	c
 a
-1041027	a
-1041030	a
-1041034	a
+NA
 a
 a
-1041038	c
-1041040	a
 a
-1041043	c
-1041045	c
-a
-1041048	a
-1041051	c
-a
-1041054	a
-1041058	a
-1041060	c
-1041064	a
-1041067	c
-1041069	c
-1041073	a
-c
-1041078	det.
-c
-1041081	c
+NA
 c
-1041085	a
-1041088	c
-1041090	c
-1041094	c
 a
-1041097	c
-1041100	a
-1041104	a
-c
-1041109	c
+NA
 a
-1041113	a
-1041115	c
-c
-1041118	a
-c
-1041122	c
+NA
+NA
+NA
 a
-1041125	a
-1041128	c
-1041131	a
-1041135	c
 a
-1041138	c
+NA
+c
+NA
+NA
 a
-1041141	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-1041150	c
 c
+NA
 a
-1041155	a
+NA
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1041159	a
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
 c
-1041163	a
-1041166	c
+NA
+NA
+NA
 c
 c
+NA
 c
-1041171	a
-1041173	c
-a
-1041176	c
-1041179	a
-1041182	a
-a
 a
-a
-1041187	a
-1041189	det.
-1041191	a
-1041193	a
-1041196	a
+NA
 c
-a
-1041200	a
-1041202	c
 c
-1041205	a
-1041208	c
-1041210	c
 a
-c
-1041214	a
-1041216	a
-1041218	c
-1041220	c
+NA
 a
-1041224	a
+NA
 c
-1041229	c
-1041231	c
-1041233	a
-1041237	a
-1041239	a
-1041242	a
-1041244	a
-1041247	a
-1041249	a
-1041251	c
-1041258	c
-1041260	a
-1041262	a
-1041264	c
-1041266	c
-c
-1041271	c
+NA
 a
-1041275	c
-1041277	a
-1041280	c
-1041282	c
-1041287	c
-1041291	c
-1041294	c
-1041299	c
-1041302	a
-1041304	c
-c
-1041309	c
-1041311	c
-1041317	c
-1041320	c
+NA
+NA
+NA
 a
-1041323	c
-1041327	c
-1041330	c
-1041333	c
-1041337	a
-1041342	a
 a
-1041347	c
+NA
 a
-1041350	c
-1041352	a
-1041354	c
+NA
 c
-1041360	c
 a
-1041363	a
-1041366	a
-1041368	c
-1041371	a
-1041373	c
-1041378	a
-1041382	c
-1041385	a
-1041388	c
-1041392	c
-1041394	a
-1041397	c
-1041400	c
-det.
-1041409	c
-1041413	c
-1041417	c
-1041420	a
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+a
+a
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 a
-1041426	a
-1041428	c
-1041432	c
-1041434	a
-1041436	c
+NA
 c
-1041439	c
+NA
 c
-1041447	a
-1041450	c
-1041452	c
-1041454	c
 a
 a
-1041458	c
+NA
+NA
 c
-c
-1041463	c
+NA
+NA
 a
-1041466	c
-1041468	c
+NA
 a
-1041472	c
-1041474	c
-1041476	a
-1041478	a
-1041482	c
 c
-1041486	c
+NA
+NA
+NA
 c
-a
-1041490	c
 a
-1041493	c
+NA
+NA
 c
-1041496	c
 c
+a
+a
+NA
+a
+NA
+NA
+a
+a
 c
+a
+NA
 c
+a
+NA
 c
-1041504	c
+NA
+NA
 c
-1041509	c
 a
-1041512	a
-1041516	c
-1041520	a
-c
-1041526	c
+a
+NA
 c
+NA
+NA
 c
+NA
+NA
+NA
 c
-1041533	c
 c
 c
 c
-1041539	c
-1041543	c
 c
-1041547	c
+NA
+NA
+NA
 a
-1041552	det.
-1041556	c
-c
-1041559	c
-1041561	c
+NA
 c
-1041564	c
-c
-1041568	c
-c
 a
-1041572	c
-a
-1041575	c
-1041578	a
-1041583	c
-1041587	c
-1041592	a
-1041594	c
-c
 c
-1041603	c
-1041606	a
-1041608	a
-1041611	c
-c
 a
-1041619	a
-1041622	c
 c
-1041625	a
+NA
+NA
 a
-c
-1041630	c
-1041632	a
-1041635	c
+NA
 c
-1041638	a
-1041640	c
-1041643	c
 c
-1041647	a
-1041651	a
 a
-1041654	a
+NA
 a
+NA
+NA
 a
-1041660	a
-c
-1041666	c
-c
-1041674	a
-1041676	a
-1041690	c
-1041710	c
-1041719	c
+NA
+NA
+NA
+NA
 a
-1041722	c
+NA
+c
+NA
 a
-1041725	a
-1041727	c
+NA
 a
-1041730	a
-1041732	c
+NA
+NA
+NA
+NA
+NA
 a
-1041739	a
-1041745	c
-1041748	c
-1041753	a
-1041757	c
+NA
+NA
+NA
 c
-1041761	c
-1041763	a
-1041767	c
+a
+NA
+NA
+a
+NA
+det.
+NA
 c
+NA
+a
+NA
 c
-det.
-1041772	a
-1041774	c
-1041776	c
+NA
+NA
+NA
 c
-1041781	a
 a
-1041784	c
-1041787	a
-1041790	c
-1041792	c
-1041794	a
-1041797	c
-det.
-1041800	c
+a
+NA
+a
+NA
 det.
-1041806	c
+NA
 c
-1041811	c
+NA
 a
-1041814	a
+NA
 det.
-1041817	c
-1041819	c
-c
-1041823	c
-c
-c
-1041827	c
-1041829	a
+NA
+NA
+NA
 a
-1041838	c
-1041840	c
-1041843	c
-1041845	c
-1041847	c
-1041850	c
-1041854	c
-c
-1041858	c
-1041863	c
-1041868	c
-1041870	a
-1041873	c
-c
-1041876	c
 a
-1041881	a
+NA
+NA
 c
 a
-1041885	c
+NA
+NA
+NA
+NA
 a
-1041888	c
 a
+NA
+NA
+NA
+NA
+NA
 a
-1041892	a
-1041897	a
+NA
+c
+NA
 a
-1041900	a
+NA
 a
-1041903	c
+NA
+NA
+NA
 a
-1041906	c
+NA
+NA
+NA
 a
-1041912	c
 c
 a
-1041917	a
-1041920	c
+NA
 a
-1041923	a
-1041926	c
-c
-1041929	a
-1041932	c
-c
-1041935	a
-1041937	c
-1041941	c
+NA
 a
-1041944	a
-1041946	c
-1041948	c
-c
-1041952	c
 c
 c
-c
-1041957	a
-1041959	a
-1041962	c
 a
-1041966	a
-c
-1041969	c
-1041971	c
-1041973	c
-1041977	a
-1041979	c
 a
-1041982	c
+NA
 a
-1041985	c
-1041987	a
-1041989	a
+NA
 a
+NA
 a
-1041995	a
-1041997	c
 a
-1042001	c
-1042003	a
-1042005	c
-1042007	a
-1042009	c
-1042011	a
-1042015	c
+NA
 a
-1042020	a
-1042024	c
 c
-1042027	c
 a
-1042030	a
-1042032	c
-c
-1042037	c
-1042040	c
 a
+NA
 a
-1042044	c
-1042048	c
-1042050	c
-c
-1042053	c
-1042057	a
-1042060	c
+NA
 a
-1042063	a
+NA
+NA
+NA
 a
-1042071	c
-c
-1042076	c
-c
-1042081	c
+NA
 a
-1042085	c
+NA
+NA
+NA
 a
-1042088	c
-c
-1042091	c
 a
-1042096	c
-1042099	c
-1042101	c
-det.
 a
-1042105	c
-1042108	c
-1042110	c
-c
 a
-1042115	c
-c
-1042118	c
-1042123	a
-c
-1042127	c
+NA
 a
-1042131	c
-c
+NA
 a
-1042136	c
-c
 a
-1042140	c
 a
-1042143	a
-1042145	c
-c
-c
+NA
 a
-1042151	c
+NA
+NA
+NA
+det.
+NA
 c
 a
-1042155	c
-1042157	c
-c
+a
+NA
+a
+NA
 c
-1042163	c
+a
+NA
 c
-1042167	c
+NA
 c
-1042172	c
 c
-1042175	a
-1042177	a
-1042179	c
-1042182	c
+NA
+NA
 c
+NA
+NA
 a
-1042186	c
-a
-1042190	c
-c
-1042193	c
-c
-1042197	a
-1042199	c
-1042201	c
-1042203	a
-c
+NA
 a
-1042207	c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-1042212	a
+NA
 a
-1042215	c
-1042218	c
-1042220	a
-1042222	c
-1042224	c
-a
-1042227	c
-1042229	c
+NA
 c
+NA
+NA
+NA
+NA
 c
-a
-a
-1042236	a
-a
-1042239	c
+NA
+NA
+c
+NA
+NA
+NA
 a
-1042242	c
-1042244	c
-1042250	c
+NA
+NA
+NA
+NA
+NA
 a
-1042254	c
-1042256	c
-1042262	a
-1042267	det.
-1042270	c
-1042273	a
+NA
 c
-1042279	a
-1042281	c
 a
-1042286	a
-1042288	c
-1042290	c
 c
-a
-1042294	c
 a
-1042297	c
+NA
+c
 a
-1042300	c
 a
-1042305	c
-1042309	c
-1042314	c
+NA
 c
+NA
+NA
+NA
+NA
 c
-a
-1042319	c
 a
-1042322	c
 a
-1042328	a
-1042330	c
-1042335	a
-1042338	c
+NA
 a
-1042341	c
+NA
+det.
+NA
 c
-a
-1042346	c
+NA
+NA
+NA
 a
-1042349	c
+NA
 a
+NA
+c
 a
-1042353	c
+NA
+NA
+NA
+NA
 a
-1042357	c
-1042361	c
-c
-1042366	c
-c
-c
-1042370	c
-c
-1042373	c
-1042375	c
+det.
 a
-1042379	c
-c
-1042382	a
-1042384	c
 a
-1042388	a
-1042390	a
-1042392	a
-1042395	c
-1042398	c
+NA
+NA
 a
-1042401	c
+NA
 a
 a
-1042405	c
-1042408	c
+NA
 c
+a
 a
-1042412	c
-1042414	c
-1042416	c
-1042418	c
+NA
 c
-1042422	c
-det.
-1042425	det.
-1042427	c
 c
-1042430	c
+NA
 c
-1042433	c
 c
-1042436	c
+NA
 c
-1042439	c
 c
-1042442	c
-1042446	c
-1042448	c
-1042451	c
-1042454	c
-1042458	c
-1042460	c
-1042463	c
-1042468	c
-a
-1042479	c
+NA
 c
 c
 a
-1042484	a
-1042486	c
 a
-1042499	c
-1042501	a
-1042503	c
 a
-1042506	a
-1042508	a
-1042510	c
-a
-1042513	a
-1042516	c
-1042518	c
+NA
 c
-1042521	a
 a
-1042524	a
-1042526	c
-1042528	c
+NA
 a
-1042531	a
-1042533	a
-1042535	c
+NA
+NA
+c
 a
-1042538	c
-1042540	c
 a
-1042543	c
-1042545	c
+NA
+NA
 a
 a
-1042549	c
+NA
+NA
 a
-1042552	c
+NA
 a
-1042555	c
-c
 a
-1042559	c
+NA
 a
-1042562	c
-1042564	c
+NA
+NA
 a
-1042568	c
 c
-1042572	c
-1042574	c
-a
-1042577	c
+NA
 a
-1042580	c
+NA
 a
 a
-1042584	c
-c
+NA
 a
 c
 a
-1042590	c
 a
-1042593	c
-1042595	c
-1042597	c
-c
-1042600	c
 a
-1042603	c
+NA
 a
-1042606	c
+NA
 a
-1042609	a
-1042613	a
-1042615	c
-1042621	a
-1042623	c
-det.
-1042628	a
-1042632	a
-1042634	c
-1042636	det.
-c
-1042641	a
-1042644	c
 c
-1042647	c
+NA
 c
-1042650	c
 c
-1042653	c
-a
-a
-1042657	c
 a
-1042660	c
+NA
+NA
+NA
 c
-1042663	c
 a
-1042666	c
-a
-1042670	a
+NA
 c
+NA
 a
-1042675	a
+NA
+NA
+NA
 a
-1042678	a
+NA
+NA
+NA
 a
-c
-1042685	c
-1042688	c
 c
 c
 c
-1042694	c
+NA
+a
+NA
 c
-1042699	c
-1042703	c
+NA
 c
-1042707	c
-1042709	c
-1042714	c
-1042716	c
-1042720	a
-1042724	c
+NA
+NA
 a
-1042727	c
+NA
 a
-c
 a
-1042732	c
-1042734	c
+NA
 a
-1042737	c
 a
-1042740	c
+NA
 a
-c
-1042744	a
-1042746	c
-1042753	a
-1042755	a
-1042760	c
-1042765	c
 a
-1042768	a
-1042770	c
+NA
 a
-1042773	c
+NA
 a
-1042776	c
+NA
 a
-1042779	a
-1042783	c
-c
-c
-1042788	c
-1042790	c
-c
-1042795	c
+NA
+NA
 a
-1042798	c
-1042804	c
-1042808	a
+NA
 a
-1042811	c
-1042819	a
-1042822	c
+NA
+NA
 c
-1042825	a
+NA
+NA
 c
+NA
 a
-1042831	a
-1042834	c
-1042848	c
-1042852	a
-1042856	c
-c
-1042859	c
-1042862	a
-1042867	a
-1042869	c
-a
-c
 a
-1042875	c
-1042882	a
-1042890	c
-1042894	c
-1042897	c
+NA
 a
-1042900	a
-1042902	a
-1042909	c
-1042912	a
-1042915	c
-1042917	c
-1042920	c
+NA
 a
-1042923	c
-1042925	c
-1042927	a
+NA
+NA
+c
+NA
 a
-1042930	c
+NA
 a
+NA
+NA
+NA
 a
-1042934	c
-1042937	det.
-1042942	c
 a
-1042945	c
 a
-1042949	c
-1042952	c
+NA
 a
-1042955	c
-det.
-1042961	a
-1042963	c
+NA
 a
-1042966	c
+NA
+c
 a
-1042970	c
-1042972	c
+NA
+NA
 a
-1042975	c
 a
-1042978	a
-1042981	a
-1042984	a
-1042986	c
+NA
+c
 a
-1042990	a
-1042993	c
-det.
-1042996	c
-1043001	c
-1043004	c
-1043007	a
-1043012	c
+c
+NA
 a
+NA
+NA
 a
-1043018	c
-c
-1043021	a
-1043023	c
-1043025	c
-c
-1043029	c
-c
-1043032	c
+NA
+NA
 c
-1043035	c
 c
-1043042	c
-1043046	c
-1043048	c
 a
-1043051	c
-1043053	a
-1043055	c
+NA
+NA
+NA
+NA
 a
-1043059	c
+NA
 c
-1043063	c
-1043066	c
-a
-1043069	a
-1043071	a
-1043073	c
 c
-1043077	a
-1043081	a
-1043085	a
-1043087	c
-1043089	c
+NA
 a
-c
-1043093	c
-c
+NA
+NA
+NA
 a
-1043097	c
-1043100	c
-c
 c
-1043104	a
-c
-1043108	c
-1043110	c
-1043112	c
 a
-1043116	c
-c
-1043119	c
 a
-1043122	c
-c
-1043126	c
-1043128	c
 a
+NA
 c
 a
-1043133	a
-1043135	c
+c
 a
-1043138	a
-1043140	c
 a
-1043144	a
-1043146	c
+NA
+NA
+NA
 a
-1043150	c
+c
 a
-1043153	c
-1043156	c
 a
-1043159	c
-1043161	c
 a
-1043164	c
-1043166	c
+NA
+c
 a
+NA
 a
-1043172	c
+NA
 c
-1043175	a
-1043178	a
-1043180	a
-1043182	a
-1043184	c
 a
-1043187	a
-1043189	c
+NA
 c
-a
-1043195	c
-a
-1043198	a
 c
 a
-1043202	c
-a
-1043206	c
-1043208	c
-1043213	c
-det.
-1043220	c
-det.
-1043224	det.
+NA
+NA
 c
-1043229	c
-a
-1043234	a
-1043237	c
+NA
+NA
 a
-1043240	c
+NA
 a
-1043243	c
+NA
+NA
+NA
 a
-1043246	a
+NA
 a
+NA
 c
-det.
-a
-1043252	a
-1043259	c
-1043261	c
 a
-1043264	c
-1043267	c
+NA
 a
-1043271	c
+NA
+NA
+NA
+c
 a
-1043276	c
 a
-1043279	c
-1043281	c
 c
 a
-1043286	c
 a
-1043289	a
-1043293	c
-det.
-1043299	a
 a
-1043304	c
-1043307	det.
-1043314	c
-1043316	c
+NA
 a
+NA
 a
-1043320	c
+NA
+NA
 c
 a
 a
 a
+NA
 a
-1043327	det.
-1043331	c
-1043333	c
-1043335	c
+NA
 a
-1043339	c
-1043341	a
-1043343	a
-1043345	c
+NA
+NA
 c
 a
-1043350	c
-1043352	a
-1043356	c
-1043361	c
 a
 a
-1043368	c
-1043370	c
+NA
 a
-1043379	c
-1043384	c
-1043389	c
-1043393	a
-1043399	a
-1043402	c
-1043406	c
-1043408	c
-1043413	c
-1043415	c
-1043417	c
-1043420	c
-1043422	c
-1043424	det.
-1043427	a
-1043429	a
-1043432	c
-det.
-c
-1043441	c
+NA
 a
-1043445	c
-1043450	a
-1043453	c
+NA
+NA
 c
-1043459	c
-1043461	c
-1043463	a
 c
-1043473	c
-1043475	c
 a
-1043479	c
-1043484	c
-c
 a
-1043490	c
-1043493	c
-c
-c
-1043501	a
-1043506	c
-1043508	c
-1043511	c
-c
-1043514	c
-c
+NA
 a
-1043518	a
-1043520	c
+NA
 a
-1043523	c
+NA
+NA
 c
-1043526	c
 a
-1043530	a
-1043532	c
-1043534	c
 a
-1043537	c
-1043542	c
-det.
-1043545	a
-1043550	det.
-det.
-1043554	c
-1043558	a
-1043560	c
-1043563	a
-1043565	c
-1043567	c
+NA
 a
+NA
 a
-1043572	c
+NA
+NA
+c
+c
 a
-1043576	a
-1043579	c
-1043582	c
 a
+NA
+NA
 a
-1043586	c
-1043588	a
-1043591	c
-1043595	c
-1043599	c
-1043602	a
 a
 a
 a
+NA
+NA
 c
 a
-1043612	c
-1043614	c
 a
-1043619	c
 a
-1043623	a
-1043626	c
-1043629	c
-c
-1043634	c
-1043637	c
-c
 a
+NA
 a
-1043645	c
 c
-1043649	a
-1043651	c
 c
-a
-1043655	c
 a
-1043658	c
-1043660	c
-1043663	c
 a
 c
-1043667	det.
-1043670	a
-1043674	c
-1043678	c
+NA
+a
+NA
+NA
+det.
+NA
+NA
 c
-1043682	c
 c
-1043685	c
 a
-1043689	c
 c
-a
-1043694	a
-1043697	c
+NA
 c
-1043701	c
-1043704	a
-1043707	a
 a
-1043710	c
-1043712	a
-1043714	c
-1043716	c
 c
-1043723	a
+NA
 c
-1043726	a
-1043728	c
-1043731	c
 a
-1043739	c
+NA
+c
+NA
 c
+c
+NA
 a
 a
-1043745	c
-c
-1043748	c
-1043751	c
+NA
+NA
+NA
 a
-1043754	c
-1043756	c
+NA
+NA
 c
 c
-1043761	c
-1043763	c
 a
-a
-c
+NA
+NA
 c
-1043771	a
-1043773	c
 a
-1043776	a
-1043779	a
-1043784	c
 a
+NA
+NA
+NA
 c
+NA
 a
 c
-1043790	c
-1043793	c
 a
-1043797	c
-a
-1043800	c
-1043802	a
-1043804	c
-c
+NA
 c
+a
 c
-1043810	c
 a
-1043813	c
 c
+NA
+NA
 c
-1043817	c
 a
-1043821	c
-1043823	c
+NA
+NA
 a
-1043827	a
-1043830	c
-det.
-1043833	det.
 a
-1043837	c
+NA
 a
-1043841	c
-1043844	a
-1043847	c
 c
-1043850	a
-1043853	c
-1043859	a
-det.
-1043867	c
-a
-1043873	c
-1043876	c
-det.
-1043879	a
 a
-1043886	c
+NA
+NA
+c
 a
-1043889	c
-1043892	c
+NA
 c
-1043895	c
+NA
 c
+a
+a
 a
 c
-1043902	a
-1043904	c
-1043909	c
 c
+NA
+NA
 a
-1043914	c
 c
+NA
 c
 a
 a
-a
-1043927	a
-1043930	a
-1043932	c
-a
-1043936	c
+c
+c
+NA
+c
 a
-1043939	c
-1043941	c
 a
-1043944	c
-1043946	c
-c
-1043949	c
 a
-1043954	a
-1043961	c
-1043963	a
-1043971	c
-1043975	c
+NA
+NA
 c
 a
-1043979	c
-c
-1043983	c
-1043986	a
+NA
 a
-1043990	c
-1043992	det.
-1044003	c
-c
+NA
+NA
 c
-1044011	c
-1044015	c
-det.
+NA
+NA
 a
-1044024	c
-1044027	c
-1044031	c
-1044037	a
-1044039	c
-1044041	c
 c
 c
-1044045	a
-1044048	a
-1044050	c
 a
+NA
+NA
 a
-1044054	c
 a
-c
 a
-1044061	c
+NA
+NA
 a
-1044064	a
-1044068	c
-c
-1044072	a
 a
+NA
+det.
+NA
+NA
 a
-1044076	c
 a
+NA
 c
-c
-1044081	c
+NA
 a
-c
-c
-c
-1044088	c
-c
-1044093	c
-c
-c
-1044100	c
-1044107	c
-c
-c
-c
 a
-1044115	c
+NA
 a
+NA
 a
-1044122	c
+NA
 a
-1044127	a
-1044129	a
-1044131	c
-c
-1044135	c
+NA
 a
-c
-1044139	a
+NA
 c
 a
+NA
+NA
+a
+NA
+a
 c
+NA
 c
-1044145	c
-1044148	a
-1044152	a
 a
-1044155	c
-1044157	c
+NA
+NA
 c
 a
-1044163	a
-1044165	a
-1044167	a
-c
 a
-1044172	a
-1044174	c
 a
-1044192	a
-1044194	a
-1044197	a
-1044203	a
-1044207	a
-c
 c
 a
-1044212	a
 a
+NA
+NA
+NA
 a
+NA
 a
+NA
+NA
+c
+NA
 a
-1044218	c
-1044220	c
+NA
+NA
 a
-1044224	a
 a
-1044227	c
-1044230	a
 a
 a
+NA
+NA
 a
-1044235	a
-1044238	a
-1044240	a
-1044244	a
-1044246	a
-1044250	c
-c
 a
-1044256	a
-1044259	c
+NA
 a
 c
 a
+NA
 c
+a
+a
 a
 a
-1044267	c
+NA
 a
-1044270	a
+NA
 a
-1044273	a
-1044275	a
+c
+a
+NA
+c
 a
-1044278	a
-1044280	a
-1044282	a
+NA
+NA
+NA
 c
 c
+NA
+NA
+a
+NA
 a
+NA
 a
-1044289	c
-1044292	c
 c
-1044295	a
 c
-1044301	c
 a
-1044306	c
+NA
 a
-1044310	c
+NA
+NA
+NA
+NA
 c
 a
+NA
 a
 a
 a
+NA
 a
-1044324	c
+c
 a
-1044328	c
+NA
 a
-1044331	c
 a
-1044337	a
-1044339	c
-1044343	c
+NA
 a
-1044349	a
-1044351	c
 a
+c
 c
 a
-1044356	c
+a
+NA
 c
-1044360	c
+a
+a
+NA
+NA
+a
 c
-1044363	c
+a
+NA
 c
-1044369	c
+a
 c
-1044372	a
-1044375	c
 a
-1044378	a
-1044381	a
 c
-1044385	a
-1044387	a
-1044391	c
-1044395	c
-1044397	c
 a
-1044401	a
-1044403	a
-1044405	c
 a
-1044408	a
-1044410	a
-1044412	a
-1044419	a
+NA
 a
+NA
+c
 a
-1044423	c
-1044427	c
+NA
+NA
 a
-1044430	c
-1044432	a
-c
-1044435	a
-1044437	a
-1044441	a
-1044452	c
+NA
+NA
+NA
+NA
 c
 a
+NA
+NA
 c
+NA
 a
+NA
+NA
+NA
+NA
 c
-1044459	c
-1044464	a
-1044467	a
-1044469	a
-1044473	c
-1044475	a
-1044478	c
-1044480	c
-1044483	a
-1044486	a
-1044489	c
-1044492	c
-1044500	c
-1044508	a
-1044512	c
-1044517	c
-c
 a
+NA
+NA
+NA
+NA
 a
-1044525	a
-1044528	c
-1044533	a
-c
 a
+NA
 a
-1044539	c
+NA
 a
-1044542	a
-1044545	c
-1044547	c
-1044553	c
-1044556	a
-1044558	a
-1044562	c
-1044565	a
-c
+NA
+NA
 a
-1044569	a
-1044571	c
+NA
 a
-1044576	det.
-1044579	a
-1044584	c
-1044586	a
-1044591	c
+NA
 a
-1044596	a
+NA
+c
+NA
 c
-1044602	c
+NA
 a
-1044607	c
+NA
 a
-1044611	c
-1044615	c
-1044617	det.
-1044620	det.
-1044623	a
-1044627	c
+NA
 a
-1044636	a
-1044638	c
-1044642	a
-1044644	c
-1044649	a
-1044651	c
-1044655	a
-1044657	c
-1044660	c
+c
 a
-1044663	c
-1044665	a
-1044667	c
 a
-1044672	c
-1044676	a
-1044678	c
+NA
+c
+NA
 c
-1044683	c
-1044685	c
+a
+NA
+NA
 c
+NA
+NA
+a
+NA
+a
+NA
+NA
 c
 c
-1044691	c
+a
 c
-1044694	c
-1044696	c
-1044698	c
 a
-1044704	c
-1044707	a
+c
 a
-1044718	a
 c
 a
+NA
+c
 a
+c
+NA
 a
-1044725	a
-1044728	c
+c
 c
-1044732	a
-1044736	c
 a
-1044739	a
-1044742	c
+c
 a
-1044745	a
+NA
+NA
+c
 c
-1044749	a
-1044751	a
-1044755	a
-1044757	c
-1044761	c
-1044767	a
-1044769	a
-1044773	c
-1044776	c
 a
-1044782	c
 a
-1044788	c
+NA
 a
-1044792	a
-1044794	c
 a
-1044797	c
+NA
+a
+NA
 c
+NA
+a
 a
-1044801	a
-1044803	c
-1044805	a
-1044807	c
-1044809	a
-1044811	c
-1044814	c
+NA
 a
-1044817	a
-1044822	c
-1044826	c
-1044828	c
 a
-1044831	c
-1044833	c
 a
-1044836	c
+c
+NA
+a
+a
+c
+NA
 a
+NA
 c
 c
-1044842	c
 a
-1044846	c
-1044850	a
+c
+a
+NA
 a
-1044854	a
-1044856	a
+NA
+NA
+NA
+c
+c
+NA
+c
 a
 a
+NA
+c
+NA
+NA
 c
 c
 a
+NA
+NA
 a
-1044864	a
-1044868	c
+NA
 a
-1044872	a
+NA
 a
+NA
 a
-1044876	a
-1044878	a
-1044880	a
 a
-c
+NA
 a
-1044887	c
-c
-1044891	c
-1044893	c
-1044896	c
-1044901	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1044904	a
+NA
 a
-1044907	c
-1044909	c
+NA
 a
-1044912	a
-1044915	a
-1044917	c
+NA
 a
-c
+NA
 a
-c
-c
-1044924	a
-1044926	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
 c
+NA
+NA
+a
+NA
 a
-1044930	a
-1044932	a
-1044934	a
-1044941	c
-1044944	a
+NA
 a
-1044947	c
+NA
 a
-1044953	c
+NA
 a
 a
+NA
 a
 a
+NA
 a
-1044961	a
+NA
 c
-1044965	c
 c
-1044968	a
-a
 c
-a
-1044976	c
+NA
+NA
+NA
+c
+c
+NA
+c
 a
-1044979	c
+c
+c
+c
+NA
 a
-1044984	c
-1044989	a
-1044994	c
-1044997	c
-1045001	c
-1045003	c
+NA
+c
 a
+NA
 a
 c
+NA
 a
+NA
+c
 a
-1045010	c
-1045012	a
-1045014	c
 a
-1045017	a
-1045020	a
-1045022	c
+NA
 c
-a
 c
-a
 c
 a
-1045032	c
-1045034	c
-1045036	a
-1045039	a
-1045041	c
-1045045	c
+NA
 c
-1045049	c
-a
-1045054	a
-1045056	c
+c
+NA
+NA
 a
+NA
+c
 a
-1045060	a
-1045064	c
-1045067	c
+NA
+NA
+c
 a
-1045075	c
-1045077	det.
-1045079	c
-1045081	a
-1045085	a
+NA
+NA
+c
 a
-1045088	a
+NA
+NA
 a
 c
-a
-1045093	c
+c
 a
-1045097	a
-1045099	c
-1045101	c
 a
-1045104	a
-1045106	a
-1045108	c
+NA
 a
-1045111	c
-1045118	c
-1045134	a
-1045136	c
-1045141	a
-1045145	c
-c
+NA
+NA
 a
-1045149	c
-c
+NA
 a
+NA
 c
 a
+NA
 c
-1045156	c
-c
-a
 c
 a
-1045163	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1045168	c
-1045173	c
-1045178	c
-1045181	c
-1045183	c
+NA
 a
-1045187	c
-1045189	c
-a
-1045198	c
-1045202	c
-a
-1045206	c
-1045211	a
-1045213	c
-1045215	c
-1045222	a
-1045225	a
-1045231	c
+NA
+NA
 c
 a
-1045236	a
-1045241	a
-1045245	a
+NA
+a
+NA
+NA
 c
 a
-1045251	c
+NA
 a
-1045254	c
+NA
 a
-1045261	c
+NA
+NA
+c
 a
-1045266	a
-1045268	c
+NA
 a
-1045273	c
 a
+NA
+NA
 a
-1045277	c
-1045281	c
-c
 a
-1045288	a
-1045292	c
+NA
 a
-1045296	a
-1045303	c
+NA
+NA
 c
 a
-c
+NA
 a
+NA
+NA
+c
 a
+NA
 a
+c
 a
-1045312	a
-1045314	a
-1045318	a
-1045321	a
-1045327	a
-1045329	c
+NA
 a
-1045336	a
-1045339	a
-1045341	a
-1045343	a
-1045345	a
-1045347	a
-1045352	c
-1045354	a
-1045356	c
-1045362	c
+NA
 a
-1045367	a
-1045369	a
-1045373	c
 a
-1045376	a
-1045379	a
 a
-1045382	a
-1045384	c
 a
+NA
 a
-1045392	c
+NA
+NA
 c
 c
-1045398	a
-1045403	a
-1045406	c
-1045409	a
-1045411	a
-1045413	a
+NA
 a
-1045416	c
-1045420	a
 a
-1045423	c
+NA
 a
-1045426	a
-1045430	a
+a
 c
 a
-1045435	c
+NA
+c
 a
 a
-1045440	a
-1045444	a
+NA
 a
-1045448	c
-1045451	a
+NA
 a
 a
 a
-1045461	a
-1045463	c
+NA
+c
 a
-1045467	c
-1045472	a
-1045474	a
-1045479	a
-1045482	c
 a
-1045485	a
-1045495	c
+NA
+NA
 c
-1045500	c
-1045503	c
+NA
 c
-1045506	c
-1045509	c
-1045513	a
-1045516	a
-1045519	c
-1045521	c
-1045523	c
-a
-1045526	c
+NA
+NA
 a
-c
+NA
 a
-1045531	c
+det.
+NA
 a
-1045536	a
-1045538	a
-1045540	c
-1045542	c
-1045544	a
-1045546	c
 c
 a
-1045552	a
-1045555	a
-1045559	a
-1045562	a
-1045567	a
-a
-1045570	a
-1045575	c
-c
-1045578	a
-1045581	a
-1045587	a
+NA
+NA
 a
-1045598	a
-1045604	c
-1045608	a
-1045610	a
-1045613	c
-1045618	a
-1045620	a
-1045622	a
-1045624	c
+NA
 a
-1045629	c
+NA
+c
+c
+NA
+NA
 a
-1045635	a
+NA
+NA
+NA
 a
-1045640	a
+NA
 a
-1045645	a
-1045648	c
+NA
+NA
 a
-1045651	a
-1045654	c
+NA
+NA
+c
+c
+NA
+NA
+NA
 a
-1045658	a
+NA
 a
-1045663	a
-1045667	a
-1045669	c
+NA
+NA
 a
-1045673	c
+NA
 a
-1045677	c
-1045682	a
-1045684	c
-1045686	c
+NA
 a
-1045691	c
 a
+NA
 c
-1045696	c
-1045700	a
-1045702	c
+c
 a
-1045705	c
 a
-1045710	c
+NA
 a
-1045715	c
 c
-1045720	c
+a
 a
-1045723	c
-1045725	a
-1045727	c
-1045730	a
+NA
 a
-1045737	a
-1045740	a
-1045746	a
-1045752	c
-1045754	a
 c
+NA
 c
-1045760	c
-1045763	c
-a
-1045767	a
-1045773	a
-1045775	a
-1045777	c
-a
-1045782	a
-1045785	a
-1045792	c
+NA
 c
-1045795	c
-a
-1045799	a
-1045805	c
-1045807	c
-a
-1045811	c
-1045817	det.
-1045821	c
+NA
+NA
+NA
+NA
 c
-1045827	a
-1045831	a
+NA
+NA
 c
-1045834	c
-1045836	c
-1045840	a
-a
-1045845	c
-1045847	a
-1045853	c
-1045855	a
-1045858	a
-1045864	c
-1045868	a
+NA
+NA
+NA
+NA
 c
-1045873	c
-1045875	c
-1045877	c
+NA
+NA
 c
-1045881	c
 c
+NA
+NA
+NA
+NA
 c
-1045885	a
-1045887	c
-a
-1045893	a
 c
-1045897	c
+NA
+c
 a
-1045900	a
-1045902	a
+NA
+c
+c
+c
 c
-1045905	a
-1045908	a
+NA
+NA
+NA
 c
-1045916	a
-1045919	c
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
 a
-1045923	a
-1045926	a
+c
 a
-1045932	a
-1045936	a
 a
-1045942	a
 a
-1045945	a
-1045947	a
+c
+NA
 a
+NA
 a
+NA
+NA
+NA
+c
 a
+NA
 a
 a
+NA
+NA
+NA
 c
-1045956	c
 a
-1045960	c
+NA
+NA
+c
 a
-1045967	a
-1045969	c
-1045973	c
+NA
 a
-1045983	c
-1045987	a
-1045991	a
-1045994	c
-1045996	c
-1045999	a
-1046002	a
-1046004	c
-1046006	c
-c
-c
-c
 a
-c
+NA
+NA
+NA
 c
-1046015	c
 a
-1046018	c
+c
+NA
+NA
+NA
 a
-1046022	a
+NA
 a
-1046025	a
-1046027	c
 a
 a
 a
-c
+NA
+NA
 c
 a
-1046035	a
-1046037	c
-1046040	c
+NA
+NA
 a
-a
+NA
 c
-1046045	c
 a
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
+NA
 a
-1046051	a
-1046053	a
+NA
+NA
 a
-1046056	c
 c
-1046059	c
-a
-1046062	c
-1046065	c
 a
-1046068	c
-1046070	c
 a
 c
+a
+NA
 c
+a
+NA
 a
-1046077	c
 a
-1046080	c
-1046082	c
+NA
 a
+a
+c
+a
+NA
 c
 a
-1046087	a
-1046089	det.
-1046097	c
+NA
 a
 a
-1046101	a
 a
+NA
 a
-1046106	c
+NA
+NA
 c
 a
+NA
 a
-1046111	a
-1046113	a
-1046117	c
+NA
+NA
+NA
+NA
+c
 a
-1046121	a
-1046123	a
 c
-1046126	c
-1046128	c
+NA
+NA
 c
 c
+c
+c
+NA
+c
 a
-1046134	a
+NA
+NA
 a
+NA
+NA
 c
-det.
-1046139	a
-1046142	a
+NA
+NA
+c
+c
+NA
+NA
+c
 a
-1046145	a
-1046147	a
+NA
+c
+c
+NA
+c
+NA
 a
-1046150	a
+c
+NA
+c
+NA
 c
 c
+c
+NA
+c
 a
+NA
+a
+NA
+NA
+NA
+c
+c
+c
+NA
 a
-1046157	c
-1046160	c
-1046162	c
+c
 a
+NA
 a
 c
 a
+NA
 a
-1046170	c
+NA
+NA
+NA
 c
-1046173	a
-1046177	c
 a
+NA
+NA
+NA
 c
-1046183	a
 a
-1046187	c
+NA
+NA
+c
 a
-1046190	a
-1046193	a
 c
 c
+NA
 a
 a
 a
-1046200	a
-1046202	c
-1046204	a
-1046210	a
-1046216	a
-c
-1046219	a
-1046221	a
-a
-1046224	c
+NA
 a
-1046227	c
 a
+NA
+det.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+c
 a
-1046232	a
-1046234	a
 a
+NA
 a
+NA
 c
-a
+NA
 c
 a
-c
+det.
+NA
 a
-1046244	c
+NA
+c
+NA
+NA
 a
-1046247	a
-1046249	a
+NA
 a
-1046252	a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-c
+a
 c
 a
-1046259	c
 a
+NA
 a
-1046265	c
+NA
 c
-c
 a
 a
 a
-1046272	a
-1046276	a
-1046278	c
 a
 a
 a
-1046284	a
-1046290	c
+NA
 c
+a
+NA
+NA
+a
 c
 c
-1046297	c
+NA
+NA
+NA
 c
-a
-a
-1046302	c
-a
-1046305	a
-1046307	c
+NA
+NA
+NA
 a
+NA
 c
-1046311	a
-1046313	c
-1046317	a
-1046319	a
-1046321	c
 c
-1046329	c
-1046331	a
+NA
+NA
 a
-1046335	c
-1046338	a
-1046341	c
 a
-1046344	c
-1046347	a
-1046350	c
-c
-1046353	det.
-1046355	c
-1046357	c
 a
 a
-1046361	a
-1046363	c
-1046365	c
-1046367	a
-c
 a
-1046371	c
-1046374	a
-1046379	a
-1046381	c
-1046385	a
+c
 a
-1046388	c
+NA
 a
-1046391	a
 a
-1046394	a
 a
+NA
 c
-1046398	a
+a
+NA
 a
-1046406	c
+NA
+NA
+c
+NA
 a
-1046409	a
+c
+NA
+NA
+NA
 c
-1046413	a
-1046415	a
+NA
 c
+NA
+c
+NA
+a
 a
+NA
+NA
+NA
+NA
 a
-1046421	a
-1046425	a
-1046427	a
+NA
+c
 a
 a
-1046431	a
-1046437	a
-1046440	a
-1046442	c
-1046448	a
-1046450	a
-1046452	c
-1046455	a
 c
-1046460	a
 a
-1046466	a
-1046473	c
+NA
 c
+a
 a
-1046478	c
-1046482	c
-1046484	a
-1046486	c
-1046489	c
-1046501	c
 a
-1046504	a
 a
-1046508	a
-1046510	a
+NA
 a
+NA
+c
 a
+NA
 a
-1046515	a
+NA
+NA
+c
+NA
 a
+NA
+NA
 a
+NA
 c
 a
-1046523	c
-1046526	a
-1046528	c
 a
-1046532	det.
-1046536	c
 a
-1046544	c
+NA
+a
+NA
 c
+NA
 c
-1046551	a
-1046553	a
-a
-1046556	a
+NA
 a
-1046559	a
-1046562	a
+NA
+c
+c
+c
+c
 a
-1046565	a
-1046567	c
 a
-1046571	a
 a
+NA
+c
+NA
+c
 a
-1046575	a
+NA
+c
 a
-1046579	a
+NA
+c
+NA
+NA
+c
 a
+NA
 a
-1046583	a
-1046585	a
-1046590	a
 a
+NA
 c
-1046594	c
-1046596	a
-1046598	a
-1046601	a
-1046603	c
-1046605	c
-1046610	a
-1046615	c
-1046624	a
-1046629	c
-1046632	c
-1046638	c
-1046648	c
-1046650	a
-1046652	c
-1046655	a
 a
-1046658	c
+NA
+c
 a
-1046661	c
+NA
 a
-1046667	c
-1046675	c
-1046679	c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
-1046682	a
-1046684	c
+NA
+NA
+c
+NA
 a
-1046687	a
-1046689	c
+NA
+NA
+NA
 a
-1046693	a
 a
-1046696	a
-1046698	c
+NA
 a
-1046703	c
-1046705	a
-1046709	c
-1046711	a
-1046713	c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-1046717	a
-1046720	c
-1046722	a
-1046724	c
 a
-1046727	c
-1046729	a
-1046733	c
+NA
+NA
+NA
 a
+NA
+NA
+c
+NA
+c
+NA
 a
-1046737	a
+NA
+NA
 a
+NA
+NA
 a
-1046741	c
+c
+NA
 a
+c
+NA
 a
-1046745	a
+NA
+NA
 a
-1046748	a
+NA
+NA
+NA
 c
+NA
 a
-1046752	a
+NA
+NA
 a
-1046755	a
-1046758	c
+NA
 a
-1046761	a
+NA
+c
+c
+c
+NA
+c
 a
 a
-1046765	c
 a
-1046768	a
-1046770	a
+NA
 a
-1046773	a
+c
+c
+NA
+c
+NA
+NA
+c
+NA
 a
-1046776	c
 c
+NA
 a
-det.
-1046781	a
-1046783	c
 a
-1046787	a
-1046789	a
 a
-1046792	a
-1046794	a
-1046797	c
-1046799	a
-1046801	a
-1046803	a
-1046805	c
+NA
 a
-1046808	a
-1046812	a
-1046814	a
-1046816	c
+NA
+c
+NA
+NA
 a
-1046823	a
-1046826	c
-1046830	c
-1046832	a
+NA
 c
-1046840	a
-1046842	c
+NA
 a
+c
+c
+c
+NA
+NA
 a
-1046847	c
-1046851	c
-1046854	a
-1046857	a
-1046864	a
-1046866	c
+NA
 a
-1046870	a
-1046873	c
+NA
+NA
+NA
 a
+NA
 a
-1046878	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1046881	c
 a
-1046884	c
+NA
 c
-a
-1046894	c
-1046897	a
 a
 a
-1046902	a
-1046904	a
-1046907	a
-1046911	a
-1046913	a
-1046918	a
-1046922	a
+NA
 a
-1046928	a
+NA
+c
+c
 a
-1046931	c
+NA
+NA
+NA
 a
-1046934	a
+NA
 a
-1046938	c
-1046940	a
 a
-1046947	a
-1046950	a
 c
-1046961	a
-1046963	c
-1046965	c
-1046970	c
 a
-1046976	c
-1046979	a
+NA
 a
-1046983	c
-1046989	c
-1046993	c
-1046997	c
-1047000	a
-1047002	c
-1047005	c
-1047011	a
+NA
+NA
+c
 a
-1047014	c
-det.
-1047017	c
+NA
 a
-1047020	a
-1047022	c
+NA
+c
+c
 a
-1047025	a
-1047027	c
-1047033	a
-1047035	c
-1047037	c
-1047047	c
-1047049	a
-1047059	c
-1047061	a
-1047064	c
-1047066	a
+c
 a
-1047072	c
-1047074	a
-1047077	a
-1047080	a
-1047082	a
-1047087	a
 a
-1047090	a
+NA
 a
-1047095	c
-1047100	c
+NA
+NA
 c
-det.
-1047104	a
-a
-1047107	a
-1047109	c
-1047111	a
-1047113	a
-1047115	c
-a
-1047122	a
-1047129	a
-1047131	a
 c
 a
 a
-1047137	a
+NA
 a
-1047143	a
-1047145	a
 a
-1047148	a
-1047152	a
-1047154	a
-1047168	a
-1047171	c
-1047181	a
 a
-1047189	a
-1047194	c
-1047198	a
-a
-1047210	c
-1047216	a
-1047223	c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
 a
+c
 a
-1047229	a
-1047232	a
-1047248	a
 c
-1047256	c
+det.
+NA
 c
-1047260	c
+NA
 c
-a
-1047268	a
-1047270	a
-1047275	c
-a
-a
-a
-1047282	a
-1047287	c
-a
 c
-det.
-1047292	c
-1047294	c
+NA
+NA
 a
-1047297	a
-1047299	c
 c
-a
 c
-1047305	c
-1047307	a
-1047310	a
-1047312	a
-1047314	a
-1047318	a
-a
-1047321	a
-1047323	a
-1047326	c
-a
-1047329	a
-1047332	c
+c
+c
 a
-1047335	a
+NA
 c
 a
 c
+NA
+NA
 a
+NA
+NA
 c
+NA
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
 a
 a
-1047347	c
 a
-a
+det.
+NA
 a
+NA
+NA
+NA
+NA
 a
 a
-1047354	a
-1047356	a
+NA
+c
+c
+NA
 a
 a
-1047361	a
+NA
+NA
+c
+c
+NA
 a
-1047364	a
+NA
 a
+NA
+NA
 a
 a
-1047369	c
 a
-1047372	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-1047384	a
-1047388	a
+NA
+NA
+c
+NA
+det.
+NA
+c
 a
+NA
+NA
+c
 a
-det.
-1047395	c
-1047397	a
-1047399	a
+c
+NA
+c
+NA
+c
 a
-1047402	a
-1047408	a
-1047410	a
-det.
-1047414	a
-1047416	a
-det.
-1047419	c
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
+NA
 c
 a
-1047424	c
-1047427	a
-1047431	a
+NA
 c
 a
+NA
+c
+NA
+c
 a
+NA
+c
+c
+NA
+c
+det.
+NA
+c
+NA
+c
 a
+NA
+c
 a
-1047438	c
+c
 a
+NA
 c
+NA
 a
-1047444	c
-1047449	a
+NA
+NA
 c
 c
-a
-1047455	c
-1047459	c
-1047461	a
+c
 a
-1047464	a
+NA
+c
+NA
 a
-1047468	a
+NA
+c
 c
 a
-1047472	a
+NA
 a
 c
-c
-1047478	a
-1047481	c
-1047483	a
 a
-1047486	c
-1047494	c
+NA
 a
-1047497	c
-1047499	a
-1047503	c
+c
 c
-1047506	c
 a
+NA
+c
 a
+NA
 a
+NA
 c
-1047512	c
 c
+NA
+NA
 c
-a
+NA
+NA
 c
 c
+NA
+NA
+NA
+c
 a
+NA
+NA
 a
-1047522	a
-1047524	a
-1047526	c
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
 a
+NA
+c
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
 a
-det.
-1047532	a
-1047534	a
+NA
+c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
 a
-1047537	a
-1047539	det.
+NA
 c
-1047542	a
-1047544	c
+NA
 c
-1047548	a
-1047551	c
-1047555	c
+NA
 c
-1047562	a
+NA
 a
-1047566	a
-1047569	a
-1047571	a
-1047576	c
-1047580	a
-1047582	c
+NA
 c
-1047590	c
+NA
 a
-1047594	c
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+c
 a
-1047600	c
+NA
 a
+NA
 a
-1047608	a
-1047610	c
-1047612	c
-1047614	c
 a
-1047618	a
-1047623	c
-1047627	a
-1047629	c
 a
-1047632	c
+NA
 a
-1047636	a
+NA
+c
 a
-1047639	c
-1047641	c
+NA
 a
-1047644	c
-det.
-1047647	a
-1047650	c
+NA
+c
+NA
 a
+NA
+NA
+c
+NA
 a
-1047655	c
+NA
+c
 a
-1047658	a
+NA
+NA
+NA
+NA
+c
+c
 a
-1047661	a
+NA
+NA
+c
+c
 a
-1047664	a
+NA
+NA
+NA
+c
 a
 a
 c
+NA
 c
 a
-1047672	c
+NA
+NA
+NA
+a
+c
+NA
 c
+NA
+NA
 a
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
 c
 a
-1047678	a
+NA
+c
+NA
 a
+NA
+NA
 a
-1047682	a
+NA
+NA
 a
-1047685	c
+NA
+NA
 c
+a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1047689	a
-1047693	a
-1047695	a
-1047697	c
+NA
 c
-1047701	c
-1047704	c
+NA
 c
-1047707	a
-1047709	c
+NA
 c
-1047712	a
 c
 c
-det.
-1047718	c
-1047720	det.
+NA
+NA
+a
+NA
+NA
 c
+a
+NA
+NA
+NA
+a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+a
+NA
+NA
 c
-1047725	c
-1047727	c
-1047729	a
 c
-1047732	c
-1047735	a
 a
-1047739	c
-1047741	c
-1047744	c
-1047747	a
-1047749	c
-1047751	a
-1047754	c
-1047757	c
-1047760	a
-1047762	c
-1047768	a
-1047771	c
 a
-1047776	c
+NA
+NA
+NA
 a
-1047779	c
-1047793	a
-1047795	a
-1047797	a
-1047800	c
 a
-1047805	c
 a
-1047808	c
+NA
+c
+c
 a
-1047812	a
+NA
+NA
 a
-1047815	a
-1047817	c
+NA
 a
-1047822	c
+NA
+c
+NA
 a
-1047825	a
-1047828	a
-1047834	a
-1047836	c
 a
-1047848	c
-1047851	c
-1047857	a
-1047861	a
-1047863	c
+NA
+NA
+NA
+det.
+NA
+NA
 a
 a
-1047867	a
-1047874	c
+NA
+NA
+NA
+c
 a
-1047878	a
-1047880	a
-1047884	c
+NA
 c
-1047889	c
+NA
+NA
 c
-1047894	a
-1047896	a
-1047898	c
+NA
+NA
+NA
 c
-1047906	a
-1047908	c
-a
-1047911	a
-1047913	c
-1047916	c
-1047918	c
+NA
+NA
+c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+c
 a
-1047922	a
 c
-1047927	a
+a
+NA
+a
+NA
+NA
+NA
 c
-1047930	c
+NA
 a
-1047933	a
 c
+NA
 c
-a
-1047938	c
-1047940	a
-1047943	c
+NA
 c
+NA
+NA
+NA
 a
-1047948	a
-1047950	c
-1047954	c
+NA
+NA
 a
-1047958	a
-1047961	a
-1047965	a
-1047968	c
+NA
+NA
+NA
 c
-a
-1047975	c
 a
-1047989	c
-1047994	c
-1048000	c
+NA
+NA
+NA
 c
-1048006	a
 a
-1048009	a
+NA
+NA
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
-1048014	a
-1048016	c
 a
-1048023	c
 a
-1048027	c
+NA
+NA
 a
-1048030	a
 a
-c
-1048035	a
-1048038	c
 a
-1048042	a
-1048046	c
-1048048	a
-1048052	c
-1048054	c
+NA
+NA
+c
 a
 a
+NA
+NA
+NA
 a
-1048060	a
+NA
 a
-1048063	a
-c
-1048068	c
 a
-det.
-det.
 a
+NA
 a
-1048075	c
-1048080	c
-1048082	det.
-det.
-1048085	c
-1048090	c
+NA
+NA
 a
-det.
-det.
-1048095	c
+NA
 a
-c
 a
 a
+NA
+c
 a
+NA
+c
+NA
+c
+NA
 det.
-1048103	c
 c
-1048108	a
+NA
 a
-a
+NA
+c
+c
+c
 a
 a
-1048116	a
-1048118	a
-1048121	a
-1048123	a
-1048126	a
-1048129	c
-1048131	c
-c
-1048134	c
 a
+NA
 a
-1048138	c
-1048145	a
-1048149	c
+c
 a
-1048152	a
 c
-det.
 a
 a
-1048158	a
-1048160	c
+NA
 a
-1048163	c
-1048167	c
-1048171	c
+NA
+c
 a
 c
-1048178	c
 a
 c
+a
+NA
 det.
-c
-1048185	c
 c
-1048188	c
-1048190	c
-1048194	c
 a
-1048199	a
-1048203	a
-1048207	a
-a
-1048213	c
-1048215	c
-c
+NA
 c
 c
 a
-1048221	det.
-1048223	c
-det.
-1048226	a
-1048228	a
-1048230	c
-1048232	a
 a
-1048235	c
-1048238	c
-1048240	c
+NA
 a
-1048243	c
+NA
 a
-1048246	c
-1048248	a
-1048254	a
-1048259	c
-c
-1048267	a
-1048272	c
 a
-1048276	c
+NA
 c
-1048281	c
-1048285	a
 c
+NA
+c
 a
-1048291	a
 a
-1048294	a
-1048299	c
-1048302	c
-1048304	a
-1048307	a
-c
-1048311	c
-1048313	c
-1048315	c
+NA
 a
+NA
+a
+a
 c
-1048319	a
-1048321	c
-1048330	a
+a
+NA
 c
-1048334	a
-1048337	det.
-1048340	a
+a
 a
 a
-1048344	a
+NA
 a
 a
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
 c
+NA
+c
+c
 a
+NA
+NA
 c
 a
-1048354	c
 a
 a
-1048358	a
+NA
+NA
+a
+NA
+c
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
 a
+NA
+NA
+c
+NA
+c
 a
-1048362	a
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 c
 a
-1048368	c
-1048371	c
+NA
+c
 a
+NA
 a
-1048377	c
+NA
+NA
 c
 c
 a
+NA
 a
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-1048384	a
-1048388	a
+NA
 a
-1048392	a
+NA
+NA
+NA
+c
 a
+NA
 a
-1048397	a
+NA
+c
 a
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
 a
-1048405	c
+NA
+NA
+NA
 c
 c
+NA
+NA
 c
-1048412	a
+NA
+NA
+NA
+c
 a
-1048415	c
+NA
+NA
 a
-1048418	a
 c
-1048421	a
-1048423	c
-1048427	a
-1048429	a
+NA
+NA
 c
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+a
 c
-1048435	a
+NA
 a
-1048439	c
-1048442	a
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+c
+NA
+c
 a
-1048447	det.
-1048450	c
+NA
+NA
+NA
+c
+c
 c
-1048453	c
-1048456	a
-1048458	c
-1048461	c
 c
-1048464	det.
-1048466	c
-1048468	c
+c
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
 a
-1048472	a
-1048474	c
-1048476	c
-1048478	a
 c
 a
-1048482	c
-1048485	a
-1048489	a
-1048491	c
-1048495	a
+NA
+c
 a
-1048498	c
-1048501	a
+c
+NA
+NA
+NA
+NA
+c
 a
 a
-1048505	a
+NA
 a
-1048508	a
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
+c
 a
 c
 a
-1048513	a
+c
+NA
+c
+c
+c
+NA
+NA
+c
+c
+NA
 a
-1048516	a
+NA
+NA
+NA
+NA
+det.
+det.
+NA
 a
+NA
+NA
+NA
 c
-1048520	c
 a
-1048528	c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
 a
-1048531	a
 a
-1048539	c
+c
 a
-1048543	a
-1048545	a
+NA
+c
+NA
 c
-1048550	a
+NA
+NA
 a
-1048553	c
+c
+NA
+NA
+c
+NA
+c
 a
-1048556	a
-1048558	a
-1048561	c
 a
-1048564	a
-1048568	a
-1048571	a
+NA
+c
+NA
+c
+c
 a
-1048578	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
 a
-1048585	a
+NA
+c
 a
-1048594	a
-1048596	a
-1048599	a
-1048601	c
-1048605	a
+NA
 a
-1048611	a
-1048616	c
+NA
 a
-1048629	a
-1048631	a
-1048633	c
-1048636	c
-1048649	c
-1048652	a
-1048654	c
-1048660	a
-1048663	c
+NA
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+det.
 a
-1048676	a
-1048678	a
-1048684	c
 a
-1048687	c
-1048690	a
-1048692	c
+NA
+NA
+NA
 a
-1048699	c
 a
-1048702	a
-1048704	a
-1048710	c
-1048712	c
+NA
 c
-1048723	c
-1048729	a
-1048734	a
-1048736	c
+NA
+NA
 a
 a
-1048740	a
-1048742	a
-1048747	c
+NA
+c
 a
+NA
 a
-1048751	a
-1048753	a
-1048757	c
+NA
 c
-1048762	c
 c
-a
-1048771	a
-1048773	a
-1048775	c
+c
 c
 a
-1048779	a
-1048781	c
+NA
+a
+NA
+c
+NA
+NA
+NA
+NA
 c
-1048790	a
-1048792	c
 a
-1048795	a
-1048797	c
-1048800	c
-1048802	c
+NA
+NA
+c
+NA
+NA
 a
 a
-1048806	c
-1048814	a
+NA
+NA
+c
+NA
+NA
 c
-1048817	a
-1048819	a
-1048821	a
-1048823	a
+NA
+c
 a
+NA
 c
-1048827	c
 a
-1048830	a
+NA
 a
-1048833	c
-1048835	a
-1048837	c
+NA
+NA
 c
-a
-1048841	c
-1048845	a
-1048847	c
 a
 a
-1048852	a
-1048855	a
-1048859	a
-1048864	c
+NA
+NA
 a
-1048868	c
-1048871	c
-1048876	c
-1048879	c
+NA
+det.
+NA
+NA
 c
-1048885	a
+a
 a
 a
+NA
 c
+NA
 c
 a
-1048892	a
+c
 a
-1048895	c
+NA
 a
+NA
+NA
+NA
+NA
 a
-c
+NA
+NA
 a
+NA
+c
+NA
+NA
+NA
+c
 a
+NA
+NA
+c
+NA
 a
+NA
+c
 c
+c
+c
+NA
+NA
 a
-1048906	c
+NA
+c
+c
+NA
+NA
+det.
 a
-1048909	a
+NA
+c
+c
+c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
 c
-1048914	a
-1048917	c
+NA
 a
-1048922	a
-1048924	a
-1048927	c
+NA
+c
+NA
+NA
+c
+c
 a
-1048931	a
-1048934	c
-1048936	a
-1048940	c
-1048942	c
+c
+c
+c
+det.
+NA
+c
+c
+c
+NA
+NA
 a
-1048945	a
-1048948	a
+NA
 a
-1048951	a
+NA
 a
-c
-1048957	c
+NA
 a
-det.
-1048961	c
-1048963	c
-1048967	c
-1048972	c
-1048974	a
-1048976	a
-1048979	c
-1048981	c
+NA
 a
-1048984	c
-1048986	c
-1048991	c
-1048994	a
+NA
+NA
 a
-1049005	c
-c
+NA
 a
-1049013	a
-1049016	c
-1049019	c
-1049022	c
-1049025	a
+NA
 a
-1049028	a
-1049030	c
-1049032	a
-1049034	a
-1049036	c
 c
+NA
 a
-1049041	a
-1049043	a
+NA
+NA
+c
+c
+NA
 a
-1049046	a
 a
+NA
+c
+NA
 a
-1049050	a
-1049052	c
+NA
+NA
 c
+c
+NA
+a
 a
-1049057	a
-1049059	c
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
 c
+c
 a
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+c
 a
-1049065	c
-1049067	c
+NA
+NA
 a
-1049070	c
 a
-1049073	a
+NA
+NA
+NA
+c
 a
-1049076	a
+NA
+NA
+NA
+NA
+c
+c
 a
+NA
+NA
+c
+NA
+NA
+NA
+c
+c
 a
-1049080	c
-1049082	a
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+det.
+c
+NA
+NA
+NA
 a
-1049086	c
+c
+NA
 a
-1049089	a
+NA
 a
-1049093	a
-1049096	c
-1049098	a
+c
+NA
 a
+NA
+c
+NA
+c
 a
-1049102	a
+NA
+NA
 a
 a
+NA
 a
-1049107	c
+NA
+NA
 a
+NA
+NA
+NA
 a
-c
+NA
+NA
 a
-1049113	det.
-1049123	a
-1049126	a
-1049129	c
-1049131	c
+NA
+NA
 a
-1049134	a
-1049136	a
-1049138	a
-1049140	a
-1049143	a
+NA
+c
 a
+NA
+c
+NA
 a
+NA
+NA
+c
 a
-1049148	a
-1049151	a
-1049153	c
-1049155	c
-1049159	a
+NA
 c
-1049166	c
-1049168	c
-1049172	c
 c
+NA
 a
-1049176	a
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
 a
-1049180	c
 a
+NA
+NA
+NA
 c
+a
+NA
 c
-1049185	c
-1049188	c
-1049190	a
-1049194	a
-1049196	a
-1049199	a
+NA
 a
-1049202	a
+c
 a
-1049205	a
-1049209	a
-1049211	a
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+det.
+NA
 c
 a
-1049218	c
-1049221	c
+NA
+NA
+NA
 a
-1049224	c
-c
+NA
+a
+NA
+NA
+NA
+a
 a
-1049228	a
+NA
+NA
+det.
+NA
 c
+NA
 c
-1049232	a
 c
-a
-1049236	a
-1049239	a
+NA
 a
-1049242	a
-1049244	a
+NA
 a
-1049247	a
 a
-1049250	a
-1049252	a
 a
+NA
+c
+c
 a
-1049256	a
-1049258	c
+c
+NA
+c
 a
-1049261	c
 a
-1049267	c
+NA
 a
 c
-1049271	a
-1049273	c
 a
-a
-1049277	c
+NA
+NA
+c
+NA
 c
-1049283	a
 c
-1049286	a
-1049288	c
+NA
 c
-1049294	a
-1049296	a
 a
-1049301	a
+NA
+NA
 a
-1049305	a
 a
-1049308	a
-1049311	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-1049315	det.
-1049317	a
+c
+NA
+NA
+NA
 c
-1049323	c
-1049325	a
-1049329	c
-1049331	c
 a
-1049337	c
-1049339	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
-1049343	c
-1049345	c
 a
-1049348	a
 a
-1049351	a
-1049353	c
+NA
 a
-1049357	a
+NA
+NA
 a
+NA
 c
-a
-1049362	a
-1049364	c
 a
-1049370	a
+NA
 a
-1049377	c
-1049379	c
-1049381	a
-1049386	c
-1049388	a
-a
-1049396	a
-1049399	a
-det.
-1049402	a
+NA
+NA
+NA
 a
-1049407	c
 c
-c
+NA
+a
+NA
 c
-1049414	a
-1049421	c
+NA
+NA
+NA
 a
-1049425	c
-1049429	c
-1049433	c
-1049438	c
 a
-1049446	c
-1049448	c
-1049450	a
+NA
+NA
+NA
 c
+NA
+NA
+NA
+det.
 a
-1049454	a
-1049456	c
-1049459	c
 a
-1049465	c
+NA
+NA
+NA
 a
+c
+NA
+NA
 a
-1049470	a
-1049474	a
+c
 a
 a
-1049478	c
+NA
 a
 a
+NA
+NA
+NA
+det.
+det.
+det.
+NA
+NA
+NA
+NA
+NA
 a
-1049483	a
-1049488	a
-1049490	c
-c
 a
-1049494	a
-1049497	a
+NA
+NA
 a
-1049503	a
-1049505	a
-1049508	a
-1049512	c
+NA
 a
+NA
+NA
+NA
 a
 c
+NA
+NA
+NA
 c
+NA
+NA
 a
-1049519	a
-1049521	a
-1049523	a
-1049526	c
-c
-1049532	a
-1049538	a
-1049543	c
-1049545	c
-1049548	a
-1049554	c
+NA
 c
-1049558	a
+NA
+NA
+NA
 c
-1049569	a
-a
-a
 a
-1049581	c
-1049586	c
+NA
+c
 a
-1049589	a
-1049591	c
-1049595	a
-1049599	a
-1049601	c
+NA
+c
+NA
+NA
+NA
+c
 a
-1049612	a
-1049616	a
-1049619	a
-1049622	c
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
 a
 a
-1049629	c
-1049632	a
+NA
 a
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1049637	c
-a
-1049640	a
-1049642	a
-1049644	c
-1049648	a
-a
-1049651	a
+NA
+NA
 c
 a
-1049655	a
+c
 a
-1049660	det.
-1049662	c
-1049664	a
-1049667	a
-1049669	c
-1049674	a
-1049679	c
+NA
 c
-1049682	a
-1049684	c
 a
-1049691	c
+NA
+NA
+NA
 a
 a
+NA
+c
+NA
+NA
+NA
+NA
 a
-1049698	a
-1049703	c
-1049710	a
-1049712	c
-1049714	c
-1049717	c
-1049724	a
-1049726	c
-1049729	a
-1049731	a
-1049733	a
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-a
-1049739	a
-1049742	a
+NA
 c
-a
+NA
 c
-1049749	det.
-1049753	a
-1049755	a
-a
+NA
+NA
+c
 a
+NA
+NA
 c
 a
-1049761	det.
-1049764	c
+NA
+NA
 c
+NA
 a
+NA
 a
-1049770	a
+NA
 c
+NA
 a
 a
+NA
+NA
+NA
 c
 a
-1049777	a
-1049779	c
+NA
+NA
+c
+NA
+NA
+c
 a
-1049783	det.
+NA
 a
-1049786	a
-1049790	c
-1049792	a
+NA
+c
 a
-det.
-1049796	a
-1049798	a
-1049800	det.
-1049804	c
-1049806	a
-1049808	a
+NA
 a
+NA
+NA
+det.
 a
-1049812	c
-1049814	a
-1049816	det.
+NA
 a
-1049820	c
+NA
+NA
 a
-1049823	a
-1049825	a
-1049829	a
+NA
 c
 a
+det.
 a
+NA
 a
-1049835	a
+NA
 a
-1049839	a
-1049841	a
+NA
+c
+det.
 c
 a
-1049845	a
+NA
 a
+NA
+c
+NA
+NA
+NA
+NA
+a
+NA
+NA
 a
+c
 a
-1049850	a
+det.
+NA
 a
 a
+NA
+NA
+c
 a
-1049855	c
 det.
-1049859	a
-1049864	c
-1049867	c
 a
-1049872	c
+NA
+det.
+NA
 c
 a
-1049876	a
-1049881	a
-1049884	c
-1049886	a
-1049889	c
-1049892	c
-1049895	a
-1049897	a
-1049899	a
-1049901	a
-1049906	a
-1049910	a
+NA
+c
+NA
+c
 c
 a
+NA
 a
+NA
+NA
 c
-1049916	c
-det.
-1049920	a
-1049924	a
-1049927	a
-1049930	a
-1049934	a
-1049936	c
-a
+NA
+NA
+NA
+NA
 c
 a
-1049941	c
-det.
+a
+NA
+NA
+a
+c
 c
 c
+NA
+c
+NA
+NA
+NA
 a
-1049947	c
+NA
+NA
+NA
+NA
+c
+c
 a
+NA
+NA
+c
+NA
 c
+NA
+c
+NA
 a
-1049952	c
-det.
+NA
+NA
 c
 c
-1049957	c
 a
-1049963	a
-1049965	a
-1049967	a
+NA
 a
 a
-1049971	c
+NA
+NA
 det.
-1049974	a
-a
+NA
+NA
+NA
+NA
+NA
 c
-a
-1049979	c
-a
+c
+NA
+c
+NA
+NA
 c
+det.
+NA
+NA
+NA
+NA
 a
-1049984	c
+NA
 a
+NA
 c
-1049988	a
-1049990	a
+NA
 a
-1049995	a
+NA
+NA
 a
-1049998	a
-1050006	c
-1050009	a
-1050013	a
-1050015	a
-1050018	a
-1050022	a
-1050028	c
-1050030	c
+NA
 a
-1050033	a
-1050036	c
+NA
+NA
 a
-1050039	a
-1050041	c
 a
-1050044	a
-1050047	c
+NA
+c
+NA
+c
+NA
+c
 a
-1050050	a
-1050056	a
-1050058	c
+NA
+NA
+NA
 a
-1050064	c
-1050067	a
-1050070	c
-1050073	a
-1050078	c
 a
-1050082	a
-1050084	c
+NA
+NA
 a
-1050090	c
-c
 a
-1050095	c
-1050098	c
+NA
 c
-1050101	c
-a
-a
-1050105	a
-1050107	a
-1050111	a
-a
-1050115	a
+NA
 a
+NA
+NA
+c
+NA
 a
-1050119	a
-1050121	c
-1050123	a
+NA
+NA
 a
+NA
+c
+NA
+NA
 c
 c
+NA
+NA
+NA
 a
-1050129	a
-1050132	c
-1050134	a
+NA
+NA
+NA
 a
-1050138	a
-1050141	c
-1050145	a
-1050147	a
-1050149	a
-1050151	c
-1050155	c
-1050158	a
 a
-1050163	c
+NA
+NA
+NA
+NA
 c
 a
-a
+NA
+NA
+NA
 c
-a
-1050170	a
-1050172	c
 c
-1050175	a
-a
-1050182	c
+NA
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
-1050188	a
-1050190	a
-1050193	c
 a
+NA
+det.
+NA
+NA
+NA
+c
 a
+NA
+c
 a
-1050199	a
+NA
 a
-1050202	a
-1050205	a
+NA
+NA
 c
+NA
+NA
 a
-1050210	a
+NA
+c
+NA
 a
-1050213	a
-1050216	a
-1050219	a
-1050222	a
-1050224	c
+NA
 c
-1050230	a
 c
-1050240	c
+c
 a
+NA
+c
 a
-1050248	a
+det.
 c
-1050252	a
 a
-1050256	c
-1050258	a
-1050263	a
+NA
 a
-1050267	c
-1050270	c
+NA
+NA
+NA
 c
-1050273	c
-1050275	c
-a
-1050278	a
+NA
+NA
 a
+NA
 c
+det.
+NA
+NA
+NA
+NA
 c
-1050283	c
 c
-1050286	c
-1050288	a
-a
-a
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
+c
 a
+NA
 a
-c
-1050297	a
-1050302	c
-1050306	a
-1050310	a
-1050313	c
+NA
 a
-1050316	a
-1050319	a
-1050321	a
+NA
 a
+det.
+NA
 a
-1050327	c
-1050330	c
-c
-1050333	a
-1050336	a
-1050339	a
-c
+NA
+NA
 c
-1050345	c
-1050348	c
 a
-1050352	c
-a
-1050357	c
-1050362	c
 c
-1050368	c
+a
+NA
 c
+NA
+NA
 c
+NA
 a
+NA
+c
+NA
 a
-1050374	a
-1050376	a
-1050379	c
 a
-1050383	a
-1050393	a
-1050395	a
 a
+NA
+NA
+c
 a
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
 a
-1050402	c
-1050405	a
-1050407	a
-1050409	c
+NA
 a
-1050412	a
-1050415	a
-1050418	c
+NA
 a
-1050421	a
-1050424	a
+NA
 c
-1050429	a
-1050431	a
-1050434	a
+NA
+NA
 c
+NA
+NA
 c
-a
+NA
 c
-1050440	det.
-1050442	a
+NA
 a
-1050446	c
-1050448	c
+NA
+c
+NA
 c
+NA
+NA
+c
 a
+NA
 a
-1050453	a
-1050459	a
-1050472	a
-1050475	c
-1050477	a
-1050479	a
+NA
+NA
+c
 a
-1050482	a
-1050487	a
-1050490	a
-1050493	a
-1050498	c
+NA
+NA
+NA
+NA
+NA
 a
-1050502	a
-1050504	a
-1050506	a
-1050509	c
+det.
+c
+c
 a
-1050512	c
+NA
+NA
 a
 a
+det.
+NA
+c
 a
-1050517	c
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1050522	a
+det.
+NA
 c
-1050525	c
 a
-1050528	c
-1050532	c
-1050536	c
-1050540	c
+NA
+NA
+NA
+c
+det.
+NA
+c
+NA
+NA
+NA
+c
+NA
+NA
 a
-1050543	c
+NA
 a
-1050546	c
 a
-1050549	c
-det.
-1050553	c
-1050555	a
+NA
+NA
 det.
-1050559	c
+NA
+NA
+NA
+NA
 a
-1050564	c
+NA
 a
-1050567	c
-1050570	c
-1050574	c
-1050580	c
-1050582	c
-1050587	c
-1050593	c
-1050597	a
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
-1050600	a
-1050603	a
-1050605	a
-1050608	a
-1050610	a
-1050612	a
-1050615	a
-1050617	a
-1050620	a
-1050622	a
-1050625	a
-1050628	a
-1050630	a
-1050634	a
-1050637	a
-1050644	a
-1050647	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
 c
+NA
 c
-1050652	det.
-1050654	c
-a
-1050657	c
 c
-a
-1050663	c
-a
-1050667	c
-1050670	c
-1050672	a
-1050676	c
+NA
 c
-1050679	c
 c
-1050684	c
-1050687	c
-1050689	c
-1050691	c
-1050693	a
-1050696	a
+NA
 c
-1050703	c
-1050707	c
-1050710	c
+NA
+det.
 c
-1050713	c
-1050715	c
+NA
 c
-1050719	c
+NA
+det.
+NA
+NA
 c
-a
-1050724	c
+NA
 a
-a
 c
-a
+NA
 c
-a
-a
-1050734	a
+NA
 a
 a
+NA
+NA
 c
-1050741	a
-1050743	a
-a
+c
+NA
+c
+NA
 a
+c
 a
+NA
+c
 a
-1050749	a
-1050753	a
+det.
+NA
+c
+NA
+NA
 a
 a
+NA
 a
 c
+NA
 a
-1050760	a
+NA
+NA
 a
+NA
 c
-a
+NA
 a
+NA
+NA
+c
+NA
+c
+det.
+NA
+NA
 a
 c
 a
-1050769	a
 a
-1050772	c
+NA
+c
 a
+NA
+NA
 a
 a
-1050777	a
-1050779	a
 a
-1050783	a
+NA
+c
 a
-1050786	a
-1050789	a
-1050791	a
-1050793	c
+NA
+NA
 a
-1050797	a
-1050800	c
+NA
+NA
 c
+det.
+NA
+NA
 a
-1050808	a
-c
 a
-1050812	c
-1050814	c
+NA
 a
-1050818	a
-c
+NA
 a
+NA
 a
-1050823	a
-1050825	c
+NA
+c
 a
+NA
+NA
 a
+NA
 c
 a
-1050832	a
-1050834	a
-1050838	a
+NA
+c
+NA
+NA
+c
 a
-1050841	a
-1050845	c
+NA
+NA
+c
 a
+NA
 det.
-1050849	a
-1050851	a
+NA
+c
 a
+NA
+NA
 c
-1050855	a
-det.
-1050858	c
-1050860	c
-1050863	c
 a
-1050869	a
+det.
+NA
+c
 a
+NA
 a
-1050873	a
 a
-1050876	c
+c
 a
-1050879	a
+NA
+NA
 c
 a
+NA
 a
-1050885	a
+NA
 c
 c
-a
-1050891	a
 a
+NA
+c
+c
 a
-1050895	a
+NA
+c
+NA
+c
 a
-1050898	det.
+NA
+NA
+c
 a
-1050901	a
-1050903	a
-1050909	c
+NA
 c
 a
+NA
+c
+c
+NA
 a
-1050914	a
-1050918	a
+NA
+NA
 a
 a
-1050922	a
-1050924	c
+NA
+c
 a
-1050927	a
-1050931	a
+NA
+c
 a
-1050934	a
+NA
+NA
+NA
+NA
+NA
+c
 a
-1050937	a
+c
+c
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
+c
+c
+c
 a
+NA
+c
+NA
+c
 a
+NA
+NA
+c
+c
 a
+NA
+NA
+c
+NA
+det.
+NA
+c
 a
+NA
+NA
+NA
+NA
 a
 a
-1050945	c
+NA
+c
+NA
+c
 a
-1050948	a
-1050951	a
-1050953	a
-1050959	c
 c
-1050962	a
-1050965	a
-1050967	a
-1050969	c
 a
-1050972	a
+NA
+NA
+NA
+NA
+NA
 c
 a
-1050976	a
-1050979	a
+NA
+c
+NA
+c
 a
-1050982	a
+NA
+c
 c
 a
+NA
+NA
+det.
+c
+NA
+NA
 a
+NA
+c
+NA
+NA
+c
+c
+det.
+NA
 a
-1050989	a
+NA
+c
 a
-1050993	a
-1050995	c
-1050999	a
-1051001	c
-1051003	a
-1051005	c
-1051008	a
-1051011	c
-1051015	c
+NA
+c
+NA
+c
 a
+NA
 c
-1051019	c
+NA
 c
-1051022	c
+NA
+NA
+NA
+NA
 c
-1051026	a
-1051028	c
-1051031	a
-1051033	c
-1051037	a
-1051040	a
-1051044	a
-1051049	a
-1051052	a
-1051055	a
-1051057	c
-1051059	a
-a
-1051063	a
-1051065	a
-1051067	c
+NA
+c
+c
 a
-1051070	c
+NA
 c
+NA
+NA
+c
+NA
+NA
+c
 a
-1051074	c
+NA
+NA
+NA
+NA
 c
 a
-1051078	c
 a
+NA
+NA
+NA
+NA
 c
-a
-1051083	c
+NA
+det.
+NA
 c
-1051086	c
+NA
+det.
+det.
 a
+NA
 a
-1051092	a
-1051094	c
-1051096	c
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
+NA
 a
 c
+NA
+NA
+NA
 c
-1051102	c
-1051104	c
-1051112	c
-1051117	c
-a
-1051124	a
-1051128	c
+NA
+NA
+NA
 c
-1051133	a
-1051135	c
-a
-1051138	c
-1051140	a
-1051143	a
-a
-1051146	a
-a
-1051149	a
-1051152	c
-1051156	a
+NA
 c
-1051160	a
+NA
+NA
+NA
+NA
+NA
 c
-1051163	c
+NA
 c
 a
-a
-1051169	c
-a
+NA
+c
 a
 a
+c
+NA
+det.
+NA
 a
 c
 a
+NA
 a
+NA
 a
 a
-1051180	c
+det.
+NA
 a
 a
-1051184	a
-1051186	a
-1051188	a
-1051190	c
-1051192	a
-1051194	a
-1051196	a
-1051198	a
-1051200	a
 a
-1051206	c
+NA
 c
 a
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
 a
+c
 a
+NA
+NA
+NA
+NA
 a
+NA
+c
+NA
+NA
+c
+NA
 a
-1051214	a
-1051216	a
+NA
+c
+c
+NA
+c
+c
+NA
+c
+c
+c
+NA
+NA
+NA
 a
-1051220	c
+c
+NA
 c
+NA
 a
-1051225	c
+NA
+NA
 c
 a
+NA
+c
+NA
+NA
+c
 a
-1051231	a
-1051233	c
-1051236	c
+NA
 c
-1051239	c
-1051242	a
-1051244	c
+c
 a
+NA
+NA
 c
 c
-1051249	c
 c
 a
 c
-a
-1051255	c
 c
-1051259	a
-1051261	c
-1051263	a
-1051267	c
-1051269	c
-1051271	c
-1051275	a
-1051281	a
-1051284	det.
-1051286	a
-a
-1051289	c
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+c
 a
+NA
+NA
+c
+c
+c
+NA
 c
 a
-1051297	a
+NA
+NA
+NA
+c
 a
 a
-1051303	c
+NA
+NA
+c
+c
 a
-1051311	c
+NA
+NA
+NA
+NA
+NA
+c
 a
-1051320	a
-1051325	a
+NA
+c
 a
-1051329	c
+NA
+c
 a
-1051332	a
-1051335	a
+NA
+c
+c
 a
-1051340	a
+NA
+NA
+NA
 a
-1051343	det.
-1051346	det.
-det.
-1051350	a
+c
+NA
+c
+NA
 a
-1051356	det.
-1051358	a
-1051362	c
-1051366	a
-1051372	a
-1051375	a
-1051377	a
-1051381	a
-1051383	a
-1051385	a
-1051387	c
-1051391	a
-1051394	a
 a
-1051397	a
+NA
+NA
 a
+NA
+NA
 a
-1051401	a
+NA
+NA
+NA
 a
-1051407	a
-1051411	a
-1051413	a
-1051415	a
-1051417	c
+NA
+NA
+NA
+NA
+NA
 c
-a
+NA
+NA
 c
-1051422	a
 c
-1051427	a
+NA
 a
-1051430	c
-1051432	c
-1051434	c
-1051436	a
-1051438	a
-1051441	a
-a
-a
-1051445	c
-1051448	c
-1051450	a
-1051452	c
-a
-1051456	c
-1051459	c
+det.
+NA
 c
-1051462	a
-1051467	a
-1051470	a
-1051472	a
-1051474	a
-1051477	c
-a
-1051481	c
+NA
+NA
+NA
+NA
+c
 a
-1051484	a
-1051488	c
+NA
 a
-1051492	a
+NA
+NA
+NA
 c
-1051495	a
-1051497	c
+NA
+NA
+NA
 c
 c
-a
-1051502	c
-1051506	a
-1051508	a
-1051520	a
-1051523	a
+NA
+NA
+NA
 c
-1051526	c
 a
-1051530	a
-1051532	a
-1051534	a
+NA
 c
-1051537	c
-1051539	a
-1051541	a
-1051543	c
-1051547	a
-1051549	a
-1051551	c
 a
-1051554	c
+NA
 a
-1051557	c
+NA
 c
-1051561	c
+NA
+NA
+NA
+NA
 a
-1051565	c
+NA
+NA
 c
-1051568	det.
-1051570	a
-1051574	a
-1051577	c
-1051579	c
-1051586	c
-1051588	c
-1051590	a
-1051593	c
-1051596	c
-1051599	a
-1051602	c
-1051604	a
-1051606	a
-1051609	a
-1051611	a
-1051613	c
-a
-1051618	c
-a
-1051621	a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
+NA
+c
 a
-1051625	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1051628	a
-1051632	a
+NA
+NA
 a
-1051635	c
-1051638	a
-1051644	c
-1051646	a
 c
-1051649	a
-1051652	det.
-1051659	a
-1051665	c
+NA
+NA
+NA
 a
-1051668	c
-1051672	c
 c
-1051675	c
+det.
+NA
+NA
 a
-1051678	c
 c
-a
-1051682	a
-1051684	c
-1051686	a
-1051690	a
+NA
+NA
+c
 a
-1051693	a
-1051695	c
+NA
+NA
 a
-1051698	a
-1051702	c
-1051705	a
+c
+NA
+NA
+c
+det.
+NA
+NA
 a
-1051708	c
-1051710	c
-1051715	a
-1051717	c
-1051719	c
+c
+NA
+NA
+c
 a
+NA
+NA
 a
-1051724	c
-1051727	a
-1051729	a
 c
-1051734	c
-a
-1051738	c
+NA
+NA
 c
+c
 a
+NA
+NA
 a
-1051743	a
-1051746	a
+c
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
 a
+c
+NA
+NA
 c
 a
-1051751	c
+NA
+c
 a
-1051754	c
-1051757	c
+NA
+NA
 a
+c
+NA
+NA
 a
-1051761	c
-1051764	c
-1051768	c
+NA
 c
+a
+NA
 c
+NA
+NA
+a
 c
+NA
+NA
 c
-1051776	a
-1051778	c
 a
-c
+NA
+NA
 a
 c
-1051785	a
-1051787	c
+NA
+NA
 c
-a
-1051791	a
-1051794	a
-1051799	a
-1051801	c
-1051803	a
-1051805	a
-1051811	a
-1051815	c
 a
-1051819	a
-1051821	det.
-1051823	c
-1051825	a
-1051827	c
-1051831	c
+NA
+NA
 a
+c
+NA
+NA
+c
+NA
+NA
+NA
 a
-1051835	a
-1051837	det.
-1051839	c
-1051841	a
-1051843	det.
-1051847	a
+c
+NA
+NA
 a
-1051851	c
+NA
 a
-1051857	a
+NA
+NA
 a
-1051864	a
-1051866	c
-1051868	a
-1051870	a
-1051874	a
-1051878	a
 c
-a
-1051882	a
-1051884	a
+NA
+NA
 c
 c
 a
+NA
+NA
 a
-1051890	a
-1051892	a
-1051894	a
-a
-1051897	a
 c
+NA
+NA
 a
+NA
+c
 a
-1051902	a
-1051904	a
-1051908	a
-1051910	a
-1051914	a
+NA
+c
+c
+NA
+c
 a
+c
+c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
 a
-1051919	a
-1051921	a
+NA
+NA
+NA
 a
+NA
+c
+NA
 a
-1051925	a
-1051929	det.
-1051931	c
+NA
 a
+c
+NA
+NA
+NA
 a
-1051935	a
-1051937	c
+NA
 a
-1051940	c
-1051942	c
+NA
+NA
 c
-1051946	c
-1051949	a
-1051951	a
-1051954	a
-1051960	c
-1051962	a
-1051964	c
-1051969	c
-1051972	c
-1051976	a
-1051982	a
-1051984	c
-a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-1051989	c
-a
-a
-1051993	c
-1051998	c
+NA
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1052002	a
-1052004	det.
-1052006	c
-1052010	a
-1052012	a
-1052014	c
+NA
+NA
 a
-1052020	a
-det.
+NA
+NA
+NA
+c
+NA
 a
+NA
+c
+NA
+NA
+NA
 a
-1052026	a
-1052028	a
+NA
+c
+NA
+NA
 a
-1052031	c
+NA
+NA
 a
 a
-1052035	c
+NA
+NA
+NA
 c
-1052038	c
 c
-1052041	c
+NA
+NA
 c
-1052044	c
+NA
+NA
 c
-a
 a
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1052050	c
 a
-1052053	a
-1052056	c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
 a
-1052061	a
+NA
+c
+NA
+c
+NA
+NA
+c
+NA
+c
 a
-1052065	a
-1052067	a
 a
-1052070	a
-1052073	a
+NA
 c
-1052076	a
-1052078	a
+NA
 a
-1052081	a
 c
 a
+NA
+NA
+NA
+c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1052087	a
-1052089	a
+NA
 c
-1052092	c
+NA
 c
+NA
 a
-1052098	c
+NA
 a
-1052101	c
-1052103	a
-1052107	a
-1052111	a
+NA
+NA
+NA
 c
+NA
 c
+NA
+NA
+NA
+NA
 c
-1052116	a
-1052118	c
-1052120	c
-1052123	a
-1052125	a
-a
-1052128	a
-a
-1052131	a
-a
-1052134	a
-1052136	a
-1052138	a
-1052141	a
-1052143	a
-1052146	c
-1052149	c
-1052151	a
+c
+NA
+NA
 a
-1052154	a
-1052156	a
-1052159	c
-1052161	a
-1052163	a
-1052167	a
+NA
 a
 a
-1052171	a
-1052173	a
-1052175	c
+NA
+c
+NA
+c
+NA
+NA
+NA
 a
-1052179	a
+NA
+NA
+c
+NA
 a
-1052182	c
+NA
 a
+NA
+NA
 c
-1052186	a
-1052189	a
-1052192	c
+NA
 c
-a
-1052199	a
-1052201	c
+NA
+NA
+NA
 c
-1052204	a
-1052208	a
+NA
 c
-a
-a
-a
-1052214	c
-a
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
 c
+NA
+NA
+NA
 a
+NA
+NA
 a
-1052222	a
 c
 a
-a
+NA
+NA
+NA
+NA
+c
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
-1052228	c
+NA
 a
-1052231	a
-1052233	c
 a
-1052236	c
 c
+NA
 a
-1052241	c
-1052244	a
-1052246	a
-1052250	a
-1052252	a
-1052254	c
-a
-1052257	a
-1052261	c
+det.
+c
+NA
 a
 a
+NA
+c
 c
+NA
+c
+c
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
+NA
+NA
+NA
+c
+NA
+NA
+c
 a
-1052269	a
-1052271	a
-1052274	c
+NA
 a
 a
+NA
+NA
+NA
+NA
 a
-1052279	a
-1052281	a
-1052284	c
+NA
+NA
+NA
+NA
+c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
 a
 a
-1052289	a
-1052291	a
-1052294	c
+NA
 c
+NA
+NA
+c
+c
 a
+NA
 a
-1052299	a
-1052301	a
-1052304	c
+c
 a
 a
-1052308	a
-1052310	a
-1052313	c
+NA
+NA
 c
 a
 a
-1052319	a
 a
 a
+NA
+c
+NA
 a
-1052325	c
+NA
+NA
+c
 a
 a
+NA
+c
+NA
+NA
+NA
+c
+NA
+c
 a
+NA
+NA
+NA
 a
-1052331	a
+NA
 c
-c
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
 a
+NA
 c
-1052338	a
-1052341	det.
-1052344	c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 a
+NA
 c
-1052349	c
+NA
 a
+NA
 c
-1052353	c
-a
-1052356	c
-1052358	c
+NA
+NA
 c
-1052361	a
 a
-1052366	a
-1052369	c
+NA
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
-1052374	c
 a
 a
-1052380	c
-1052382	a
+NA
+NA
+NA
 c
 a
-1052386	c
+NA
 a
-c
+NA
+NA
 a
 c
-1052393	c
-a
-1052397	a
-a
-1052400	a
+NA
 c
-a
-1052405	c
-a
-1052408	c
-1052410	c
+c
+NA
+NA
 a
+NA
 a
+NA
+NA
+NA
 a
-c
+NA
 c
-1052418	a
+NA
+NA
+NA
 c
-1052421	c
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
+NA
+NA
+NA
 c
+NA
+NA
 c
-1052427	c
-a
-a
 a
-1052433	c
+NA
+NA
+NA
 a
-1052436	a
-1052439	c
-1052442	a
+NA
 c
-c
 a
-1052448	a
+NA
+NA
+NA
+NA
+c
 a
+NA
 a
-1052453	a
+NA
+c
+NA
 a
-1052456	det.
-1052459	a
+NA
+c
+NA
 a
-1052462	c
-1052464	a
+NA
 a
-1052467	a
-1052469	a
-1052471	a
-1052473	a
-1052475	c
 a
-1052479	a
-1052481	a
+NA
+NA
 c
-1052484	c
 a
-1052488	c
+NA
 a
-a
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
+NA
 c
+NA
+c
 a
 a
-1052498	a
-1052500	a
-1052503	c
-1052505	a
-1052508	a
+c
 a
+NA
+c
 a
+NA
 a
-1052514	a
 a
-1052517	a
+NA
 c
-a
-1052521	c
 a
 a
+NA
+NA
 a
-a
-1052527	a
-1052529	a
+NA
 c
-a
-1052533	c
 a
-1052538	c
 c
-1052542	a
-1052544	a
-1052546	a
+a
 c
 c
-a
-1052551	a
-1052556	c
+NA
 a
-1052559	a
-a
-a
-1052563	a
+NA
 c
+c
 a
-1052567	a
+NA
 a
-1052570	a
+c
 a
+NA
+NA
 c
+NA
+NA
+NA
 c
+NA
+NA
+c
+c
 a
 a
-1052577	c
+NA
+det.
 a
+NA
 a
-1052582	a
-c
+NA
 a
-1052586	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-c
 a
 a
-1052594	a
-1052596	c
 a
-1052600	a
-1052605	c
+NA
+NA
 a
-1052609	c
-1052611	a
-1052616	c
+c
+NA
+NA
+c
+c
+NA
 a
-1052622	a
 a
-1052625	a
-1052627	a
-1052630	a
-1052632	a
-1052634	a
-1052636	c
-1052638	c
-1052640	a
-1052642	a
-1052644	a
 c
 a
+NA
+NA
+NA
+NA
+c
 a
-1052649	c
-1052651	c
 a
-1052655	c
-1052658	a
-1052660	a
-1052663	c
-c
 a
-c
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-a
-1052673	c
-a
+NA
+NA
 c
-1052677	a
+NA
+NA
+NA
 c
+NA
 c
 a
 c
 a
-1052685	c
-c
 a
+NA
+c
+NA
 a
-1052690	a
 a
-1052693	a
-1052695	c
-1052697	a
+NA
+c
 a
-1052700	a
+NA
 a
+NA
+NA
 a
+NA
 c
-1052705	a
 a
-c
-1052709	a
-1052711	c
-c
+NA
+NA
 a
-c
+NA
 a
-1052717	a
-1052721	c
-c
-1052724	c
+NA
 a
+NA
 a
-1052728	c
-1052731	c
 c
+NA
 a
-1052736	a
-1052738	a
-1052740	a
-1052742	a
+NA
 a
-1052745	a
-1052752	a
-1052754	a
-1052756	a
-1052758	a
-1052760	a
-1052764	a
-1052768	a
-1052771	c
-1052774	a
-1052776	a
-1052778	a
-1052780	a
-1052782	a
+NA
+NA
 a
-1052785	a
+NA
 a
-1052788	a
-1052790	c
-c
-c
-1052796	c
-c
-1052799	c
+NA
 a
-c
+NA
+NA
+a
+NA
 c
+NA
 c
-1052805	a
-1052807	c
+NA
+NA
 a
-1052810	a
+NA
 c
-1052813	a
-1052815	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
+c
 a
-1052819	c
+NA
+NA
 c
+NA
 c
 a
-1052824	c
-c
-1052828	a
-1052830	c
+NA
+NA
+NA
+NA
+a
+NA
+NA
 a
-1052834	c
+NA
+NA
+NA
+NA
+NA
 a
-1052838	c
+NA
+NA
+NA
 a
-1052842	a
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
 a
-a
-1052848	a
-1052851	a
-1052853	a
-1052855	c
-a
-1052858	c
+NA
 c
-a
-1052869	a
-1052871	a
-1052874	c
-a
-1052877	a
-1052880	c
 a
-1052883	a
-1052885	a
-1052888	c
 a
-1052891	a
 a
-1052895	a
+NA
 a
-1052898	a
-1052901	c
-a
-1052904	a
-1052907	c
-a
-1052910	a
+NA
 c
 a
-1052914	a
-1052916	a
+NA
 a
+NA
+NA
 a
-a
-1052921	a
-1052924	c
 c
-1052927	a
 a
-1052930	a
+NA
+NA
 a
 c
-a
-1052935	c
-a
+c
 a
-1052939	a
-1052941	a
 a
+NA
+NA
 a
-1052945	c
+NA
+NA
+NA
 a
 a
-1052950	c
-1052952	c
-1052955	a
-1052957	a
-det.
-1052960	a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-1052965	a
-1052967	a
-1052969	c
+NA
+NA
 c
-1052973	a
-1052977	a
-1052979	a
-1052982	a
-1052985	c
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1052990	a
-1052992	a
-1052995	a
-1052997	a
-1052999	a
 a
-1053002	c
+c
 c
 a
+NA
+NA
+NA
 a
-1053007	a
-c
+NA
 a
+NA
+NA
+NA
+NA
 a
-1053012	a
-c
-1053015	c
-1053017	c
-1053022	c
-1053025	c
-1053030	c
-1053033	c
 c
-1053039	c
-c
-1053042	c
 a
-1053045	c
-c
-c
-c
-1053052	c
-1053057	c
-c
-1053061	a
+NA
+NA
+a
 c
 a
+NA
 a
+NA
 a
-c
-1053068	a
-1053070	a
-1053074	c
 a
-1053077	a
+NA
 a
-1053082	c
 a
-1053086	c
+NA
+c
+NA
 a
-1053089	a
+NA
+NA
 a
-1053094	c
+NA
 a
-c
-1053100	a
-1053102	a
+NA
 a
+NA
+NA
 a
+NA
+NA
 a
-1053108	c
+NA
+NA
 a
-1053112	a
-1053114	c
 a
-1053118	a
-1053122	a
-1053125	a
-1053128	a
-c
+NA
+NA
 a
+NA
 a
-c
+NA
+NA
 a
-1053135	c
+NA
 a
-1053138	a
+NA
 a
-1053141	a
 a
+NA
+NA
+NA
+NA
+c
 c
 a
-1053146	c
 a
-1053149	a
 a
 a
-1053153	a
-1053156	c
 a
-1053159	a
-1053164	c
+NA
+NA
+NA
 a
+NA
 c
-1053169	c
+NA
+NA
 c
 c
+NA
 c
-1053174	c
 a
-1053178	a
-1053181	c
-1053184	c
+NA
 c
-1053188	c
+NA
 a
-1053191	c
+NA
 c
-1053194	c
-1053196	a
+NA
+NA
 c
-1053199	c
-1053201	c
-c
+NA
+a
+NA
 c
-1053205	c
 a
-1053208	a
-1053212	c
+a
+NA
 c
 c
-1053216	a
 c
-a
-1053220	a
+NA
 c
 a
-1053224	a
-1053228	c
+NA
 a
-1053233	c
 a
-1053237	c
+NA
 a
-c
-c
-1053242	a
+NA
 a
-a
-1053246	a
+NA
+c
 a
-1053249	det.
-1053257	a
-1053259	c
 a
 a
-1053263	a
-1053265	c
-1053267	c
+NA
 a
-det.
-1053271	a
-1053273	c
-1053276	a
-1053278	a
-1053285	c
 a
 c
-a
+c
 a
-1053291	a
-1053293	c
 a
+NA
 a
+NA
+NA
+NA
 a
+NA
 a
+NA
 a
+NA
 a
-1053301	c
+NA
+NA
 a
-1053305	a
-c
+NA
 c
-1053311	c
-1053315	a
-1053317	c
-c
-1053321	a
-a
 a
+NA
 a
-a
+NA
 c
-a
-1053329	a
 a
-a
-1053333	c
-a
-1053336	a
-1053339	c
-1053341	a
 c
-1053346	c
-1053348	c
-1053350	c
-1053352	a
-a
-1053358	a
-1053360	c
+NA
+NA
+c
 a
+c
+NA
 a
+NA
+c
+NA
+NA
 c
+NA
+NA
 a
-1053366	c
+NA
+c
+NA
+NA
 a
+c
+NA
 a
+NA
+NA
+NA
 a
 a
-1053372	a
-1053374	c
 a
-1053377	a
-1053380	c
-1053382	a
-1053385	a
-1053387	c
+c
 a
+c
 a
+NA
 a
-1053392	a
-1053394	c
-1053396	c
-1053398	a
-1053400	c
 c
 c
 c
+NA
 a
+NA
+NA
 a
+NA
+NA
+NA
 a
-1053408	c
-1053410	c
 a
-1053413	c
+NA
 a
-1053416	c
-1053419	c
+NA
+NA
 a
-1053422	a
+NA
+NA
+NA
 a
-1053425	c
 a
-1053428	c
 a
-1053431	a
-1053437	c
-1053440	a
-1053443	c
-1053445	a
-1053449	a
 a
-1053452	a
-1053456	c
-1053459	c
+NA
+NA
 a
-a
-1053465	a
-1053468	c
-1053470	c
-1053472	a
-1053475	a
-1053478	a
-c
-1053481	a
+NA
+NA
+NA
+NA
 c
-1053484	a
-1053487	a
-1053491	c
-1053493	a
-1053496	a
-1053498	a
-1053500	c
-c
-c
-1053504	c
+det.
 a
+c
 a
+NA
+NA
+c
 a
-1053509	a
+NA
+NA
+NA
 c
 c
-1053513	c
-1053516	c
-1053518	a
 c
-1053521	a
-a
+NA
+NA
+NA
+NA
 a
-1053525	a
-1053527	c
-1053530	a
-1053532	c
-1053534	a
+NA
+NA
 c
+a
+NA
 c
 c
-1053540	a
-1053542	a
-1053546	a
-1053548	a
-1053555	a
 a
-1053558	c
 a
+NA
+NA
 a
-1053562	a
-1053564	c
-c
+NA
 a
-1053570	a
-1053572	a
+NA
 a
 c
 a
-1053577	a
-1053580	c
+NA
+NA
+NA
 a
-1053583	a
-1053585	c
 c
 a
+NA
+NA
+NA
 c
-a
-a
-1053592	a
-1053595	c
 c
-a
-a
-1053600	a
 a
-a
+NA
 c
-1053611	a
 a
+NA
+NA
 c
+NA
+NA
 a
 c
-det.
-1053618	c
-1053620	c
 c
-1053624	a
+a
+NA
 c
+NA
+NA
+NA
 c
 c
+NA
 c
-a
-1053631	c
 a
+NA
 c
-1053636	a
-1053639	c
-1053641	a
-1053644	a
-1053650	c
 a
 a
 a
-det.
-1053656	a
-1053661	a
-a
-1053664	c
-c
-1053667	a
-a
-1053671	c
-c
-1053674	a
-1053676	a
-1053679	a
+NA
+NA
+NA
 a
 a
-1053683	a
-1053690	c
-1053692	a
-1053699	a
-1053704	a
-1053707	a
-1053710	c
-1053712	det.
-1053714	c
+NA
 a
-1053718	c
 a
 c
-1053722	c
-1053724	c
-a
-1053728	a
-1053732	c
-1053736	c
 a
-1053739	c
+NA
 a
-1053742	c
-1053744	c
 a
-1053747	c
+NA
+NA
+NA
 c
-1053750	c
-det.
-1053753	c
-1053755	c
 a
-1053758	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-c
+NA
 a
-1053763	c
-1053765	a
-1053768	c
-c
-c
 a
-1053773	c
-1053775	a
-1053777	c
+NA
+NA
 c
-a
-1053781	a
 c
 a
-1053785	a
-c
+NA
 c
 a
-1053790	c
 a
-1053793	a
-1053795	c
+NA
+NA
+NA
+NA
 c
-1053799	c
-1053802	c
-c
-1053807	c
-a
-1053811	a
-1053813	c
-1053815	c
-1053817	c
-1053819	c
-1053821	a
-1053823	c
-1053826	a
-1053830	c
-1053833	c
-1053838	c
-1053840	c
-1053844	c
+NA
 a
-1053847	c
-1053850	c
-1053852	c
-1053854	c
-1053856	a
-1053858	c
-1053860	c
-1053862	c
-1053864	a
-1053866	c
-1053868	a
-1053871	a
-1053877	c
-a
-1053880	a
-1053882	a
+c
 a
+NA
+NA
+NA
+NA
 a
-1053886	a
-1053888	c
 a
-1053891	a
-1053893	c
-1053895	a
-1053898	c
-1053900	a
-1053902	c
 a
-1053908	c
 c
-a
-1053913	c
 c
-a
-1053919	c
-a
+NA
+c
+c
 a
 c
-1053924	c
 a
-1053929	a
+NA
+NA
 c
-1053932	c
-1053935	a
-1053938	a
-1053940	a
-1053944	a
-1053948	c
-1053950	c
+a
 a
-1053953	c
-1053955	a
-1053958	a
-1053961	a
-1053964	c
 a
-1053972	a
-1053974	c
-1053976	c
-1053978	c
+NA
+NA
 c
 c
-1053983	a
-1053986	c
+NA
+NA
 a
-1053991	a
-1053995	c
-1053999	a
-1054003	a
-1054006	c
 c
+NA
+c
 a
+NA
 a
-1054013	a
 a
+NA
+NA
 a
-1054017	c
+NA
 c
-a
-1054022	a
-1054024	a
-1054026	c
-1054028	a
 a
-1054033	det.
-1054036	a
 a
-1054041	c
 a
-1054044	c
-1054047	c
-1054051	c
-1054054	c
-1054058	a
-1054062	c
-a
-c
-a
-1054067	a
-1054071	c
-1054073	a
+NA
 c
-1054076	c
-1054078	c
-1054082	a
-1054085	a
-1054089	c
 a
-1054094	c
 a
-1054099	a
-1054103	c
-1054108	a
 a
+NA
+NA
 a
-1054113	a
+c
 a
 a
-1054118	c
 a
+NA
+c
 a
-1054124	a
-1054126	a
+c
 a
+NA
+c
 a
-1054130	a
-1054133	a
-1054135	a
+c
 a
+NA
+c
 a
-1054139	c
+NA
+NA
+c
+NA
 a
-1054142	c
-1054144	c
-1054146	det.
+NA
 c
-1054149	a
-1054151	c
+NA
 c
+NA
 c
-a
-a
 a
-1054158	a
 c
 a
+NA
 c
 a
+NA
+NA
 a
-1054165	a
-1054167	c
 a
-c
+NA
+NA
+NA
 a
-c
+NA
 a
-1054174	det.
-c
+NA
+NA
+NA
+a
 a
-1054178	c
+NA
+a
+NA
+NA
 c
+NA
 a
+det.
+NA
 a
-1054183	a
-1054185	a
+NA
 a
-1054188	c
-c
-1054191	c
 a
 a
-1054195	a
-1054197	a
+c
+NA
+NA
 a
+det.
+NA
 c
+NA
 a
-1054202	c
+NA
 a
+NA
 a
 a
-1054207	a
+NA
+c
+NA
+NA
 a
-1054212	c
-1054214	a
-1054217	c
-1054219	c
+NA
 c
 a
-1054224	c
+NA
 a
+NA
+NA
 a
+c
+c
+c
 a
-1054230	a
-1054232	c
-1054236	c
-det.
-1054241	c
 a
-1054245	c
-1054247	c
+NA
+NA
 a
-1054250	c
-1054253	c
-1054257	c
-1054259	c
-1054261	c
-1054266	c
+NA
+NA
+NA
 a
-1054269	c
 a
-1054272	a
-1054275	c
-c
+NA
+NA
+NA
 a
-1054279	a
-1054282	c
-1054289	c
-1054293	a
-1054295	a
-1054299	c
 a
-1054302	a
-1054304	c
 a
-1054309	a
-1054314	det.
-c
-1054320	c
-1054323	c
-c
-1054333	c
-c
-1054338	a
-1054342	c
-c
-1054346	c
-1054350	c
 a
-1054354	a
-c
-1054358	c
-1054360	a
-1054364	c
-1054371	a
-c
-1054374	a
-1054378	c
-1054381	a
-1054383	c
-1054385	c
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1054390	c
-c
-c
-c
+NA
 c
-1054398	c
 a
-1054405	a
+NA
+NA
 c
+NA
+NA
 a
-1054409	c
-a
+NA
+NA
+NA
 c
-1054416	c
-a
 a
-1054420	a
-1054423	c
-1054426	c
-1054429	c
+NA
 a
+NA
+NA
+NA
 c
+NA
 a
+NA
+NA
 c
-1054435	c
+NA
+NA
 c
+NA
+NA
+NA
 c
-1054440	c
+NA
 c
-1054443	a
-1054448	det.
-det.
-1054451	a
-1054455	c
 a
-1054458	c
-1054461	c
+NA
 c
-1054464	c
-a
 a
+NA
 c
 a
-1054470	c
-1054472	c
-1054475	a
+NA
+NA
+NA
 c
-1054479	c
-1054481	c
+NA
 a
+NA
+c
+NA
+c
+NA
 a
-1054485	c
-1054487	c
+NA
 c
+c
 a
-1054492	c
-1054498	c
+NA
+NA
+NA
+NA
 a
-1054501	c
+NA
+NA
+NA
 a
-1054504	a
-1054506	a
-1054508	c
-1054511	c
-1054517	c
-1054519	det.
+NA
+NA
 a
+NA
+NA
+NA
+c
+NA
+NA
 a
-1054525	a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-1054528	c
-1054531	a
+NA
+NA
+NA
+c
+NA
+NA
+NA
 a
-1054534	c
+NA
 a
-1054537	a
-1054539	c
+NA
+NA
 c
-c
+NA
+NA
+NA
+a
+NA
+NA
+a
+a
 c
 a
-1054545	a
-1054547	c
-1054552	c
+NA
+NA
+NA
 a
-1054556	c
-1054559	a
 a
-1054563	c
-1054566	c
-1054568	c
+NA
+NA
+NA
 a
-1054571	c
 a
-1054574	a
-1054577	c
+NA
+NA
+NA
 a
+NA
+NA
+c
 a
-1054582	a
-1054584	det.
-1054587	c
+NA
 a
+NA
+NA
+c
 a
+NA
 a
-1054592	c
-1054594	c
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
 a
-1054599	a
-1054604	a
-1054607	a
-1054609	c
-1054613	c
+NA
+NA
+NA
 a
-1054617	c
-1054619	a
-1054621	c
-c
+NA
+NA
+NA
 c
-c
-1054627	a
-1054629	c
-c
-1054633	det.
 a
-1054636	c
 c
-c
-1054641	c
-1054646	c
 a
-1054649	c
-1054651	a
-1054653	c
-1054656	c
+NA
 c
 a
-c
+NA
 c
-c
-det.
-1054664	c
-c
-c
-1054669	a
-1054671	a
-1054673	a
-1054675	a
-1054677	a
-1054680	a
-1054682	a
-1054684	a
-c
-1054687	a
-1054690	c
-c
-1054693	a
 a
-1054696	c
-1054698	a
-1054701	c
+NA
+NA
+NA
+NA
 c
-1054704	a
+NA
+c
 a
-1054707	c
-1054710	c
 a
-1054717	c
-c
+NA
+NA
+NA
+NA
 a
-1054721	c
-c
-1054724	c
-1054728	c
+NA
+NA
 a
-1054732	a
+NA
+NA
+NA
+NA
+NA
 a
-1054737	c
+NA
+NA
+NA
 a
-1054743	c
+NA
+NA
 c
+NA
+NA
 a
-1054748	c
-1054752	c
+NA
+NA
+NA
+NA
+NA
 c
+NA
 a
-1054757	c
 c
-1054763	det.
 c
-1054768	a
+NA
+NA
+NA
 c
-1054771	a
-1054773	a
+NA
+NA
 c
-1054776	a
-1054778	c
-1054780	c
 a
-1054784	a
+NA
+NA
 a
-1054787	a
-1054790	a
-1054794	a
-1054797	a
-1054800	a
-1054802	c
 a
-1054805	c
-1054807	a
-1054810	c
+NA
+NA
+NA
 a
-1054813	c
+NA
+NA
+NA
 c
-1054816	a
-1054821	c
-a
-1054826	a
+c
+NA
+c
 a
-1054831	c
+NA
+NA
+NA
+c
 a
-1054834	c
-1054836	a
+NA
 c
 a
-1054841	c
-1054843	c
-1054848	a
-1054852	det.
-1054854	c
+NA
+NA
 a
-1054859	a
-1054861	a
-1054865	a
+NA
 a
-1054869	det.
-1054871	c
-1054873	c
-c
-1054876	a
-1054878	a
+NA
+NA
+NA
 a
 a
-1054882	c
-c
+NA
 a
+NA
+NA
 c
-1054887	c
+a
+det.
+NA
+a
+NA
 a
 a
-1054891	a
+a
 c
+NA
+NA
 a
-1054896	c
-1054898	c
+det.
+NA
 c
-1054901	c
+NA
+c
+a
 a
-1054905	a
+NA
+NA
 a
-1054910	a
-1054914	c
-1054918	a
 c
-1054923	c
+c
 a
-1054926	c
-1054932	c
-1054934	c
+NA
+NA
 a
 a
 a
-1054939	a
-1054942	a
-1054944	c
+NA
 a
-1054947	a
-1054951	a
-c
-1054954	a
-1054956	c
-1054960	a
+NA
+det.
 a
-1054965	c
-1054969	det.
+NA
 a
+NA
 a
-1054975	a
+NA
+NA
+NA
+NA
 c
-1054979	a
 c
 a
 a
-1054984	a
 a
-1054989	det.
-det.
-det.
-1054997	a
+NA
+NA
 a
-1055001	a
-1055003	a
-1055007	a
-c
-1055012	c
-1055015	a
-1055017	c
-1055021	c
 a
-1055024	c
+NA
 a
-1055027	c
-1055031	c
+NA
+NA
+NA
+c
 a
+NA
 a
-1055036	a
-1055041	c
+NA
 a
 a
-1055045	a
-c
-1055054	a
-1055057	c
 a
+NA
+a
+NA
 c
 a
-1055062	c
+NA
 a
-1055067	a
+NA
+NA
 a
-1055070	c
-1055075	a
-1055077	c
-1055079	c
-1055089	a
-1055091	c
-1055093	c
-1055096	c
+NA
 a
-1055100	c
+NA
+NA
+NA
+NA
+NA
+c
+c
+c
 a
-1055104	c
-1055106	a
-1055108	a
-1055110	c
-1055112	a
 a
-1055117	c
+NA
+NA
+NA
 a
-1055121	c
-1055124	c
 a
-1055127	a
-1055129	c
+NA
+NA
 a
-1055132	a
-1055135	det.
+NA
+c
+NA
+NA
+NA
 a
-1055138	a
-1055141	a
-1055143	c
+c
+NA
+NA
 a
-det.
+c
+NA
+NA
+NA
+NA
+NA
 a
-1055148	a
-1055150	a
-1055152	c
-det.
+NA
+NA
+NA
+NA
+NA
+NA
+c
 c
+NA
+NA
+NA
 a
-1055157	a
-1055159	c
-1055164	a
-1055167	a
+NA
 c
+c
+c
+NA
+NA
+NA
+c
+c
+NA
+NA
+c
+NA
 a
-det.
-1055172	a
+NA
 a
-1055176	c
+NA
+c
 a
-det.
+NA
 a
-1055181	det.
-1055183	c
+NA
+NA
+NA
+c
+NA
+NA
 a
-1055186	c
-1055188	c
+NA
 c
+NA
+a
 a
-1055192	a
-1055195	c
-1055200	c
+NA
+c
 a
+NA
 a
-1055205	a
+NA
 c
+a
 c
+a
+NA
 c
-1055210	c
-1055214	a
-1055219	c
 c
+NA
+NA
 a
-1055224	c
-1055226	c
-1055228	c
-1055230	a
-1055233	c
-c
+NA
+NA
 a
-1055237	a
 a
-1055241	det.
-1055247	c
+NA
+NA
 c
-1055250	c
-1055253	c
-det.
-1055259	a
-1055261	a
-1055263	c
-1055265	a
-1055268	a
-1055270	a
-1055273	a
 a
-1055276	c
-1055278	c
-1055280	c
+c
+NA
+c
+NA
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
+NA
+NA
 a
-1055285	a
+NA
+c
 a
-1055289	a
 a
-1055292	c
-1055294	a
-1055297	c
-1055299	a
-1055302	a
-1055304	c
-1055307	c
 c
-1055312	a
-1055316	a
+NA
 a
-1055322	c
 a
-1055327	c
-c
-1055332	c
+NA
 a
-1055338	a
+NA
+NA
+c
+NA
+NA
+NA
 a
-1055341	det.
-1055345	c
+c
+NA
+NA
 a
-1055348	c
+c
 a
-1055351	a
-1055354	c
-1055357	a
-1055359	c
-1055361	a
-1055363	c
+NA
 c
 c
 a
-1055368	c
 a
-det.
-c
 a
-1055374	a
-1055378	c
-1055381	a
-1055383	c
-det.
-1055389	c
-c
-1055393	c
 a
-1055400	a
-c
-1055404	c
+NA
 a
-1055407	a
-1055409	a
-1055411	a
-det.
-1055414	a
-1055417	c
+NA
 a
-c
 a
-1055422	c
-1055425	c
-1055427	a
-1055429	c
-1055431	a
+NA
 a
+NA
 a
-1055436	c
+NA
 a
-1055442	c
-1055444	c
-1055449	a
-1055451	a
-1055453	a
-1055455	c
-1055458	c
-1055461	c
-1055463	c
-1055465	a
-1055467	c
-1055469	c
-1055472	c
+NA
 a
-1055475	a
-1055478	c
+NA
 a
-1055485	a
-det.
+a
+NA
+NA
+NA
+NA
 c
 c
 a
-1055492	a
 a
-det.
-1055496	c
+NA
+a
 a
+NA
+NA
 c
 c
-1055509	c
+NA
+NA
+NA
+c
+c
 a
-det.
-1055513	c
 a
-1055518	c
-det.
-1055521	c
-1055525	c
-1055528	a
-1055530	a
+NA
+NA
 a
-1055534	det.
-1055539	a
-1055541	a
-1055546	a
-1055549	c
-1055560	c
+NA
+c
 a
 c
-1055564	c
 c
-1055567	c
+NA
 c
-1055570	c
-1055572	det.
+NA
+NA
+a
+NA
 c
-1055575	c
-1055577	det.
-1055580	c
-1055582	a
+NA
+NA
 c
-1055585	c
-1055587	a
-a
-1055591	c
 c
-1055594	c
-1055596	a
+NA
 c
-a
-1055600	c
+c
 a
-det.
-1055604	c
-1055607	a
 a
-1055610	a
 c
-1055613	a
-1055616	a
-1055618	c
-1055620	a
-1055623	c
-1055625	c
-det.
-1055629	a
+NA
+c
+NA
 c
+NA
 a
 a
-1055634	c
+NA
+c
+NA
 a
-1055638	a
+NA
+NA
+c
 a
 a
-1055642	c
+NA
 a
-1055646	a
-1055649	c
-det.
-1055653	a
+NA
+c
 a
-1055656	a
-1055658	a
-1055660	a
-1055662	c
+c
+NA
+a
+c
+NA
+c
 a
-1055666	a
-1055668	c
+NA
 a
-1055671	c
-1055674	c
+NA
+c
+c
+NA
+c
 a
-1055678	c
+c
+NA
 a
-1055681	det.
-1055683	c
+NA
+c
+NA
+NA
 a
-1055687	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-det.
-1055691	c
 a
-1055694	a
 a
+NA
+NA
+NA
 c
 a
-1055700	c
-a
-1055703	a
-1055705	c
 c
+a
+NA
+NA
+NA
+NA
 a
-1055709	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
 c
+a
+NA
 a
-1055713	c
-1055715	c
+det.
+NA
+NA
+det.
+det.
+NA
+NA
 a
-1055719	c
+NA
+NA
 a
-1055722	c
 a
-1055725	c
-c
-1055728	a
-1055731	a
+NA
+NA
+det.
+NA
 a
-1055734	c
+NA
+NA
 a
-1055737	c
+NA
 a
-1055744	c
+NA
 a
-c
+NA
+a
+NA
+NA
+a
+NA
+NA
+NA
+NA
 c
-1055750	c
-1055752	c
-1055755	c
+NA
 c
+a
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
+a
+NA
 c
 c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1055761	c
-1055763	c
+c
 a
-1055767	c
+NA
+NA
 c
+NA
 a
-1055772	c
-1055774	det.
-1055776	c
+NA
 a
-1055782	a
+NA
+NA
+NA
 a
-1055785	c
-1055787	c
+NA
+NA
+NA
 a
 c
+NA
 a
-1055796	c
+NA
+NA
+NA
+NA
+c
 a
-1055799	c
-1055801	c
+NA
 a
-1055804	c
-c
+NA
+NA
 a
-1055809	det.
 c
-1055813	a
-1055815	c
-1055818	c
+NA
+a
+NA
+NA
 c
-det.
-1055822	a
-1055824	c
 a
-1055827	c
-1055829	c
+NA
 a
-1055832	c
-1055834	c
-1055839	c
-1055841	c
+NA
+NA
 c
 a
-1055845	c
-1055848	c
-1055851	c
+NA
 a
-1055857	c
 a
-a
-1055864	c
-1055866	det.
-1055868	c
-1055870	det.
-det.
+c
 a
-1055874	a
-1055878	c
-1055881	c
 a
-1055886	a
+c
 c
-1055891	c
-1055895	c
-1055897	c
-1055903	c
-1055905	c
+NA
+NA
 a
-1055908	c
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
 c
-1055913	det.
-1055915	a
+NA
+NA
+NA
+a
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
 c
 a
-1055919	a
-1055921	a
+c
 a
-det.
-1055925	a
+NA
+NA
 a
+NA
+NA
 a
-1055929	c
+c
 a
-1055933	c
-1055935	c
-1055937	c
-1055939	c
-1055943	c
+NA
+NA
+NA
+NA
+c
+det.
+NA
+NA
+NA
+c
+NA
+NA
+NA
 c
-1055946	c
-1055949	a
+NA
+NA
 c
+NA
 a
-1055956	a
-1055958	c
-1055961	c
-1055963	a
-1055965	c
+NA
 c
-1055968	c
+NA
 c
-1055971	c
+NA
+a
+NA
 c
+a
+a
 c
-1055977	a
 c
-1055980	c
-1055982	a
-1055985	c
 a
-1055988	c
-1055991	c
 a
-1055994	c
+NA
+c
+det.
+NA
+NA
+NA
+c
 c
 a
-1055999	c
 c
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
+c
+a
+NA
+NA
+NA
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
 c
-1056009	c
 c
-1056012	c
+NA
 c
-a
-1056017	c
 c
 c
-1056021	c
-a
-1056026	c
 a
-a
-1056031	c
+NA
 c
 a
-1056039	c
 a
-1056042	c
+NA
 a
-1056045	c
 a
-1056048	c
-c
+NA
 a
-1056054	a
+NA
+NA
+NA
+NA
 c
-1056057	c
-1056059	a
-a
-1056063	a
-1056066	a
-1056070	a
-1056076	c
-1056079	c
 c
-1056082	a
-det.
-1056085	c
-1056090	c
-a
-1056093	a
-1056097	c
-1056101	c
+NA
 c
-1056106	c
 a
-1056109	c
+NA
 a
-1056112	a
-1056114	c
-1056119	a
-1056122	c
-1056127	c
-1056130	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1056135	c
+NA
+c
+NA
+c
+NA
 a
-1056145	c
-1056151	a
-1056154	a
+NA
 c
-1056159	a
 c
-det.
-1056164	a
 c
-1056168	c
-a
-1056172	a
+NA
 c
-1056176	c
-det.
-1056180	a
+NA
 c
-1056184	c
-a
-1056188	a
+NA
 c
-1056192	c
 c
+NA
+a
+NA
+NA
+NA
 a
-1056197	a
+NA
+c
+NA
+c
 c
-1056201	c
 c
-1056204	c
-1056207	a
 c
-1056211	c
+NA
+c
+det.
+NA
 a
-1056214	c
+NA
 a
-1056218	a
-c
-1056222	a
-1056224	c
+NA
 a
-1056227	c
-1056230	a
-c
-1056234	c
+NA
 a
-1056238	a
+NA
+NA
+a
 c
-1056242	c
 a
-1056246	a
+NA
 c
-1056250	c
-1056254	a
+NA
+NA
+NA
+a
+NA
+NA
+NA
 c
-1056258	a
-1056260	a
-1056263	a
+NA
+NA
 c
-1056267	c
+NA
+NA
+NA
+NA
 c
 a
-1056272	a
+NA
 c
-1056276	a
-1056278	c
+NA
 a
-1056281	c
-c
-1056284	c
 a
-c
+NA
+NA
+NA
 c
-1056291	a
-1056299	c
-1056301	c
-1056304	c
 a
-1056309	a
-1056311	c
-1056313	a
-1056315	a
-c
-1056320	a
-1056322	a
-1056325	c
-1056332	c
-1056335	c
-1056339	c
-1056341	c
-1056344	c
+NA
+NA
+NA
 a
-1056349	c
-1056351	c
-1056359	a
-1056362	a
-1056366	c
-1056368	a
-1056370	c
-1056374	a
-1056376	c
-1056379	a
-1056382	a
 a
-1056387	c
 c
-1056391	c
-1056394	c
+NA
+NA
+NA
+NA
+NA
 a
-1056399	c
 c
-1056409	c
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1056413	c
-1056420	a
-1056423	a
-1056425	c
-1056427	c
-1056430	c
-1056432	c
+NA
+c
 a
+NA
 a
-1056436	c
-1056438	a
+NA
 c
 a
-1056444	c
-1056446	a
-1056453	a
-1056455	c
-1056457	c
-1056459	a
-1056461	a
-1056465	c
-1056467	c
-1056472	c
+NA
+det.
+NA
 c
-1056476	a
-1056478	a
 a
-1056481	c
-1056483	c
-1056487	a
-1056490	c
-1056492	a
-1056494	a
-1056497	c
-1056499	c
-1056503	c
-1056505	c
-1056507	c
-1056509	c
-1056511	c
-1056514	c
-1056518	a
-1056521	a
-c
+NA
 a
-1056528	c
-c
-1056531	c
-1056537	a
-1056539	a
+NA
+NA
 a
-c
-1056543	a
+a
 det.
-c
-1056547	a
+NA
 a
-1056550	c
-c
-1056553	c
-c
-1056556	a
-1056560	c
-1056563	c
+NA
 a
-1056568	c
-1056571	c
+NA
 a
-1056574	a
+NA
 a
-1056580	a
-1056585	c
-1056588	a
-1056593	c
 a
 a
-1056597	c
-1056600	c
-c
+a
+NA
+NA
+NA
 a
-1056604	a
+NA
+a
+NA
+a
 c
 a
 a
-1056610	c
+NA
 a
 a
+NA
+NA
 a
+c
 a
-1056616	c
-1056618	a
-1056621	c
 a
 a
-1056625	c
-1056629	c
-1056631	c
 a
-1056636	a
-1056638	c
-1056643	a
-1056647	a
-1056649	c
-1056653	c
-1056658	a
-1056660	c
-1056662	a
-1056664	c
-1056667	c
+NA
 a
-1056670	c
-1056680	c
+NA
+c
 a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+c
+c
 a
-1056687	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1056690	a
-1056693	a
+NA
+NA
+NA
+NA
+NA
 c
-1056696	c
 c
-1056700	a
-1056702	a
-1056706	a
-1056708	c
-1056712	c
-1056718	a
-1056720	a
-1056724	c
-1056727	c
 a
-1056732	a
-1056734	c
 a
-1056740	c
+NA
+NA
+NA
+NA
+NA
+c
 a
-1056743	a
-1056745	c
-1056747	a
-1056749	c
-1056751	a
-1056753	a
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1056757	c
+NA
+NA
+NA
+NA
 a
-1056760	a
-1056765	c
-1056770	c
-1056772	c
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
+c
+NA
+NA
+c
+NA
+NA
 a
-1056775	c
-1056777	c
+NA
 a
+NA
 a
-c
 a
-1056783	c
 a
-1056786	a
+NA
+NA
+NA
 a
-1056789	c
+NA
+NA
+NA
 a
 a
-1056794	a
-1056796	c
+NA
+NA
 a
+NA
 c
 a
 c
+a
+NA
 c
-1056803	a
-1056805	c
+det.
 c
 a
-1056809	a
+NA
 c
 a
-1056814	c
-1056818	c
-1056821	c
 c
-a
 a
-1056826	det.
+NA
+c
+det.
+NA
+c
 a
-1056829	a
-1056831	a
-1056833	a
-1056840	c
-1056842	a
+NA
+NA
+NA
 a
+NA
 a
 a
-1056848	a
+NA
 c
-1056852	c
+det.
 c
-1056855	a
 a
-c
+NA
+a
 a
-1056863	c
+NA
 a
+NA
 a
+NA
+NA
+c
+NA
+NA
 a
-1056869	a
-1056874	c
+NA
+c
+NA
+NA
+c
+c
+NA
+c
 a
-1056882	c
-1056885	c
-1056889	c
-1056891	c
+NA
 a
+NA
+c
 c
 a
+NA
 a
-1056897	c
-1056899	a
+NA
+NA
+c
+c
+NA
+NA
 a
-1056902	c
+NA
 a
-1056905	a
-1056908	a
-1056910	c
+NA
 a
-1056914	a
-1056916	a
-1056918	a
-1056920	a
 c
-1056923	a
-1056925	a
-1056928	a
-1056930	a
-1056932	a
-1056935	a
-1056937	c
-1056939	c
-1056942	a
-1056944	c
-1056951	a
+NA
+NA
+NA
 c
 a
-1056956	c
-1056958	c
-a
-1056964	a
-1056967	a
-1056973	a
-1056977	a
+NA
 c
-1056982	c
-1056986	a
-1056988	c
 a
+NA
 a
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
-1056993	a
-1056995	c
 a
-1056998	a
-1057001	a
-c
+NA
+NA
 a
-1057006	a
+NA
+NA
 c
-c
 a
+NA
+NA
 a
-1057013	a
-1057017	a
 a
-1057026	c
+NA
+NA
 a
-1057030	c
-1057034	a
-1057040	a
-1057047	c
+NA
+NA
+c
+c
+NA
+NA
+NA
+NA
 a
+c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+a
+NA
+NA
+NA
 c
 a
-1057055	a
-1057057	a
-1057062	a
+NA
+NA
 c
+NA
 a
-1057067	a
 c
+NA
+NA
+NA
 a
-1057071	a
-1057073	a
+NA
+NA
+NA
 a
-1057076	a
+NA
+NA
+NA
 a
-1057079	c
-1057081	a
-1057084	a
-1057086	a
-1057088	a
-1057091	a
-1057094	a
-1057097	a
 a
-1057101	a
-1057103	a
-1057106	a
-1057108	a
-1057110	a
 a
-1057116	c
 c
-a
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
 a
+NA
 a
+NA
+NA
 a
-1057126	a
-1057128	c
-1057131	c
 c
-1057134	c
-a
-1057137	c
-1057139	a
-1057141	c
-1057144	c
-1057146	a
-1057148	c
+NA
 a
+NA
 a
-1057152	c
-c
-c
-1057156	c
+NA
+NA
 a
-1057159	a
+NA
+NA
 a
-1057162	a
-1057164	a
-1057166	c
 a
+c
 a
+NA
 a
-1057171	a
 a
-c
 c
+NA
 a
 a
-1057178	a
-1057182	a
-1057184	a
-1057186	a
-1057188	a
-1057191	a
-1057193	c
 a
-1057196	a
-1057198	c
 a
 c
-1057203	c
-a
-c
-1057207	a
-1057209	c
-1057212	c
-1057215	a
-1057217	c
-1057220	a
 c
-1057223	a
-1057227	a
 a
+NA
+NA
+NA
+NA
 a
-c
 a
-c
+NA
+NA
 a
-1057235	a
-c
-c
+a
+NA
+NA
+NA
+NA
 c
-1057240	a
-1057243	a
-1057247	a
+NA
+NA
+NA
 a
-1057250	a
-1057253	a
-1057257	a
+NA
 a
+NA
+NA
 a
 a
-1057263	a
-1057268	c
-det.
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
 a
-1057275	c
+NA
 a
-1057280	c
-c
-c
-1057287	a
-1057290	c
 a
-1057293	c
 c
 a
 a
-1057299	a
-1057301	a
-1057303	a
-c
+NA
+NA
 a
-1057309	a
-c
+NA
 a
-1057315	c
+NA
 c
 a
-1057319	c
-a
-1057323	c
-1057326	a
-c
 c
 a
-1057331	c
-1057335	c
-c
-1057338	c
+NA
+a
+NA
 a
-1057341	c
+NA
+NA
+NA
 a
+NA
 a
+NA
+c
 a
-1057348	a
 a
-1057351	a
 a
+NA
+NA
+NA
 c
-a
-1057356	a
 a
-1057361	c
 a
-1057370	a
-1057372	a
+NA
 a
-1057376	c
+NA
+NA
 c
 a
-1057380	c
 a
+NA
+NA
+c
+NA
 a
-1057387	c
-1057389	a
+NA
+NA
+c
 c
+NA
+NA
 a
-1057396	a
 a
+c
+NA
+c
 a
 c
+a
+NA
 c
-1057402	c
 c
+a
+NA
+a
+NA
+NA
 a
 c
+NA
 a
-1057409	c
 a
+NA
+c
 a
+NA
 a
-1057415	c
-c
-1057419	a
-c
-1057422	c
+NA
 a
-1057425	a
 a
-1057429	a
-1057431	c
+NA
 a
+NA
+c
 a
+NA
+NA
 a
-1057436	c
+NA
 a
+NA
+NA
 a
 a
-1057442	a
+NA
 c
 a
 a
 a
-1057448	c
+NA
 a
 c
 a
-1057453	c
+NA
+c
 a
+NA
+NA
 c
+NA
 a
-1057458	c
+NA
 a
-1057462	c
-1057464	a
-1057466	c
-1057468	c
-1057470	c
+NA
+NA
 a
-c
+NA
 a
-1057475	c
 a
-1057479	a
 a
-1057484	a
-1057486	a
-1057490	a
+NA
 a
-1057493	a
-1057496	c
-1057498	a
-det.
-1057501	a
-1057503	a
+c
 a
+NA
 a
-c
-1057509	a
-det.
-1057512	c
-1057514	a
-1057516	a
-1057518	a
 a
-1057521	c
-1057524	a
-1057526	c
+NA
 a
-1057529	a
-1057532	a
+NA
+NA
+a
 c
 c
 c
-a
 a
-1057540	a
-1057544	a
+NA
+NA
+NA
+NA
 a
-1057549	a
+NA
+NA
 a
+NA
 a
+NA
+NA
 a
-1057559	a
-1057561	c
+NA
 a
-1057565	c
-1057568	a
-1057572	c
+NA
 a
-1057575	a
-1057579	c
-1057581	a
-1057584	c
-1057587	c
-1057591	c
-1057593	c
+c
 a
-1057596	c
+NA
+NA
+NA
 a
-1057599	c
+NA
 a
-1057604	c
-1057606	a
-1057608	c
-1057610	c
-1057612	a
-1057614	c
+NA
+NA
 c
-a
-1057621	a
-1057625	a
-1057628	a
-1057632	c
-1057635	a
-1057642	c
-1057646	a
-1057650	c
-1057654	a
-1057656	a
-1057659	c
-1057663	a
-1057666	a
-a
 c
 a
-1057673	a
+c
 a
-1057678	a
+NA
+c
+NA
 a
-1057683	a
-1057686	c
 a
-1057689	a
-1057692	c
 a
-1057695	a
-1057699	a
-1057705	c
+NA
 a
-1057710	a
-1057714	c
 a
+NA
+NA
 c
 a
-1057719	c
 a
-1057722	c
 a
-1057728	c
-1057730	c
+c
+NA
 a
 a
-1057737	a
-1057740	a
-1057746	a
-1057750	a
-1057753	c
-1057756	a
-1057762	c
-1057764	a
 c
 c
-1057770	c
-1057773	c
 a
-1057777	a
+NA
 a
-1057782	a
-1057786	c
+NA
+NA
+NA
 c
-1057789	c
+NA
+c
 a
-1057794	c
 a
-1057797	c
+NA
+c
+NA
+NA
+c
+c
 a
-1057801	a
-1057803	a
-1057807	a
+NA
+NA
 a
-1057810	a
-1057813	c
+NA
 a
-det.
-1057817	a
-1057819	a
+NA
+NA
+NA
 a
+NA
 a
-c
-1057825	a
-det.
-1057828	c
-1057830	c
+NA
 a
+NA
 a
-1057835	a
-c
-c
+NA
 a
-1057841	a
+NA
 a
+NA
 a
-1057845	a
-1057847	det.
+NA
 a
-1057850	a
-1057852	a
-1057857	c
-c
+NA
+NA
+NA
 a
+NA
 a
+NA
 a
-1057864	a
+NA
+NA
+c
+NA
+NA
 a
-1057867	a
-1057871	c
+NA
+c
 a
-1057874	a
-1057876	a
+NA
 a
 a
-1057880	a
-1057882	c
+NA
 a
-1057885	a
-1057888	a
-1057890	a
-1057896	c
+NA
 c
 c
-a
-a
-1057904	a
 a
-1057908	a
-1057910	c
-1057914	a
+NA
 c
-1057918	a
 c
-1057925	a
-1057932	c
+NA
 c
-1057937	a
-1057939	c
+NA
 c
 c
-1057945	c
+NA
+NA
 c
-1057949	c
-1057951	a
-1057953	a
-1057955	c
+NA
+c
+NA
 a
-1057958	a
-1057962	c
-1057965	a
-1057967	c
-1057969	a
+NA
+c
+NA
 a
-1057972	c
+NA
+NA
 a
-1057975	a
-1057977	c
+NA
+c
 a
+NA
+NA
 c
 a
-1057982	c
 c
-1057986	a
-1057989	a
 a
-1057993	c
+NA
+NA
 a
 c
-1057997	c
-1057999	c
-1058007	c
 c
-1058012	a
-1058014	c
+a
 a
+NA
+NA
 a
+NA
+a
+NA
 c
-1058019	a
 a
-1058022	a
-1058025	c
-1058029	a
+NA
 c
-1058033	a
 c
 a
-1058037	c
-c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
+NA
 a
+NA
+c
 a
+NA
 a
-1058044	a
-1058046	a
+NA
+c
 a
-1058049	a
-1058051	a
-1058053	a
-1058055	a
-1058057	a
+NA
 a
-1058063	c
+NA
+NA
 c
 a
+NA
 a
-1058068	a
-a
-1058072	c
+NA
 c
-1058077	c
+NA
+a
+NA
+NA
 c
 a
+NA
 a
-1058083	a
-1058085	c
+NA
+NA
 a
-c
-c
-1058090	c
-1058093	a
-1058095	c
-1058098	c
-c
-1058101	c
+NA
+a
+NA
+NA
+NA
+a
+a
+NA
 c
 a
 a
+NA
 c
-1058107	c
-1058109	c
-1058111	a
 a
-1058114	c
-1058116	a
-1058119	c
 a
 a
-1058123	a
-1058125	c
 a
-c
-1058129	a
-c
-1058132	c
+NA
 a
-1058135	a
-1058137	c
-c
-1058140	c
+NA
 a
-c
-1058144	a
-1058146	c
-1058149	a
-1058157	a
 a
+NA
 a
-1058163	c
+NA
+NA
 a
-c
+NA
 a
-1058171	a
-1058179	a
-1058182	c
+NA
+c
+c
 a
-1058185	a
-det.
-1058189	det.
-det.
-1058193	a
-1058196	a
+NA
 a
-1058200	det.
-1058202	a
-1058205	a
-1058207	a
-1058209	a
-1058211	a
-1058214	a
-1058219	c
-1058221	c
+c
 a
-1058224	a
-1058228	a
 a
-1058231	a
-1058233	c
+NA
 c
-1058244	a
+NA
+NA
+NA
+NA
 c
-a
-1058249	c
-1058251	a
-1058253	a
-1058257	a
-1058261	a
+NA
+NA
+c
 c
-1058264	a
-1058269	c
+NA
+NA
+NA
+NA
+NA
 a
-1058272	a
-1058275	a
+NA
+a
+NA
 c
-1058278	a
-1058281	c
 a
-1058284	a
-1058287	c
+NA
 a
-1058290	a
 a
+c
+NA
+NA
+NA
+NA
 c
 a
+NA
+NA
 a
-c
+NA
+NA
+a
+NA
+NA
+a
 c
-1058299	a
 a
-1058303	a
-1058308	c
-1058312	a
-1058314	a
-1058321	c
 a
 c
 a
-1058327	a
-1058330	a
+NA
 c
 a
-1058337	c
-det.
-1058342	c
-1058346	c
-1058349	c
-1058351	a
-1058353	c
-1058355	c
-1058357	a
-1058359	c
+NA
+NA
 a
 a
+a
+NA
+NA
+NA
 c
 c
-a
 a
-1058367	c
-det.
-1058372	c
+NA
+NA
 c
+a
+NA
 a
+NA
+NA
+NA
+NA
+NA
 c
-1058379	c
-1058384	c
+NA
 a
-1058391	a
-1058397	c
-1058401	c
+NA
+NA
+NA
+NA
 c
-1058404	c
+NA
 c
 c
 a
-1058409	c
 a
+NA
 a
-1058413	a
+NA
+NA
+c
+NA
 a
-1058416	a
-1058421	c
+c
+NA
+NA
 c
-1058424	c
 a
-1058427	a
-1058438	a
-1058440	c
-1058442	c
-1058444	a
-1058446	c
+NA
 c
 c
-1058450	c
-1058452	c
-1058454	c
 c
-1058457	a
-1058461	a
-1058463	c
-1058465	c
+NA
+NA
 c
+NA
 c
+NA
 c
-1058470	c
-det.
-1058473	a
-1058475	a
-1058477	a
-1058479	a
-1058482	a
 c
-a
-1058486	c
-1058490	a
-1058494	c
-1058497	c
-1058502	c
-a
-1058505	c
-1058507	a
-a
-1058512	c
 a
-1058517	a
-a
+NA
+NA
+NA
+NA
+NA
 c
-1058525	a
 c
-1058528	a
-1058542	a
-1058544	c
-a
-1058547	a
-1058549	c
-a
-1058552	det.
-1058554	c
-a
-1058557	a
-1058560	a
+NA
+NA
+NA
 a
-det.
-1058564	a
-1058566	a
-1058568	a
-1058570	a
-a
-a
-a
-1058577	a
-1058579	a
-1058581	a
 c
+NA
 a
-a
-1058586	a
-a
-1058590	a
 c
-a
-a
 a
 a
-1058597	a
-1058599	c
+c
+NA
 a
-1058603	a
-1058608	c
 c
 a
-1058618	a
-1058624	c
+NA
+NA
+NA
 c
 a
+NA
+NA
+NA
+c
 a
-1058633	c
+c
+c
 a
-1058641	a
-1058646	a
-1058649	c
-1058655	c
-1058658	c
-1058661	a
-1058663	a
-1058665	a
 a
 a
-1058671	a
-1058675	a
+NA
 a
-1058679	a
-1058681	c
+NA
+NA
+NA
+NA
+c
+c
+c
+NA
 a
+NA
+c
 c
 a
-1058686	c
 det.
-c
+a
+NA
 a
-1058691	c
+NA
 a
+NA
 c
 a
-1058696	c
+NA
 det.
-1058699	c
 a
-1058704	a
-1058706	a
-a
-1058709	c
-det.
 c
 a
-1058714	a
+NA
 a
-1058717	a
-1058719	a
-1058722	c
-1058725	a
-1058727	c
-1058730	c
+NA
 c
-1058733	c
-a
-1058736	a
-1058738	c
+NA
+NA
+NA
+NA
 c
-a
-1058742	a
-1058745	c
 c
-1058749	a
-1058751	a
-1058753	a
 c
-1058758	c
 a
-1058761	c
+NA
 a
-1058764	a
-1058769	c
-1058771	c
+NA
 a
+a
+NA
+NA
+c
 a
-1058776	a
-1058779	c
 a
-1058783	a
 a
-1058787	a
-1058790	c
 c
-1058796	a
 c
-1058806	c
 a
-1058811	c
+NA
+NA
+NA
 a
-1058815	c
-1058817	a
+NA
+NA
 c
-1058822	a
-1058826	a
-1058830	a
 a
+NA
 a
-c
-1058835	a
-1058842	c
-a
-1058845	a
-1058848	a
-c
-1058851	a
-1058853	a
-1058856	a
-1058859	a
 a
 c
-a
-1058864	a
 a
-c
-1058868	a
 a
+NA
 a
+NA
 a
-c
+NA
 c
-a
-1058879	a
-a
-1058883	a
+NA
+NA
 a
-1058889	c
-1058893	a
-1058895	a
-1058898	a
+NA
 a
-1058901	a
-1058907	c
+NA
+NA
+NA
 a
-1058910	a
 a
+NA
 c
 a
 a
-1058917	a
-1058919	a
-1058921	c
-a
+c
 c
+c
 a
-1058926	a
-1058928	a
-1058932	a
-1058934	a
-1058936	c
 a
+c
+c
 a
+NA
+c
 a
-1058943	c
+NA
 a
 a
-1058947	a
-1058950	c
+NA
+c
+NA
+c
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+c
+NA
 a
-1058955	c
-1058957	a
-1058960	c
+NA
+NA
 c
-1058964	a
+NA
+NA
+c
 a
+NA
+c
+NA
 c
-1058968	c
 a
+NA
+NA
+NA
 c
 a
-1058973	c
+NA
+NA
 c
 a
-1058977	a
-1058980	a
+NA
 c
-1058983	a
+NA
 a
-1058986	c
+NA
+NA
 a
-1058989	a
-1058991	a
+NA
 a
-1058994	a
-1058996	c
+c
+NA
 a
-1059000	a
-1059002	a
-1059005	a
+NA
+NA
+c
 a
-1059008	c
+c
+c
+NA
+c
+NA
+NA
+c
+NA
 a
+c
+NA
+NA
 a
 a
-1059013	a
-c
 a
-1059017	c
 a
-1059021	c
-1059023	a
-1059025	a
-1059028	a
-1059030	a
+NA
 a
+NA
 a
-1059034	a
+NA
 c
+NA
+NA
 a
-1059038	a
-a
-1059041	a
-1059044	a
+NA
 c
 c
 c
+NA
 a
-1059053	a
-1059056	a
-1059058	a
-1059061	a
-1059063	a
-1059065	a
+NA
+NA
 c
+NA
 a
-1059071	a
-1059073	a
-1059076	c
-c
 a
-c
+NA
+a
+NA
+NA
+NA
+NA
 a
-1059082	c
-1059084	a
 a
+NA
+NA
+NA
 a
-1059088	a
+NA
 a
-1059092	c
+c
 a
+NA
 a
 a
+NA
 c
-1059098	a
-a
 c
+NA
 c
 a
-1059104	a
-1059108	c
-1059110	c
-a
+NA
+c
 a
-1059114	c
-1059117	c
+NA
 c
+c
 a
-1059122	a
-1059124	a
-1059128	a
-1059130	a
-1059132	a
-1059134	a
-1059136	a
-1059138	a
-1059140	a
-1059142	a
-1059146	a
-1059148	a
-1059150	a
-1059153	c
-1059156	a
-1059158	c
+NA
+NA
 a
-1059161	a
+NA
 a
-1059164	a
-1059166	c
-c
+NA
+NA
 a
-1059170	c
+NA
 c
-1059173	c
-1059175	c
+NA
 c
-1059179	c
-1059181	c
-1059183	a
-1059185	c
-1059187	a
-1059190	a
-1059192	c
 a
-1059196	c
+NA
+c
+c
 a
+NA
 c
+NA
 a
-1059202	a
+NA
 c
 c
 a
-a
-1059209	a
-1059211	a
-1059213	c
-a
-1059216	c
+NA
 c
-a
-1059227	a
-1059229	a
-1059231	c
-a
-1059234	a
-1059236	c
+NA
 a
-1059239	a
-1059242	c
-a
-1059245	a
-1059247	c
-1059249	a
-1059252	c
+c
 a
-1059255	a
-1059258	a
-1059260	a
-1059264	a
+NA
 a
-1059267	c
+c
 a
+c
 a
-1059271	c
+NA
+c
 a
+c
+NA
+NA
 a
+NA
+NA
 a
+NA
 a
-1059277	a
-1059279	a
+NA
+NA
+NA
+NA
 a
-1059282	a
-1059285	a
-1059287	a
-1059289	c
+NA
+NA
 c
 a
-1059293	a
+NA
 c
-a
-a
-1059298	c
-1059303	c
-1059306	c
+NA
 c
-1059313	a
-1059315	a
-1059317	c
-a
-1059320	a
+NA
+c
+NA
 a
 c
-1059327	c
+NA
+c
+NA
 a
-1059331	a
-1059334	a
-1059337	a
+NA
+c
+NA
 c
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+c
 a
+NA
 a
-c
+NA
 a
-1059344	c
 a
-1059348	a
 a
+NA
 a
-1059354	c
-c
 a
-1059359	c
 a
-1059362	a
-1059368	c
-1059370	a
-1059375	c
-1059377	c
+NA
+NA
 c
+c
+NA
 a
 a
-1059382	a
-1059385	c
-1059387	a
-c
-1059391	c
 a
-1059394	c
+NA
 c
+NA
 c
-1059399	c
-1059401	c
-1059403	c
+NA
+NA
 c
 a
-1059411	c
+a
 c
-1059416	a
+NA
 c
-1059419	a
+NA
+NA
 c
-a
+NA
+NA
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1059425	a
 c
-a
-1059431	c
-a
-1059436	c
-a
+NA
+NA
 c
 c
-a
+NA
+NA
+c
 a
+NA
+c
 a
-1059444	a
-1059449	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
+NA
+NA
+NA
 c
-1059453	a
-1059455	c
+NA
 c
-a
-det.
-a
-1059461	a
-1059463	a
-1059465	c
+NA
+NA
+c
+NA
 a
-1059468	det.
 a
 c
-a
-1059473	a
-1059475	c
-1059480	c
 c
 c
-a
-1059485	a
-1059487	a
 a
-1059491	c
-a
+NA
+NA
+NA
+c
+NA
+NA
+NA
+NA
+NA
 a
 a
+NA
+NA
 c
+NA
+NA
 c
-a
-1059501	a
-1059504	c
-a
-1059507	a
+NA
+NA
+NA
+NA
 a
+NA
 c
-a
-a
-1059513	a
-1059515	a
-1059517	c
-1059520	a
-1059522	a
-1059526	a
-a
-1059529	c
-a
-a
+NA
+NA
+NA
 c
 c
+NA
+NA
+NA
 c
-a
-a
 c
+NA
+NA
 c
-a
-1059541	c
-a
-1059544	a
-a
-1059547	c
-1059549	c
-1059552	a
-1059559	c
+NA
+NA
+NA
+NA
 c
-1059562	a
-1059565	c
-1059568	c
-a
-1059571	c
-1059573	c
-a
-1059578	c
-a
-1059582	c
-a
-1059585	c
-1059587	a
-1059590	a
-1059592	a
 c
-1059595	a
-1059598	c
 a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
 c
-1059603	c
-1059606	c
-1059608	a
+NA
+NA
 c
-1059612	a
-a
-a
-a
-1059617	a
-1059619	a
-1059621	c
-1059624	a
-1059626	c
 c
+NA
+NA
 c
-1059630	a
-1059633	c
-1059635	a
-a
-1059638	a
-1059643	a
 a
-1059648	a
-1059650	a
+NA
 c
 a
-1059654	a
-a
-1059657	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 c
-1059660	c
-a
-1059663	c
-a
-1059666	c
+NA
+NA
+NA
+NA
 c
-a
-1059671	a
-1059673	a
-1059676	a
-1059678	c
-1059680	c
-a
-1059683	c
+NA
 c
-a
-1059687	c
-1059689	a
-1059691	c
+NA
+NA
 c
+NA
 a
-1059695	c
-1059697	a
-c
 a
-1059701	a
 c
-a
 c
-a
-1059707	c
-a
 c
-1059712	a
-1059715	a
-1059717	a
-1059722	a
-1059725	c
 a
-1059728	c
-1059730	c
-1059732	c
-1059734	a
+NA
+NA
+NA
 c
-1059737	c
-1059739	a
-1059741	c
-1059743	c
-1059747	c
-1059752	c
+NA
+NA
+NA
+NA
+NA
 a
-1059755	a
-1059757	a
 a
-a
-1059761	a
-a
-a
-1059766	c
+NA
+NA
 c
-1059769	a
-a
-a
-1059773	c
-1059775	c
-1059778	c
-a
-a
+NA
+NA
 c
-1059783	c
-1059786	c
-1059789	a
-1059800	c
+NA
+NA
+NA
+NA
+a
+NA
 c
-1059804	c
+NA
+NA
+NA
 c
-1059808	c
-a
-1059811	c
-a
-1059820	c
-1059825	c
-1059827	c
-1059830	c
-1059832	a
-a
 c
+NA
+NA
+NA
 c
 c
-a
-1059841	c
-1059847	a
-a
-1059851	c
-1059854	c
-1059859	a
-1059861	c
-1059865	c
+NA
+NA
 c
-1059870	c
+NA
+NA
+NA
+NA
 c
-1059874	c
-1059879	c
 c
+a
+NA
+NA
+NA
 a
-1059890	c
+NA
+det.
+NA
+NA
 c
-1059894	c
+NA
+NA
+NA
+NA
+NA
+det.
+NA
 c
-1059898	c
 a
-1059901	c
+det.
+c
 a
-1059910	c
-1059915	c
-1059917	c
-1059920	c
-1059922	a
 a
+NA
+NA
+NA
+NA
+NA
+NA
 c
+NA
 c
 c
-a
-1059931	c
-1059937	a
-a
-1059941	c
-1059944	c
-1059949	a
-1059951	c
-1059955	c
+det.
+NA
 c
-1059960	c
 c
-1059964	c
-1059969	c
+NA
+NA
+NA
 c
-a
-1059975	a
-1059977	det.
-1059980	c
-1059986	det.
-1059988	c
 a
+NA
+NA
 det.
+NA
 c
-a
+det.
+NA
+NA
 a
-1060000	c
-1060002	c
-c
+NA
+det.
+det.
+NA
+det.
 det.
-1060006	c
+NA
+NA
+a
+a
+NA
+a
+NA
+NA
+NA
+a
 c
-1060011	c
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 a
-1060015	det.
-1060017	c
 det.
-1060021	a
-1060023	det.
 det.
-1060026	det.
+NA
 det.
-1060030	a
+NA
+NA
+det.
+NA
+det.
 a
-1060033	a
-1060037	a
+a
+NA
+det.
+NA
+NA
 c
-1060047	a
+a
 det.
+NA
+NA
+NA
+NA
+NA
+a
+NA
+NA
+NA
+NA
+NA
+NA
+NA
 det.
-1060051	det.
-1060054	det.
-1060056	det.
+NA
+NA
 a
 a
-1060060	det.
-1060063	c
 a
-det.
-1060071	a
-1060079	det.
-1060082	a
+NA
+NA
+NA
+NA
+NA
+NA
+c
+NA
+c
 a
+NA
 a
-1060091	c
-1060093	c
+NA
 a
-1060096	a
-1060098	a
-1060101	c
-1060103	c
-1060105	c
-1060107	c
+NA
+NA
+c
+NA
+c
+NA
+c
+NA
+c
+NA
+NA
+NA

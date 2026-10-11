@@ -7,6 +7,8 @@
 # these keep the source abbreviation (the label itself where the abbreviation is empty).
 # Labels that are in neither list stop the conversion, unless `other: absent`
 # says that they give no value.
+# `missing` is the value where the parsing has no label, as the BHSA gives NA
+# where a category does not apply.
 
 sp:
   field: wordClass
@@ -70,6 +72,7 @@ nametype:
 
 gn:
   field: gender
+  missing: NA
   bhsa:
     maskulinum: m
     femininum: f
@@ -78,6 +81,7 @@ gn:
 
 nu:
   field: number
+  missing: NA
   bhsa:
     singularis: sg
     pluralis: pl
@@ -85,6 +89,7 @@ nu:
 
 ps:
   field: person
+  missing: NA
   bhsa:
     1. Person: p1
     2. Person: p2
@@ -92,6 +97,7 @@ ps:
 
 st:
   field: state
+  missing: NA
   bhsa:
     absolutus: a
     constructus: c
@@ -100,6 +106,7 @@ st:
 
 vs:
   field: verbStem
+  missing: NA
   bhsa:
     Qal (Hebr.): qal
     Qal pass. (hebr.): pasq
@@ -129,6 +136,7 @@ vs:
 
 vt:
   field: verbTense
+  missing: NA
   bhsa:
     Perfekt: perf
     Imperfekt: impf
@@ -142,6 +150,7 @@ vt:
 
 prs_gn:
   field: suffixGender
+  missing: NA
   bhsa:
     maskulinum: m
     femininum: f
@@ -150,6 +159,7 @@ prs_gn:
 
 prs_nu:
   field: suffixNumber
+  missing: NA
   bhsa:
     singularis: sg
     pluralis: pl
@@ -157,6 +167,7 @@ prs_nu:
 
 prs_ps:
   field: suffixPerson
+  missing: NA
   bhsa:
     1. Person: p1
     2. Person: p2

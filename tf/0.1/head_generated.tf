@@ -15,7 +15,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T19:17:03+00:00Z
+@dateWritten=2026-10-11T20:06:35+00:00Z
 
 2052	2053	Präposition
 2057	2058	Präposition
@@ -347,7 +347,7 @@
 96229	96230	Präposition
 96297	96298	Präposition
 96323	96324	Präposition
-96325	96326	Präposition, Präposition
+96325	96326	Präposition,Präposition
 96368	96369	Präposition
 96527	96528	Präposition
 96702	96703	Präposition

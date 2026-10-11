@@ -7,16 +7,14 @@ import sys
 import threading
 import time
 import urllib.parse
-import urllib.request
 from collections.abc import Callable, Iterable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from functools import partial
 from html.parser import HTMLParser
-from http.client import HTTPException
+from http.client import HTTPException, HTTPSConnection
 from pathlib import Path
-from urllib.error import HTTPError, URLError
 
 BASE_URL = "https://lexicon.qumran-digital.org/v1/qumran"
 USER_AGENT = "qumran-digital-downloader/1.0 (academic research)"
@@ -80,16 +78,24 @@ class Report:
     failed: dict[str, str] = field(default_factory=dict)
 
 
-def urllib_transport(url: str) -> bytes:
-    """Fetch an HTTPS URL with the downloader's user agent."""
-    if not url.startswith("https://"):
+def https_transport(url: str) -> bytes:
+    """Fetch an HTTPS URL with the downloader's user agent.
+
+    The request does not ask the server to close the connection: when asked to, it cuts large responses short.
+    """
+    parts = urllib.parse.urlsplit(url)
+    if parts.scheme != "https":
         raise ValueError(f"refusing non-HTTPS URL {url}")
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})  # noqa: S310
+    connection = HTTPSConnection(parts.netloc, timeout=120)
     try:
-        with urllib.request.urlopen(request, timeout=120) as response:  # noqa: S310
-            return bytes(response.read())
-    except HTTPError as error:
-        raise HttpStatusError(url, error.code) from error
+        connection.request("GET", parts.path, headers={"User-Agent": USER_AGENT})
+        response = connection.getresponse()
+        body = response.read()
+    finally:
+        connection.close()
+    if response.status != 200:
+        raise HttpStatusError(url, response.status)
+    return body
 
 
 def fetch(url: str, transport: Transport, retries: int = 5, sleep: Sleep = time.sleep) -> bytes:
@@ -101,7 +107,7 @@ def fetch(url: str, transport: Transport, retries: int = 5, sleep: Sleep = time.
             if error.code not in RETRYABLE:
                 raise FetchError(str(error)) from error
             last = str(error)
-        except (URLError, TimeoutError, ConnectionError, HTTPException) as error:
+        except (OSError, HTTPException) as error:
             last = f"{url}: {error}"
         if attempt < retries - 1:
             sleep(2.0**attempt)
@@ -200,8 +206,8 @@ def _write(path: Path, data: bytes) -> None:
 class Downloader:
     """Downloads the selected transcriptions in parallel, resuming where an earlier run stopped."""
 
-    def __init__(self, out_dir: Path, transport: Transport = urllib_transport,
-                 selection: Selection = Selection(), policy: Policy = Policy(),  # noqa: B008
+    def __init__(self, out_dir: Path, transport: Transport = https_transport,
+                 selection: Selection = Selection(), policy: Policy = Policy(),
                  log: Callable[[str], None] = PRINT) -> None:
         """Set the output folder, the transport, the selection, the request policy, and the progress log."""
         self.log = log
@@ -210,7 +216,6 @@ class Downloader:
         self.selection = selection
         self.policy = policy
         self._stop = threading.Event()
-        self._version = ""
 
     def _get(self, url: str) -> bytes:
         """Fetch a URL and pause afterwards, unless the run has been interrupted."""
@@ -240,7 +245,7 @@ class Downloader:
     def _download(self, entry: Entry) -> None:
         """Fetch every file of one transcription and write them only once all have arrived."""
         self.log(f"start {entry.path}")
-        transcription = self._saved_transcription(entry) or self._get(transcription_url(entry.path))
+        transcription = self._get(transcription_url(entry.path))
         files = {
             "transcription.html": transcription,
             "columns.json": self._get(transcription_url(entry.path, "/columns")),
@@ -255,17 +260,6 @@ class Downloader:
             _write(self._folder(entry) / name, data)
         for name in ("parsings", "syntax"):
             (self._folder(entry) / f"{name}.jsonl").unlink(missing_ok=True)
-
-    def _saved_transcription(self, entry: Entry) -> bytes | None:
-        """Return the transcription an earlier run saved, if it is of the current data version."""
-        saved = self._folder(entry) / "transcription.html"
-        if not saved.exists():
-            return None
-        data = saved.read_bytes()
-        if f'<time datetime="{self._version}">'.encode() not in data:
-            return None
-        self.log(f"{entry.path}: reusing the saved transcription of {self._version}")
-        return data
 
     def _journaled(self, entry: Entry, name: str, words: list[str], one: Callable[[str], object]) -> bytes:
         """Fetch one record per word, reusing a finished file and a journal so an interrupted run can resume."""
@@ -317,7 +311,6 @@ class Downloader:
         self.log("fetching the transcription index")
         index = self._get(f"{BASE_URL}/transcription-index")
         versions = json.loads(self._get(f"{BASE_URL}/data-version-names"))["versionDates"]
-        self._version = max(versions)
         entries = parse_index(index.decode("utf-8"))
         _write(self.out_dir / "transcription-index.html", index)
         selected = self._selected(entries)
@@ -336,7 +329,7 @@ class Downloader:
                 except FetchError as error:
                     report.failed[entry.path] = str(error)
                     self.log(f"failed {entry.path}: {error}")
-                except Exception as error:  # noqa: BLE001
+                except Exception as error:
                     report.failed[entry.path] = f"{type(error).__name__}: {error}"
                     self.log(f"failed {entry.path}: {error}")
         except BaseException:
@@ -367,7 +360,7 @@ def main(argv: list[str] | None = None) -> int:
     try:
         report = Downloader(args.out, selection=selection, policy=Policy(workers=args.workers, pause=args.pause)).run()
     except KeyboardInterrupt:
-        print("interrupted, rerun the same command to resume")  # noqa: T201
+        print("interrupted, rerun the same command to resume")
         return 130
     return 1 if report.failed else 0
 

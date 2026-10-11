@@ -15,7 +15,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T19:17:03+00:00Z
+@dateWritten=2026-10-11T20:06:35+00:00Z
 
 13	33	Subjekt
 31	33	Objekt
@@ -198,12 +198,12 @@
 3193	3195	gen. Attribut
 3197	3200	gen. Attribut
 3249	3255	gen. Attribut
-3255	3256	Subjekt, gen. Attribut
+3255	3256	Subjekt,gen. Attribut
 3370	3371	gen. Attribut
 3435	3439	gen. Attribut
 3456	3454	Objekt
 3454	Objekt
-3454	Adverb, Präposition
+3454	Adverb,Präposition
 3467	3455	Präposition
 3514	3528	Subjekt
 3514	3527,3529	gen. Attribut
@@ -388,7 +388,7 @@
 7858	7868	gen. Attribut
 7871	7874	Apposition
 7871	7867	Subjekt
-7876	7867	Adverb, Präposition
+7876	7867	Adverb,Präposition
 7924	7938	Subjekt
 8039	8050	Subjekt
 8041	8050	Subjekt
@@ -421,7 +421,7 @@
 8891	8894	Subjekt
 8936	8938	Konjunktion
 8947	8962	Subjekt
-9006	9001	Adverb, Präposition
+9006	9001	Adverb,Präposition
 9012	9017	Subjekt
 9170	9174,9176	gen. Attribut
 9221	9219	Subjekt
@@ -440,7 +440,7 @@
 9576	9580,9584	gen. Attribut
 9653	9661	gen. Attribut
 9731	9733	Subjekt
-9731	9740	gen. Attribut, gen. Attribut
+9731	9740	gen. Attribut,gen. Attribut
 9778	9780	Subjekt
 9780	Adverb
 9781	9779	Präposition
@@ -455,7 +455,7 @@
 9857	9861	Konjunktion
 9864	9861	Präposition
 10003	10005	gen. Attribut
-10074	10078	Adverb, Präposition
+10074	10078	Adverb,Präposition
 10077	10078	Subjekt
 10100	10102,10105	Subjekt
 10109	10118	gen. Attribut
@@ -544,7 +544,7 @@
 13907	13906	Objekt
 13907	13909	Subjekt
 13907	13911	gen. Attribut
-13952	13949	Adverb, Präposition
+13952	13949	Adverb,Präposition
 13954	13958	Subjekt
 13958	Subjekt
 13970	13972	Objekt
@@ -747,7 +747,7 @@
 34185	34187	gen. Attribut
 34188	34192	gen. Attribut
 34310	34312	gen. Attribut
-34326	34318	Adverb, Präposition
+34326	34318	Adverb,Präposition
 34329	34326	Subjekt
 34460	34468	Subjekt
 34464	34468,34471	Objekt
@@ -863,7 +863,7 @@
 40169	40178	Subjekt
 40178	40186	gen. Attribut
 40210	40209	Subjekt
-40223	40230	Adverb, Präposition
+40223	40230	Adverb,Präposition
 40232	40239	Subjekt
 40236	40239	Objekt
 40244	40248-40249,40253,40256,40259	Subjekt
@@ -873,7 +873,7 @@
 40407	40406	Subjekt
 40543	40539	Subjekt
 40618	40621	Subjekt
-41390	41392	Adverb, Präposition
+41390	41392	Adverb,Präposition
 41414	41416	Adverb
 41416	Subjekt
 41417	41414-41415	Präposition
@@ -984,11 +984,11 @@
 65213	65216	gen. Attribut
 65278	65281	Subjekt
 66052	66054	Subjekt
-66054	Subjekt, Subjekt
+66054	Subjekt,Subjekt
 66233	66230	Präposition
-66346	66350	Subjekt, Subjekt
+66346	66350	Subjekt,Subjekt
 66396	66399	gen. Attribut
-66540	66547-66548	Subjekt, Subjekt
+66540	66547-66548	Subjekt,Subjekt
 66698	66723	gen. Attribut
 66946	66948	Objekt
 67009	67016	Adverb
@@ -1105,7 +1105,7 @@
 75150	75152	Objekt
 75785	75787	Adverb
 75887	75891	gen. Attribut
-76026	76028	Objekt, gen. Attribut
+76026	76028	Objekt,gen. Attribut
 76030	76029	Adverb
 76163	76168	Subjekt
 76226	76227	Subjekt
@@ -1113,14 +1113,14 @@
 76309	76308	Objekt
 76318	76320,76322	Subjekt
 76393	76388	Präposition
-76447	76448	gen. Attribut, gen. Attribut
+76447	76448	gen. Attribut,gen. Attribut
 76535	76543	Subjekt
 76563	76577	Objekt
 76698	76700	gen. Attribut
 76768	76770	gen. Attribut
 76808	76805	Adverb
 76805	Präposition
-76814	76805	Adverb, Präposition
+76814	76805	Adverb,Präposition
 76903	76902	Adverb
 76939	76941	gen. Attribut
 77140	77142	gen. Attribut
@@ -1150,7 +1150,7 @@
 77677	77679	Subjekt
 77779	77785	Adverb
 77783	77779	Präposition
-77802	77804	Adverb, Präposition
+77802	77804	Adverb,Präposition
 77805	77817	Subjekt
 77805	77815	gen. Attribut
 77811	77819	gen. Attribut
@@ -1230,7 +1230,7 @@
 91566	91567	gen. Attribut
 91571	91572	gen. Attribut
 91576	91577	gen. Attribut
-92010	92013	Objekt, Subjekt
+92010	92013	Objekt,Subjekt
 92840	92849	gen. Attribut
 92869	92872	gen. Attribut
 93588	93589	gen. Attribut
@@ -1436,13 +1436,13 @@
 116735	116736	Subjekt
 116762	116772	gen. Attribut
 117023	117022	Objekt
-117157	117148	Adverb, Präposition
+117157	117148	Adverb,Präposition
 117159	117148	Subjekt
 117148	Subjekt
 117166	117164	gen. Attribut
 117421	117424,117432-117433	gen. Attribut
 117474	117473	Subjekt
-118211	118202	Adverb, Präposition
+118211	118202	Adverb,Präposition
 118220	118218	gen. Attribut
 118610	118612	gen. Attribut
 119005	119006-119007,119014	Subjekt
@@ -1473,7 +1473,7 @@
 123042	123044	gen. Attribut
 123056	123063	Konjunktion
 123063	Subjekt
-123060	123072	Objekt, gen. Attribut
+123060	123072	Objekt,gen. Attribut
 123060	123065	gen. Attribut
 123121	123125	gen. Attribut
 123206	123207	gen. Attribut
@@ -1485,7 +1485,7 @@
 124870	124867	Subjekt
 124874	124871	Subjekt
 124954	124960	gen. Attribut
-125384	125396	Objekt, gen. Attribut
+125384	125396	Objekt,gen. Attribut
 125504	125505	gen. Attribut
 125687	125683	Objekt
 125713	125716	Subjekt
@@ -1586,7 +1586,7 @@
 140275	140276	Subjekt
 140662	140665	Objekt
 141422	141418	Subjekt
-141425	141418	Adverb, Präposition
+141425	141418	Adverb,Präposition
 141662	141665	gen. Attribut
 143754	143770	gen. Attribut
 143844	143845	Subjekt
@@ -1729,7 +1729,7 @@
 184093	184120	Subjekt
 184093	184090,184092,184096,184113,184116,184119	gen. Attribut
 184101	184093	Präposition
-184151	184152	Objekt, Subjekt
+184151	184152	Objekt,Subjekt
 184156	184157	Subjekt
 184160	184161	gen. Attribut
 184162	184163	gen. Attribut
@@ -1881,7 +1881,7 @@
 198427	198437	gen. Attribut
 198427	Adverb
 198430	198427	Adverb
-198427	Präposition, Präposition
+198427	Präposition,Präposition
 198548	198549,198553	gen. Attribut
 198566	198567	Präposition
 198653	198671,198676	gen. Attribut
@@ -1908,7 +1908,7 @@
 199493	199500-199502	gen. Attribut
 199503	199517-199518	gen. Attribut
 199506	199508	Subjekt
-199710	199712,199718	Pendens, Subjekt
+199710	199712,199718	Pendens,Subjekt
 199710	199714	gen. Attribut
 199721	199734	Adverb
 199726	199721	Präposition
@@ -2047,11 +2047,11 @@
 201817	201819	Subjekt
 201823	201825	Objekt
 201826	201823	Präposition
-201831	201843,201853,201869,201879	Adverb, Subjekt
+201831	201843,201853,201869,201879	Adverb,Subjekt
 201831	201847,201884	Subjekt
 201831	201874,201887	gen. Attribut
 201841	201847	Adverb
-201905	201907	Adverb, Präposition
+201905	201907	Adverb,Präposition
 201905	201905	Negation
 201912	201933	Adverb
 201912	201920,201922,201932	gen. Attribut
@@ -2368,7 +2368,7 @@
 213569	213577	Adverb
 213572	213569	Adverb
 213569	Präposition
-213578	213569	Adverb, Präposition
+213578	213569	Adverb,Präposition
 213586	213587	Objekt
 213588	213586	gen. Attribut
 213602	213606	gen. Attribut
@@ -2419,7 +2419,7 @@
 214270	Objekt
 214286	214288,214294	Subjekt
 214286	214295	gen. Attribut
-214331	214324	Präposition, Präposition
+214331	214324	Präposition,Präposition
 214394	214406	Adverb
 214429	214426	Objekt
 214441	214443	gen. Attribut
@@ -2439,11 +2439,11 @@
 214676	214684	Adverb
 214699	214701	Subjekt
 214704	214706	Objekt
-214767	214758	Präposition, Präposition
+214767	214758	Präposition,Präposition
 214815	214820	Adverb
 214818	214815	Präposition
 214834	214835-214836	gen. Attribut
-214837	214839	Adverb, Präposition
+214837	214839	Adverb,Präposition
 214841	214853	Subjekt
 214841	214843,214851	gen. Attribut
 214847	214855	gen. Attribut
@@ -2526,11 +2526,11 @@
 216073	Präposition
 216109	216073	Präposition
 216148	216152-216153,216158	Subjekt
-216323	216359	gen. Attribut, gen. Attribut
+216323	216359	gen. Attribut,gen. Attribut
 216331	216374	gen. Attribut
-216355	216323	Präposition, Präposition
+216355	216323	Präposition,Präposition
 216382	216386	Subjekt
-216418	216422	Adverb, Präposition
+216418	216422	Adverb,Präposition
 216432	216433	Objekt
 216480	216488,216490	Subjekt
 216496	216499	gen. Attribut
@@ -2599,7 +2599,7 @@
 217627	217631	Adverb
 217631	Adverb
 217645	217650	gen. Attribut
-217650	gen. Attribut, gen. Attribut
+217650	gen. Attribut,gen. Attribut
 217648,217650	gen. Attribut
 217655	217659	Subjekt
 217671	217673	gen. Attribut
@@ -2726,7 +2726,7 @@
 219267	219268	Subjekt
 219286	219306	gen. Attribut
 219290	219295	Subjekt
-219386	219390	gen. Attribut, gen. Attribut
+219386	219390	gen. Attribut,gen. Attribut
 219396	219399	gen. Attribut
 219403	219410	Subjekt
 219410	Subjekt
@@ -2953,11 +2953,11 @@
 223804	223805-223806,223809-223810	Subjekt
 223916	223923	Präposition
 223923	Adverb
-223922	223920	Adverb, Präposition
+223922	223920	Adverb,Präposition
 223926	223925	Präposition
 223925	Präposition
 223925	Adverb
-223931	223930	Adverb, Präposition
+223931	223930	Adverb,Präposition
 223960	223948	Subjekt
 223979	223982	Subjekt
 224019	224021	gen. Attribut
@@ -3049,7 +3049,7 @@
 225970	225984	gen. Attribut
 226000	226016	gen. Attribut
 226036	226042,226065	Subjekt
-226036	226064	Subjekt, gen. Attribut
+226036	226064	Subjekt,gen. Attribut
 226036	226024,226026,226137	gen. Attribut
 226156	226311	gen. Attribut
 226164	226176,226194,226203,226209	Subjekt
@@ -3133,7 +3133,7 @@
 228004	228005	gen. Attribut
 228034	228061	Subjekt
 228058	228034	Präposition
-228110	228114	Adverb, Präposition
+228110	228114	Adverb,Präposition
 228157	228163	Subjekt
 228157	228159	gen. Attribut
 228174	228179	Adverb
@@ -3168,7 +3168,7 @@
 228609	228611	gen. Attribut
 228649	228661	gen. Attribut
 228661	228664	Subjekt
-228661	228663	Subjekt, gen. Attribut
+228661	228663	Subjekt,gen. Attribut
 228673	228669	Präposition
 228701	228704	gen. Attribut
 228710	228712	Subjekt
@@ -3208,7 +3208,7 @@
 229292	229299	Subjekt
 229301	229308	Subjekt
 229329	229347,229349	Subjekt
-229334	229332	Objekt, Objekt
+229334	229332	Objekt,Objekt
 229381	229357,229388	Präposition
 229383	229357	Adverb
 229385	229357	Präposition
@@ -3259,7 +3259,7 @@
 230644	230649	gen. Attribut
 230723	230725	Subjekt
 230749	230745	gen. Attribut
-230839	230838	Adverb, Präposition
+230839	230838	Adverb,Präposition
 230859	230856	Subjekt
 230876	230879	Subjekt
 230906	230909	gen. Attribut
@@ -3442,7 +3442,7 @@
 785448	785447	Objekt
 785448	785450	Subjekt
 785448	785452	gen. Attribut
-785493	785490	Adverb, Präposition
+785493	785490	Adverb,Präposition
 785495	785499	Subjekt
 785499	Subjekt
 785511	785513	Objekt
@@ -3582,11 +3582,11 @@
 790835	Präposition
 790871	790835	Präposition
 790910	790914-790915,790920	Subjekt
-791085	791121	gen. Attribut, gen. Attribut
+791085	791121	gen. Attribut,gen. Attribut
 791093	791136	gen. Attribut
-791117	791085	Präposition, Präposition
+791117	791085	Präposition,Präposition
 791144	791148	Subjekt
-791180	791184	Adverb, Präposition
+791180	791184	Adverb,Präposition
 791194	791195	Objekt
 791242	791250,791252	Subjekt
 791258	791261	gen. Attribut
@@ -3655,7 +3655,7 @@
 792389	792393	Adverb
 792393	Adverb
 792407	792412	gen. Attribut
-792412	gen. Attribut, gen. Attribut
+792412	gen. Attribut,gen. Attribut
 792410,792412	gen. Attribut
 792417	792421	Subjekt
 792433	792435	gen. Attribut
@@ -3782,7 +3782,7 @@
 794025	794026	Subjekt
 794044	794064	gen. Attribut
 794048	794053	Subjekt
-794144	794148	gen. Attribut, gen. Attribut
+794144	794148	gen. Attribut,gen. Attribut
 794154	794157	gen. Attribut
 794161	794168	Subjekt
 794168	Subjekt
@@ -4009,11 +4009,11 @@
 798553	798554-798555,798558-798559	Subjekt
 798662	798669	Präposition
 798669	Adverb
-798668	798666	Adverb, Präposition
+798668	798666	Adverb,Präposition
 798672	798671	Präposition
 798671	Präposition
 798671	Adverb
-798677	798676	Adverb, Präposition
+798677	798676	Adverb,Präposition
 798697	798694	Subjekt
 798725	798728	Subjekt
 798765	798767	gen. Attribut
@@ -4105,7 +4105,7 @@
 800710	800724	gen. Attribut
 800740	800756	gen. Attribut
 800776	800782,800805	Subjekt
-800776	800804	Subjekt, gen. Attribut
+800776	800804	Subjekt,gen. Attribut
 800776	800764,800766,800874	gen. Attribut
 800892	801052	gen. Attribut
 800900	800912,800930,800939,800945	Subjekt
@@ -4189,7 +4189,7 @@
 802745	802746	gen. Attribut
 802775	802802	Subjekt
 802799	802775	Präposition
-802851	802855	Adverb, Präposition
+802851	802855	Adverb,Präposition
 802898	802904	Subjekt
 802898	802900	gen. Attribut
 802915	802920	Adverb
@@ -4224,7 +4224,7 @@
 803350	803352	gen. Attribut
 803390	803402	gen. Attribut
 803402	803405	Subjekt
-803402	803404	Subjekt, gen. Attribut
+803402	803404	Subjekt,gen. Attribut
 803414	803410	Präposition
 803442	803445	gen. Attribut
 803451	803453	Subjekt
@@ -4264,7 +4264,7 @@
 804031	804038	Subjekt
 804040	804047	Subjekt
 804068	804086,804088	Subjekt
-804073	804071	Objekt, Objekt
+804073	804071	Objekt,Objekt
 804120	804096,804127	Präposition
 804122	804096	Adverb
 804124	804096	Präposition
@@ -4315,7 +4315,7 @@
 805382	805387	gen. Attribut
 805461	805463	Subjekt
 805487	805483	gen. Attribut
-805577	805576	Adverb, Präposition
+805577	805576	Adverb,Präposition
 805597	805594	Subjekt
 805614	805617	Subjekt
 805644	805647	gen. Attribut

@@ -15,5 +15,5 @@
 @sourceUrl=https://lexicon.qumran-digital.org/v1/qumran
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T19:17:04+00:00Z
+@dateWritten=2026-10-11T20:06:36+00:00Z
 
