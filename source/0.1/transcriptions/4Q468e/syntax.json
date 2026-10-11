@@ -1,0 +1,165 @@
+{
+ "138870": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002003,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138871
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002004,
+    "priorityOfReading": 0,
+    "reading": "רוב",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138872
+   }
+  ],
+  "reading": "ה]ר֯וג",
+  "wordReadingId": 138870
+ },
+ "138871": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002002,
+    "priorityOfReading": 0,
+    "reading": "ה]ר֯וג",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138870
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002004,
+    "priorityOfReading": 0,
+    "reading": "רוב",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138872
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 138871
+ },
+ "138872": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002002,
+    "priorityOfReading": 0,
+    "reading": "ה]ר֯וג",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138870
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002003,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138871
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002005,
+    "priorityOfReading": 0,
+    "reading": "הגבר֯[ים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138873
+   }
+  ],
+  "reading": "רוב",
+  "wordReadingId": 138872
+ },
+ "138873": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4510001002004,
+    "priorityOfReading": 0,
+    "reading": "רוב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138872
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הגבר֯[ים",
+  "wordReadingId": 138873
+ },
+ "138877": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4510001003004,
+    "priorityOfReading": 0,
+    "reading": "אשר",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 138878
+   }
+  ],
+  "reading": "והנפש",
+  "wordReadingId": 138877
+ },
+ "138878": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4510001003003,
+    "priorityOfReading": 0,
+    "reading": "והנפש",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 138877
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 138878
+ }
+}

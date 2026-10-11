@@ -1,0 +1,112 @@
+{
+ "359482": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 359482
+ },
+ "359540": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ב֯כסא",
+  "wordReadingId": 359540
+ },
+ "359619": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 359619
+ },
+ "359620": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יטכה",
+  "wordReadingId": 359620
+ },
+ "359628": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 359628
+ },
+ "359635": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 359635
+ },
+ "359644": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ה]נ֯ה֯[",
+  "wordReadingId": 359644
+ },
+ "359677": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ני֯ד֯[ע",
+  "wordReadingId": 359677
+ },
+ "359686": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וזקו֯[",
+  "wordReadingId": 359686
+ },
+ "359781": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ענפים",
+  "wordReadingId": 359781
+ },
+ "808519": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 24",
+    "location2": "1",
+    "orderedId": 10100015001002,
+    "priorityOfReading": 0,
+    "reading": "חשך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 65820
+   }
+  ],
+  "reading": "מ]פני",
+  "wordReadingId": 808519
+ },
+ "65820": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 24",
+    "location2": "1",
+    "orderedId": 10100015001001,
+    "priorityOfReading": 0,
+    "reading": "מ]פני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 808519
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 24",
+    "location2": "1",
+    "orderedId": 10100015001001,
+    "priorityOfReading": 1,
+    "reading": "]ב֯ני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 65819
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "חשך",
+  "wordReadingId": 65820
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "29996": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 240001002003,
+    "priorityOfReading": 0,
+    "reading": "הקודש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 29997
+   }
+  ],
+  "reading": "מ]ש֯יח",
+  "wordReadingId": 29996
+ },
+ "29997": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 240001002002,
+    "priorityOfReading": 0,
+    "reading": "מ]ש֯יח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 29996
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הקודש",
+  "wordReadingId": 29997
+ },
+ "30000": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ב]שלישית",
+  "wordReadingId": 30000
+ },
+ "30001": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 240001003004,
+    "priorityOfReading": 0,
+    "reading": "כול[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 30002
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 30001
+ },
+ "30002": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 240001003003,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 30001
+   }
+  ],
+  "reading": "כול[",
+  "wordReadingId": 30002
+ },
+ "803409": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]פרים",
+  "wordReadingId": 803409
+ },
+ "30006": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חומשים",
+  "wordReadingId": 30006
+ },
+ "30010": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ו֯יותר",
+  "wordReadingId": 30010
+ },
+ "30011": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 240001005004,
+    "priorityOfReading": 0,
+    "reading": "ארבעת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 30012
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 30011
+ },
+ "30012": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 240001005003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 30011
+   }
+  ],
+  "reading": "ארבעת",
+  "wordReadingId": 30012
+ },
+ "30021": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לתת[",
+  "wordReadingId": 30021
+ },
+ "30026": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הדרך",
+  "wordReadingId": 30026
+ },
+ "30045": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "1",
+    "orderedId": 240004001004,
+    "priorityOfReading": 0,
+    "reading": "רזי[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 30046
+   }
+  ],
+  "reading": "ולספר",
+  "wordReadingId": 30045
+ },
+ "30046": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "1",
+    "orderedId": 240004001003,
+    "priorityOfReading": 0,
+    "reading": "ולספר",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 30045
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רזי[",
+  "wordReadingId": 30046
+ },
+ "30053": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]בבשול",
+  "wordReadingId": 30053
+ },
+ "30062": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 7",
+    "location2": "2",
+    "orderedId": 240006002003,
+    "priorityOfReading": 0,
+    "reading": "יוגד[",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 30063
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כי",
+  "wordReadingId": 30062
+ },
+ "30063": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 7",
+    "location2": "2",
+    "orderedId": 240006002002,
+    "priorityOfReading": 0,
+    "reading": "כי",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 30062
+   }
+  ],
+  "reading": "יוגד[",
+  "wordReadingId": 30063
+ }
+}

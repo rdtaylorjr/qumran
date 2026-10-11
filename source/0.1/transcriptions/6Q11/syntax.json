@@ -1,0 +1,223 @@
+{
+ "180775": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הב]קר",
+  "wordReadingId": 180775
+ },
+ "180776": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 6250001004005,
+    "priorityOfReading": 0,
+    "reading": "הערב",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 180777
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עד",
+  "wordReadingId": 180776
+ },
+ "180777": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 6250001004004,
+    "priorityOfReading": 0,
+    "reading": "עד",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 180776
+   }
+  ],
+  "reading": "הערב",
+  "wordReadingId": 180777
+ },
+ "180781": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6250001005003,
+    "priorityOfReading": 0,
+    "reading": "ילדה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180782
+   }
+  ],
+  "reading": "חב]לה",
+  "wordReadingId": 180781
+ },
+ "180782": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6250001005002,
+    "priorityOfReading": 0,
+    "reading": "חב]לה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180781
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6250001005004,
+    "priorityOfReading": 0,
+    "reading": "חבל",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 180783
+   }
+  ],
+  "reading": "ילדה",
+  "wordReadingId": 180782
+ },
+ "180783": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6250001005003,
+    "priorityOfReading": 0,
+    "reading": "ילדה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 180782
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6250001005005,
+    "priorityOfReading": 0,
+    "reading": "ילד",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180784
+   }
+  ],
+  "reading": "חבל",
+  "wordReadingId": 180783
+ },
+ "180784": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6250001005004,
+    "priorityOfReading": 0,
+    "reading": "חבל",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180783
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ילד",
+  "wordReadingId": 180784
+ },
+ "180788": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ואמרתה",
+  "wordReadingId": 180788
+ },
+ "180789": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 6250001006004,
+    "priorityOfReading": 0,
+    "reading": "הנטעת",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180790
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 6250001006005,
+    "priorityOfReading": 0,
+    "reading": "אשמ֯[ר",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 180791
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הגפן",
+  "wordReadingId": 180789
+ },
+ "180790": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 6250001006003,
+    "priorityOfReading": 0,
+    "reading": "הגפן",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180789
+   }
+  ],
+  "reading": "הנטעת",
+  "wordReadingId": 180790
+ },
+ "180791": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 6250001006003,
+    "priorityOfReading": 0,
+    "reading": "הגפן",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 180789
+   }
+  ],
+  "reading": "אשמ֯[ר",
+  "wordReadingId": 180791
+ }
+}

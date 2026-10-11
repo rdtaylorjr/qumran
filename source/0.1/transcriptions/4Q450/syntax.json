@@ -1,0 +1,96 @@
+{
+ "137226": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "דאב֯[ון",
+  "wordReadingId": 137226
+ },
+ "137229": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4270001002003,
+    "priorityOfReading": 0,
+    "reading": "תעתעו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 137230
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ו֯נערימ",
+  "wordReadingId": 137229
+ },
+ "137230": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4270001002002,
+    "priorityOfReading": 0,
+    "reading": "ו֯נערימ",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 137229
+   }
+  ],
+  "reading": "תעתעו",
+  "wordReadingId": 137230
+ },
+ "137235": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לארצ",
+  "wordReadingId": 137235
+ },
+ "137239": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4270001004003,
+    "priorityOfReading": 0,
+    "reading": "נפש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 137240
+   }
+  ],
+  "reading": "]ד֯אבון",
+  "wordReadingId": 137239
+ },
+ "137240": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4270001004002,
+    "priorityOfReading": 0,
+    "reading": "]ד֯אבון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 137239
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נפש",
+  "wordReadingId": 137240
+ },
+ "137248": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯א֯רצ",
+  "wordReadingId": 137248
+ }
+}

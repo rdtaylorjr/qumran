@@ -1,0 +1,116 @@
+{
+ "804214": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "31",
+    "location2": "obv.",
+    "orderedId": 8270001001002,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804215
+   }
+  ],
+  "reading": "שקל",
+  "wordReadingId": 804214
+ },
+ "804215": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "31",
+    "location2": "obv.",
+    "orderedId": 8270001001001,
+    "priorityOfReading": 0,
+    "reading": "שקל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804214
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 804215
+ },
+ "804216": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "31",
+    "location2": "obv.",
+    "orderedId": 8270001001004,
+    "priorityOfReading": 0,
+    "reading": "ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804217
+   }
+  ],
+  "reading": "ש",
+  "wordReadingId": 804216
+ },
+ "804217": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "31",
+    "location2": "obv.",
+    "orderedId": 8270001001003,
+    "priorityOfReading": 0,
+    "reading": "ש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804216
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה",
+  "wordReadingId": 804217
+ },
+ "804218": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "31",
+    "location2": "rev.",
+    "orderedId": 8270001002002,
+    "priorityOfReading": 0,
+    "reading": "הקדושה",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804219
+   }
+  ],
+  "reading": "ירושלים",
+  "wordReadingId": 804218
+ },
+ "804219": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "31",
+    "location2": "rev.",
+    "orderedId": 8270001002001,
+    "priorityOfReading": 0,
+    "reading": "ירושלים",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804218
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הקדושה",
+  "wordReadingId": 804219
+ }
+}

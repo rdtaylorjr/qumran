@@ -1,0 +1,65 @@
+{
+ "62371": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 1870001002007,
+    "priorityOfReading": 0,
+    "reading": "ימי֯[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 62372
+   }
+  ],
+  "reading": "כ]ל֯",
+  "wordReadingId": 62371
+ },
+ "62372": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 1870001002006,
+    "priorityOfReading": 0,
+    "reading": "כ]ל֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 62371
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ימי֯[",
+  "wordReadingId": 62372
+ },
+ "62380": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1870001003003,
+    "priorityOfReading": 0,
+    "reading": "תשבת",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 62379
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה]ארץ֯[",
+  "wordReadingId": 62380
+ },
+ "62392": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יש]ראל",
+  "wordReadingId": 62392
+ }
+}

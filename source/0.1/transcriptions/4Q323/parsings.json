@@ -1,0 +1,106 @@
+{
+ "90334": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "אחד",
+    "lemmaId": 123,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "eins [Zahlwort]",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אחד",
+    "lemmaId": 123,
+    "rootDesignation": "I",
+    "shortDefinition": "eins [Zahlwort]",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ },
+ "90340": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "אחד",
+    "lemmaId": 123,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "eins [Zahlwort]",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אחד",
+    "lemmaId": 123,
+    "rootDesignation": "I",
+    "shortDefinition": "eins [Zahlwort]",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ },
+ "90349": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יחזקאל",
+    "lemmaId": 1301,
+    "parsingPriority": 0,
+    "shortDefinition": "Ezechiel",
+    "wordClass": "Personenname",
+    "wordClassAbbr": "n.pr.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יחזקאל",
+    "lemmaId": 1301,
+    "shortDefinition": "Ezechiel",
+    "wordClassAbbreviation": "n.pr."
+   }
+  ]
+ }
+}

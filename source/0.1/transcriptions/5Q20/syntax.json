@@ -1,0 +1,52 @@
+{
+ "179698": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חרש",
+  "wordReadingId": 179698
+ },
+ "179702": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 6160001002003,
+    "priorityOfReading": 0,
+    "reading": "אהרון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179703
+   }
+  ],
+  "reading": "לבני",
+  "wordReadingId": 179702
+ },
+ "179703": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 6160001002002,
+    "priorityOfReading": 0,
+    "reading": "לבני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179702
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אהרון",
+  "wordReadingId": 179703
+ },
+ "179709": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯בנון",
+  "wordReadingId": 179709
+ }
+}

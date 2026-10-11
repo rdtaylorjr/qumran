@@ -1,0 +1,171 @@
+# Morphology of the Qumran-Digital parsings in BHSA features.
+#
+# Every feature names the field of a parsing it comes from (`field`).
+# `bhsa` maps a source label to the BHSA value of the same meaning,
+# see https://etcbc.github.io/bhsa/features/ for the BHSA values.
+# `kept` lists the source labels without such a value, with the reason;
+# these keep the source abbreviation (the label itself where the abbreviation is empty).
+# Labels that are in neither list stop the conversion, unless `other: absent`
+# says that they give no value.
+
+sp:
+  field: wordClass
+  bhsa:
+    Nomen maskulinum: subs
+    Nomen femininum: subs
+    Nomen communis: subs
+    Verbalwurzel: verb
+    Präposition: prep
+    Konjunktion: conj
+    Negation: nega
+    adverbiale Partikel: advb
+    Personenname: nmpr
+    Göttername: nmpr
+    Volksname: nmpr
+    Ortsname: nmpr
+    Gebietsname: nmpr
+    Landschaftsname: nmpr
+    Flußname: nmpr
+    Monatsname: nmpr
+    Personalpronomen 1. c. sg.: prps
+    Personalpronomen 1. c. pl.: prps
+    Personalpronomen 2. m. sg.: prps
+    Personalpronomen 2. f. sg.: prps
+    Personalpronomen 2. m. pl.: prps
+    Personalpronomen 3. m. sg.: prps
+    Personalpronomen 3. f. sg.: prps
+    Personalpronomen 3. m. pl.: prps
+    Personalpronomen 3. f. pl.: prps
+    Demonstrativpronomen m. sg.: prde
+    Demonstrativpronomen f. sg.: prde
+    Demonstrativpronomen c. sg.: prde
+    Demonstrativpronomen m. pl.: prde
+    Demonstrativpronomen c. pl.: prde
+    Fragepronomen, Person: prin
+    Fragepronomen, Ort: prin
+    Interjektion: intj
+    Fragepartikel: inrg
+  kept:
+    Nomen: covers nouns, adjectives, numerals and אשר, which the BHSA divides over subs, adjv and conj
+    Objektmarker (nota accusativa): the BHSA has no object marker; it counts את as a preposition
+    Relativpartikel: the BHSA has no relative particle; it counts אשר as a conjunction
+    Indefinitpronomen, Sache: the BHSA has no indefinite pronoun
+    Buchstabe: the BHSA has no letter
+    Zahlzeichen: the BHSA has no numeral sign
+    ohne: no word class
+
+nametype:
+  field: wordClass
+  other: absent
+  bhsa:
+    Personenname: pers
+    Volksname: gens
+    Ortsname: topo
+    Gebietsname: topo
+    Landschaftsname: topo
+    Flußname: topo
+  kept:
+    Göttername: the BHSA has no divine name type
+    Monatsname: the BHSA has no month name type; its mens is a measurement unit
+
+gn:
+  field: gender
+  bhsa:
+    maskulinum: m
+    femininum: f
+  kept:
+    communis: the BHSA has no common gender
+
+nu:
+  field: number
+  bhsa:
+    singularis: sg
+    pluralis: pl
+    dualis: du
+
+ps:
+  field: person
+  bhsa:
+    1. Person: p1
+    2. Person: p2
+    3. Person: p3
+
+st:
+  field: state
+  bhsa:
+    absolutus: a
+    constructus: c
+  kept:
+    determinatus: marks a Hebrew noun with the article; the BHSA e is the Aramaic emphatic state
+
+vs:
+  field: verbStem
+  bhsa:
+    Qal (Hebr.): qal
+    Qal pass. (hebr.): pasq
+    Nifʿal (Hebr.): nif
+    Piʿel (Hebr.): piel
+    Puʿal (Hebr.): pual
+    Hifʿil (Hebr.): hif
+    Hofʿal (Hebr.): hof
+    Hitpaʿel (Hebr.): hit
+    Hitpoel (Hebr.): htpo
+    Hištafʿel (Hebr.): hsht
+    Peʿal (Aram.): peal
+    Paʿīl (Aram.): peil
+    Paʿel (Aram.): pael
+    Hitpeʿel (Aram.): htpe
+    Etpeʿel (Aram.): etpe
+  kept:
+    Polel (Hebr.): the BHSA has poel but no polel
+    Polal (Hebr.): the BHSA has poal but no polal
+    Hitpolel (hebr.): the BHSA has htpo (hitpoel) but no hitpolel
+    Pilpel (Hebr.): the BHSA has no pilpel
+    Pulpal (Hebr.): the BHSA has no pulpal
+    Hitpalpel (Hebr.): the BHSA has no hitpalpel; its htpa is the Aramaic hitpaal
+    Puʿlal (Hebr.): the BHSA has no pulal
+    Nufʿal: the BHSA has no nufal
+    Etʾafʿal (Aram.): the BHSA has no ettafal
+
+vt:
+  field: verbTense
+  bhsa:
+    Perfekt: perf
+    Imperfekt: impf
+    Imperfekt consecutivus: wayq
+    Imperativ: impv
+    Infinitiv constructus: infc
+  kept:
+    Perfekt consecutivus: the BHSA has no weqatal; it counts it as perf
+    Partizip: the BHSA divides participles into ptca and ptcp
+    Kohortativ: the BHSA has no cohortative; it counts it as impf
+
+prs_gn:
+  field: suffixGender
+  bhsa:
+    maskulinum: m
+    femininum: f
+  kept:
+    communis: the BHSA has no common gender
+
+prs_nu:
+  field: suffixNumber
+  bhsa:
+    singularis: sg
+    pluralis: pl
+    dualis: du
+
+prs_ps:
+  field: suffixPerson
+  bhsa:
+    1. Person: p1
+    2. Person: p2
+    3. Person: p3
+
+augment:
+  field: augment
+  bhsa: {}
+  kept:
+    Lokativ: the BHSA has no augment
+    Energikus: the BHSA has no augment
+    Adverbial: the BHSA has no augment

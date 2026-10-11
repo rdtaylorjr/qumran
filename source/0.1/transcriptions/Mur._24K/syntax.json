@@ -1,0 +1,84 @@
+{
+ "238235": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 7530001001003,
+    "priorityOfReading": 0,
+    "reading": "החכר[ה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 238236
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ]ן",
+  "wordReadingId": 238235
+ },
+ "238236": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 7530001001002,
+    "priorityOfReading": 0,
+    "reading": "מ]ן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 238235
+   }
+  ],
+  "reading": "החכר[ה",
+  "wordReadingId": 238236
+ },
+ "238239": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 7530002001003,
+    "priorityOfReading": 0,
+    "reading": "סאה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238240
+   }
+  ],
+  "reading": "ועש]ר֯ין",
+  "wordReadingId": 238239
+ },
+ "238240": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 7530002001002,
+    "priorityOfReading": 0,
+    "reading": "ועש]ר֯ין",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238239
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "סאה",
+  "wordReadingId": 238240
+ },
+ "238241": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "־[",
+  "wordReadingId": 238241
+ }
+}

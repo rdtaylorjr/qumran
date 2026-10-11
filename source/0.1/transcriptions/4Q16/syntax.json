@@ -1,0 +1,77 @@
+{
+ "286326": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 9070001002004,
+    "priorityOfReading": 0,
+    "reading": "מצרים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 286327
+   }
+  ],
+  "reading": "מארץ",
+  "wordReadingId": 286326
+ },
+ "286327": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 9070001002003,
+    "priorityOfReading": 0,
+    "reading": "מארץ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 286326
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מצרים",
+  "wordReadingId": 286327
+ },
+ "286353": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "החוי",
+  "wordReadingId": 286353
+ },
+ "286355": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "היבוסי",
+  "wordReadingId": 286355
+ },
+ "286356": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 9070001006006,
+    "priorityOfReading": 0,
+    "reading": "נשבע]",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 286357
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כאשר[",
+  "wordReadingId": 286356
+ },
+ "286358": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לאבותיך",
+  "wordReadingId": 286358
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "90553": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י]שוע",
+  "wordReadingId": 90553
+ },
+ "90554": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2850001002004,
+    "priorityOfReading": 0,
+    "reading": "רביע[י",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 90555
+   }
+  ],
+  "reading": "יום",
+  "wordReadingId": 90554
+ },
+ "90555": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2850001002003,
+    "priorityOfReading": 0,
+    "reading": "יום",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 90554
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רביע[י",
+  "wordReadingId": 90555
+ }
+}

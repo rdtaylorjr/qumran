@@ -1,0 +1,113 @@
+{
+ "382819": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א[ל",
+  "wordReadingId": 382819
+ },
+ "382822": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "[א]ל",
+  "wordReadingId": 382822
+ },
+ "382847": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לבכה֯[",
+  "wordReadingId": 382847
+ },
+ "382911": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8",
+    "location2": "1",
+    "orderedId": 10820008001008,
+    "priorityOfReading": 0,
+    "reading": "המלך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 382912
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8",
+    "location2": "1",
+    "orderedId": 10820008001009,
+    "priorityOfReading": 0,
+    "reading": "אלף",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 382913
+   }
+  ],
+  "reading": "אוי]ב֯י",
+  "wordReadingId": 382911
+ },
+ "382912": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8",
+    "location2": "1",
+    "orderedId": 10820008001007,
+    "priorityOfReading": 0,
+    "reading": "אוי]ב֯י",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 382911
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "המלך",
+  "wordReadingId": 382912
+ },
+ "382913": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8",
+    "location2": "1",
+    "orderedId": 10820008001007,
+    "priorityOfReading": 0,
+    "reading": "אוי]ב֯י",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 382911
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אלף",
+  "wordReadingId": 382913
+ },
+ "382919": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מיש^ו^ר",
+  "wordReadingId": 382919
+ },
+ "383137": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כפו",
+  "wordReadingId": 383137
+ },
+ "383142": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וא]ח֯לצכה",
+  "wordReadingId": 383142
+ },
+ "383222": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יכזב֯[ו",
+  "wordReadingId": 383222
+ }
+}

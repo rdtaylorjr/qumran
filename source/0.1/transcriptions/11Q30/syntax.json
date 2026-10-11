@@ -1,0 +1,52 @@
+{
+ "200739": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]גבורה",
+  "wordReadingId": 200739
+ },
+ "200797": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11",
+    "location2": "1",
+    "orderedId": 6680011001003,
+    "priorityOfReading": 0,
+    "reading": "יצוע[י",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 200798
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ועל",
+  "wordReadingId": 200797
+ },
+ "200798": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11",
+    "location2": "1",
+    "orderedId": 6680011001002,
+    "priorityOfReading": 0,
+    "reading": "ועל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 200797
+   }
+  ],
+  "reading": "יצוע[י",
+  "wordReadingId": 200798
+ },
+ "200823": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]למספר",
+  "wordReadingId": 200823
+ }
+}

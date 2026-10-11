@@ -1,0 +1,85 @@
+{
+ "31128": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מה",
+    "lemmaId": 393,
+    "parsingPriority": 0,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Fragepronomen, Person",
+    "wordClassAbbr": "pron.interr.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מה",
+    "lemmaId": 393,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "pron.interr."
+   }
+  ]
+ },
+ "31129": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "אוה",
+    "lemmaId": 594,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "1. Person",
+    "personAbbr": "1.",
+    "rootDesignation": "I",
+    "shortDefinition": "wünschen, begehren",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "2. Person",
+    "suffixPersonAbbr": "2.",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אוה",
+    "lemmaId": 594,
+    "rootDesignation": "I",
+    "shortDefinition": "wünschen, begehren",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ }
+}

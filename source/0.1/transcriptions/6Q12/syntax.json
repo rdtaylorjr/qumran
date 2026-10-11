@@ -1,0 +1,141 @@
+{
+ "180796": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 6260001001005,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180797
+   }
+  ],
+  "reading": "יהיה",
+  "wordReadingId": 180796
+ },
+ "180797": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 6260001001004,
+    "priorityOfReading": 0,
+    "reading": "יהיה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 180796
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 180797
+ },
+ "180805": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]יושב",
+  "wordReadingId": 180805
+ },
+ "180806": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6260001003005,
+    "priorityOfReading": 0,
+    "reading": "היובלים[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 180807
+   }
+  ],
+  "reading": "ואחר",
+  "wordReadingId": 180806
+ },
+ "180807": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6260001003004,
+    "priorityOfReading": 0,
+    "reading": "ואחר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 180806
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "היובלים[",
+  "wordReadingId": 180807
+ },
+ "180810": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 6260001004003,
+    "priorityOfReading": 0,
+    "reading": "בגויים",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 180811
+   }
+  ],
+  "reading": "להאבי]ד֯ם",
+  "wordReadingId": 180810
+ },
+ "180811": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 6260001004002,
+    "priorityOfReading": 0,
+    "reading": "להאבי]ד֯ם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 180810
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בגויים",
+  "wordReadingId": 180811
+ },
+ "180812": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 6260001004005,
+    "priorityOfReading": 0,
+    "reading": "בארצות",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 180813
+   }
+  ],
+  "reading": "ולזרות[ם",
+  "wordReadingId": 180812
+ }
+}

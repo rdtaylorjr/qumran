@@ -1,0 +1,113 @@
+{
+ "359344": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ל]ב֯ח֯ריכ",
+  "wordReadingId": 359344
+ },
+ "359351": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ב]חר",
+  "wordReadingId": 359351
+ },
+ "359352": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מן",
+  "wordReadingId": 359352
+ },
+ "359354": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מצתי֯[",
+  "wordReadingId": 359354
+ },
+ "359364": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 10090001004005,
+    "priorityOfReading": 0,
+    "reading": "תכנכם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 359365
+   }
+  ],
+  "reading": "ידו",
+  "wordReadingId": 359364
+ },
+ "359365": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 10090001004004,
+    "priorityOfReading": 0,
+    "reading": "ידו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 359364
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "תכנכם",
+  "wordReadingId": 359365
+ },
+ "359368": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בימ",
+  "wordReadingId": 359368
+ },
+ "359369": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יד",
+  "wordReadingId": 359369
+ },
+ "359370": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בנהר^ת^",
+  "wordReadingId": 359370
+ },
+ "359374": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אואב",
+  "wordReadingId": 359374
+ },
+ "359377": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לענות^ו^",
+  "wordReadingId": 359377
+ },
+ "359380": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 10090001007002,
+    "priorityOfReading": 0,
+    "reading": "א]ב֯י",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 359379
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 359380
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "179441": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6120001003003,
+    "priorityOfReading": 0,
+    "reading": "נ֯צח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179442
+   }
+  ],
+  "reading": "]אררות",
+  "wordReadingId": 179441
+ },
+ "179442": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6120001003002,
+    "priorityOfReading": 0,
+    "reading": "]אררות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179441
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נ֯צח",
+  "wordReadingId": 179442
+ },
+ "179448": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ב֯עד",
+  "wordReadingId": 179448
+ },
+ "179449": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 6120001004004,
+    "priorityOfReading": 1,
+    "reading": "ובאפסיו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 396736
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שאול",
+  "wordReadingId": 179449
+ },
+ "179450": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ובאספיו",
+  "wordReadingId": 179450
+ },
+ "179451": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יש[",
+  "wordReadingId": 179451
+ },
+ "179469": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6120002002003,
+    "priorityOfReading": 0,
+    "reading": "ערשיו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179470
+   }
+  ],
+  "reading": "]זדון",
+  "wordReadingId": 179469
+ },
+ "179470": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6120002002002,
+    "priorityOfReading": 0,
+    "reading": "]זדון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179469
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ערשיו",
+  "wordReadingId": 179470
+ },
+ "179474": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]שלחניו",
+  "wordReadingId": 179474
+ },
+ "179475": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מלא֯[",
+  "wordReadingId": 179475
+ },
+ "179489": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לטרוף",
+  "wordReadingId": 179489
+ },
+ "179493": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "5",
+    "orderedId": 6120003005003,
+    "priorityOfReading": 0,
+    "reading": "אחרי֯ת֯[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179494
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]קץ",
+  "wordReadingId": 179493
+ },
+ "179494": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "5",
+    "orderedId": 6120003005002,
+    "priorityOfReading": 0,
+    "reading": "]קץ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179493
+   }
+  ],
+  "reading": "אחרי֯ת֯[",
+  "wordReadingId": 179494
+ },
+ "179501": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]חבא",
+  "wordReadingId": 179501
+ },
+ "179527": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מלאו",
+  "wordReadingId": 179527
+ }
+}

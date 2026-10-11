@@ -1,0 +1,40 @@
+{
+ "173201": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 9",
+    "location2": "3",
+    "orderedId": 5640009003003,
+    "priorityOfReading": 0,
+    "reading": "בנה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 173202
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ומוש]ה",
+  "wordReadingId": 173201
+ },
+ "173202": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 9",
+    "location2": "3",
+    "orderedId": 5640009003002,
+    "priorityOfReading": 0,
+    "reading": "ומוש]ה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 173201
+   }
+  ],
+  "reading": "בנה",
+  "wordReadingId": 173202
+ }
+}

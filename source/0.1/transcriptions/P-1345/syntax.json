@@ -1,0 +1,132 @@
+{
+ "805769": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מעצת[",
+  "wordReadingId": 805769
+ },
+ "805772": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]טמנו",
+  "wordReadingId": 805772
+ },
+ "805851": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 8",
+    "location2": "1",
+    "orderedId": 7200002001003,
+    "priorityOfReading": 0,
+    "reading": "נעשה/ו(?)[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 805852
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מל]אכה",
+  "wordReadingId": 805851
+ },
+ "805852": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 8",
+    "location2": "1",
+    "orderedId": 7200002001002,
+    "priorityOfReading": 0,
+    "reading": "מל]אכה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 805851
+   }
+  ],
+  "reading": "נעשה/ו(?)[",
+  "wordReadingId": 805852
+ },
+ "805812": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יתבע/ש[",
+  "wordReadingId": 805812
+ },
+ "805816": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כול",
+  "wordReadingId": 805816
+ },
+ "805832": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ביניה[",
+  "wordReadingId": 805832
+ },
+ "805835": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ש]מו/יע[",
+  "wordReadingId": 805835
+ },
+ "805838": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]דין",
+  "wordReadingId": 805838
+ },
+ "200116": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "והעכ]בר",
+  "wordReadingId": 200116
+ },
+ "805569": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לנגב[",
+  "wordReadingId": 805569
+ },
+ "805507": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg.-7",
+    "location2": "1",
+    "orderedId": 7200018001003,
+    "priorityOfReading": 0,
+    "reading": "יהו[ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 805508
+   }
+  ],
+  "reading": "]לפני",
+  "wordReadingId": 805507
+ },
+ "805508": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg.-7",
+    "location2": "1",
+    "orderedId": 7200018001002,
+    "priorityOfReading": 0,
+    "reading": "]לפני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 805507
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהו[ה",
+  "wordReadingId": 805508
+ }
+}

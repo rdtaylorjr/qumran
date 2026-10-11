@@ -1,0 +1,75 @@
+{
+ "85661": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אף",
+    "lemmaId": 292,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "auch, sogar",
+    "wordClass": "adverbiale Partikel",
+    "wordClassAbbr": "part.adv.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אף",
+    "lemmaId": 292,
+    "rootDesignation": "I",
+    "shortDefinition": "auch, sogar",
+    "wordClassAbbreviation": "part.adv."
+   }
+  ]
+ },
+ "85662": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "מטעת",
+    "lemmaId": 2035,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Pflanzung",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מטעת",
+    "lemmaId": 2035,
+    "shortDefinition": "Pflanzung",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

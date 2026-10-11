@@ -1,0 +1,84 @@
+{
+ "803245": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הרה",
+  "wordReadingId": 803245
+ },
+ "808320": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ופרוטין",
+  "wordReadingId": 808320
+ },
+ "808322": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 8360001004001,
+    "priorityOfReading": 0,
+    "reading": "לטהרת",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 808321
+   }
+  ],
+  "reading": "כשרי[ן]",
+  "wordReadingId": 808322
+ },
+ "808321": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 8360001003002,
+    "priorityOfReading": 0,
+    "reading": "כשרי[ן]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 808322
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 8360001004002,
+    "priorityOfReading": 0,
+    "reading": "הקדש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 808323
+   }
+  ],
+  "reading": "לטהרת",
+  "wordReadingId": 808321
+ },
+ "808323": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 8360001004001,
+    "priorityOfReading": 0,
+    "reading": "לטהרת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 808321
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הקדש",
+  "wordReadingId": 808323
+ }
+}

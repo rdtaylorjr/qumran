@@ -1,0 +1,64 @@
+{
+ "370545": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בחוז֯[ק",
+  "wordReadingId": 370545
+ },
+ "370575": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לאבותיך",
+  "wordReadingId": 370575
+ },
+ "370622": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 V",
+    "location2": "13",
+    "orderedId": 10490002004001,
+    "priorityOfReading": 0,
+    "reading": "צרי֯ם֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 370623
+   }
+  ],
+  "reading": "מא››רץ",
+  "wordReadingId": 370622
+ },
+ "370623": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 V",
+    "location2": "12",
+    "orderedId": 10490002003006,
+    "priorityOfReading": 0,
+    "reading": "מא››רץ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 370622
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "צרי֯ם֯",
+  "wordReadingId": 370623
+ },
+ "370628": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יך",
+  "wordReadingId": 370628
+ },
+ "370640": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הציאך",
+  "wordReadingId": 370640
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "145398": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כרתה[",
+  "wordReadingId": 145398
+ },
+ "145429": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הגיד[",
+  "wordReadingId": 145429
+ },
+ "145432": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯ידעים[",
+  "wordReadingId": 145432
+ },
+ "145443": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "2",
+    "orderedId": 5160004002004,
+    "priorityOfReading": 0,
+    "reading": "יר֯או֯",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 145444
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בל",
+  "wordReadingId": 145443
+ },
+ "145444": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "2",
+    "orderedId": 5160004002003,
+    "priorityOfReading": 0,
+    "reading": "בל",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 145443
+   }
+  ],
+  "reading": "יר֯או֯",
+  "wordReadingId": 145444
+ },
+ "145459": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "דרכים֯[",
+  "wordReadingId": 145459
+ },
+ "145462": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]חנו֯ן",
+  "wordReadingId": 145462
+ },
+ "145463": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אב֯[",
+  "wordReadingId": 145463
+ },
+ "145470": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מאן",
+  "wordReadingId": 145470
+ },
+ "145485": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אם",
+  "wordReadingId": 145485
+ },
+ "145496": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]בחו֯צ֯ו֯ת֯[",
+  "wordReadingId": 145496
+ },
+ "145499": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מועד",
+  "wordReadingId": 145499
+ },
+ "145500": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "למו֯ע֯ד֯[",
+  "wordReadingId": 145500
+ },
+ "145542": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 10",
+    "location2": "4",
+    "orderedId": 5160010004003,
+    "priorityOfReading": 0,
+    "reading": "כו֯ל֯[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145543
+   }
+  ],
+  "reading": "]מ֯ס֯פ֯ר֯",
+  "wordReadingId": 145542
+ },
+ "145543": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 10",
+    "location2": "4",
+    "orderedId": 5160010004002,
+    "priorityOfReading": 0,
+    "reading": "]מ֯ס֯פ֯ר֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145542
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כו֯ל֯[",
+  "wordReadingId": 145543
+ },
+ "145676": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מ֯ועד[",
+  "wordReadingId": 145676
+ },
+ "145826": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 47",
+    "location2": "1",
+    "orderedId": 5160045001003,
+    "priorityOfReading": 0,
+    "reading": "נפש֯[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 145827
+   }
+  ],
+  "reading": "]דבק",
+  "wordReadingId": 145826
+ },
+ "145827": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 47",
+    "location2": "1",
+    "orderedId": 5160045001002,
+    "priorityOfReading": 0,
+    "reading": "]דבק",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 145826
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נפש֯[",
+  "wordReadingId": 145827
+ },
+ "145842": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 48",
+    "location2": "2",
+    "orderedId": 5160046002002,
+    "priorityOfReading": 0,
+    "reading": "תבל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145841
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א־[",
+  "wordReadingId": 145842
+ }
+}

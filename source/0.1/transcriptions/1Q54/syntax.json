@@ -1,0 +1,40 @@
+{
+ "31153": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 460001002003,
+    "priorityOfReading": 0,
+    "reading": "כבודו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31154
+   }
+  ],
+  "reading": "ב]רית",
+  "wordReadingId": 31153
+ },
+ "31154": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 460001002002,
+    "priorityOfReading": 0,
+    "reading": "ב]רית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31153
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כבודו",
+  "wordReadingId": 31154
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "82004": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 2590001004003,
+    "priorityOfReading": 0,
+    "reading": "יום[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 82005
+   }
+  ],
+  "reading": "יהגה",
+  "wordReadingId": 82004
+ },
+ "82005": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 2590001004002,
+    "priorityOfReading": 0,
+    "reading": "יהגה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 82004
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יום[",
+  "wordReadingId": 82005
+ },
+ "82008": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2590001005003,
+    "priorityOfReading": 0,
+    "reading": "צור֯[רים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 82009
+   }
+  ],
+  "reading": "]מ֯כול",
+  "wordReadingId": 82008
+ },
+ "82009": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2590001005002,
+    "priorityOfReading": 0,
+    "reading": "]מ֯כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 82008
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "צור֯[רים",
+  "wordReadingId": 82009
+ }
+}

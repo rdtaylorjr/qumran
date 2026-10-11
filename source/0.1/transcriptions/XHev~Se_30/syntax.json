@@ -1,0 +1,486 @@
+{
+ "240813": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240814
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001004,
+    "priorityOfReading": 0,
+    "reading": "נסי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240816
+   }
+  ],
+  "reading": "לשמעון",
+  "wordReadingId": 240813
+ },
+ "240814": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001001,
+    "priorityOfReading": 0,
+    "reading": "לשמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240813
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001003,
+    "priorityOfReading": 0,
+    "reading": "כוסבא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240815
+   }
+  ],
+  "reading": "בן",
+  "wordReadingId": 240814
+ },
+ "240815": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240814
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כוסבא",
+  "wordReadingId": 240815
+ },
+ "240816": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001001,
+    "priorityOfReading": 0,
+    "reading": "לשמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240813
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002001,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240817
+   }
+  ],
+  "reading": "נסי",
+  "wordReadingId": 240816
+ },
+ "240817": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "1",
+    "orderedId": 8120001001004,
+    "priorityOfReading": 0,
+    "reading": "נסי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240816
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 240817
+ },
+ "240818": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002003,
+    "priorityOfReading": 0,
+    "reading": "שמעון",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 240819
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מן",
+  "wordReadingId": 240818
+ },
+ "240819": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002002,
+    "priorityOfReading": 0,
+    "reading": "מן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 240818
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002004,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240820
+   }
+  ],
+  "reading": "שמעון",
+  "wordReadingId": 240819
+ },
+ "240820": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002003,
+    "priorityOfReading": 0,
+    "reading": "שמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240819
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002005,
+    "priorityOfReading": 0,
+    "reading": "מתניס֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240821
+   }
+  ],
+  "reading": "בן",
+  "wordReadingId": 240820
+ },
+ "240821": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "2",
+    "orderedId": 8120001002004,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240820
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מתניס֯",
+  "wordReadingId": 240821
+ },
+ "240822": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אבה",
+  "wordReadingId": 240822
+ },
+ "240823": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ח֯ב֯י֯ב֯י֯",
+  "wordReadingId": 240823
+ },
+ "240824": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "שלם",
+  "wordReadingId": 240824
+ },
+ "240825": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "4",
+    "orderedId": 8120001004002,
+    "priorityOfReading": 0,
+    "reading": "יהיה",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 240826
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ידוע",
+  "wordReadingId": 240825
+ },
+ "240826": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "4",
+    "orderedId": 8120001004001,
+    "priorityOfReading": 0,
+    "reading": "ידוע",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 240825
+   }
+  ],
+  "reading": "יהיה",
+  "wordReadingId": 240826
+ },
+ "240827": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לך",
+  "wordReadingId": 240827
+ },
+ "240828": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ש֯־־־־",
+  "wordReadingId": 240828
+ },
+ "240836": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "קצת",
+  "wordReadingId": 240836
+ },
+ "240842": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "7",
+    "orderedId": 8120001007002,
+    "priorityOfReading": 0,
+    "reading": "אחי֯נ֯[ו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 240843
+   }
+  ],
+  "reading": "שנ֯ט֯רפ֯ו",
+  "wordReadingId": 240842
+ },
+ "240843": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "7",
+    "orderedId": 8120001007001,
+    "priorityOfReading": 0,
+    "reading": "שנ֯ט֯רפ֯ו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 240842
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אחי֯נ֯[ו",
+  "wordReadingId": 240843
+ },
+ "240848": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולא",
+  "wordReadingId": 240848
+ },
+ "240849": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "8",
+    "orderedId": 8120001008003,
+    "priorityOfReading": 0,
+    "reading": "מ֯ן",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 240850
+   }
+  ],
+  "reading": "היינו",
+  "wordReadingId": 240849
+ },
+ "240850": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "8",
+    "orderedId": 8120001008002,
+    "priorityOfReading": 0,
+    "reading": "היינו",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 240849
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ֯ן",
+  "wordReadingId": 240850
+ },
+ "240851": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בין",
+  "wordReadingId": 240851
+ },
+ "240852": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "להם",
+  "wordReadingId": 240852
+ },
+ "240854": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "9",
+    "orderedId": 8120001009002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240855
+   }
+  ],
+  "reading": "שמעון",
+  "wordReadingId": 240854
+ },
+ "240855": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "9",
+    "orderedId": 8120001009001,
+    "priorityOfReading": 0,
+    "reading": "שמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 240854
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "9",
+    "orderedId": 8120001009003,
+    "priorityOfReading": 0,
+    "reading": "מתניה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240856
+   }
+  ],
+  "reading": "בן",
+  "wordReadingId": 240855
+ },
+ "240856": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "r.",
+    "location2": "9",
+    "orderedId": 8120001009002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240855
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מתניה",
+  "wordReadingId": 240856
+ },
+ "240857": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א֯ליעז֯ר֯",
+  "wordReadingId": 240857
+ },
+ "240858": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לשמעון",
+  "wordReadingId": 240858
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "804142": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "32",
+    "location2": "rev.",
+    "orderedId": 8230001002001,
+    "priorityOfReading": 0,
+    "reading": "ירשלם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804143
+   }
+  ],
+  "reading": "לגאלת",
+  "wordReadingId": 804142
+ },
+ "804143": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "32",
+    "location2": "obv.",
+    "orderedId": 8230001001001,
+    "priorityOfReading": 0,
+    "reading": "לגאלת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804142
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "32",
+    "location2": "rev.",
+    "orderedId": 8230001002002,
+    "priorityOfReading": 0,
+    "reading": "הק",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804144
+   }
+  ],
+  "reading": "ירשלם",
+  "wordReadingId": 804143
+ },
+ "804144": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "32",
+    "location2": "rev.",
+    "orderedId": 8230001002001,
+    "priorityOfReading": 0,
+    "reading": "ירשלם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804143
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הק",
+  "wordReadingId": 804144
+ }
+}

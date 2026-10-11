@@ -1,0 +1,7090 @@
+{
+ "35899": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1010001003003,
+    "priorityOfReading": 0,
+    "reading": "דרך[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 35900
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1010001003003,
+    "priorityOfReading": 0,
+    "reading": "דרך[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35900
+   }
+  ],
+  "reading": "]ו֯בלע",
+  "wordReadingId": 35899
+ },
+ "35900": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1010001003002,
+    "priorityOfReading": 0,
+    "reading": "]ו֯בלע",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 35899
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1010001003002,
+    "priorityOfReading": 0,
+    "reading": "]ו֯בלע",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35899
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דרך[",
+  "wordReadingId": 35900
+ },
+ "35904": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004004,
+    "priorityOfReading": 0,
+    "reading": "עלי֯ו֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35905
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004004,
+    "priorityOfReading": 0,
+    "reading": "עלי֯ו֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35905
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004005,
+    "priorityOfReading": 0,
+    "reading": "ב֯י֯ר֯[מיה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35906
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004005,
+    "priorityOfReading": 0,
+    "reading": "ב֯י֯ר֯[מיה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35906
+   }
+  ],
+  "reading": "כ]ת֯וב",
+  "wordReadingId": 35904
+ },
+ "35905": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004003,
+    "priorityOfReading": 0,
+    "reading": "כ]ת֯וב",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35904
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004003,
+    "priorityOfReading": 0,
+    "reading": "כ]ת֯וב",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35904
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עלי֯ו֯",
+  "wordReadingId": 35905
+ },
+ "35906": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004003,
+    "priorityOfReading": 0,
+    "reading": "כ]ת֯וב",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35904
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1010001004003,
+    "priorityOfReading": 0,
+    "reading": "כ]ת֯וב",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35904
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ב֯י֯ר֯[מיה",
+  "wordReadingId": 35906
+ },
+ "35911": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001005,
+    "priorityOfReading": 0,
+    "reading": "עליה֯[ם]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35912
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001005,
+    "priorityOfReading": 0,
+    "reading": "עליה֯[ם]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35912
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001006,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35913
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001007,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 35914
+   }
+  ],
+  "reading": "מע]לה",
+  "wordReadingId": 35911
+ },
+ "35912": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001004,
+    "priorityOfReading": 0,
+    "reading": "מע]לה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35911
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001004,
+    "priorityOfReading": 0,
+    "reading": "מע]לה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35911
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עליה֯[ם]",
+  "wordReadingId": 35912
+ },
+ "35913": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001004,
+    "priorityOfReading": 0,
+    "reading": "מע]לה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35911
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001007,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35914
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 35913
+ },
+ "35914": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001004,
+    "priorityOfReading": 0,
+    "reading": "מע]לה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 35911
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001009,
+    "priorityOfReading": 0,
+    "reading": "ה[עצומים",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 35916
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001006,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35913
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001008,
+    "priorityOfReading": 0,
+    "reading": "הנהר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35915
+   }
+  ],
+  "reading": "מי",
+  "wordReadingId": 35914
+ },
+ "35915": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001007,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35914
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002004,
+    "priorityOfReading": 0,
+    "reading": "ועלה]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35924
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002007,
+    "priorityOfReading": 0,
+    "reading": "אפיקו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35927
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002008,
+    "priorityOfReading": 0,
+    "reading": "והלך",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35928
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002011,
+    "priorityOfReading": 0,
+    "reading": "גדו[תיו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35931
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הנהר",
+  "wordReadingId": 35915
+ },
+ "35916": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001007,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 35914
+   }
+  ],
+  "reading": "ה[עצומים",
+  "wordReadingId": 35916
+ },
+ "35925": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002004,
+    "priorityOfReading": 0,
+    "reading": "ועלה]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35924
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002007,
+    "priorityOfReading": 0,
+    "reading": "אפיקו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35927
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 35925
+ },
+ "35926": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002007,
+    "priorityOfReading": 0,
+    "reading": "אפיקו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35927
+   }
+  ],
+  "reading": "כל",
+  "wordReadingId": 35926
+ },
+ "35927": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002004,
+    "priorityOfReading": 0,
+    "reading": "ועלה]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35924
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002006,
+    "priorityOfReading": 0,
+    "reading": "כל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35926
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001008,
+    "priorityOfReading": 0,
+    "reading": "הנהר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35915
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002005,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35925
+   }
+  ],
+  "reading": "אפיקו",
+  "wordReadingId": 35927
+ },
+ "35928": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001008,
+    "priorityOfReading": 0,
+    "reading": "הנהר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35915
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002009,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35929
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002011,
+    "priorityOfReading": 0,
+    "reading": "גדו[תיו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35931
+   }
+  ],
+  "reading": "והלך",
+  "wordReadingId": 35928
+ },
+ "35929": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002008,
+    "priorityOfReading": 0,
+    "reading": "והלך",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35928
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002011,
+    "priorityOfReading": 0,
+    "reading": "גדו[תיו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35931
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 35929
+ },
+ "35930": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002011,
+    "priorityOfReading": 0,
+    "reading": "גדו[תיו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35931
+   }
+  ],
+  "reading": "כל",
+  "wordReadingId": 35930
+ },
+ "35931": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002008,
+    "priorityOfReading": 0,
+    "reading": "והלך",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 35928
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002010,
+    "priorityOfReading": 0,
+    "reading": "כל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35930
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "1",
+    "orderedId": 1010002001008,
+    "priorityOfReading": 0,
+    "reading": "הנהר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35915
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "2",
+    "orderedId": 1010002002009,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35929
+   }
+  ],
+  "reading": "גדו[תיו",
+  "wordReadingId": 35931
+ },
+ "35935": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ועב[ר]",
+  "wordReadingId": 35935
+ },
+ "35940": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מטות",
+  "wordReadingId": 35940
+ },
+ "35941": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כנפו",
+  "wordReadingId": 35941
+ },
+ "35942": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "3",
+    "orderedId": 1010002003008,
+    "priorityOfReading": 0,
+    "reading": "רחב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35943
+   }
+  ],
+  "reading": "מלא",
+  "wordReadingId": 35942
+ },
+ "35943": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "3",
+    "orderedId": 1010002003007,
+    "priorityOfReading": 0,
+    "reading": "מלא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35942
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "3",
+    "orderedId": 1010002003009,
+    "priorityOfReading": 0,
+    "reading": "ארצכ֯[ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35944
+   }
+  ],
+  "reading": "רחב",
+  "wordReadingId": 35943
+ },
+ "35944": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2-3",
+    "location2": "3",
+    "orderedId": 1010002003008,
+    "priorityOfReading": 0,
+    "reading": "רחב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 35943
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ארצכ֯[ה",
+  "wordReadingId": 35944
+ },
+ "35955": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כ]ת֯וב",
+  "wordReadingId": 35955
+ },
+ "35963": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כתוב",
+  "wordReadingId": 35963
+ },
+ "35967": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י]ש֯רא֯ל֯",
+  "wordReadingId": 35967
+ },
+ "35974": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "5",
+    "orderedId": 1010003005004,
+    "priorityOfReading": 0,
+    "reading": "אחד",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 35975
+   }
+  ],
+  "reading": "ב֯י֯ום",
+  "wordReadingId": 35974
+ },
+ "35975": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "5",
+    "orderedId": 1010003005003,
+    "priorityOfReading": 0,
+    "reading": "ב֯י֯ום",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 35974
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אחד",
+  "wordReadingId": 35975
+ },
+ "35976": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "6",
+    "orderedId": 1010003006003,
+    "priorityOfReading": 0,
+    "reading": "הזנב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35979
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "זקן",
+  "wordReadingId": 35976
+ },
+ "35978": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "6",
+    "orderedId": 1010003006003,
+    "priorityOfReading": 0,
+    "reading": "הזנב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35979
+   }
+  ],
+  "reading": "]הואה",
+  "wordReadingId": 35978
+ },
+ "35979": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "6",
+    "orderedId": 1010003006002,
+    "priorityOfReading": 0,
+    "reading": "]הואה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35978
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "5",
+    "orderedId": 1010003005005,
+    "priorityOfReading": 0,
+    "reading": "זקן",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35976
+   }
+  ],
+  "reading": "הזנב",
+  "wordReadingId": 35979
+ },
+ "35981": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "7",
+    "orderedId": 1010003007003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 35982
+   }
+  ],
+  "reading": "מב]לעים",
+  "wordReadingId": 35981
+ },
+ "35985": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "8",
+    "orderedId": 1010003008004,
+    "priorityOfReading": 0,
+    "reading": "ירחם֯",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 35987
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אל]מ֯נותו",
+  "wordReadingId": 35985
+ },
+ "35986": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "8",
+    "orderedId": 1010003008004,
+    "priorityOfReading": 0,
+    "reading": "ירחם֯",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 35987
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לוא",
+  "wordReadingId": 35986
+ },
+ "35987": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "8",
+    "orderedId": 1010003008002,
+    "priorityOfReading": 0,
+    "reading": "אל]מ֯נותו",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 35985
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "8",
+    "orderedId": 1010003008003,
+    "priorityOfReading": 0,
+    "reading": "לוא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 35986
+   }
+  ],
+  "reading": "ירחם֯",
+  "wordReadingId": 35987
+ },
+ "35994": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נפש[",
+  "wordReadingId": 35994
+ },
+ "36000": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "13",
+    "orderedId": 1010003013007,
+    "priorityOfReading": 0,
+    "reading": "ת]אכל",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36002
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שמיר",
+  "wordReadingId": 36000
+ },
+ "36002": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "13",
+    "orderedId": 1010003013003,
+    "priorityOfReading": 0,
+    "reading": "כאש",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35998
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "13",
+    "orderedId": 1010003013005,
+    "priorityOfReading": 0,
+    "reading": "שמיר",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36000
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "13",
+    "orderedId": 1010003013006,
+    "priorityOfReading": 0,
+    "reading": "[ושית",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36001
+   }
+  ],
+  "reading": "ת]אכל",
+  "wordReadingId": 36002
+ },
+ "36003": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "13",
+    "orderedId": 1010003013004,
+    "priorityOfReading": 0,
+    "reading": "רשע]ה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 35999
+   }
+  ],
+  "reading": "ותצית",
+  "wordReadingId": 36003
+ },
+ "36015": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "15",
+    "orderedId": 1010003015004,
+    "priorityOfReading": 0,
+    "reading": "אחי֯[ו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36016
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 36015
+ },
+ "396763": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "17",
+    "orderedId": 1010003017003,
+    "priorityOfReading": 0,
+    "reading": "א֯פרים",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36023
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א]ת֯",
+  "wordReadingId": 396763
+ },
+ "36023": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "17",
+    "orderedId": 1010003017002,
+    "priorityOfReading": 0,
+    "reading": "א]ת֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 396763
+   }
+  ],
+  "reading": "א֯פרים",
+  "wordReadingId": 36023
+ },
+ "36024": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואפרי[ם]",
+  "wordReadingId": 36024
+ },
+ "36025": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "18",
+    "orderedId": 1010003018001,
+    "priorityOfReading": 0,
+    "reading": "[מנש]ה֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36026
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 36025
+ },
+ "36027": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יחדיו[",
+  "wordReadingId": 36027
+ },
+ "36035": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 i",
+    "location2": "18",
+    "orderedId": 1010003018009,
+    "priorityOfReading": 0,
+    "reading": "שב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36034
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אפו",
+  "wordReadingId": 36035
+ },
+ "36037": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "1",
+    "orderedId": 1010004001003,
+    "priorityOfReading": 0,
+    "reading": "יבצע",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36038
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כיא",
+  "wordReadingId": 36037
+ },
+ "36038": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "1",
+    "orderedId": 1010004001002,
+    "priorityOfReading": 0,
+    "reading": "כיא",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36037
+   }
+  ],
+  "reading": "יבצע",
+  "wordReadingId": 36038
+ },
+ "36049": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "2",
+    "orderedId": 1010004002002,
+    "priorityOfReading": 0,
+    "reading": "לבב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36050
+   }
+  ],
+  "reading": "[גד]ל",
+  "wordReadingId": 36049
+ },
+ "36050": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "2",
+    "orderedId": 1010004002001,
+    "priorityOfReading": 0,
+    "reading": "[גד]ל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36049
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "2",
+    "orderedId": 1010004002003,
+    "priorityOfReading": 0,
+    "reading": "מלך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36051
+   }
+  ],
+  "reading": "לבב",
+  "wordReadingId": 36050
+ },
+ "36051": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "2",
+    "orderedId": 1010004002002,
+    "priorityOfReading": 0,
+    "reading": "לבב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36050
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "2",
+    "orderedId": 1010004002004,
+    "priorityOfReading": 0,
+    "reading": "א[שור",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36052
+   }
+  ],
+  "reading": "מלך",
+  "wordReadingId": 36051
+ },
+ "36052": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "2",
+    "orderedId": 1010004002003,
+    "priorityOfReading": 0,
+    "reading": "מלך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36051
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א[שור",
+  "wordReadingId": 36052
+ },
+ "36070": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36072
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004002,
+    "priorityOfReading": 0,
+    "reading": "הדבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36071
+   }
+  ],
+  "reading": "פשר",
+  "wordReadingId": 36070
+ },
+ "36071": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36070
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הדבר",
+  "wordReadingId": 36071
+ },
+ "36072": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004004,
+    "priorityOfReading": 0,
+    "reading": "חק֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 713366
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36070
+   }
+  ],
+  "reading": "על",
+  "wordReadingId": 36072
+ },
+ "713366": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36072
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004005,
+    "priorityOfReading": 0,
+    "reading": "בבל[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36074
+   }
+  ],
+  "reading": "חק֯",
+  "wordReadingId": 713366
+ },
+ "36074": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "4",
+    "orderedId": 1010004004004,
+    "priorityOfReading": 0,
+    "reading": "חק֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 713366
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בבל[",
+  "wordReadingId": 36074
+ },
+ "36076": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 4-7 ii",
+    "location2": "5",
+    "orderedId": 1010004005002,
+    "priorityOfReading": 0,
+    "reading": "עמים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36077
+   }
+  ],
+  "reading": "חקות",
+  "wordReadingId": 36076
+ },
+ "36077": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 4-7 ii",
+    "location2": "5",
+    "orderedId": 1010004005001,
+    "priorityOfReading": 0,
+    "reading": "חקות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36076
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עמים",
+  "wordReadingId": 36077
+ },
+ "713362": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "6",
+    "orderedId": 1010004006002,
+    "priorityOfReading": 0,
+    "reading": "רבים",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36081
+   }
+  ],
+  "reading": "י֯בגוד",
+  "wordReadingId": 713362
+ },
+ "36081": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "6",
+    "orderedId": 1010004006001,
+    "priorityOfReading": 0,
+    "reading": "י֯בגוד",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 713362
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רבים",
+  "wordReadingId": 36081
+ },
+ "36084": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 36084
+ },
+ "36094": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "8",
+    "orderedId": 1010004008002,
+    "priorityOfReading": 0,
+    "reading": "למעוט",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36095
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "פשרו",
+  "wordReadingId": 36094
+ },
+ "36095": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "8",
+    "orderedId": 1010004008001,
+    "priorityOfReading": 0,
+    "reading": "פשרו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36094
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "8",
+    "orderedId": 1010004008003,
+    "priorityOfReading": 0,
+    "reading": "האדם[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36096
+   }
+  ],
+  "reading": "למעוט",
+  "wordReadingId": 36095
+ },
+ "36096": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "8",
+    "orderedId": 1010004008002,
+    "priorityOfReading": 0,
+    "reading": "למעוט",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36095
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "האדם[",
+  "wordReadingId": 36096
+ },
+ "36100": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "10",
+    "orderedId": 1010004010002,
+    "priorityOfReading": 0,
+    "reading": "ביום",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36101
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "10",
+    "orderedId": 1010004010002,
+    "priorityOfReading": 0,
+    "reading": "ביום",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36101
+   }
+  ],
+  "reading": "והיה",
+  "wordReadingId": 36100
+ },
+ "36101": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "10",
+    "orderedId": 1010004010001,
+    "priorityOfReading": 0,
+    "reading": "והיה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36100
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "10",
+    "orderedId": 1010004010001,
+    "priorityOfReading": 0,
+    "reading": "והיה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36100
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "10",
+    "orderedId": 1010004010003,
+    "priorityOfReading": 0,
+    "reading": "ההואה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36102
+   }
+  ],
+  "reading": "ביום",
+  "wordReadingId": 36101
+ },
+ "36102": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "10",
+    "orderedId": 1010004010002,
+    "priorityOfReading": 0,
+    "reading": "ביום",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36101
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ההואה",
+  "wordReadingId": 36102
+ },
+ "36109": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "11",
+    "orderedId": 1010004011002,
+    "priorityOfReading": 0,
+    "reading": "יעקוב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36110
+   }
+  ],
+  "reading": "בית",
+  "wordReadingId": 36109
+ },
+ "36110": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "11",
+    "orderedId": 1010004011001,
+    "priorityOfReading": 0,
+    "reading": "בית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36109
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יעקוב",
+  "wordReadingId": 36110
+ },
+ "36118": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "11",
+    "orderedId": 1010004011009,
+    "priorityOfReading": 0,
+    "reading": "קדוש]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36117
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[ישר]אל",
+  "wordReadingId": 36118
+ },
+ "36119": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "באמת",
+  "wordReadingId": 36119
+ },
+ "36128": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "13",
+    "orderedId": 1010004013003,
+    "priorityOfReading": 0,
+    "reading": "יהיה",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36129
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אם",
+  "wordReadingId": 36128
+ },
+ "36137": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "14",
+    "orderedId": 1010004014003,
+    "priorityOfReading": 0,
+    "reading": "לאחרית",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36139
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "14",
+    "orderedId": 1010004014002,
+    "priorityOfReading": 0,
+    "reading": "הדבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36138
+   }
+  ],
+  "reading": "פשר",
+  "wordReadingId": 36137
+ },
+ "36138": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "14",
+    "orderedId": 1010004014001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36137
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הדבר",
+  "wordReadingId": 36138
+ },
+ "36139": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "14",
+    "orderedId": 1010004014001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36137
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "14",
+    "orderedId": 1010004014004,
+    "priorityOfReading": 0,
+    "reading": "ה֯[ימים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36140
+   }
+  ],
+  "reading": "לאחרית",
+  "wordReadingId": 36139
+ },
+ "36140": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "14",
+    "orderedId": 1010004014003,
+    "priorityOfReading": 0,
+    "reading": "לאחרית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36139
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה֯[ימים",
+  "wordReadingId": 36140
+ },
+ "36142": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "15",
+    "orderedId": 1010004015002,
+    "priorityOfReading": 0,
+    "reading": "בש֯[בי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36143
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "15",
+    "orderedId": 1010004015002,
+    "priorityOfReading": 0,
+    "reading": "בש֯[בי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36143
+   }
+  ],
+  "reading": "ילכו",
+  "wordReadingId": 36142
+ },
+ "36143": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "15",
+    "orderedId": 1010004015001,
+    "priorityOfReading": 0,
+    "reading": "ילכו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36142
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "15",
+    "orderedId": 1010004015001,
+    "priorityOfReading": 0,
+    "reading": "ילכו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36142
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בש֯[בי",
+  "wordReadingId": 36143
+ },
+ "36147": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "פשרו",
+  "wordReadingId": 36147
+ },
+ "808792": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ל֯מועט[",
+  "wordReadingId": 808792
+ },
+ "36150": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "18",
+    "orderedId": 1010004018002,
+    "priorityOfReading": 0,
+    "reading": "כתוב[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36151
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כאשר",
+  "wordReadingId": 36150
+ },
+ "36151": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "18",
+    "orderedId": 1010004018001,
+    "priorityOfReading": 0,
+    "reading": "כאשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36150
+   }
+  ],
+  "reading": "כתוב[",
+  "wordReadingId": 36151
+ },
+ "36159": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "19",
+    "orderedId": 1010004019002,
+    "priorityOfReading": 0,
+    "reading": "יהוה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36160
+   }
+  ],
+  "reading": "אדוני",
+  "wordReadingId": 36159
+ },
+ "36160": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "19",
+    "orderedId": 1010004019001,
+    "priorityOfReading": 0,
+    "reading": "אדוני",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36159
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהוה",
+  "wordReadingId": 36160
+ },
+ "36168": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021003,
+    "priorityOfReading": 0,
+    "reading": "אמר",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36170
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לכן",
+  "wordReadingId": 36168
+ },
+ "36169": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021003,
+    "priorityOfReading": 0,
+    "reading": "אמר",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36170
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כוה",
+  "wordReadingId": 36169
+ },
+ "36170": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021001,
+    "priorityOfReading": 0,
+    "reading": "לכן",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36168
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021002,
+    "priorityOfReading": 0,
+    "reading": "כוה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36169
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021004,
+    "priorityOfReading": 0,
+    "reading": "אדוני",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36171
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021005,
+    "priorityOfReading": 0,
+    "reading": "י[הוה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36172
+   }
+  ],
+  "reading": "אמר",
+  "wordReadingId": 36170
+ },
+ "36171": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021003,
+    "priorityOfReading": 0,
+    "reading": "אמר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36170
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021005,
+    "priorityOfReading": 0,
+    "reading": "י[הוה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36172
+   }
+  ],
+  "reading": "אדוני",
+  "wordReadingId": 36171
+ },
+ "36172": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021003,
+    "priorityOfReading": 0,
+    "reading": "אמר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36170
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4-7 ii",
+    "location2": "21",
+    "orderedId": 1010004021004,
+    "priorityOfReading": 0,
+    "reading": "אדוני",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36171
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "י[הוה",
+  "wordReadingId": 36172
+ },
+ "36176": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001004,
+    "priorityOfReading": 0,
+    "reading": "מל֯ך",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 713363
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001004,
+    "priorityOfReading": 1,
+    "reading": "כל֯ה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36177
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001001,
+    "priorityOfReading": 0,
+    "reading": "[פשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36174
+   }
+  ],
+  "reading": "על",
+  "wordReadingId": 36176
+ },
+ "713363": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36176
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001005,
+    "priorityOfReading": 0,
+    "reading": "בבל[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36178
+   }
+  ],
+  "reading": "מל֯ך",
+  "wordReadingId": 713363
+ },
+ "36178": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001004,
+    "priorityOfReading": 0,
+    "reading": "מל֯ך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 713363
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בבל[",
+  "wordReadingId": 36178
+ },
+ "36183": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002001,
+    "priorityOfReading": 0,
+    "reading": "[שמחו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36182
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002001,
+    "priorityOfReading": 0,
+    "reading": "[שמחו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36182
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ל]כה",
+  "wordReadingId": 36183
+ },
+ "36184": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002001,
+    "priorityOfReading": 0,
+    "reading": "[שמחו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36182
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002004,
+    "priorityOfReading": 0,
+    "reading": "לבנון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36185
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "3",
+    "orderedId": 1010005003002,
+    "priorityOfReading": 0,
+    "reading": "עלימו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36191
+   }
+  ],
+  "reading": "ארזי",
+  "wordReadingId": 36184
+ },
+ "36185": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002003,
+    "priorityOfReading": 0,
+    "reading": "ארזי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36184
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לבנון",
+  "wordReadingId": 36185
+ },
+ "36186": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002006,
+    "priorityOfReading": 0,
+    "reading": "שכבת",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36187
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002008,
+    "priorityOfReading": 0,
+    "reading": "יעלה]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36189
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002008,
+    "priorityOfReading": 0,
+    "reading": "יעלה]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36189
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מאז֯[",
+  "wordReadingId": 36186
+ },
+ "36191": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "1",
+    "orderedId": 1010005001008,
+    "priorityOfReading": 0,
+    "reading": "ברושים]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36181
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002003,
+    "priorityOfReading": 0,
+    "reading": "ארזי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36184
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002008,
+    "priorityOfReading": 0,
+    "reading": "יעלה]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36189
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "2",
+    "orderedId": 1010005002008,
+    "priorityOfReading": 0,
+    "reading": "יעלה]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36189
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עלימו",
+  "wordReadingId": 36191
+ },
+ "36192": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "3",
+    "orderedId": 1010005003006,
+    "priorityOfReading": 0,
+    "reading": "הם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36195
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הברושים",
+  "wordReadingId": 36192
+ },
+ "36193": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "3",
+    "orderedId": 1010005003006,
+    "priorityOfReading": 0,
+    "reading": "הם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36195
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "3",
+    "orderedId": 1010005003005,
+    "priorityOfReading": 0,
+    "reading": "לבנון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36194
+   }
+  ],
+  "reading": "וארז֯[י",
+  "wordReadingId": 36193
+ },
+ "807862": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]־־־",
+  "wordReadingId": 807862
+ },
+ "36206": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "5",
+    "orderedId": 1010005005001,
+    "priorityOfReading": 0,
+    "reading": "[כול]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36205
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה֯ארץ",
+  "wordReadingId": 36206
+ },
+ "36207": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "5",
+    "orderedId": 1010005005004,
+    "priorityOfReading": 0,
+    "reading": "היד",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36208
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "וזואת",
+  "wordReadingId": 36207
+ },
+ "36208": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "5",
+    "orderedId": 1010005005003,
+    "priorityOfReading": 0,
+    "reading": "וזואת",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36207
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "5",
+    "orderedId": 1010005005005,
+    "priorityOfReading": 0,
+    "reading": "[הנטויה",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 36209
+   }
+  ],
+  "reading": "היד",
+  "wordReadingId": 36208
+ },
+ "36214": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יהו]ה",
+  "wordReadingId": 36214
+ },
+ "36215": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "צבאות",
+  "wordReadingId": 36215
+ },
+ "36216": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יע֯[ץ",
+  "wordReadingId": 36216
+ },
+ "36227": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "8",
+    "orderedId": 1010005008003,
+    "priorityOfReading": 0,
+    "reading": "בספר",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36228
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "8",
+    "orderedId": 1010005008003,
+    "priorityOfReading": 0,
+    "reading": "בספר",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36228
+   }
+  ],
+  "reading": "כתו]ב֯",
+  "wordReadingId": 36227
+ },
+ "36228": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "8",
+    "orderedId": 1010005008002,
+    "priorityOfReading": 0,
+    "reading": "כתו]ב֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36227
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "8",
+    "orderedId": 1010005008002,
+    "priorityOfReading": 0,
+    "reading": "כתו]ב֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36227
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "8",
+    "orderedId": 1010005008004,
+    "priorityOfReading": 0,
+    "reading": "זכריה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36229
+   }
+  ],
+  "reading": "בספר",
+  "wordReadingId": 36228
+ },
+ "36229": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "8",
+    "orderedId": 1010005008003,
+    "priorityOfReading": 0,
+    "reading": "בספר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36228
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "זכריה",
+  "wordReadingId": 36229
+ },
+ "36237": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "11",
+    "orderedId": 1010005011003,
+    "priorityOfReading": 0,
+    "reading": "המלך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36238
+   }
+  ],
+  "reading": "מו]ת",
+  "wordReadingId": 36237
+ },
+ "36238": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "11",
+    "orderedId": 1010005011002,
+    "priorityOfReading": 0,
+    "reading": "מו]ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36237
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "11",
+    "orderedId": 1010005011004,
+    "priorityOfReading": 0,
+    "reading": "אח[ז",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36239
+   }
+  ],
+  "reading": "המלך",
+  "wordReadingId": 36238
+ },
+ "36239": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "11",
+    "orderedId": 1010005011003,
+    "priorityOfReading": 0,
+    "reading": "המלך",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36238
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אח[ז",
+  "wordReadingId": 36239
+ },
+ "36247": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 8-10",
+    "location2": "11",
+    "orderedId": 1010005011009,
+    "priorityOfReading": 0,
+    "reading": "תש]מ֯ח֯י֯",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36244
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "12",
+    "orderedId": 1010005012004,
+    "priorityOfReading": 0,
+    "reading": "נשבר",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36248
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כיא",
+  "wordReadingId": 36247
+ },
+ "36248": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "12",
+    "orderedId": 1010005012003,
+    "priorityOfReading": 0,
+    "reading": "כיא",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36247
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "12",
+    "orderedId": 1010005012005,
+    "priorityOfReading": 0,
+    "reading": "שבט",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36249
+   }
+  ],
+  "reading": "נשבר",
+  "wordReadingId": 36248
+ },
+ "36249": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "12",
+    "orderedId": 1010005012004,
+    "priorityOfReading": 0,
+    "reading": "נשבר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36248
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שבט",
+  "wordReadingId": 36249
+ },
+ "36253": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "12",
+    "orderedId": 1010005012010,
+    "priorityOfReading": 0,
+    "reading": "י[צא]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36254
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נ]חש",
+  "wordReadingId": 36253
+ },
+ "36254": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "12",
+    "orderedId": 1010005012009,
+    "priorityOfReading": 0,
+    "reading": "נ]חש",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36253
+   }
+  ],
+  "reading": "י[צא]",
+  "wordReadingId": 36254
+ },
+ "36258": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "13",
+    "orderedId": 1010005013003,
+    "priorityOfReading": 0,
+    "reading": "שרף]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36257
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ֯ע֯ופף",
+  "wordReadingId": 36258
+ },
+ "36261": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-10",
+    "location2": "14",
+    "orderedId": 1010005014002,
+    "priorityOfReading": 0,
+    "reading": "ירבצו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36263
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ו]אביו֯נים",
+  "wordReadingId": 36261
+ },
+ "36274": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עובדי",
+  "wordReadingId": 36274
+ },
+ "36281": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "1",
+    "orderedId": 1010007001002,
+    "priorityOfReading": 1,
+    "reading": "חורו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 396787
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "1",
+    "orderedId": 1010007001002,
+    "priorityOfReading": 0,
+    "reading": "חורי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36282
+   }
+  ],
+  "reading": "ואורגים֯[",
+  "wordReadingId": 36281
+ },
+ "36288": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "1",
+    "orderedId": 1010007001007,
+    "priorityOfReading": 0,
+    "reading": "עושי]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36287
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שכר",
+  "wordReadingId": 36288
+ },
+ "36289": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "1",
+    "orderedId": 1010007001007,
+    "priorityOfReading": 0,
+    "reading": "עושי]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36287
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "2",
+    "orderedId": 1010007002003,
+    "priorityOfReading": 0,
+    "reading": "נפש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36290
+   }
+  ],
+  "reading": "אגמ֯[י",
+  "wordReadingId": 36289
+ },
+ "36297": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "2",
+    "orderedId": 1010007002009,
+    "priorityOfReading": 0,
+    "reading": "יועצי]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36296
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "פרעוה",
+  "wordReadingId": 36297
+ },
+ "36298": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ע[צה",
+  "wordReadingId": 36298
+ },
+ "36306": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "3",
+    "orderedId": 1010007003008,
+    "priorityOfReading": 0,
+    "reading": "בני",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36304
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "4",
+    "orderedId": 1010007004002,
+    "priorityOfReading": 0,
+    "reading": "בני",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36307
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אני",
+  "wordReadingId": 36306
+ },
+ "36307": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "4",
+    "orderedId": 1010007004001,
+    "priorityOfReading": 0,
+    "reading": "אני",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36306
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "4",
+    "orderedId": 1010007004001,
+    "priorityOfReading": 1,
+    "reading": "אנו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 396710
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "4",
+    "orderedId": 1010007004003,
+    "priorityOfReading": 0,
+    "reading": "מ[לכי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36308
+   }
+  ],
+  "reading": "בני",
+  "wordReadingId": 36307
+ },
+ "36308": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 11 ii",
+    "location2": "4",
+    "orderedId": 1010007004002,
+    "priorityOfReading": 0,
+    "reading": "בני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36307
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ[לכי",
+  "wordReadingId": 36308
+ },
+ "36331": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 12",
+    "location2": "4",
+    "orderedId": 1010008004003,
+    "priorityOfReading": 0,
+    "reading": "יותר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36332
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ויתר",
+  "wordReadingId": 36331
+ },
+ "36332": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 12",
+    "location2": "4",
+    "orderedId": 1010008004002,
+    "priorityOfReading": 0,
+    "reading": "ויתר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36331
+   }
+  ],
+  "reading": "יותר",
+  "wordReadingId": 36332
+ },
+ "36336": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 12",
+    "location2": "5",
+    "orderedId": 1010008005003,
+    "priorityOfReading": 0,
+    "reading": "אש[",
+    "syntacticCategory": "Relativum",
+    "wordReadingId": 36337
+   }
+  ],
+  "reading": "]ה֯אבן",
+  "wordReadingId": 36336
+ },
+ "36337": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 12",
+    "location2": "5",
+    "orderedId": 1010008005002,
+    "priorityOfReading": 0,
+    "reading": "]ה֯אבן",
+    "syntacticCategory": "Relativum",
+    "wordReadingId": 36336
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אש[",
+  "wordReadingId": 36337
+ },
+ "36340": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כ]והנים",
+  "wordReadingId": 36340
+ },
+ "36372": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "3",
+    "orderedId": 1010009003003,
+    "priorityOfReading": 0,
+    "reading": "הימים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36373
+   }
+  ],
+  "reading": "לאחר]ית",
+  "wordReadingId": 36372
+ },
+ "36373": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "3",
+    "orderedId": 1010009003002,
+    "priorityOfReading": 0,
+    "reading": "לאחר]ית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36372
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הימים",
+  "wordReadingId": 36373
+ },
+ "36377": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 1010009004004,
+    "priorityOfReading": 0,
+    "reading": "יבק[שו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36379
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 1010009004004,
+    "priorityOfReading": 0,
+    "reading": "יבק[שו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36379
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 1010009004003,
+    "priorityOfReading": 0,
+    "reading": "ה֯[הו]א֯ה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36378
+   }
+  ],
+  "reading": "]ב֯יו֯ם֯",
+  "wordReadingId": 36377
+ },
+ "36378": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 1010009004002,
+    "priorityOfReading": 0,
+    "reading": "]ב֯יו֯ם֯",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36377
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה֯[הו]א֯ה",
+  "wordReadingId": 36378
+ },
+ "36379": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 1010009004002,
+    "priorityOfReading": 0,
+    "reading": "]ב֯יו֯ם֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36377
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 1010009004002,
+    "priorityOfReading": 0,
+    "reading": "]ב֯יו֯ם֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36377
+   }
+  ],
+  "reading": "יבק[שו",
+  "wordReadingId": 36379
+ },
+ "36390": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 14",
+    "location2": "2",
+    "orderedId": 1010010002003,
+    "priorityOfReading": 0,
+    "reading": "הימי[ם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36391
+   }
+  ],
+  "reading": "אח]ר֯ית",
+  "wordReadingId": 36390
+ },
+ "36391": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 14",
+    "location2": "2",
+    "orderedId": 1010010002002,
+    "priorityOfReading": 0,
+    "reading": "אח]ר֯ית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36390
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הימי[ם",
+  "wordReadingId": 36391
+ },
+ "36395": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אב־־־[",
+  "wordReadingId": 36395
+ },
+ "36400": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לוא",
+  "wordReadingId": 36400
+ },
+ "807790": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כפור[",
+  "wordReadingId": 807790
+ },
+ "36409": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אתרי־[",
+  "wordReadingId": 36409
+ },
+ "36412": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 14",
+    "location2": "7",
+    "orderedId": 1010010007003,
+    "priorityOfReading": 0,
+    "reading": "נפשו[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36413
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]את",
+  "wordReadingId": 36412
+ },
+ "36413": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 14",
+    "location2": "7",
+    "orderedId": 1010010007002,
+    "priorityOfReading": 0,
+    "reading": "]את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36412
+   }
+  ],
+  "reading": "נפשו[",
+  "wordReadingId": 36413
+ },
+ "36430": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001005,
+    "priorityOfReading": 0,
+    "reading": "ו֯י֯ע֯צ֯ם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36433
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "י֯ה֯ו֯ה֯",
+  "wordReadingId": 36430
+ },
+ "36432": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001003,
+    "priorityOfReading": 0,
+    "reading": "[רוח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36431
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ת]ר֯דמה",
+  "wordReadingId": 36432
+ },
+ "36433": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001002,
+    "priorityOfReading": 0,
+    "reading": "י֯ה֯ו֯ה֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36430
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001006,
+    "priorityOfReading": 0,
+    "reading": "א֯ת֯[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36434
+   }
+  ],
+  "reading": "ו֯י֯ע֯צ֯ם",
+  "wordReadingId": 36433
+ },
+ "36434": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001005,
+    "priorityOfReading": 0,
+    "reading": "ו֯י֯ע֯צ֯ם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36433
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001007,
+    "priorityOfReading": 0,
+    "reading": "עיניכמה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36435
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א֯ת֯[",
+  "wordReadingId": 36434
+ },
+ "36439": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002003,
+    "priorityOfReading": 0,
+    "reading": "כסה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36441
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "1",
+    "orderedId": 1010011001010,
+    "priorityOfReading": 0,
+    "reading": "ואת]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36438
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002002,
+    "priorityOfReading": 0,
+    "reading": "הח֯[זים]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36440
+   }
+  ],
+  "reading": "[ר]אשיכמה",
+  "wordReadingId": 36439
+ },
+ "36440": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002001,
+    "priorityOfReading": 0,
+    "reading": "[ר]אשיכמה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36439
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002003,
+    "priorityOfReading": 0,
+    "reading": "כסה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36441
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הח֯[זים]",
+  "wordReadingId": 36440
+ },
+ "36441": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002001,
+    "priorityOfReading": 0,
+    "reading": "[ר]אשיכמה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36439
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002002,
+    "priorityOfReading": 0,
+    "reading": "הח֯[זים]",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36440
+   }
+  ],
+  "reading": "כסה",
+  "wordReadingId": 36441
+ },
+ "36442": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002005,
+    "priorityOfReading": 0,
+    "reading": "לכמה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36443
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002006,
+    "priorityOfReading": 0,
+    "reading": "ח֯[זות",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36444
+   }
+  ],
+  "reading": "ותהי",
+  "wordReadingId": 36442
+ },
+ "36443": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002004,
+    "priorityOfReading": 0,
+    "reading": "ותהי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36442
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לכמה",
+  "wordReadingId": 36443
+ },
+ "36444": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "2",
+    "orderedId": 1010011002004,
+    "priorityOfReading": 0,
+    "reading": "ותהי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36442
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ח֯[זות",
+  "wordReadingId": 36444
+ },
+ "36448": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "[הח]תום",
+  "wordReadingId": 36448
+ },
+ "36452": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "3",
+    "orderedId": 1010011003006,
+    "priorityOfReading": 0,
+    "reading": "יודע",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36453
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 36452
+ },
+ "36453": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "3",
+    "orderedId": 1010011003005,
+    "priorityOfReading": 0,
+    "reading": "אל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36452
+   }
+  ],
+  "reading": "יודע",
+  "wordReadingId": 36453
+ },
+ "36454": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ספר",
+  "wordReadingId": 36454
+ },
+ "36463": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "4",
+    "orderedId": 1010011004006,
+    "priorityOfReading": 0,
+    "reading": "הוא֯[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36464
+   }
+  ],
+  "reading": "ח֯תו֯ם֯",
+  "wordReadingId": 36463
+ },
+ "36464": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 15-16",
+    "location2": "4",
+    "orderedId": 1010011004005,
+    "priorityOfReading": 0,
+    "reading": "ח֯תו֯ם֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36463
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הוא֯[",
+  "wordReadingId": 36464
+ },
+ "36467": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 17",
+    "location2": "1",
+    "orderedId": 1010012001003,
+    "priorityOfReading": 0,
+    "reading": "[יודענו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36468
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ומי",
+  "wordReadingId": 36467
+ },
+ "36476": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "[]מעשה[",
+  "wordReadingId": 36476
+ },
+ "36481": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "2",
+    "orderedId": 1010013002005,
+    "priorityOfReading": 0,
+    "reading": "יגילו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36485
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "2",
+    "orderedId": 1010013002002,
+    "priorityOfReading": 0,
+    "reading": "אדם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36482
+   }
+  ],
+  "reading": "[ואב]יוני",
+  "wordReadingId": 36481
+ },
+ "36482": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "2",
+    "orderedId": 1010013002001,
+    "priorityOfReading": 0,
+    "reading": "[ואב]יוני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36481
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אדם",
+  "wordReadingId": 36482
+ },
+ "36483": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "2",
+    "orderedId": 1010013002005,
+    "priorityOfReading": 0,
+    "reading": "יגילו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36485
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "2",
+    "orderedId": 1010013002004,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36484
+   }
+  ],
+  "reading": "בקד֯[וש",
+  "wordReadingId": 36483
+ },
+ "36493": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "2",
+    "orderedId": 1010013002011,
+    "priorityOfReading": 0,
+    "reading": "ונכרתו]",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36491
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "3",
+    "orderedId": 1010013003001,
+    "priorityOfReading": 0,
+    "reading": "[כול]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36492
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "3",
+    "orderedId": 1010013003003,
+    "priorityOfReading": 0,
+    "reading": "און",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36494
+   }
+  ],
+  "reading": "שוקדי",
+  "wordReadingId": 36493
+ },
+ "36494": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "3",
+    "orderedId": 1010013003002,
+    "priorityOfReading": 0,
+    "reading": "שוקדי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36493
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "און",
+  "wordReadingId": 36494
+ },
+ "36495": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מ֯[חטיאי",
+  "wordReadingId": 36495
+ },
+ "36504": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "4",
+    "orderedId": 1010013004004,
+    "priorityOfReading": 0,
+    "reading": "א[מר",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36506
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לכן",
+  "wordReadingId": 36504
+ },
+ "36505": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "4",
+    "orderedId": 1010013004004,
+    "priorityOfReading": 0,
+    "reading": "א[מר",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36506
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כוה",
+  "wordReadingId": 36505
+ },
+ "36506": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "4",
+    "orderedId": 1010013004002,
+    "priorityOfReading": 0,
+    "reading": "לכן",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36504
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "4",
+    "orderedId": 1010013004003,
+    "priorityOfReading": 0,
+    "reading": "כוה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36505
+   }
+  ],
+  "reading": "א[מר",
+  "wordReadingId": 36506
+ },
+ "36517": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "5",
+    "orderedId": 1010013005003,
+    "priorityOfReading": 0,
+    "reading": "יעקוב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36518
+   }
+  ],
+  "reading": "יבו]ש֯",
+  "wordReadingId": 36517
+ },
+ "36518": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 18-19",
+    "location2": "5",
+    "orderedId": 1010013005002,
+    "priorityOfReading": 0,
+    "reading": "יבו]ש֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36517
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יעקוב",
+  "wordReadingId": 36518
+ },
+ "36538": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 20",
+    "location2": "2",
+    "orderedId": 1010014002004,
+    "priorityOfReading": 0,
+    "reading": "מ֯ל֯[א]כיו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36539
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 20",
+    "location2": "2",
+    "orderedId": 1010014002002,
+    "priorityOfReading": 0,
+    "reading": "פשרו]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36537
+   }
+  ],
+  "reading": "ע֯ל֯",
+  "wordReadingId": 36538
+ },
+ "36539": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 20",
+    "location2": "2",
+    "orderedId": 1010014002003,
+    "priorityOfReading": 0,
+    "reading": "ע֯ל֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36538
+   }
+  ],
+  "reading": "מ֯ל֯[א]כיו",
+  "wordReadingId": 36539
+ },
+ "36554": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "2",
+    "orderedId": 1010015002003,
+    "priorityOfReading": 0,
+    "reading": "הל֯[ב]נון",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36555
+   }
+  ],
+  "reading": "]יחש֯ב",
+  "wordReadingId": 36554
+ },
+ "36555": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "2",
+    "orderedId": 1010015002002,
+    "priorityOfReading": 0,
+    "reading": "]יחש֯ב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36554
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הל֯[ב]נון",
+  "wordReadingId": 36555
+ },
+ "36560": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לכרמל",
+  "wordReadingId": 36560
+ },
+ "36561": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ושבו",
+  "wordReadingId": 36561
+ },
+ "36566": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בחר֯ב֯",
+  "wordReadingId": 36566
+ },
+ "36575": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מ֯ורה[",
+  "wordReadingId": 36575
+ },
+ "36581": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "7",
+    "orderedId": 1010015007004,
+    "priorityOfReading": 0,
+    "reading": "וידעו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36580
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]כן",
+  "wordReadingId": 36581
+ },
+ "36582": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 21",
+    "location2": "7",
+    "orderedId": 1010015007004,
+    "priorityOfReading": 0,
+    "reading": "וידעו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36580
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "7",
+    "orderedId": 1010015007007,
+    "priorityOfReading": 0,
+    "reading": "הצואן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36583
+   }
+  ],
+  "reading": "עני֯י֯",
+  "wordReadingId": 36582
+ },
+ "36583": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "7",
+    "orderedId": 1010015007006,
+    "priorityOfReading": 0,
+    "reading": "עני֯י֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36582
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הצואן",
+  "wordReadingId": 36583
+ },
+ "36596": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "9",
+    "orderedId": 1010015009004,
+    "priorityOfReading": 0,
+    "reading": "נאם]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36595
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהוה",
+  "wordReadingId": 36596
+ },
+ "36597": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "9",
+    "orderedId": 1010015009007,
+    "priorityOfReading": 0,
+    "reading": "עצ֯[ה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36598
+   }
+  ],
+  "reading": "לעשות",
+  "wordReadingId": 36597
+ },
+ "36598": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "9",
+    "orderedId": 1010015009006,
+    "priorityOfReading": 0,
+    "reading": "לעשות",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36597
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עצ֯[ה",
+  "wordReadingId": 36598
+ },
+ "36603": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "10",
+    "orderedId": 1010015010005,
+    "priorityOfReading": 0,
+    "reading": "רוחי",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 36604
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ו]לוא",
+  "wordReadingId": 36603
+ },
+ "36604": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "10",
+    "orderedId": 1010015010004,
+    "priorityOfReading": 0,
+    "reading": "ו]לוא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 36603
+   }
+  ],
+  "reading": "רוחי",
+  "wordReadingId": 36604
+ },
+ "36605": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "למען",
+  "wordReadingId": 36605
+ },
+ "36606": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ס֯[פות",
+  "wordReadingId": 36606
+ },
+ "36611": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "11",
+    "orderedId": 1010015011005,
+    "priorityOfReading": 0,
+    "reading": "מצרים",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36612
+   }
+  ],
+  "reading": "לר]דת",
+  "wordReadingId": 36611
+ },
+ "36612": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "11",
+    "orderedId": 1010015011004,
+    "priorityOfReading": 0,
+    "reading": "לר]דת",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36611
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מצרים",
+  "wordReadingId": 36612
+ },
+ "36636": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "14",
+    "orderedId": 1010015014004,
+    "priorityOfReading": 0,
+    "reading": "יגיעו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36637
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "חנס",
+  "wordReadingId": 36636
+ },
+ "36637": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "14",
+    "orderedId": 1010015014003,
+    "priorityOfReading": 0,
+    "reading": "חנס",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36636
+   }
+  ],
+  "reading": "יגיעו",
+  "wordReadingId": 36637
+ },
+ "36695": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יש]ר֯א֯ל[",
+  "wordReadingId": 36695
+ },
+ "36698": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003003,
+    "priorityOfReading": 0,
+    "reading": "אמר",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36699
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כ[ו]ה",
+  "wordReadingId": 36698
+ },
+ "36699": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003002,
+    "priorityOfReading": 0,
+    "reading": "כ[ו]ה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36698
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003005,
+    "priorityOfReading": 0,
+    "reading": "[יה]וה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36700
+   }
+  ],
+  "reading": "אמר",
+  "wordReadingId": 36699
+ },
+ "36700": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003003,
+    "priorityOfReading": 0,
+    "reading": "אמר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36699
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003006,
+    "priorityOfReading": 0,
+    "reading": "קדוש",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36701
+   }
+  ],
+  "reading": "[יה]וה",
+  "wordReadingId": 36700
+ },
+ "36701": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003005,
+    "priorityOfReading": 0,
+    "reading": "[יה]וה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36700
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003007,
+    "priorityOfReading": 0,
+    "reading": "[י]שראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36702
+   }
+  ],
+  "reading": "קדוש",
+  "wordReadingId": 36701
+ },
+ "36702": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "3",
+    "orderedId": 1010018003006,
+    "priorityOfReading": 0,
+    "reading": "קדוש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36701
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[י]שראל",
+  "wordReadingId": 36702
+ },
+ "36703": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בשובה",
+  "wordReadingId": 36703
+ },
+ "36704": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ונ֯[חת",
+  "wordReadingId": 36704
+ },
+ "36707": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004003,
+    "priorityOfReading": 0,
+    "reading": "תהיה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36708
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004001,
+    "priorityOfReading": 0,
+    "reading": "[בהש]קט",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36706
+   }
+  ],
+  "reading": "ובטח",
+  "wordReadingId": 36707
+ },
+ "36708": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004002,
+    "priorityOfReading": 0,
+    "reading": "ובטח",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36707
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004004,
+    "priorityOfReading": 0,
+    "reading": "גבורתכמה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36709
+   }
+  ],
+  "reading": "תהיה",
+  "wordReadingId": 36708
+ },
+ "36709": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004003,
+    "priorityOfReading": 0,
+    "reading": "תהיה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36708
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גבורתכמה",
+  "wordReadingId": 36709
+ },
+ "36710": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004006,
+    "priorityOfReading": 0,
+    "reading": "אביתמה",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 36711
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ולוא",
+  "wordReadingId": 36710
+ },
+ "36711": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "4",
+    "orderedId": 1010018004005,
+    "priorityOfReading": 0,
+    "reading": "ולוא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 36710
+   }
+  ],
+  "reading": "אביתמה",
+  "wordReadingId": 36711
+ },
+ "36713": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ל֯ו֯א֯",
+  "wordReadingId": 36713
+ },
+ "36714": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005005,
+    "priorityOfReading": 0,
+    "reading": "ננוס",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36717
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כיא",
+  "wordReadingId": 36714
+ },
+ "36715": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005004,
+    "priorityOfReading": 0,
+    "reading": "סוס",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36716
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005005,
+    "priorityOfReading": 0,
+    "reading": "ננוס",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36717
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 36715
+ },
+ "36716": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36715
+   }
+  ],
+  "reading": "סוס",
+  "wordReadingId": 36716
+ },
+ "36717": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005002,
+    "priorityOfReading": 0,
+    "reading": "כיא",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36714
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36715
+   }
+  ],
+  "reading": "ננוס",
+  "wordReadingId": 36717
+ },
+ "36718": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005007,
+    "priorityOfReading": 0,
+    "reading": "כן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36719
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005008,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36720
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 36718
+ },
+ "36719": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005008,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36720
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005006,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36718
+   }
+  ],
+  "reading": "כן",
+  "wordReadingId": 36719
+ },
+ "36720": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005006,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36718
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "5",
+    "orderedId": 1010018005007,
+    "priorityOfReading": 0,
+    "reading": "כן",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36719
+   }
+  ],
+  "reading": "תנוסון",
+  "wordReadingId": 36720
+ },
+ "36728": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36736
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006004,
+    "priorityOfReading": 0,
+    "reading": "אחד",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 36729
+   }
+  ],
+  "reading": "אלף",
+  "wordReadingId": 36728
+ },
+ "36729": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006003,
+    "priorityOfReading": 0,
+    "reading": "אלף",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 36728
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אחד",
+  "wordReadingId": 36729
+ },
+ "36730": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006006,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36731
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36736
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[מפ]ני",
+  "wordReadingId": 36730
+ },
+ "36731": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36736
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006005,
+    "priorityOfReading": 0,
+    "reading": "[מפ]ני",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36730
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006007,
+    "priorityOfReading": 0,
+    "reading": "אחד",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36732
+   }
+  ],
+  "reading": "גערת",
+  "wordReadingId": 36731
+ },
+ "36732": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006006,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36731
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אחד",
+  "wordReadingId": 36732
+ },
+ "36733": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006009,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36734
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36736
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מפני",
+  "wordReadingId": 36733
+ },
+ "36734": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006009,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36734
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36736
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006008,
+    "priorityOfReading": 0,
+    "reading": "מפני",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36733
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006009,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36734
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007001,
+    "priorityOfReading": 0,
+    "reading": "חמשה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36735
+   }
+  ],
+  "reading": "גערת",
+  "wordReadingId": 36734
+ },
+ "36735": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006009,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36734
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "חמשה",
+  "wordReadingId": 36735
+ },
+ "36736": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006003,
+    "priorityOfReading": 0,
+    "reading": "אלף",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36728
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006005,
+    "priorityOfReading": 0,
+    "reading": "[מפ]ני",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36730
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006006,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36731
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006008,
+    "priorityOfReading": 0,
+    "reading": "מפני",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36733
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "6",
+    "orderedId": 1010018006009,
+    "priorityOfReading": 0,
+    "reading": "גערת",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36734
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007003,
+    "priorityOfReading": 0,
+    "reading": "ע֯ד֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36737
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007004,
+    "priorityOfReading": 0,
+    "reading": "אם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36738
+   }
+  ],
+  "reading": "תנוסון",
+  "wordReadingId": 36736
+ },
+ "36737": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36736
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007004,
+    "priorityOfReading": 0,
+    "reading": "אם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36738
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע֯ד֯",
+  "wordReadingId": 36737
+ },
+ "36738": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007002,
+    "priorityOfReading": 0,
+    "reading": "תנוסון",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36736
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007005,
+    "priorityOfReading": 0,
+    "reading": "נותרתמה",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36739
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007003,
+    "priorityOfReading": 0,
+    "reading": "ע֯ד֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36737
+   }
+  ],
+  "reading": "אם",
+  "wordReadingId": 36738
+ },
+ "36739": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007004,
+    "priorityOfReading": 0,
+    "reading": "אם",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36738
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007006,
+    "priorityOfReading": 0,
+    "reading": "כתרן",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36740
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007006,
+    "priorityOfReading": 0,
+    "reading": "כתרן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36740
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008001,
+    "priorityOfReading": 0,
+    "reading": "ו֯כ֯נ֯ס֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36744
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008001,
+    "priorityOfReading": 0,
+    "reading": "ו֯כ֯נ֯ס֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36744
+   }
+  ],
+  "reading": "נותרתמה",
+  "wordReadingId": 36739
+ },
+ "36740": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007005,
+    "priorityOfReading": 0,
+    "reading": "נותרתמה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36739
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007005,
+    "priorityOfReading": 0,
+    "reading": "נותרתמה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36739
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007007,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36741
+   }
+  ],
+  "reading": "כתרן",
+  "wordReadingId": 36740
+ },
+ "36741": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007006,
+    "priorityOfReading": 0,
+    "reading": "כתרן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36740
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007008,
+    "priorityOfReading": 0,
+    "reading": "רואש",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36742
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 36741
+ },
+ "36742": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007007,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36741
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007009,
+    "priorityOfReading": 0,
+    "reading": "הר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36743
+   }
+  ],
+  "reading": "רואש",
+  "wordReadingId": 36742
+ },
+ "36743": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007008,
+    "priorityOfReading": 0,
+    "reading": "רואש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36742
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הר",
+  "wordReadingId": 36743
+ },
+ "36744": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007005,
+    "priorityOfReading": 0,
+    "reading": "נותרתמה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36739
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "7",
+    "orderedId": 1010018007005,
+    "priorityOfReading": 0,
+    "reading": "נותרתמה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36739
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008002,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36745
+   }
+  ],
+  "reading": "ו֯כ֯נ֯ס֯",
+  "wordReadingId": 36744
+ },
+ "36745": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008001,
+    "priorityOfReading": 0,
+    "reading": "ו֯כ֯נ֯ס֯",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 36744
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008003,
+    "priorityOfReading": 0,
+    "reading": "גבעה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36746
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 36745
+ },
+ "36746": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008002,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36745
+   }
+  ],
+  "reading": "גבעה",
+  "wordReadingId": 36746
+ },
+ "36747": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008005,
+    "priorityOfReading": 0,
+    "reading": "יחכה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36748
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008005,
+    "priorityOfReading": 0,
+    "reading": "יחכה",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36748
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ולכן",
+  "wordReadingId": 36747
+ },
+ "36748": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008004,
+    "priorityOfReading": 0,
+    "reading": "ולכן",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36747
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008004,
+    "priorityOfReading": 0,
+    "reading": "ולכן",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36747
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008006,
+    "priorityOfReading": 0,
+    "reading": "א֯דוני",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36749
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008007,
+    "priorityOfReading": 0,
+    "reading": "לחנ֯[נכ]מ֯ה֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36750
+   }
+  ],
+  "reading": "יחכה",
+  "wordReadingId": 36748
+ },
+ "36749": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008005,
+    "priorityOfReading": 0,
+    "reading": "יחכה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36748
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008007,
+    "priorityOfReading": 0,
+    "reading": "לחנ֯[נכ]מ֯ה֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36750
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008009,
+    "priorityOfReading": 0,
+    "reading": "ירום",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36752
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009001,
+    "priorityOfReading": 0,
+    "reading": "לרחמכמה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36753
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א֯דוני",
+  "wordReadingId": 36749
+ },
+ "36750": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008005,
+    "priorityOfReading": 0,
+    "reading": "יחכה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36748
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "8",
+    "orderedId": 1010018008006,
+    "priorityOfReading": 0,
+    "reading": "א֯דוני",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36749
+   }
+  ],
+  "reading": "לחנ֯[נכ]מ֯ה֯",
+  "wordReadingId": 36750
+ },
+ "36754": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009003,
+    "priorityOfReading": 0,
+    "reading": "אלוהי",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36755
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כיא",
+  "wordReadingId": 36754
+ },
+ "36755": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009002,
+    "priorityOfReading": 0,
+    "reading": "כיא",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 36754
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009004,
+    "priorityOfReading": 0,
+    "reading": "משפט",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36756
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009005,
+    "priorityOfReading": 0,
+    "reading": "יהוה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36757
+   }
+  ],
+  "reading": "אלוהי",
+  "wordReadingId": 36755
+ },
+ "36756": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009003,
+    "priorityOfReading": 0,
+    "reading": "אלוהי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36755
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "משפט",
+  "wordReadingId": 36756
+ },
+ "36757": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009003,
+    "priorityOfReading": 0,
+    "reading": "אלוהי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36755
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהוה",
+  "wordReadingId": 36757
+ },
+ "36758": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009007,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36759
+   }
+  ],
+  "reading": "אשרי",
+  "wordReadingId": 36758
+ },
+ "36759": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009006,
+    "priorityOfReading": 0,
+    "reading": "אשרי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36758
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009008,
+    "priorityOfReading": 0,
+    "reading": "חוכי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36760
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כול",
+  "wordReadingId": 36759
+ },
+ "36760": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009007,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36759
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009009,
+    "priorityOfReading": 0,
+    "reading": "לו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36761
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009009,
+    "priorityOfReading": 0,
+    "reading": "לו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36761
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009009,
+    "priorityOfReading": 0,
+    "reading": "לו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36761
+   }
+  ],
+  "reading": "חוכי",
+  "wordReadingId": 36760
+ },
+ "36761": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009008,
+    "priorityOfReading": 0,
+    "reading": "חוכי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36760
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009008,
+    "priorityOfReading": 0,
+    "reading": "חוכי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36760
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "9",
+    "orderedId": 1010018009008,
+    "priorityOfReading": 0,
+    "reading": "חוכי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36760
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לו",
+  "wordReadingId": 36761
+ },
+ "36762": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010003,
+    "priorityOfReading": 0,
+    "reading": "לאחרית",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36764
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010005,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36766
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010002,
+    "priorityOfReading": 0,
+    "reading": "הדבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36763
+   }
+  ],
+  "reading": "פשר",
+  "wordReadingId": 36762
+ },
+ "36763": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36762
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הדבר",
+  "wordReadingId": 36763
+ },
+ "36764": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36762
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010004,
+    "priorityOfReading": 0,
+    "reading": "הימים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36765
+   }
+  ],
+  "reading": "לאחרית",
+  "wordReadingId": 36764
+ },
+ "36765": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010003,
+    "priorityOfReading": 0,
+    "reading": "לאחרית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36764
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הימים",
+  "wordReadingId": 36765
+ },
+ "36766": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010006,
+    "priorityOfReading": 0,
+    "reading": "עדת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36767
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010001,
+    "priorityOfReading": 0,
+    "reading": "פשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36762
+   }
+  ],
+  "reading": "על",
+  "wordReadingId": 36766
+ },
+ "36767": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010005,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36766
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010007,
+    "priorityOfReading": 0,
+    "reading": "ד[ורשי]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36768
+   }
+  ],
+  "reading": "עדת",
+  "wordReadingId": 36767
+ },
+ "36768": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010006,
+    "priorityOfReading": 0,
+    "reading": "עדת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36767
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010008,
+    "priorityOfReading": 0,
+    "reading": "החלקות",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36769
+   }
+  ],
+  "reading": "ד[ורשי]",
+  "wordReadingId": 36768
+ },
+ "36769": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "10",
+    "orderedId": 1010018010007,
+    "priorityOfReading": 0,
+    "reading": "ד[ורשי]",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36768
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "החלקות",
+  "wordReadingId": 36769
+ },
+ "36771": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "11",
+    "orderedId": 1010018011001,
+    "priorityOfReading": 0,
+    "reading": "אשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36770
+   }
+  ],
+  "reading": "בירושלים",
+  "wordReadingId": 36771
+ },
+ "36781": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לב",
+  "wordReadingId": 36781
+ },
+ "36782": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כיא",
+  "wordReadingId": 36782
+ },
+ "36783": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לדרש",
+  "wordReadingId": 36783
+ },
+ "36785": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כי",
+  "wordReadingId": 36785
+ },
+ "36786": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "14",
+    "orderedId": 1010018014003,
+    "priorityOfReading": 0,
+    "reading": "איש",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36787
+   }
+  ],
+  "reading": "חכה",
+  "wordReadingId": 36786
+ },
+ "36787": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "14",
+    "orderedId": 1010018014002,
+    "priorityOfReading": 0,
+    "reading": "חכה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36786
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "14",
+    "orderedId": 1010018014004,
+    "priorityOfReading": 0,
+    "reading": "גדוד֯[ים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36788
+   }
+  ],
+  "reading": "איש",
+  "wordReadingId": 36787
+ },
+ "36788": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "14",
+    "orderedId": 1010018014003,
+    "priorityOfReading": 0,
+    "reading": "איש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36787
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גדוד֯[ים",
+  "wordReadingId": 36788
+ },
+ "36793": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "14.1",
+    "orderedId": 1010018015002,
+    "priorityOfReading": 0,
+    "reading": "מאסו[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36794
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "התורה",
+  "wordReadingId": 36793
+ },
+ "36794": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "14.1",
+    "orderedId": 1010018015001,
+    "priorityOfReading": 0,
+    "reading": "התורה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 36793
+   }
+  ],
+  "reading": "מאסו[",
+  "wordReadingId": 36794
+ },
+ "36807": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "15",
+    "orderedId": 1010018016011,
+    "priorityOfReading": 0,
+    "reading": "לקול]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36806
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "זועקכה",
+  "wordReadingId": 36807
+ },
+ "36817": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "17",
+    "orderedId": 1010018018002,
+    "priorityOfReading": 0,
+    "reading": "יכניף",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 36818
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ולוא",
+  "wordReadingId": 36817
+ },
+ "36819": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "17",
+    "orderedId": 1010018018002,
+    "priorityOfReading": 0,
+    "reading": "יכניף",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36818
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע[וד",
+  "wordReadingId": 36819
+ },
+ "36826": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "18",
+    "orderedId": 1010018019002,
+    "priorityOfReading": 0,
+    "reading": "תש[מענה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36827
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ואוזניכה",
+  "wordReadingId": 36826
+ },
+ "36827": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "18",
+    "orderedId": 1010018019001,
+    "priorityOfReading": 0,
+    "reading": "ואוזניכה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36826
+   }
+  ],
+  "reading": "תש[מענה",
+  "wordReadingId": 36827
+ },
+ "36836": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "תימ[ינו",
+  "wordReadingId": 36836
+ },
+ "36840": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "20",
+    "orderedId": 1010018021002,
+    "priorityOfReading": 0,
+    "reading": "עון",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36841
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 36840
+ },
+ "36841": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 23 ii",
+    "location2": "20",
+    "orderedId": 1010018021001,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36840
+   }
+  ],
+  "reading": "עון",
+  "wordReadingId": 36841
+ },
+ "36851": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 24",
+    "location2": "1",
+    "orderedId": 1010020001003,
+    "priorityOfReading": 0,
+    "reading": "י֯[הוה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36852
+   }
+  ],
+  "reading": "]בהר",
+  "wordReadingId": 36851
+ },
+ "36855": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אשר",
+  "wordReadingId": 36855
+ },
+ "36856": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אמ[ר",
+  "wordReadingId": 36856
+ },
+ "36859": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "1",
+    "orderedId": 1010021001003,
+    "priorityOfReading": 0,
+    "reading": "ב֯ב֯ל֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36860
+   }
+  ],
+  "reading": "]מ֯ל֯ך֯",
+  "wordReadingId": 36859
+ },
+ "36860": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "1",
+    "orderedId": 1010021001002,
+    "priorityOfReading": 0,
+    "reading": "]מ֯ל֯ך֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36859
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ב֯ב֯ל֯",
+  "wordReadingId": 36860
+ },
+ "36864": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]בתופים",
+  "wordReadingId": 36864
+ },
+ "36865": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וב֯כ֯נ֯ו֯[רות",
+  "wordReadingId": 36865
+ },
+ "36869": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ו]ז֯רם֯",
+  "wordReadingId": 36869
+ },
+ "36870": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "3",
+    "orderedId": 1010021003005,
+    "priorityOfReading": 0,
+    "reading": "מלחמה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36871
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "3",
+    "orderedId": 1010021003006,
+    "priorityOfReading": 0,
+    "reading": "ה֯מ֯ה֯[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36872
+   }
+  ],
+  "reading": "כלי",
+  "wordReadingId": 36870
+ },
+ "36871": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "3",
+    "orderedId": 1010021003004,
+    "priorityOfReading": 0,
+    "reading": "כלי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36870
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מלחמה",
+  "wordReadingId": 36871
+ },
+ "36872": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "3",
+    "orderedId": 1010021003004,
+    "priorityOfReading": 0,
+    "reading": "כלי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 36870
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה֯מ֯ה֯[",
+  "wordReadingId": 36872
+ },
+ "36879": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "5",
+    "orderedId": 1010021005002,
+    "priorityOfReading": 0,
+    "reading": "היורדים]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 36878
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מצרים",
+  "wordReadingId": 36879
+ },
+ "36880": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "5",
+    "orderedId": 1010021005006,
+    "priorityOfReading": 0,
+    "reading": "סוסים",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36881
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "5",
+    "orderedId": 1010021005007,
+    "priorityOfReading": 0,
+    "reading": "[ישענו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36882
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 36880
+ },
+ "36881": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "5",
+    "orderedId": 1010021005005,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36880
+   }
+  ],
+  "reading": "סוסים",
+  "wordReadingId": 36881
+ },
+ "36896": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "6",
+    "orderedId": 1010021006010,
+    "priorityOfReading": 0,
+    "reading": "על]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36895
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "7",
+    "orderedId": 1010021007002,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36897
+   }
+  ],
+  "reading": "[ק]ד֯ו֯ש",
+  "wordReadingId": 36896
+ },
+ "36897": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "7",
+    "orderedId": 1010021007001,
+    "priorityOfReading": 0,
+    "reading": "[ק]ד֯ו֯ש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 36896
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 36897
+ },
+ "36898": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "7",
+    "orderedId": 1010021007004,
+    "priorityOfReading": 0,
+    "reading": "יה[וה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36899
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "7",
+    "orderedId": 1010021007006,
+    "priorityOfReading": 0,
+    "reading": "דרשו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36901
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ואת",
+  "wordReadingId": 36898
+ },
+ "36899": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 25",
+    "location2": "7",
+    "orderedId": 1010021007003,
+    "priorityOfReading": 0,
+    "reading": "ואת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 36898
+   }
+  ],
+  "reading": "יה[וה",
+  "wordReadingId": 36899
+ },
+ "36920": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נבלות[",
+  "wordReadingId": 36920
+ },
+ "36943": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מ֯קנכ֯ה",
+  "wordReadingId": 36943
+ },
+ "718768": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בכאל",
+  "wordReadingId": 718768
+ },
+ "36979": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 30",
+    "location2": "3",
+    "orderedId": 1010026003003,
+    "priorityOfReading": 0,
+    "reading": "הרשע[",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 36980
+   }
+  ],
+  "reading": "הכ]ו֯ה֯ן֯",
+  "wordReadingId": 36979
+ },
+ "36980": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 30",
+    "location2": "3",
+    "orderedId": 1010026003002,
+    "priorityOfReading": 0,
+    "reading": "הכ]ו֯ה֯ן֯",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 36979
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הרשע[",
+  "wordReadingId": 36980
+ },
+ "36983": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]הואה[",
+  "wordReadingId": 36983
+ },
+ "36987": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מ[ל]כ֯י[",
+  "wordReadingId": 36987
+ },
+ "807366": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "־֯־֯יה[",
+  "wordReadingId": 807366
+ },
+ "36993": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אדם[",
+  "wordReadingId": 36993
+ },
+ "37001": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מוריש֯[",
+  "wordReadingId": 37001
+ },
+ "37004": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א]ר֯ץ",
+  "wordReadingId": 37004
+ },
+ "37007": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מ֯חמד[",
+  "wordReadingId": 37007
+ },
+ "37064": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אם",
+  "wordReadingId": 37064
+ },
+ "37077": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אשור[",
+  "wordReadingId": 37077
+ },
+ "37151": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 47",
+    "location2": "2",
+    "orderedId": 1010043002002,
+    "priorityOfReading": 0,
+    "reading": "כא]שר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 37150
+   }
+  ],
+  "reading": "כתו[ב",
+  "wordReadingId": 37151
+ },
+ "37163": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ימים",
+  "wordReadingId": 37163
+ },
+ "37171": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לאומי[ם",
+  "wordReadingId": 37171
+ },
+ "37198": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]רעב",
+  "wordReadingId": 37198
+ },
+ "37199": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נחרו[",
+  "wordReadingId": 37199
+ },
+ "37203": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ההר",
+  "wordReadingId": 37203
+ }
+}

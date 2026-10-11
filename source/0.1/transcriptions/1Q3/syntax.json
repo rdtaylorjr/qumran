@@ -1,0 +1,132 @@
+{
+ "243353": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הידעונים",
+  "wordReadingId": 243353
+ },
+ "243401": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "היא",
+  "wordReadingId": 243401
+ },
+ "243430": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]בחקות",
+  "wordReadingId": 243430
+ },
+ "243505": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5-6",
+    "location2": "4",
+    "orderedId": 8560004004008,
+    "priorityOfReading": 0,
+    "reading": "איש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 243506
+   }
+  ],
+  "reading": "]כ֯ל",
+  "wordReadingId": 243505
+ },
+ "243506": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5-6",
+    "location2": "4",
+    "orderedId": 8560004004007,
+    "priorityOfReading": 0,
+    "reading": "]כ֯ל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 243505
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5-6",
+    "location2": "4",
+    "orderedId": 8560004004009,
+    "priorityOfReading": 0,
+    "reading": "אשר",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 243507
+   }
+  ],
+  "reading": "איש",
+  "wordReadingId": 243506
+ },
+ "243507": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5-6",
+    "location2": "4",
+    "orderedId": 8560004004008,
+    "priorityOfReading": 0,
+    "reading": "איש",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 243506
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5-6",
+    "location2": "4",
+    "orderedId": 8560004004010,
+    "priorityOfReading": 0,
+    "reading": "[יקרב]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 243508
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 243507
+ },
+ "243567": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ונפ[ש",
+  "wordReadingId": 243567
+ },
+ "243666": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אבותי֯[ו",
+  "wordReadingId": 243666
+ },
+ "243741": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אשר[",
+  "wordReadingId": 243741
+ },
+ "243759": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מ]ז֯רע",
+  "wordReadingId": 243759
+ },
+ "243760": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הא[רץ",
+  "wordReadingId": 243760
+ }
+}

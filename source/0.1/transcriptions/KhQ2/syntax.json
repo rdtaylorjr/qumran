@@ -1,0 +1,84 @@
+{
+ "205020": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7100001003002,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 205021
+   }
+  ],
+  "reading": "[יהוס]פ",
+  "wordReadingId": 205020
+ },
+ "205021": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7100001003001,
+    "priorityOfReading": 0,
+    "reading": "[יהוס]פ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 205020
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7100001003003,
+    "priorityOfReading": 0,
+    "reading": "נתן[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 205022
+   }
+  ],
+  "reading": "בנ",
+  "wordReadingId": 205021
+ },
+ "205022": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7100001003002,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 205021
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נתן[",
+  "wordReadingId": 205022
+ },
+ "205024": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "[ב]ניו",
+  "wordReadingId": 205024
+ },
+ "205025": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מעין[",
+  "wordReadingId": 205025
+ }
+}

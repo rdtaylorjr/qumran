@@ -1,0 +1,96 @@
+{
+ "179538": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 6130001002003,
+    "priorityOfReading": 0,
+    "reading": "העד[ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179539
+   }
+  ],
+  "reading": "]כול",
+  "wordReadingId": 179538
+ },
+ "179539": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 6130001002002,
+    "priorityOfReading": 0,
+    "reading": "]כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 179538
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "העד[ה",
+  "wordReadingId": 179539
+ },
+ "179542": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6130001003003,
+    "priorityOfReading": 0,
+    "reading": "הירדן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 179543
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א]ת֯",
+  "wordReadingId": 179542
+ },
+ "179543": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6130001003002,
+    "priorityOfReading": 0,
+    "reading": "א]ת֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 179542
+   }
+  ],
+  "reading": "הירדן",
+  "wordReadingId": 179543
+ },
+ "179553": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לקח",
+  "wordReadingId": 179553
+ },
+ "179560": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עין",
+  "wordReadingId": 179560
+ },
+ "179589": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ו֯אמתו",
+  "wordReadingId": 179589
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "717048": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 7320001001002,
+    "priorityOfReading": 0,
+    "reading": "אמות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 717049
+   }
+  ],
+  "reading": "ארבע",
+  "wordReadingId": 717048
+ },
+ "717049": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 7320001001001,
+    "priorityOfReading": 0,
+    "reading": "ארבע",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 717048
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אמות",
+  "wordReadingId": 717049
+ },
+ "717051": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וטפחים",
+  "wordReadingId": 717051
+ },
+ "717050": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ושתי",
+  "wordReadingId": 717050
+ },
+ "717053": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אמות",
+  "wordReadingId": 717053
+ },
+ "717052": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וטפחים",
+  "wordReadingId": 717052
+ }
+}

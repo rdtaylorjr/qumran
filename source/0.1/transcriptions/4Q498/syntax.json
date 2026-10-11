@@ -1,0 +1,146 @@
+{
+ "145271": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 i",
+    "location2": "1",
+    "orderedId": 5150001001003,
+    "priorityOfReading": 0,
+    "reading": "כנפשי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 145272
+   }
+  ],
+  "reading": "חו]ב֯ב",
+  "wordReadingId": 145271
+ },
+ "145272": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 i",
+    "location2": "1",
+    "orderedId": 5150001001002,
+    "priorityOfReading": 0,
+    "reading": "חו]ב֯ב",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 145271
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כנפשי",
+  "wordReadingId": 145272
+ },
+ "145281": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 5150003002003,
+    "priorityOfReading": 0,
+    "reading": "מ֯[ים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145282
+   }
+  ],
+  "reading": "]ו֯נחלי֯",
+  "wordReadingId": 145281
+ },
+ "145282": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 5150003002002,
+    "priorityOfReading": 0,
+    "reading": "]ו֯נחלי֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145281
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ֯[ים",
+  "wordReadingId": 145282
+ },
+ "145285": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י֯ו֯צר",
+  "wordReadingId": 145285
+ },
+ "145301": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כול",
+  "wordReadingId": 145301
+ },
+ "145303": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מ֯חשב֯^ת^",
+  "wordReadingId": 145303
+ },
+ "145310": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]צ֯י֯ל",
+  "wordReadingId": 145310
+ },
+ "145322": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 6",
+    "location2": "1",
+    "orderedId": 5150008001003,
+    "priorityOfReading": 0,
+    "reading": "לבבכה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145323
+   }
+  ],
+  "reading": "בכול",
+  "wordReadingId": 145322
+ },
+ "145323": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 6",
+    "location2": "1",
+    "orderedId": 5150008001002,
+    "priorityOfReading": 0,
+    "reading": "בכול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 145322
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לבבכה",
+  "wordReadingId": 145323
+ },
+ "145332": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לגיר֯[",
+  "wordReadingId": 145332
+ }
+}

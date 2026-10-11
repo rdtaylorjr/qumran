@@ -1,0 +1,157 @@
+{
+ "30762": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בו",
+  "wordReadingId": 30762
+ },
+ "30763": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ישרא[ל",
+  "wordReadingId": 30763
+ },
+ "30769": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 30769
+ },
+ "30770": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 300001002005,
+    "priorityOfReading": 0,
+    "reading": "לנפשם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 30771
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 300001002005,
+    "priorityOfReading": 0,
+    "reading": "לנפשם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 30771
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 300001002006,
+    "priorityOfReading": 0,
+    "reading": "רעה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 30772
+   }
+  ],
+  "reading": "גמלו",
+  "wordReadingId": 30770
+ },
+ "30771": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 300001002004,
+    "priorityOfReading": 0,
+    "reading": "גמלו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 30770
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 300001002004,
+    "priorityOfReading": 0,
+    "reading": "גמלו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 30770
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לנפשם",
+  "wordReadingId": 30771
+ },
+ "30772": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 300001002004,
+    "priorityOfReading": 0,
+    "reading": "גמלו",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 30770
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רעה",
+  "wordReadingId": 30772
+ },
+ "30775": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 300001003003,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30776
+   }
+  ],
+  "reading": "]ב֯חירי",
+  "wordReadingId": 30775
+ },
+ "30776": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 300001003002,
+    "priorityOfReading": 0,
+    "reading": "]ב֯חירי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30775
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 30776
+ },
+ "30787": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]סוסי[",
+  "wordReadingId": 30787
+ }
+}

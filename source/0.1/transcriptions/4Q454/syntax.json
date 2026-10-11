@@ -1,0 +1,70 @@
+{
+ "137300": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4310001003003,
+    "priorityOfReading": 0,
+    "reading": "חם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 137301
+   }
+  ],
+  "reading": "]בארץ",
+  "wordReadingId": 137300
+ },
+ "137301": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4310001003002,
+    "priorityOfReading": 0,
+    "reading": "]בארץ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 137300
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "חם",
+  "wordReadingId": 137301
+ },
+ "137302": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ונגועי",
+  "wordReadingId": 137302
+ },
+ "137307": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כ֯יא",
+  "wordReadingId": 137307
+ },
+ "137308": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מלוא־־[",
+  "wordReadingId": 137308
+ },
+ "137311": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ש֯ם",
+  "wordReadingId": 137311
+ },
+ "137312": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "במד[בר",
+  "wordReadingId": 137312
+ }
+}

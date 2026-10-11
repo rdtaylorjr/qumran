@@ -1,0 +1,83 @@
+{
+ "359119": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "חיה",
+    "lemmaId": 104,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "leben",
+    "suffixGender": "communis",
+    "suffixGenderAbbr": "comm.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "1. Person",
+    "suffixPersonAbbr": "1.",
+    "verbStem": "Hifʿil (Hebr.)",
+    "verbStemAbbr": "hif.",
+    "verbTense": "Imperativ",
+    "verbTenseAbbr": "imp.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "חיה",
+    "lemmaId": 104,
+    "rootDesignation": "I",
+    "shortDefinition": "leben",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "359133": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יהוה",
+    "lemmaId": 339,
+    "parsingPriority": 0,
+    "shortDefinition": "Jhwh",
+    "wordClass": "Göttername",
+    "wordClassAbbr": "n.d.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יהוה",
+    "lemmaId": 339,
+    "shortDefinition": "Jhwh",
+    "wordClassAbbreviation": "n.d."
+   }
+  ]
+ }
+}

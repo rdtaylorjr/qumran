@@ -1,0 +1,152 @@
+{
+ "140302": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ידכ֯[",
+  "wordReadingId": 140302
+ },
+ "140304": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4910001003002,
+    "priorityOfReading": 0,
+    "reading": "עבודת֯[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 140305
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 140304
+ },
+ "140305": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4910001003001,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 140304
+   }
+  ],
+  "reading": "עבודת֯[",
+  "wordReadingId": 140305
+ },
+ "140307": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4910001004002,
+    "priorityOfReading": 0,
+    "reading": "דויד[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 140308
+   }
+  ],
+  "reading": "זרע",
+  "wordReadingId": 140307
+ },
+ "140308": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4910001004001,
+    "priorityOfReading": 0,
+    "reading": "זרע",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 140307
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דויד[",
+  "wordReadingId": 140308
+ },
+ "140310": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4910001005002,
+    "priorityOfReading": 0,
+    "reading": "יצא[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 140311
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דויד",
+  "wordReadingId": 140310
+ },
+ "140311": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4910001005001,
+    "priorityOfReading": 0,
+    "reading": "דויד",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 140310
+   }
+  ],
+  "reading": "יצא[",
+  "wordReadingId": 140311
+ },
+ "140325": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ז]קניו",
+  "wordReadingId": 140325
+ },
+ "140336": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ענב֯ים֯[",
+  "wordReadingId": 140336
+ },
+ "140338": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וכסוכה[",
+  "wordReadingId": 140338
+ },
+ "140340": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גפנו",
+  "wordReadingId": 140340
+ },
+ "140343": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וחשפו֯[",
+  "wordReadingId": 140343
+ }
+}

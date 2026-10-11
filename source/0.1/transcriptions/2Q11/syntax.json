@@ -1,0 +1,70 @@
+{
+ "272951": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 8800001003009,
+    "priorityOfReading": 0,
+    "reading": "לכה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 272952
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 8800001003009,
+    "priorityOfReading": 0,
+    "reading": "לכה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 272952
+   }
+  ],
+  "reading": "]נותן",
+  "wordReadingId": 272951
+ },
+ "272952": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 8800001003008,
+    "priorityOfReading": 0,
+    "reading": "]נותן",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 272951
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 8800001003008,
+    "priorityOfReading": 0,
+    "reading": "]נותן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 272951
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לכה",
+  "wordReadingId": 272952
+ },
+ "272953": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וירשת[ה",
+  "wordReadingId": 272953
+ }
+}

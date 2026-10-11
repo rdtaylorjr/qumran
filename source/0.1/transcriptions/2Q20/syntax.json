@@ -1,0 +1,303 @@
+{
+ "31706": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כול",
+  "wordReadingId": 31706
+ },
+ "31707": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003011,
+    "priorityOfReading": 0,
+    "reading": "חיה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31711
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003008,
+    "priorityOfReading": 0,
+    "reading": "חיי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31708
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003010,
+    "priorityOfReading": 0,
+    "reading": "א[שר",
+    "syntacticCategory": "Relativum",
+    "wordReadingId": 31710
+   }
+  ],
+  "reading": "י[מ]י",
+  "wordReadingId": 31707
+ },
+ "31708": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003007,
+    "priorityOfReading": 0,
+    "reading": "י[מ]י",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31707
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003009,
+    "priorityOfReading": 0,
+    "reading": "יוסף",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31709
+   }
+  ],
+  "reading": "חיי",
+  "wordReadingId": 31708
+ },
+ "31709": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003008,
+    "priorityOfReading": 0,
+    "reading": "חיי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31708
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יוסף",
+  "wordReadingId": 31709
+ },
+ "31710": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003007,
+    "priorityOfReading": 0,
+    "reading": "י[מ]י",
+    "syntacticCategory": "Relativum",
+    "wordReadingId": 31707
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 630001003011,
+    "priorityOfReading": 0,
+    "reading": "חיה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31711
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א[שר",
+  "wordReadingId": 31710
+ },
+ "31718": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 630001004007,
+    "priorityOfReading": 0,
+    "reading": "נותנים",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 31719
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]היו",
+  "wordReadingId": 31718
+ },
+ "31719": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 630001004006,
+    "priorityOfReading": 0,
+    "reading": "]היו",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 31718
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 630001004009,
+    "priorityOfReading": 0,
+    "reading": "כב[וד",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 807379
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 630001004009,
+    "priorityOfReading": 1,
+    "reading": "כב[ודם",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31721
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 630001004010,
+    "priorityOfReading": 0,
+    "reading": "לבני",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31722
+   }
+  ],
+  "reading": "נותנים",
+  "wordReadingId": 31719
+ },
+ "807379": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 630001004007,
+    "priorityOfReading": 0,
+    "reading": "נותנים",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31719
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כב[וד",
+  "wordReadingId": 807379
+ },
+ "31730": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 630001005008,
+    "priorityOfReading": 0,
+    "reading": "]מאה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31731
+   }
+  ],
+  "reading": "]ב[ן",
+  "wordReadingId": 31730
+ },
+ "31731": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 630001005007,
+    "priorityOfReading": 0,
+    "reading": "]ב[ן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31730
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 630001005009,
+    "priorityOfReading": 0,
+    "reading": "ו[עשר",
+    "syntacticCategory": "Erweiterung Zahl (synd.)",
+    "wordReadingId": 31732
+   }
+  ],
+  "reading": "]מאה",
+  "wordReadingId": 31731
+ },
+ "31732": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 630001005008,
+    "priorityOfReading": 0,
+    "reading": "]מאה",
+    "syntacticCategory": "Erweiterung Zahl (synd.)",
+    "wordReadingId": 31731
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ו[עשר",
+  "wordReadingId": 31732
+ },
+ "31739": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ב֯ינו",
+  "wordReadingId": 31739
+ }
+}

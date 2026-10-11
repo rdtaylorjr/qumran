@@ -1,0 +1,40 @@
+{
+ "63881": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2020001005003,
+    "priorityOfReading": 0,
+    "reading": "יצאו[",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 63882
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ל]א",
+  "wordReadingId": 63881
+ },
+ "63882": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2020001005002,
+    "priorityOfReading": 0,
+    "reading": "ל]א",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 63881
+   }
+  ],
+  "reading": "יצאו[",
+  "wordReadingId": 63882
+ }
+}

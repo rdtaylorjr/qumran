@@ -1,0 +1,58 @@
+{
+ "139800": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "למכ֯ס֯י",
+  "wordReadingId": 139800
+ },
+ "807833": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עמי/ו",
+  "wordReadingId": 807833
+ },
+ "139803": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לוא֯[",
+  "wordReadingId": 139803
+ },
+ "139814": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4830001004004,
+    "priorityOfReading": 0,
+    "reading": "מעש֯[ה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 139815
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 139814
+ },
+ "139815": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4830001004003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 139814
+   }
+  ],
+  "reading": "מעש֯[ה",
+  "wordReadingId": 139815
+ }
+}

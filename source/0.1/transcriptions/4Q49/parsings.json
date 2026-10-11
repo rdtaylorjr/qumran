@@ -1,0 +1,93 @@
+{
+ "317875": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ש",
+    "lemmaId": 684,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Relativpartikel",
+    "wordClassAbbr": "part.rel.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "ספר",
+    "lemmaId": 238,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ש",
+    "lemmaId": 684,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "part.rel."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ספר",
+    "lemmaId": 238,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "317877": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "אב",
+    "lemmaId": 1,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "Vater",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "communis",
+    "suffixGenderAbbr": "comm.",
+    "suffixNumber": "pluralis",
+    "suffixNumberAbbr": "pl.",
+    "suffixPerson": "1. Person",
+    "suffixPersonAbbr": "1.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אב",
+    "lemmaId": 1,
+    "rootDesignation": "I",
+    "shortDefinition": "Vater",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ }
+}

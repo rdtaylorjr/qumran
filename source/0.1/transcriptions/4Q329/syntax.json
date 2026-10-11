@@ -1,0 +1,180 @@
+{
+ "91174": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ידעיה",
+  "wordReadingId": 91174
+ },
+ "91175": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חרים",
+  "wordReadingId": 91175
+ },
+ "91183": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אלישיב",
+  "wordReadingId": 91183
+ },
+ "91184": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יקים",
+  "wordReadingId": 91184
+ },
+ "91192": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יחז]ק֯אל",
+  "wordReadingId": 91192
+ },
+ "91193": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יכ[ין]",
+  "wordReadingId": 91193
+ },
+ "91207": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יקי]ם",
+  "wordReadingId": 91207
+ },
+ "91208": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יויריב֯",
+  "wordReadingId": 91208
+ },
+ "91212": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אמר֯[",
+  "wordReadingId": 91212
+ },
+ "91220": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004003,
+    "priorityOfReading": 0,
+    "reading": "^הרישו[ן]^",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 91221
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004004,
+    "priorityOfReading": 0,
+    "reading": "[גמול",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91222
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004005,
+    "priorityOfReading": 0,
+    "reading": "דליה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91223
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004006,
+    "priorityOfReading": 0,
+    "reading": "מעוז]י֯ה֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91224
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004007,
+    "priorityOfReading": 0,
+    "reading": "יויריב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91225
+   }
+  ],
+  "reading": "בחו[דש]",
+  "wordReadingId": 91220
+ },
+ "91221": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004002,
+    "priorityOfReading": 0,
+    "reading": "בחו[דש]",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 91220
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "^הרישו[ן]^",
+  "wordReadingId": 91221
+ },
+ "91224": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004002,
+    "priorityOfReading": 0,
+    "reading": "בחו[דש]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91220
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מעוז]י֯ה֯",
+  "wordReadingId": 91224
+ },
+ "91225": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2a-b",
+    "location2": "4",
+    "orderedId": 2950002004002,
+    "priorityOfReading": 0,
+    "reading": "בחו[דש]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91220
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יויריב",
+  "wordReadingId": 91225
+ }
+}

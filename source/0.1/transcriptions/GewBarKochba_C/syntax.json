@@ -1,0 +1,173 @@
+{
+ "807336": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8320001002001,
+    "priorityOfReading": 0,
+    "reading": "נשי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807337
+   }
+  ],
+  "reading": "שמעונ",
+  "wordReadingId": 807336
+ },
+ "807337": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8320001001001,
+    "priorityOfReading": 0,
+    "reading": "שמעונ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807336
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3-4",
+    "orderedId": 8320001003001,
+    "priorityOfReading": 0,
+    "reading": "ישרא|ל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807338
+   }
+  ],
+  "reading": "נשי",
+  "wordReadingId": 807337
+ },
+ "807338": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8320001002001,
+    "priorityOfReading": 0,
+    "reading": "נשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807337
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישרא|ל",
+  "wordReadingId": 807338
+ },
+ "807339": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "1",
+    "orderedId": 8320002001002,
+    "priorityOfReading": 0,
+    "reading": "בנ]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807341
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "3",
+    "orderedId": 8320002003001,
+    "priorityOfReading": 0,
+    "reading": "[נשי]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807343
+   }
+  ],
+  "reading": "[שמעונ",
+  "wordReadingId": 807339
+ },
+ "807340": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "1",
+    "orderedId": 8320002001002,
+    "priorityOfReading": 0,
+    "reading": "בנ]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807341
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כ֯ו֯ס֯ב֯א֯",
+  "wordReadingId": 807340
+ },
+ "807343": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "1",
+    "orderedId": 8320002001001,
+    "priorityOfReading": 0,
+    "reading": "[שמעונ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807339
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "4",
+    "orderedId": 8320002004001,
+    "priorityOfReading": 0,
+    "reading": "י֯ש֯ר֯א֯ל֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807342
+   }
+  ],
+  "reading": "[נשי]",
+  "wordReadingId": 807343
+ },
+ "807342": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "3",
+    "orderedId": 8320002003001,
+    "priorityOfReading": 0,
+    "reading": "[נשי]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807343
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "י֯ש֯ר֯א֯ל֯",
+  "wordReadingId": 807342
+ }
+}

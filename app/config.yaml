@@ -1,0 +1,25 @@
+apiVersion: 3
+dataDisplay:
+  noneValues:
+  - none
+  - unknown
+  - null
+  - NA
+docs:
+  docPage: about
+  featureBase: '{docBase}/transcription.md'
+  featurePage: transcription
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: Qumran
+  version: '0.1'
+  branch: main
+typeDisplay:
+  lex:
+    features: lex gloss@de
+    lexOcc: word
+    template: true
+    label: true
+  part:
+    features: lex sp gn nu ps st vs vt
+writing: hbo

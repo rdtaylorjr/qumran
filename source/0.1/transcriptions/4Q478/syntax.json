@@ -1,0 +1,101 @@
+{
+ "140284": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "והסמך[",
+  "wordReadingId": 140284
+ },
+ "140288": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4900001003004,
+    "priorityOfReading": 0,
+    "reading": "ישכח",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 140289
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ו֯לא",
+  "wordReadingId": 140288
+ },
+ "140289": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4900001003003,
+    "priorityOfReading": 0,
+    "reading": "ו֯לא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 140288
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4900001003005,
+    "priorityOfReading": 0,
+    "reading": "את֯[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 140290
+   }
+  ],
+  "reading": "ישכח",
+  "wordReadingId": 140289
+ },
+ "140290": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4900001003004,
+    "priorityOfReading": 0,
+    "reading": "ישכח",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 140289
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4900001003006,
+    "priorityOfReading": 0,
+    "reading": "--]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 140291
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את֯[",
+  "wordReadingId": 140290
+ },
+ "140294": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מועדיה",
+  "wordReadingId": 140294
+ },
+ "140295": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואתה[",
+  "wordReadingId": 140295
+ }
+}

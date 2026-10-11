@@ -1,0 +1,393 @@
+{
+ "807313": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "4",
+    "orderedId": 11760001004001,
+    "priorityOfReading": 0,
+    "reading": "ופרנשו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807317
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "1",
+    "orderedId": 11760001001002,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807315
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "2",
+    "orderedId": 11760001002002,
+    "priorityOfReading": 0,
+    "reading": "נשי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807319
+   }
+  ],
+  "reading": "שמעונ",
+  "wordReadingId": 807313
+ },
+ "807315": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "1",
+    "orderedId": 11760001001001,
+    "priorityOfReading": 0,
+    "reading": "שמעונ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807313
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "2",
+    "orderedId": 11760001002001,
+    "priorityOfReading": 0,
+    "reading": "כוסבא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807314
+   }
+  ],
+  "reading": "בנ",
+  "wordReadingId": 807315
+ },
+ "807314": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "1",
+    "orderedId": 11760001001002,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807315
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כוסבא",
+  "wordReadingId": 807314
+ },
+ "807319": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "1",
+    "orderedId": 11760001001001,
+    "priorityOfReading": 0,
+    "reading": "שמעונ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807313
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "3",
+    "orderedId": 11760001003001,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807318
+   }
+  ],
+  "reading": "נשי",
+  "wordReadingId": 807319
+ },
+ "807318": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "2",
+    "orderedId": 11760001002002,
+    "priorityOfReading": 0,
+    "reading": "נשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807319
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 807318
+ },
+ "807317": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "A",
+    "location2": "1",
+    "orderedId": 11760001001001,
+    "priorityOfReading": 0,
+    "reading": "שמעונ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807313
+   }
+  ],
+  "reading": "ופרנשו",
+  "wordReadingId": 807317
+ },
+ "807316": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "[--]",
+  "wordReadingId": 807316
+ },
+ "807320": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נשי",
+  "wordReadingId": 807320
+ },
+ "807322": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "פרס",
+  "wordReadingId": 807322
+ },
+ "807321": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "[--]ש[--]",
+  "wordReadingId": 807321
+ },
+ "807323": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "4",
+    "orderedId": 11760002004001,
+    "priorityOfReading": 0,
+    "reading": "ופרנשו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807328
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "1",
+    "orderedId": 11760002001002,
+    "priorityOfReading": 0,
+    "reading": "כוסבא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807325
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "2",
+    "orderedId": 11760002002001,
+    "priorityOfReading": 0,
+    "reading": "נשי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807324
+   }
+  ],
+  "reading": "בנ",
+  "wordReadingId": 807323
+ },
+ "807325": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "1",
+    "orderedId": 11760002001001,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807323
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כוסבא",
+  "wordReadingId": 807325
+ },
+ "807324": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "1",
+    "orderedId": 11760002001001,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807323
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "3",
+    "orderedId": 11760002003001,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807326
+   }
+  ],
+  "reading": "נשי",
+  "wordReadingId": 807324
+ },
+ "807326": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "2",
+    "orderedId": 11760002002001,
+    "priorityOfReading": 0,
+    "reading": "נשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807324
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 807326
+ },
+ "807328": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "1",
+    "orderedId": 11760002001001,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807323
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "5",
+    "orderedId": 11760002005001,
+    "priorityOfReading": 0,
+    "reading": "שמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807327
+   }
+  ],
+  "reading": "ופרנשו",
+  "wordReadingId": 807328
+ },
+ "807327": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "4",
+    "orderedId": 11760002004001,
+    "priorityOfReading": 0,
+    "reading": "ופרנשו",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807328
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "5",
+    "orderedId": 11760002005002,
+    "priorityOfReading": 0,
+    "reading": "דסנו",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807330
+   }
+  ],
+  "reading": "שמעון",
+  "wordReadingId": 807327
+ },
+ "807330": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "B",
+    "location2": "5",
+    "orderedId": 11760002005001,
+    "priorityOfReading": 0,
+    "reading": "שמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807327
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דסנו",
+  "wordReadingId": 807330
+ },
+ "807329": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "פרס",
+  "wordReadingId": 807329
+ }
+}

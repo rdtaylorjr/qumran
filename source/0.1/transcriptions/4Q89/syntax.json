@@ -1,0 +1,58 @@
+{
+ "357860": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "העביר",
+  "wordReadingId": 357860
+ },
+ "357889": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חורפי",
+  "wordReadingId": 357889
+ },
+ "357892": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 i",
+    "location2": "7",
+    "orderedId": 9930001006006,
+    "priorityOfReading": 0,
+    "reading": "נצרתי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 357893
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "פקודיך",
+  "wordReadingId": 357892
+ },
+ "357893": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 i",
+    "location2": "7",
+    "orderedId": 9930001006005,
+    "priorityOfReading": 0,
+    "reading": "פקודיך",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 357892
+   }
+  ],
+  "reading": "נצרתי",
+  "wordReadingId": 357893
+ },
+ "357894": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואל",
+  "wordReadingId": 357894
+ }
+}

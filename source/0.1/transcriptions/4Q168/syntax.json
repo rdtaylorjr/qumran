@@ -1,0 +1,177 @@
+{
+ "38147": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1060001003002,
+    "priorityOfReading": 0,
+    "reading": "תצאי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 38148
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע֯ת֯ה֯",
+  "wordReadingId": 38147
+ },
+ "38148": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 1060001002009,
+    "priorityOfReading": 0,
+    "reading": "כיא]",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 38146
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1060001003001,
+    "priorityOfReading": 0,
+    "reading": "ע֯ת֯ה֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 38147
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1060001003003,
+    "priorityOfReading": 0,
+    "reading": "מקר֯[יה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 38149
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1060001003003,
+    "priorityOfReading": 0,
+    "reading": "מקר֯[יה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 38149
+   }
+  ],
+  "reading": "תצאי",
+  "wordReadingId": 38148
+ },
+ "38149": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1060001003002,
+    "priorityOfReading": 0,
+    "reading": "תצאי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 38148
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 1060001003002,
+    "priorityOfReading": 0,
+    "reading": "תצאי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 38148
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מקר֯[יה",
+  "wordReadingId": 38149
+ },
+ "38159": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1060001004001,
+    "priorityOfReading": 0,
+    "reading": "[יגא]לך֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 38158
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[י]הוה",
+  "wordReadingId": 38159
+ },
+ "38160": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1060001004001,
+    "priorityOfReading": 0,
+    "reading": "[יגא]לך֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 38158
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1060001004004,
+    "priorityOfReading": 0,
+    "reading": "איביך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 38161
+   }
+  ],
+  "reading": "מ[כף",
+  "wordReadingId": 38160
+ },
+ "38179": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 1060001006001,
+    "priorityOfReading": 0,
+    "reading": "[הבינו]",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 38178
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע֯צ֯תו[",
+  "wordReadingId": 38179
+ }
+}

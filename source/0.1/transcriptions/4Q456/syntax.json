@@ -1,0 +1,96 @@
+{
+ "137345": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נגדל֯[]",
+  "wordReadingId": 137345
+ },
+ "137347": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4330001002003,
+    "priorityOfReading": 0,
+    "reading": "יה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 137348
+   }
+  ],
+  "reading": "]הללו",
+  "wordReadingId": 137347
+ },
+ "137348": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4330001002002,
+    "priorityOfReading": 0,
+    "reading": "]הללו",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 137347
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יה",
+  "wordReadingId": 137348
+ },
+ "137350": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]המענות֯",
+  "wordReadingId": 137350
+ },
+ "137351": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 137351
+ },
+ "137363": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "3",
+    "orderedId": 4330002003004,
+    "priorityOfReading": 0,
+    "reading": "י֯ה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 137364
+   }
+  ],
+  "reading": "הללו֯",
+  "wordReadingId": 137363
+ },
+ "137364": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "3",
+    "orderedId": 4330002003003,
+    "priorityOfReading": 0,
+    "reading": "הללו֯",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 137363
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "י֯ה",
+  "wordReadingId": 137364
+ }
+}

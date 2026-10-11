@@ -1,0 +1,124 @@
+{
+ "201344": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 6",
+    "location2": "1",
+    "orderedId": 6810002001003,
+    "priorityOfReading": 0,
+    "reading": "נס[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 201345
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 6",
+    "location2": "1",
+    "orderedId": 6810002001003,
+    "priorityOfReading": 0,
+    "reading": "נס[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 201345
+   }
+  ],
+  "reading": "]נשא",
+  "wordReadingId": 201344
+ },
+ "201345": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 6",
+    "location2": "1",
+    "orderedId": 6810002001002,
+    "priorityOfReading": 0,
+    "reading": "]נשא",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 201344
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 6",
+    "location2": "1",
+    "orderedId": 6810002001002,
+    "priorityOfReading": 0,
+    "reading": "]נשא",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 201344
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נס[",
+  "wordReadingId": 201345
+ },
+ "201348": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אחד",
+  "wordReadingId": 201348
+ },
+ "201368": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אמת",
+  "wordReadingId": 201368
+ },
+ "201392": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ועדי",
+  "wordReadingId": 201392
+ },
+ "201400": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גבר[",
+  "wordReadingId": 201400
+ },
+ "201406": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אתה[",
+  "wordReadingId": 201406
+ },
+ "201417": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ב֯ארץ",
+  "wordReadingId": 201417
+ },
+ "201421": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "דין",
+  "wordReadingId": 201421
+ },
+ "201428": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ארכו[",
+  "wordReadingId": 201428
+ },
+ "201431": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כ֯אריה",
+  "wordReadingId": 201431
+ },
+ "201438": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יין[",
+  "wordReadingId": 201438
+ }
+}

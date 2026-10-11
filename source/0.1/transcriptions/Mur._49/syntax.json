@@ -1,0 +1,40 @@
+{
+ "240164": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 7700001002004,
+    "priorityOfReading": 0,
+    "reading": "אמר־[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240165
+   }
+  ],
+  "reading": "ביד",
+  "wordReadingId": 240164
+ },
+ "240165": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 7700001002003,
+    "priorityOfReading": 0,
+    "reading": "ביד",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240164
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אמר־[",
+  "wordReadingId": 240165
+ }
+}

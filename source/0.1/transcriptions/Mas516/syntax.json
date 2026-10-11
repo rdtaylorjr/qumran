@@ -1,0 +1,46 @@
+{
+ "803247": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8380001001002,
+    "priorityOfReading": 0,
+    "reading": "כתושה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 803264
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דבלה",
+  "wordReadingId": 803247
+ },
+ "803264": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8380001001001,
+    "priorityOfReading": 0,
+    "reading": "דבלה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 803247
+   }
+  ],
+  "reading": "כתושה",
+  "wordReadingId": 803264
+ },
+ "803263": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יפה",
+  "wordReadingId": 803263
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "803194": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]עלי",
+  "wordReadingId": 803194
+ },
+ "803195": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "או",
+  "wordReadingId": 803195
+ },
+ "803200": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יהוסף",
+  "wordReadingId": 803200
+ },
+ "803198": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "החנויות",
+  "wordReadingId": 803198
+ },
+ "803205": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ע֯ל",
+  "wordReadingId": 803205
+ },
+ "803203": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י֯חלף",
+  "wordReadingId": 803203
+ },
+ "808415": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א֯נ֯י֯",
+  "wordReadingId": 808415
+ },
+ "803196": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002002,
+    "priorityOfReading": 0,
+    "reading": "גג",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 803218
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע]ל",
+  "wordReadingId": 803196
+ },
+ "803218": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002001,
+    "priorityOfReading": 0,
+    "reading": "ע]ל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 803196
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002003,
+    "priorityOfReading": 0,
+    "reading": "הבית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 803217
+   }
+  ],
+  "reading": "גג",
+  "wordReadingId": 803218
+ },
+ "803217": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002002,
+    "priorityOfReading": 0,
+    "reading": "גג",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 803218
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002004,
+    "priorityOfReading": 0,
+    "reading": "הלז",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 803216
+   }
+  ],
+  "reading": "הבית",
+  "wordReadingId": 803217
+ },
+ "803216": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002003,
+    "priorityOfReading": 0,
+    "reading": "הבית",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 803217
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הלז",
+  "wordReadingId": 803216
+ },
+ "803215": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ממחצית",
+  "wordReadingId": 803215
+ },
+ "803214": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002007,
+    "priorityOfReading": 0,
+    "reading": "הבית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 803213
+   }
+  ],
+  "reading": "פתח",
+  "wordReadingId": 803214
+ },
+ "803213": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8160001002006,
+    "priorityOfReading": 0,
+    "reading": "פתח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 803214
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הבית",
+  "wordReadingId": 803213
+ },
+ "803212": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אנ֯י",
+  "wordReadingId": 803212
+ },
+ "803211": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חזקיה־",
+  "wordReadingId": 803211
+ },
+ "803210": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "זה",
+  "wordReadingId": 803210
+ },
+ "803209": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לך",
+  "wordReadingId": 803209
+ }
+}

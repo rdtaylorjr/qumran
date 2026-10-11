@@ -1,0 +1,180 @@
+{
+ "32430": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 1,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 2,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נחנו",
+    "lemmaId": 3779,
+    "parsingPriority": 0,
+    "shortDefinition": "wir",
+    "wordClass": "Personalpronomen 1. c. pl.",
+    "wordClassAbbr": "pron. 1.c.pl.",
+    "wordPart": 1
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "נוח",
+    "lemmaId": 690,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 1,
+    "person": "1. Person",
+    "personAbbr": "1.",
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "נוח",
+    "lemmaId": 884,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 2,
+    "person": "1. Person",
+    "personAbbr": "1.",
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נחנו",
+    "lemmaId": 3779,
+    "shortDefinition": "wir",
+    "wordClassAbbreviation": "pron. 1.c.pl."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נוח",
+    "lemmaId": 690,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נוח",
+    "lemmaId": 884,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "32438": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "לב",
+    "lemmaId": 42,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "לב",
+    "lemmaId": 42,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "32459": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "יען",
+    "lemmaId": 644,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "weil",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יען",
+    "lemmaId": 644,
+    "shortDefinition": "weil",
+    "wordClassAbbreviation": "conj."
+   }
+  ]
+ }
+}

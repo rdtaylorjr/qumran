@@ -1,0 +1,276 @@
+{
+ "41328": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002007,
+    "priorityOfReading": 0,
+    "reading": "קצף",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 41329
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002009,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 41331
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002010,
+    "priorityOfReading": 0,
+    "reading": "מעשי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 41332
+   }
+  ],
+  "reading": "]ויהי",
+  "wordReadingId": 41328
+ },
+ "41329": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002006,
+    "priorityOfReading": 0,
+    "reading": "]ויהי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 41328
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002008,
+    "priorityOfReading": 0,
+    "reading": "גדול",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 41330
+   }
+  ],
+  "reading": "קצף",
+  "wordReadingId": 41329
+ },
+ "41330": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002007,
+    "priorityOfReading": 0,
+    "reading": "קצף",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 41329
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גדול",
+  "wordReadingId": 41330
+ },
+ "41331": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002006,
+    "priorityOfReading": 0,
+    "reading": "]ויהי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 41328
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002010,
+    "priorityOfReading": 0,
+    "reading": "מעשי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 41332
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "על",
+  "wordReadingId": 41331
+ },
+ "41332": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002006,
+    "priorityOfReading": 0,
+    "reading": "]ויהי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 41328
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002009,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 41331
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002011,
+    "priorityOfReading": 0,
+    "reading": "הדור",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 41333
+   }
+  ],
+  "reading": "מעשי",
+  "wordReadingId": 41332
+ },
+ "41333": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "2",
+    "orderedId": 1150001002010,
+    "priorityOfReading": 0,
+    "reading": "מעשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 41332
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הדור",
+  "wordReadingId": 41333
+ },
+ "41313": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בחרב",
+  "wordReadingId": 41313
+ },
+ "41314": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולמשפט",
+  "wordReadingId": 41314
+ },
+ "397386": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ולבז֯[ה]",
+  "wordReadingId": 397386
+ },
+ "397384": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולאוכולה֯",
+  "wordReadingId": 397384
+ },
+ "397385": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "3",
+    "orderedId": 1150001003011,
+    "priorityOfReading": 0,
+    "reading": "עליהים",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 41338
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "3",
+    "orderedId": 1150001003011,
+    "priorityOfReading": 0,
+    "reading": "עליהים",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 41338
+   }
+  ],
+  "reading": "ו֯יער",
+  "wordReadingId": 397385
+ },
+ "41338": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "3",
+    "orderedId": 1150001003010,
+    "priorityOfReading": 0,
+    "reading": "ו֯יער",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 397385
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 19-20",
+    "location2": "3",
+    "orderedId": 1150001003010,
+    "priorityOfReading": 0,
+    "reading": "ו֯יער",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 397385
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עליהים",
+  "wordReadingId": 41338
+ }
+}

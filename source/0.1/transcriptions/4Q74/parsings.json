@@ -1,0 +1,118 @@
+{
+ "346202": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "לפיד",
+    "lemmaId": 1965,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "shortDefinition": "Fackel",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "לפיד",
+    "lemmaId": 1965,
+    "shortDefinition": "Fackel",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "346211": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "יצא",
+    "lemmaId": 215,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "shortDefinition": "herausgehen, hervorkommen",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Imperfekt",
+    "verbTenseAbbr": "impf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יצא",
+    "lemmaId": 215,
+    "shortDefinition": "herausgehen, hervorkommen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "346282": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "דמות",
+    "lemmaId": 468,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Vergleich, Ähnlichkeit, Aussehen",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "pluralis",
+    "suffixNumberAbbr": "pl.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "דמות",
+    "lemmaId": 468,
+    "shortDefinition": "Vergleich, Ähnlichkeit, Aussehen",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ }
+}

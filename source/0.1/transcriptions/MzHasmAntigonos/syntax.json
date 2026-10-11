@@ -1,0 +1,639 @@
+{
+ "804102": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001002,
+    "priorityOfReading": 0,
+    "reading": "הכהן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804103
+   }
+  ],
+  "reading": "מתתיה",
+  "wordReadingId": 804102
+ },
+ "804103": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001001,
+    "priorityOfReading": 0,
+    "reading": "מתתיה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804102
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001003,
+    "priorityOfReading": 0,
+    "reading": "גדל",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804104
+   }
+  ],
+  "reading": "הכהן",
+  "wordReadingId": 804103
+ },
+ "804104": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001002,
+    "priorityOfReading": 0,
+    "reading": "הכהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804103
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גדל",
+  "wordReadingId": 804104
+ },
+ "804105": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001005,
+    "priorityOfReading": 0,
+    "reading": "היהודים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804106
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001005,
+    "priorityOfReading": 0,
+    "reading": "היהודים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804106
+   }
+  ],
+  "reading": "וחבר",
+  "wordReadingId": 804105
+ },
+ "804106": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001004,
+    "priorityOfReading": 0,
+    "reading": "וחבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804105
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U1",
+    "location2": "obv.",
+    "orderedId": 8210001001004,
+    "priorityOfReading": 0,
+    "reading": "וחבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804105
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "היהודים",
+  "wordReadingId": 804106
+ },
+ "804107": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804108
+   }
+  ],
+  "reading": "מתתיה",
+  "wordReadingId": 804107
+ },
+ "804108": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001001,
+    "priorityOfReading": 0,
+    "reading": "מתתיה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804107
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001003,
+    "priorityOfReading": 0,
+    "reading": "גדל",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804109
+   }
+  ],
+  "reading": "כהן",
+  "wordReadingId": 804108
+ },
+ "804109": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804108
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001002,
+    "priorityOfReading": 0,
+    "reading": "הכהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804113
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גדל",
+  "wordReadingId": 804109
+ },
+ "804110": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001005,
+    "priorityOfReading": 0,
+    "reading": "[--]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804111
+   }
+  ],
+  "reading": "חבר",
+  "wordReadingId": 804110
+ },
+ "804111": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001004,
+    "priorityOfReading": 0,
+    "reading": "חבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804110
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[--]",
+  "wordReadingId": 804111
+ },
+ "804112": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001002,
+    "priorityOfReading": 0,
+    "reading": "הכהן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804113
+   }
+  ],
+  "reading": "מתתיה",
+  "wordReadingId": 804112
+ },
+ "804113": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001001,
+    "priorityOfReading": 0,
+    "reading": "מתתיה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804112
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U5",
+    "location2": "obv.",
+    "orderedId": 8210002001003,
+    "priorityOfReading": 0,
+    "reading": "גדל",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804109
+   }
+  ],
+  "reading": "הכהן",
+  "wordReadingId": 804113
+ },
+ "804114": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001004,
+    "priorityOfReading": 0,
+    "reading": "היהודים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804115
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001004,
+    "priorityOfReading": 0,
+    "reading": "היהודים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804115
+   }
+  ],
+  "reading": "וחבר",
+  "wordReadingId": 804114
+ },
+ "804115": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001003,
+    "priorityOfReading": 0,
+    "reading": "וחבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804114
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "U7",
+    "location2": "obv.",
+    "orderedId": 8210003001003,
+    "priorityOfReading": 0,
+    "reading": "וחבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804114
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "היהודים",
+  "wordReadingId": 804115
+ },
+ "804116": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V1",
+    "location2": "obv.",
+    "orderedId": 8210004001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804117
+   }
+  ],
+  "reading": "תתיה",
+  "wordReadingId": 804116
+ },
+ "804117": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V1",
+    "location2": "obv.",
+    "orderedId": 8210004001001,
+    "priorityOfReading": 0,
+    "reading": "תתיה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804116
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V1",
+    "location2": "obv.",
+    "orderedId": 8210004001003,
+    "priorityOfReading": 0,
+    "reading": "גדל",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804118
+   }
+  ],
+  "reading": "כהן",
+  "wordReadingId": 804117
+ },
+ "804118": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V1",
+    "location2": "obv.",
+    "orderedId": 8210004001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804117
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גדל",
+  "wordReadingId": 804118
+ },
+ "804119": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V1",
+    "location2": "obv.",
+    "orderedId": 8210004001005,
+    "priorityOfReading": 0,
+    "reading": "ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804120
+   }
+  ],
+  "reading": "חבר",
+  "wordReadingId": 804119
+ },
+ "804120": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V1",
+    "location2": "obv.",
+    "orderedId": 8210004001004,
+    "priorityOfReading": 0,
+    "reading": "חבר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804119
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה",
+  "wordReadingId": 804120
+ },
+ "804121": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V3",
+    "location2": "obv.",
+    "orderedId": 8210005001002,
+    "priorityOfReading": 0,
+    "reading": "הכהן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804122
+   }
+  ],
+  "reading": "מתתיה",
+  "wordReadingId": 804121
+ },
+ "804122": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V3",
+    "location2": "obv.",
+    "orderedId": 8210005001001,
+    "priorityOfReading": 0,
+    "reading": "מתתיה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804121
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V3",
+    "location2": "obv.",
+    "orderedId": 8210005001003,
+    "priorityOfReading": 0,
+    "reading": "הג",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804123
+   }
+  ],
+  "reading": "הכהן",
+  "wordReadingId": 804122
+ },
+ "804123": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V3",
+    "location2": "obv.",
+    "orderedId": 8210005001002,
+    "priorityOfReading": 0,
+    "reading": "הכהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804122
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הג",
+  "wordReadingId": 804123
+ },
+ "804124": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V8",
+    "location2": "obv.",
+    "orderedId": 8210006001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804125
+   }
+  ],
+  "reading": "מתתיה",
+  "wordReadingId": 804124
+ },
+ "804125": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V8",
+    "location2": "obv.",
+    "orderedId": 8210006001001,
+    "priorityOfReading": 0,
+    "reading": "מתתיה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 804124
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V8",
+    "location2": "obv.",
+    "orderedId": 8210006001003,
+    "priorityOfReading": 0,
+    "reading": "גד",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804126
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V8",
+    "location2": "obv.",
+    "orderedId": 8210006001003,
+    "priorityOfReading": 0,
+    "reading": "גד",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804126
+   }
+  ],
+  "reading": "כהן",
+  "wordReadingId": 804125
+ },
+ "804126": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V8",
+    "location2": "obv.",
+    "orderedId": 8210006001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804125
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "V8",
+    "location2": "obv.",
+    "orderedId": 8210006001002,
+    "priorityOfReading": 0,
+    "reading": "כהן",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804125
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גד",
+  "wordReadingId": 804126
+ }
+}

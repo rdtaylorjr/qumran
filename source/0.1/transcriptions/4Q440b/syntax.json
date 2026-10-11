@@ -1,0 +1,96 @@
+{
+ "136425": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מזר֯[ק",
+  "wordReadingId": 136425
+ },
+ "136430": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4170001002004,
+    "priorityOfReading": 0,
+    "reading": "רבים֯[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 136431
+   }
+  ],
+  "reading": "]ו֯ילכו",
+  "wordReadingId": 136430
+ },
+ "136431": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4170001002003,
+    "priorityOfReading": 0,
+    "reading": "]ו֯ילכו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 136430
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רבים֯[",
+  "wordReadingId": 136431
+ },
+ "807426": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4170001003005,
+    "priorityOfReading": 0,
+    "reading": "צדי֯[קים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 136437
+   }
+  ],
+  "reading": "לוחצי",
+  "wordReadingId": 807426
+ },
+ "136437": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4170001003003,
+    "priorityOfReading": 0,
+    "reading": "לוחצי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807426
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4170001003004,
+    "priorityOfReading": 1,
+    "reading": "חצר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 136436
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "צדי֯[קים",
+  "wordReadingId": 136437
+ }
+}

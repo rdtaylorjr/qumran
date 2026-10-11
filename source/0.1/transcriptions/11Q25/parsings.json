@@ -1,0 +1,133 @@
+{
+ "200642": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "עם",
+    "lemmaId": 9,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "עם",
+    "lemmaId": 9,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "200644": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "לא",
+    "lemmaId": 54,
+    "parsingPriority": 0,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "wordClass": "Negation",
+    "wordClassAbbr": "neg.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "לא",
+    "lemmaId": 54,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "neg."
+   }
+  ]
+ },
+ "200645": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "עין",
+    "lemmaId": 170,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "2. Person",
+    "suffixPersonAbbr": "2.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "עין",
+    "lemmaId": 170,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

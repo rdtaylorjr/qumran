@@ -1,0 +1,46 @@
+{
+ "63928": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]יחדיו",
+  "wordReadingId": 63928
+ },
+ "63931": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2040001002003,
+    "priorityOfReading": 0,
+    "reading": "קטנ[",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 63932
+   }
+  ],
+  "reading": "נ]ער",
+  "wordReadingId": 63931
+ },
+ "63932": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2040001002002,
+    "priorityOfReading": 0,
+    "reading": "נ]ער",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 63931
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "קטנ[",
+  "wordReadingId": 63932
+ }
+}

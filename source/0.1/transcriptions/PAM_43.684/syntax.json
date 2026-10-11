@@ -1,0 +1,119 @@
+{
+ "203160": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]חזק[",
+  "wordReadingId": 203160
+ },
+ "203163": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חשבו",
+  "wordReadingId": 203163
+ },
+ "203176": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בוניה֯",
+  "wordReadingId": 203176
+ },
+ "203187": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ו֯חיץ",
+  "wordReadingId": 203187
+ },
+ "203188": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 203188
+ },
+ "203199": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]למלח[מה",
+  "wordReadingId": 203199
+ },
+ "203213": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אש",
+  "wordReadingId": 203213
+ },
+ "203217": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 98",
+    "location2": "1",
+    "orderedId": 6910011001003,
+    "priorityOfReading": 0,
+    "reading": "ישוב",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 203218
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]ואם",
+  "wordReadingId": 203217
+ },
+ "203218": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 98",
+    "location2": "1",
+    "orderedId": 6910011001002,
+    "priorityOfReading": 0,
+    "reading": "]ואם",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 203217
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 98",
+    "location2": "1",
+    "orderedId": 6910011001004,
+    "priorityOfReading": 0,
+    "reading": "יה[וה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 203219
+   }
+  ],
+  "reading": "ישוב",
+  "wordReadingId": 203218
+ },
+ "203219": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 98",
+    "location2": "1",
+    "orderedId": 6910011001003,
+    "priorityOfReading": 0,
+    "reading": "ישוב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 203218
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יה[וה",
+  "wordReadingId": 203219
+ },
+ "203222": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ח]טאה֯",
+  "wordReadingId": 203222
+ }
+}

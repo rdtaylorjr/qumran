@@ -1,0 +1,52 @@
+{
+ "240096": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בית[",
+  "wordReadingId": 240096
+ },
+ "240104": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7680001004002,
+    "priorityOfReading": 0,
+    "reading": "יום",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240105
+   }
+  ],
+  "reading": "בכל",
+  "wordReadingId": 240104
+ },
+ "240105": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7680001004001,
+    "priorityOfReading": 0,
+    "reading": "בכל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 240104
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יום",
+  "wordReadingId": 240105
+ },
+ "240106": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בשביל[",
+  "wordReadingId": 240106
+ }
+}

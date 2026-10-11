@@ -1,0 +1,72 @@
+{
+ "238354": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 7910001001002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238355
+   }
+  ],
+  "reading": "מנחם",
+  "wordReadingId": 238354
+ },
+ "238355": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 7910001001001,
+    "priorityOfReading": 0,
+    "reading": "מנחם",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238354
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 7910001001003,
+    "priorityOfReading": 0,
+    "reading": "קרסמן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 238356
+   }
+  ],
+  "reading": "בן",
+  "wordReadingId": 238355
+ },
+ "238356": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 7910001001002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 238355
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "קרסמן",
+  "wordReadingId": 238356
+ }
+}

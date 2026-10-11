@@ -1,0 +1,33 @@
+{
+ "204750": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אין",
+  "wordReadingId": 204750
+ },
+ "204754": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]נדע",
+  "wordReadingId": 204754
+ },
+ "204758": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 119",
+    "location2": "1",
+    "orderedId": 7070003001002,
+    "priorityOfReading": 0,
+    "reading": "]־ת",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 204757
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "האלה",
+  "wordReadingId": 204758
+ }
+}

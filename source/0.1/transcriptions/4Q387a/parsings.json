@@ -1,0 +1,842 @@
+{
+ "110228": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יצא",
+    "lemmaId": 215,
+    "parsingPriority": 0,
+    "shortDefinition": "herausgehen, hervorkommen",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "communis",
+    "suffixGenderAbbr": "comm.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "1. Person",
+    "suffixPersonAbbr": "1.",
+    "verbStem": "Hifʿil (Hebr.)",
+    "verbStemAbbr": "hif.",
+    "verbTense": "Infinitiv constructus",
+    "verbTenseAbbr": "inf.cs.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יצא",
+    "lemmaId": 215,
+    "shortDefinition": "herausgehen, hervorkommen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "110236": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אם",
+    "lemmaId": 31,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "wenn",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אם",
+    "lemmaId": 31,
+    "rootDesignation": "I",
+    "shortDefinition": "wenn",
+    "wordClassAbbreviation": "conj."
+   }
+  ]
+ },
+ "110240": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "augment": "Energikus",
+    "augmentAbbr": "energ.",
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "נתן",
+    "lemmaId": 276,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "1. Person",
+    "personAbbr": "1.",
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "suffixGender": "femininum",
+    "suffixGenderAbbr": "f.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Imperfekt",
+    "verbTenseAbbr": "impf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נתן",
+    "lemmaId": 276,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "110241": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "pluralis",
+    "suffixNumberAbbr": "pl.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   }
+  ]
+ },
+ "110244": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "אשר",
+    "lemmaId": 13,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "III",
+    "shortDefinition": "in der Spur von, als Ort des",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אשר",
+    "lemmaId": 13,
+    "rootDesignation": "III",
+    "shortDefinition": "in der Spur von, als Ort des",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ },
+ "110245": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "הלך",
+    "lemmaId": 67,
+    "parsingPriority": 0,
+    "shortDefinition": "gehen, wandeln",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "verbStem": "Hitpaʿel (Hebr.)",
+    "verbStemAbbr": "hitp.",
+    "verbTense": "Infinitiv constructus",
+    "verbTenseAbbr": "inf.cs.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "הלך",
+    "lemmaId": 67,
+    "shortDefinition": "gehen, wandeln",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "110249": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מן",
+    "lemmaId": 251,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "איב",
+    "lemmaId": 575,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "Feind",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "pluralis",
+    "suffixNumberAbbr": "pl.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מן",
+    "lemmaId": 251,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "איב",
+    "lemmaId": 575,
+    "rootDesignation": "I",
+    "shortDefinition": "Feind",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110261": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אל",
+    "lemmaId": 262,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "hin, zu",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אל",
+    "lemmaId": 262,
+    "rootDesignation": "I",
+    "shortDefinition": "hin, zu",
+    "wordClassAbbreviation": "praep."
+   }
+  ]
+ },
+ "110262": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "בן",
+    "lemmaId": 2,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Sohn",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "בן",
+    "lemmaId": 2,
+    "shortDefinition": "Sohn",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110263": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "נכר",
+    "lemmaId": 1787,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נכר",
+    "lemmaId": 1787,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110266": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "בנימין",
+    "lemmaId": 1914,
+    "parsingPriority": 0,
+    "shortDefinition": "Benjamin",
+    "wordClass": "Personenname",
+    "wordClassAbbr": "n.pr.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "בנימין",
+    "lemmaId": 1914,
+    "shortDefinition": "Benjamin",
+    "wordClassAbbreviation": "n.pr."
+   }
+  ]
+ },
+ "110282": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "את",
+    "lemmaId": 61,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "[not. acc.]",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "wordClass": "Objektmarker (nota accusativa)",
+    "wordClassAbbr": "not.acc.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "את",
+    "lemmaId": 61,
+    "rootDesignation": "I",
+    "shortDefinition": "[not. acc.]",
+    "wordClassAbbreviation": "not.acc."
+   }
+  ]
+ },
+ "110283": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "נהר",
+    "lemmaId": 1762,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen communis",
+    "wordClassAbbr": "n.c.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נהר",
+    "lemmaId": 1762,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.c."
+   }
+  ]
+ },
+ "110288": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "הוא",
+    "lemmaId": 310,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "shortDefinition": "[person. pron. 3.m.sg.]",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Personalpronomen 3. m. sg.",
+    "wordClassAbbr": "pron. 3.m.sg.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "הוא",
+    "lemmaId": 310,
+    "shortDefinition": "[person. pron. 3.m.sg.]",
+    "wordClassAbbreviation": "pron. 3.m.sg."
+   }
+  ]
+ },
+ "110307": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "גוי",
+    "lemmaId": 62,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "was innen (in einer Gruppe/Ortschaft/Gebiet) ist",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "גוי",
+    "lemmaId": 62,
+    "rootDesignation": "I",
+    "shortDefinition": "was innen (in einer Gruppe/Ortschaft/Gebiet) ist",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110308": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "גוי",
+    "lemmaId": 62,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "was innen (in einer Gruppe/Ortschaft/Gebiet) ist",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "גוי",
+    "lemmaId": 62,
+    "rootDesignation": "I",
+    "shortDefinition": "was innen (in einer Gruppe/Ortschaft/Gebiet) ist",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110309": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "עם",
+    "lemmaId": 9,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "עם",
+    "lemmaId": 9,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110314": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "זרע",
+    "lemmaId": 535,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "säen",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Partizip",
+    "verbTenseAbbr": "ptz.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "זרע",
+    "lemmaId": 535,
+    "rootDesignation": "I",
+    "shortDefinition": "säen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "110315": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "לחם",
+    "lemmaId": 399,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "IV",
+    "shortDefinition": "Speise, Brot",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "לחם",
+    "lemmaId": 399,
+    "rootDesignation": "IV",
+    "shortDefinition": "Speise, Brot",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "110316": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "פה",
+    "lemmaId": 233,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "פה",
+    "lemmaId": 233,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ },
+ "110317": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "תבואה",
+    "lemmaId": 2007,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "תבואה",
+    "lemmaId": 2007,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ },
+ "110321": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "חטאה",
+    "lemmaId": 877,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Verfehlung, Sünde",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "pluralis",
+    "suffixNumberAbbr": "pl.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "חטאה",
+    "lemmaId": 877,
+    "shortDefinition": "Verfehlung, Sünde",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

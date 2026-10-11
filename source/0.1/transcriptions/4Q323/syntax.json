@@ -1,0 +1,95 @@
+{
+ "90334": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 2810001001005,
+    "priorityOfReading": 0,
+    "reading": "זה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 90333
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 2810001001007,
+    "priorityOfReading": 0,
+    "reading": "בע֯[שירי]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 90335
+   }
+  ],
+  "reading": "א]חד",
+  "wordReadingId": 90334
+ },
+ "90340": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2810001002006,
+    "priorityOfReading": 0,
+    "reading": "ע]שר",
+    "syntacticCategory": "Erweiterung Zahl (synd.)",
+    "wordReadingId": 90341
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2810001002007,
+    "priorityOfReading": 0,
+    "reading": "ב[ו",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 90342
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2810001002008,
+    "priorityOfReading": 0,
+    "reading": "ביאת",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 90343
+   }
+  ],
+  "reading": "באחד[",
+  "wordReadingId": 90340
+ },
+ "90349": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2810001003004,
+    "priorityOfReading": 0,
+    "reading": "ביא]ת֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 90348
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יחזקאל",
+  "wordReadingId": 90349
+ }
+}

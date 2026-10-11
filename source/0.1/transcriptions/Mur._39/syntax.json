@@ -1,0 +1,53 @@
+{
+ "239941": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 7610001003001,
+    "priorityOfReading": 0,
+    "reading": "שמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 239940
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 7610001003003,
+    "priorityOfReading": 0,
+    "reading": "מנ[ח]ם֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 239942
+   }
+  ],
+  "reading": "בר",
+  "wordReadingId": 239941
+ },
+ "239942": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 7610001003002,
+    "priorityOfReading": 0,
+    "reading": "בר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 239941
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מנ[ח]ם֯",
+  "wordReadingId": 239942
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "85556": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 2690001006003,
+    "priorityOfReading": 0,
+    "reading": "הגר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 85558
+   }
+  ],
+  "reading": "יהיה",
+  "wordReadingId": 85556
+ },
+ "85557": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 2690001006003,
+    "priorityOfReading": 0,
+    "reading": "הגר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 85558
+   }
+  ],
+  "reading": "כול",
+  "wordReadingId": 85557
+ },
+ "85558": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 2690001006001,
+    "priorityOfReading": 0,
+    "reading": "יהיה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 85556
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 2690001006002,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 85557
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הגר",
+  "wordReadingId": 85558
+ },
+ "85561": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 2690001007002,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 85562
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 85561
+ },
+ "85562": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 2690001007001,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 85561
+   }
+  ],
+  "reading": "ישראל",
+  "wordReadingId": 85562
+ },
+ "85563": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בגו[ים",
+  "wordReadingId": 85563
+ },
+ "85574": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "במקדש",
+  "wordReadingId": 85574
+ },
+ "85595": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ואח[",
+  "wordReadingId": 85595
+ },
+ "85604": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י]תיצבו[",
+  "wordReadingId": 85604
+ },
+ "85623": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מועדי[ם",
+  "wordReadingId": 85623
+ },
+ "85633": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯וא",
+  "wordReadingId": 85633
+ },
+ "85644": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מושב[",
+  "wordReadingId": 85644
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "138703": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4450001003003,
+    "priorityOfReading": 0,
+    "reading": "האגר[ת",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138707
+   }
+  ],
+  "reading": "ושלח֯[",
+  "wordReadingId": 138703
+ },
+ "138706": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4450001003003,
+    "priorityOfReading": 0,
+    "reading": "האגר[ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138707
+   }
+  ],
+  "reading": "פ]ת֯שגן",
+  "wordReadingId": 138706
+ },
+ "138707": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4450001002004,
+    "priorityOfReading": 0,
+    "reading": "ושלח֯[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138703
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4450001002004,
+    "priorityOfReading": 1,
+    "reading": "ישלח[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 241791
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4450001003002,
+    "priorityOfReading": 0,
+    "reading": "פ]ת֯שגן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138706
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4450001003002,
+    "priorityOfReading": 1,
+    "reading": "פר]שגן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 241790
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "האגר[ת",
+  "wordReadingId": 138707
+ },
+ "138711": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אליו",
+  "wordReadingId": 138711
+ }
+}

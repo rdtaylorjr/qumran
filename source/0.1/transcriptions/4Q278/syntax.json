@@ -1,0 +1,202 @@
+{
+ "79302": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2430001003003,
+    "priorityOfReading": 0,
+    "reading": "ישכב",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 79303
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א]ל",
+  "wordReadingId": 79302
+ },
+ "79307": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005001,
+    "priorityOfReading": 0,
+    "reading": "[עליו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 79308
+   }
+  ],
+  "reading": "תשב",
+  "wordReadingId": 79307
+ },
+ "79310": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005005,
+    "priorityOfReading": 0,
+    "reading": "נגע",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 79312
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]א֯ם֯",
+  "wordReadingId": 79310
+ },
+ "79311": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005005,
+    "priorityOfReading": 0,
+    "reading": "נגע",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 79312
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לוא",
+  "wordReadingId": 79311
+ },
+ "79312": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005003,
+    "priorityOfReading": 0,
+    "reading": "]א֯ם֯",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 79310
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005004,
+    "priorityOfReading": 0,
+    "reading": "לוא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 79311
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005006,
+    "priorityOfReading": 0,
+    "reading": "בו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 79313
+   }
+  ],
+  "reading": "נגע",
+  "wordReadingId": 79312
+ },
+ "79313": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2430001005005,
+    "priorityOfReading": 0,
+    "reading": "נגע",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 79312
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בו",
+  "wordReadingId": 79313
+ },
+ "79316": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הש]לישי",
+  "wordReadingId": 79316
+ },
+ "79317": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בנוגעו",
+  "wordReadingId": 79317
+ },
+ "79320": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הנ]פש",
+  "wordReadingId": 79320
+ },
+ "79321": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 2430001007005,
+    "priorityOfReading": 0,
+    "reading": "המש֯כב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 79322
+   }
+  ],
+  "reading": "מגע",
+  "wordReadingId": 79321
+ },
+ "79322": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 2430001007004,
+    "priorityOfReading": 0,
+    "reading": "מגע",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 79321
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "המש֯כב",
+  "wordReadingId": 79322
+ },
+ "79325": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "במקום",
+  "wordReadingId": 79325
+ }
+}

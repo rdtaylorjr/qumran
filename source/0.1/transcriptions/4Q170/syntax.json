@@ -1,0 +1,65 @@
+{
+ "38808": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יהוה",
+  "wordReadingId": 38808
+ },
+ "38813": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "1",
+    "orderedId": 1080001001007,
+    "priorityOfReading": 0,
+    "reading": "והיה֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 38811
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "למ]שיסה",
+  "wordReadingId": 38813
+ },
+ "38820": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "2",
+    "orderedId": 1080001002005,
+    "priorityOfReading": 0,
+    "reading": "יוכלו֯[",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 38821
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]לוא",
+  "wordReadingId": 38820
+ },
+ "38821": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "2",
+    "orderedId": 1080001002004,
+    "priorityOfReading": 0,
+    "reading": "]לוא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 38820
+   }
+  ],
+  "reading": "יוכלו֯[",
+  "wordReadingId": 38821
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "167191": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 5440001001003,
+    "priorityOfReading": 0,
+    "reading": "נצפנים",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 167193
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 167191
+ },
+ "167192": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "היו",
+  "wordReadingId": 167192
+ },
+ "167193": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 5440001001001,
+    "priorityOfReading": 0,
+    "reading": "אשר",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 167191
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 5440001001004,
+    "priorityOfReading": 0,
+    "reading": "לחג",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 167194
+   }
+  ],
+  "reading": "נצפנים",
+  "wordReadingId": 167193
+ },
+ "167194": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 5440001001003,
+    "priorityOfReading": 0,
+    "reading": "נצפנים",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 167193
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 5440001001005,
+    "priorityOfReading": 0,
+    "reading": "אד[ו^?^ני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 167195
+   }
+  ],
+  "reading": "לחג",
+  "wordReadingId": 167194
+ },
+ "167195": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 5440001001004,
+    "priorityOfReading": 0,
+    "reading": "לחג",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 167194
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אד[ו^?^ני",
+  "wordReadingId": 167195
+ },
+ "167204": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כ֯ן֯",
+  "wordReadingId": 167204
+ },
+ "167205": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ה֯כ֯ו֯ה֯ן֯",
+  "wordReadingId": 167205
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "312816": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לעולם",
+  "wordReadingId": 312816
+ },
+ "312873": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מעשה",
+  "wordReadingId": 312873
+ },
+ "312875": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הגדולים",
+  "wordReadingId": 312875
+ },
+ "312883": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "4",
+    "orderedId": 9310002004002,
+    "priorityOfReading": 0,
+    "reading": "המצוה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 312882
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "החוק[ים",
+  "wordReadingId": 312883
+ },
+ "312898": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "6",
+    "orderedId": 9310002006003,
+    "priorityOfReading": 0,
+    "reading": "הירדן",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 312900
+   }
+  ],
+  "reading": "עוברים",
+  "wordReadingId": 312898
+ },
+ "312899": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "6",
+    "orderedId": 9310002006003,
+    "priorityOfReading": 0,
+    "reading": "הירדן",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 312900
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 312899
+ },
+ "312900": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "6",
+    "orderedId": 9310002006001,
+    "priorityOfReading": 0,
+    "reading": "עוברים",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 312898
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "6",
+    "orderedId": 9310002006002,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 312899
+   }
+  ],
+  "reading": "הירדן",
+  "wordReadingId": 312900
+ },
+ "312911": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לאבותיכם",
+  "wordReadingId": 312911
+ },
+ "312923": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "8",
+    "orderedId": 9310002008008,
+    "priorityOfReading": 0,
+    "reading": "באים[",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 312924
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אתמה",
+  "wordReadingId": 312923
+ },
+ "312924": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "8",
+    "orderedId": 9310002008007,
+    "priorityOfReading": 0,
+    "reading": "אתמה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 312923
+   }
+  ],
+  "reading": "באים[",
+  "wordReadingId": 312924
+ },
+ "312950": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ובקעות",
+  "wordReadingId": 312950
+ },
+ "312959": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "דורש",
+  "wordReadingId": 312959
+ }
+}

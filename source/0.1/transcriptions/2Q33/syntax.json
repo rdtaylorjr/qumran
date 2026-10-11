@@ -1,0 +1,97 @@
+{
+ "32501": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 760002001003,
+    "priorityOfReading": 0,
+    "reading": "נינו[ה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32502
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]על",
+  "wordReadingId": 32501
+ },
+ "32502": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 760002001002,
+    "priorityOfReading": 0,
+    "reading": "]על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32501
+   }
+  ],
+  "reading": "נינו[ה",
+  "wordReadingId": 32502
+ },
+ "32505": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 760002002003,
+    "priorityOfReading": 0,
+    "reading": "־־[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32506
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]ועל",
+  "wordReadingId": 32505
+ },
+ "32514": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "2",
+    "orderedId": 760003002004,
+    "priorityOfReading": 0,
+    "reading": "פי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32515
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 32514
+ },
+ "32515": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "2",
+    "orderedId": 760003002003,
+    "priorityOfReading": 0,
+    "reading": "אל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32514
+   }
+  ],
+  "reading": "פי",
+  "wordReadingId": 32515
+ }
+}

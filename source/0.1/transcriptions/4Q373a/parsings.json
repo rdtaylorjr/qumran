@@ -1,0 +1,108 @@
+{
+ "202629": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "היה",
+    "lemmaId": 133,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "sein, werden, geschehen, eintreten",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Infinitiv constructus",
+    "verbTenseAbbr": "inf.cs.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ל",
+    "lemmaId": 248,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "היה",
+    "lemmaId": 133,
+    "rootDesignation": "I",
+    "shortDefinition": "sein, werden, geschehen, eintreten",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "202630": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "יחד",
+    "lemmaId": 114,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יחד",
+    "lemmaId": 114,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "202623": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "ארץ",
+    "lemmaId": 108,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "shortDefinition": "Erde, Erdboden, Land",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ארץ",
+    "lemmaId": 108,
+    "shortDefinition": "Erde, Erdboden, Land",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

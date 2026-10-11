@@ -1,0 +1,76 @@
+{
+ "315337": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אשר֯[",
+  "wordReadingId": 315337
+ },
+ "315348": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ו]יעזרכם",
+  "wordReadingId": 315348
+ },
+ "315403": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "איוב",
+  "wordReadingId": 315403
+ },
+ "315408": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5 ii",
+    "location2": "7",
+    "orderedId": 9390003007001,
+    "priorityOfReading": 0,
+    "reading": "והשתחוו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 315407
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5 ii",
+    "location2": "7",
+    "orderedId": 9390003007001,
+    "priorityOfReading": 0,
+    "reading": "והשתחוו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 315407
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לו",
+  "wordReadingId": 315408
+ },
+ "315409": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5 ii",
+    "location2": "7",
+    "orderedId": 9390003007004,
+    "priorityOfReading": 0,
+    "reading": "אלהים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 315410
+   }
+  ],
+  "reading": "כל",
+  "wordReadingId": 315409
+ },
+ "315420": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ויכפר",
+  "wordReadingId": 315420
+ }
+}

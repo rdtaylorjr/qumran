@@ -1,0 +1,382 @@
+{
+ "804145": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "8",
+    "location2": "obv.",
+    "orderedId": 8240001001002,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804146
+   }
+  ],
+  "reading": "שקל",
+  "wordReadingId": 804145
+ },
+ "804146": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "8",
+    "location2": "obv.",
+    "orderedId": 8240001001001,
+    "priorityOfReading": 0,
+    "reading": "שקל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804145
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 804146
+ },
+ "804147": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "8",
+    "location2": "obv.",
+    "orderedId": 8240001001004,
+    "priorityOfReading": 0,
+    "reading": "ב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804148
+   }
+  ],
+  "reading": "ש",
+  "wordReadingId": 804147
+ },
+ "804148": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "8",
+    "location2": "obv.",
+    "orderedId": 8240001001003,
+    "priorityOfReading": 0,
+    "reading": "ש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804147
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ב",
+  "wordReadingId": 804148
+ },
+ "804149": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "8",
+    "location2": "rev.",
+    "orderedId": 8240001002002,
+    "priorityOfReading": 0,
+    "reading": "הקדושה",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804150
+   }
+  ],
+  "reading": "ירושלים",
+  "wordReadingId": 804149
+ },
+ "804150": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "8",
+    "location2": "rev.",
+    "orderedId": 8240001002001,
+    "priorityOfReading": 0,
+    "reading": "ירושלים",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804149
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הקדושה",
+  "wordReadingId": 804150
+ },
+ "804151": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "10",
+    "location2": "obv.",
+    "orderedId": 8240002001002,
+    "priorityOfReading": 0,
+    "reading": "השקל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804152
+   }
+  ],
+  "reading": "חצי",
+  "wordReadingId": 804151
+ },
+ "804152": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "10",
+    "location2": "obv.",
+    "orderedId": 8240002001001,
+    "priorityOfReading": 0,
+    "reading": "חצי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804151
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "השקל",
+  "wordReadingId": 804152
+ },
+ "804153": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "10",
+    "location2": "obv.",
+    "orderedId": 8240002001004,
+    "priorityOfReading": 0,
+    "reading": "ב",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804154
+   }
+  ],
+  "reading": "ש",
+  "wordReadingId": 804153
+ },
+ "804154": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "10",
+    "location2": "obv.",
+    "orderedId": 8240002001003,
+    "priorityOfReading": 0,
+    "reading": "ש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804153
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ב",
+  "wordReadingId": 804154
+ },
+ "804155": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "10",
+    "location2": "rev.",
+    "orderedId": 8240002002002,
+    "priorityOfReading": 0,
+    "reading": "הקדושה",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804156
+   }
+  ],
+  "reading": "ירושלים",
+  "wordReadingId": 804155
+ },
+ "804156": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "10",
+    "location2": "rev.",
+    "orderedId": 8240002002001,
+    "priorityOfReading": 0,
+    "reading": "ירושלים",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 804155
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הקדושה",
+  "wordReadingId": 804156
+ },
+ "804157": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "11",
+    "location2": "obv.",
+    "orderedId": 8240003001002,
+    "priorityOfReading": 0,
+    "reading": "שתים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804158
+   }
+  ],
+  "reading": "שנת",
+  "wordReadingId": 804157
+ },
+ "804158": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "11",
+    "location2": "obv.",
+    "orderedId": 8240003001001,
+    "priorityOfReading": 0,
+    "reading": "שנת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804157
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שתים",
+  "wordReadingId": 804158
+ },
+ "804159": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "11",
+    "location2": "rev.",
+    "orderedId": 8240003002002,
+    "priorityOfReading": 0,
+    "reading": "ציון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804160
+   }
+  ],
+  "reading": "חרת",
+  "wordReadingId": 804159
+ },
+ "804160": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "11",
+    "location2": "rev.",
+    "orderedId": 8240003002001,
+    "priorityOfReading": 0,
+    "reading": "חרת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804159
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ציון",
+  "wordReadingId": 804160
+ },
+ "804161": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "12",
+    "location2": "obv.",
+    "orderedId": 8240004001002,
+    "priorityOfReading": 0,
+    "reading": "שתים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804162
+   }
+  ],
+  "reading": "שנת",
+  "wordReadingId": 804161
+ },
+ "804162": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "12",
+    "location2": "obv.",
+    "orderedId": 8240004001001,
+    "priorityOfReading": 0,
+    "reading": "שנת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804161
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שתים",
+  "wordReadingId": 804162
+ },
+ "804163": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "12",
+    "location2": "rev.",
+    "orderedId": 8240004002002,
+    "priorityOfReading": 0,
+    "reading": "ציון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804164
+   }
+  ],
+  "reading": "חרות",
+  "wordReadingId": 804163
+ },
+ "804164": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "12",
+    "location2": "rev.",
+    "orderedId": 8240004002001,
+    "priorityOfReading": 0,
+    "reading": "חרות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804163
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ציון",
+  "wordReadingId": 804164
+ }
+}

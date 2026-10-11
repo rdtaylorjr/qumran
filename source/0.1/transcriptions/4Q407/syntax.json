@@ -1,0 +1,40 @@
+{
+ "119197": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 3780001003003,
+    "priorityOfReading": 0,
+    "reading": "קודש",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119198
+   }
+  ],
+  "reading": "מ]לאכי",
+  "wordReadingId": 119197
+ },
+ "119198": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 3780001003002,
+    "priorityOfReading": 0,
+    "reading": "מ]לאכי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119197
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "קודש",
+  "wordReadingId": 119198
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "31818": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 650001001007,
+    "priorityOfReading": 0,
+    "reading": "אלהינ[ו",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 31819
+   }
+  ],
+  "reading": "י]הוה",
+  "wordReadingId": 31818
+ },
+ "31819": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 650001001006,
+    "priorityOfReading": 0,
+    "reading": "י]הוה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 31818
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אלהינ[ו",
+  "wordReadingId": 31819
+ },
+ "31833": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מ]לחמה",
+  "wordReadingId": 31833
+ },
+ "31834": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 650001003006,
+    "priorityOfReading": 0,
+    "reading": "ערי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31835
+   }
+  ],
+  "reading": "לתפש",
+  "wordReadingId": 31834
+ },
+ "31835": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 650001003005,
+    "priorityOfReading": 0,
+    "reading": "לתפש",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31834
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 650001003007,
+    "priorityOfReading": 0,
+    "reading": "מבצרים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31836
+   }
+  ],
+  "reading": "ערי",
+  "wordReadingId": 31835
+ },
+ "31836": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 650001003006,
+    "priorityOfReading": 0,
+    "reading": "ערי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31835
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מבצרים",
+  "wordReadingId": 31836
+ },
+ "31837": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולחריד",
+  "wordReadingId": 31837
+ },
+ "31846": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "1",
+    "orderedId": 650002001004,
+    "priorityOfReading": 0,
+    "reading": "ידעת[י",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 31847
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "1",
+    "orderedId": 650002001004,
+    "priorityOfReading": 1,
+    "reading": "ידעת[",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 807014
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כי",
+  "wordReadingId": 31846
+ },
+ "31847": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "1",
+    "orderedId": 650002001003,
+    "priorityOfReading": 0,
+    "reading": "כי",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 31846
+   }
+  ],
+  "reading": "ידעת[י",
+  "wordReadingId": 31847
+ },
+ "31849": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כי",
+  "wordReadingId": 31849
+ },
+ "31850": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "2",
+    "location2": "2",
+    "orderedId": 650002002003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 31851
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רחמיו",
+  "wordReadingId": 31850
+ },
+ "31851": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "2",
+    "orderedId": 650002002004,
+    "priorityOfReading": 0,
+    "reading": "ישרא[ל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31852
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "2",
+    "location2": "2",
+    "orderedId": 650002002002,
+    "priorityOfReading": 0,
+    "reading": "רחמיו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 31850
+   }
+  ],
+  "reading": "על",
+  "wordReadingId": 31851
+ },
+ "31852": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "2",
+    "orderedId": 650002002003,
+    "priorityOfReading": 0,
+    "reading": "על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31851
+   }
+  ],
+  "reading": "ישרא[ל",
+  "wordReadingId": 31852
+ },
+ "31854": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הוא",
+  "wordReadingId": 31854
+ },
+ "31855": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "3",
+    "orderedId": 650002003003,
+    "priorityOfReading": 0,
+    "reading": "דרכיו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31856
+   }
+  ],
+  "reading": "בכל",
+  "wordReadingId": 31855
+ },
+ "31856": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "3",
+    "orderedId": 650002003002,
+    "priorityOfReading": 0,
+    "reading": "בכל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31855
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דרכיו",
+  "wordReadingId": 31856
+ },
+ "31857": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "^דבריו^",
+  "wordReadingId": 31857
+ },
+ "31858": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולא[",
+  "wordReadingId": 31858
+ },
+ "31860": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "4",
+    "orderedId": 650002004002,
+    "priorityOfReading": 0,
+    "reading": "למ֯שפט֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31861
+   }
+  ],
+  "reading": "יתנם",
+  "wordReadingId": 31860
+ },
+ "31861": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "4",
+    "orderedId": 650002004001,
+    "priorityOfReading": 0,
+    "reading": "יתנם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31860
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "למ֯שפט֯",
+  "wordReadingId": 31861
+ },
+ "31862": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וכל[",
+  "wordReadingId": 31862
+ }
+}

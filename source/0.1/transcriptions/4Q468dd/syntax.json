@@ -1,0 +1,127 @@
+{
+ "139198": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001006,
+    "priorityOfReading": 0,
+    "reading": "חק[ק",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 139201
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001004,
+    "priorityOfReading": 0,
+    "reading": "הרצ[ון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 139199
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001005,
+    "priorityOfReading": 0,
+    "reading": "אש]ר֯",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 139200
+   }
+  ],
+  "reading": "ו֯מועדי",
+  "wordReadingId": 139198
+ },
+ "139199": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001003,
+    "priorityOfReading": 0,
+    "reading": "ו֯מועדי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 139198
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הרצ[ון",
+  "wordReadingId": 139199
+ },
+ "139200": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001003,
+    "priorityOfReading": 0,
+    "reading": "ו֯מועדי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 139198
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001006,
+    "priorityOfReading": 0,
+    "reading": "חק[ק",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 139201
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אש]ר֯",
+  "wordReadingId": 139200
+ },
+ "139201": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001003,
+    "priorityOfReading": 0,
+    "reading": "ו֯מועדי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 139198
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4750001001005,
+    "priorityOfReading": 0,
+    "reading": "אש]ר֯",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 139200
+   }
+  ],
+  "reading": "חק[ק",
+  "wordReadingId": 139201
+ }
+}

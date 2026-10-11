@@ -1,0 +1,40 @@
+{
+ "137288": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4300001001002,
+    "priorityOfReading": 0,
+    "reading": "התאחרת֯[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137289
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "איככה",
+  "wordReadingId": 137288
+ },
+ "137289": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4300001001001,
+    "priorityOfReading": 0,
+    "reading": "איככה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137288
+   }
+  ],
+  "reading": "התאחרת֯[",
+  "wordReadingId": 137289
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "140873": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]א֯יכה",
+  "wordReadingId": 140873
+ },
+ "140885": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 5020001005004,
+    "priorityOfReading": 0,
+    "reading": "כתו֯ב֯[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 140887
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 5020001005003,
+    "priorityOfReading": 0,
+    "reading": "אחר",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 140886
+   }
+  ],
+  "reading": "]־־־ם",
+  "wordReadingId": 140885
+ },
+ "140886": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 5020001005002,
+    "priorityOfReading": 0,
+    "reading": "]־־־ם",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 140885
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אחר",
+  "wordReadingId": 140886
+ },
+ "140887": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 5020001005002,
+    "priorityOfReading": 0,
+    "reading": "]־־־ם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 140885
+   }
+  ],
+  "reading": "כתו֯ב֯[",
+  "wordReadingId": 140887
+ },
+ "140911": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לאחיה[",
+  "wordReadingId": 140911
+ },
+ "140914": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ת֯ג֯לה",
+  "wordReadingId": 140914
+ }
+}

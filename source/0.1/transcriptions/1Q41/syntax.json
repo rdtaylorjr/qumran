@@ -1,0 +1,46 @@
+{
+ "30936": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וימרו",
+  "wordReadingId": 30936
+ },
+ "30944": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "1",
+    "orderedId": 340002001003,
+    "priorityOfReading": 0,
+    "reading": "הארץ[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30945
+   }
+  ],
+  "reading": "]כ֯ל֯",
+  "wordReadingId": 30944
+ },
+ "30945": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "1",
+    "orderedId": 340002001002,
+    "priorityOfReading": 0,
+    "reading": "]כ֯ל֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30944
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הארץ[",
+  "wordReadingId": 30945
+ }
+}

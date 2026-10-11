@@ -1,0 +1,190 @@
+{
+ "357860": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "עבר",
+    "lemmaId": 1339,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Hifʿil (Hebr.)",
+    "verbStemAbbr": "hif.",
+    "verbTense": "Imperativ",
+    "verbTenseAbbr": "imp.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "עבר",
+    "lemmaId": 1339,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "357889": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "חרף",
+    "lemmaId": 489,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "schmähen",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "communis",
+    "suffixGenderAbbr": "comm.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "1. Person",
+    "suffixPersonAbbr": "1.",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Partizip",
+    "verbTenseAbbr": "ptz.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "חרף",
+    "lemmaId": 489,
+    "rootDesignation": "I",
+    "shortDefinition": "schmähen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "357892": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "פקודים",
+    "lemmaId": 2193,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "2. Person",
+    "suffixPersonAbbr": "2.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "פקודים",
+    "lemmaId": 2193,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "357893": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "נצר",
+    "lemmaId": 2103,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "1. Person",
+    "personAbbr": "1.",
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "נצר",
+    "lemmaId": 2103,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "357894": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אל",
+    "lemmaId": 298,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "nicht",
+    "wordClass": "Negation",
+    "wordClassAbbr": "neg.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אל",
+    "lemmaId": 298,
+    "rootDesignation": "II",
+    "shortDefinition": "nicht",
+    "wordClassAbbreviation": "neg."
+   }
+  ]
+ }
+}

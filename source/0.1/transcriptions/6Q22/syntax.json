@@ -1,0 +1,40 @@
+{
+ "181456": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6360001003004,
+    "priorityOfReading": 0,
+    "reading": "מוש[ה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 181457
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 181456
+ },
+ "181457": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6360001003003,
+    "priorityOfReading": 0,
+    "reading": "אל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 181456
+   }
+  ],
+  "reading": "מוש[ה",
+  "wordReadingId": 181457
+ }
+}

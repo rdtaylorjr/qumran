@@ -1,0 +1,39 @@
+{
+ "361444": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לעולמים[",
+  "wordReadingId": 361444
+ },
+ "361493": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "6",
+    "orderedId": 10220001006001,
+    "priorityOfReading": 0,
+    "reading": "[המעשים",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 361492
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "6",
+    "orderedId": 10220001006003,
+    "priorityOfReading": 0,
+    "reading": "נעשו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 361494
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]אשר",
+  "wordReadingId": 361493
+ }
+}

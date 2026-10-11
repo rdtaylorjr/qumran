@@ -1,0 +1,153 @@
+{
+ "140766": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 1,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 2,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "כבש",
+    "lemmaId": 3648,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "rootDesignation": "I",
+    "shortDefinition": "niedertreten/-drücken, unterwerfen",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "verbTense": "Perfekt consecutivus",
+    "verbTenseAbbr": "pf.cons.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "כבש",
+    "lemmaId": 3648,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 1,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "rootDesignation": "I",
+    "shortDefinition": "niedertreten/-drücken, unterwerfen",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "verbTense": "Perfekt consecutivus",
+    "verbTenseAbbr": "pf.cons.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "כבש",
+    "lemmaId": 3648,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 2,
+    "rootDesignation": "I",
+    "shortDefinition": "niedertreten/-drücken, unterwerfen",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "verbTense": "Imperativ",
+    "verbTenseAbbr": "imp.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "כבש",
+    "lemmaId": 3648,
+    "rootDesignation": "I",
+    "shortDefinition": "niedertreten/-drücken, unterwerfen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "140770": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "ארץ",
+    "lemmaId": 108,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Erde, Erdboden, Land",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ארץ",
+    "lemmaId": 108,
+    "shortDefinition": "Erde, Erdboden, Land",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

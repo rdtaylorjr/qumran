@@ -1,0 +1,58 @@
+{
+ "179669": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עלם",
+  "wordReadingId": 179669
+ },
+ "179674": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כי",
+  "wordReadingId": 179674
+ },
+ "179675": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "תזכ[ר",
+  "wordReadingId": 179675
+ },
+ "179678": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6150002002003,
+    "priorityOfReading": 0,
+    "reading": "ת֯[נ]קו",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 179679
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כי",
+  "wordReadingId": 179678
+ },
+ "179679": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6150002002002,
+    "priorityOfReading": 0,
+    "reading": "כי",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 179678
+   }
+  ],
+  "reading": "ת֯[נ]קו",
+  "wordReadingId": 179679
+ }
+}

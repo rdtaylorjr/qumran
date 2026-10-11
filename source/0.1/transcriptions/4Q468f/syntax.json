@@ -1,0 +1,102 @@
+{
+ "138882": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4520001001003,
+    "priorityOfReading": 0,
+    "reading": "גלעד",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138883
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]ב֯נ֯י",
+  "wordReadingId": 138882
+ },
+ "138883": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4520001001002,
+    "priorityOfReading": 0,
+    "reading": "]ב֯נ֯י",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138882
+   }
+  ],
+  "reading": "גלעד",
+  "wordReadingId": 138883
+ },
+ "138885": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4520001002003,
+    "priorityOfReading": 0,
+    "reading": "הארץ",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138886
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 138885
+ },
+ "138886": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4520001002002,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138885
+   }
+  ],
+  "reading": "הארץ",
+  "wordReadingId": 138886
+ },
+ "138889": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לתת",
+  "wordReadingId": 138889
+ },
+ "138890": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בארץ",
+  "wordReadingId": 138890
+ },
+ "138892": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לאדם",
+  "wordReadingId": 138892
+ },
+ "138896": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אתה",
+  "wordReadingId": 138896
+ }
+}

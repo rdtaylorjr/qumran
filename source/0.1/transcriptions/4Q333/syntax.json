@@ -1,0 +1,141 @@
+{
+ "91538": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בי]חזקאל",
+  "wordReadingId": 91538
+ },
+ "91541": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3010001004003,
+    "priorityOfReading": 0,
+    "reading": "אמליוס",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91542
+   }
+  ],
+  "reading": "]הרג",
+  "wordReadingId": 91541
+ },
+ "91542": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3010001004002,
+    "priorityOfReading": 0,
+    "reading": "]הרג",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91541
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אמליוס",
+  "wordReadingId": 91542
+ },
+ "91548": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 3010001006002,
+    "priorityOfReading": 0,
+    "reading": "ב]י[את]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91547
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "גמול",
+  "wordReadingId": 91548
+ },
+ "91552": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "8",
+    "orderedId": 3010001008003,
+    "priorityOfReading": 0,
+    "reading": "אמליוס",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91553
+   }
+  ],
+  "reading": "]הרג",
+  "wordReadingId": 91552
+ },
+ "91553": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "8",
+    "orderedId": 3010001008002,
+    "priorityOfReading": 0,
+    "reading": "]הרג",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91552
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אמליוס",
+  "wordReadingId": 91553
+ },
+ "91555": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 3010002001003,
+    "priorityOfReading": 0,
+    "reading": "יהודי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 91556
+   }
+  ],
+  "reading": "]איש",
+  "wordReadingId": 91555
+ },
+ "91556": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 3010002001002,
+    "priorityOfReading": 0,
+    "reading": "]איש",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 91555
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהודי",
+  "wordReadingId": 91556
+ }
+}

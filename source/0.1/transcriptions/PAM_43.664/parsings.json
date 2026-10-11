@@ -1,0 +1,143 @@
+{
+ "200980": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "עז",
+    "lemmaId": 910,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "עז",
+    "lemmaId": 910,
+    "rootDesignation": "II",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ },
+ "201012": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "כרע",
+    "lemmaId": 2708,
+    "number": "dualis",
+    "numberAbbr": "du.",
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "Unterschenkel",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "כרע",
+    "lemmaId": 2708,
+    "rootDesignation": "I",
+    "shortDefinition": "Unterschenkel",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ },
+ "201015": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אין",
+    "lemmaId": 293,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "[Partikel zur Anzeige d. Nichtexistenz]",
+    "wordClass": "Negation",
+    "wordClassAbbr": "neg.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אין",
+    "lemmaId": 293,
+    "rootDesignation": "I",
+    "shortDefinition": "[Partikel zur Anzeige d. Nichtexistenz]",
+    "wordClassAbbreviation": "neg."
+   }
+  ]
+ },
+ "201021": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יון",
+    "lemmaId": 1588,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "Jonien",
+    "wordClass": "Gebietsname",
+    "wordClassAbbr": "n.t.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "יון",
+    "lemmaId": 3859,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 1,
+    "rootDesignation": "II",
+    "shortDefinition": "Schlamm",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יון",
+    "lemmaId": 1588,
+    "rootDesignation": "I",
+    "shortDefinition": "Jonien",
+    "wordClassAbbreviation": "n.t."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יון",
+    "lemmaId": 3859,
+    "rootDesignation": "II",
+    "shortDefinition": "Schlamm",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ }
+}

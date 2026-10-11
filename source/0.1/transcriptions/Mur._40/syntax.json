@@ -1,0 +1,53 @@
+{
+ "239967": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 7620001003001,
+    "priorityOfReading": 0,
+    "reading": "ש֯[מעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 239966
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 7620001003003,
+    "priorityOfReading": 0,
+    "reading": "מנח֯[ם]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 239968
+   }
+  ],
+  "reading": "ב]ר֯",
+  "wordReadingId": 239967
+ },
+ "239968": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 7620001003002,
+    "priorityOfReading": 0,
+    "reading": "ב]ר֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 239967
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מנח֯[ם]",
+  "wordReadingId": 239968
+ }
+}

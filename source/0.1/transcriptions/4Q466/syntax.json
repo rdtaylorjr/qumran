@@ -1,0 +1,46 @@
+{
+ "138725": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יניח֯[",
+  "wordReadingId": 138725
+ },
+ "138735": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4460001003004,
+    "priorityOfReading": 0,
+    "reading": "יהוה[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138736
+   }
+  ],
+  "reading": "עדת",
+  "wordReadingId": 138735
+ },
+ "138736": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4460001003003,
+    "priorityOfReading": 0,
+    "reading": "עדת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138735
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהוה[",
+  "wordReadingId": 138736
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "391720": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חנני",
+  "wordReadingId": 391720
+ },
+ "391735": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א֯ג֯לה",
+  "wordReadingId": 391735
+ },
+ "391774": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א֯ל֯",
+  "wordReadingId": 391774
+ },
+ "391885": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נודי",
+  "wordReadingId": 391885
+ },
+ "392051": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נמאס",
+  "wordReadingId": 392051
+ },
+ "392233": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ועינ[י]ם֯",
+  "wordReadingId": 392233
+ },
+ "392274": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ויתן",
+  "wordReadingId": 392274
+ },
+ "392306": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ו֯א֯[שי]גם֯",
+  "wordReadingId": 392306
+ },
+ "392332": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מושיע",
+  "wordReadingId": 392332
+ },
+ "392361": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בשו",
+  "wordReadingId": 392361
+ },
+ "392415": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-9",
+    "location2": "12",
+    "orderedId": 10970008009008,
+    "priorityOfReading": 0,
+    "reading": "ידיה֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 392416
+   }
+  ],
+  "reading": "כארו",
+  "wordReadingId": 392415
+ },
+ "392416": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-9",
+    "location2": "12",
+    "orderedId": 10970008009007,
+    "priorityOfReading": 0,
+    "reading": "כארו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 392415
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 8-9",
+    "location2": "12",
+    "orderedId": 10970008009004,
+    "priorityOfReading": 0,
+    "reading": "עדת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 392412
+   }
+  ],
+  "reading": "ידיה֯",
+  "wordReadingId": 392416
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "32368": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "לקח",
+    "lemmaId": 278,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Imperfekt",
+    "verbTenseAbbr": "impf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "לקח",
+    "lemmaId": 278,
+    "rootDesignation": "I",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "32369": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "את",
+    "lemmaId": 61,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "[not. acc.]",
+    "wordClass": "Objektmarker (nota accusativa)",
+    "wordClassAbbr": "not.acc.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "את",
+    "lemmaId": 61,
+    "rootDesignation": "I",
+    "shortDefinition": "[not. acc.]",
+    "wordClassAbbreviation": "not.acc."
+   }
+  ]
+ },
+ "32377": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מי",
+    "lemmaId": 568,
+    "parsingPriority": 0,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClass": "Fragepronomen, Person",
+    "wordClassAbbr": "pron.interr.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "מי",
+    "lemmaId": 568,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "pron.interr."
+   }
+  ]
+ },
+ "32378": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אנחנו",
+    "lemmaId": 66,
+    "parsingPriority": 0,
+    "shortDefinition": "[pron. 1.c.pl.]",
+    "wordClass": "Personalpronomen 1. c. pl.",
+    "wordClassAbbr": "pron. 1.c.pl.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אנחנו",
+    "lemmaId": 66,
+    "shortDefinition": "[pron. 1.c.pl.]",
+    "wordClassAbbreviation": "pron. 1.c.pl."
+   }
+  ]
+ }
+}

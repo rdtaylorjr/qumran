@@ -1,0 +1,76 @@
+{
+ "179751": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חולה֯[",
+  "wordReadingId": 179751
+ },
+ "179753": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וידי־[",
+  "wordReadingId": 179753
+ },
+ "179756": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]שמים",
+  "wordReadingId": 179756
+ },
+ "179757": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בעזרי",
+  "wordReadingId": 179757
+ },
+ "179762": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6210002002004,
+    "priorityOfReading": 0,
+    "reading": "ישכון֯[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 179763
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אז֯",
+  "wordReadingId": 179762
+ },
+ "179763": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6210002002003,
+    "priorityOfReading": 0,
+    "reading": "אז֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 179762
+   }
+  ],
+  "reading": "ישכון֯[",
+  "wordReadingId": 179763
+ },
+ "179771": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בני",
+  "wordReadingId": 179771
+ },
+ "179772": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יעקוב֯[",
+  "wordReadingId": 179772
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "272782": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מושה",
+  "wordReadingId": 272782
+ },
+ "272806": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 8760001005002,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 272805
+   }
+  ],
+  "reading": "יושבי",
+  "wordReadingId": 272806
+ }
+}

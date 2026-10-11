@@ -1,0 +1,64 @@
+{
+ "313897": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לאחיכמה",
+  "wordReadingId": 313897
+ },
+ "313907": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נותן",
+  "wordReadingId": 313907
+ },
+ "313985": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "3",
+    "orderedId": 9350002003011,
+    "priorityOfReading": 0,
+    "reading": "א֯[תמה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 313986
+   }
+  ],
+  "reading": "שמעתמה",
+  "wordReadingId": 313985
+ },
+ "313986": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "3",
+    "orderedId": 9350002003010,
+    "priorityOfReading": 0,
+    "reading": "שמעתמה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 313985
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א֯[תמה",
+  "wordReadingId": 313986
+ },
+ "314034": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אבוד",
+  "wordReadingId": 314034
+ },
+ "314059": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לכלותמה֯[",
+  "wordReadingId": 314059
+ }
+}

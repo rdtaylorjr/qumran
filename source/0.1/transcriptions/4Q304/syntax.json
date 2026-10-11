@@ -1,0 +1,46 @@
+{
+ "85387": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 2660001001002,
+    "priorityOfReading": 0,
+    "reading": "הארץ",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 85388
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ואת",
+  "wordReadingId": 85387
+ },
+ "85388": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 2660001001001,
+    "priorityOfReading": 0,
+    "reading": "ואת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 85387
+   }
+  ],
+  "reading": "הארץ",
+  "wordReadingId": 85388
+ },
+ "85392": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "החשך",
+  "wordReadingId": 85392
+ }
+}

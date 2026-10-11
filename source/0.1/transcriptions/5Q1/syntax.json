@@ -1,0 +1,106 @@
+{
+ "371559": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 10590001001007,
+    "priorityOfReading": 0,
+    "reading": "מדוי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 371555
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 10590001001010,
+    "priorityOfReading": 0,
+    "reading": "אשר",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 371558
+   }
+  ],
+  "reading": "^ראיתה^",
+  "wordReadingId": 371559
+ },
+ "371560": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 10590001001007,
+    "priorityOfReading": 0,
+    "reading": "מדוי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 371555
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 10590001001013,
+    "priorityOfReading": 0,
+    "reading": "ידעת",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 371561
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "^ואשר^",
+  "wordReadingId": 371560
+ },
+ "371594": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "האל",
+  "wordReadingId": 371594
+ },
+ "371596": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "איך",
+  "wordReadingId": 371596
+ },
+ "371614": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הי֯ו֯ם֯",
+  "wordReadingId": 371614
+ },
+ "371757": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ומ]הריה",
+  "wordReadingId": 371757
+ },
+ "371796": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בקרך",
+  "wordReadingId": 371796
+ },
+ "371829": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "המוצא",
+  "wordReadingId": 371829
+ },
+ "371945": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ע^י֯^נ֯ק֯[",
+  "wordReadingId": 371945
+ }
+}

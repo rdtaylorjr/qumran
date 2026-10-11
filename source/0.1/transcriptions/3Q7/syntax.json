@@ -1,0 +1,58 @@
+{
+ "32727": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אשר[",
+  "wordReadingId": 32727
+ },
+ "32735": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ז֯בו֯־[",
+  "wordReadingId": 32735
+ },
+ "32755": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "3",
+    "orderedId": 800005003003,
+    "priorityOfReading": 0,
+    "reading": "הפנים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32756
+   }
+  ],
+  "reading": "]מלאך",
+  "wordReadingId": 32755
+ },
+ "32756": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "3",
+    "orderedId": 800005003002,
+    "priorityOfReading": 0,
+    "reading": "]מלאך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32755
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הפנים",
+  "wordReadingId": 32756
+ },
+ "32767": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולוי",
+  "wordReadingId": 32767
+ }
+}

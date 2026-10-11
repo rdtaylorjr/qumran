@@ -1,0 +1,165 @@
+{
+ "238216": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]־[",
+  "wordReadingId": 238216
+ },
+ "238220": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 7520001002002,
+    "priorityOfReading": 0,
+    "reading": "נשיא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 238219
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יש]ראל",
+  "wordReadingId": 238220
+ },
+ "238221": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003001,
+    "priorityOfReading": 0,
+    "reading": "[שיושב",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 238222
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003006,
+    "priorityOfReading": 0,
+    "reading": "אמר]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 238227
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003006,
+    "priorityOfReading": 0,
+    "reading": "אמר]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 238227
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003001,
+    "priorityOfReading": 0,
+    "reading": "[שיושב",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238222
+   }
+  ],
+  "reading": "בח֯[־־]",
+  "wordReadingId": 238221
+ },
+ "238228": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003006,
+    "priorityOfReading": 0,
+    "reading": "אמר]",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 238227
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003006,
+    "priorityOfReading": 0,
+    "reading": "אמר]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 238227
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003008,
+    "priorityOfReading": 0,
+    "reading": "ב[ן]",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238229
+   }
+  ],
+  "reading": "להלל",
+  "wordReadingId": 238228
+ },
+ "238229": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 7520001003007,
+    "priorityOfReading": 0,
+    "reading": "להלל",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238228
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7520001004001,
+    "priorityOfReading": 0,
+    "reading": "[גריס",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 238230
+   }
+  ],
+  "reading": "ב[ן]",
+  "wordReadingId": 238229
+ },
+ "238232": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]־־[",
+  "wordReadingId": 238232
+ }
+}

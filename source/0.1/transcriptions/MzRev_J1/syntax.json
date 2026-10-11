@@ -1,0 +1,273 @@
+{
+ "804127": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "5",
+    "location2": "obv.",
+    "orderedId": 8220002001001,
+    "priorityOfReading": 0,
+    "reading": "חצי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804132
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "obv.",
+    "orderedId": 8220001001002,
+    "priorityOfReading": 0,
+    "reading": "ישראל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804128
+   }
+  ],
+  "reading": "שקל",
+  "wordReadingId": 804127
+ },
+ "804128": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "obv.",
+    "orderedId": 8220001001001,
+    "priorityOfReading": 0,
+    "reading": "שקל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804127
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישראל",
+  "wordReadingId": 804128
+ },
+ "804129": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א",
+  "wordReadingId": 804129
+ },
+ "804130": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "rev.",
+    "orderedId": 8220001002002,
+    "priorityOfReading": 0,
+    "reading": "קדשה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 804131
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יר?ו?שלם",
+  "wordReadingId": 804130
+ },
+ "804131": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "rev.",
+    "orderedId": 8220001002001,
+    "priorityOfReading": 0,
+    "reading": "יר?ו?שלם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 804130
+   }
+  ],
+  "reading": "קדשה",
+  "wordReadingId": 804131
+ },
+ "804132": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "obv.",
+    "orderedId": 8220001001001,
+    "priorityOfReading": 0,
+    "reading": "שקל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804127
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "5",
+    "location2": "obv.",
+    "orderedId": 8220002001002,
+    "priorityOfReading": 0,
+    "reading": "השקל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804133
+   }
+  ],
+  "reading": "חצי",
+  "wordReadingId": 804132
+ },
+ "804133": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "5",
+    "location2": "obv.",
+    "orderedId": 8220002001001,
+    "priorityOfReading": 0,
+    "reading": "חצי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804132
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "השקל",
+  "wordReadingId": 804133
+ },
+ "804134": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א",
+  "wordReadingId": 804134
+ },
+ "804135": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "5",
+    "location2": "rev.",
+    "orderedId": 8220002002002,
+    "priorityOfReading": 0,
+    "reading": "קדשה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 804136
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ירושלם",
+  "wordReadingId": 804135
+ },
+ "804136": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "5",
+    "location2": "rev.",
+    "orderedId": 8220002002001,
+    "priorityOfReading": 0,
+    "reading": "ירושלם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 804135
+   }
+  ],
+  "reading": "קדשה",
+  "wordReadingId": 804136
+ },
+ "804137": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "7",
+    "location2": "obv.",
+    "orderedId": 8220003001002,
+    "priorityOfReading": 0,
+    "reading": "השל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804138
+   }
+  ],
+  "reading": "רבע",
+  "wordReadingId": 804137
+ },
+ "804138": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "7",
+    "location2": "obv.",
+    "orderedId": 8220003001001,
+    "priorityOfReading": 0,
+    "reading": "רבע",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 804137
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "השל",
+  "wordReadingId": 804138
+ },
+ "804139": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א",
+  "wordReadingId": 804139
+ },
+ "804140": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "7",
+    "location2": "rev.",
+    "orderedId": 8220003002002,
+    "priorityOfReading": 0,
+    "reading": "קדשה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 804141
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ירושלם",
+  "wordReadingId": 804140
+ },
+ "804141": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "7",
+    "location2": "rev.",
+    "orderedId": 8220003002001,
+    "priorityOfReading": 0,
+    "reading": "ירושלם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 804140
+   }
+  ],
+  "reading": "קדשה",
+  "wordReadingId": 804141
+ }
+}

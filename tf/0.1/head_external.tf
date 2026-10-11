@@ -1,0 +1,4350 @@
+@edge
+@edgeValues
+@compiler=DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
+@converters=Rusty Taylor
+@copynote1=© 2022 DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
+@copynote2=Bereitgestellt durch das DFG-Projekt Nr. 465277421 Qumran-Digital: Text und Lexikon auf der Grundlage eines Textes des früheren Projekts Qumran-Wörterbuch der Niedersächsischen Akademie der Wissenschaften zu Göttingen, der auf einem Vorläufertext von Martin Abegg basierte.
+@copynote3=Modified: converted from HTML and JSON to Text-Fabric, see docs/transcription.md. Provided as is, without warranties, see the disclaimer in the license.
+@description=as head, valued by the categories of the links marked external to the phrase
+@license=Creative Commons Attribution-ShareAlike 4.0 International
+@licenseUrl=https://creativecommons.org/licenses/by-sa/4.0/
+@name=Qumran
+@source=Qumran-Digital: Text und Lexikon, API version 1
+@sourceFormat=HTML and JSON
+@sourceUrl=https://lexicon.qumran-digital.org/v1/qumran
+@valueType=str
+@version=0.1
+@writtenBy=Text-Fabric
+@dateWritten=2026-10-11T19:17:03+00:00Z
+
+13	33	Subjekt
+31	33	Objekt
+97	100	gen. Attribut
+99	108,114,122,130,140	Subjekt
+99	103-105	gen. Attribut
+112	116,120	gen. Attribut
+126	122	Adverb
+126	128,131,135	gen. Attribut
+139	gen. Attribut
+135	133	Adverb
+144	162	Subjekt
+172	177	gen. Attribut
+218	214	Subjekt
+248	260	Subjekt
+248	252	gen. Attribut
+273	280-281	Subjekt
+315	323	gen. Attribut
+344	346	Subjekt
+346	Subjekt
+351	356	Subjekt
+351	349,355	gen. Attribut
+357	351	Präposition
+359	354	Präposition
+380	377	adj. Attribut
+385	387	gen. Attribut
+409	413	Subjekt
+411	Präposition
+436	447	gen. Attribut
+442	437	Subjekt
+464	466	gen. Attribut
+473	475	gen. Attribut
+502	509	gen. Attribut
+577	581	gen. Attribut
+586	598	gen. Attribut
+588	592	Erweiterung Zahl (synd.)
+588	599	Subjekt
+588	591	fig. etym.
+588	613	gen. Attribut
+591	589	Subjekt
+626	628	Subjekt
+626	640	gen. Attribut
+654	655-656	Subjekt
+659	668	gen. Attribut
+663	667,669-670,672	gen. Attribut
+676	698,702,706	Subjekt
+679	698	Objekt
+679	682,686	Subjekt
+679	685,687,700	gen. Attribut
+682	Apposition
+680	698	Objekt
+680	686	Subjekt
+680	685,687,700	gen. Attribut
+703	706	Adverb
+703	710	Subjekt
+707	703	Präposition
+711	709	Präposition
+733	737	Subjekt
+743	747	Subjekt
+748	760,765,771,774	gen. Attribut
+752	755-757,759,767,769	gen. Attribut
+778	787	Subjekt
+778	781	gen. Attribut
+788	804	Objekt
+788	823	Subjekt
+788	810	gen. Attribut
+800	814	Objekt
+800	817	gen. Attribut
+803	810	gen. Attribut
+805	811	Subjekt
+893	896	Adverb
+978	976	gen. Attribut
+1014	1024	gen. Attribut
+1017	1025	Subjekt
+1070	1072,1074	gen. Attribut
+1086	1089	Subjekt
+1100	1101	gen. Attribut
+1108	1114	gen. Attribut
+1169	1204	Objekt
+1173	1175,1177,1185	Subjekt
+1191	1198,1204	Subjekt
+1206	1207	Subjekt
+1220	1222	Subjekt
+1227	1229	Objekt
+1279	1284	gen. Attribut
+1331	1345,1372	Subjekt
+1336	1371	fig. etym.
+1336	1365,1373	gen. Attribut
+1347	1357	Adverb
+1361	1367	gen. Attribut
+1398	1400	Adverb
+1400	Adverb
+1401	1398-1399	Präposition
+1495	1501	Subjekt
+1495	1498	gen. Attribut
+1498	gen. Attribut
+1512	1514	Subjekt
+1525	1528	Subjekt
+1532	1537	gen. Attribut
+1576	1578	Objekt
+1582	1584	Subjekt
+1590	1592,1594	gen. Attribut
+1598	1599	gen. Attribut
+1610	1612,1614	gen. Attribut
+1615	1610	Subjekt
+1618	1620	gen. Attribut
+1620	1628	Adverb
+1697	1692	Präposition
+1717	1719	gen. Attribut
+1751	1752	fig. etym.
+1777	1775	Subjekt
+1783	1784	gen. Attribut
+1790	1792	Subjekt
+1802	1808	gen. Attribut
+1839	1848	Subjekt
+1842	1839	Präposition
+1849	1850	Subjekt
+1855	1858	Subjekt
+1855	1857	gen. Attribut
+1959	1962	gen. Attribut
+1972	1999	Subjekt
+1993	1999	Subjekt
+2039	2045	Objekt
+2039	2041	Subjekt
+2084	2085	Subjekt
+2097	2099	Subjekt
+2101	2106	Objekt
+2113	2091	Konjunktion
+2116	2119	Adverb
+2116	2114	Präposition
+2124	2121	Adverb
+2153	2150	Adverb
+2176	2180	Objekt
+2176	2179	Subjekt
+2255	2261	Subjekt
+2266	2268,2282	Subjekt
+2266	2284	gen. Attribut
+2276	2278	gen. Attribut
+2292	2288	gen. Attribut
+2305	2310,2315	Subjekt
+2316	2318	Subjekt
+2322	2317	Präposition
+2326	2328	Subjekt
+2398	2400	Subjekt
+2398	2420	gen. Attribut
+2427	2432	Subjekt
+2576	2584	Objekt
+2619	2621	Objekt
+2680	2682	Adverb
+2700	2703	Subjekt
+2782	2787-2788	gen. Attribut
+2836	2839	Subjekt
+2849	2855	gen. Attribut
+2863	2869	gen. Attribut
+2872	2876,2878	Subjekt
+2893	2899	Adverb
+2893	2896	Objekt
+2911	2968,2970	gen. Attribut
+2931	Präposition
+2910	Präposition
+2943	2946	gen. Attribut
+2960	2963	Objekt
+2960	2962	gen. Attribut
+3028	3030	Subjekt
+3028	3031	gen. Attribut
+3055	3056	Adverb
+3057	3055	Präposition
+3061	3058	Präposition
+3085	3090	gen. Attribut
+3094	3097	Objekt
+3117	3119	Objekt
+3120	3134	Subjekt
+3123	3126	Subjekt
+3123	3125,3129	gen. Attribut
+3132	3136	Objekt
+3132	3135	gen. Attribut
+3139	3140	Präposition
+3144	3148	Subjekt
+3179	3181	gen. Attribut
+3193	3195	gen. Attribut
+3197	3200	gen. Attribut
+3249	3255	gen. Attribut
+3255	3256	Subjekt, gen. Attribut
+3370	3371	gen. Attribut
+3435	3439	gen. Attribut
+3456	3454	Objekt
+3454	Objekt
+3454	Adverb, Präposition
+3467	3455	Präposition
+3514	3528	Subjekt
+3514	3527,3529	gen. Attribut
+3543	3548	Subjekt
+3552	3560	gen. Attribut
+3566	3592	Objekt
+3570	3592	Objekt
+3570	3572	Subjekt
+3574	3592	Objekt
+3574	3572	Subjekt
+3592	Objekt
+3575	3572	Subjekt
+3577	3572	Adverb
+3579	3572	Subjekt
+3592	Objekt
+3572	Subjekt
+3592	Objekt
+3584	3572	Subjekt
+3572	Subjekt
+3592	Objekt
+3572	Adverb
+3591	3592	Subjekt
+3632	3638	Konjunktion
+3635	gen. Attribut
+3636	3639	gen. Attribut
+3641	3643	gen. Attribut
+3671	3672,3698	Subjekt
+3671	3689,3697	gen. Attribut
+3711	3709,3724	Subjekt
+3730	3738	Konjunktion
+3790	3795	gen. Attribut
+3818	3823	gen. Attribut
+3832,3835	gen. Attribut
+3821	3825	Subjekt
+3834	3830	Subjekt
+3838	3830	Subjekt
+3878	3884	gen. Attribut
+3882	gen. Attribut
+4017	4022,4026,4028,4031,4033	Subjekt
+4049	4050	gen. Attribut
+4060	4061	gen. Attribut
+4136	4138	gen. Attribut
+4165	4169	Subjekt
+4173	4175	gen. Attribut
+4198,4202	Subjekt
+4176	4198	Subjekt
+4180	4198	Subjekt
+4182	4198	Subjekt
+4184	4198	Subjekt
+4186	4198	Subjekt
+4188	4191	Objekt
+4198	Subjekt
+4194	4198,4202	Subjekt
+4283	4285-4286	gen. Attribut
+4324	4327	Subjekt
+4367	4380	gen. Attribut
+4383	4386	Subjekt
+4641	4656	Subjekt
+4646	4641	Präposition
+4658	Subjekt
+4647	4649,4653	gen. Attribut
+4655	4656	Objekt
+4659	4641	Subjekt
+4789	4824	Subjekt
+4833	4837	Konjunktion
+5218	5222	gen. Attribut
+5222	gen. Attribut
+5221	5228	gen. Attribut
+5229	5231	gen. Attribut
+5233	5238	gen. Attribut
+5258	5252	Subjekt
+5300	5302	gen. Attribut
+5308	5310-5311	gen. Attribut
+5310-5311	gen. Attribut
+5338	5340	Subjekt
+5350	5352,5358,5361,5374	Subjekt
+5350	5355-5356	gen. Attribut
+5415	5419	Objekt
+5422	5439	gen. Attribut
+5425	Subjekt
+5427	5434-5435,5440	Objekt
+5440	5422	Subjekt
+5443	5427	Adverb
+5446	5447-5448	Subjekt
+5446	5451	gen. Attribut
+5449	5450	gen. Attribut
+5476	5477	gen. Attribut
+5515	5517	gen. Attribut
+5523	5532,5536	gen. Attribut
+5567	5572,5577	Subjekt
+5569	5572,5577	Subjekt
+5574	5577	Objekt
+5579	5583	Subjekt
+5591	5600	Objekt
+5591	5602	Subjekt
+5591	5597	gen. Attribut
+5595	Objekt
+5594	5595	Objekt
+5621	5622	Subjekt
+5683	5685	Subjekt
+5753	5756	Objekt
+5766	5790	Adverb
+5766	5789,5794,5796	Subjekt
+5780	5782	Objekt
+5804	5807	gen. Attribut
+5816	5821	Objekt
+5851	5856	Objekt
+5851	5861	gen. Attribut
+5910	5920,5924,5948	Subjekt
+5910	5923	gen. Attribut
+5934	5937	Subjekt
+5977	5979-5980	Subjekt
+6013	6017	Subjekt
+6013	6025	gen. Attribut
+6025	6013	gen. Attribut
+6027	6013	gen. Attribut
+6039	6042	Adverb
+6042	Adverb
+6046	6054	Objekt
+6046	6066	Subjekt
+6046	6057	gen. Attribut
+6050	6053	gen. Attribut
+6070	6073	gen. Attribut
+6089	6094	Objekt
+6126	6139	Subjekt
+6165	6168,6170,6174	Subjekt
+6171	6178	gen. Attribut
+6244	6247	Subjekt
+6287	6290-6291	gen. Attribut
+6340	6342	Adverb
+6340	6347,6367-6368,6397	Subjekt
+6340	6345	gen. Attribut
+6343	6340	Präposition
+6345	6347	Objekt
+6379	6381	Adverb
+6381	Adverb
+6382	6379-6380	Präposition
+6387	Subjekt
+6394	6397	Adverb
+6406	6410	Adverb
+6406	6401	Subjekt
+6410	Adverb
+6407	6401	Subjekt
+6413	6406-6407	Präposition
+6421	6425	Objekt
+6427	6421	fig. etym.
+6436	6437	Subjekt
+6439	6438	Subjekt
+6464	6466	Subjekt
+6562	6567	gen. Attribut
+6598	6605	Apposition
+6605	Subjekt
+6613	6617	gen. Attribut
+6630	6631	Adverb
+6632	6630	Präposition
+6683	6687,6689	gen. Attribut
+6770	6780	Subjekt
+6785	6789,6791	gen. Attribut
+6969	6967	Subjekt
+6974	6977	gen. Attribut
+7097	7099	gen. Attribut
+7144	7150	gen. Attribut
+7183	7184	adj. Attribut
+7186	7189	Subjekt
+7265	7268	gen. Attribut
+7273	7278	gen. Attribut
+7309	7314	gen. Attribut
+7488	7491	gen. Attribut
+7539	7545	gen. Attribut
+7549	7552	gen. Attribut
+7570	7609	gen. Attribut
+7590	7593	Subjekt
+7593	Subjekt
+7593	Subjekt
+7603	7606	gen. Attribut
+7628	7631	Subjekt
+7631	Subjekt
+7631	Subjekt
+7669	7689	Adverb
+7702	7705	gen. Attribut
+7846	7844	gen. Attribut
+7858	7868	gen. Attribut
+7871	7874	Apposition
+7871	7867	Subjekt
+7876	7867	Adverb, Präposition
+7924	7938	Subjekt
+8039	8050	Subjekt
+8041	8050	Subjekt
+8043	8050	Subjekt
+8045	8050	Subjekt
+8047	8050	Subjekt
+8080	8111	gen. Attribut
+8082	8078-8079	gen. Attribut
+8084	8087	gen. Attribut
+8106	8109	Subjekt
+8186	8191	Objekt
+8199	8202	gen. Attribut
+8255	8261	Subjekt
+8281	8294	Subjekt
+8307	8311	Objekt
+8327	8333	gen. Attribut
+8354	8362	Subjekt
+8532	8536,8540,8544,8547	Subjekt
+8539	8542	gen. Attribut
+8604	8605	Apposition
+8682	8683	Subjekt
+8688	8694,8712	gen. Attribut
+8756	8761	Subjekt
+8768	8771	Objekt
+8771	Objekt
+8788	8787	Objekt
+8791	8790	Objekt
+8813	8820	gen. Attribut
+8843	8841	gen. Attribut
+8891	8894	Subjekt
+8936	8938	Konjunktion
+8947	8962	Subjekt
+9006	9001	Adverb, Präposition
+9012	9017	Subjekt
+9170	9174,9176	gen. Attribut
+9221	9219	Subjekt
+9271	9272	gen. Attribut
+9312	9318	Subjekt
+9318	Subjekt
+9322	9327	gen. Attribut
+9331	9335	gen. Attribut
+9354	9357	Subjekt
+9354	9360,9364	gen. Attribut
+9363	9368	Subjekt
+9363	9367,9373	gen. Attribut
+9384	9393	Subjekt
+9392	9395	Objekt
+9461	9459	Präposition
+9576	9580,9584	gen. Attribut
+9653	9661	gen. Attribut
+9731	9733	Subjekt
+9731	9740	gen. Attribut, gen. Attribut
+9778	9780	Subjekt
+9780	Adverb
+9781	9779	Präposition
+9789	9791	gen. Attribut
+9791	9788	Subjekt
+9799	gen. Attribut
+9795	9788	Subjekt
+9795	9799	gen. Attribut
+9797	9788-9789	Präposition
+9821	9829,9833	Subjekt
+9821	9828	gen. Attribut
+9857	9861	Konjunktion
+9864	9861	Präposition
+10003	10005	gen. Attribut
+10074	10078	Adverb, Präposition
+10077	10078	Subjekt
+10100	10102,10105	Subjekt
+10109	10118	gen. Attribut
+10147	10150	Subjekt
+10158	10165	gen. Attribut
+10165	gen. Attribut
+10162	10165	gen. Attribut
+10181	10184	gen. Attribut
+10252	10254,10256	Subjekt
+10276	10278	gen. Attribut
+10390	10394	Adverb
+10409	10410	Subjekt
+10414	10419	Präposition
+10416	10419	Subjekt
+10419	Subjekt
+10432	10431	gen. Attribut
+10502	10511	gen. Attribut
+10616	10617	gen. Attribut
+11122	11124	Objekt
+11159	11167	gen. Attribut
+11345	11347	Objekt
+11458	11460	Präposition
+11486	11491	Konjunktion
+11497	11499	Subjekt
+11562	11568	Subjekt
+11631	11642	Subjekt
+11713	11716	Konjunktion
+11751	11755,11758	Objekt
+11751	11754,11757	gen. Attribut
+11795	11794	Objekt
+11821	11823	Objekt
+11914	11913	gen. Attribut
+12035	12036	gen. Attribut
+12039	12052	Objekt
+12039	12040	Subjekt
+12039	12041,12049,12087	gen. Attribut
+12043	12050	Konjunktion
+12055	12056	Subjekt
+12149	12153	Subjekt
+12149	12154	gen. Attribut
+12158	12159	gen. Attribut
+12168	12174	Konjunktion
+12310	12309	Objekt
+12376	12379	gen. Attribut
+12419	12417	Subjekt
+12494	12497	Objekt
+12655	12657	Subjekt
+12678	12682	gen. Attribut
+12683	12702	gen. Attribut
+12710	12714	gen. Attribut
+12714	gen. Attribut
+12724	12727	Objekt
+12727	Objekt
+12829	12832	gen. Attribut
+12871	12873	gen. Attribut
+12913	12917	Subjekt
+12913	12914,12916	gen. Attribut
+12941	12943	Adverb
+12975	12978	Subjekt
+13107	13119	Subjekt
+13110	13112	Subjekt
+13114	13119	Subjekt
+13116	13119	Subjekt
+13188	13190	Präposition
+13200	13199	Objekt
+13311	13310	Objekt
+13351	13360	Subjekt
+13360	Subjekt
+13412	13413	Subjekt
+13412	13415	gen. Attribut
+13457	13459	Subjekt
+13477	13484	Subjekt
+13485	13488	Subjekt
+13485	13495	gen. Attribut
+13597	13596	Objekt
+13597	13604	Subjekt
+13596	Adverb
+13637	13643	Subjekt
+13732	13743,13753,13764	Subjekt
+13736	13749	gen. Attribut
+13742	13749	gen. Attribut
+13778	13785	gen. Attribut
+13796	13798	gen. Attribut
+13829	13828	Objekt
+13898	13900	Objekt
+13907	13906	Objekt
+13907	13909	Subjekt
+13907	13911	gen. Attribut
+13952	13949	Adverb, Präposition
+13954	13958	Subjekt
+13958	Subjekt
+13970	13972	Objekt
+13979	13980	gen. Attribut
+14006	14009	Subjekt
+14060	14063	Subjekt
+14067	14064	Subjekt
+14070	14071,14073	Subjekt
+14221	14226	Konjunktion
+14230	14245	Subjekt
+14230	14252,14254	gen. Attribut
+14236	14242	Adverb
+14241	14242	Objekt
+14347	14350	Konjunktion
+14379	14378	Objekt
+14429	14434	Objekt
+14437	14449	Subjekt
+14437	14453	gen. Attribut
+14455	14462	Subjekt
+14457,14462	Subjekt
+14456	14461,14467	gen. Attribut
+14487	14489	Subjekt
+14487	14491	gen. Attribut
+14504	14506	gen. Attribut
+14522	14523	Objekt
+14545	14552	Subjekt
+14553	14552	Objekt
+14552	Adverb
+14552	Objekt
+14557	14552	Adverb
+14563	14560	Objekt
+14563	14561	Subjekt
+14569	Konjunktion
+14578	14592	Subjekt
+14604	14605,14607-14608	Präposition
+14633	14634	Objekt
+14735	14734	Objekt
+14784	14786	Subjekt
+14878	14880	Objekt
+14964	14973,14976,14983	gen. Attribut
+15036	15045	Objekt
+15105	15108	Subjekt
+15121	15125	Subjekt
+15139	15142	Subjekt
+15161	15164	Subjekt
+15173	15175,15183	Subjekt
+15173	15174	gen. Attribut
+15317	15316	Objekt
+15317	15323	Subjekt
+15317	15322	gen. Attribut
+15339	15337	Apposition
+15485	15487	gen. Attribut
+15534	15533	Objekt
+15552	15556	Adverb
+15552	15550,15554	Subjekt
+15573	15578,15584	Objekt
+15612	15611	Objekt
+15711	15710	Objekt
+15746	15758,15764	gen. Attribut
+15779	15753	Präposition
+15781	15785	Subjekt
+15805	15806	Subjekt
+15860	15861	Subjekt
+15867	15861	Objekt
+15877	Subjekt
+15968	15964	Präposition
+16038	16043,16046	gen. Attribut
+16101	16105	Subjekt
+16194	16191	Subjekt
+16191	Adverb
+16432	16439	Subjekt
+16564	16565	Subjekt
+16583	16586	Objekt
+16658	16659	gen. Attribut
+16673	16671	Subjekt
+16732	16731	gen. Attribut
+16819	16818	gen. Attribut
+16818	gen. Attribut
+16982	16983	Subjekt
+17007	17009	Subjekt
+17054	17053	Objekt
+17056	17055	Objekt
+17078	17082	Konjunktion
+17088	17089	Adverb
+17186	17184	Subjekt
+17233	17231	Subjekt
+17301	17302	gen. Attribut
+17312	17319	Subjekt
+17312	17321	gen. Attribut
+17314	17315	gen. Attribut
+17346	17348	Subjekt
+17368	17367	Objekt
+17368	17371	Subjekt
+17368	17376,17378	gen. Attribut
+17371	Objekt
+17495	17498	Subjekt
+17546	17548	gen. Attribut
+17626	17631	Adverb
+17652	17651	Subjekt
+17806	17807	Subjekt
+17885	17887	Objekt
+18127	18131	Subjekt
+18240	18242	gen. Attribut
+18244	18246	gen. Attribut
+18250	18252	Objekt
+18256	18257,18263	Subjekt
+18666	18669	Subjekt
+19053	19062	Subjekt
+19986	19988	Erweiterung Zahl (synd.)
+20012	20015	Objekt
+26425	26423	Subjekt
+26439	26429,26442,26446	Objekt
+26512	26519	Objekt
+26549	26552	Objekt
+26593	26597	Objekt
+26655	26657	Adverb
+26658	26655	Präposition
+26687	26689	Subjekt
+26693	26696	Subjekt
+26739	26741	Subjekt
+27798	27800	Subjekt
+27825	27826	gen. Attribut
+27851	27860	Subjekt
+27854	27860	Subjekt
+27864	27868	gen. Attribut
+27866	27869	Subjekt
+27875	27879	Adverb
+27880	27875	Präposition
+27882	27885	Agens
+27895	27898	Subjekt
+27895	27899	gen. Attribut
+27901	27904	Subjekt
+27904	Subjekt
+28428	28430	Subjekt
+28624	28626	Subjekt
+28729	28733	Objekt
+28729	28741	Subjekt
+30148	30150,30153	Adverb
+31478	31480	Subjekt
+31489	31491	gen. Attribut
+31502	31508	Subjekt
+31504	31507	gen. Attribut
+31585	31590	gen. Attribut
+31597	31601	Subjekt
+31605	31597	Präposition
+31612	31613	Subjekt
+31622	31620	gen. Attribut
+31628	31629	Subjekt
+31676	31677	Subjekt
+31697	31701	gen. Attribut
+31720	31722	Subjekt
+31720	31725	gen. Attribut
+31735	31737	Subjekt
+31743	31745	Subjekt
+31785	31788,31790	gen. Attribut
+31787	31785	gen. Attribut
+31865	31866	Subjekt
+31940	31941	Subjekt
+31949	31953	Subjekt
+31951	31953	Objekt
+32013	32014	Subjekt
+32094	32095	Subjekt
+32106	32111	Subjekt
+32130	32136	gen. Attribut
+32186	32188	gen. Attribut
+32201	32206	gen. Attribut
+32218	32221	Subjekt
+32224	32225	Subjekt
+32236	32230	Präposition
+32245,32247	gen. Attribut
+32256	32261	gen. Attribut
+32302	32300	gen. Attribut
+32300	gen. Attribut
+32317	32322	gen. Attribut
+32341	32342	Subjekt
+32363	32361,32367,32418,32424	Objekt
+32373	32372	gen. Attribut
+32393	32394	Subjekt
+32397	32398	gen. Attribut
+32399	32400	gen. Attribut
+32405	32404,32408	gen. Attribut
+32420	32361,32367,32418,32424	Objekt
+32433	32434	Subjekt
+32436	32438	Subjekt
+32462	32464,32469	Subjekt
+32478	32479	gen. Attribut
+32483	32484	gen. Attribut
+32546	32548	Subjekt
+33773	33781	Objekt
+33778	33781	Objekt
+33962	33966	Präposition
+33965-33966	Objekt
+33971	33973	gen. Attribut
+34083	34087	Subjekt
+34087	Objekt
+34086	34087	Objekt
+34163	34169	Objekt
+34165	34169	Objekt
+34168	34169	Objekt
+34185	34187	gen. Attribut
+34188	34192	gen. Attribut
+34310	34312	gen. Attribut
+34326	34318	Adverb, Präposition
+34329	34326	Subjekt
+34460	34468	Subjekt
+34464	34468,34471	Objekt
+34464	34477	Subjekt
+34630	34627	Objekt
+35003	35007	gen. Attribut
+35007	gen. Attribut
+35036	35038	Subjekt
+35113	35115	Subjekt
+35159	35162	Adverb
+35169	35172	gen. Attribut
+35225	35228	Subjekt
+35229	35232	Objekt
+35262	35264	Subjekt
+35262	35263,35269-35270	gen. Attribut
+35276	35279	Subjekt
+35280	35282	Subjekt
+35295	35297,35300	Subjekt
+35295	35296,35298	gen. Attribut
+35300	Objekt
+35296	35304	gen. Attribut
+35299	35296	Präposition
+35317	35321	Subjekt
+35321	Subjekt
+35382	35395	Subjekt
+35382	35394,35398	gen. Attribut
+35647	35645	Subjekt
+35914	35917	Subjekt
+35924	35925	Objekt
+36234	36235	Subjekt
+36736	36738	gen. Attribut
+36834	36837	Adverb
+36894	36893	Subjekt
+37153	37158	Objekt
+37163	37165	Objekt
+37178	37179	gen. Attribut
+37209	37211	Adverb
+37241	37252,37254	Objekt
+37241	37245	Subjekt
+37252,37254	Objekt
+37242	37245	Subjekt
+37283	37287,37289	Subjekt
+37283	37288	gen. Attribut
+37287,37289	Subjekt
+37284	37288	gen. Attribut
+37727	37731	Objekt
+37753	37755	Subjekt
+37829	37833	Subjekt
+37853	37856	gen. Attribut
+37863	37866	Subjekt
+37863	37867,37869	gen. Attribut
+37929	37935	Objekt
+37932	37935	Subjekt
+37945	37949	gen. Attribut
+38000	38020,38030	gen. Attribut
+38043	38049,38051,38066	gen. Attribut
+38045	38054	Subjekt
+38100	38101	gen. Attribut
+38120	38148	Subjekt
+38120	38137,38145	gen. Attribut
+38142	38148	Objekt
+38268	38276	gen. Attribut
+38410	38413	Subjekt
+38443	38447	Subjekt
+38470	38473	gen. Attribut
+38473	38474	Objekt
+38481	38483	Subjekt
+38500	38502,38507	Subjekt
+38523	38535	gen. Attribut
+38538	38541,38544-38545	Subjekt
+38547	38550	Subjekt
+38558	38559,38561	Subjekt
+38558	38560	gen. Attribut
+38574	38578-38579	Subjekt
+38581	38583	gen. Attribut
+38584	38586	Subjekt
+38643	38646	Subjekt
+38705	38708,38713	Subjekt
+38737	38734	Präposition
+38734	Subjekt
+38752	38757	Agens
+38752	38758	Subjekt
+38754	38757-38758	Subjekt
+38780	38784	Adverb
+38780	38790	Objekt
+38780	38791	Subjekt
+38804	38806,38813	gen. Attribut
+38806	38807	Subjekt
+38885	38888	Subjekt
+38940	38951	Objekt
+39033	39034	Subjekt
+39348	39347	gen. Attribut
+39410	39407	Adverb
+39438	39441	Adverb
+39472	39473	gen. Attribut
+39477	39480	Adverb
+39498	39502	Subjekt
+39510	39512	Adverb
+39513	39510	Präposition
+39525	39528	Subjekt
+39563	39565	Subjekt
+39567	39569	Subjekt
+39655	39657	Subjekt
+39824	39819	gen. Attribut
+40059	40063,40068	Objekt
+40066	40068	Objekt
+40088	40102	Adverb
+40088	40097	Subjekt
+40096	40088	gen. Attribut
+40104	40116	gen. Attribut
+40163	40198	Subjekt
+40169	40172,40174	Objekt
+40169	40178	Subjekt
+40178	40186	gen. Attribut
+40210	40209	Subjekt
+40223	40230	Adverb, Präposition
+40232	40239	Subjekt
+40236	40239	Objekt
+40244	40248-40249,40253,40256,40259	Subjekt
+40244	40252	gen. Attribut
+40375	40380,40385	Objekt
+40399	40401	Subjekt
+40407	40406	Subjekt
+40543	40539	Subjekt
+40618	40621	Subjekt
+41390	41392	Adverb, Präposition
+41414	41416	Adverb
+41416	Subjekt
+41417	41414-41415	Präposition
+41428	41432-41433	Subjekt
+41756	41758	Subjekt
+41950	41952	gen. Attribut
+42052	42055	gen. Attribut
+42509	42511	Subjekt
+42560	42554	Apposition
+42592	42594	gen. Attribut
+42674	42690-42691,42696	gen. Attribut
+42699	42702	gen. Attribut
+42883	42884	Subjekt
+42978	43007	Subjekt
+42978	42980,42988,42998	gen. Attribut
+42988	42978	Präposition
+43005	43007	Objekt
+43325	43326	Objekt
+43327	43329	Objekt
+43330	43323	Objekt
+43333	43323	Präposition
+43343	43345	Subjekt
+43453	43451	gen. Attribut
+43543	43545	gen. Attribut
+43592	43590	Subjekt
+43600	43601	Objekt
+43689	43690	Adverb
+43744	43745	Subjekt
+43822	43824	gen. Attribut
+43953	43956	Adverb
+43956	Adverb
+43957	43953-43954	Präposition
+45865	45867	Subjekt
+45893	45892	gen. Attribut
+45955	45958	gen. Attribut
+45973	45977	Subjekt
+45983	45980	Objekt
+45997	45998	Subjekt
+46030	46029	Subjekt
+46069	46073	gen. Attribut
+54780	54782	Subjekt
+54789	54791	Subjekt
+54789	54796	gen. Attribut
+54806	54808	Adverb
+54809	54806	Präposition
+54820	54823	Subjekt
+54846	54847	gen. Attribut
+54857	54862	gen. Attribut
+54880	54882	Subjekt
+54884	54885	gen. Attribut
+54946	54952	Konjunktion
+54985	54996	Objekt
+54985	54989	gen. Attribut
+55206	55209	Objekt
+55262	55268-55269	Subjekt
+56274	56276	Subjekt
+56286	56287	Objekt
+56383	56385	Subjekt
+56517	56516	Subjekt
+56559	56561	Adverb
+56641	56643	Subjekt
+56877	56882	Subjekt
+56910	56912	Subjekt
+57342	57341,57343	Subjekt
+57376	57383	Subjekt
+57749	57750,57758	Adverb
+57759	57749	Präposition
+58266	58311	gen. Attribut
+58385	58387	gen. Attribut
+58783	58791	gen. Attribut
+59472	59473	Subjekt
+59489	59490,59499	Subjekt
+59489	59492	gen. Attribut
+59599	59600	Subjekt
+59985	59988	Objekt
+59988	Adverb
+59999	60001	Adverb
+59999	60003	gen. Attribut
+60012	60015	gen. Attribut
+61306	61309	gen. Attribut
+64202	64203	Objekt
+64202	64201	Subjekt
+64266	64269	Objekt
+64354	64359	Subjekt
+64359	Subjekt
+64359	Subjekt
+64383	64387	Subjekt
+64387	Subjekt
+64502	64504	fig. etym.
+64538	64541	gen. Attribut
+64572	64573	gen. Attribut
+64584	64585	Subjekt
+64591	64593	Subjekt
+64611	64612	Subjekt
+64698	64701	gen. Attribut
+64727	64721	Präposition
+64833	64838,64840	Subjekt
+64833	64856	gen. Attribut
+64967	64976,64984	Subjekt
+64978	64981	Subjekt
+64978	64982	gen. Attribut
+64986	64989	gen. Attribut
+64999	65000	Objekt
+65020	65023	Subjekt
+65064	65065	gen. Attribut
+65143	65156	Subjekt
+65158	65161	gen. Attribut
+65213	65216	gen. Attribut
+65278	65281	Subjekt
+66052	66054	Subjekt
+66054	Subjekt, Subjekt
+66233	66230	Präposition
+66346	66350	Subjekt, Subjekt
+66396	66399	gen. Attribut
+66540	66547-66548	Subjekt, Subjekt
+66698	66723	gen. Attribut
+66946	66948	Objekt
+67009	67016	Adverb
+67080	67084	gen. Attribut
+67120	67122	Objekt
+67126	67128	Subjekt
+67132	67134,67138	gen. Attribut
+67143	67144	gen. Attribut
+67156	67158	gen. Attribut
+67159	67156	Subjekt
+67162	67164	gen. Attribut
+67311	67313	gen. Attribut
+67404	67406	Objekt
+67567	67571	Subjekt
+67753	67756	Subjekt
+67753	67759	gen. Attribut
+67794	67796	gen. Attribut
+67810	67813	gen. Attribut
+68029	68035	Subjekt
+68052	68055	gen. Attribut
+68309	68311	Objekt
+68316	68373,68375	gen. Attribut
+68318	68315	Präposition
+68365	68368	Objekt
+68517	68518	Präposition
+68522	68526	Subjekt
+68632	68633	gen. Attribut
+68732	68734	Objekt
+68738	68740	Subjekt
+68744	68749	gen. Attribut
+68833	68839	Objekt
+68855	68856	Subjekt
+68886	68884	Präposition
+68946	68955	Subjekt
+69336	69338	gen. Attribut
+69550	69552	Subjekt
+69607	69609-69610	Subjekt
+69718	69716	Präposition
+69729	69730	gen. Attribut
+69740	69742	Subjekt
+69748	69752	Subjekt
+69757	Adverb
+69749	69761	Objekt
+69760	69761	Adverb
+69902	69904	Subjekt
+69907	69911	Subjekt
+70299	70301	Subjekt
+70456	70461	Subjekt
+70637	70641	gen. Attribut
+70651	70657	Subjekt
+70883	70888	Subjekt
+70912	70914	Subjekt
+70929	70936	gen. Attribut
+71083	71085	Adverb
+71404	71406	Subjekt
+71404	71407	gen. Attribut
+71549	71554	Subjekt
+71600	71604	gen. Attribut
+71704	71707	Subjekt
+71879	71908	Subjekt
+71879	71896	gen. Attribut
+71885	71908	Subjekt
+71885	71896	gen. Attribut
+72002	72000	Apposition
+72061	72074	Objekt
+72065	72069	Adverb
+72071	Objekt
+72068	72074	Adverb
+72070	72065	Präposition
+72346	72354	Subjekt
+72367	72371	gen. Attribut
+72406	72408	Adverb
+72589	72594	Objekt
+72589	72591	Subjekt
+72594	Objekt
+72593	72594	Subjekt
+72607	72621	Adverb
+72625	72627	Subjekt
+72628	72630	Subjekt
+72770	72773	gen. Attribut
+72844	72846	Subjekt
+72844	72851,72854	gen. Attribut
+72879	72877	Negation
+72877	Objekt
+72908	72912-72913	Subjekt
+72916	72924	Subjekt
+72961	72969	gen. Attribut
+72965	72972	gen. Attribut
+72968,72976	Subjekt
+72977	72965	Präposition
+73673	73675	Subjekt
+73706	73710	Subjekt
+73708	73710	Subjekt
+73716	73719	Objekt
+73730	73732,73735	Subjekt
+74336	74362	Adverb
+74352	74355	Subjekt
+74383	74380	Objekt
+74392	74394	gen. Attribut
+74409	74411,74417	Subjekt
+74421	74409	Subjekt
+74461	74465	Objekt
+74469	74466	Präposition
+74611	74610	Objekt
+74624	74634	gen. Attribut
+74773	74784	Adverb
+74865	74867	gen. Attribut
+74940	74942	gen. Attribut
+75098	75113	Subjekt
+75113	Subjekt
+75113	Subjekt
+75102	75113	Subjekt
+75120	75126	Subjekt
+75150	75152	Objekt
+75785	75787	Adverb
+75887	75891	gen. Attribut
+76026	76028	Objekt, gen. Attribut
+76030	76029	Adverb
+76163	76168	Subjekt
+76226	76227	Subjekt
+76303	76307	Subjekt
+76309	76308	Objekt
+76318	76320,76322	Subjekt
+76393	76388	Präposition
+76447	76448	gen. Attribut, gen. Attribut
+76535	76543	Subjekt
+76563	76577	Objekt
+76698	76700	gen. Attribut
+76768	76770	gen. Attribut
+76808	76805	Adverb
+76805	Präposition
+76814	76805	Adverb, Präposition
+76903	76902	Adverb
+76939	76941	gen. Attribut
+77140	77142	gen. Attribut
+77142	77146,77149	Objekt
+77147	77149	Adverb
+77147	77142	gen. Attribut
+77149	Adverb
+77150	77147-77148	Präposition
+77152	77159,77161	Subjekt
+77195	77197	Subjekt
+77213	77215	Subjekt
+77213	77220	gen. Attribut
+77240	77238	Negation
+77238	Objekt
+77380	77384	gen. Attribut
+77384	gen. Attribut
+77412	77414	gen. Attribut
+77476	77486,77491	Subjekt
+77486,77491	Subjekt
+77486,77491	Subjekt
+77480	77486,77491	Subjekt
+77599	77621	Objekt
+77639	77643	Subjekt
+77645	77644	Objekt
+77653	77655,77657	Subjekt
+77658	77667	Objekt
+77677	77679	Subjekt
+77779	77785	Adverb
+77783	77779	Präposition
+77802	77804	Adverb, Präposition
+77805	77817	Subjekt
+77805	77815	gen. Attribut
+77811	77819	gen. Attribut
+77833	77836	Objekt
+77837	77839	gen. Attribut
+77866	77869	gen. Attribut
+77875	77889	Subjekt
+77889	Objekt
+77964	77965,77977	Objekt
+78070	78073	Subjekt
+78163	78165	Adverb
+78163	78169	Subjekt
+78166	78163	Präposition
+78175	78193	Objekt
+78175	78177,78191,78198	Subjekt
+78175	78189	gen. Attribut
+78202	78204	gen. Attribut
+78209	78210	Subjekt
+78232	78237	Subjekt
+78319	78321	Objekt
+78809	78807	Präposition
+78815	Subjekt
+78812	78807	Präposition
+78870	78867	Präposition
+78873	78876	gen. Attribut
+78875	78876	gen. Attribut
+78933	78968	Subjekt
+78947	78949	Subjekt
+78956	78959	gen. Attribut
+78965	78968	Adverb
+78968	Adverb
+78969	78934	Präposition
+79276	79280,79288	gen. Attribut
+79350	79356	Adverb
+79353	79356	Adverb
+79635	79633	Objekt
+79675	79678	Subjekt
+80182	80185	gen. Attribut
+80323	80325	Subjekt
+80403	80412	gen. Attribut
+80421	80424	Objekt
+80535	80536	Objekt
+81079	81089	gen. Attribut
+81083	81089	gen. Attribut
+81087	81089	gen. Attribut
+81259	81262	Subjekt
+81259	81261,81265,81269	gen. Attribut
+81268	81272	Subjekt
+81268	81271,81276	gen. Attribut
+81289	81292	gen. Attribut
+81355	81357	gen. Attribut
+81667	81671	Objekt
+81669	81671	Objekt
+81801	81804	gen. Attribut
+81867	81869	gen. Attribut
+82292	82289	Subjekt
+82294	82296	Pendens
+82301	82303	Präposition
+82494	82489	Präposition
+82603	82606	Subjekt
+82614	82616	Objekt
+82680	82684	Objekt
+82684	Objekt
+83059	83060	Subjekt
+83169	83167	Objekt
+84520	84529,84532	Konjunktion
+84590	84592	fig. etym.
+85027	85029	gen. Attribut
+85053	85056	Subjekt
+85053	85043	gen. Attribut
+88946	88948	gen. Attribut
+88981	88982	gen. Attribut
+89010	89011	gen. Attribut
+89071	89072	gen. Attribut
+89100	89101	gen. Attribut
+91561	91562	gen. Attribut
+91566	91567	gen. Attribut
+91571	91572	gen. Attribut
+91576	91577	gen. Attribut
+92010	92013	Objekt, Subjekt
+92840	92849	gen. Attribut
+92869	92872	gen. Attribut
+93588	93589	gen. Attribut
+93830	93832	gen. Attribut
+93883	93886	Objekt
+93886	Objekt
+94766	94768	Objekt
+95203	95205	Subjekt
+95291	95290	Subjekt
+95815	95818	Subjekt
+95828	95829	Subjekt
+96025	96026	Objekt
+96070	96077	gen. Attribut
+96495	96497	Subjekt
+96508	96510	gen. Attribut
+96512	96513	gen. Attribut
+96714	96720,96727	gen. Attribut
+96747	96739	Objekt
+96749	96739	Objekt
+96751	96739	Objekt
+96753	96739	Objekt
+96839	96842	Subjekt
+96889	96894	Subjekt
+96889	96891,96893	gen. Attribut
+97063	97064	gen. Attribut
+97447	97453	Adverb
+97447	97450	Objekt
+97461	97463	Objekt
+97507	97504	Subjekt
+97765	97779	Subjekt
+97807	97814	Subjekt
+97814	Subjekt
+98219	98221	Subjekt
+98223	98226,98228,98230,98234,98249	Subjekt
+98225	98219	Präposition
+98236	98239	Adverb
+98240	98236	Präposition
+98246	98249	Adverb
+98255	98259,98263	Adverb
+98261	98263	Objekt
+98307	98309	Objekt
+98310	98308	Präposition
+98991	98997,99016	Subjekt
+99030	99033,99036	gen. Attribut
+99053	99056	gen. Attribut
+99070	99072	Objekt
+99581	99579	Subjekt
+99646	99653	Objekt
+100204	100207	Adverb
+100284	100285	Subjekt
+100542	100543	gen. Attribut
+100805	100808-100809	Subjekt
+100811	100792,100795	Subjekt
+100811	100807	gen. Attribut
+100871	100873	Subjekt
+101047	101056	Subjekt
+101299	101308	Subjekt
+101390	101392	Subjekt
+101410	101419	Adverb
+101413	101415	Subjekt
+101417	101424	Subjekt
+101417	101425	gen. Attribut
+101460	101459	Objekt
+101589	101585	Objekt
+101585	Adverb
+101641	101646	Konjunktion
+101646	Subjekt
+101667	101664	Präposition
+101714	101713	Objekt
+102563	102565	gen. Attribut
+102569	102588,102590,102592	Subjekt
+102602	102604	Objekt
+102610	102615	gen. Attribut
+102695	102698	Subjekt
+102731	102733	Subjekt
+102961	102964-102966	Subjekt
+102993	102987	Adverb
+103303	103304	Präposition
+103394	103388	gen. Attribut
+103602	103604	Subjekt
+103979	103984	gen. Attribut
+104160	104158	Subjekt
+104180	104184	gen. Attribut
+104323	104326	Subjekt
+104659	104662	gen. Attribut
+104664	104665	gen. Attribut
+104864	104870	gen. Attribut
+104943	104944	Objekt
+105070	105067	Objekt
+105231	105233	Subjekt
+105231	105232	gen. Attribut
+105464	105465	Subjekt
+105575	105577	Adverb
+105584	105581	Objekt
+105945	105946	Subjekt
+106026	106028	Subjekt
+106047	106050	Adverb
+106050	Adverb
+106186	106189	gen. Attribut
+106397	106399	Subjekt
+108273	108274	Objekt
+109132	109135	Subjekt
+109132	109134	gen. Attribut
+109134	109135	Adverb
+109140	109147	gen. Attribut
+109142	109145,109148,109154,109156	Subjekt
+109142	109157	gen. Attribut
+109152	109154	Subjekt
+109165	109166	Subjekt
+109176	109190	Adverb
+109176	109193	Subjekt
+109179	109181	fig. etym.
+109182	109190	Adverb
+109182	109193	Subjekt
+109191	109176	Präposition
+109207	109210,109216	Subjekt
+109314	109321	Subjekt
+109365	109367	Objekt
+109408	109406	gen. Attribut
+109414	109423	Subjekt
+109414	109416	gen. Attribut
+109538	109537	Subjekt
+109538	109545,109553	gen. Attribut
+109611	109613	Subjekt
+110017	110065	Subjekt
+110022	110011,110017,110251	Subjekt
+110035	110043	Objekt
+110039	110043	Objekt
+110041	110043	Objekt
+110046	110051	Subjekt
+110126	110128	Subjekt
+110251	110065	Subjekt
+110387	110394	gen. Attribut
+110389	110392,110402	Subjekt
+110389	110403	gen. Attribut
+110412	110413	Subjekt
+110423	110440	Subjekt
+110429	110440	Subjekt
+110429	110431	gen. Attribut
+110438	110423	Präposition
+110534	110536	Subjekt
+110621	110620	Subjekt
+110704	110706	Objekt
+110742	110744	Subjekt
+110944	110945	gen. Attribut
+111236	111243	gen. Attribut
+111238	111241,111250,111252	Subjekt
+111238	111253	gen. Attribut
+111248	111250	Subjekt
+111261	111262	Subjekt
+111406	111408	Objekt
+111852	111854	Subjekt
+111916	111920	Subjekt
+111921	111924,111926	Objekt
+111934	111936	Objekt
+111939	111937	gen. Attribut
+111955	111957	Objekt
+112052	112057	Objekt
+112055	112057	Objekt
+112072	112074	Objekt
+112085	112082	Objekt
+112161	112160	Adverb
+113065	113077,113097	Subjekt
+113080	113065	Präposition
+113089	113065	Präposition
+113092	113097	Objekt
+113097	Objekt
+113121	113120	Adverb
+113341	113342,113347,113350,113352,113360,113366	Subjekt
+113403	113420-113421	gen. Attribut
+113430	113428	gen. Attribut
+113445	113449-113451	Subjekt
+113456	113457	Subjekt
+113677	113679	gen. Attribut
+113744	113746	Objekt
+113814	113816,113818	Objekt
+113814	113822	gen. Attribut
+113816	113831	Subjekt
+113818	113831	Subjekt
+113820	113831	Subjekt
+113823	113831	Subjekt
+114020	114022	Subjekt
+114048	114049	Adverb
+114071	114073	Subjekt
+114078	114075	Präposition
+114080	114086	Adverb
+114221	114229	gen. Attribut
+114223	114238	Subjekt
+114225	114238	Subjekt
+114227	114238	Subjekt
+114230	114238	Subjekt
+114320	114322	Subjekt
+114347	114348	Adverb
+114370	114372	Subjekt
+114379	114385	Adverb
+114510	114512	gen. Attribut
+114846	114851	Präposition
+114851	Adverb
+115189	115190	Subjekt
+115684	115691	Subjekt
+115724	115722	Subjekt
+116086	116093	Subjekt
+116735	116736	Subjekt
+116762	116772	gen. Attribut
+117023	117022	Objekt
+117157	117148	Adverb, Präposition
+117159	117148	Subjekt
+117148	Subjekt
+117166	117164	gen. Attribut
+117421	117424,117432-117433	gen. Attribut
+117474	117473	Subjekt
+118211	118202	Adverb, Präposition
+118220	118218	gen. Attribut
+118610	118612	gen. Attribut
+119005	119006-119007,119014	Subjekt
+119026	119030	Subjekt
+119047	119077	Subjekt
+119199	119204	Adverb
+119203	119199	Präposition
+119294	119299	Subjekt
+119294	119313	gen. Attribut
+119297	119299	Subjekt
+119327	119332	gen. Attribut
+119358	119360	Subjekt
+120169	120170	Subjekt
+120187	120184	Subjekt
+121936	121942	gen. Attribut
+122329	122333	Adverb
+122456	122457	Konjunktion
+122472	122475	Objekt
+122478	122490	Adverb
+122521	122523	gen. Attribut
+122543	122549,122552	Konjunktion
+122605	122628	Objekt
+122605	122602	Subjekt
+122609	122628	Objekt
+122609	122606	Subjekt
+122699	122707	Objekt
+122706	122712	gen. Attribut
+123042	123044	gen. Attribut
+123056	123063	Konjunktion
+123063	Subjekt
+123060	123072	Objekt, gen. Attribut
+123060	123065	gen. Attribut
+123121	123125	gen. Attribut
+123206	123207	gen. Attribut
+123513	123515	gen. Attribut
+123536	123538	Subjekt
+124338	124340	gen. Attribut
+124772	124774	gen. Attribut
+124806	124812,124815	Konjunktion
+124870	124867	Subjekt
+124874	124871	Subjekt
+124954	124960	gen. Attribut
+125384	125396	Objekt, gen. Attribut
+125504	125505	gen. Attribut
+125687	125683	Objekt
+125713	125716	Subjekt
+125718	125720	Subjekt
+126018	126023	gen. Attribut
+126213	126216	Subjekt
+126234	126237	Subjekt
+126236	126237	Objekt
+126238	126237	Objekt
+126238	126239	gen. Attribut
+126237	Objekt
+126248	126250	Subjekt
+126306	126311	Objekt
+126310	gen. Attribut
+126355	126357	Adverb
+126355	Präposition
+126364	126369	Objekt
+126527	126529	Subjekt
+126841	126845	Subjekt
+127159	127163	Subjekt
+127291	127293,127295,127297	gen. Attribut
+127371	127373	Subjekt
+127371	127374	gen. Attribut
+127404	127409	Subjekt
+127407	127409	Objekt
+127544	127545	Subjekt
+128252	128254	gen. Attribut
+129975	129978	Subjekt
+129991	129993	Objekt
+130248	130249	gen. Attribut
+130259	130257	Subjekt
+131071	131126-131127	gen. Attribut
+131121	131123	gen. Attribut
+132061	132068,132070	Subjekt
+132193	132201	Objekt
+132193	132192	gen. Attribut
+132201	132193	Objekt
+132206	132193	Subjekt
+132208	132193	Subjekt
+132210	132193	Subjekt
+132214	132193	Subjekt
+132226	132230,132236	Subjekt
+132244	132237	Subjekt
+132247-132248	Subjekt
+132249	132237	Subjekt
+132255	132265	gen. Attribut
+133130	133132	Präposition
+133247	133251,133256	Subjekt
+133295	133300	Subjekt
+133378	133376	Negation
+133392	133395	gen. Attribut
+133415	133414	gen. Attribut
+133533	133542	gen. Attribut
+133736	133737	Subjekt
+133918	133927	Subjekt
+133927	Subjekt
+134089	134108	gen. Attribut
+134214	134215	gen. Attribut
+134222	134221	Objekt
+134370	134372	gen. Attribut
+134386	134387	Subjekt
+134463	134466	Subjekt
+134585	134583	Negation
+135030	135029	Objekt
+135303	135306	Subjekt
+135526	135535	Subjekt
+135577	135579	Adverb
+135741	135751	Subjekt
+135770	135772	Subjekt
+136241	136240	Subjekt
+136243	136252,136279	Subjekt
+136243	136250,136271,136283,136286	gen. Attribut
+136268	136274	gen. Attribut
+136278	136281,136285	Subjekt
+136278	136280,136284	gen. Attribut
+136520	136523	Objekt
+136530	136533	Adverb
+136526	Präposition
+136905	136910	Adverb
+136912	136905	Präposition
+136917	136919	Objekt
+136930	136932	Objekt
+136938	136941	Objekt
+136955	136960	Subjekt
+136957	136960	Subjekt
+136992	136994	gen. Attribut
+137036	137040	Objekt
+137251	137252	Objekt
+139170	139167	Objekt
+139287	139285	gen. Attribut
+139405	139403	Subjekt
+139405	139404	gen. Attribut
+139441	139439	Adverb
+139613	139616	Subjekt
+139768	139772,139799	Subjekt
+139768	139770	gen. Attribut
+140164	140158	Objekt
+140275	140276	Subjekt
+140662	140665	Objekt
+141422	141418	Subjekt
+141425	141418	Adverb, Präposition
+141662	141665	gen. Attribut
+143754	143770	gen. Attribut
+143844	143845	Subjekt
+143920	143925	Adverb
+143926	143920	Präposition
+143928	143930	gen. Attribut
+143983	143986	Subjekt
+144248	144250	gen. Attribut
+144277	144279	gen. Attribut
+144410	144408	Subjekt
+144463	144464,144467	Subjekt
+144517	144520	gen. Attribut
+144932	144933	gen. Attribut
+144971	144973	Adverb
+145052	145058	Subjekt
+147430	147434	Konjunktion
+147832	147835	Subjekt
+148027	148030	Subjekt
+150680	150679	adj. Attribut
+150732	150734	Subjekt
+150964	150967	Subjekt
+150982	150983	Präposition
+151140	151144	Subjekt
+151446	151447	Präposition
+151546	151547	Präposition
+151835	151836	Präposition
+151846	151845	gen. Attribut
+152026	152029	Subjekt
+153142	153143,153149	Subjekt
+153150	153151	Subjekt
+153184	153183	gen. Attribut
+153192	153190	Objekt
+153259	153265	Subjekt
+153286	153288	gen. Attribut
+153330	153332	Objekt
+153400	153411	Subjekt
+153408	153407	gen. Attribut
+153467	153479	Objekt
+153498	153501	Subjekt
+153515	153514	gen. Attribut
+153517	153519	Adverb
+153587	153591	Subjekt
+153586-153587	Subjekt
+153659	153658	gen. Attribut
+153820	153819	Subjekt
+153949	153944	Subjekt
+153951	153954	Subjekt
+154004	154006	Subjekt
+154091	154090	Subjekt
+154163	154167	Objekt
+154342	154341	Subjekt
+154361	154371	gen. Attribut
+154378	154381	Objekt
+155131	155137	Subjekt
+155661	155659	gen. Attribut
+156048	156050	Subjekt
+156071	156072	Subjekt
+157066	157079	Subjekt
+157352	157351	Subjekt
+158832	158843,158858	gen. Attribut
+159017	159019	gen. Attribut
+159041	159043	gen. Attribut
+159091	159093	Subjekt
+159163	159164	gen. Attribut
+159383	159390	gen. Attribut
+159393	159392	Subjekt
+159611	159613	Objekt
+159953	159963,159971	Subjekt
+159955	159963,159971	Subjekt
+159986	159988	Objekt
+160035	160040	gen. Attribut
+160311	160312	gen. Attribut
+160435	160436	Objekt
+160443	160449	Subjekt
+160469	160472	Objekt
+160502	160508	Objekt
+161799	161801	Konjunktion
+162363	162366	Apposition
+165723	165722	Subjekt
+165725	gen. Attribut
+165733	165729	Subjekt
+165735	165741	Konjunktion
+165741	Subjekt
+165736	165748	gen. Attribut
+165781	165785,165787,165789,165791,165793	Konjunktion
+165878	165880	Subjekt
+165967	165969	gen. Attribut
+166407	166421	Objekt
+166456	166464	Subjekt
+166458	166464	Subjekt
+166899	166894	Subjekt
+166899	166900-166901	gen. Attribut
+166894	Subjekt
+167074	167084	gen. Attribut
+167115	167128	gen. Attribut
+167172	167177	Subjekt
+167334	167335	Subjekt
+167563	167566	Subjekt
+167580	167651	Objekt
+167580	167581,167584,167591,167594,167597,167606,167608,167615,167619,167622	Subjekt
+167580	167589,167599,167613,167621,167625,167630,167639,167648	gen. Attribut
+167582	167619,167622	Adverb
+167582	167597,167606,167608,167615	Objekt
+167582	167618,167626	Präposition
+167582	167651	Subjekt
+167582	167588,167592-167593	gen. Attribut
+167585	167619,167622	Adverb
+167585	167597,167606,167608,167615	Objekt
+167585	167618,167626	Präposition
+167585	167651	Subjekt
+167585	167593	gen. Attribut
+168162	168167	Objekt
+168217	168220	Adverb
+168221	168217	Präposition
+168973	168971	gen. Attribut
+168975	168971	gen. Attribut
+179589	179591	Subjekt
+180311	180313	Subjekt
+180390	180391	Subjekt
+182817	182820	Subjekt
+182892	182894	Subjekt
+183675	183674	gen. Attribut
+183764	183768	Subjekt
+183764	183778,183781	gen. Attribut
+183787	183783	gen. Attribut
+183826	183820	Subjekt
+183826	183813,183816,183834	gen. Attribut
+183830	gen. Attribut
+183839	183843	Subjekt
+183868	183874	Konjunktion
+183892	183901	Konjunktion
+183904	183905,183907	gen. Attribut
+183947	183949	gen. Attribut
+183992	183997	Konjunktion
+184012	184015	Subjekt
+184027	184028	Subjekt
+184083	184100	Adverb
+184083	184081,184087,184181,184185	Objekt
+184083	184104,184107	gen. Attribut
+184093	184120	Subjekt
+184093	184090,184092,184096,184113,184116,184119	gen. Attribut
+184101	184093	Präposition
+184151	184152	Objekt, Subjekt
+184156	184157	Subjekt
+184160	184161	gen. Attribut
+184162	184163	gen. Attribut
+184175	184188	Subjekt
+184193	184194	Subjekt
+184196	184198	Subjekt
+184201	184202	Subjekt
+184210	184208	Präposition
+184306	184310	gen. Attribut
+184334	184355	Subjekt
+184334	184339,184342	gen. Attribut
+184342	184341	Adverb
+184341	Subjekt
+184355	184361	gen. Attribut
+184365	184369	Objekt
+184365	184366,184373	Subjekt
+184374	184369	Subjekt
+184393	184394	gen. Attribut
+184402	184417	Adverb
+184402	184413	gen. Attribut
+184418	184402	Präposition
+184429	184429	Subjekt
+184463	184466	Subjekt
+184491	184502	Subjekt
+184502	Objekt
+184543	184552	Subjekt
+184546	184549,184552	Subjekt
+184571	184575	Subjekt
+186953	186955	gen. Attribut
+187038	187040	gen. Attribut
+187044	187045	gen. Attribut
+190661	190668	gen. Attribut
+190889	190918	gen. Attribut
+190895	190898	gen. Attribut
+190909	190911	Objekt
+190920	190922	gen. Attribut
+191381	191387	Adverb
+191505	191506	Subjekt
+191868	191873,191880,191890	Subjekt
+192879	192883	gen. Attribut
+194348	194350	Subjekt
+194701	194703	Subjekt
+195112	195114	Subjekt
+195365	195370	Subjekt
+195573	195583,195585	Subjekt
+195705	195707	Subjekt
+195716	195718	Subjekt
+195741	195769	gen. Attribut
+195773	195777	Adverb
+195773	195776	Subjekt
+195773	195783-195784	gen. Attribut
+195778	195773	Präposition
+195791	195794,195801	gen. Attribut
+195907	195920	gen. Attribut
+195909	195920	gen. Attribut
+195920	gen. Attribut
+195915	195920	gen. Attribut
+195976	195979	gen. Attribut
+196007	196002	Adverb
+196290	196293	gen. Attribut
+196301	196304	Adverb
+196452	196454	gen. Attribut
+196616	196628	gen. Attribut
+196628	gen. Attribut
+196653	196678	Objekt
+196655	196678	Objekt
+196809	196812	gen. Attribut
+196824	196829,196833,196847	gen. Attribut
+196857	196858,196863	Subjekt
+196872	196877	Subjekt
+196972	196975	gen. Attribut
+197063	197072-197073	gen. Attribut
+197072	197074	gen. Attribut
+197074	gen. Attribut
+197096	197100	Adverb
+197100	197096	Präposition
+197122	197125	Subjekt
+197122	197130	gen. Attribut
+197135	197152-197153	gen. Attribut
+197137	197152-197153	gen. Attribut
+197139	197151-197153	gen. Attribut
+197144	197151-197153	gen. Attribut
+197161	197165	Objekt
+197190	197198,197227,197229,197231	gen. Attribut
+197199	197202	Subjekt
+197208	197211	Adverb
+197234	197238	Adverb
+197263	197267	gen. Attribut
+197299	197304	gen. Attribut
+197301	197304	gen. Attribut
+197303	197304	gen. Attribut
+197319	197336	Adverb
+197334	197336,197342,197344	Subjekt
+197344	Subjekt
+197340	197344	Subjekt
+197489	197501-197503	gen. Attribut
+197492	197503	gen. Attribut
+197494	197503	gen. Attribut
+197497	197501-197503	gen. Attribut
+197501	197503	gen. Attribut
+197503	gen. Attribut
+197516	197528-197529	gen. Attribut
+197519	197528-197529	gen. Attribut
+197521	197528-197529	gen. Attribut
+197524	197528-197529	gen. Attribut
+197538	197551-197552	gen. Attribut
+197540	197551-197552	gen. Attribut
+197542	197551-197552	gen. Attribut
+197547	197551-197552	gen. Attribut
+197724	197727	Adverb
+197732	197736	Adverb
+197739	197740	Objekt
+197744	197746	Objekt
+197764	197766	Objekt
+197771	197794,197810	gen. Attribut
+197808	197811	Subjekt
+197808	197812	gen. Attribut
+197863	197870,197874-197875	gen. Attribut
+197868	197866	Objekt
+197866	Objekt
+197875	197866	Objekt
+197913	197916	gen. Attribut
+197973	197970	gen. Attribut
+197984	198006	Adverb
+198004	198013	Objekt
+198021	198004	Präposition
+198070	198083-198084	gen. Attribut
+198100	198102-198103	gen. Attribut
+198105	198110,198113	gen. Attribut
+198123	198127	Adverb
+198128	198123	Präposition
+198170	198177	Objekt
+198178	198170	Präposition
+198182	198184	Objekt
+198209	198212	Objekt
+198211	198212	Objekt
+198217	198219	Subjekt
+198221	198214	Adverb
+198221	198223,198226,198229	gen. Attribut
+198224	198221	Präposition
+198227	198221	Präposition
+198230	198221	Präposition
+198228	Präposition
+198233	198221	Präposition
+198286	198289	Subjekt
+198338	198340	Subjekt
+198340	Subjekt
+198347	198348	gen. Attribut
+198427	198437	gen. Attribut
+198427	Adverb
+198430	198427	Adverb
+198427	Präposition, Präposition
+198548	198549,198553	gen. Attribut
+198566	198567	Präposition
+198653	198671,198676	gen. Attribut
+198784	198786	Subjekt
+198858	198861	Subjekt
+198878	198880	Subjekt
+198880	Subjekt
+198938	198941	gen. Attribut
+199114	199121,199139	Subjekt
+199128	199133	gen. Attribut
+199245	199247-199248	gen. Attribut
+199247	199246	Subjekt
+199246	Subjekt
+199250	Präposition
+199367	199369	gen. Attribut
+199382	199384,199386,199391	Subjekt
+199399	199402	Objekt
+199412	199413	Adverb
+199414	199412	Präposition
+199426	199428	gen. Attribut
+199464	199466	gen. Attribut
+199467	199474,199476	gen. Attribut
+199480	199489	gen. Attribut
+199493	199500-199502	gen. Attribut
+199503	199517-199518	gen. Attribut
+199506	199508	Subjekt
+199710	199712,199718	Pendens, Subjekt
+199710	199714	gen. Attribut
+199721	199734	Adverb
+199726	199721	Präposition
+199731	199734	Subjekt
+199741	199745	gen. Attribut
+199757	199759,199761	Subjekt
+199757	199773	gen. Attribut
+199818	199820	Agens
+199833	199837	Adverb
+199874	199881-199882	Subjekt
+199893	199895	Objekt
+199900	199903	Adverb
+199921	199924	gen. Attribut
+199976	200021	Adverb
+199989	199991	Adverb
+199991	Adverb
+199993	199995	Subjekt
+199998	200000	Subjekt
+200013	200027	Adverb
+200013	200029,200041	gen. Attribut
+200017	Objekt
+200023	199976	Präposition
+200045	200048	Adverb
+200074	200077	Objekt
+200082	200095,200101	Subjekt
+200082	200088	gen. Attribut
+200088	200100	Subjekt
+200114	200120	gen. Attribut
+200142	200141	Objekt
+200142	200143	gen. Attribut
+200144	200145	gen. Attribut
+200148	200149	gen. Attribut
+200154	200153	Objekt
+200227	200237	gen. Attribut
+200242	200248	Adverb
+200264	200270	Subjekt
+200274	200282	Subjekt
+200276,200279,200282	Subjekt
+200275	200278	gen. Attribut
+200324	200326	Adverb
+200355	200357	Subjekt
+200375	200380	Präposition
+200397	200399	Adverb
+200401	200404	Präposition
+200404	200399	Adverb
+200425	200428,200432	Subjekt
+200428	Subjekt
+200430	200432	Subjekt
+200451	200453	Subjekt
+200469	200472	Subjekt
+200503	200541	Adverb
+200503	200505,200529,200533	Subjekt
+200549	200551-200552,200562	Subjekt
+200549	200554-200555,200560	gen. Attribut
+200557	200561	Adverb
+200565	200567	Adverb
+200621	200613	Adverb
+200613	Präposition
+200649	200651	Subjekt
+200681	200694	Subjekt
+200757	200761,200764,200767,200770	Konjunktion
+200782	200785,200787	Objekt
+200790	200792,200794	Subjekt
+200807	200812-200813,200816,200819	Subjekt
+200857	200866	Subjekt
+200866	Subjekt
+200861	200857,200859	Präposition
+200872	200878	Subjekt
+200878	Subjekt
+200878	Subjekt
+200881	200887	Objekt
+200887	Agens
+200897	200903	Objekt
+200899	200897	Subjekt
+200911	200914	Objekt
+200911	200932	Subjekt
+200917	200919	Objekt
+200922	200911	Präposition
+200943	200948,200950	Objekt
+200989	200991	Objekt
+200996	200999	Adverb
+200996	201003	Objekt
+201020	201034	Subjekt
+201025	201028	Objekt
+201083	201085	Objekt
+201099	201102,201104	Objekt
+201154	201157	Objekt
+201184	201190	Subjekt
+201204	201206,201210	Subjekt
+201204	201215,201217,201219	gen. Attribut
+201224	201226	Objekt
+201236	201238	Objekt
+201252	201254	Objekt
+201277	201289	Objekt
+201280	201289	Objekt
+201286	201289	Subjekt
+201298	201300	Objekt
+201311	201314	Objekt
+201353	201349	Objekt
+201369	201368	Objekt
+201380	201384,201386	Objekt
+201383	201380	Präposition
+201385	201380	Präposition
+201391	201398	Subjekt
+201401	201404	Agens
+201412	201415	Adverb
+201412	201414	Objekt
+201416	201412	Präposition
+201437	201439	Subjekt
+201444	201448	Objekt
+201446	201444	Apposition
+201535	201543	fig. etym.
+201547	201550	Objekt
+201568	201572	Objekt
+201568	201580	gen. Attribut
+201594	201605	Subjekt
+201594	201597	gen. Attribut
+201630	201633	Objekt
+201646	201649	Objekt
+201651	201655,201661	Subjekt
+201653	201655,201661	Subjekt
+201663	201665	Adverb
+201666	201663	Präposition
+201695	201701	Objekt
+201699	201701	Objekt
+201742	201745	Adverb
+201742	201744	Objekt
+201747	201742	Präposition
+201755	201757	Objekt
+201769	201773	Erweiterung Zahl (synd.)
+201769	201772,201776	Subjekt
+201778	201781	Subjekt
+201804	201810	Adverb
+201804	201807,201809	Objekt
+201811	201804	Negation
+201817	201819	Subjekt
+201823	201825	Objekt
+201826	201823	Präposition
+201831	201843,201853,201869,201879	Adverb, Subjekt
+201831	201847,201884	Subjekt
+201831	201874,201887	gen. Attribut
+201841	201847	Adverb
+201905	201907	Adverb, Präposition
+201905	201905	Negation
+201912	201933	Adverb
+201912	201920,201922,201932	gen. Attribut
+201935	201912	Präposition
+201940,201949	Subjekt
+201955	201957	Objekt
+201955	201968,201974-201975	Subjekt
+201981	201986	gen. Attribut
+201992	201974	Agens
+202032	202043,202049	Subjekt
+202032	202047	gen. Attribut
+202037	202032	Präposition
+202042	gen. Attribut
+202067	202075	Objekt
+202075	Objekt
+202070	202075	Objekt
+202075	Objekt
+202073	202075	Objekt
+202084	202087	Adverb
+202088	202100	Subjekt
+202091	202095	Subjekt
+202095	Subjekt
+202096	202098	Objekt
+202133	202125	Konjunktion
+202125	Subjekt
+202125	Subjekt
+202125	Subjekt
+202125	Subjekt
+202181	202183	gen. Attribut
+202206	202208	gen. Attribut
+202208	202210	Objekt
+202241	202243	Subjekt
+202241	202249,202252	gen. Attribut
+202254	202250,202253	Subjekt
+202256	202250,202253	Subjekt
+202259	202256	Subjekt
+202386	202393	Adverb
+202386	202389	gen. Attribut
+202439	202440	Objekt
+202465	202460	Subjekt
+202465	202466-202467	gen. Attribut
+202460	Subjekt
+202499	202505	Objekt
+202505	Objekt
+202505	Objekt
+202506	202508	Objekt
+202548	202557	Adverb
+202556	202548	Präposition
+202566	202561,202563-202564	Subjekt
+202574	202581	Subjekt
+202574	202585,202593	gen. Attribut
+202587	202590	Adverb
+202587	202589	Objekt
+202589	Objekt
+202610	202613	Objekt
+202624	202625-202626	gen. Attribut
+202776	202779	Objekt
+202792	202795,202797	Objekt
+202809	202813	Objekt
+202811	202813	Objekt
+202827	202857,202863	gen. Attribut
+202829	202830	Adverb
+202837	202836	Präposition
+202841	202846	Subjekt
+202846	Subjekt
+202844	202846	Subjekt
+202893	202898	Konjunktion
+202918	202917	Subjekt
+202921	202917	Subjekt
+202983	202992-202993,203006	Subjekt
+203024	203026	Subjekt
+203042	203048	Subjekt
+203084	203086	Objekt
+203096	203110	Subjekt
+203120	203116	Präposition
+203161	203164	Objekt
+203161	gen. Attribut
+203165	203160,203164	Subjekt
+203172	203171	gen. Attribut
+203188	203193,203196,203199,203204,203206,203209	Konjunktion
+203194	203192	Präposition
+203201	203219,203234	Adverb
+203201	203204,203206,203209,203236	Objekt
+203201	203224,203226,203237,203241,203250	Subjekt
+203201	203215,203218,203222,203228,203230	gen. Attribut
+203233	203236	Adverb
+203263	203276	Konjunktion
+203266	203276,203281,203285,203306	Objekt
+203266	203271,203279	Subjekt
+203266	203283-203284,203288,203292,203296	gen. Attribut
+203273	203279	Adverb
+203273	203276,203293	Subjekt
+203275	203279	Adverb
+203275	203276,203293	Subjekt
+203277	203266	Präposition
+203280	203273,203275	Präposition
+203282	203266	Präposition
+203285	Subjekt
+203285	Subjekt
+203323	203337,203352,203386	Objekt
+203323	203341,203350	Subjekt
+203323	203325,203381	gen. Attribut
+203327	203337,203352,203386	Objekt
+203327	203341,203350	Subjekt
+203327	203329,203381	gen. Attribut
+203333	203337,203386	Objekt
+203333	203341,203350,203352	Subjekt
+203333	203381	gen. Attribut
+203358	203373	Objekt
+203358	203386	Prädikatsnomen
+203358	203375	Präposition
+203358	203362,203366,203378	Subjekt
+203358	203368,203381	gen. Attribut
+203399	203402	Objekt
+203409	203418	Adverb
+203409	203421,203430	Objekt
+203409	203434	Subjekt
+203413	gen. Attribut
+203413	203418	Adverb
+203413	203421,203430	Objekt
+203413	203434	Subjekt
+203416	203418	Adverb
+203416	203421,203430	Objekt
+203416	203434	Subjekt
+203419	203409,203413,203416	Präposition
+203422	203429	Objekt
+203492	203496	gen. Attribut
+203508	203510	Subjekt
+203511	Objekt
+203509	Objekt
+203532	203536	Subjekt
+203535	203536	Subjekt
+203573	203589	Subjekt
+203577	203583	Subjekt
+203581	203583,203585	Objekt
+203581	203593	Subjekt
+203587	203589	Objekt
+203613	203611,203618	Subjekt
+203621	203611,203625	Subjekt
+203621	203628	gen. Attribut
+203647	203648	Subjekt
+203647	203650	gen. Attribut
+203670	203673	Konjunktion
+203682	203693,203695	Subjekt
+203687	Subjekt
+203681	Objekt
+203684	203687	Subjekt
+203717	203722	Subjekt
+203727	203732	Subjekt
+203727	203730	gen. Attribut
+203771	203775	gen. Attribut
+203862	203864	Subjekt
+204211	204212	gen. Attribut
+204232	204247-204248	gen. Attribut
+204236	204247-204248	gen. Attribut
+205245	205247	Agens
+205260	205263	Adverb
+205298	205305-205306	Subjekt
+205348	205352	gen. Attribut
+205503	205516	Subjekt
+205791	205793	Subjekt
+210891	210908,210916,210924	gen. Attribut
+210900	gen. Attribut
+211018	211020	Subjekt
+211023	211025	Objekt
+211563	211573	gen. Attribut
+211609	211611,211614	Subjekt
+211632	211638	Objekt
+211632	211647	Subjekt
+211672	211675,211696	Subjekt
+211676	211696	Adverb
+211763	211768	Subjekt
+211843	211842	Objekt
+211880	211881	Subjekt
+211880	211884	gen. Attribut
+211888	211895	Subjekt
+211888	211899	gen. Attribut
+211918	211926	Adverb
+211922	211918	Subjekt
+211922	211920	gen. Attribut
+211925	211918	Präposition
+211932	211940	Subjekt
+211932	211936,211938	gen. Attribut
+211936,211938	gen. Attribut
+211942	211944	Subjekt
+211958	211962	gen. Attribut
+211972	211973	Subjekt
+211974	211978,211981,211985,211988	Subjekt
+211989	211991	Subjekt
+211991	Subjekt
+212006	212010	gen. Attribut
+212041	212046,212052	Adverb
+212078	212082	Subjekt
+212085	212087,212107	gen. Attribut
+212093	212095	Adverb
+212096	212093	Präposition
+212100	212113	Adverb
+212100	212111,212116,212122	Objekt
+212102	212113	Adverb
+212102	212111,212116,212122	Objekt
+212104	212113	Adverb
+212104	212111,212116,212122	Objekt
+212106	212113	Adverb
+212106	212111,212116,212122	Objekt
+212108	212113	Adverb
+212108	212111,212116,212122	Objekt
+212112	212113	Subjekt
+212119	212116	Objekt
+212145	212150,212155	Adverb
+212155	212165	Adverb
+212172	212186	Subjekt
+212186	Subjekt
+212186	Subjekt
+212193	212195	Erweiterung Zahl (synd.)
+212204	212216,212219,212223	gen. Attribut
+212209	212211	Subjekt
+212217	212215	Apposition
+212217	212218	Präposition
+212252	212254	Objekt
+212310	212313	Adverb
+212310	212323	Objekt
+212320	Subjekt
+212314	gen. Attribut
+212322	212324	gen. Attribut
+212346	212349	Subjekt
+212391	212395	Subjekt
+212396	212400	Subjekt
+212407	212409	Subjekt
+212418	212423	Subjekt
+212424	212419	Präposition
+212427	212437,212443	Subjekt
+212427	212447	gen. Attribut
+212444	212447	gen. Attribut
+212464	212468	Adverb
+212490	212495	Subjekt
+212527	212531	gen. Attribut
+212555	212560	gen. Attribut
+212557	212559	gen. Attribut
+212571	212573	Subjekt
+212603	212607	Subjekt
+212605	212607	Subjekt
+212617	212620	Objekt
+212622	212624,212627	Subjekt
+212622	212641	gen. Attribut
+212633	212638	Objekt
+212637	212638	Subjekt
+212650	212648	Relativum
+212664	212666	Objekt
+212685	212687,212690,212697-212698	Subjekt
+212692	212694	gen. Attribut
+212702	212710	gen. Attribut
+212752	212753	gen. Attribut
+212767	212768	gen. Attribut
+212770	212772	gen. Attribut
+212781	212784	gen. Attribut
+212787	212789	gen. Attribut
+212796	212798	gen. Attribut
+212856	212857	gen. Attribut
+212859	212860	gen. Attribut
+212872	212874	Subjekt
+212876	212881	Subjekt
+212889	212891	Subjekt
+212950	212955	gen. Attribut
+212955	gen. Attribut
+212957	212959	Subjekt
+213005	213007	Adverb
+213039	213040	gen. Attribut
+213046	213048	gen. Attribut
+213059	213061	gen. Attribut
+213070	213072	Adverb
+213070	213077	gen. Attribut
+213072	Adverb
+213109	213120	gen. Attribut
+213111	213120	gen. Attribut
+213115	213120	gen. Attribut
+213145	213147	Subjekt
+213151	213155	Adverb
+213151	213160	Subjekt
+213151	213159,213174	gen. Attribut
+213153	213162	Adverb
+213153	213155	Subjekt
+213153	213163	gen. Attribut
+213171	213183	Subjekt
+213171	213185	gen. Attribut
+213179	213183	Subjekt
+213179	213185	gen. Attribut
+213195	213197	gen. Attribut
+213201	213202	Subjekt
+213209	213211	Subjekt
+213228	213233	Subjekt
+213235	213248	Objekt
+213235	213247	gen. Attribut
+213250	213251	Subjekt
+213283	213285	Subjekt
+213304	213306	Subjekt
+213319	213304	Präposition
+213321	213325	Objekt
+213321	213329	Subjekt
+213330	213327	Präposition
+213335	213337,213340-213341	Subjekt
+213344	213349,213351	Objekt
+213344	213353	Subjekt
+213362	213364,213377	Adverb
+213362	213372,213381	Objekt
+213362	213367	Subjekt
+213362	213374	gen. Attribut
+213368	213381	Subjekt
+213384	213386	Objekt
+213390	213402	Objekt
+213390	213398	gen. Attribut
+213394	213397,213402	Objekt
+213462	213464	gen. Attribut
+213533	213535	gen. Attribut
+213569	213577	Adverb
+213572	213569	Adverb
+213569	Präposition
+213578	213569	Adverb, Präposition
+213586	213587	Objekt
+213588	213586	gen. Attribut
+213602	213606	gen. Attribut
+213613	213615	Objekt
+213644	213649	gen. Attribut
+213705	213715	Subjekt
+213705	Präposition
+213715	Objekt
+213707	213710	Subjekt
+213730	213742	Subjekt
+213732	213733,213745	Objekt
+213770	213769	Adverb
+213809	213811	gen. Attribut
+213814	213815	Präposition
+213855	213858	Subjekt
+213935	213936	gen. Attribut
+213956	213959	Adverb
+213956	213963	Subjekt
+213959	Adverb
+213957	213963	Subjekt
+213960	213956-213957	Präposition
+213969	213987	Objekt
+213969	213971,213985,213992	Subjekt
+213969	213983	gen. Attribut
+214004	214017	Subjekt
+214044	214051	Subjekt
+214046	214051	Subjekt
+214058	214064	Subjekt
+214085	214093	Subjekt
+214085	214097	gen. Attribut
+214100	214113	Adverb
+214100	214107	Apposition
+214100	214104	Subjekt
+214113	Adverb
+214101	214107	Apposition
+214101	214104	Subjekt
+214113	Adverb
+214102	214107	Apposition
+214102	214104	Subjekt
+214107	214111	gen. Attribut
+214117	214125	Subjekt
+214120	214125	Subjekt
+214122	214125	Subjekt
+214152	214154	Adverb
+214155	214152	Präposition
+214233	214242,214245	Subjekt
+214273	214274	gen. Attribut
+214270	Objekt
+214286	214288,214294	Subjekt
+214286	214295	gen. Attribut
+214331	214324	Präposition, Präposition
+214394	214406	Adverb
+214429	214426	Objekt
+214441	214443	gen. Attribut
+214459	214461,214467	Subjekt
+214470	214459	Subjekt
+214505	214510	Objekt
+214505	214507	Subjekt
+214510	Objekt
+214509	214510,214512	Subjekt
+214523	214535,214539	Adverb
+214523	214529	Objekt
+214545	214543	Subjekt
+214548	Subjekt
+214556	214553-214554	Präposition
+214558	214561	gen. Attribut
+214672	214676	gen. Attribut
+214676	214684	Adverb
+214699	214701	Subjekt
+214704	214706	Objekt
+214767	214758	Präposition, Präposition
+214815	214820	Adverb
+214818	214815	Präposition
+214834	214835-214836	gen. Attribut
+214837	214839	Adverb, Präposition
+214841	214853	Subjekt
+214841	214843,214851	gen. Attribut
+214847	214855	gen. Attribut
+214871	214874	Objekt
+214887	Objekt
+214876	214879	Subjekt
+214876	214878	gen. Attribut
+214889	214891,214902	Objekt
+214905	214911	gen. Attribut
+214908	214905	gen. Attribut
+214914	214929	Subjekt
+214918,214929	Objekt
+215030	215031	fig. etym.
+215033	215034	gen. Attribut
+215048	215050	Subjekt
+215054	215055	Subjekt
+215126	215128	Adverb
+215157	215158	fig. etym.
+215190	215192	Adverb
+215190	215197	gen. Attribut
+215192	Adverb
+215226	215239	gen. Attribut
+215228	215239	gen. Attribut
+215231	215239	gen. Attribut
+215234	215239	gen. Attribut
+215264	215266	Subjekt
+215270	215279	Subjekt
+215272	215281	Adverb
+215272	215274	Subjekt
+215272	215282	gen. Attribut
+215292	215310	Subjekt
+215292	215300	fig. etym.
+215292	215312	gen. Attribut
+215304	215310	Subjekt
+215304	215312	gen. Attribut
+215316	215318	Subjekt
+215364	215385	Objekt
+215364	215383	gen. Attribut
+215375	215378	gen. Attribut
+215408	215404	Präposition
+215429	215437	Subjekt
+215429	215435,215439	gen. Attribut
+215437	Subjekt
+215430	215435,215439	gen. Attribut
+215487	215490	Subjekt
+215523	215525	gen. Attribut
+215527	215529	gen. Attribut
+215622	215624	gen. Attribut
+215640	215665	gen. Attribut
+215671	215667	Präposition
+215717	215720	gen. Attribut
+215750	215749	Objekt
+215752	215755	Subjekt
+215774	215778	Subjekt
+215791	215792,215796	Subjekt
+215794	215805	Adverb
+215794	215796,215808	Objekt
+215794	215804,215812	gen. Attribut
+215809	215794	Präposition
+215814	215821,215823	Subjekt
+215836	215837	gen. Attribut
+215843	215845,215847	Subjekt
+215864	215868	gen. Attribut
+215910	215911	Adverb
+215936	215939	Adverb
+215945	gen. Attribut
+215966	215968	Objekt
+215966	215972	Subjekt
+215966	215971	gen. Attribut
+215968	Objekt
+215967	215972	Subjekt
+215967	215971	gen. Attribut
+216024	216032	gen. Attribut
+216044	216046	Objekt
+216073	216078,216104,216108,216142	Adverb
+216073	216081,216084,216099	Objekt
+216073	216129,216144	Subjekt
+216073	216075,216143	gen. Attribut
+216104	216129	Objekt
+216073	Präposition
+216109	216073	Präposition
+216148	216152-216153,216158	Subjekt
+216323	216359	gen. Attribut, gen. Attribut
+216331	216374	gen. Attribut
+216355	216323	Präposition, Präposition
+216382	216386	Subjekt
+216418	216422	Adverb, Präposition
+216432	216433	Objekt
+216480	216488,216490	Subjekt
+216496	216499	gen. Attribut
+216499	216502	Objekt
+216507	216510	Subjekt
+216524	216530	Adverb
+216524	216527	Objekt
+216535	216570	Objekt
+216535	216539,216572	Subjekt
+216541	216570	Subjekt
+216544	216550	Subjekt
+216553	216557,216575	Subjekt
+216592	216598	gen. Attribut
+216601	216606	Objekt
+216615	216613	Subjekt
+216634	216637	Objekt
+216653	216651	Subjekt
+216665	216667	gen. Attribut
+216674	216672	Adverb
+216672	Subjekt
+216672	Präposition
+216672	Adverb
+216755	216758	Objekt
+216758	Prädikatsnomen
+216922	216924	Subjekt
+216973	216974	Subjekt
+216982	216987	Subjekt
+216991	216995	Adverb
+216991	216993	Objekt
+216991	216999	gen. Attribut
+216997	216991	Präposition
+217001	217006	Adverb
+217001	217004	gen. Attribut
+217007	217001	Präposition
+217011	217017	Objekt
+217019	217022	Objekt
+217023	217025	Adverb
+217026	217023	Präposition
+217031	217033	gen. Attribut
+217054	217049	Objekt
+217057	217049	Objekt
+217059	217049	Objekt
+217061	217049	Objekt
+217093	217096	Adverb
+217206	217199,217203	Präposition
+217217	217219	Subjekt
+217237	217241	gen. Attribut
+217277	217288	Subjekt
+217277	217289	gen. Attribut
+217293	217309	Subjekt
+217293	217305	gen. Attribut
+217325	217331	gen. Attribut
+217355	217357	Objekt
+217367	217373	gen. Attribut
+217401	217414	gen. Attribut
+217428	217433	gen. Attribut
+217449	217438	Adverb
+217461	217458	adj. Attribut
+217463	217458	adj. Attribut
+217466	217472	Objekt
+217496	217510	Subjekt
+217568	217571	gen. Attribut
+217590	217587	Subjekt
+217594	217591	Objekt
+217597	217603	Subjekt
+217627	217631	Adverb
+217631	Adverb
+217645	217650	gen. Attribut
+217650	gen. Attribut, gen. Attribut
+217648,217650	gen. Attribut
+217655	217659	Subjekt
+217671	217673	gen. Attribut
+217679	217682	fig. etym.
+217682	gen. Attribut
+217682	gen. Attribut
+217710	217714	Subjekt
+217732	217733	Subjekt
+217743	217744	gen. Attribut
+217750	217755	gen. Attribut
+217752	217755	gen. Attribut
+217755	gen. Attribut
+217755	gen. Attribut
+217805	217807	Subjekt
+217808	217809	Adverb
+217810	217809	Adverb
+217810	217808	Präposition
+217815	217818	Objekt
+217825	217826	Subjekt
+217834	217835,217838	gen. Attribut
+217837	217838	gen. Attribut
+217841	217842-217843	gen. Attribut
+217847	217848-217849	gen. Attribut
+217853	217859	Subjekt
+217859	Objekt
+217854	217856	gen. Attribut
+217873	217876	gen. Attribut
+217891	217895	gen. Attribut
+218046	218066	Subjekt
+218063	218062	Objekt
+218083	218085	gen. Attribut
+218122	218123	Subjekt
+218146	218147	Adverb
+218148	218146	Präposition
+218152	218154	Objekt
+218168	218166	gen. Attribut
+218172	218173	Objekt
+218202	218206	Erweiterung Zahl (synd.)
+218233	218239	Subjekt
+218249	218252	Erweiterung Zahl (synd.)
+218277	218282	Subjekt
+218291	218289	Konjunktion
+218299	218304	Subjekt
+218314	Adverb
+218300	218304	Subjekt
+218313	218314	Objekt
+218324	218317	Adverb
+218329	218333	Subjekt
+218368	218399	Objekt
+218368	218402	Subjekt
+218368	218372	gen. Attribut
+218435	218436	gen. Attribut
+218471	218472	fig. etym.
+218482	218484,218487,218493,218497	Subjekt
+218482	218480	gen. Attribut
+218509	218512	gen. Attribut
+218515	218517	gen. Attribut
+218531	218536	Adverb
+218531	218539	Subjekt
+218533	218536	Subjekt
+218547	218550	Subjekt
+218651	218653,218657	Subjekt
+218674	218676	Adverb
+218681	218682	gen. Attribut
+218744	218746	Objekt
+218744	218748	gen. Attribut
+218746	218750	Subjekt
+218749	218750	Subjekt
+218764	218769	gen. Attribut
+218774	218783	Objekt
+218797	218799	gen. Attribut
+218816	218818	Objekt
+218816	218819,218824	gen. Attribut
+218822	218816	Präposition
+218827	218829	Objekt
+218827	218830,218833	gen. Attribut
+218863	218865-218866	Adverb
+218878	218874	gen. Attribut
+218886	218893	gen. Attribut
+218906	218915	Subjekt
+218909	218906	Präposition
+218914	218906	Präposition
+218927	218928	Subjekt
+218983	218984	Subjekt
+219000	219005	Subjekt
+219013	218999,219018,219020	Subjekt
+219019	219020	Subjekt
+219032	219034,219036	Subjekt
+219032	219041	gen. Attribut
+219045	Adverb
+219033	219134,219140	Objekt
+219033	219100,219102	Subjekt
+219033	219040,219046,219049,219054,219056,219061,219065,219070,219078,219082,219084	gen. Attribut
+219038	219043,219045,219050	Subjekt
+219038	219031,219041	gen. Attribut
+219052	219057	Subjekt
+219052	219031	gen. Attribut
+219059	219062	Subjekt
+219059	219063	gen. Attribut
+219067	219079	Subjekt
+219067	219031	gen. Attribut
+219071	219067	Subjekt
+219081	219085	Subjekt
+219081	219031	fig. etym.
+219088	219096,219102	Objekt
+219088	219100	Subjekt
+219152	219158	Subjekt
+219162	219165,219167	Subjekt
+219164	219167	Objekt
+219166	219164	Präposition
+219171	219176	Subjekt
+219190	219195	Objekt
+219195	Objekt
+219193	219196	Objekt
+219193	219195	Subjekt
+219198	219221	Adverb
+219198	219205,219208	Subjekt
+219203	219205,219208	Objekt
+219203	219207,219210	gen. Attribut
+219237	219242	Adverb
+219237	219241	Subjekt
+219237	219257	gen. Attribut
+219255	219259,219266,219270	Subjekt
+219267	219268	Subjekt
+219286	219306	gen. Attribut
+219290	219295	Subjekt
+219386	219390	gen. Attribut, gen. Attribut
+219396	219399	gen. Attribut
+219403	219410	Subjekt
+219410	Subjekt
+219426	219423	Subjekt
+219428	gen. Attribut
+219443	219445	Adverb
+219449	219452	Präposition
+219449	219451	Subjekt
+219449	219450	gen. Attribut
+219464	219469	gen. Attribut
+219514	219518	Adverb
+219516	219518	Adverb
+219539	219543	Objekt
+219546	219549	Objekt
+219587	219590	gen. Attribut
+219636	219637	gen. Attribut
+219642	Adverb
+219643	219637	Präposition
+219645	219650	gen. Attribut
+219650	gen. Attribut
+219650	gen. Attribut
+219650	gen. Attribut
+219675	219676	Subjekt
+219682	219683	Subjekt
+219697	219683	Subjekt
+219725	219727	Subjekt
+219728	219730	Adverb
+219731	219728	Präposition
+219737	219740	Objekt
+219746	219747	Subjekt
+219749	219746	gen. Attribut
+219757	219758-219759,219764	gen. Attribut
+219762	219763-219764	gen. Attribut
+219767	219768-219769	gen. Attribut
+219773	219774-219775	gen. Attribut
+219779	219786	Subjekt
+219786	Objekt
+219780	219782	gen. Attribut
+219807	219819	gen. Attribut
+219815	219819	gen. Attribut
+219845	219850	gen. Attribut
+219981	219990	Objekt
+219981	219995	Subjekt
+220060	220064	Subjekt
+220065	220062	Präposition
+220070	220076	Apposition
+220070	220075,220088,220095	Subjekt
+220073	220075	Objekt
+220106	220112	Objekt
+220109	220113	Objekt
+220109	220112	Subjekt
+220115	220112	Objekt
+220119	220120,220124	Objekt
+220119	220122,220126	gen. Attribut
+220128	220141	Adverb
+220128	220120,220124	Subjekt
+220162	220168,220181	Adverb
+220162	220167	Subjekt
+220166	220167	Objekt
+220224	220244	gen. Attribut
+220239	220230	Präposition
+220382	220388,220392	Subjekt
+220382	220384,220387	gen. Attribut
+220394	220396	gen. Attribut
+220485	220488	Adverb
+220497	220501	Subjekt
+220507	220514,220517	gen. Attribut
+220512	220517	gen. Attribut
+220537	220539	gen. Attribut
+220572	220578	Adverb
+220572	220577	gen. Attribut
+220579	220572	Präposition
+220622	220627	Subjekt
+220634	220640	Subjekt
+220662	220664	Adverb
+220669	220687	Subjekt
+220721	220722	Objekt
+220729	220730	Objekt
+220737	220738	Subjekt
+220800	220812	gen. Attribut
+220824	220829	Subjekt
+220827	220821	Präposition
+220844	220854	gen. Attribut
+220871	220874,220879	Subjekt
+220892	220894	Objekt
+220917	220916	Objekt
+220949	220957	Subjekt
+220949	220955	gen. Attribut
+221040	221039,221042	Subjekt
+221050	221049,221051	Subjekt
+221102	221096	Subjekt
+221123	221126	Subjekt
+221123	221127	gen. Attribut
+221132	221137	Subjekt
+221149	221151	gen. Attribut
+221193	221197,221209	Objekt
+221193	221210	Präposition
+221193	221199	gen. Attribut
+221296	221303	Adverb
+221296	221321	Präposition
+221345	221346	Präposition
+221427	221430	gen. Attribut
+221442	221446	Objekt
+221450	221456	Objekt
+221452	221456	Subjekt
+221482	221491	gen. Attribut
+221494	221505-221506	Subjekt
+221494	221500	gen. Attribut
+221671	221672	gen. Attribut
+221713	221686	Präposition
+221761	221768,221770,221776,221778,221781	Subjekt
+221792	221807,221813,221817,221824,221829,221839,221847	Subjekt
+221792	221842,221845	gen. Attribut
+221798	221792,221800	Subjekt
+221800	221813,221817,221824,221829,221839,221847	Subjekt
+221800	221842,221845	gen. Attribut
+221802	221807,221813,221817,221824,221829,221839,221847	Subjekt
+221802	221842,221845	gen. Attribut
+221806	221813	Präposition
+221811	221807	Präposition
+221816	221824	Präposition
+221830	221831	gen. Attribut
+221834	221835	gen. Attribut
+221842	221844,221847	Objekt
+221866	221886,221892,221898,221902,221914,221916,221940,221943,221945,221948,221963	Subjekt
+221866	221870	fig. etym.
+221866	221912	gen. Attribut
+221877	221880	Subjekt
+221885	221892	Adverb
+221896	221902	Adverb
+221927	221933,221935	Subjekt
+221946	221945	Objekt
+221964	221970	gen. Attribut
+221988	221990	Objekt
+222108	222112	Objekt
+222113	222105	Präposition
+222126	222128	Subjekt
+222131	222144	Adverb
+222149	222131	gen. Attribut
+222188	222198	Adverb
+222193	222195	Subjekt
+222199	222188	Präposition
+222201	222203	Subjekt
+222218	222220	Subjekt
+222239	222240,222251	Subjekt
+222250	222240,222251	Subjekt
+222255	222263	Subjekt
+222274	222282	Subjekt
+222324	222354,222357	Subjekt
+222330	222328	Objekt
+222381	222388	Präposition
+222427	222431	Objekt
+222472	222474	gen. Attribut
+222491	222494	Subjekt
+222493	222489,222498	Objekt
+222541	222543	Subjekt
+222551	222553	Subjekt
+222561	222563	Subjekt
+222572	222574	Subjekt
+222577	gen. Attribut
+222691	222697	Objekt
+222724	222755	gen. Attribut
+222733	222759	Subjekt
+222733	222755,222780	gen. Attribut
+222736	222758	gen. Attribut
+222760	222764,222766	gen. Attribut
+222767	gen. Attribut
+222764	222767	gen. Attribut
+222853	222855	Adverb
+222872	222883	Subjekt
+222885	222889,222893	Subjekt
+222885	222887	gen. Attribut
+222896	222902-222903,222914	Subjekt
+222902-222903,222914	Präposition
+222902-222903,222914,222933,222986	Adverb
+222898	222984	Objekt
+222898	222932,222964	gen. Attribut
+222926	222925	Subjekt
+222932	222933	Adverb
+222959	222898	Präposition
+222972	222977	Subjekt
+222975	222979	Subjekt
+223072	223075,223087	Subjekt
+223072	223074	gen. Attribut
+223080	Subjekt
+223073	223088,223097	gen. Attribut
+223078	223079	gen. Attribut
+223085	223086	gen. Attribut
+223142	223143	Subjekt
+223147	223162	gen. Attribut
+223159	223158	gen. Attribut
+223249	223258	Subjekt
+223260	223281,223283	Subjekt
+223262	223281,223283	Subjekt
+223281,223283	Subjekt
+223265	223281,223283	Subjekt
+223280	223283	Subjekt
+223328	223329	gen. Attribut
+223355	223359	Subjekt
+223365	223355	Subjekt
+223507	223497	Adverb
+223497	Adverb
+223508	223531	Agens
+223508	223528	Subjekt
+223511	223497	Adverb
+223513	223497	Adverb
+223520	223521	Präposition
+223556	223568	Subjekt
+223565	Subjekt
+223579	223583	gen. Attribut
+223583	gen. Attribut
+223587	223583	gen. Attribut
+223583	gen. Attribut
+223590	223595	gen. Attribut
+223595	gen. Attribut
+223644	223650	Adverb
+223644	223648	gen. Attribut
+223664	223673,223676,223682	gen. Attribut
+223704	223712	gen. Attribut
+223706	223712	gen. Attribut
+223751	223757	gen. Attribut
+223769	223772	Subjekt
+223797	223794	gen. Attribut
+223804	223805-223806,223809-223810	Subjekt
+223916	223923	Präposition
+223923	Adverb
+223922	223920	Adverb, Präposition
+223926	223925	Präposition
+223925	Präposition
+223925	Adverb
+223931	223930	Adverb, Präposition
+223960	223948	Subjekt
+223979	223982	Subjekt
+224019	224021	gen. Attribut
+224023	224025	gen. Attribut
+224027	224025	gen. Attribut
+224090	224089	Adverb
+224149	224057	Adverb
+224322	224334,224344,224359,224371	Subjekt
+224391	224403,224407	Subjekt
+224446	224443	Präposition
+224443	Subjekt
+224480	224482	Objekt
+224485	224489-224490	gen. Attribut
+224502	224505	gen. Attribut
+224517	224530,224537,224541	Subjekt
+224517	224518,224522	gen. Attribut
+224520	Subjekt
+224681	224702	Subjekt
+224701	224705,224712	Subjekt
+224710	224705,224712	Subjekt
+224714	224769	gen. Attribut
+224791	224793,224809	Objekt
+224791	224797,224802,224804	Subjekt
+224791	224805	gen. Attribut
+224793	224815	gen. Attribut
+224808	224817,224828	gen. Attribut
+224882	224896	gen. Attribut
+224889	224890	Subjekt
+224916	224929	Subjekt
+224972	224974	gen. Attribut
+225037	225038	Objekt
+225042	225043,225046	Subjekt
+225050	225057	Subjekt
+225106	225107	gen. Attribut
+225109	225111	gen. Attribut
+225115	225107	gen. Attribut
+225118	gen. Attribut
+225171	225172	Adverb
+225171	225183	Subjekt
+225176	225171	Subjekt
+225178	225171	Subjekt
+225185	225183	Subjekt
+225188	225192	gen. Attribut
+225198,225200	gen. Attribut
+225243	225264,225272	Adverb
+225243	225253,225257	gen. Attribut
+225257	225264	Subjekt
+225265	225243	Präposition
+225273	225285,225289	Subjekt
+225273	225280,225309	gen. Attribut
+225287	225291	gen. Attribut
+225295	225273	Präposition
+225294	Objekt
+225323	225368	Subjekt
+225326	225368	Agens
+225342	225344	Objekt
+225342	225349	gen. Attribut
+225376	225384	Objekt
+225376	225377,225406	gen. Attribut
+225381	225384	Subjekt
+225443	225451	Adverb
+225443	225459,225463,225484	Objekt
+225443	225455	Subjekt
+225452	225443	Präposition
+225485	225491,225495	Subjekt
+225487	225484	Objekt
+225503	225484	Objekt
+225512	225484	Objekt
+225514	225484	Objekt
+225484	Objekt
+225517	225484	Objekt
+225527	225529	gen. Attribut
+225579	225580	gen. Attribut
+225592	225605	gen. Attribut
+225657	225680	Adverb
+225657	225676,225684	Objekt
+225673	225676,225680,225684	Subjekt
+225673	225678,225686	gen. Attribut
+225681	225657	Präposition
+225689	225705	Subjekt
+225689	225690,225694,225708,225713	gen. Attribut
+225712	225689	Präposition
+225736	225744	Subjekt
+225736	225755	gen. Attribut
+225799	225801	gen. Attribut
+225830	225839-225840	Subjekt
+225830	225841	gen. Attribut
+225932	225929	Subjekt
+225970	225984	gen. Attribut
+226000	226016	gen. Attribut
+226036	226042,226065	Subjekt
+226036	226064	Subjekt, gen. Attribut
+226036	226024,226026,226137	gen. Attribut
+226156	226311	gen. Attribut
+226164	226176,226194,226203,226209	Subjekt
+226254	226260	gen. Attribut
+226260	226252	gen. Attribut
+226291	226305	Subjekt
+226318	226329,226333	Subjekt
+226382	226385	Objekt
+226414	226421	gen. Attribut
+226444	226447	Subjekt
+226444	226448	gen. Attribut
+226472	226476,226478	Subjekt
+226487	226480	gen. Attribut
+226527	226525	Subjekt
+226539	226541	Subjekt
+226573	226577	Subjekt
+226603	226610	Subjekt
+226603	226624,226634,226637	gen. Attribut
+226676	226677	Subjekt
+226681	226682	Subjekt
+226687	226691	gen. Attribut
+226705	226717	Subjekt
+226731	226734	Adverb
+226749	226751	Objekt
+226834	226844	gen. Attribut
+226857	226859	Objekt
+226857	226863,226866-226869,226871-226873	Subjekt
+226897	226905	Subjekt
+226900	226897	gen. Attribut
+226902	226897	gen. Attribut
+226904	226897	Apposition
+226928	226936	Subjekt
+226928	226930	gen. Attribut
+226948	226953	Subjekt
+226981	227224	Subjekt
+226981	226977,226979	gen. Attribut
+227002	227003	gen. Attribut
+227162	227169-227170	Subjekt
+227164	227161,227169-227170	Subjekt
+227179	227185	fig. etym.
+227212	227219	gen. Attribut
+227253	227279	gen. Attribut
+227278	227281	Adverb
+227278	227290	gen. Attribut
+227282	227278	Präposition
+227289	227278	Präposition
+227313	227339	Adverb
+227313	227327,227333	Objekt
+227339	Adverb
+227314	227327,227333	Objekt
+227339	Adverb
+227315	227327,227333	Objekt
+227318	227327,227333	Subjekt
+227318	227329	gen. Attribut
+227337	227344	Subjekt
+227337	227343	gen. Attribut
+227352	227351	Objekt
+227351	Objekt
+227355	227354	Objekt
+227354	Objekt
+227416	227418	Objekt
+227451	227452	Objekt
+227456	227461	Subjekt
+227468	Subjekt
+227457	227459	gen. Attribut
+227459	227461	Subjekt
+227465	227468	Objekt
+227481	227482,227487	Subjekt
+227593	227600	gen. Attribut
+227645	227655	gen. Attribut
+227763	227769	Objekt
+227797	227811,227815	Objekt
+227797	227809	Subjekt
+227816	227797	Präposition
+227857	227861	gen. Attribut
+227868	227871	Subjekt
+227918	227923,227926	Subjekt
+227977	227983	Subjekt
+227979	227983	Objekt
+227988	227989	Objekt
+228004	228005	gen. Attribut
+228034	228061	Subjekt
+228058	228034	Präposition
+228110	228114	Adverb, Präposition
+228157	228163	Subjekt
+228157	228159	gen. Attribut
+228174	228179	Adverb
+228174	228176	Objekt
+228183	228189	Subjekt
+228193	228197	Subjekt
+228202	228211	Objekt
+228202	228206,228212,228216	Subjekt
+228208	228211	Subjekt
+228228	228229	Subjekt
+228233	228240	gen. Attribut
+228260	228277	gen. Attribut
+228346	228347	Subjekt
+228355	228359	Adverb
+228355	228357	Objekt
+228355	228361	gen. Attribut
+228360	228355	Präposition
+228363	228371	Adverb
+228363	228368	gen. Attribut
+228371	Adverb
+228364	228368	gen. Attribut
+228398	228394	gen. Attribut
+228454	228456	Erweiterung Zahl (synd.)
+228462	228464	Subjekt
+228510	228512	gen. Attribut
+228513	228515	gen. Attribut
+228523	228525	Subjekt
+228538	228539	gen. Attribut
+228541	228542	gen. Attribut
+228544	228548	gen. Attribut
+228572	228575	gen. Attribut
+228609	228611	gen. Attribut
+228649	228661	gen. Attribut
+228661	228664	Subjekt
+228661	228663	Subjekt, gen. Attribut
+228673	228669	Präposition
+228701	228704	gen. Attribut
+228710	228712	Subjekt
+228710	228714	gen. Attribut
+228716	228719	gen. Attribut
+228723	228726	gen. Attribut
+228739	228746	Subjekt
+228767	228768	Subjekt
+228789	228800	Adverb
+228806	228789	gen. Attribut
+228842	228844	Adverb
+228845	228842	Präposition
+228847	228850	Subjekt
+228879	228880	Subjekt
+228889	228894	Subjekt
+228898	228902	Adverb
+228898	228900	Objekt
+228898	228905	gen. Attribut
+228903	228898	Präposition
+228907	228912	Adverb
+228907	228910	gen. Attribut
+228913	228907	Präposition
+228917	228923	Objekt
+228929	228931	Adverb
+228937	228939	gen. Attribut
+228954	228969	gen. Attribut
+229103	229096	Präposition
+229170	229182	Subjekt
+229170	229183	gen. Attribut
+229187	229204	Subjekt
+229252	229254	Adverb
+229254	Adverb
+229255	229252	Präposition
+229257	229259	Subjekt
+229262	229264	Subjekt
+229282	229283	Subjekt
+229292	229299	Subjekt
+229301	229308	Subjekt
+229329	229347,229349	Subjekt
+229334	229332	Objekt, Objekt
+229381	229357,229388	Präposition
+229383	229357	Adverb
+229385	229357	Präposition
+229357	Adverb
+229388	229357	Adverb
+229357	Präposition
+229433	229435	gen. Attribut
+229446	229449	Subjekt
+229448	229444	Objekt
+229465	229468	Subjekt
+229480	229482	Erweiterung Zahl (synd.)
+229488	229490	Subjekt
+229497	229499	Subjekt
+229506	229508	Subjekt
+229511	gen. Attribut
+229569	229572	Subjekt
+229710	229715	gen. Attribut
+229731	229736	gen. Attribut
+229739	229747	Subjekt
+229750	229754	Subjekt
+229752	229767,229775	Subjekt
+229792	229797	Objekt
+229999	230001,230005	Subjekt
+229999	230006	gen. Attribut
+230046	230047	Subjekt
+230057	230059,230070	Objekt
+230057	230071	Subjekt
+230107	230111	Subjekt
+230164	230174,230181	Adverb
+230164	230168,230178	Objekt
+230164	230175,230182	Präposition
+230164	230169	gen. Attribut
+230301	230308	Subjekt
+230327	230331	gen. Attribut
+230344	230352	Objekt
+230376	230382,230384	Subjekt
+230376	230383	gen. Attribut
+230471	230477	gen. Attribut
+230478	230475	Subjekt
+230494	230499	gen. Attribut
+230501	230510	Subjekt
+230503	230510	Subjekt
+230514	230517	Subjekt
+230528	Subjekt
+230602	230621	Subjekt
+230634	230639	gen. Attribut
+230639	gen. Attribut
+230644	230649	gen. Attribut
+230723	230725	Subjekt
+230749	230745	gen. Attribut
+230839	230838	Adverb, Präposition
+230859	230856	Subjekt
+230876	230879	Subjekt
+230906	230909	gen. Attribut
+230911	230913	gen. Attribut
+230965	230964	Adverb
+231014	230937	Adverb
+231148	231161	Subjekt
+231225	231222	Präposition
+231222	Subjekt
+231246	231248	Objekt
+231258	231262	gen. Attribut
+231272	231274	gen. Attribut
+231278	231281	Subjekt
+231286	231295,231310,231313	Subjekt
+231286	231287,231291	gen. Attribut
+231289	Subjekt
+231302	231347	gen. Attribut
+231421	231435	Objekt
+231489	231491,231506	Objekt
+231489	231496	Subjekt
+231489	231502	gen. Attribut
+231491	231496	Subjekt
+231505	231509	gen. Attribut
+231549	231555,231566	gen. Attribut
+231557	231558	Subjekt
+231656	231657	gen. Attribut
+231659	231661	gen. Attribut
+231663	231665	gen. Attribut
+231723	231729,231731,231735,231745,231747	gen. Attribut
+232378	232380	gen. Attribut
+232539	232541	Objekt
+232614	232615	Objekt
+232801	232802	Subjekt
+233476	233477	Objekt
+233767	233770	Subjekt
+233773	233758	Subjekt
+233864	233865	Objekt
+233864	233870	gen. Attribut
+233888	233889	Subjekt
+233892	233895	Negation
+234519	234520	Objekt
+234643	234641	gen. Attribut
+234666	234667	Subjekt
+234670	234692	gen. Attribut
+234674	234692	gen. Attribut
+234677	234678	Subjekt
+234691	234670,234674	Präposition
+234694	234695	Subjekt
+234696	234715	gen. Attribut
+234699	234715	gen. Attribut
+234702	234703	Subjekt
+234714	234696,234699	Präposition
+234721	234727	Subjekt
+234725	234727	Objekt
+234745	234749	Subjekt
+234767	234772	Subjekt
+234803	234812	gen. Attribut
+234813	234822	gen. Attribut
+234823	234832	gen. Attribut
+234899	234897	gen. Attribut
+234910	234911	Subjekt
+235028	235029	Subjekt
+235125	235128,235130	Subjekt
+235195	235197	Adverb
+235195	235199	Objekt
+235195	235196	Subjekt
+235201	235202	Objekt
+235488	235489	Objekt
+235851	235849	gen. Attribut
+235866	235860	Präposition
+236091	236096	gen. Attribut
+236101	236105	gen. Attribut
+243453	243465	Objekt
+245844	245853	Objekt
+246488	246490	Präposition
+247488	247490	gen. Attribut
+248864	248866	Subjekt
+251274	251275	Objekt
+252797	252801	Subjekt
+276922	276923	Subjekt
+296047	296055	Subjekt
+296395	296397	gen. Attribut
+298058	298070	Subjekt
+312762	312764	Objekt
+312895	312898	Objekt
+314396	314409	Subjekt
+314429	314426	Präposition
+323945	323948	Subjekt
+323945	323949	gen. Attribut
+360031	360033	Subjekt
+361790	361802	gen. Attribut
+361801	361805	Objekt
+365956	365960	Objekt
+370153	370160	Objekt
+370804	370802	Subjekt
+383780	383784	gen. Attribut
+781394	781397	Subjekt
+781409	781410	Subjekt
+781558	781560	gen. Attribut
+781621	781623	Objekt
+781691	781693,781695	Objekt
+781691	781699	gen. Attribut
+781693	781708	Subjekt
+781695	781708	Subjekt
+781697	781708	Subjekt
+781700	781708	Subjekt
+781861	781863	Subjekt
+781889	781890	Adverb
+781912	781914	Subjekt
+781919	781916	Präposition
+782099	782101	gen. Attribut
+782298	782299	Subjekt
+782806	782808	Objekt
+782838	782846	gen. Attribut
+782989	782991	Objekt
+783088	783090	Präposition
+783116	783121	Konjunktion
+783127	783129	Subjekt
+783208	783188	Subjekt
+783239	783246	Subjekt
+783303	783306	Konjunktion
+783341	783345,783348	Objekt
+783341	783344,783347	gen. Attribut
+783385	783384	Objekt
+783411	783413	Objekt
+783518	783517	gen. Attribut
+783616	783617	gen. Attribut
+783620	783633	Objekt
+783620	783621	Subjekt
+783620	783622,783630,783668	gen. Attribut
+783624	783631	Konjunktion
+783636	783637	Subjekt
+783730	783734	Subjekt
+783730	783735	gen. Attribut
+783739	783740	gen. Attribut
+783749	783755	Konjunktion
+783877	783876	Objekt
+783935	783938	gen. Attribut
+783977	783975	Subjekt
+784052	784055	Objekt
+784205	784207	Subjekt
+784228	784232	gen. Attribut
+784233	784252	gen. Attribut
+784260	784264	gen. Attribut
+784264	gen. Attribut
+784274	784277	Objekt
+784277	Objekt
+784379	784382	gen. Attribut
+784421	784423	gen. Attribut
+784463	784467	Subjekt
+784463	784464,784466	gen. Attribut
+784491	784493	Adverb
+784525	784528	Subjekt
+784657	784669	Subjekt
+784660	784662	Subjekt
+784664	784669	Subjekt
+784666	784669	Subjekt
+784738	784740	Präposition
+784750	784749	Objekt
+784861	784860	Objekt
+784901	784910	Subjekt
+784910	Subjekt
+784962	784963	Subjekt
+784962	784965	gen. Attribut
+785007	785009	Subjekt
+785027	785034	Subjekt
+785035	785038	Subjekt
+785035	785045	gen. Attribut
+785147	785146	Objekt
+785147	785154	Subjekt
+785146	Adverb
+785187	785193	Subjekt
+785282	785293,785303,785314	Subjekt
+785286	785299	gen. Attribut
+785292	785299	gen. Attribut
+785328	785335	gen. Attribut
+785346	785348	gen. Attribut
+785379	785378	Objekt
+785439	785441	Objekt
+785448	785447	Objekt
+785448	785450	Subjekt
+785448	785452	gen. Attribut
+785493	785490	Adverb, Präposition
+785495	785499	Subjekt
+785499	Subjekt
+785511	785513	Objekt
+785520	785521	gen. Attribut
+785547	785550	Subjekt
+785599	785602	Subjekt
+785606	785603	Subjekt
+785609	785610,785612	Subjekt
+785760	785765	Konjunktion
+785769	785784	Subjekt
+785769	785791,785793	gen. Attribut
+785775	785781	Adverb
+785780	785781	Objekt
+785886	785889	Konjunktion
+785920	785919	Objekt
+785970	785975	Objekt
+785978	785990	Subjekt
+785978	785994	gen. Attribut
+785996	786003	Subjekt
+785998,786003	Subjekt
+785997	786002,786008	gen. Attribut
+786028	786030	Subjekt
+786028	786032	gen. Attribut
+786045	786047	gen. Attribut
+786063	786064	Objekt
+786086	786093	Subjekt
+786094	786093	Objekt
+786093	Adverb
+786093	Objekt
+786098	786093	Adverb
+786104	786101	Objekt
+786104	786102	Subjekt
+786110	Konjunktion
+786119	786133	Subjekt
+786145	786146,786148-786149	Präposition
+786174	786175	Objekt
+786274	786273	Objekt
+786323	786325	Subjekt
+786420	786422	Objekt
+786506	786515,786518,786525	gen. Attribut
+786578	786587	Objekt
+786647	786650	Subjekt
+786663	786667	Subjekt
+786681	786684	Subjekt
+786703	786706	Subjekt
+786715	786717,786725	Subjekt
+786715	786716	gen. Attribut
+786857	786856	Objekt
+786857	786863	Subjekt
+786857	786862	gen. Attribut
+786879	786877	Apposition
+787024	787026	gen. Attribut
+787073	787072	Objekt
+787091	787095	Adverb
+787091	787089,787093	Subjekt
+787112	787117,787123	Objekt
+787151	787150	Objekt
+787238	787237	Objekt
+787273	787285,787291	gen. Attribut
+787306	787280	Präposition
+787308	787312	Subjekt
+787332	787333	Subjekt
+787387	787388	Subjekt
+787394	787388	Objekt
+787404	Subjekt
+787495	787491	Präposition
+787565	787570,787573	gen. Attribut
+787628	787632	Subjekt
+787721	787718	Subjekt
+787718	Adverb
+787959	787966	Subjekt
+788090	788091	Subjekt
+788109	788112	Objekt
+788184	788185	gen. Attribut
+788199	788197	Subjekt
+788254	788253	gen. Attribut
+788341	788340	gen. Attribut
+788340	gen. Attribut
+788512	788513	Subjekt
+788537	788539	Subjekt
+788584	788583	Objekt
+788586	788585	Objekt
+788608	788612	Konjunktion
+788618	788619	Adverb
+788716	788714	Subjekt
+788763	788761	Subjekt
+788826	788827	gen. Attribut
+788837	788844	Subjekt
+788837	788846	gen. Attribut
+788839	788840	gen. Attribut
+788871	788873	Subjekt
+788893	788892	Objekt
+788893	788896	Subjekt
+788893	788901,788903	gen. Attribut
+788896	Objekt
+789020	789023	Subjekt
+789071	789073	gen. Attribut
+789161	789166	Adverb
+789187	789186	Subjekt
+789373	789375	gen. Attribut
+789377	789379	gen. Attribut
+789383	789385	Objekt
+789389	789390,789396	Subjekt
+789447	789448	Subjekt
+789526	789528	Objekt
+789760	789764	Subjekt
+790112	790115	Subjekt
+790480	790483	gen. Attribut
+790512	790511	Objekt
+790514	790517	Subjekt
+790536	790540	Subjekt
+790553	790554,790558	Subjekt
+790556	790567	Adverb
+790556	790558,790570	Objekt
+790556	790566,790574	gen. Attribut
+790571	790556	Präposition
+790576	790583,790596	Subjekt
+790598	790599	gen. Attribut
+790605	790607,790609	Subjekt
+790626	790630	gen. Attribut
+790672	790673	Adverb
+790698	790701	Adverb
+790707	gen. Attribut
+790728	790730	Objekt
+790728	790734	Subjekt
+790728	790733	gen. Attribut
+790730	Objekt
+790729	790734	Subjekt
+790729	790733	gen. Attribut
+790786	790794	gen. Attribut
+790806	790808	Objekt
+790835	790840,790866,790870,790904	Adverb
+790835	790843,790846,790861	Objekt
+790835	790891,790906	Subjekt
+790835	790837,790905	gen. Attribut
+790866	790891	Objekt
+790835	Präposition
+790871	790835	Präposition
+790910	790914-790915,790920	Subjekt
+791085	791121	gen. Attribut, gen. Attribut
+791093	791136	gen. Attribut
+791117	791085	Präposition, Präposition
+791144	791148	Subjekt
+791180	791184	Adverb, Präposition
+791194	791195	Objekt
+791242	791250,791252	Subjekt
+791258	791261	gen. Attribut
+791261	791264	Objekt
+791269	791272	Subjekt
+791286	791292	Adverb
+791286	791289	Objekt
+791297	791332	Objekt
+791297	791301,791334	Subjekt
+791303	791332	Subjekt
+791306	791312	Subjekt
+791315	791319,791337	Subjekt
+791354	791360	gen. Attribut
+791363	791368	Objekt
+791377	791375	Subjekt
+791396	791399	Objekt
+791415	791413	Subjekt
+791427	791429	gen. Attribut
+791436	791434	Adverb
+791434	Subjekt
+791434	Präposition
+791434	Adverb
+791517	791520	Objekt
+791520	Prädikatsnomen
+791684	791686	Subjekt
+791735	791736	Subjekt
+791744	791749	Subjekt
+791753	791757	Adverb
+791753	791755	Objekt
+791753	791761	gen. Attribut
+791759	791753	Präposition
+791763	791768	Adverb
+791763	791766	gen. Attribut
+791769	791763	Präposition
+791773	791779	Objekt
+791781	791784	Objekt
+791785	791787	Adverb
+791788	791785	Präposition
+791793	791795	gen. Attribut
+791816	791811	Objekt
+791819	791811	Objekt
+791821	791811	Objekt
+791823	791811	Objekt
+791855	791858	Adverb
+791968	791961,791965	Präposition
+791979	791981	Subjekt
+791999	792003	gen. Attribut
+792039	792050	Subjekt
+792039	792051	gen. Attribut
+792055	792071	Subjekt
+792055	792067	gen. Attribut
+792087	792093	gen. Attribut
+792117	792119	Objekt
+792129	792135	gen. Attribut
+792163	792176	gen. Attribut
+792190	792195	gen. Attribut
+792211	792200	Adverb
+792235	792232	adj. Attribut
+792237	792232	adj. Attribut
+792240	792222	Objekt
+792258	792272	Subjekt
+792330	792333	gen. Attribut
+792352	792349	Subjekt
+792356	792353	Objekt
+792359	792365	Subjekt
+792389	792393	Adverb
+792393	Adverb
+792407	792412	gen. Attribut
+792412	gen. Attribut, gen. Attribut
+792410,792412	gen. Attribut
+792417	792421	Subjekt
+792433	792435	gen. Attribut
+792441	792444	fig. etym.
+792444	gen. Attribut
+792444	gen. Attribut
+792472	792476	Subjekt
+792494	792495	Subjekt
+792505	792506	gen. Attribut
+792512	792517	gen. Attribut
+792514	792517	gen. Attribut
+792517	gen. Attribut
+792517	gen. Attribut
+792567	792569	Subjekt
+792570	792571	Adverb
+792572	792571	Adverb
+792572	792570	Präposition
+792577	792580	Objekt
+792587	792588	Subjekt
+792596	792597,792600	gen. Attribut
+792599	792600	gen. Attribut
+792603	792604-792605	gen. Attribut
+792608	792609-792610	gen. Attribut
+792614	792620	Subjekt
+792620	Objekt
+792615	792617	gen. Attribut
+792634	792637	gen. Attribut
+792652	792656	gen. Attribut
+792807	792827	Subjekt
+792824	792823	Objekt
+792843	792845	gen. Attribut
+792881	792882	Subjekt
+792905	792906	Adverb
+792907	792905	Präposition
+792911	792913	Objekt
+792927	792925	gen. Attribut
+792931	792932	Objekt
+792961	792965	Erweiterung Zahl (synd.)
+792992	792998	Subjekt
+793008	793011	Erweiterung Zahl (synd.)
+793036	793041	Subjekt
+793050	793048	Konjunktion
+793058	793063	Subjekt
+793073	Adverb
+793059	793063	Subjekt
+793072	793073	Objekt
+793083	793076	Adverb
+793088	793092	Subjekt
+793127	793158	Objekt
+793127	793161	Subjekt
+793127	793131	gen. Attribut
+793194	793196	gen. Attribut
+793230	793231	fig. etym.
+793241	793243,793246,793252,793256	Subjekt
+793241	793239	gen. Attribut
+793268	793271	gen. Attribut
+793274	793276	gen. Attribut
+793290	793295	Adverb
+793290	793298	Subjekt
+793292	793295	Subjekt
+793306	793309	Subjekt
+793410	793412,793416	Subjekt
+793433	793435	Adverb
+793440	793441	gen. Attribut
+793503	793505	Objekt
+793503	793507	gen. Attribut
+793505	793509	Subjekt
+793508	793509	Subjekt
+793523	793528	gen. Attribut
+793533	793542	Objekt
+793556	793558	gen. Attribut
+793575	793577	Objekt
+793575	793578,793583	gen. Attribut
+793581	793575	Präposition
+793586	793588	Objekt
+793586	793589,793592	gen. Attribut
+793622	793624-793625	Adverb
+793637	793633	gen. Attribut
+793645	793652	gen. Attribut
+793665	793674	Subjekt
+793668	793665	Präposition
+793673	793665	Präposition
+793686	793687	Subjekt
+793741	793742	Subjekt
+793758	793763	Subjekt
+793777	793757,793782,793784	Subjekt
+793783	793784	Subjekt
+793790	793792,793794	Subjekt
+793790	793799	gen. Attribut
+793803	Adverb
+793791	793892,793898	Objekt
+793791	793858,793860	Subjekt
+793791	793798,793804,793807,793812,793814,793819,793823,793828,793836,793840,793842	gen. Attribut
+793796	793801,793803,793808	Subjekt
+793796	793789,793799	gen. Attribut
+793810	793815	Subjekt
+793810	793789	gen. Attribut
+793817	793820	Subjekt
+793817	793821	gen. Attribut
+793825	793837	Subjekt
+793825	793789	gen. Attribut
+793829	793825	Subjekt
+793839	793843	Subjekt
+793839	793789	fig. etym.
+793846	793854,793860	Objekt
+793846	793858	Subjekt
+793909	793912,793914	Subjekt
+793911	793914	Objekt
+793913	793911	Präposition
+793918	793924	Subjekt
+793929	793934	Subjekt
+793948	793953	Objekt
+793953	Objekt
+793951	793954	Objekt
+793951	793953	Subjekt
+793956	793979	Adverb
+793956	793963,793966	Subjekt
+793961	793963,793966	Objekt
+793961	793965,793968	gen. Attribut
+793995	794000	Adverb
+793995	793999	Subjekt
+793995	794015	gen. Attribut
+794013	794017,794024,794028	Subjekt
+794025	794026	Subjekt
+794044	794064	gen. Attribut
+794048	794053	Subjekt
+794144	794148	gen. Attribut, gen. Attribut
+794154	794157	gen. Attribut
+794161	794168	Subjekt
+794168	Subjekt
+794184	794181	Subjekt
+794186	gen. Attribut
+794201	794203	Adverb
+794207	794210	Präposition
+794207	794209	Subjekt
+794207	794208	gen. Attribut
+794222	794227	gen. Attribut
+794271	794275	Adverb
+794273	794275	Adverb
+794296	794300	Objekt
+794303	794306	Objekt
+794344	794347	gen. Attribut
+794393	794394	gen. Attribut
+794399	Adverb
+794400	794394	Präposition
+794402	794407	gen. Attribut
+794407	gen. Attribut
+794407	gen. Attribut
+794407	gen. Attribut
+794432	794433	Subjekt
+794439	794440	Subjekt
+794454	794440	Subjekt
+794482	794484	Subjekt
+794485	794487	Adverb
+794488	794485	Präposition
+794494	794497	Objekt
+794503	794504	Subjekt
+794506	794503	gen. Attribut
+794514	794515-794516,794521	gen. Attribut
+794519	794520-794521	gen. Attribut
+794524	794525-794526	gen. Attribut
+794529	794530-794531	gen. Attribut
+794535	794542	Subjekt
+794542	Objekt
+794536	794538	gen. Attribut
+794563	794575	gen. Attribut
+794571	794575	gen. Attribut
+794601	794606	gen. Attribut
+794737	794746	Objekt
+794737	794751	Subjekt
+794816	794820	Subjekt
+794821	794818	Präposition
+794826	794832	Apposition
+794826	794831,794844,794851	Subjekt
+794829	794831	Objekt
+794862	794868	Objekt
+794865	794869	Objekt
+794865	794868	Subjekt
+794871	794868	Objekt
+794875	794876,794880	Objekt
+794875	794878,794882	gen. Attribut
+794884	794900	Adverb
+794884	794876,794880	Subjekt
+794918	794924,794927	Adverb
+794918	794923	Subjekt
+794922	794923	Objekt
+794980	795000	gen. Attribut
+794995	794986	Präposition
+795138	795144,795148	Subjekt
+795138	795140,795143	gen. Attribut
+795150	795152	gen. Attribut
+795240	795243	Adverb
+795251	795255	Subjekt
+795262	795269,795271	gen. Attribut
+795267	795271	gen. Attribut
+795291	795293	gen. Attribut
+795326	795332	Adverb
+795326	795331	gen. Attribut
+795333	795326	Präposition
+795376	795381	Subjekt
+795388	795394	Subjekt
+795416	795418	Adverb
+795423	795432	Subjekt
+795475	795476	Objekt
+795483	795484	Objekt
+795491	795492	Subjekt
+795553	795567	gen. Attribut
+795578	795583	Subjekt
+795581	795575	Präposition
+795600	795610	gen. Attribut
+795624	795627,795632	Subjekt
+795645	795647	Objekt
+795670	795669	Objekt
+795702	795710	Subjekt
+795702	795708	gen. Attribut
+795793	795792,795795	Subjekt
+795803	795802,795804	Subjekt
+795855	795849	Subjekt
+795876	795879	Subjekt
+795876	795880	gen. Attribut
+795885	795890	Subjekt
+795902	795904	gen. Attribut
+795946	795950,795955	Objekt
+795946	795963	Präposition
+795946	795952	gen. Attribut
+796049	796056	Adverb
+796049	796063	Präposition
+796098	796099	Präposition
+796180	796183	gen. Attribut
+796200	796204	Objekt
+796208	796214	Objekt
+796210	796214	Subjekt
+796235	796244	gen. Attribut
+796247	796258-796259	Subjekt
+796247	796253	gen. Attribut
+796424	796425	gen. Attribut
+796466	796439	Präposition
+796514	796521,796523,796529,796531,796534	Subjekt
+796546	796560,796565,796570,796577,796582,796592,796600	Subjekt
+796546	796595,796598	gen. Attribut
+796552	796546,796553	Subjekt
+796565,796570,796577,796582,796592,796600	Subjekt
+796553	796595,796598	gen. Attribut
+796555	796560,796565,796570,796577,796582,796592,796600	Subjekt
+796555	796595,796598	gen. Attribut
+796559	796565	Präposition
+796568	796560	Präposition
+796577	Präposition
+796583	796584	gen. Attribut
+796587	796588	gen. Attribut
+796595	796597,796600	Objekt
+796619	796639,796645,796651,796655,796667,796669,796693,796696,796698,796701,796716	Subjekt
+796619	796623	fig. etym.
+796619	796665	gen. Attribut
+796630	796633	Subjekt
+796638	796645	Adverb
+796649	796655	Adverb
+796680	796686,796688	Subjekt
+796699	796698	Objekt
+796717	796723	gen. Attribut
+796741	796743	Objekt
+796861	796865	Objekt
+796866	796858	Präposition
+796879	796881	Subjekt
+796884	796897	Adverb
+796902	796884	gen. Attribut
+796941	796951	Adverb
+796946	796948	Subjekt
+796952	796941	Präposition
+796954	796956	Subjekt
+796970	796972	Subjekt
+796990	796991,797002	Subjekt
+797001	796991,797002	Subjekt
+797006	797014	Subjekt
+797024	797032	Subjekt
+797074	797104,797107	Subjekt
+797080	797078	Objekt
+797138	797145	Präposition
+797177	797181	Objekt
+797222	797224	gen. Attribut
+797241	797244	Subjekt
+797243	797239,797248	Objekt
+797291	797293	Subjekt
+797301	797303	Subjekt
+797311	797313	Subjekt
+797321	797323	Subjekt
+797326	gen. Attribut
+797440	797446	Objekt
+797473	797504	gen. Attribut
+797482	797508	Subjekt
+797482	797504,797529	gen. Attribut
+797485	797507	gen. Attribut
+797509	797513,797515	gen. Attribut
+797516	gen. Attribut
+797513	797516	gen. Attribut
+797602	797604	Adverb
+797621	797632	Subjekt
+797634	797638,797642	Subjekt
+797634	797636	gen. Attribut
+797645	797651-797652,797655	Subjekt
+797651-797652,797655	Präposition
+797651-797652,797655,797682,797735	Adverb
+797647	797733	Objekt
+797647	797681,797713	gen. Attribut
+797675	797674	Subjekt
+797681	797682	Adverb
+797708	797647	Präposition
+797721	797726	Subjekt
+797724	797728	Subjekt
+797821	797824,797836	Subjekt
+797821	797823	gen. Attribut
+797829	Subjekt
+797822	797837,797846	gen. Attribut
+797827	797828	gen. Attribut
+797834	797835	gen. Attribut
+797891	797892	Subjekt
+797896	797900	gen. Attribut
+797910	797909	gen. Attribut
+797998	798007	Subjekt
+798009	798030,798032	Subjekt
+798011	798030,798032	Subjekt
+798030,798032	Subjekt
+798014	798030,798032	Subjekt
+798029	798032	Subjekt
+798077	798078	gen. Attribut
+798104	798109	Subjekt
+798115	798104	Subjekt
+798254	798244	Adverb
+798244	Adverb
+798255	798278	Agens
+798255	798275	Subjekt
+798258	798244	Adverb
+798260	798244	Adverb
+798267	798268	Präposition
+798303	798315	Subjekt
+798312	Subjekt
+798326	798330	gen. Attribut
+798330	gen. Attribut
+798334	798330	gen. Attribut
+798330	gen. Attribut
+798337	798342	gen. Attribut
+798342	gen. Attribut
+798391	798397	Adverb
+798391	798395	gen. Attribut
+798410	798419,798422,798428	gen. Attribut
+798450	798458	gen. Attribut
+798452	798458	gen. Attribut
+798497	798503	gen. Attribut
+798515	798518	Subjekt
+798543	798540	gen. Attribut
+798553	798554-798555,798558-798559	Subjekt
+798662	798669	Präposition
+798669	Adverb
+798668	798666	Adverb, Präposition
+798672	798671	Präposition
+798671	Präposition
+798671	Adverb
+798677	798676	Adverb, Präposition
+798697	798694	Subjekt
+798725	798728	Subjekt
+798765	798767	gen. Attribut
+798769	798771	gen. Attribut
+798773	798771	gen. Attribut
+798834	798833	Adverb
+798897	798803	Adverb
+799067	799081,799089,799094,799116	Subjekt
+799136	799148,799152	Subjekt
+799191	799188	Präposition
+799188	Subjekt
+799225	799227	Objekt
+799230	799234-799235	gen. Attribut
+799247	799250	gen. Attribut
+799264	799275,799282,799286	Subjekt
+799264	799265,799269	gen. Attribut
+799267	Subjekt
+799424	799445	Subjekt
+799444	799448,799455	Subjekt
+799453	799448,799455	Subjekt
+799457	799512	gen. Attribut
+799534	799536,799552	Objekt
+799534	799540,799545,799547	Subjekt
+799534	799548	gen. Attribut
+799536	799558	gen. Attribut
+799551	799560,799571	gen. Attribut
+799623	799637	gen. Attribut
+799630	799631	Subjekt
+799657	799671	Subjekt
+799713	799715	gen. Attribut
+799778	799779	Objekt
+799783	799784,799787	Subjekt
+799791	799798	Subjekt
+799849	799850	gen. Attribut
+799852	799854	gen. Attribut
+799856	799850	gen. Attribut
+799859	gen. Attribut
+799912	799913	Adverb
+799912	799924	Subjekt
+799917	799912	Subjekt
+799919	799912	Subjekt
+799926	799924	Subjekt
+799929	799933	gen. Attribut
+799939,799941	gen. Attribut
+799983	800004,800012	Adverb
+799983	799994,799998	gen. Attribut
+799998	800004	Subjekt
+800005	799983	Präposition
+800013	800025,800029	Subjekt
+800013	800020,800049	gen. Attribut
+800027	800031	gen. Attribut
+800035	800013	Präposition
+800034	Objekt
+800063	800091	Subjekt
+800066	800091	Agens
+800082	800084	Objekt
+800082	800089	gen. Attribut
+800116	800124	Objekt
+800116	800117,800146	gen. Attribut
+800121	800124	Subjekt
+800183	800191	Adverb
+800183	800202,800206,800224	Objekt
+800183	800195	Subjekt
+800192	800183	Präposition
+800225	800231,800235	Subjekt
+800227	800224	Objekt
+800243	800224	Objekt
+800252	800224	Objekt
+800254	800224	Objekt
+800224	Objekt
+800257	800224	Objekt
+800267	800269	gen. Attribut
+800319	800320	gen. Attribut
+800332	800345	gen. Attribut
+800397	800420	Adverb
+800397	800416,800424	Objekt
+800413	800416,800420,800424	Subjekt
+800413	800418,800426	gen. Attribut
+800421	800397	Präposition
+800429	800445	Subjekt
+800429	800430,800434,800448,800453	gen. Attribut
+800452	800429	Präposition
+800476	800484	Subjekt
+800476	800495	gen. Attribut
+800539	800541	gen. Attribut
+800570	800579-800580	Subjekt
+800570	800581	gen. Attribut
+800672	800669	Subjekt
+800710	800724	gen. Attribut
+800740	800756	gen. Attribut
+800776	800782,800805	Subjekt
+800776	800804	Subjekt, gen. Attribut
+800776	800764,800766,800874	gen. Attribut
+800892	801052	gen. Attribut
+800900	800912,800930,800939,800945	Subjekt
+800990	800996	gen. Attribut
+800996	800988	gen. Attribut
+801032	801046	Subjekt
+801059	801070,801074	Subjekt
+801123	801126	Objekt
+801155	801162	gen. Attribut
+801185	801188	Subjekt
+801185	801189	gen. Attribut
+801213	801217,801219	Subjekt
+801228	801221	gen. Attribut
+801268	801266	Subjekt
+801280	801282	Subjekt
+801314	801318	Subjekt
+801344	801351	Subjekt
+801344	801365,801375,801378	gen. Attribut
+801417	801418	Subjekt
+801422	801423	Subjekt
+801428	801432	gen. Attribut
+801446	801458	Subjekt
+801472	801475	Adverb
+801490	801492	Objekt
+801575	801585	gen. Attribut
+801598	801600	Objekt
+801598	801604,801607-801610,801612-801614	Subjekt
+801638	801646	Subjekt
+801641	801638	gen. Attribut
+801643	801638	gen. Attribut
+801645	801638	Apposition
+801669	801677	Subjekt
+801669	801671	gen. Attribut
+801689	801694	Subjekt
+801722	801965	Subjekt
+801722	801718,801720	gen. Attribut
+801743	801744	gen. Attribut
+801903	801910-801911	Subjekt
+801905	801902,801910-801911	Subjekt
+801920	801926	fig. etym.
+801953	801960	gen. Attribut
+801994	802020	gen. Attribut
+802019	802022	Adverb
+802019	802031	gen. Attribut
+802023	802019	Präposition
+802030	802019	Präposition
+802054	802080	Adverb
+802054	802068,802074	Objekt
+802080	Adverb
+802055	802068,802074	Objekt
+802080	Adverb
+802056	802068,802074	Objekt
+802059	802068,802074	Subjekt
+802059	802070	gen. Attribut
+802078	802085	Subjekt
+802078	802084	gen. Attribut
+802093	802092	Objekt
+802092	Objekt
+802096	802095	Objekt
+802095	Objekt
+802157	802159	Objekt
+802192	802193	Objekt
+802197	802202	Subjekt
+802209	Subjekt
+802198	802200	gen. Attribut
+802200	802202	Subjekt
+802206	802209	Objekt
+802222	802223,802228	Subjekt
+802334	802341	gen. Attribut
+802386	802396	gen. Attribut
+802504	802510	Objekt
+802538	802552,802556	Objekt
+802538	802550	Subjekt
+802557	802538	Präposition
+802598	802602	gen. Attribut
+802609	802612	Subjekt
+802659	802664,802667	Subjekt
+802718	802724	Subjekt
+802720	802724	Objekt
+802729	802730	Objekt
+802745	802746	gen. Attribut
+802775	802802	Subjekt
+802799	802775	Präposition
+802851	802855	Adverb, Präposition
+802898	802904	Subjekt
+802898	802900	gen. Attribut
+802915	802920	Adverb
+802915	802917	Objekt
+802924	802930	Subjekt
+802934	802938	Subjekt
+802943	802952	Objekt
+802943	802947,802953,802957	Subjekt
+802949	802952	Subjekt
+802969	802970	Subjekt
+802974	802981	gen. Attribut
+803001	803018	gen. Attribut
+803087	803088	Subjekt
+803096	803100	Adverb
+803096	803098	Objekt
+803096	803102	gen. Attribut
+803101	803096	Präposition
+803104	803112	Adverb
+803104	803109	gen. Attribut
+803112	Adverb
+803105	803109	gen. Attribut
+803139	803135	gen. Attribut
+803195	803197	Erweiterung Zahl (synd.)
+803203	803205	Subjekt
+803251	803253	gen. Attribut
+803254	803256	gen. Attribut
+803264	803266	Subjekt
+803279	803280	gen. Attribut
+803282	803283	gen. Attribut
+803285	803289	gen. Attribut
+803313	803316	gen. Attribut
+803350	803352	gen. Attribut
+803390	803402	gen. Attribut
+803402	803405	Subjekt
+803402	803404	Subjekt, gen. Attribut
+803414	803410	Präposition
+803442	803445	gen. Attribut
+803451	803453	Subjekt
+803451	803455	gen. Attribut
+803457	803460	gen. Attribut
+803464	803467	gen. Attribut
+803480	803487	Subjekt
+803507	803508	Subjekt
+803529	803540	Adverb
+803546	803529	gen. Attribut
+803582	803584	Adverb
+803585	803582	Präposition
+803587	803590	Subjekt
+803618	803619	Subjekt
+803628	803633	Subjekt
+803637	803641	Adverb
+803637	803639	Objekt
+803637	803644	gen. Attribut
+803642	803637	Präposition
+803646	803651	Adverb
+803646	803649	gen. Attribut
+803652	803646	Präposition
+803656	803662	Objekt
+803668	803670	Adverb
+803676	803678	gen. Attribut
+803693	803708	gen. Attribut
+803842	803835	Präposition
+803909	803921	Subjekt
+803909	803922	gen. Attribut
+803926	803943	Subjekt
+803991	803993	Adverb
+803993	Adverb
+803994	803991	Präposition
+803996	803998	Subjekt
+804001	804003	Subjekt
+804021	804022	Subjekt
+804031	804038	Subjekt
+804040	804047	Subjekt
+804068	804086,804088	Subjekt
+804073	804071	Objekt, Objekt
+804120	804096,804127	Präposition
+804122	804096	Adverb
+804124	804096	Präposition
+804096	Adverb
+804127	804096	Adverb
+804096	Präposition
+804172	804174	gen. Attribut
+804185	804188	Subjekt
+804187	804183	Objekt
+804204	804207	Subjekt
+804219	804221	Erweiterung Zahl (synd.)
+804227	804229	Subjekt
+804236	804238	Subjekt
+804245	804247	Subjekt
+804250	gen. Attribut
+804308	804311	Subjekt
+804449	804454	gen. Attribut
+804470	804475	gen. Attribut
+804478	804486	Subjekt
+804489	804493	Subjekt
+804491	804506,804514	Subjekt
+804531	804536	Objekt
+804738	804740,804744	Subjekt
+804738	804745	gen. Attribut
+804785	804786	Subjekt
+804796	804798,804809	Objekt
+804796	804810	Subjekt
+804846	804850	Subjekt
+804903	804913,804920	Adverb
+804903	804907,804917	Objekt
+804903	804914,804921	Präposition
+804903	804908	gen. Attribut
+805040	805047	Subjekt
+805066	805070	gen. Attribut
+805083	805091	Objekt
+805115	805121,805123	Subjekt
+805115	805122	gen. Attribut
+805210	805216	gen. Attribut
+805217	805214	Subjekt
+805233	805238	gen. Attribut
+805240	805249	Subjekt
+805242	805249	Subjekt
+805253	805256	Subjekt
+805267	Subjekt
+805340	805359	Subjekt
+805372	805377	gen. Attribut
+805377	gen. Attribut
+805382	805387	gen. Attribut
+805461	805463	Subjekt
+805487	805483	gen. Attribut
+805577	805576	Adverb, Präposition
+805597	805594	Subjekt
+805614	805617	Subjekt
+805644	805647	gen. Attribut
+805649	805651	gen. Attribut
+805703	805702	Adverb
+805750	805675	Adverb
+805884	805897	Subjekt
+805960	805957	Präposition
+805957	Subjekt
+805981	805983	Objekt
+805993	805997	gen. Attribut
+806007	806009	gen. Attribut
+806013	806016	Subjekt
+806021	806030,806045,806048	Subjekt
+806021	806022,806026	gen. Attribut
+806024	Subjekt
+806037	806082	gen. Attribut
+806156	806170	Objekt
+806224	806226,806241	Objekt
+806224	806231	Subjekt
+806224	806237	gen. Attribut
+806226	806231	Subjekt
+806240	806244	gen. Attribut
+806284	806290,806301	gen. Attribut
+806292	806293	Subjekt
+806391	806392	gen. Attribut
+806394	806396	gen. Attribut
+806398	806400	gen. Attribut
+806458	806464,806466,806470,806480,806482	gen. Attribut
+806541	806546	gen. Attribut
+806551	806555	gen. Attribut
+807122	807128	Subjekt

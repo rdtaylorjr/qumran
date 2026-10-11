@@ -1,0 +1,162 @@
+{
+ "202871": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הך",
+  "wordReadingId": 202871
+ },
+ "202872": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ארצה",
+  "wordReadingId": 202872
+ },
+ "202907": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לחמ֯[",
+  "wordReadingId": 202907
+ },
+ "202924": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ענן",
+  "wordReadingId": 202924
+ },
+ "202930": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ג֯בהה",
+  "wordReadingId": 202930
+ },
+ "202961": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וליל֯ה֯[",
+  "wordReadingId": 202961
+ },
+ "202985": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כמריו֯[",
+  "wordReadingId": 202985
+ },
+ "203003": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 28",
+    "location2": "1",
+    "orderedId": 6890015001003,
+    "priorityOfReading": 0,
+    "reading": "אלו֯[ה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 203004
+   }
+  ],
+  "reading": "]יהוה",
+  "wordReadingId": 203003
+ },
+ "203004": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 28",
+    "location2": "1",
+    "orderedId": 6890015001002,
+    "priorityOfReading": 0,
+    "reading": "]יהוה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 203003
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אלו֯[ה",
+  "wordReadingId": 203004
+ },
+ "203022": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "זרם[",
+  "wordReadingId": 203022
+ },
+ "203028": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וים֯[",
+  "wordReadingId": 203028
+ },
+ "203041": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חי",
+  "wordReadingId": 203041
+ },
+ "203042": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עמך֯[",
+  "wordReadingId": 203042
+ },
+ "203052": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯חיים",
+  "wordReadingId": 203052
+ },
+ "203059": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואני[",
+  "wordReadingId": 203059
+ },
+ "203065": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 45",
+    "location2": "1",
+    "orderedId": 6890024001003,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 203066
+   }
+  ],
+  "reading": "]ישיב",
+  "wordReadingId": 203065
+ },
+ "203066": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 45",
+    "location2": "1",
+    "orderedId": 6890024001002,
+    "priorityOfReading": 0,
+    "reading": "]ישיב",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 203065
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מי",
+  "wordReadingId": 203066
+ },
+ "203077": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יקח[ו^?^",
+  "wordReadingId": 203077
+ }
+}

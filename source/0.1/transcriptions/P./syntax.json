@@ -1,0 +1,116 @@
+{
+ "15027": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 11650001001002,
+    "priorityOfReading": 0,
+    "reading": "התהלכ[ו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 205145
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כול",
+  "wordReadingId": 15027
+ },
+ "205145": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 11650001001001,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 15027
+   }
+  ],
+  "reading": "התהלכ[ו",
+  "wordReadingId": 205145
+ },
+ "15323": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "3",
+    "orderedId": 11650002003002,
+    "priorityOfReading": 0,
+    "reading": "בוחרי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 15325
+   }
+  ],
+  "reading": "כול",
+  "wordReadingId": 15323
+ },
+ "15325": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "3",
+    "orderedId": 11650002003001,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 15323
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בוחרי",
+  "wordReadingId": 15325
+ },
+ "15336": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "4",
+    "orderedId": 11650002004002,
+    "priorityOfReading": 0,
+    "reading": "ע֯בדך[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 15338
+   }
+  ],
+  "reading": "ותשכל",
+  "wordReadingId": 15336
+ },
+ "15338": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "2",
+    "location2": "4",
+    "orderedId": 11650002004001,
+    "priorityOfReading": 0,
+    "reading": "ותשכל",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 15336
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע֯בדך[",
+  "wordReadingId": 15338
+ }
+}

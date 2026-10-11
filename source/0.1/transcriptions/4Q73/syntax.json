@@ -1,0 +1,46 @@
+{
+ "345673": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ידי",
+  "wordReadingId": 345673
+ },
+ "345841": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "6",
+    "orderedId": 9780002006006,
+    "priorityOfReading": 0,
+    "reading": "כנפים",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 345842
+   }
+  ],
+  "reading": "וארבעה",
+  "wordReadingId": 345841
+ },
+ "345842": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "6",
+    "orderedId": 9780002006005,
+    "priorityOfReading": 0,
+    "reading": "וארבעה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 345841
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כנפים",
+  "wordReadingId": 345842
+ }
+}

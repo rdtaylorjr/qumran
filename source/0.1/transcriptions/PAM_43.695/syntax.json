@@ -1,0 +1,52 @@
+{
+ "204152": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 3",
+    "location2": "1",
+    "orderedId": 7010001001004,
+    "priorityOfReading": 0,
+    "reading": "לכל",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 204153
+   }
+  ],
+  "reading": "לאלה",
+  "wordReadingId": 204152
+ },
+ "204153": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 3",
+    "location2": "1",
+    "orderedId": 7010001001003,
+    "priorityOfReading": 0,
+    "reading": "לאלה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 204152
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לכל",
+  "wordReadingId": 204153
+ },
+ "204163": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גדלות",
+  "wordReadingId": 204163
+ },
+ "204174": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בלוח[ות?",
+  "wordReadingId": 204174
+ }
+}

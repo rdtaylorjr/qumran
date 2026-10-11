@@ -1,0 +1,200 @@
+{
+ "136470": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4190001001004,
+    "priorityOfReading": 0,
+    "reading": "לעולם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 136471
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4190001001004,
+    "priorityOfReading": 0,
+    "reading": "לעולם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136471
+   }
+  ],
+  "reading": "יחיה",
+  "wordReadingId": 136470
+ },
+ "136471": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4190001001003,
+    "priorityOfReading": 0,
+    "reading": "יחיה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 136470
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4190001001003,
+    "priorityOfReading": 0,
+    "reading": "יחיה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136470
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לעולם",
+  "wordReadingId": 136471
+ },
+ "136472": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אודה",
+  "wordReadingId": 136472
+ },
+ "136474": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002003,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136475
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002005,
+    "priorityOfReading": 0,
+    "reading": "זואת",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 136477
+   }
+  ],
+  "reading": "הו]ד֯יעני",
+  "wordReadingId": 136474
+ },
+ "136475": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002002,
+    "priorityOfReading": 0,
+    "reading": "הו]ד֯יעני",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136474
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002004,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136476
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 136475
+ },
+ "136476": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002003,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136475
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002005,
+    "priorityOfReading": 0,
+    "reading": "זואת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 136477
+   }
+  ],
+  "reading": "כול",
+  "wordReadingId": 136476
+ },
+ "136477": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002002,
+    "priorityOfReading": 0,
+    "reading": "הו]ד֯יעני",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 136474
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4190001002004,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 136476
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "זואת",
+  "wordReadingId": 136477
+ },
+ "136480": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ע]ו֯למים",
+  "wordReadingId": 136480
+ }
+}

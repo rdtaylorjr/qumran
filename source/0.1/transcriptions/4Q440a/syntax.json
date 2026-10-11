@@ -1,0 +1,119 @@
+{
+ "136402": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מיד",
+  "wordReadingId": 136402
+ },
+ "136406": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בשפתי",
+  "wordReadingId": 136406
+ },
+ "136407": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ולשוני֯[",
+  "wordReadingId": 136407
+ },
+ "136410": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4160001005003,
+    "priorityOfReading": 0,
+    "reading": "שננתה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 136411
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]דברי",
+  "wordReadingId": 136410
+ },
+ "136411": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4160001005002,
+    "priorityOfReading": 0,
+    "reading": "]דברי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 136410
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4160001005004,
+    "priorityOfReading": 0,
+    "reading": "כחר֯[ב",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 136412
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4160001005004,
+    "priorityOfReading": 0,
+    "reading": "כחר֯[ב",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136412
+   }
+  ],
+  "reading": "שננתה",
+  "wordReadingId": 136411
+ },
+ "136412": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4160001005003,
+    "priorityOfReading": 0,
+    "reading": "שננתה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 136411
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4160001005003,
+    "priorityOfReading": 0,
+    "reading": "שננתה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 136411
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כחר֯[ב",
+  "wordReadingId": 136412
+ },
+ "136417": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "יתחגו־[",
+  "wordReadingId": 136417
+ }
+}

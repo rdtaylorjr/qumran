@@ -1,0 +1,183 @@
+{
+ "32290": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ימ]לא",
+  "wordReadingId": 32290
+ },
+ "32291": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "פיהם[",
+  "wordReadingId": 32291
+ },
+ "32295": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 680001002004,
+    "priorityOfReading": 0,
+    "reading": "האלה[",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 32296
+   }
+  ],
+  "reading": "האסרים",
+  "wordReadingId": 32295
+ },
+ "32296": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 680001002003,
+    "priorityOfReading": 0,
+    "reading": "האסרים",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 32295
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "האלה[",
+  "wordReadingId": 32296
+ },
+ "32300": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003004,
+    "priorityOfReading": 0,
+    "reading": "כתוב",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 32301
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]כן",
+  "wordReadingId": 32300
+ },
+ "32301": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003003,
+    "priorityOfReading": 0,
+    "reading": "]כן",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 32300
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003005,
+    "priorityOfReading": 0,
+    "reading": "בספר",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 32302
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003005,
+    "priorityOfReading": 0,
+    "reading": "בספר",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32302
+   }
+  ],
+  "reading": "כתוב",
+  "wordReadingId": 32301
+ },
+ "32302": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003004,
+    "priorityOfReading": 0,
+    "reading": "כתוב",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 32301
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003004,
+    "priorityOfReading": 0,
+    "reading": "כתוב",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32301
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003006,
+    "priorityOfReading": 0,
+    "reading": "מוש[ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32303
+   }
+  ],
+  "reading": "בספר",
+  "wordReadingId": 32302
+ },
+ "32303": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 680001003005,
+    "priorityOfReading": 0,
+    "reading": "בספר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32302
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מוש[ה",
+  "wordReadingId": 32303
+ },
+ "32318": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ה֯ס֯פ֯ר֯י֯ם֯[",
+  "wordReadingId": 32318
+ }
+}

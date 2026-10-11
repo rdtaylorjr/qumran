@@ -1,0 +1,150 @@
+{
+ "204372": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "היום",
+  "wordReadingId": 204372
+ },
+ "204389": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ונקח",
+  "wordReadingId": 204389
+ },
+ "204411": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "1",
+    "orderedId": 7040006001003,
+    "priorityOfReading": 0,
+    "reading": "ניח֯[וח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 204412
+   }
+  ],
+  "reading": "]ריח",
+  "wordReadingId": 204411
+ },
+ "204412": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 21",
+    "location2": "1",
+    "orderedId": 7040006001002,
+    "priorityOfReading": 0,
+    "reading": "]ריח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 204411
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ניח֯[וח",
+  "wordReadingId": 204412
+ },
+ "204415": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]וענה",
+  "wordReadingId": 204415
+ },
+ "204416": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואמ֯[ר",
+  "wordReadingId": 204416
+ },
+ "204447": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯עזור",
+  "wordReadingId": 204447
+ },
+ "204451": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בד]ר֯ך",
+  "wordReadingId": 204451
+ },
+ "204452": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מלכי֯[",
+  "wordReadingId": 204452
+ },
+ "204470": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לכסילי[",
+  "wordReadingId": 204470
+ },
+ "204473": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 50",
+    "location2": "1",
+    "orderedId": 7040014001003,
+    "priorityOfReading": 0,
+    "reading": "אל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 204474
+   }
+  ],
+  "reading": "]אף",
+  "wordReadingId": 204473
+ },
+ "204474": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 50",
+    "location2": "1",
+    "orderedId": 7040014001002,
+    "priorityOfReading": 0,
+    "reading": "]אף",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 204473
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אל",
+  "wordReadingId": 204474
+ },
+ "204487": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "תת",
+  "wordReadingId": 204487
+ },
+ "204494": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ספר",
+  "wordReadingId": 204494
+ },
+ "204497": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אני",
+  "wordReadingId": 204497
+ },
+ "204510": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בור",
+  "wordReadingId": 204510
+ }
+}

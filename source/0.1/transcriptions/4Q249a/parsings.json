@@ -1,0 +1,162 @@
+{
+ "61674": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "זה",
+    "lemmaId": 569,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "[pron.dem. m.sg.]",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Demonstrativpronomen m. sg.",
+    "wordClassAbbr": "pron.dem. m.sg.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "זה",
+    "lemmaId": 569,
+    "shortDefinition": "[pron.dem. m.sg.]",
+    "wordClassAbbreviation": "pron.dem. m.sg."
+   }
+  ]
+ },
+ "61680": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "אזרח",
+    "lemmaId": 474,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Einheimischer, Vollbürger",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen",
+    "wordClassAbbr": "n.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אזרח",
+    "lemmaId": 474,
+    "shortDefinition": "Einheimischer, Vollbürger",
+    "wordClassAbbreviation": "n."
+   }
+  ]
+ },
+ "61681": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ישראל",
+    "lemmaId": 173,
+    "parsingPriority": 0,
+    "shortDefinition": "Israel",
+    "wordClass": "Volksname",
+    "wordClassAbbr": "n.p.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ישראל",
+    "lemmaId": 173,
+    "shortDefinition": "Israel",
+    "wordClassAbbreviation": "n.p."
+   }
+  ]
+ },
+ "61684": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "למד",
+    "lemmaId": 1134,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "rootDesignation": "I",
+    "shortDefinition": "lernen",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "3. Person",
+    "suffixPersonAbbr": "3.",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "verbTense": "Imperfekt",
+    "verbTenseAbbr": "impf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "למד",
+    "lemmaId": 1134,
+    "rootDesignation": "I",
+    "shortDefinition": "lernen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ }
+}

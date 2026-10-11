@@ -1,0 +1,40 @@
+{
+ "31128": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 440001001004,
+    "priorityOfReading": 0,
+    "reading": "אותיכה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 31129
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ומה",
+  "wordReadingId": 31128
+ },
+ "31129": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 440001001003,
+    "priorityOfReading": 0,
+    "reading": "ומה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 31128
+   }
+  ],
+  "reading": "אותיכה",
+  "wordReadingId": 31129
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "109573": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ירוש]לים",
+  "wordReadingId": 109573
+ },
+ "109595": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]עמו",
+  "wordReadingId": 109595
+ },
+ "109596": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. F",
+    "location2": "2",
+    "orderedId": 3540006002004,
+    "priorityOfReading": 0,
+    "reading": "ישרא֯[ל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 109597
+   }
+  ],
+  "reading": "מבני",
+  "wordReadingId": 109596
+ },
+ "109597": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. F",
+    "location2": "2",
+    "orderedId": 3540006002003,
+    "priorityOfReading": 0,
+    "reading": "מבני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 109596
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישרא֯[ל",
+  "wordReadingId": 109597
+ }
+}

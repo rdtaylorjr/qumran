@@ -1,0 +1,146 @@
+{
+ "238154": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 7500001002001,
+    "priorityOfReading": 0,
+    "reading": "[--",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 238153
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 7500001002003,
+    "priorityOfReading": 0,
+    "reading": "]תד[--",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 238155
+   }
+  ],
+  "reading": "בן",
+  "wordReadingId": 238154
+ },
+ "238155": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 7500001002002,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 238154
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]תד[--",
+  "wordReadingId": 238155
+ },
+ "238160": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7500001004001,
+    "priorityOfReading": 0,
+    "reading": "[חכרתי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 238162
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]אני",
+  "wordReadingId": 238160
+ },
+ "238161": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7500001004001,
+    "priorityOfReading": 0,
+    "reading": "[חכרתי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 238162
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7500001004001,
+    "priorityOfReading": 0,
+    "reading": "[חכרתי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 238162
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ֯[רצוני]",
+  "wordReadingId": 238161
+ },
+ "238164": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "היו]ם",
+  "wordReadingId": 238164
+ },
+ "238165": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7500001004001,
+    "priorityOfReading": 0,
+    "reading": "[חכרתי",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 238162
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 7500001004005,
+    "priorityOfReading": 0,
+    "reading": "[קצת]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 238166
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מן֯",
+  "wordReadingId": 238165
+ },
+ "238169": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]־[",
+  "wordReadingId": 238169
+ }
+}

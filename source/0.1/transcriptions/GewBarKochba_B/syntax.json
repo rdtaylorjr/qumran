@@ -1,0 +1,110 @@
+{
+ "807331": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "3",
+    "orderedId": 8310001003001,
+    "priorityOfReading": 0,
+    "reading": "ופרנסו",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807334
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8310001002001,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807333
+   }
+  ],
+  "reading": "שמעונ",
+  "wordReadingId": 807331
+ },
+ "807333": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8310001001001,
+    "priorityOfReading": 0,
+    "reading": "שמעונ",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 807331
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8310001002002,
+    "priorityOfReading": 0,
+    "reading": "כוסבא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807332
+   }
+  ],
+  "reading": "בנ",
+  "wordReadingId": 807333
+ },
+ "807332": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "2",
+    "orderedId": 8310001002001,
+    "priorityOfReading": 0,
+    "reading": "בנ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807333
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כוסבא",
+  "wordReadingId": 807332
+ },
+ "807334": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8310001001001,
+    "priorityOfReading": 0,
+    "reading": "שמעונ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 807331
+   }
+  ],
+  "reading": "ופרנסו",
+  "wordReadingId": 807334
+ },
+ "807335": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "פרס",
+  "wordReadingId": 807335
+ }
+}

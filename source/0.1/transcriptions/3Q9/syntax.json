@@ -1,0 +1,115 @@
+{
+ "32793": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 820001003003,
+    "priorityOfReading": 0,
+    "reading": "אשמ[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 32794
+   }
+  ],
+  "reading": "]להשיב",
+  "wordReadingId": 32793
+ },
+ "32794": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 820001003002,
+    "priorityOfReading": 0,
+    "reading": "]להשיב",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 32793
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אשמ[",
+  "wordReadingId": 32794
+ },
+ "32804": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 820002002002,
+    "priorityOfReading": 0,
+    "reading": "]ע֯ושא",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 32803
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אלה",
+  "wordReadingId": 32804
+ },
+ "32806": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]נעוו֯תם",
+  "wordReadingId": 32806
+ },
+ "32811": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "2",
+    "orderedId": 820003002003,
+    "priorityOfReading": 0,
+    "reading": "פשע[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32812
+   }
+  ],
+  "reading": "אש]מת",
+  "wordReadingId": 32811
+ },
+ "32812": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "2",
+    "orderedId": 820003002002,
+    "priorityOfReading": 0,
+    "reading": "אש]מת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32811
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "פשע[",
+  "wordReadingId": 32812
+ },
+ "32815": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אלה",
+  "wordReadingId": 32815
+ },
+ "32819": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ו֯בעדתנו",
+  "wordReadingId": 32819
+ }
+}

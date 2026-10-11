@@ -1,0 +1,40 @@
+{
+ "175648": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 5800001002003,
+    "priorityOfReading": 0,
+    "reading": "מל[אכא",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 175649
+   }
+  ],
+  "reading": "גבריאל",
+  "wordReadingId": 175648
+ },
+ "175649": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 5800001002002,
+    "priorityOfReading": 0,
+    "reading": "גבריאל",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 175648
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מל[אכא",
+  "wordReadingId": 175649
+ }
+}

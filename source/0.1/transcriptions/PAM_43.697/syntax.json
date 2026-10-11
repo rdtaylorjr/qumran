@@ -1,0 +1,82 @@
+{
+ "204291": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "שכל",
+  "wordReadingId": 204291
+ },
+ "204296": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואתן[",
+  "wordReadingId": 204296
+ },
+ "204299": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 75",
+    "location2": "3",
+    "orderedId": 7030002003003,
+    "priorityOfReading": 0,
+    "reading": "תמצא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 204300
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]ו֯לא",
+  "wordReadingId": 204299
+ },
+ "204300": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 75",
+    "location2": "3",
+    "orderedId": 7030002003002,
+    "priorityOfReading": 0,
+    "reading": "]ו֯לא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 204299
+   }
+  ],
+  "reading": "תמצא",
+  "wordReadingId": 204300
+ },
+ "204312": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "טהרת[",
+  "wordReadingId": 204312
+ },
+ "204327": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מים",
+  "wordReadingId": 204327
+ },
+ "204335": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בנת",
+  "wordReadingId": 204335
+ },
+ "204356": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הגדול[",
+  "wordReadingId": 204356
+ },
+ "204368": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ב֯רקים[",
+  "wordReadingId": 204368
+ }
+}

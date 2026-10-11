@@ -1,0 +1,72 @@
+{
+ "30975": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 360001001003,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30976
+   }
+  ],
+  "reading": "עבו]דת",
+  "wordReadingId": 30975
+ },
+ "30976": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 360001001002,
+    "priorityOfReading": 0,
+    "reading": "עבו]דת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30975
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 360001001004,
+    "priorityOfReading": 0,
+    "reading": "מלאכ[ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30977
+   }
+  ],
+  "reading": "כול",
+  "wordReadingId": 30976
+ },
+ "30977": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 360001001003,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30976
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מלאכ[ת",
+  "wordReadingId": 30977
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "29951": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "2",
+    "orderedId": 230001002003,
+    "priorityOfReading": 0,
+    "reading": "ברכות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 719161
+   }
+  ],
+  "reading": "]ו֯כול",
+  "wordReadingId": 29951
+ },
+ "719161": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "2",
+    "orderedId": 230001002002,
+    "priorityOfReading": 0,
+    "reading": "]ו֯כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 29951
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "2",
+    "orderedId": 230001002004,
+    "priorityOfReading": 0,
+    "reading": "עד[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 29953
+   }
+  ],
+  "reading": "ברכות",
+  "wordReadingId": 719161
+ },
+ "29953": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "2",
+    "orderedId": 230001002003,
+    "priorityOfReading": 0,
+    "reading": "ברכות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 719161
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עד[",
+  "wordReadingId": 29953
+ },
+ "29956": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ר֯שע",
+  "wordReadingId": 29956
+ },
+ "719160": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ושקר",
+  "wordReadingId": 719160
+ },
+ "29958": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גוה",
+  "wordReadingId": 29958
+ },
+ "29962": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 230001004004,
+    "priorityOfReading": 0,
+    "reading": "נדה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 719135
+   }
+  ],
+  "reading": "מחשבת",
+  "wordReadingId": 29962
+ },
+ "719135": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 13",
+    "location2": "4",
+    "orderedId": 230001004003,
+    "priorityOfReading": 0,
+    "reading": "מחשבת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 29962
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נדה",
+  "wordReadingId": 719135
+ },
+ "29972": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 14",
+    "location2": "1",
+    "orderedId": 230002001003,
+    "priorityOfReading": 0,
+    "reading": "אול֯ת[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 719134
+   }
+  ],
+  "reading": "ורוח",
+  "wordReadingId": 29972
+ },
+ "719134": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 14",
+    "location2": "1",
+    "orderedId": 230002001002,
+    "priorityOfReading": 0,
+    "reading": "ורוח",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 29972
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אול֯ת[",
+  "wordReadingId": 719134
+ }
+}

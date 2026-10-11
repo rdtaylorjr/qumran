@@ -1,0 +1,122 @@
+{
+ "239105": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8110001001002,
+    "priorityOfReading": 0,
+    "reading": "בר֯[",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 239106
+   }
+  ],
+  "reading": "משמעון",
+  "wordReadingId": 239105
+ },
+ "239106": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8110001001001,
+    "priorityOfReading": 0,
+    "reading": "משמעון",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 239105
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בר֯[",
+  "wordReadingId": 239106
+ },
+ "239107": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כס/שבא",
+  "wordReadingId": 239107
+ },
+ "239108": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8110001001005,
+    "priorityOfReading": 0,
+    "reading": "ת]קוע",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 239109
+   }
+  ],
+  "reading": "לאנשי",
+  "wordReadingId": 239108
+ },
+ "239109": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8110001001004,
+    "priorityOfReading": 0,
+    "reading": "לאנשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 239108
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ת]קוע",
+  "wordReadingId": 239109
+ },
+ "239120": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 8110001004003,
+    "priorityOfReading": 0,
+    "reading": "ל֯י֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 239121
+   }
+  ],
+  "reading": "]ש֯תפ֯ר֯ע֯ן֯",
+  "wordReadingId": 239120
+ },
+ "239121": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "4",
+    "orderedId": 8110001004002,
+    "priorityOfReading": 0,
+    "reading": "]ש֯תפ֯ר֯ע֯ן֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 239120
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ל֯י֯",
+  "wordReadingId": 239121
+ }
+}

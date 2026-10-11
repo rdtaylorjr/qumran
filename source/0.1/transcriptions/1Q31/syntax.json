@@ -1,0 +1,121 @@
+{
+ "30088": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 250001001002,
+    "priorityOfReading": 0,
+    "reading": "אנשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30089
+   }
+  ],
+  "reading": "[כ]ול",
+  "wordReadingId": 30088
+ },
+ "30089": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 250001001001,
+    "priorityOfReading": 0,
+    "reading": "[כ]ול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30088
+   },
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 250001001004,
+    "priorityOfReading": 0,
+    "reading": "ה֯מת֯נ֯ד֯בי[ם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 30091
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 250001001003,
+    "priorityOfReading": 0,
+    "reading": "היחד",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30090
+   }
+  ],
+  "reading": "אנשי",
+  "wordReadingId": 30089
+ },
+ "30090": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 250001001002,
+    "priorityOfReading": 0,
+    "reading": "אנשי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30089
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "היחד",
+  "wordReadingId": 30090
+ },
+ "30091": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 250001001002,
+    "priorityOfReading": 0,
+    "reading": "אנשי",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 30089
+   }
+  ],
+  "reading": "ה֯מת֯נ֯ד֯בי[ם",
+  "wordReadingId": 30091
+ },
+ "30103": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ובחירי[",
+  "wordReadingId": 30103
+ },
+ "30105": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "במחנים[",
+  "wordReadingId": 30105
+ },
+ "30107": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "למלח֯[מה",
+  "wordReadingId": 30107
+ }
+}

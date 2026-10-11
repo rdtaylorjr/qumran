@@ -1,0 +1,262 @@
+{
+ "137324": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הבר כ֯־־[",
+  "wordReadingId": 137324
+ },
+ "137329": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002004,
+    "priorityOfReading": 0,
+    "reading": "הגידו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137331
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002003,
+    "priorityOfReading": 0,
+    "reading": "אמ֯נה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 137330
+   }
+  ],
+  "reading": "בכל",
+  "wordReadingId": 137329
+ },
+ "137330": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002002,
+    "priorityOfReading": 0,
+    "reading": "בכל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 137329
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002004,
+    "priorityOfReading": 0,
+    "reading": "הגידו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137331
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אמ֯נה",
+  "wordReadingId": 137330
+ },
+ "137331": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002002,
+    "priorityOfReading": 0,
+    "reading": "בכל",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137329
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002003,
+    "priorityOfReading": 0,
+    "reading": "אמ֯נה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137330
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002005,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137332
+   }
+  ],
+  "reading": "הגידו",
+  "wordReadingId": 137331
+ },
+ "137332": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002004,
+    "priorityOfReading": 0,
+    "reading": "הגידו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137331
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4320001002006,
+    "priorityOfReading": 0,
+    "reading": "־[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137333
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 137332
+ },
+ "137336": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003003,
+    "priorityOfReading": 0,
+    "reading": "ירחק֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137337
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003003,
+    "priorityOfReading": 0,
+    "reading": "ירחק֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137337
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]מ֯שקר",
+  "wordReadingId": 137336
+ },
+ "137337": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003002,
+    "priorityOfReading": 0,
+    "reading": "]מ֯שקר",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137336
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003002,
+    "priorityOfReading": 0,
+    "reading": "]מ֯שקר",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137336
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003004,
+    "priorityOfReading": 0,
+    "reading": "מ֯הזכירו[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137338
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003004,
+    "priorityOfReading": 0,
+    "reading": "מ֯הזכירו[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137338
+   }
+  ],
+  "reading": "ירחק֯",
+  "wordReadingId": 137337
+ },
+ "137338": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003003,
+    "priorityOfReading": 0,
+    "reading": "ירחק֯",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137337
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 4320001003003,
+    "priorityOfReading": 0,
+    "reading": "ירחק֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137337
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ֯הזכירו[",
+  "wordReadingId": 137338
+ }
+}

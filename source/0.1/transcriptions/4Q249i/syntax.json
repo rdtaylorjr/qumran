@@ -1,0 +1,115 @@
+{
+ "62234": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 1840001001005,
+    "priorityOfReading": 0,
+    "reading": "ת֯[ועד",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 62235
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א]ם֯",
+  "wordReadingId": 62234
+ },
+ "62262": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 1840001005004,
+    "priorityOfReading": 0,
+    "reading": "לפי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 62261
+   }
+  ],
+  "reading": "]כ֯בוד֯[ו",
+  "wordReadingId": 62262
+ },
+ "62267": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 1840001006004,
+    "priorityOfReading": 0,
+    "reading": "ל[פניו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 62268
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 1840001006005,
+    "priorityOfReading": 0,
+    "reading": "ראשי]",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 62269
+   }
+  ],
+  "reading": "וישב]ו֯",
+  "wordReadingId": 62267
+ },
+ "62268": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 1840001006003,
+    "priorityOfReading": 0,
+    "reading": "וישב]ו֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 62267
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 1840001006004,
+    "priorityOfReading": 0,
+    "reading": "ל[פניו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 62268
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 1840001006004,
+    "priorityOfReading": 0,
+    "reading": "ל[פניו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 62268
+   }
+  ],
+  "reading": "ל[פניו",
+  "wordReadingId": 62268
+ }
+}

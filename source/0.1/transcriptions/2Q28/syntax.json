@@ -1,0 +1,96 @@
+{
+ "32401": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מעמו֯",
+  "wordReadingId": 32401
+ },
+ "719292": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 710002002006,
+    "priorityOfReading": 0,
+    "reading": "ח֯ו֯ק",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 719294
+   }
+  ],
+  "reading": "אין",
+  "wordReadingId": 719292
+ },
+ "719293": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לו",
+  "wordReadingId": 719293
+ },
+ "719294": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 710002002004,
+    "priorityOfReading": 0,
+    "reading": "אין",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 719292
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ח֯ו֯ק",
+  "wordReadingId": 719294
+ },
+ "32411": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "4",
+    "orderedId": 710002004004,
+    "priorityOfReading": 0,
+    "reading": "לבם֯[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32413
+   }
+  ],
+  "reading": "]שריר֯ות",
+  "wordReadingId": 32411
+ },
+ "32413": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "4",
+    "orderedId": 710002004002,
+    "priorityOfReading": 0,
+    "reading": "]שריר֯ות",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32411
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לבם֯[",
+  "wordReadingId": 32413
+ },
+ "32421": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עלה[",
+  "wordReadingId": 32421
+ }
+}

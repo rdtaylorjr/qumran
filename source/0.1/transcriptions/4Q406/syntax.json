@@ -1,0 +1,148 @@
+{
+ "119128": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "למ֯ש֯כ֯י֯ל",
+  "wordReadingId": 119128
+ },
+ "119129": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3770001004003,
+    "priorityOfReading": 0,
+    "reading": "ע֯ו֯לת֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119130
+   }
+  ],
+  "reading": "ש֯י֯ר֯",
+  "wordReadingId": 119129
+ },
+ "119130": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3770001004002,
+    "priorityOfReading": 0,
+    "reading": "ש֯י֯ר֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119129
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3770001004004,
+    "priorityOfReading": 0,
+    "reading": "השב֯ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119131
+   }
+  ],
+  "reading": "ע֯ו֯לת֯",
+  "wordReadingId": 119130
+ },
+ "119131": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3770001004003,
+    "priorityOfReading": 0,
+    "reading": "ע֯ו֯לת֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119130
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3770001004005,
+    "priorityOfReading": 0,
+    "reading": "ה֯ש֯[",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 119132
+   }
+  ],
+  "reading": "השב֯ת",
+  "wordReadingId": 119131
+ },
+ "119132": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 3770001004004,
+    "priorityOfReading": 0,
+    "reading": "השב֯ת",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 119131
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ה֯ש֯[",
+  "wordReadingId": 119132
+ },
+ "119165": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "3",
+    "orderedId": 3770003003004,
+    "priorityOfReading": 0,
+    "reading": "הרביע֯[י",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119166
+   }
+  ],
+  "reading": "בלשון",
+  "wordReadingId": 119165
+ },
+ "119166": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "3",
+    "orderedId": 3770003003003,
+    "priorityOfReading": 0,
+    "reading": "בלשון",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 119165
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הרביע֯[י",
+  "wordReadingId": 119166
+ }
+}

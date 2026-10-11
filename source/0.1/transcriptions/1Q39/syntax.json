@@ -1,0 +1,64 @@
+{
+ "30853": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לפניכה",
+  "wordReadingId": 30853
+ },
+ "30854": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 320001003004,
+    "priorityOfReading": 0,
+    "reading": "הימ֯[ים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30855
+   }
+  ],
+  "reading": "כול",
+  "wordReadingId": 30854
+ },
+ "30855": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 320001003003,
+    "priorityOfReading": 0,
+    "reading": "כול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 30854
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הימ֯[ים",
+  "wordReadingId": 30855
+ },
+ "30859": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ונכבד",
+  "wordReadingId": 30859
+ },
+ "30874": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הגיע",
+  "wordReadingId": 30874
+ },
+ "30880": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מקדשו",
+  "wordReadingId": 30880
+ }
+}

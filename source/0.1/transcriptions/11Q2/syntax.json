@@ -1,0 +1,83 @@
+{
+ "378283": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "3",
+    "orderedId": 10780003003004,
+    "priorityOfReading": 0,
+    "reading": "ואת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 378282
+   }
+  ],
+  "reading": "החלב",
+  "wordReadingId": 378283
+ },
+ "378364": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "לטהרתו",
+  "wordReadingId": 378364
+ },
+ "378416": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גאולת",
+  "wordReadingId": 378416
+ },
+ "378426": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ביתו",
+  "wordReadingId": 378426
+ },
+ "378445": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ו]הביאום",
+  "wordReadingId": 378445
+ },
+ "805507": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 10",
+    "location2": "1",
+    "orderedId": 10780012001003,
+    "priorityOfReading": 0,
+    "reading": "יהו[ה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 805508
+   }
+  ],
+  "reading": "]לפני",
+  "wordReadingId": 805507
+ },
+ "805508": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 10",
+    "location2": "1",
+    "orderedId": 10780012001002,
+    "priorityOfReading": 0,
+    "reading": "]לפני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 805507
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהו[ה",
+  "wordReadingId": 805508
+ }
+}

@@ -1,0 +1,5876 @@
+{
+ "source": "https://lexicon.qumran-digital.org/v1/qumran",
+ "licence": "CC BY-SA 4.0 (notice on each transcription shell)",
+ "data_version": "2026-10-06",
+ "downloaded": "2026-10-11T13:01:18+00:00",
+ "parsings": true,
+ "interrupted": false,
+ "entries": [
+  {
+   "path": "1QS",
+   "siglum": "1QS",
+   "kind": "dss"
+  },
+  {
+   "path": "1QSa",
+   "siglum": "1QSa",
+   "kind": "dss"
+  },
+  {
+   "path": "1QSb",
+   "siglum": "1QSb",
+   "kind": "dss"
+  },
+  {
+   "path": "1QpHab",
+   "siglum": "1QpHab",
+   "kind": "dss"
+  },
+  {
+   "path": "1QM",
+   "siglum": "1QM",
+   "kind": "dss"
+  },
+  {
+   "path": "1QH^a^",
+   "siglum": "1QH",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q14",
+   "siglum": "1Q14",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q15",
+   "siglum": "1Q15",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q16",
+   "siglum": "1Q16",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q17",
+   "siglum": "1Q17",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q18",
+   "siglum": "1Q18",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q19",
+   "siglum": "1Q19",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q19bis",
+   "siglum": "1Q19bis",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q20",
+   "siglum": "1Q20",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q21",
+   "siglum": "1Q21",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q22",
+   "siglum": "1Q22",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q23",
+   "siglum": "1Q23",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q24",
+   "siglum": "1Q24",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q25",
+   "siglum": "1Q25",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q26",
+   "siglum": "1Q26",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q27",
+   "siglum": "1Q27",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q29",
+   "siglum": "1Q29",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q29(a)",
+   "siglum": "1Q29(a)",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q30",
+   "siglum": "1Q30",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q31",
+   "siglum": "1Q31",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q32",
+   "siglum": "1Q32",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q34bis",
+   "siglum": "1Q34bis",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q35",
+   "siglum": "1Q35",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q36",
+   "siglum": "1Q36",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q37",
+   "siglum": "1Q37",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q38",
+   "siglum": "1Q38",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q39",
+   "siglum": "1Q39",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q40",
+   "siglum": "1Q40",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q41",
+   "siglum": "1Q41",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q42",
+   "siglum": "1Q42",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q43",
+   "siglum": "1Q43",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q44",
+   "siglum": "1Q44",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q45",
+   "siglum": "1Q45",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q46",
+   "siglum": "1Q46",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q47",
+   "siglum": "1Q47",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q49",
+   "siglum": "1Q49",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q50",
+   "siglum": "1Q50",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q51",
+   "siglum": "1Q51",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q52",
+   "siglum": "1Q52",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q53",
+   "siglum": "1Q53",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q54",
+   "siglum": "1Q54",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q55",
+   "siglum": "1Q55",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q56",
+   "siglum": "1Q56",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q57",
+   "siglum": "1Q57",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q58",
+   "siglum": "1Q58",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q62",
+   "siglum": "1Q62",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q63",
+   "siglum": "1Q63",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q64",
+   "siglum": "1Q64",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q65",
+   "siglum": "1Q65",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q66",
+   "siglum": "1Q66",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q67",
+   "siglum": "1Q67",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q68",
+   "siglum": "1Q68",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q69",
+   "siglum": "1Q69",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q70",
+   "siglum": "1Q70",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q70bis",
+   "siglum": "1Q70bis",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q18",
+   "siglum": "2Q18",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q19",
+   "siglum": "2Q19",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q20",
+   "siglum": "2Q20",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q21",
+   "siglum": "2Q21",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q22",
+   "siglum": "2Q22",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q23",
+   "siglum": "2Q23",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q24",
+   "siglum": "2Q24",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q25",
+   "siglum": "2Q25",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q26",
+   "siglum": "2Q26",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q27",
+   "siglum": "2Q27",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q28",
+   "siglum": "2Q28",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q29",
+   "siglum": "2Q29",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q30",
+   "siglum": "2Q30",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q31",
+   "siglum": "2Q31",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q32",
+   "siglum": "2Q32",
+   "kind": "dss"
+  },
+  {
+   "path": "2Q33",
+   "siglum": "2Q33",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q4",
+   "siglum": "3Q4",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q5",
+   "siglum": "3Q5",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q6",
+   "siglum": "3Q6",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q7",
+   "siglum": "3Q7",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q8",
+   "siglum": "3Q8",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q9",
+   "siglum": "3Q9",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q10",
+   "siglum": "3Q10",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q11",
+   "siglum": "3Q11",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q12",
+   "siglum": "3Q12",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q13",
+   "siglum": "3Q13",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q14",
+   "siglum": "3Q14",
+   "kind": "dss"
+  },
+  {
+   "path": "3Q15",
+   "siglum": "3Q15",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q88",
+   "siglum": "4Q88",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q123",
+   "siglum": "4Q123",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q124",
+   "siglum": "4Q124",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q147",
+   "siglum": "4Q147",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q148",
+   "siglum": "4Q148",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q156",
+   "siglum": "4Q156",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q157",
+   "siglum": "4Q157",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q158",
+   "siglum": "4Q158",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q159",
+   "siglum": "4Q159",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q160",
+   "siglum": "4Q160",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q161",
+   "siglum": "4Q161",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q162",
+   "siglum": "4Q162",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q163",
+   "siglum": "4Q163",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q164",
+   "siglum": "4Q164",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q165",
+   "siglum": "4Q165",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q166",
+   "siglum": "4Q166",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q167",
+   "siglum": "4Q167",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q168",
+   "siglum": "4Q168",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q169",
+   "siglum": "4Q169",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q170",
+   "siglum": "4Q170",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q171",
+   "siglum": "4Q171",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q172",
+   "siglum": "4Q172",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q173",
+   "siglum": "4Q173",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q174",
+   "siglum": "4Q174",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q175",
+   "siglum": "4Q175",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q176",
+   "siglum": "4Q176",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q176a",
+   "siglum": "4Q176a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q176b",
+   "siglum": "4Q176b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q177",
+   "siglum": "4Q177",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q178",
+   "siglum": "4Q178",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q179",
+   "siglum": "4Q179",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q180",
+   "siglum": "4Q180",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q181",
+   "siglum": "4Q181",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q182",
+   "siglum": "4Q182",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q183",
+   "siglum": "4Q183",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q184",
+   "siglum": "4Q184",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q185",
+   "siglum": "4Q185",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q186",
+   "siglum": "4Q186",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q196",
+   "siglum": "4Q196",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q197",
+   "siglum": "4Q197",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q198",
+   "siglum": "4Q198",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q199",
+   "siglum": "4Q199",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q200",
+   "siglum": "4Q200",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q201",
+   "siglum": "4Q201",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q202",
+   "siglum": "4Q202",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q203",
+   "siglum": "4Q203",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q204",
+   "siglum": "4Q204",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q205",
+   "siglum": "4Q205",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q206",
+   "siglum": "4Q206",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q207",
+   "siglum": "4Q207",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q208",
+   "siglum": "4Q208",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q209",
+   "siglum": "4Q209",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q210",
+   "siglum": "4Q210",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q211",
+   "siglum": "4Q211",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q212",
+   "siglum": "4Q212",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q213",
+   "siglum": "4Q213",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q213a",
+   "siglum": "4Q213a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q213b",
+   "siglum": "4Q213b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q214",
+   "siglum": "4Q214",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q214a",
+   "siglum": "4Q214a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q214b",
+   "siglum": "4Q214b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q215",
+   "siglum": "4Q215",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q215a",
+   "siglum": "4Q215a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q216",
+   "siglum": "4Q216",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q217",
+   "siglum": "4Q217",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q218",
+   "siglum": "4Q218",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q219",
+   "siglum": "4Q219",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q220",
+   "siglum": "4Q220",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q221",
+   "siglum": "4Q221",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q222",
+   "siglum": "4Q222",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q223-224",
+   "siglum": "4Q223-224",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q225",
+   "siglum": "4Q225",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q226",
+   "siglum": "4Q226",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q227",
+   "siglum": "4Q227",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q228",
+   "siglum": "4Q228",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q230",
+   "siglum": "4Q230",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q234",
+   "siglum": "4Q234",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q235",
+   "siglum": "4Q235",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q238",
+   "siglum": "4Q238",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q242",
+   "siglum": "4Q242",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q243",
+   "siglum": "4Q243",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q244",
+   "siglum": "4Q244",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q245",
+   "siglum": "4Q245",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q246",
+   "siglum": "4Q246",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q247",
+   "siglum": "4Q247",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q248",
+   "siglum": "4Q248",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249",
+   "siglum": "4Q249",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249a",
+   "siglum": "4Q249a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249b",
+   "siglum": "4Q249b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249c",
+   "siglum": "4Q249c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249d",
+   "siglum": "4Q249d",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249e",
+   "siglum": "4Q249e",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249f",
+   "siglum": "4Q249f",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249g",
+   "siglum": "4Q249g",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249h",
+   "siglum": "4Q249h",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249i",
+   "siglum": "4Q249i",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249j",
+   "siglum": "4Q249j",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249k",
+   "siglum": "4Q249k",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249l",
+   "siglum": "4Q249l",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249m",
+   "siglum": "4Q249m",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249n",
+   "siglum": "4Q249n",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249o",
+   "siglum": "4Q249o",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249p",
+   "siglum": "4Q249p",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249q",
+   "siglum": "4Q249q",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249r",
+   "siglum": "4Q249r",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249s",
+   "siglum": "4Q249s",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249t",
+   "siglum": "4Q249t",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249u",
+   "siglum": "4Q249u",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249v",
+   "siglum": "4Q249v",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249w",
+   "siglum": "4Q249w",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249x",
+   "siglum": "4Q249x",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249y",
+   "siglum": "4Q249y",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q249z",
+   "siglum": "4Q249z",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250",
+   "siglum": "4Q250",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250a",
+   "siglum": "4Q250a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250b",
+   "siglum": "4Q250b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250c",
+   "siglum": "4Q250c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250d",
+   "siglum": "4Q250d",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250e",
+   "siglum": "4Q250e",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250f",
+   "siglum": "4Q250f",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250g",
+   "siglum": "4Q250g",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250h",
+   "siglum": "4Q250h",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250i",
+   "siglum": "4Q250i",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q250j",
+   "siglum": "4Q250j",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q251",
+   "siglum": "4Q251",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q252",
+   "siglum": "4Q252",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q253",
+   "siglum": "4Q253",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q253a",
+   "siglum": "4Q253a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q254",
+   "siglum": "4Q254",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q254a",
+   "siglum": "4Q254a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q255",
+   "siglum": "4Q255",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q256",
+   "siglum": "4Q256",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q257",
+   "siglum": "4Q257",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q258",
+   "siglum": "4Q258",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q259",
+   "siglum": "4Q259",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q260",
+   "siglum": "4Q260",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q261",
+   "siglum": "4Q261",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q262",
+   "siglum": "4Q262",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q263",
+   "siglum": "4Q263",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q264",
+   "siglum": "4Q264",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q264a",
+   "siglum": "4Q264a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q265",
+   "siglum": "4Q265",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q266",
+   "siglum": "4Q266",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q267",
+   "siglum": "4Q267",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q268",
+   "siglum": "4Q268",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q269",
+   "siglum": "4Q269",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q270",
+   "siglum": "4Q270",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q271",
+   "siglum": "4Q271",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q272",
+   "siglum": "4Q272",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q273",
+   "siglum": "4Q273",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q274",
+   "siglum": "4Q274",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q275",
+   "siglum": "4Q275",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q276",
+   "siglum": "4Q276",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q277",
+   "siglum": "4Q277",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q278",
+   "siglum": "4Q278",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q279",
+   "siglum": "4Q279",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q280",
+   "siglum": "4Q280",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q281",
+   "siglum": "4Q281",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q282",
+   "siglum": "4Q282",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q284",
+   "siglum": "4Q284",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q284a",
+   "siglum": "4Q284a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q285",
+   "siglum": "4Q285",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q286",
+   "siglum": "4Q286",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q287",
+   "siglum": "4Q287",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q288",
+   "siglum": "4Q288",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q289",
+   "siglum": "4Q289",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q290",
+   "siglum": "4Q290",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q291",
+   "siglum": "4Q291",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q292",
+   "siglum": "4Q292",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q293",
+   "siglum": "4Q293",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q294",
+   "siglum": "4Q294",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q298",
+   "siglum": "4Q298",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q299",
+   "siglum": "4Q299",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q300",
+   "siglum": "4Q300",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q301",
+   "siglum": "4Q301",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q302",
+   "siglum": "4Q302",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q303",
+   "siglum": "4Q303",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q304",
+   "siglum": "4Q304",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q305",
+   "siglum": "4Q305",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q306",
+   "siglum": "4Q306",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q307",
+   "siglum": "4Q307",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q313",
+   "siglum": "4Q313",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q313a",
+   "siglum": "4Q313a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q313b",
+   "siglum": "4Q313b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q317",
+   "siglum": "4Q317",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q318",
+   "siglum": "4Q318",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q319",
+   "siglum": "4Q319",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q320",
+   "siglum": "4Q320",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q321",
+   "siglum": "4Q321",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q321a",
+   "siglum": "4Q321a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q322",
+   "siglum": "4Q322",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q322a",
+   "siglum": "4Q322a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q323",
+   "siglum": "4Q323",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324",
+   "siglum": "4Q324",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324a",
+   "siglum": "4Q324a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324b",
+   "siglum": "4Q324b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324c",
+   "siglum": "4Q324c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324d",
+   "siglum": "4Q324d",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324e",
+   "siglum": "4Q324e",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324f",
+   "siglum": "4Q324f",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324g",
+   "siglum": "4Q324g",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324h",
+   "siglum": "4Q324h",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q324i",
+   "siglum": "4Q324i",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q325",
+   "siglum": "4Q325",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q326",
+   "siglum": "4Q326",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q328",
+   "siglum": "4Q328",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q329",
+   "siglum": "4Q329",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q329a",
+   "siglum": "4Q329a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q330",
+   "siglum": "4Q330",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q331",
+   "siglum": "4Q331",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q332",
+   "siglum": "4Q332",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q332a",
+   "siglum": "4Q332a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q333",
+   "siglum": "4Q333",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q334",
+   "siglum": "4Q334",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q337",
+   "siglum": "4Q337",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q338",
+   "siglum": "4Q338",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q339",
+   "siglum": "4Q339",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q340",
+   "siglum": "4Q340",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q341",
+   "siglum": "4Q341",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q342",
+   "siglum": "4Q342",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q343",
+   "siglum": "4Q343",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q344",
+   "siglum": "4Q344",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q345",
+   "siglum": "4Q345",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q346",
+   "siglum": "4Q346",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q346a",
+   "siglum": "4Q346a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q347",
+   "siglum": "4Q347",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q348",
+   "siglum": "4Q348",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q351",
+   "siglum": "4Q351",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q352",
+   "siglum": "4Q352",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q352a",
+   "siglum": "4Q352a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q353",
+   "siglum": "4Q353",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q354",
+   "siglum": "4Q354",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q356",
+   "siglum": "4Q356",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q357",
+   "siglum": "4Q357",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q358",
+   "siglum": "4Q358",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q359",
+   "siglum": "4Q359",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q360",
+   "siglum": "4Q360",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q360a",
+   "siglum": "4Q360a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q363a",
+   "siglum": "4Q363a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q364",
+   "siglum": "4Q364",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q365",
+   "siglum": "4Q365",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q365a",
+   "siglum": "4Q365a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q366",
+   "siglum": "4Q366",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q367",
+   "siglum": "4Q367",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q368",
+   "siglum": "4Q368",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q369",
+   "siglum": "4Q369",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q370",
+   "siglum": "4Q370",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q371",
+   "siglum": "4Q371",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q372",
+   "siglum": "4Q372",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q373",
+   "siglum": "4Q373",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q373a",
+   "siglum": "4Q373a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q374",
+   "siglum": "4Q374",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q375",
+   "siglum": "4Q375",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q376",
+   "siglum": "4Q376",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q377",
+   "siglum": "4Q377",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q378",
+   "siglum": "4Q378",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q379",
+   "siglum": "4Q379",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q380",
+   "siglum": "4Q380",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q381",
+   "siglum": "4Q381",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q382",
+   "siglum": "4Q382",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q383",
+   "siglum": "4Q383",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q384",
+   "siglum": "4Q384",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q385",
+   "siglum": "4Q385",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q385a",
+   "siglum": "4Q385a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q385b",
+   "siglum": "4Q385b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q385c",
+   "siglum": "4Q385c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q386",
+   "siglum": "4Q386",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q387",
+   "siglum": "4Q387",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q387a",
+   "siglum": "4Q387a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q388",
+   "siglum": "4Q388",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q388a",
+   "siglum": "4Q388a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q389",
+   "siglum": "4Q389",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q390",
+   "siglum": "4Q390",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q391",
+   "siglum": "4Q391",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q392",
+   "siglum": "4Q392",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q393",
+   "siglum": "4Q393",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q394",
+   "siglum": "4Q394",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q395",
+   "siglum": "4Q395",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q396",
+   "siglum": "4Q396",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q397",
+   "siglum": "4Q397",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q398",
+   "siglum": "4Q398",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q399",
+   "siglum": "4Q399",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q400",
+   "siglum": "4Q400",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q401",
+   "siglum": "4Q401",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q402",
+   "siglum": "4Q402",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q403",
+   "siglum": "4Q403",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q404",
+   "siglum": "4Q404",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q405",
+   "siglum": "4Q405",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q406",
+   "siglum": "4Q406",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q407",
+   "siglum": "4Q407",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q408",
+   "siglum": "4Q408",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q409",
+   "siglum": "4Q409",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q410",
+   "siglum": "4Q410",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q411",
+   "siglum": "4Q411",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q412",
+   "siglum": "4Q412",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q413",
+   "siglum": "4Q413",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q414",
+   "siglum": "4Q414",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q415",
+   "siglum": "4Q415",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q416",
+   "siglum": "4Q416",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q417",
+   "siglum": "4Q417",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q418",
+   "siglum": "4Q418",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q418a",
+   "siglum": "4Q418a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q418b",
+   "siglum": "4Q418b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q418c",
+   "siglum": "4Q418c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q419",
+   "siglum": "4Q419",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q420",
+   "siglum": "4Q420",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q421",
+   "siglum": "4Q421",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q422",
+   "siglum": "4Q422",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q423",
+   "siglum": "4Q423",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q424",
+   "siglum": "4Q424",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q425",
+   "siglum": "4Q425",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q426",
+   "siglum": "4Q426",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q427",
+   "siglum": "4Q427",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q428",
+   "siglum": "4Q428",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q429",
+   "siglum": "4Q429",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q430",
+   "siglum": "4Q430",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q431",
+   "siglum": "4Q431",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q432",
+   "siglum": "4Q432",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q433",
+   "siglum": "4Q433",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q433a",
+   "siglum": "4Q433a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q434",
+   "siglum": "4Q434",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q435",
+   "siglum": "4Q435",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q436",
+   "siglum": "4Q436",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q437",
+   "siglum": "4Q437",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q438",
+   "siglum": "4Q438",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q439",
+   "siglum": "4Q439",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q440",
+   "siglum": "4Q440",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q440a",
+   "siglum": "4Q440a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q440b",
+   "siglum": "4Q440b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q441",
+   "siglum": "4Q441",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q442",
+   "siglum": "4Q442",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q443",
+   "siglum": "4Q443",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q444",
+   "siglum": "4Q444",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q445",
+   "siglum": "4Q445",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q446",
+   "siglum": "4Q446",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q447",
+   "siglum": "4Q447",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q448",
+   "siglum": "4Q448",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q449",
+   "siglum": "4Q449",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q450",
+   "siglum": "4Q450",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q451",
+   "siglum": "4Q451",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q452",
+   "siglum": "4Q452",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q453",
+   "siglum": "4Q453",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q454",
+   "siglum": "4Q454",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q455",
+   "siglum": "4Q455",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q456",
+   "siglum": "4Q456",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q457a",
+   "siglum": "4Q457a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q457b",
+   "siglum": "4Q457b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q458",
+   "siglum": "4Q458",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q459",
+   "siglum": "4Q459",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q460",
+   "siglum": "4Q460",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q461",
+   "siglum": "4Q461",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q462",
+   "siglum": "4Q462",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q463",
+   "siglum": "4Q463",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q464",
+   "siglum": "4Q464",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q464a",
+   "siglum": "4Q464a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q464b",
+   "siglum": "4Q464b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q465",
+   "siglum": "4Q465",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q466",
+   "siglum": "4Q466",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q467",
+   "siglum": "4Q467",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468a",
+   "siglum": "4Q468a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468b",
+   "siglum": "4Q468b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468c",
+   "siglum": "4Q468c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468e",
+   "siglum": "4Q468e",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468f",
+   "siglum": "4Q468f",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468g",
+   "siglum": "4Q468g",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468i",
+   "siglum": "4Q468i",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468j",
+   "siglum": "4Q468j",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468k",
+   "siglum": "4Q468k",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468l",
+   "siglum": "4Q468l",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468m",
+   "siglum": "4Q468m",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468n",
+   "siglum": "4Q468n",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468o",
+   "siglum": "4Q468o",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468p",
+   "siglum": "4Q468p",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468q",
+   "siglum": "4Q468q",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468r",
+   "siglum": "4Q468r",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468s",
+   "siglum": "4Q468s",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468t",
+   "siglum": "4Q468t",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468u",
+   "siglum": "4Q468u",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468v",
+   "siglum": "4Q468v",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468w",
+   "siglum": "4Q468w",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468x",
+   "siglum": "4Q468x",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468y",
+   "siglum": "4Q468y",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468z",
+   "siglum": "4Q468z",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468aa",
+   "siglum": "4Q468aa",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468bb",
+   "siglum": "4Q468bb",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468cc",
+   "siglum": "4Q468cc",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468dd",
+   "siglum": "4Q468dd",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q469",
+   "siglum": "4Q469",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q470",
+   "siglum": "4Q470",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q471",
+   "siglum": "4Q471",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q471a",
+   "siglum": "4Q471a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q471c",
+   "siglum": "4Q471c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q472",
+   "siglum": "4Q472",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q472a",
+   "siglum": "4Q472a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q473",
+   "siglum": "4Q473",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q474",
+   "siglum": "4Q474",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q475",
+   "siglum": "4Q475",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q476",
+   "siglum": "4Q476",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q476a",
+   "siglum": "4Q476a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q477",
+   "siglum": "4Q477",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q478",
+   "siglum": "4Q478",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q479",
+   "siglum": "4Q479",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q480",
+   "siglum": "4Q480",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q481",
+   "siglum": "4Q481",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q481a",
+   "siglum": "4Q481a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q481b",
+   "siglum": "4Q481b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q481c",
+   "siglum": "4Q481c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q481d",
+   "siglum": "4Q481d",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q481e",
+   "siglum": "4Q481e",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q482",
+   "siglum": "4Q482",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q483",
+   "siglum": "4Q483",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q484",
+   "siglum": "4Q484",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q485",
+   "siglum": "4Q485",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q486",
+   "siglum": "4Q486",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q487",
+   "siglum": "4Q487",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q488",
+   "siglum": "4Q488",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q489",
+   "siglum": "4Q489",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q490",
+   "siglum": "4Q490",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q491",
+   "siglum": "4Q491",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q492",
+   "siglum": "4Q492",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q493",
+   "siglum": "4Q493",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q494",
+   "siglum": "4Q494",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q495",
+   "siglum": "4Q495",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q496",
+   "siglum": "4Q496",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q497",
+   "siglum": "4Q497",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q498",
+   "siglum": "4Q498",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q499",
+   "siglum": "4Q499",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q500",
+   "siglum": "4Q500",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q501",
+   "siglum": "4Q501",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q502",
+   "siglum": "4Q502",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q503",
+   "siglum": "4Q503",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q504",
+   "siglum": "4Q504",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q505",
+   "siglum": "4Q505",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q506",
+   "siglum": "4Q506",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q507",
+   "siglum": "4Q507",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q508",
+   "siglum": "4Q508",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q509",
+   "siglum": "4Q509",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q510",
+   "siglum": "4Q510",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q511",
+   "siglum": "4Q511",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q512",
+   "siglum": "4Q512",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q513",
+   "siglum": "4Q513",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q514",
+   "siglum": "4Q514",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q515",
+   "siglum": "4Q515",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q516",
+   "siglum": "4Q516",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q517",
+   "siglum": "4Q517",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q518",
+   "siglum": "4Q518",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q519",
+   "siglum": "4Q519",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q520",
+   "siglum": "4Q520",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q521",
+   "siglum": "4Q521",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q522",
+   "siglum": "4Q522",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q523",
+   "siglum": "4Q523",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q524",
+   "siglum": "4Q524",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q525",
+   "siglum": "4Q525",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q526",
+   "siglum": "4Q526",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q527",
+   "siglum": "4Q527",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q528",
+   "siglum": "4Q528",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q529",
+   "siglum": "4Q529",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q530",
+   "siglum": "4Q530",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q531",
+   "siglum": "4Q531",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q532",
+   "siglum": "4Q532",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q533",
+   "siglum": "4Q533",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q534",
+   "siglum": "4Q534",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q535",
+   "siglum": "4Q535",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q536",
+   "siglum": "4Q536",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q537",
+   "siglum": "4Q537",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q538",
+   "siglum": "4Q538",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q539",
+   "siglum": "4Q539",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q540",
+   "siglum": "4Q540",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q541",
+   "siglum": "4Q541",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q542",
+   "siglum": "4Q542",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q543",
+   "siglum": "4Q543",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q544",
+   "siglum": "4Q544",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q545",
+   "siglum": "4Q545",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q546",
+   "siglum": "4Q546",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q547",
+   "siglum": "4Q547",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q548",
+   "siglum": "4Q548",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q549",
+   "siglum": "4Q549",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q550",
+   "siglum": "4Q550",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q550a",
+   "siglum": "4Q550a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q550b",
+   "siglum": "4Q550b",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q550c",
+   "siglum": "4Q550c",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q550d",
+   "siglum": "4Q550d",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q550e",
+   "siglum": "4Q550e",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q551",
+   "siglum": "4Q551",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q552",
+   "siglum": "4Q552",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q553",
+   "siglum": "4Q553",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q554",
+   "siglum": "4Q554",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q554a",
+   "siglum": "4Q554a",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q555",
+   "siglum": "4Q555",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q556",
+   "siglum": "4Q556",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q557",
+   "siglum": "4Q557",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q558",
+   "siglum": "4Q558",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q559",
+   "siglum": "4Q559",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q560",
+   "siglum": "4Q560",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q561",
+   "siglum": "4Q561",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q562",
+   "siglum": "4Q562",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q563",
+   "siglum": "4Q563",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q564",
+   "siglum": "4Q564",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q565",
+   "siglum": "4Q565",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q566",
+   "siglum": "4Q566",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q567",
+   "siglum": "4Q567",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q568",
+   "siglum": "4Q568",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q569",
+   "siglum": "4Q569",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q570",
+   "siglum": "4Q570",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q571",
+   "siglum": "4Q571",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q572",
+   "siglum": "4Q572",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q573",
+   "siglum": "4Q573",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q574",
+   "siglum": "4Q574",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q575",
+   "siglum": "4Q575",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q577",
+   "siglum": "4Q577",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q578",
+   "siglum": "4Q578",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q579",
+   "siglum": "4Q579",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q580",
+   "siglum": "4Q580",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q581",
+   "siglum": "4Q581",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q582",
+   "siglum": "4Q582",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q9",
+   "siglum": "5Q9",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q10",
+   "siglum": "5Q10",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q11",
+   "siglum": "5Q11",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q12",
+   "siglum": "5Q12",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q13",
+   "siglum": "5Q13",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q14",
+   "siglum": "5Q14",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q15",
+   "siglum": "5Q15",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q16",
+   "siglum": "5Q16",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q17",
+   "siglum": "5Q17",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q18",
+   "siglum": "5Q18",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q19",
+   "siglum": "5Q19",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q20",
+   "siglum": "5Q20",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q21",
+   "siglum": "5Q21",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q22",
+   "siglum": "5Q22",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q23",
+   "siglum": "5Q23",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q24",
+   "siglum": "5Q24",
+   "kind": "dss"
+  },
+  {
+   "path": "5Q25",
+   "siglum": "5Q25",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q8",
+   "siglum": "6Q8",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q9",
+   "siglum": "6Q9",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q10",
+   "siglum": "6Q10",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q11",
+   "siglum": "6Q11",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q12",
+   "siglum": "6Q12",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q13",
+   "siglum": "6Q13",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q14",
+   "siglum": "6Q14",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q15",
+   "siglum": "6Q15",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q16",
+   "siglum": "6Q16",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q17",
+   "siglum": "6Q17",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q18",
+   "siglum": "6Q18",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q19",
+   "siglum": "6Q19",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q20",
+   "siglum": "6Q20",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q21",
+   "siglum": "6Q21",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q22",
+   "siglum": "6Q22",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q23",
+   "siglum": "6Q23",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q24",
+   "siglum": "6Q24",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q26",
+   "siglum": "6Q26",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q27",
+   "siglum": "6Q27",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q28",
+   "siglum": "6Q28",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q29",
+   "siglum": "6Q29",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q30",
+   "siglum": "6Q30",
+   "kind": "dss"
+  },
+  {
+   "path": "6Q31",
+   "siglum": "6Q31",
+   "kind": "dss"
+  },
+  {
+   "path": "8Q5",
+   "siglum": "8Q5",
+   "kind": "dss"
+  },
+  {
+   "path": "9Q",
+   "siglum": "9Q",
+   "kind": "dss"
+  },
+  {
+   "path": "10Q",
+   "siglum": "10Q",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q5",
+   "siglum": "11Q5",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q6",
+   "siglum": "11Q6",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q10",
+   "siglum": "11Q10",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q11",
+   "siglum": "11Q11",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q12",
+   "siglum": "11Q12",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q13",
+   "siglum": "11Q13",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q14",
+   "siglum": "11Q14",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q15",
+   "siglum": "11Q15",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q16",
+   "siglum": "11Q16",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q17",
+   "siglum": "11Q17",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q18",
+   "siglum": "11Q18",
+   "kind": "dss"
+  },
+  {
+   "path": "11QT^a^",
+   "siglum": "11QT",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q20",
+   "siglum": "11Q20",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q21",
+   "siglum": "11Q21",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q22",
+   "siglum": "11Q22",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q23",
+   "siglum": "11Q23",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q25",
+   "siglum": "11Q25",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q26",
+   "siglum": "11Q26",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q27",
+   "siglum": "11Q27",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q29",
+   "siglum": "11Q29",
+   "kind": "dss"
+  },
+  {
+   "path": "11Q30",
+   "siglum": "11Q30",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.660",
+   "siglum": "PAM 43.660",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.661",
+   "siglum": "PAM 43.661",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.663",
+   "siglum": "PAM 43.663",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.664",
+   "siglum": "PAM 43.664",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.665",
+   "siglum": "PAM 43.665",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.666",
+   "siglum": "PAM 43.666",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.667",
+   "siglum": "PAM 43.667",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.668",
+   "siglum": "PAM 43.668",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.669",
+   "siglum": "PAM 43.669",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.670",
+   "siglum": "PAM 43.670",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.671",
+   "siglum": "PAM 43.671",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.672",
+   "siglum": "PAM 43.672",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.673",
+   "siglum": "PAM 43.673",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.674",
+   "siglum": "PAM 43.674",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.675",
+   "siglum": "PAM 43.675",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.676",
+   "siglum": "PAM 43.676",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.677",
+   "siglum": "PAM 43.677",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.678",
+   "siglum": "PAM 43.678",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.679",
+   "siglum": "PAM 43.679",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.680",
+   "siglum": "PAM 43.680",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.682",
+   "siglum": "PAM 43.682",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.683",
+   "siglum": "PAM 43.683",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.684",
+   "siglum": "PAM 43.684",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.685",
+   "siglum": "PAM 43.685",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.686",
+   "siglum": "PAM 43.686",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.688",
+   "siglum": "PAM 43.688",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.689",
+   "siglum": "PAM 43.689",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.690",
+   "siglum": "PAM 43.690",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.691",
+   "siglum": "PAM 43.691",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.692",
+   "siglum": "PAM 43.692",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.693",
+   "siglum": "PAM 43.693",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.694",
+   "siglum": "PAM 43.694",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.695",
+   "siglum": "PAM 43.695",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.696",
+   "siglum": "PAM 43.696",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.697",
+   "siglum": "PAM 43.697",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.698",
+   "siglum": "PAM 43.698",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.699",
+   "siglum": "PAM 43.699",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.700",
+   "siglum": "PAM 43.700",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_43.701",
+   "siglum": "PAM 43.701",
+   "kind": "dss"
+  },
+  {
+   "path": "PAM_44.102",
+   "siglum": "PAM 44.102",
+   "kind": "dss"
+  },
+  {
+   "path": "KhQ1",
+   "siglum": "KhQ1",
+   "kind": "dss"
+  },
+  {
+   "path": "KhQ2",
+   "siglum": "KhQ2",
+   "kind": "dss"
+  },
+  {
+   "path": "KhQ3",
+   "siglum": "KhQ3",
+   "kind": "dss"
+  },
+  {
+   "path": "XQ6",
+   "siglum": "XQ6",
+   "kind": "dss"
+  },
+  {
+   "path": "XQ7",
+   "siglum": "XQ7",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas1k",
+   "siglum": "Mas1k",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas1l",
+   "siglum": "Mas1l",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas1m",
+   "siglum": "Mas1m",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas1p",
+   "siglum": "Mas1p",
+   "kind": "dss"
+  },
+  {
+   "path": "BOX_1032A",
+   "siglum": "BOX 1032A",
+   "kind": "dss"
+  },
+  {
+   "path": "P-1344",
+   "siglum": "P-1344",
+   "kind": "dss"
+  },
+  {
+   "path": "P-1345",
+   "siglum": "P-1345",
+   "kind": "dss"
+  },
+  {
+   "path": "CD",
+   "siglum": "CD",
+   "kind": "dss"
+  },
+  {
+   "path": "SirA",
+   "siglum": "SirA",
+   "kind": "dss"
+  },
+  {
+   "path": "SirB",
+   "siglum": "SirB",
+   "kind": "dss"
+  },
+  {
+   "path": "SirC",
+   "siglum": "SirC",
+   "kind": "dss"
+  },
+  {
+   "path": "SirD",
+   "siglum": "SirD",
+   "kind": "dss"
+  },
+  {
+   "path": "SirE",
+   "siglum": "SirE",
+   "kind": "dss"
+  },
+  {
+   "path": "SirF",
+   "siglum": "SirF",
+   "kind": "dss"
+  },
+  {
+   "path": "SirM",
+   "siglum": "SirM",
+   "kind": "dss"
+  },
+  {
+   "path": "F.Lac._RdQ_19~75",
+   "siglum": "F.Lac. RdQ 19/75",
+   "kind": "dss"
+  },
+  {
+   "path": "Ket._Jer._12",
+   "siglum": "Ket. Jer. 12",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas585",
+   "siglum": "Mas585",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._6",
+   "siglum": "Mur. 6",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._7",
+   "siglum": "Mur. 7",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._8",
+   "siglum": "Mur. 8",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._9",
+   "siglum": "Mur. 9",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._10A",
+   "siglum": "Mur. 10A",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._10B",
+   "siglum": "Mur. 10B",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._11",
+   "siglum": "Mur. 11",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._17A",
+   "siglum": "Mur. 17A",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._17B",
+   "siglum": "Mur. 17B",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._22",
+   "siglum": "Mur. 22",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24A",
+   "siglum": "Mur. 24A",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24B",
+   "siglum": "Mur. 24B",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24C",
+   "siglum": "Mur. 24C",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24D",
+   "siglum": "Mur. 24D",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24E",
+   "siglum": "Mur. 24E",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24F",
+   "siglum": "Mur. 24F",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24G",
+   "siglum": "Mur. 24G",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24H",
+   "siglum": "Mur. 24H",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24I",
+   "siglum": "Mur. 24I",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24J",
+   "siglum": "Mur. 24J",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24K",
+   "siglum": "Mur. 24K",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._24L",
+   "siglum": "Mur. 24L",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._29",
+   "siglum": "Mur. 29",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._30",
+   "siglum": "Mur. 30",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._31",
+   "siglum": "Mur. 31",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._36",
+   "siglum": "Mur. 36",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._37",
+   "siglum": "Mur. 37",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._38",
+   "siglum": "Mur. 38",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._39",
+   "siglum": "Mur. 39",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._40",
+   "siglum": "Mur. 40",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._42",
+   "siglum": "Mur. 42",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._43",
+   "siglum": "Mur. 43",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._44",
+   "siglum": "Mur. 44",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._45",
+   "siglum": "Mur. 45",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._46",
+   "siglum": "Mur. 46",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._47",
+   "siglum": "Mur. 47",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._48",
+   "siglum": "Mur. 48",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._49",
+   "siglum": "Mur. 49",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._50",
+   "siglum": "Mur. 50",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._51",
+   "siglum": "Mur. 51",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._52",
+   "siglum": "Mur. 52",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._55",
+   "siglum": "Mur. 55",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._56",
+   "siglum": "Mur. 56",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._57",
+   "siglum": "Mur. 57",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._58",
+   "siglum": "Mur. 58",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._59",
+   "siglum": "Mur. 59",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._60",
+   "siglum": "Mur. 60",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._61",
+   "siglum": "Mur. 61",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._62",
+   "siglum": "Mur. 62",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._63",
+   "siglum": "Mur. 63",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._64",
+   "siglum": "Mur. 64",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._66",
+   "siglum": "Mur. 66",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._67",
+   "siglum": "Mur. 67",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._68",
+   "siglum": "Mur. 68",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._69",
+   "siglum": "Mur. 69",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._70",
+   "siglum": "Mur. 70",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._73",
+   "siglum": "Mur. 73",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._74",
+   "siglum": "Mur. 74",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._75",
+   "siglum": "Mur. 75",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._76",
+   "siglum": "Mur. 76",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._77",
+   "siglum": "Mur. 77",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._78A",
+   "siglum": "Mur. 78A",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._78B",
+   "siglum": "Mur. 78B",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._79",
+   "siglum": "Mur. 79",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._80",
+   "siglum": "Mur. 80",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._81",
+   "siglum": "Mur. 81",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._82",
+   "siglum": "Mur. 82",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._83",
+   "siglum": "Mur. 83",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._84",
+   "siglum": "Mur. 84",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._87",
+   "siglum": "Mur. 87",
+   "kind": "dss"
+  },
+  {
+   "path": "Mur._174",
+   "siglum": "Mur. 174",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_62",
+   "siglum": "P. Yadin 62",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_44",
+   "siglum": "P. Yadin 44",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_45",
+   "siglum": "P. Yadin 45",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_46",
+   "siglum": "P. Yadin 46",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_49",
+   "siglum": "P. Yadin 49",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_51",
+   "siglum": "P. Yadin 51",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_60",
+   "siglum": "P. Yadin 60",
+   "kind": "dss"
+  },
+  {
+   "path": "P._Yadin_61",
+   "siglum": "P. Yadin 61",
+   "kind": "dss"
+  },
+  {
+   "path": "XHev~Se_30",
+   "siglum": "XHev/Se 30",
+   "kind": "dss"
+  },
+  {
+   "path": "XHev~Se_36",
+   "siglum": "XHev/Se 36",
+   "kind": "dss"
+  },
+  {
+   "path": "XHev~Se_49",
+   "siglum": "XHev/Se 49",
+   "kind": "dss"
+  },
+  {
+   "path": "XHev~Se_6",
+   "siglum": "XHev/Se 6",
+   "kind": "dss"
+  },
+  {
+   "path": "Jer11",
+   "siglum": "Jer11",
+   "kind": "dss"
+  },
+  {
+   "path": "CII",
+   "siglum": "CII",
+   "kind": "dss"
+  },
+  {
+   "path": "MzHasmHyrkanI",
+   "siglum": "MzHasmHyrkanI",
+   "kind": "dss"
+  },
+  {
+   "path": "MzHasmAlexander",
+   "siglum": "MzHasmAlexander",
+   "kind": "dss"
+  },
+  {
+   "path": "MzHasmAristobul",
+   "siglum": "MzHasmAristobul",
+   "kind": "dss"
+  },
+  {
+   "path": "MzHasmAntigonos",
+   "siglum": "MzHasmAntigonos",
+   "kind": "dss"
+  },
+  {
+   "path": "MzRev_J1",
+   "siglum": "MzRev J1",
+   "kind": "dss"
+  },
+  {
+   "path": "MzRev_Gamla",
+   "siglum": "MzRev Gamla",
+   "kind": "dss"
+  },
+  {
+   "path": "MzRev_J2",
+   "siglum": "MzRev J2",
+   "kind": "dss"
+  },
+  {
+   "path": "MzRev_J3",
+   "siglum": "MzRev J3",
+   "kind": "dss"
+  },
+  {
+   "path": "MzRev_J4",
+   "siglum": "MzRev J4",
+   "kind": "dss"
+  },
+  {
+   "path": "MzRev_J5",
+   "siglum": "MzRev J5",
+   "kind": "dss"
+  },
+  {
+   "path": "MzBarKochba_J1",
+   "siglum": "MzBarKochba J1",
+   "kind": "dss"
+  },
+  {
+   "path": "MzBarKochba_J2",
+   "siglum": "MzBarKochba J2",
+   "kind": "dss"
+  },
+  {
+   "path": "MzBarKochba_J3-4",
+   "siglum": "MzBarKochba J3-4",
+   "kind": "dss"
+  },
+  {
+   "path": "GewBarKochba_B",
+   "siglum": "GewBarKochba B",
+   "kind": "dss"
+  },
+  {
+   "path": "GewBarKochba_C",
+   "siglum": "GewBarKochba C",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas449",
+   "siglum": "Mas449",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas450",
+   "siglum": "Mas450",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas451",
+   "siglum": "Mas451",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas452",
+   "siglum": "Mas452",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas454",
+   "siglum": "Mas454",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas516",
+   "siglum": "Mas516",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas517",
+   "siglum": "Mas517",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas519",
+   "siglum": "Mas519",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas520",
+   "siglum": "Mas520",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas521",
+   "siglum": "Mas521",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas522",
+   "siglum": "Mas522",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas523",
+   "siglum": "Mas523",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas524",
+   "siglum": "Mas524",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas537",
+   "siglum": "Mas537",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas541",
+   "siglum": "Mas541",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas542",
+   "siglum": "Mas542",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas552",
+   "siglum": "Mas552",
+   "kind": "dss"
+  },
+  {
+   "path": "Mas553",
+   "siglum": "Mas553",
+   "kind": "dss"
+  },
+  {
+   "path": "Herodion20",
+   "siglum": "Herodion20",
+   "kind": "dss"
+  },
+  {
+   "path": "Herodion38",
+   "siglum": "Herodion38",
+   "kind": "dss"
+  },
+  {
+   "path": "HouseOfAbraham",
+   "siglum": "HouseOfAbraham",
+   "kind": "dss"
+  },
+  {
+   "path": "1Q1",
+   "siglum": "1Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q2",
+   "siglum": "1Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q3",
+   "siglum": "1Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q4",
+   "siglum": "1Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q5",
+   "siglum": "1Q5",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q6",
+   "siglum": "1Q6",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q7",
+   "siglum": "1Q7",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1QIsa^a^",
+   "siglum": "1QIsa",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q8",
+   "siglum": "1Q8",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q9",
+   "siglum": "1Q9",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q10",
+   "siglum": "1Q10",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q11",
+   "siglum": "1Q11",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q12",
+   "siglum": "1Q12",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q13",
+   "siglum": "1Q13",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q71",
+   "siglum": "1Q71",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "1Q72",
+   "siglum": "1Q72",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q1",
+   "siglum": "2Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q2",
+   "siglum": "2Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q3",
+   "siglum": "2Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q4",
+   "siglum": "2Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q5",
+   "siglum": "2Q5",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q6",
+   "siglum": "2Q6",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q7",
+   "siglum": "2Q7",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q8",
+   "siglum": "2Q8",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q9",
+   "siglum": "2Q9",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q10",
+   "siglum": "2Q10",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q11",
+   "siglum": "2Q11",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q12",
+   "siglum": "2Q12",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q13",
+   "siglum": "2Q13",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q14",
+   "siglum": "2Q14",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q15",
+   "siglum": "2Q15",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q16",
+   "siglum": "2Q16",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "2Q17",
+   "siglum": "2Q17",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "3Q1",
+   "siglum": "3Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "3Q2",
+   "siglum": "3Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "3Q3",
+   "siglum": "3Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q1",
+   "siglum": "4Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q2",
+   "siglum": "4Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q3",
+   "siglum": "4Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q4",
+   "siglum": "4Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q5",
+   "siglum": "4Q5",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q6",
+   "siglum": "4Q6",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q7",
+   "siglum": "4Q7",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q8",
+   "siglum": "4Q8",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q8a",
+   "siglum": "4Q8a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q8b",
+   "siglum": "4Q8b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q9",
+   "siglum": "4Q9",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q10",
+   "siglum": "4Q10",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q11",
+   "siglum": "4Q11",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q12",
+   "siglum": "4Q12",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q13",
+   "siglum": "4Q13",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q14",
+   "siglum": "4Q14",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q15",
+   "siglum": "4Q15",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q16",
+   "siglum": "4Q16",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q17",
+   "siglum": "4Q17",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q18",
+   "siglum": "4Q18",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q19",
+   "siglum": "4Q19",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q20",
+   "siglum": "4Q20",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q21",
+   "siglum": "4Q21",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q22",
+   "siglum": "4Q22",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q23",
+   "siglum": "4Q23",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q24",
+   "siglum": "4Q24",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q25",
+   "siglum": "4Q25",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q26",
+   "siglum": "4Q26",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q26a",
+   "siglum": "4Q26a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q26b",
+   "siglum": "4Q26b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q27",
+   "siglum": "4Q27",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q28",
+   "siglum": "4Q28",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q29",
+   "siglum": "4Q29",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q30",
+   "siglum": "4Q30",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q31",
+   "siglum": "4Q31",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q32",
+   "siglum": "4Q32",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q33",
+   "siglum": "4Q33",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q34",
+   "siglum": "4Q34",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q35",
+   "siglum": "4Q35",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q36",
+   "siglum": "4Q36",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q37",
+   "siglum": "4Q37",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q38",
+   "siglum": "4Q38",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q38a",
+   "siglum": "4Q38a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q38b",
+   "siglum": "4Q38b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q39",
+   "siglum": "4Q39",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q40",
+   "siglum": "4Q40",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q41",
+   "siglum": "4Q41",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q42",
+   "siglum": "4Q42",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q43",
+   "siglum": "4Q43",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q44",
+   "siglum": "4Q44",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q45",
+   "siglum": "4Q45",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q46",
+   "siglum": "4Q46",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q47",
+   "siglum": "4Q47",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q47a",
+   "siglum": "4Q47a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q48",
+   "siglum": "4Q48",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q49",
+   "siglum": "4Q49",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q50",
+   "siglum": "4Q50",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q51",
+   "siglum": "4Q51",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "PAM_43.113",
+   "siglum": "PAM 43.113",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "PAM_43.124",
+   "siglum": "PAM 43.124",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q52",
+   "siglum": "4Q52",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q53",
+   "siglum": "4Q53",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q54",
+   "siglum": "4Q54",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q54a",
+   "siglum": "4Q54a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q54b",
+   "siglum": "4Q54b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q55",
+   "siglum": "4Q55",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q56",
+   "siglum": "4Q56",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q57",
+   "siglum": "4Q57",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q58",
+   "siglum": "4Q58",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q59",
+   "siglum": "4Q59",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q60",
+   "siglum": "4Q60",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q61",
+   "siglum": "4Q61",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q62",
+   "siglum": "4Q62",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q62a",
+   "siglum": "4Q62a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q63",
+   "siglum": "4Q63",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q64",
+   "siglum": "4Q64",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q65",
+   "siglum": "4Q65",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q66",
+   "siglum": "4Q66",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q67",
+   "siglum": "4Q67",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q68",
+   "siglum": "4Q68",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q69",
+   "siglum": "4Q69",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q69a",
+   "siglum": "4Q69a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q69b",
+   "siglum": "4Q69b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q70",
+   "siglum": "4Q70",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q71",
+   "siglum": "4Q71",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q72",
+   "siglum": "4Q72",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q72a",
+   "siglum": "4Q72a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q72b",
+   "siglum": "4Q72b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q73",
+   "siglum": "4Q73",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q74",
+   "siglum": "4Q74",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q75",
+   "siglum": "4Q75",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q76",
+   "siglum": "4Q76",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q77",
+   "siglum": "4Q77",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q78",
+   "siglum": "4Q78",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q79",
+   "siglum": "4Q79",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q80",
+   "siglum": "4Q80",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q81",
+   "siglum": "4Q81",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q82",
+   "siglum": "4Q82",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q83",
+   "siglum": "4Q83",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q84",
+   "siglum": "4Q84",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q85",
+   "siglum": "4Q85",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q86",
+   "siglum": "4Q86",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q87",
+   "siglum": "4Q87",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q89",
+   "siglum": "4Q89",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q90",
+   "siglum": "4Q90",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q91",
+   "siglum": "4Q91",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q92",
+   "siglum": "4Q92",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q93",
+   "siglum": "4Q93",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q94",
+   "siglum": "4Q94",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q95",
+   "siglum": "4Q95",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q96",
+   "siglum": "4Q96",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q97",
+   "siglum": "4Q97",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98",
+   "siglum": "4Q98",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98a",
+   "siglum": "4Q98a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98b",
+   "siglum": "4Q98b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98c",
+   "siglum": "4Q98c",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98d",
+   "siglum": "4Q98d",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98e",
+   "siglum": "4Q98e",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98f",
+   "siglum": "4Q98f",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q98g",
+   "siglum": "4Q98g",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q99",
+   "siglum": "4Q99",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q100",
+   "siglum": "4Q100",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q101",
+   "siglum": "4Q101",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q101a",
+   "siglum": "4Q101a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q102",
+   "siglum": "4Q102",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q103",
+   "siglum": "4Q103",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q104",
+   "siglum": "4Q104",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q105",
+   "siglum": "4Q105",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q106",
+   "siglum": "4Q106",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q107",
+   "siglum": "4Q107",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q108",
+   "siglum": "4Q108",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q109",
+   "siglum": "4Q109",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q110",
+   "siglum": "4Q110",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q111",
+   "siglum": "4Q111",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q112",
+   "siglum": "4Q112",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q113",
+   "siglum": "4Q113",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q114",
+   "siglum": "4Q114",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q115",
+   "siglum": "4Q115",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q116",
+   "siglum": "4Q116",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q116a",
+   "siglum": "4Q116a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q117",
+   "siglum": "4Q117",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q118",
+   "siglum": "4Q118",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q128",
+   "siglum": "4Q128",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q129",
+   "siglum": "4Q129",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q130",
+   "siglum": "4Q130",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q131",
+   "siglum": "4Q131",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q132",
+   "siglum": "4Q132",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q133",
+   "siglum": "4Q133",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q134",
+   "siglum": "4Q134",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q135",
+   "siglum": "4Q135",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q136",
+   "siglum": "4Q136",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q137",
+   "siglum": "4Q137",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q138",
+   "siglum": "4Q138",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q139",
+   "siglum": "4Q139",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q140",
+   "siglum": "4Q140",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q141",
+   "siglum": "4Q141",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q142",
+   "siglum": "4Q142",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q143",
+   "siglum": "4Q143",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q144",
+   "siglum": "4Q144",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q145",
+   "siglum": "4Q145",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q146",
+   "siglum": "4Q146",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q149",
+   "siglum": "4Q149",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q150",
+   "siglum": "4Q150",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q151",
+   "siglum": "4Q151",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q152",
+   "siglum": "4Q152",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q153",
+   "siglum": "4Q153",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q154",
+   "siglum": "4Q154",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q155",
+   "siglum": "4Q155",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q576",
+   "siglum": "4Q576",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q1",
+   "siglum": "5Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q2",
+   "siglum": "5Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q3",
+   "siglum": "5Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q4",
+   "siglum": "5Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q5",
+   "siglum": "5Q5",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q6",
+   "siglum": "5Q6",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5Q7",
+   "siglum": "5Q7",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q1",
+   "siglum": "6Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q2",
+   "siglum": "6Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q3",
+   "siglum": "6Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q4",
+   "siglum": "6Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q5",
+   "siglum": "6Q5",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q6",
+   "siglum": "6Q6",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "6Q7",
+   "siglum": "6Q7",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "8Q1",
+   "siglum": "8Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "8Q2",
+   "siglum": "8Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "8Q3",
+   "siglum": "8Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "8Q4",
+   "siglum": "8Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q1",
+   "siglum": "11Q1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q2",
+   "siglum": "11Q2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q3",
+   "siglum": "11Q3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q4",
+   "siglum": "11Q4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q7",
+   "siglum": "11Q7",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q8",
+   "siglum": "11Q8",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q9",
+   "siglum": "11Q9",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11Q28",
+   "siglum": "11Q28",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "11QpapLev",
+   "siglum": "11QpapLev",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XQ1",
+   "siglum": "XQ1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XQ2",
+   "siglum": "XQ2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XQ3",
+   "siglum": "XQ3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._1",
+   "siglum": "Mur. 1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._2",
+   "siglum": "Mur. 2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._3",
+   "siglum": "Mur. 3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._4",
+   "siglum": "Mur. 4",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._88",
+   "siglum": "Mur. 88",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._X",
+   "siglum": "Mur. X",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Sdeir1",
+   "siglum": "Sdeir1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5~6Hev1a",
+   "siglum": "5/6Hev1a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "5~6Hev1b",
+   "siglum": "5/6Hev1b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XHev~Se_2",
+   "siglum": "XHev/Se 2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XHev~Se_3",
+   "siglum": "XHev/Se 3",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XHev~Se_5",
+   "siglum": "XHev/Se 5",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "34Se1",
+   "siglum": "34Se1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "34Se2",
+   "siglum": "34Se2",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1",
+   "siglum": "Mas1",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1a",
+   "siglum": "Mas1a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1b",
+   "siglum": "Mas1b",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1c",
+   "siglum": "Mas1c",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1d",
+   "siglum": "Mas1d",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1e",
+   "siglum": "Mas1e",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mas1f",
+   "siglum": "Mas1f",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XLeviticus",
+   "siglum": "XLeviticus",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XJoshua",
+   "siglum": "XJoshua",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XJudges",
+   "siglum": "XJudges",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "XAmos",
+   "siglum": "XAmos",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Mur._5a",
+   "siglum": "Mur. 5a",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Gen",
+   "siglum": "Gen",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Ex",
+   "siglum": "Ex",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Lev",
+   "siglum": "Lev",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Num",
+   "siglum": "Num",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Dtn",
+   "siglum": "Dtn",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Jos",
+   "siglum": "Jos",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Ri",
+   "siglum": "Ri",
+   "kind": "non-dss"
+  },
+  {
+   "path": "1_Sam",
+   "siglum": "1 Sam",
+   "kind": "non-dss"
+  },
+  {
+   "path": "2_Sam",
+   "siglum": "2 Sam",
+   "kind": "non-dss"
+  },
+  {
+   "path": "1_Kön",
+   "siglum": "1 Kön",
+   "kind": "non-dss"
+  },
+  {
+   "path": "2_Kön",
+   "siglum": "2 Kön",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Jes",
+   "siglum": "Jes",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Jer",
+   "siglum": "Jer",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Ez",
+   "siglum": "Ez",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Hos",
+   "siglum": "Hos",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Joel",
+   "siglum": "Joel",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Amos",
+   "siglum": "Amos",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Ob",
+   "siglum": "Ob",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Jona",
+   "siglum": "Jona",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Mi",
+   "siglum": "Mi",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Nah",
+   "siglum": "Nah",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Hab",
+   "siglum": "Hab",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Zeph",
+   "siglum": "Zeph",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Hag",
+   "siglum": "Hag",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Sach",
+   "siglum": "Sach",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Mal",
+   "siglum": "Mal",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Ps",
+   "siglum": "Ps",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Hi",
+   "siglum": "Hi",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Prov",
+   "siglum": "Prov",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Rut",
+   "siglum": "Rut",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Hhld",
+   "siglum": "Hhld",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Qoh",
+   "siglum": "Qoh",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Klgl",
+   "siglum": "Klgl",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Est",
+   "siglum": "Est",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Dan",
+   "siglum": "Dan",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Esr",
+   "siglum": "Esr",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Neh",
+   "siglum": "Neh",
+   "kind": "non-dss"
+  },
+  {
+   "path": "1_Chron",
+   "siglum": "1 Chron",
+   "kind": "non-dss"
+  },
+  {
+   "path": "2_Chron",
+   "siglum": "2 Chron",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Gen_SP",
+   "siglum": "Gen SP",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Ex_SP",
+   "siglum": "Ex SP",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Lev_SP",
+   "siglum": "Lev SP",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Num_SP",
+   "siglum": "Num SP",
+   "kind": "non-dss"
+  },
+  {
+   "path": "Dtn_SP",
+   "siglum": "Dtn SP",
+   "kind": "non-dss"
+  },
+  {
+   "path": "SirQ",
+   "siglum": "SirQ",
+   "kind": "dss"
+  },
+  {
+   "path": "MMT",
+   "siglum": "MMT",
+   "kind": "dss"
+  },
+  {
+   "path": "Suk.",
+   "siglum": "Suk.",
+   "kind": "dss"
+  },
+  {
+   "path": "P.",
+   "siglum": "P.",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q464c",
+   "siglum": "4Q464c",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "4Q471b",
+   "siglum": "4Q471b",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^A^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^B^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^C^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^D^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^E^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^F^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "Ms.^Mas^",
+   "siglum": "Ms.",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q468d",
+   "siglum": "4Q468d",
+   "kind": "dss"
+  },
+  {
+   "path": "GewBarKochba_A",
+   "siglum": "GewBarKochba A",
+   "kind": "dss"
+  },
+  {
+   "path": "4Q69c",
+   "siglum": "4Q69c",
+   "kind": "dss-biblical"
+  },
+  {
+   "path": "Add",
+   "siglum": "Add",
+   "kind": "dss"
+  }
+ ],
+ "failed": {}
+}

@@ -1,0 +1,52 @@
+{
+ "240149": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ל֯אחת[",
+  "wordReadingId": 240149
+ },
+ "240153": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "6",
+    "orderedId": 7690001006004,
+    "priorityOfReading": 0,
+    "reading": "שלום",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 240154
+   }
+  ],
+  "reading": "הו/יה",
+  "wordReadingId": 240153
+ },
+ "240154": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "6",
+    "orderedId": 7690001006003,
+    "priorityOfReading": 0,
+    "reading": "הו/יה",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 240153
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שלום",
+  "wordReadingId": 240154
+ },
+ "240156": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]כתבה",
+  "wordReadingId": 240156
+ }
+}

@@ -1,0 +1,4288 @@
+@node
+@compiler=DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
+@converters=Rusty Taylor
+@copynote1=© 2022 DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
+@copynote2=Bereitgestellt durch das DFG-Projekt Nr. 465277421 Qumran-Digital: Text und Lexikon auf der Grundlage eines Textes des früheren Projekts Qumran-Wörterbuch der Niedersächsischen Akademie der Wissenschaften zu Göttingen, der auf einem Vorläufertext von Martin Abegg basierte.
+@copynote3=Modified: converted from HTML and JSON to Text-Fabric, see docs/transcription.md. Provided as is, without warranties, see the disclaimer in the license.
+@description=named entity type (pers; gens; topo) or the source abbreviation
+@license=Creative Commons Attribution-ShareAlike 4.0 International
+@licenseUrl=https://creativecommons.org/licenses/by-sa/4.0/
+@name=Qumran
+@source=Qumran-Digital: Text und Lexikon, API version 1
+@sourceFormat=HTML and JSON
+@sourceUrl=https://lexicon.qumran-digital.org/v1/qumran
+@valueType=str
+@version=0.1
+@writtenBy=Text-Fabric
+@dateWritten=2026-10-11T19:17:01+00:00Z
+
+913729	pers
+913983	gens
+913990	gens
+914335	gens
+914778	gens
+915413	pers
+915493	gens
+915505	pers
+915511	gens
+915566	pers
+915584	pers
+915867	pers
+915891	gens
+916294	gens
+917114	gens
+917126	gens
+917134	pers
+917169	pers
+917187	gens
+917233	gens
+917255	gens
+917274	n.d.
+917283	n.d.
+917297	pers
+917407	pers
+917526	gens
+917581	pers
+917592	gens
+917598	pers
+917675	pers
+917677	gens
+918905	gens
+918917	pers
+918976	gens
+919090	gens
+919107	pers
+919184	gens
+919218	pers
+919226	pers
+919258	pers
+919335	gens
+919339	pers
+919462	gens
+919466	pers
+919483	gens
+919553	gens
+919603	n.d.
+919642	n.d.
+919671	n.d.
+919755	pers
+919796	n.d.
+919973	pers
+920000	n.d.
+920535	pers
+920700	n.d.
+920713	pers
+920826	pers
+920908	gens
+921009	topo
+921167	n.d.
+921247	n.d.
+921327	n.d.
+921394	topo
+921402	pers
+921425	topo
+921443	pers
+921547	topo
+921549	topo
+921552	topo
+topo
+921558	topo
+921566	pers
+921569	pers
+921572	pers
+921592	topo
+921601	topo
+921647	pers
+921650	topo
+921726	gens
+922015	gens
+922046	gens
+922075	gens
+topo
+922082	topo
+922090	gens
+922092	pers
+922094	topo
+pers
+922097	pers
+922101	topo
+922110	pers
+922120	topo
+922122	topo
+922134	topo
+922140	pers
+922142	pers
+922154	pers
+922166	pers
+922383	topo
+922410	gens
+922412	pers
+922418	gens
+922455	pers
+922463	pers
+922764	gens
+922766	pers
+922768	pers
+922774	gens
+923162	gens
+923425	topo
+923542	pers
+924126	pers
+pers
+924130	pers
+pers
+924133	pers
+924191	gens
+924258	pers
+924282	gens
+924301	gens
+924416	pers
+gens
+924424	pers
+924502	pers
+924506	gens
+924510	topo
+924515	gens
+924522	pers
+pers
+924534	gens
+924620	topo
+924686	pers
+924798	n.d.
+924886	topo
+924893	topo
+924898	pers
+924923	gens
+924929	topo
+924932	n.d.
+924949	gens
+924971	gens
+925160	gens
+925213	topo
+925259	gens
+925272	gens
+925499	gens
+925664	gens
+925682	gens
+925917	pers
+925919	pers
+925928	pers
+925953	gens
+925986	pers
+925995	gens
+926007	pers
+926010	gens
+926158	topo
+926162	pers
+926174	gens
+926221	gens
+926412	gens
+926436	topo
+926559	topo
+926625	pers
+926844	n.d.
+927201	n.d.
+927366	n.d.
+927945	n.d.
+928834	n.d.
+928987	n.d.
+929303	n.d.
+929615	n.d.
+929681	n.d.
+930301	n.d.
+930539	n.d.
+931091	topo
+931490	n.d.
+931766	n.d.
+931789	n.d.
+931873	n.d.
+931923	n.d.
+932189	topo
+933094	n.d.
+933765	n.d.
+935298	n.d.
+935300	n.d.
+935326	pers
+935350	topo
+935361	topo
+935396	n.d.
+935398	n.d.
+935400	pers
+935434	topo
+935446	topo
+935485	pers
+935488	pers
+935490	topo
+935508	pers
+935521	pers
+935547	pers
+935552	pers
+935556	gens
+topo
+935589	gens
+935596	topo
+935659	topo
+935679	pers
+935681	pers
+935685	pers
+935688	gens
+935703	topo
+935737	pers
+gens
+935806	pers
+935809	gens
+935864	gens
+935877	pers
+935889	gens
+935916	gens
+935928	n.d.
+pers
+935948	n.d.
+935950	pers
+935964	gens
+936267	n.d.
+936282	n.d.
+936285	gens
+936297	gens
+936372	n.d.
+936380	n.d.
+936623	gens
+936630	gens
+936731	gens
+pers
+936766	topo
+936770	pers
+936783	pers
+936794	pers
+pers
+936813	n.d.
+936830	n.d.
+936845	gens
+936915	pers
+936938	n.d.
+936942	topo
+936948	pers
+936950	pers
+936952	pers
+pers
+pers
+936958	pers
+936980	topo
+936982	topo
+936986	pers
+936988	pers
+936994	pers
+937021	gens
+topo
+937024	topo
+937033	topo
+937086	topo
+937121	topo
+937217	topo
+937267	topo
+937287	topo
+937305	topo
+937331	topo
+937348	topo
+937352	topo
+937362	topo
+937371	topo
+937384	topo
+937399	topo
+937402	pers
+937417	pers
+937434	topo
+937438	topo
+937440	topo
+937535	pers
+937545	topo
+937561	topo
+937586	topo
+937598	topo
+937618	topo
+937628	topo
+937648	topo
+937665	topo
+937699	topo
+937740	pers
+937749	topo
+937767	topo
+937780	topo
+topo
+937798	topo
+937818	pers
+937833	topo
+937842	pers
+937859	pers
+937879	pers
+937899	topo
+937913	topo
+937915	topo
+937964	topo
+937985	topo
+topo
+938010	topo
+938016	topo
+938018	topo
+topo
+pers
+938033	topo
+938076	topo
+938084	topo
+938094	topo
+938120	n.d.
+938166	n.d.
+938181	pers
+938212	n.d.
+938222	n.d.
+938268	pers
+938399	pers
+938401	pers
+938437	pers
+938439	pers
+938452	pers
+938477	pers
+938485	n.d.
+938516	topo
+938526	pers
+938533	n.d.
+938539	n.d.
+938553	n.d.
+938557	pers
+938569	topo
+938593	pers
+938601	n.d.
+938604	n.d.
+938618	n.d.
+938620	pers
+938659	n.d.
+938661	pers
+938683	pers
+938816	n.d.
+938860	topo
+938862	topo
+938893	gens
+938966	gens
+938968	pers
+938978	gens
+938984	topo
+939007	gens
+939049	gens
+939080	pers
+939083	pers
+939088	pers
+gens
+939095	pers
+939098	pers
+939220	gens
+939245	n.d.
+939269	topo
+939272	topo
+939274	topo
+939279	topo
+939281	topo
+939287	topo
+939289	topo
+939299	topo
+939308	topo
+939316	topo
+939326	gens
+939367	pers
+939383	n.d.
+939391	pers
+939414	pers
+939499	n.d.
+939549	topo
+939555	n.d.
+939560	gens
+939567	n.d.
+939601	topo
+939614	pers
+939638	gens
+939657	gens
+939659	gens
+939668	topo
+939673	topo
+939678	gens
+939691	pers
+gens
+939710	n.d.
+n.d.
+939716	n.d.
+n.d.
+939720	topo
+939723	topo
+939730	topo
+939735	n.d.
+939741	pers
+939744	pers
+939783	n.d.
+939817	pers
+939821	topo
+939823	topo
+939834	n.d.
+939846	topo
+topo
+939849	gens
+939852	n.d.
+939854	gens
+939902	n.d.
+939908	n.d.
+939923	topo
+939949	topo
+939960	topo
+939964	gens
+939967	n.d.
+939981	topo
+939989	gens
+940031	gens
+940041	topo
+940065	topo
+940090	gens
+940109	topo
+940275	gens
+940285	gens
+940326	gens
+940347	pers
+940357	n.d.
+940398	topo
+940401	topo
+940407	topo
+940411	topo
+940414	topo
+940447	pers
+940449	topo
+940454	topo
+940462	topo
+940464	pers
+940506	gens
+940545	topo
+940548	gens
+940550	gens
+940570	gens
+940685	gens
+940722	n.d.
+940775	gens
+940792	pers
+940795	gens
+940807	gens
+940810	topo
+940843	n.d.
+940847	n.d.
+940849	pers
+940854	pers
+940875	gens
+940883	pers
+940886	pers
+940907	pers
+940914	gens
+940930	gens
+940935	pers
+940950	gens
+940955	n.d.
+940977	n.d.
+941059	n.d.
+941139	n.d.
+941154	pers
+941198	gens
+941200	pers
+941242	n.d.
+941296	n.d.
+941359	gens
+941371	gens
+941380	n.d.
+941390	n.d.
+941444	n.d.
+941473	n.d.
+941548	gens
+941569	gens
+topo
+941593	topo
+941620	n.d.
+941630	pers
+941647	gens
+941661	n.d.
+941705	gens
+941728	pers
+941775	n.d.
+941805	pers
+941821	pers
+941825	pers
+941832	gens
+941852	pers
+941870	pers
+941876	pers
+941895	n.d.
+941900	gens
+941908	pers
+941917	pers
+941923	pers
+941947	pers
+941955	pers
+941958	gens
+gens
+941961	pers
+941974	topo
+941989	n.d.
+941996	pers
+942014	n.d.
+942019	n.d.
+942021	pers
+942110	pers
+942134	n.d.
+942143	pers
+942148	gens
+942153	pers
+942157	pers
+942167	topo
+942171	topo
+942201	pers
+942204	gens
+942214	n.d.
+942231	pers
+942300	gens
+942304	gens
+942307	pers
+942324	topo
+942328	topo
+942343	topo
+942354	pers
+942361	topo
+942370	n.d.
+942381	n.d.
+942402	n.d.
+942405	gens
+942407	pers
+942409	pers
+942423	gens
+942430	n.d.
+942440	n.d.
+942471	topo
+942473	topo
+topo
+942495	n.d.
+942500	gens
+942510	n.d.
+942517	n.d.
+942535	n.d.
+942538	pers
+942543	pers
+942590	topo
+942594	pers
+942654	pers
+942770	gens
+942773	pers
+942836	topo
+942852	pers
+942899	gens
+942901	pers
+942903	n.d.
+942959	pers
+942990	pers
+943015	n.d.
+943042	n.d.
+943073	pers
+n.d.
+943088	n.d.
+943145	topo
+943237	pers
+943245	pers
+943274	topo
+943369	topo
+943424	topo
+943460	pers
+943487	pers
+943490	pers
+943494	pers
+943499	pers
+943502	topo
+943506	topo
+943508	topo
+943555	topo
+topo
+943638	pers
+943645	gens
+943682	pers
+943732	n.d.
+n.d.
+944091	topo
+944125	n.d.
+944127	pers
+944132	pers
+944183	gens
+944439	pers
+944570	pers
+944611	pers
+944650	gens
+944668	topo
+944699	pers
+944701	pers
+944705	pers
+944709	pers
+944711	pers
+944715	pers
+944720	pers
+944725	pers
+944732	pers
+944737	pers
+944749	pers
+944753	pers
+944756	pers
+944774	pers
+944779	pers
+944782	pers
+944787	pers
+944790	pers
+944796	pers
+944798	pers
+944808	pers
+944813	pers
+944817	pers
+944823	pers
+944828	pers
+944962	n.d.
+944971	n.d.
+944978	n.d.
+945005	pers
+945085	pers
+945167	topo
+945254	pers
+945306	topo
+945392	n.d.
+945496	pers
+945700	gens
+945712	pers
+945728	pers
+945730	topo
+945744	gens
+945747	gens
+945755	pers
+945772	pers
+945790	n.d.
+945797	pers
+945842	pers
+pers
+945890	pers
+945892	pers
+945918	pers
+945927	pers
+945940	pers
+945944	pers
+945953	pers
+945997	topo
+946003	topo
+946006	pers
+946079	pers
+946087	pers
+946092	pers
+946094	pers
+946102	pers
+946104	pers
+946119	topo
+946123	topo
+946125	topo
+946180	topo
+946208	pers
+946211	topo
+946218	pers
+946234	topo
+pers
+946243	pers
+946247	n.d.
+946249	pers
+946287	pers
+946291	pers
+946294	pers
+946296	pers
+946299	pers
+946304	pers
+946326	pers
+946333	pers
+946335	pers
+946339	pers
+946342	pers
+946369	pers
+pers
+pers
+946380	n.d.
+946382	pers
+pers
+946385	pers
+946388	pers
+946391	pers
+946393	pers
+946395	pers
+946397	pers
+946416	topo
+946450	topo
+946452	pers
+946474	topo
+946482	pers
+946488	n.d.
+946493	pers
+pers
+946496	pers
+946511	pers
+946514	pers
+946660	pers
+946679	pers
+946681	pers
+946689	topo
+946700	topo
+946703	topo
+946706	n.d.
+946713	topo
+946738	pers
+946765	gens
+946767	gens
+946769	gens
+946866	gens
+947197	pers
+947202	pers
+947238	pers
+947327	topo
+947365	pers
+947458	pers
+947479	pers
+947498	pers
+947521	pers
+947529	pers
+947542	topo
+947552	pers
+947561	pers
+947565	pers
+947570	pers
+947577	pers
+947581	topo
+947586	topo
+947588	pers
+947595	pers
+947597	topo
+947602	topo
+947608	pers
+947615	pers
+topo
+947623	topo
+947647	pers
+pers
+947656	pers
+947660	pers
+947662	pers
+947667	pers
+947671	pers
+947676	pers
+947683	pers
+947688	pers
+pers
+947718	pers
+947730	pers
+947734	gens
+947740	pers
+947748	gens
+947756	pers
+947781	gens
+947787	pers
+947817	gens
+947831	pers
+947839	pers
+947842	pers
+947882	pers
+947889	gens
+947897	gens
+947904	gens
+947916	pers
+947919	pers
+947950	pers
+947987	pers
+948077	gens
+948131	gens
+948138	gens
+948530	gens
+948539	pers
+948544	gens
+948561	pers
+948638	pers
+948658	gens
+948792	gens
+948807	gens
+948891	gens
+948930	pers
+948936	gens
+949282	gens
+949290	pers
+949319	pers
+949332	gens
+949362	gens
+949393	pers
+949619	gens
+949872	pers
+950078	pers
+950132	topo
+950144	topo
+950221	pers
+950242	pers
+950296	gens
+950303	gens
+950315	pers
+950317	topo
+950322	pers
+950427	pers
+950436	gens
+950460	pers
+950477	gens
+950483	gens
+950489	pers
+950497	pers
+950552	topo
+950558	gens
+950625	pers
+950630	gens
+950638	gens
+950640	pers
+950651	gens
+950669	gens
+950687	pers
+950713	pers
+950728	pers
+950746	gens
+950750	pers
+950914	pers
+951227	pers
+951230	gens
+951284	gens
+951290	gens
+951409	pers
+951411	gens
+951530	pers
+951546	gens
+951595	pers
+951628	n.d.
+951631	n.d.
+951794	gens
+951819	gens
+951826	gens
+951837	pers
+951849	gens
+951861	pers
+951865	gens
+951875	pers
+951888	gens
+951892	pers
+951909	gens
+951959	gens
+951962	topo
+952021	gens
+952052	gens
+952084	gens
+952116	gens
+952124	gens
+952171	gens
+952256	gens
+952266	gens
+952279	gens
+952282	pers
+952338	pers
+952463	gens
+952465	gens
+952469	pers
+952471	gens
+952553	pers
+952724	gens
+952733	gens
+952975	pers
+952977	pers
+952980	gens
+953225	pers
+953551	gens
+953572	pers
+953576	gens
+953593	pers
+953653	gens
+954029	gens
+954034	pers
+954207	gens
+954781	pers
+954802	pers
+954930	gens
+954948	gens
+954985	gens
+955118	pers
+pers
+955140	gens
+955145	gens
+955156	gens
+955180	pers
+955192	pers
+955194	pers
+955220	gens
+955264	gens
+955506	topo
+955998	n.d.
+956274	n.d.
+956565	gens
+956597	gens
+956702	gens
+956806	gens
+956812	gens
+956815	gens
+956838	pers
+956869	pers
+956874	gens
+956884	pers
+957304	pers
+957306	n.d.
+957308	gens
+957378	pers
+957542	n.d.
+957547	gens
+957948	pers
+957953	pers
+957957	pers
+957959	pers
+957961	pers
+957963	pers
+957967	pers
+957972	pers
+957986	pers
+957988	pers
+pers
+957993	pers
+957996	pers
+958001	pers
+958005	pers
+958019	pers
+958023	pers
+958027	pers
+958033	pers
+958035	pers
+958039	pers
+958043	pers
+pers
+958048	pers
+958057	pers
+958061	pers
+958065	pers
+958069	pers
+958073	pers
+958075	pers
+958077	pers
+958079	pers
+958083	pers
+958085	pers
+958089	pers
+958093	pers
+958097	pers
+958100	pers
+958104	pers
+958108	pers
+958112	pers
+958129	pers
+958132	pers
+958140	pers
+pers
+958143	pers
+958147	pers
+958164	pers
+958166	pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+958177	pers
+pers
+958181	pers
+958187	pers
+958192	pers
+958197	pers
+pers
+pers
+pers
+pers
+pers
+pers
+958207	pers
+pers
+958211	pers
+958214	pers
+pers
+958229	pers
+958233	pers
+958249	pers
+958254	pers
+958258	pers
+958260	pers
+958264	pers
+958278	pers
+958288	pers
+958297	pers
+958307	pers
+958313	pers
+958319	pers
+958325	pers
+958329	pers
+958331	pers
+958333	pers
+958335	pers
+958343	pers
+958362	pers
+pers
+pers
+958377	pers
+958386	pers
+958391	pers
+958397	pers
+958402	pers
+958408	pers
+958414	pers
+958422	pers
+958426	pers
+958430	pers
+958436	pers
+958442	pers
+958450	pers
+958455	pers
+958461	pers
+958465	pers
+958471	pers
+958477	pers
+958481	pers
+958485	pers
+958489	pers
+958496	pers
+958501	pers
+958507	pers
+958514	pers
+958520	pers
+958528	pers
+958533	pers
+958537	pers
+958543	pers
+958549	pers
+958551	pers
+958566	pers
+958568	pers
+958574	pers
+958576	pers
+958578	pers
+958586	pers
+958589	pers
+958593	pers
+958599	pers
+958614	pers
+958632	pers
+958635	pers
+958647	pers
+958661	pers
+958667	pers
+958671	pers
+958678	pers
+958687	pers
+958696	pers
+958702	pers
+958706	pers
+958710	pers
+958720	pers
+958728	pers
+958736	pers
+958744	pers
+958756	pers
+958760	pers
+958763	pers
+958768	pers
+958771	pers
+958773	pers
+958778	pers
+958783	pers
+958788	pers
+958793	pers
+958798	pers
+958802	pers
+958804	pers
+958808	pers
+958814	pers
+958818	pers
+958823	pers
+958826	pers
+958830	pers
+958833	pers
+958838	pers
+958840	pers
+958844	pers
+958850	pers
+958852	pers
+958857	pers
+958859	pers
+958866	pers
+958868	pers
+958871	pers
+958873	pers
+958875	pers
+958877	pers
+958881	pers
+958884	pers
+958887	pers
+958892	pers
+958895	pers
+958897	pers
+958900	pers
+958902	pers
+958909	pers
+958911	pers
+958913	pers
+958917	pers
+958919	pers
+958925	pers
+958935	pers
+958939	pers
+958945	pers
+958952	pers
+958956	pers
+958966	pers
+958968	pers
+958970	pers
+958976	pers
+958981	MN
+958985	pers
+958991	pers
+958997	pers
+959014	pers
+959018	pers
+959027	pers
+959031	pers
+959061	pers
+pers
+959080	pers
+959097	pers
+pers
+pers
+pers
+959105	pers
+959111	pers
+959116	pers
+959141	pers
+959144	pers
+pers
+pers
+959149	pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+959172	pers
+pers
+959187	pers
+pers
+959198	pers
+959203	pers
+959210	pers
+959214	pers
+pers
+pers
+pers
+959238	pers
+pers
+959245	pers
+959247	pers
+959249	pers
+pers
+959252	pers
+959322	pers
+959324	pers
+959327	pers
+pers
+pers
+959340	pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+959354	pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+959373	pers
+959384	pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+959398	pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+pers
+959416	pers
+959418	pers
+pers
+959421	pers
+959424	pers
+pers
+959427	pers
+pers
+pers
+959431	pers
+959433	pers
+959435	pers
+pers
+959439	pers
+pers
+959444	pers
+pers
+pers
+959448	topo
+pers
+959451	pers
+pers
+959457	pers
+pers
+959468	pers
+959475	pers
+959477	topo
+gens
+959486	pers
+959488	pers
+959494	pers
+959496	pers
+959526	pers
+959531	pers
+959537	pers
+959550	pers
+gens
+959557	pers
+959602	pers
+959626	pers
+959632	pers
+959634	pers
+959639	pers
+959641	pers
+959663	n.d.
+959665	pers
+959674	pers
+959676	pers
+pers
+959695	gens
+959735	n.d.
+959738	topo
+959741	gens
+959744	topo
+959748	topo
+959755	topo
+959761	topo
+topo
+topo
+959767	topo
+pers
+959772	topo
+959775	topo
+959780	topo
+topo
+959785	topo
+959788	topo
+959790	topo
+959793	topo
+pers
+959796	topo
+959798	topo
+topo
+959802	topo
+959804	pers
+959811	n.d.
+959828	n.d.
+959842	topo
+959859	topo
+959880	topo
+959894	n.d.
+959927	topo
+959936	pers
+959940	n.d.
+959944	topo
+959948	n.d.
+959953	topo
+959974	n.d.
+959981	n.d.
+959984	n.d.
+960004	n.d.
+960012	n.d.
+960026	n.d.
+960030	n.d.
+960056	n.d.
+960058	topo
+topo
+topo
+960064	n.d.
+960068	n.d.
+960073	gens
+960079	n.d.
+960150	n.d.
+960155	n.d.
+n.d.
+960159	gens
+pers
+960163	pers
+960202	n.d.
+n.d.
+960205	pers
+960216	n.d.
+960257	topo
+960267	topo
+960274	pers
+960279	n.d.
+960284	n.d.
+960289	n.d.
+960291	pers
+960298	gens
+960315	topo
+960323	gens
+960330	topo
+960337	gens
+960345	pers
+960356	n.d.
+960362	n.d.
+960411	pers
+960413	gens
+960420	topo
+960423	topo
+960429	topo
+960437	pers
+960456	n.d.
+960473	topo
+960496	pers
+960507	pers
+960509	pers
+960525	pers
+960583	n.d.
+960590	pers
+960602	n.d.
+960699	n.d.
+pers
+960741	n.d.
+960743	pers
+960809	gens
+960819	gens
+960827	n.d.
+960857	n.d.
+960876	n.d.
+960894	gens
+960916	topo
+960918	n.d.
+960922	pers
+960925	n.d.
+960928	gens
+n.d.
+960931	pers
+960937	gens
+961010	pers
+961084	gens
+961087	topo
+961111	gens
+961135	pers
+961183	pers
+961197	pers
+961202	pers
+pers
+961225	gens
+961231	n.d.
+961238	pers
+961240	pers
+961244	pers
+961247	pers
+pers
+961250	pers
+961257	pers
+961262	topo
+961347	topo
+961349	topo
+961352	topo
+961360	topo
+961363	pers
+961365	pers
+961367	pers
+961369	pers
+961371	topo
+961375	topo
+topo
+961381	topo
+961406	topo
+gens
+961412	topo
+961434	pers
+961447	n.d.
+961450	pers
+961456	pers
+961460	pers
+gens
+961472	topo
+961511	gens
+961515	gens
+961534	gens
+961578	pers
+961581	pers
+961586	pers
+961592	pers
+961602	pers
+961605	pers
+961607	pers
+961791	topo
+961841	n.d.
+961868	gens
+961873	n.d.
+961916	n.d.
+961918	pers
+961973	n.d.
+961993	n.d.
+961995	pers
+962034	n.d.
+962043	n.d.
+962048	pers
+962051	pers
+962079	n.d.
+962098	topo
+962110	topo
+962112	pers
+962124	n.d.
+962139	n.d.
+962145	pers
+962230	pers
+962233	pers
+962359	n.d.
+962373	n.d.
+962381	n.d.
+962475	n.d.
+962493	n.d.
+962506	gens
+962514	topo
+962528	pers
+962538	gens
+pers
+962558	pers
+962574	gens
+962593	gens
+962605	topo
+962616	pers
+962637	pers
+962657	gens
+962659	pers
+962669	topo
+962676	pers
+962679	pers
+962682	pers
+pers
+962794	pers
+962798	pers
+962820	n.d.
+962872	n.d.
+962913	topo
+962925	gens
+962943	n.d.
+962978	n.d.
+963008	pers
+963015	gens
+963036	topo
+963039	pers
+963041	pers
+963045	topo
+963053	n.d.
+963119	pers
+963124	gens
+963128	n.d.
+963134	pers
+963144	n.d.
+963163	topo
+963243	n.d.
+963275	n.d.
+963360	pers
+963365	n.d.
+963431	gens
+963478	gens
+963497	pers
+pers
+963501	pers
+pers
+963520	pers
+963535	pers
+963538	pers
+963542	n.d.
+963558	pers
+963564	n.d.
+963570	topo
+963575	gens
+963628	pers
+963662	gens
+963666	gens
+963705	n.d.
+963722	pers
+963789	n.d.
+963798	n.d.
+963802	pers
+963838	n.d.
+963850	topo
+963852	topo
+topo
+topo
+963856	pers
+963859	gens
+963862	n.d.
+963880	gens
+963906	pers
+963916	pers
+963919	pers
+963922	pers
+963924	pers
+963931	pers
+963956	pers
+963976	pers
+963979	pers
+963991	n.d.
+963995	n.d.
+964048	topo
+964058	topo
+964060	topo
+964077	gens
+964095	n.d.
+964120	pers
+pers
+964123	pers
+964125	pers
+pers
+964128	pers
+964157	pers
+964175	n.d.
+964177	gens
+964182	pers
+964235	gens
+964239	gens
+964242	pers
+964275	topo
+964277	n.d.
+964283	n.d.
+964288	topo
+964290	topo
+964296	n.d.
+964302	n.d.
+964320	gens
+964341	pers
+964355	n.d.
+964366	n.d.
+964426	n.d.
+964627	pers
+964674	n.d.
+964680	pers
+964687	gens
+964706	n.d.
+964771	pers
+964865	n.d.
+964916	pers
+964918	pers
+964923	topo
+965164	pers
+965323	gens
+965364	n.d.
+965458	n.d.
+965488	pers
+965491	pers
+pers
+965495	gens
+pers
+965498	pers
+pers
+965501	gens
+pers
+pers
+965505	pers
+pers
+965532	n.d.
+965535	pers
+965543	topo
+965577	gens
+965579	gens
+965602	pers
+965604	pers
+965612	pers
+965614	gens
+965616	gens
+965631	gens
+965635	gens
+965647	pers
+965653	gens
+965678	n.d.
+965683	n.d.
+965737	pers
+965787	gens
+965803	gens
+965817	pers
+965832	pers
+965854	topo
+965858	n.d.
+965904	gens
+965924	n.d.
+965930	gens
+965935	n.d.
+965983	n.d.
+965988	n.d.
+965994	n.d.
+966004	n.d.
+n.d.
+966013	n.d.
+966021	topo
+966044	gens
+966047	n.d.
+966049	pers
+966062	n.d.
+966089	pers
+966190	pers
+966208	pers
+966236	gens
+966259	gens
+966277	topo
+966282	pers
+966303	gens
+966306	gens
+966308	topo
+966344	topo
+966346	n.d.
+966349	pers
+966366	n.d.
+966381	gens
+topo
+966388	topo
+966401	pers
+966406	n.d.
+966414	topo
+966418	pers
+966420	topo
+966423	pers
+966437	gens
+966440	topo
+966443	pers
+966456	pers
+966472	pers
+966478	pers
+966480	topo
+pers
+966484	topo
+966488	topo
+966490	gens
+966494	pers
+966496	pers
+966516	pers
+966528	pers
+966530	pers
+966535	pers
+966539	n.d.
+966555	gens
+966560	topo
+966562	gens
+966573	topo
+966577	topo
+966579	topo
+966584	gens
+966594	gens
+966621	n.d.
+966629	gens
+966633	n.d.
+966643	n.d.
+966682	topo
+966689	topo
+966730	topo
+966732	topo
+966737	n.d.
+966740	topo
+966750	topo
+966869	gens
+966890	gens
+966896	gens
+966904	gens
+966914	gens
+966933	gens
+966944	topo
+966964	gens
+966976	gens
+967016	gens
+967077	pers
+967093	topo
+967119	gens
+967130	gens
+967135	n.d.
+967153	pers
+967175	pers
+967178	pers
+967188	gens
+967196	topo
+967199	gens
+967228	n.d.
+967240	pers
+967246	pers
+967248	pers
+967251	topo
+967258	gens
+967261	gens
+967264	topo
+967275	topo
+topo
+967290	pers
+967302	gens
+967311	gens
+967359	pers
+967362	pers
+967370	gens
+967376	gens
+967406	pers
+967412	pers
+967437	gens
+967686	topo
+967734	gens
+967781	n.d.
+967785	n.d.
+967788	n.d.
+967793	gens
+967799	n.d.
+n.d.
+967809	gens
+n.d.
+967814	topo
+967828	topo
+967833	n.d.
+967849	gens
+967879	n.d.
+968138	pers
+968196	n.d.
+968209	pers
+968211	gens
+968236	pers
+pers
+968421	topo
+968487	gens
+968554	topo
+968567	topo
+968665	gens
+968703	topo
+968710	gens
+topo
+968715	gens
+968725	gens
+968820	gens
+968925	gens
+968927	gens
+969020	pers
+969027	pers
+969067	pers
+969079	pers
+969103	pers
+969105	pers
+969113	pers
+969115	pers
+969120	topo
+969122	pers
+969124	pers
+969137	pers
+969146	gens
+969156	gens
+969179	pers
+969211	pers
+969300	gens
+969318	gens
+971627	topo
+971785	n.d.
+971788	gens
+n.d.
+971793	gens
+971799	pers
+971802	gens
+971816	n.d.
+971897	n.d.
+971972	n.d.
+971994	n.d.
+972021	n.d.
+n.d.
+972024	n.d.
+972028	n.d.
+972207	gens
+972229	gens
+973527	pers
+974079	gens
+975445	pers
+975949	pers
+976210	pers
+976340	topo
+976344	pers
+976362	pers
+976823	pers
+976838	topo
+976857	gens
+977194	pers
+977725	topo
+977727	pers
+977729	topo
+977831	topo
+978315	topo
+978382	n.d.
+978410	n.d.
+978695	n.d.
+978815	n.d.
+979105	n.d.
+979390	topo
+979470	topo
+979472	topo
+979517	n.d.
+979700	n.d.
+979818	n.d.
+979824	n.d.
+979828	n.d.
+980342	n.d.
+980363	topo
+980367	pers
+980373	gens
+980413	pers
+980473	pers
+980501	n.d.
+980506	n.d.
+980527	pers
+980619	gens
+pers
+980622	pers
+pers
+980628	topo
+980636	n.d.
+980656	pers
+980732	gens
+980737	gens
+980766	gens
+980777	gens
+980780	n.d.
+980789	gens
+980791	gens
+980794	pers
+980801	gens
+980846	n.d.
+980850	n.d.
+980860	pers
+980863	pers
+980865	pers
+980872	gens
+980880	pers
+980888	n.d.
+980923	gens
+980930	pers
+980936	n.d.
+980941	topo
+980947	topo
+980949	topo
+980987	gens
+topo
+981030	pers
+981032	topo
+981046	pers
+pers
+981058	pers
+981070	n.d.
+981090	topo
+981096	pers
+981098	pers
+981104	pers
+981106	topo
+pers
+topo
+topo
+981121	n.d.
+981124	pers
+981127	gens
+981181	pers
+981190	topo
+981199	topo
+981201	topo
+981203	topo
+981205	pers
+981211	gens
+981291	pers
+981293	pers
+981311	pers
+981313	pers
+981339	pers
+981480	topo
+981530	n.d.
+981535	n.d.
+981537	pers
+981640	pers
+981654	pers
+pers
+981673	pers
+981675	pers
+981696	pers
+pers
+981713	n.d.
+981722	pers
+981739	pers
+981800	gens
+981817	topo
+981830	topo
+981937	pers
+982275	gens
+982508	gens
+982640	topo
+982747	gens
+982771	gens
+982921	gens
+topo
+982954	gens
+982978	gens
+983027	gens
+983073	gens
+983082	pers
+983233	gens
+983261	gens
+983278	topo
+983283	pers
+983305	pers
+983340	topo
+983536	gens
+983581	gens
+983608	gens
+983611	gens
+983619	gens
+983628	gens
+983673	gens
+983685	gens
+983700	gens
+983726	gens
+983750	gens
+983776	gens
+983785	gens
+983792	gens
+983819	gens
+983836	gens
+983847	gens
+983850	gens
+983880	gens
+983917	gens
+983949	gens
+983958	gens
+983989	gens
+984040	gens
+984059	gens
+984069	gens
+gens
+gens
+984101	gens
+984129	gens
+984148	gens
+984192	gens
+984212	gens
+984220	gens
+984274	gens
+984296	gens
+984325	gens
+984327	gens
+984338	gens
+984350	gens
+984364	gens
+984381	gens
+984393	gens
+gens
+984414	gens
+984444	gens
+984449	gens
+gens
+gens
+984459	gens
+984465	gens
+984482	gens
+gens
+984499	gens
+984517	gens
+984520	gens
+984524	pers
+984532	gens
+984536	gens
+984550	gens
+984558	gens
+984567	gens
+984583	topo
+984586	n.d.
+984618	pers
+984642	gens
+984729	gens
+984778	pers
+984798	gens
+984802	topo
+984818	gens
+984826	pers
+984831	pers
+984845	gens
+984861	gens
+984885	topo
+984940	pers
+984945	gens
+984978	gens
+985001	pers
+985061	n.d.
+985129	n.d.
+985155	gens
+985228	n.d.
+985253	topo
+985262	pers
+985319	pers
+985337	n.d.
+985342	n.d.
+985367	n.d.
+985440	pers
+985459	n.d.
+985467	gens
+985495	n.d.
+985516	topo
+985601	pers
+985617	pers
+985620	pers
+985702	n.d.
+985704	n.d.
+985714	n.d.
+985735	pers
+985737	pers
+985740	pers
+985763	n.d.
+985831	pers
+985857	n.d.
+985863	n.d.
+985929	n.d.
+985960	n.d.
+985966	pers
+985968	gens
+985988	gens
+986051	n.d.
+986133	n.d.
+986161	n.d.
+986358	pers
+986362	gens
+986377	gens
+986444	gens
+986447	gens
+986485	n.d.
+986574	n.d.
+987188	gens
+987386	gens
+987389	gens
+987468	gens
+987483	gens
+987498	gens
+987537	gens
+987589	gens
+987607	gens
+987670	gens
+987781	gens
+987817	pers
+987826	gens
+987834	pers
+987837	gens
+988005	topo
+988068	n.d.
+988079	n.d.
+988086	n.d.
+988141	n.d.
+988178	n.d.
+988189	gens
+988193	n.d.
+988240	n.d.
+988259	n.d.
+988284	pers
+988295	n.d.
+988298	n.d.
+988306	n.d.
+988317	gens
+988330	topo
+988333	gens
+988336	n.d.
+988339	topo
+988341	topo
+988345	pers
+988350	pers
+988357	pers
+topo
+988361	topo
+988364	topo
+topo
+988367	topo
+topo
+988371	topo
+topo
+988378	topo
+988383	topo
+988385	topo
+988390	topo
+988392	topo
+topo
+988396	topo
+988398	topo
+988401	topo
+988403	topo
+988405	topo
+988407	topo
+988409	pers
+988412	topo
+988415	pers
+988417	topo
+988420	topo
+988423	topo
+988426	topo
+988429	topo
+988431	topo
+988433	topo
+988436	topo
+988458	pers
+988460	pers
+988462	pers
+988465	topo
+988474	topo
+988480	n.d.
+988482	gens
+988491	topo
+988502	pers
+988511	n.d.
+988535	topo
+988541	gens
+988550	topo
+pers
+988553	pers
+988558	topo
+pers
+988570	topo
+988575	pers
+988578	pers
+988580	pers
+988584	pers
+988622	gens
+988624	n.d.
+988632	n.d.
+988638	gens
+988650	gens
+988657	gens
+988692	gens
+988706	gens
+989510	n.d.
+989526	n.d.
+989534	gens
+989547	n.d.
+989549	pers
+989553	pers
+989555	pers
+989557	pers
+989559	pers
+pers
+989567	n.d.
+989597	pers
+989599	topo
+topo
+topo
+989606	pers
+989609	n.d.
+989663	pers
+989678	gens
+989680	pers
+989683	pers
+989686	topo
+topo
+989690	pers
+989697	pers
+989717	gens
+989754	pers
+989772	topo
+989794	pers
+topo
+989819	pers
+989830	pers
+989838	pers
+989851	topo
+989872	topo
+989886	gens
+989929	gens
+989943	pers
+989966	pers
+989971	gens
+989975	gens
+989978	pers
+989996	pers
+990030	pers
+990055	gens
+990071	pers
+990094	n.d.
+990130	n.d.
+990162	pers
+990238	n.d.
+990253	n.d.
+990262	pers
+990300	n.d.
+990311	n.d.
+990322	n.d.
+990360	n.d.
+990388	n.d.
+990428	n.d.
+990538	topo
+990550	topo
+990624	topo
+990675	topo
+990683	n.d.
+990722	n.d.
+990735	n.d.
+990767	n.d.
+990787	n.d.
+990809	n.d.
+990812	n.d.
+990823	n.d.
+990827	n.d.
+990906	pers
+990908	pers
+990932	n.d.
+991036	n.d.
+991038	pers
+991040	pers
+991068	n.d.
+991118	pers
+991138	n.d.
+991166	pers
+991181	n.d.
+991194	pers
+991225	n.d.
+991233	pers
+991236	n.d.
+991257	n.d.
+991266	pers
+991273	n.d.
+991286	n.d.
+991289	n.d.
+991294	n.d.
+991365	n.d.
+991467	n.d.
+topo
+991470	n.d.
+991472	gens
+991480	n.d.
+991483	n.d.
+991497	pers
+991529	n.d.
+991536	n.d.
+n.d.
+991539	n.d.
+991547	n.d.
+991555	n.d.
+991575	n.d.
+991615	n.d.
+991656	topo
+991678	pers
+991685	gens
+991693	n.d.
+991721	gens
+991767	n.d.
+991777	pers
+991789	n.d.
+991793	gens
+991805	n.d.
+991839	n.d.
+991843	n.d.
+991852	n.d.
+991864	n.d.
+991900	n.d.
+991906	pers
+991910	n.d.
+991941	n.d.
+991973	pers
+991976	pers
+991980	pers
+992031	topo
+992033	pers
+992035	pers
+pers
+992061	pers
+992105	pers
+992118	pers
+992135	pers
+992173	pers
+992206	pers
+992220	topo
+992234	pers
+992263	topo
+992266	topo
+992303	pers
+992324	topo
+992332	pers
+pers
+992340	gens
+992343	gens
+992530	pers
+993205	n.d.
+993230	n.d.
+993334	n.d.
+993540	n.d.
+993554	n.d.
+993593	n.d.
+993660	n.d.
+993668	n.d.
+993680	gens
+993725	n.d.
+993746	gens
+993765	gens
+993855	n.d.
+993887	n.d.
+993915	gens
+993918	n.d.
+993933	n.d.
+993970	gens
+993986	n.d.
+994005	pers
+994008	pers
+994025	n.d.
+994053	gens
+994057	gens
+994091	n.d.
+994120	n.d.
+994129	n.d.
+994150	pers
+994167	pers
+994253	n.d.
+994293	n.d.
+994301	pers
+994315	pers
+994324	pers
+994332	pers
+994335	gens
+994337	pers
+994345	pers
+994351	pers
+994360	pers
+994365	pers
+994374	pers
+994379	pers
+994391	n.d.
+994467	n.d.
+994599	gens
+994629	gens
+994652	gens
+994773	n.d.
+994857	gens
+994919	pers
+994921	topo
+topo
+995379	pers
+995389	n.d.
+995634	gens
+995682	gens
+995819	gens
+995833	n.d.
+995869	gens
+pers
+pers
+995873	pers
+995877	pers
+pers
+995880	pers
+995886	pers
+pers
+995889	pers
+995892	pers
+pers
+995895	pers
+995911	pers
+995925	pers
+995936	pers
+995939	pers
+995945	gens
+996062	pers
+996065	pers
+996072	pers
+996075	pers
+996088	pers
+996100	pers
+996111	pers
+996114	pers
+996124	pers
+996127	pers
+996134	pers
+996298	gens
+996488	pers
+996496	pers
+996501	pers
+996520	pers
+pers
+996540	pers
+996543	pers
+996552	pers
+996555	pers
+996557	gens
+pers
+pers
+996562	pers
+996567	pers
+996573	pers
+996579	pers
+996582	pers
+996709	n.d.
+996714	gens
+996831	gens
+997215	n.d.
+997220	n.d.
+997251	n.d.
+997440	gens
+997861	gens
+997882	n.d.
+997887	gens
+998355	n.d.
+998624	n.d.
+998635	n.d.
+998657	n.d.
+998663	topo
+998765	gens
+998811	n.d.
+998866	n.d.
+998935	gens
+gens
+999048	gens
+999060	gens
+999117	topo
+999187	gens
+999399	gens
+999423	gens
+999436	gens
+999461	gens
+999632	gens
+999835	gens
+999862	gens
+1000051	gens
+1000147	n.d.
+1000173	n.d.
+1000180	n.d.
+1000343	topo
+1000361	gens
+1000514	gens
+1000555	pers
+1000611	gens
+1000614	n.d.
+1000623	gens
+1000635	gens
+1000643	n.d.
+1000815	gens
+1000878	gens
+1001132	gens
+1001363	n.d.
+1001391	n.d.
+1001479	gens
+1001484	n.d.
+1001521	n.d.
+1001575	gens
+1001604	gens
+1001629	gens
+1001672	pers
+1001674	n.d.
+gens
+1001684	gens
+1001691	pers
+1001696	pers
+1001698	pers
+1001700	pers
+1001704	n.d.
+1001751	gens
+1001765	pers
+1001802	gens
+1001901	n.d.
+1001964	n.d.
+1002003	n.d.
+1002017	topo
+1002081	n.d.
+1002093	gens
+1002097	gens
+1002107	pers
+1002116	pers
+1002144	gens
+1002185	n.d.
+1002211	n.d.
+1002215	n.d.
+1002220	topo
+1002223	n.d.
+1002232	n.d.
+1002271	pers
+gens
+1002286	n.d.
+1002324	n.d.
+1002338	topo
+1002342	pers
+pers
+1002353	pers
+1002392	topo
+1002402	gens
+1002412	n.d.
+1002424	n.d.
+1002427	n.d.
+1002442	gens
+1002456	topo
+1002474	n.d.
+1002531	pers
+1002538	pers
+1002554	pers
+1002567	gens
+1002574	pers
+1002582	topo
+1002584	topo
+1002586	pers
+pers
+1002590	pers
+1002592	pers
+1002594	pers
+1002596	pers
+1002613	pers
+pers
+1002617	pers
+1002621	pers
+1002623	pers
+1002625	pers
+pers
+1002628	pers
+1002631	topo
+1002818	topo
+1002869	n.d.
+1002891	n.d.
+1002893	n.d.
+1002915	pers
+1002960	n.d.
+1002990	gens
+1003006	gens
+1003027	pers
+1003029	topo
+1003035	gens
+1003038	pers
+1003124	gens
+1003132	gens
+1003320	gens
+1003499	pers
+1003505	pers
+1003527	pers
+1003530	pers
+1003544	pers
+1003555	topo
+1003583	topo
+1003665	gens
+1003678	gens
+1003737	gens
+1003769	pers
+1003778	pers
+1003787	gens
+1003799	gens
+1003803	pers
+1003812	pers
+1003815	gens
+1003889	pers
+1003911	gens
+1003918	pers
+1003921	pers
+1003933	pers
+1003935	pers
+1003942	gens
+gens
+1004010	pers
+1004025	gens
+1004029	pers
+1004031	pers
+1004033	pers
+1004039	pers
+1004045	pers
+1004051	pers
+1004056	pers
+1004092	pers
+1004203	pers
+1004205	pers
+1004214	pers
+1004222	gens
+1004236	gens
+1004246	pers
+1004258	gens
+1004270	pers
+1004274	gens
+1004297	gens
+1004301	pers
+1004306	topo
+1004329	pers
+1004486	topo
+1004645	pers
+1004647	pers
+1004666	gens
+1004669	pers
+1004674	gens
+1004676	gens
+1004679	pers
+1004706	topo
+1004719	pers
+1004737	gens
+1004746	topo
+1004753	pers
+1004758	gens
+1004772	pers
+gens
+1004809	pers
+1004923	topo
+1004957	pers
+1004986	gens
+1005038	pers
+1005040	pers
+1005042	pers
+1005044	pers
+1005046	pers
+1005057	topo
+1005401	pers
+1005403	pers
+1005406	gens
+1006005	gens
+1006046	pers
+1006151	gens
+1006190	gens
+1006208	pers
+1006210	gens
+1006463	gens
+1006466	pers
+1006502	gens
+1006522	gens
+1006692	pers
+1006694	gens
+1006734	pers
+1006774	gens
+1006818	pers
+1006820	gens
+1006827	pers
+1006864	pers
+1006908	gens
+1006919	pers
+1006929	gens
+1006958	pers
+1006971	pers
+1007071	gens
+1007169	pers
+1007212	pers
+1007214	gens
+1007224	pers
+1007227	pers
+1007273	pers
+1007390	topo
+1007429	pers
+1007431	gens
+1007459	gens
+1007530	topo
+1007562	pers
+1007565	gens
+1007704	topo
+1007747	gens
+1007767	pers
+1007835	pers
+1007849	gens
+1007887	gens
+1007896	pers
+1008412	n.d.
+1008418	n.d.
+1008429	n.d.
+1008597	n.d.
+1008681	n.d.
+1008701	n.d.
+1009392	topo
+1010386	n.d.
+1010504	n.d.
+1010536	n.d.
+1010545	n.d.
+1010553	n.d.
+1010570	n.d.
+1010619	n.d.
+1010628	n.d.
+1010837	n.d.
+1011733	n.d.
+1011844	n.d.
+1011904	n.d.
+1011965	n.d.
+1012008	n.d.
+1012056	pers
+1012143	n.d.
+1012311	n.d.
+1012341	n.d.
+1012516	n.d.
+1012625	n.d.
+1012790	n.d.
+1012801	n.d.
+1012844	n.d.
+1012887	n.d.
+1013123	n.d.
+1014117	n.d.
+1014127	n.d.
+1014274	n.d.
+1014278	n.d.
+1014348	n.d.
+1014626	topo
+1014634	pers
+1014646	gens
+1014653	topo
+1014657	topo
+1015232	gens
+pers
+1016292	n.d.
+1016312	pers
+1016350	n.d.
+1016361	topo
+1017157	n.d.
+1017168	n.d.
+1017283	n.d.
+1017320	n.d.
+1017844	pers
+1017850	n.d.
+1017858	pers
+1017887	pers
+1017944	pers
+1017950	pers
+1017962	gens
+1018000	pers
+1018009	n.d.
+1018046	pers
+1018053	gens
+1018057	pers
+1018062	pers
+1018065	pers
+1018165	gens
+1018205	pers
+1018260	gens
+1018280	gens
+1018291	pers
+1018293	pers
+1018296	pers
+1018302	n.d.
+1018320	pers
+1018331	n.d.
+1018348	n.d.
+gens
+1018352	pers
+1018354	pers
+1018374	gens
+1018400	pers
+1018402	pers
+1018405	pers
+1018413	pers
+1018422	n.d.
+1018444	pers
+1018446	pers
+1018448	pers
+1018469	gens
+1018487	n.d.
+1018521	n.d.
+1018532	pers
+1018537	pers
+1018539	pers
+1018578	pers
+1018600	pers
+1018606	n.d.
+1018642	n.d.
+1018645	pers
+1018661	pers
+1018701	n.d.
+1018726	n.d.
+1018753	pers
+1018758	pers
+1018767	pers
+1018769	gens
+1018780	topo
+1018799	pers
+1018863	pers
+1018885	n.d.
+1018902	topo
+1018913	pers
+1018966	gens
+1019003	gens
+1019026	pers
+1019037	pers
+1019049	pers
+1019051	pers
+1019057	gens
+1019061	gens
+1019107	pers
+1019117	n.d.
+1019136	topo
+1019140	topo
+1019172	pers
+1019231	pers
+1019237	pers
+1019247	pers
+1019267	pers
+1019272	topo
+1019306	pers
+topo
+1019312	pers
+1019319	pers
+1019328	topo
+1019339	pers
+1019384	pers
+pers
+1019387	pers
+1019393	pers
+1019418	pers
+1019446	pers
+1019457	pers
+1019475	pers
+1019488	pers
+1019509	pers
+1019516	pers
+1019525	pers
+1019527	pers
+1019529	pers
+1019542	pers
+1019544	pers
+1019645	topo
+1019713	topo
+1019721	pers
+1019726	n.d.
+1019732	gens
+1019746	pers
+1019779	gens
+1019816	gens
+1019819	n.d.
+1019825	n.d.
+1019836	n.d.
+1019838	gens
+1019863	pers
+1019869	pers
+1019890	topo
+1019892	topo
+1019898	topo
+1019905	pers
+1019907	pers
+1019909	pers
+1019911	pers
+1019935	n.d.
+1020050	n.d.
+1020069	n.d.
+1020096	n.d.
+1020119	n.d.
+1020122	n.d.
+1020142	gens
+1020158	gens
+1020167	gens
+1020188	pers
+1020198	pers
+1020208	pers
+1020216	pers
+1020224	pers
+1020233	topo
+1020258	gens
+1020262	n.d.
+1020275	n.d.
+1020358	n.d.
+1020458	n.d.
+1020471	pers
+1020473	pers
+1020477	pers
+1020479	pers
+1020481	pers
+1020483	pers
+1020485	pers
+1020488	n.d.
+1020652	n.d.
+1021390	n.d.
+1021495	topo
+1022081	pers
+1022239	n.d.
+1022282	n.d.
+1022305	n.d.
+1022728	n.d.
+1022792	n.d.
+1022810	n.d.
+1022863	n.d.
+1023349	n.d.
+1023359	n.d.
+1023371	n.d.
+1023489	n.d.
+1023523	n.d.
+1023731	pers
+1023750	topo
+1023769	pers
+1023778	pers
+1023780	pers
+1023835	MN
+1023840	gens
+1023842	pers
+1023857	pers
+1023859	pers
+1023861	pers
+1023863	pers
+1023869	pers
+1023871	pers
+1023876	pers
+1023887	pers
+1023899	pers
+1023907	pers
+1023913	pers
+1023915	pers
+1023917	pers
+1023921	pers
+1023930	pers
+1023936	pers
+1023940	topo
+topo
+1023943	pers
+1023957	gens
+1023960	pers
+1023962	pers
+1023964	gens
+1023970	topo
+pers
+1023976	pers
+1023978	pers
+1023987	topo
+topo
+1023992	pers
+1023994	gens
+1024036	topo
+1024040	gens
+1024043	pers
+1024048	topo
+pers
+1024052	pers
+1024054	pers
+1024067	topo
+topo
+1024074	pers
+gens
+1024114	pers
+1024116	pers
+1024130	gens
+1024133	pers
+gens
+1024137	pers
+1024155	topo
+1024160	pers
+1024170	gens
+1024173	pers
+1024175	pers
+1024177	gens
+1024183	topo
+pers
+1024186	pers
+1024189	pers
+1024191	pers
+1024207	topo
+topo
+1024212	pers
+1024214	gens
+1024235	topo
+1024243	gens
+gens
+1024260	gens
+1024264	pers
+1024266	gens
+1024274	gens
+1024276	pers
+1024278	gens
+1024280	topo
+1024282	gens
+1024286	pers
+1024297	MN
+1024301	gens
+1024303	pers
+1024305	pers
+pers
+1024311	MN
+1024316	gens
+1024318	topo
+1024320	pers
+1024322	pers
+pers
+1024325	pers
+1024327	pers
+pers
+1024330	pers
+1024332	pers
+1024334	pers
+1024336	topo
+1024338	pers
+1024340	pers
+1024343	pers
+1024345	pers
+pers
+1024348	pers
+1024352	pers
+pers
+1024355	pers
+1024357	pers
+1024360	pers
+1024376	pers
+1024378	pers
+pers
+1024381	pers
+1024383	pers
+1024385	pers
+1024399	topo
+1024401	pers
+1024403	pers
+pers
+1024406	pers
+pers
+1024409	pers
+pers
+1024412	pers
+1024423	pers
+1024425	pers
+1024483	pers
+1024487	pers
+1024490	pers
+1024492	pers
+1024509	pers
+1024512	pers
+1024514	pers
+1024519	topo
+topo
+1024522	pers
+1024525	pers
+1024527	pers
+1024529	pers
+1024541	pers
+1024543	pers
+1024545	pers
+1024547	pers
+1024551	topo
+topo
+1024590	gens
+pers
+1024593	pers
+1024595	pers
+1024597	pers
+1024599	pers
+1024601	pers
+1024604	pers
+1024606	pers
+1024608	pers
+1024610	pers
+1024612	pers
+1024614	pers
+1024617	pers
+1024619	pers
+1024621	pers
+1024623	pers
+1024654	pers
+1024656	pers
+1024658	pers
+1024660	pers
+1024735	pers
+1024738	pers
+1024745	pers
+1024754	topo
+1024776	pers
+1024805	pers
+1024807	pers
+1024860	MN
+1024863	gens
+1024865	pers
+gens
+pers
+1024869	pers
+1024871	topo
+1024919	MN
+1024923	pers
+1024925	pers
+1024927	gens
+1024929	topo
+topo
+1024941	pers
+1024943	pers
+1024945	pers
+1024947	pers
+1024949	pers
+1024952	topo
+topo
+1024955	pers
+1024957	pers
+1024959	pers
+1024961	pers
+1024964	topo
+1024967	topo
+topo
+1024971	topo
+topo
+1024978	pers
+1024980	pers
+1024984	pers
+1024986	pers
+1024988	gens
+1024990	topo
+topo
+1025029	pers
+1025031	pers
+1025035	pers
+1025037	pers
+1025070	pers
+1025072	pers
+1025075	pers
+1025077	pers
+1025116	pers
+1025118	pers
+pers
+1025121	pers
+pers
+pers
+1025125	pers
+1025143	pers
+1025145	pers
+1025147	pers
+1025149	pers
+1025195	pers
+1025197	pers
+1025200	pers
+1025202	pers
+1025206	pers
+1025208	pers
+1025211	pers
+1025213	pers
+1025217	pers
+1025219	pers
+1025221	pers
+1025223	pers
+1025227	pers
+1025229	pers
+1025231	pers
+1025233	pers
+1025235	pers
+1025237	pers
+1025239	pers
+1025241	pers
+1025244	topo
+1025249	pers
+1025251	pers
+1025253	gens
+topo
+pers
+1025257	pers
+1025259	pers
+1025261	topo
+topo
+1025265	pers
+1025267	pers
+1025298	pers
+1025300	pers
+1025304	pers
+1025306	pers
+1025308	gens
+1025346	topo
+topo
+1025399	pers
+1025401	pers
+1025404	pers
+1025406	pers
+1025408	pers
+1025410	pers
+1025412	pers
+1025414	pers
+1025423	pers
+1025425	pers
+1025427	gens
+1025429	topo
+topo
+pers
+pers
+1025434	pers
+1025436	topo
+topo
+1025440	pers
+1025442	pers
+1025444	pers
+1025447	pers
+1025449	pers
+1025500	pers
+1025502	pers
+1025544	topo
+topo
+1025598	pers
+1025624	pers
+1025626	pers
+1025630	pers
+1025632	pers
+1025634	pers
+1025636	pers
+1025638	pers
+1025641	pers
+1025643	pers
+1025646	topo
+1025648	pers
+1025651	pers
+1025653	pers
+1025665	gens
+1025742	pers
+1025744	pers
+pers
+1025786	pers
+1025791	pers
+1025793	pers
+1025796	topo
+1025801	pers
+1025803	pers
+1025805	gens
+1025807	pers
+1025809	pers
+1025826	pers
+1025828	pers
+pers
+1025831	pers
+pers
+pers
+1025843	pers
+1025845	pers
+1025847	gens
+1025850	pers
+1025852	pers
+pers
+1025855	topo
+1025858	pers
+1025860	pers
+1025911	pers
+1025913	pers
+1025917	pers
+1025919	pers
+1025921	pers
+1025923	pers
+1025928	n.d.
+1025953	pers
+1025974	n.d.
+1025977	pers
+1025993	topo
+1026004	pers
+1026018	pers
+1026024	pers
+pers
+1026027	pers
+1026029	pers
+1026031	pers
+pers
+1026035	pers
+pers
+pers
+1026039	pers
+pers
+pers
+1026043	pers
+pers
+1026047	pers
+1026055	pers
+pers
+pers
+pers
+pers
+pers
+1026062	pers
+1026064	pers
+pers
+1026067	pers
+1026069	pers
+1026073	pers
+1026076	pers
+1026078	pers
+pers
+1026081	pers
+pers
+1026085	pers
+1026088	pers
+1026091	pers
+1026093	pers
+1026095	pers
+1026097	pers
+pers
+1026102	pers
+pers
+1026105	pers
+1026107	pers
+1026109	pers
+1026111	pers
+pers
+pers
+1026115	pers
+pers
+1026118	pers
+pers
+pers
+1026122	pers
+1026124	pers
+pers
+1026127	pers
+pers
+topo
+pers
+1026132	pers
+1026134	pers
+pers
+1026137	pers
+pers
+1026140	pers
+pers
+1026143	pers
+pers
+1026146	pers
+pers
+1026149	pers
+pers
+1026152	pers
+pers
+1026157	pers
+pers
+1026161	pers
+pers
+1026165	pers
+pers
+pers
+1026169	pers
+1026171	pers
+1026177	pers
+1026181	pers
+1026183	pers
+pers
+1026186	pers
+pers
+1026189	pers
+1026195	pers
+pers
+1026198	pers
+1026216	pers
+1026219	pers
+1026221	pers
+1026223	pers
+1026225	pers
+1026228	pers
+pers
+1026231	pers
+1026233	pers
+pers
+1026239	pers
+1026241	pers
+pers
+1026244	pers
+pers
+1026250	pers
+1026252	pers
+pers
+pers
+1026257	pers
+pers
+pers
+pers
+1026263	pers
+pers
+pers
+1026267	pers
+1026269	pers
+1026271	pers
+1026279	pers
+1026286	pers
+1026295	pers
+1026309	pers
+1026314	pers
+1026317	pers
+1026319	pers
+1026324	pers
+1026328	pers
+1026332	pers
+1026335	pers
+1026339	pers
+1026341	pers
+1026351	pers
+1026355	pers
+1026359	pers
+1026362	pers
+1026365	pers
+1026368	pers
+1026375	pers
+pers
+1026380	pers
+1026383	pers
+1026385	pers
+1026388	topo
+1026391	topo
+pers
+pers
+pers
+1026396	pers
+pers
+1026399	pers
+pers
+pers
+1026403	pers
+1026405	pers
+pers
+1026412	n.d.
+pers
+1026415	pers
+1026417	gens
+1026423	pers
+1026425	gens
+1026428	pers
+pers
+1026431	pers
+1026433	pers
+pers
+pers
+pers
+pers
+pers
+gens
+gens
+pers
+1026443	pers
+pers
+1026446	pers
+pers
+1026450	pers
+pers
+1026457	pers
+1026463	pers
+1026468	pers
+1026472	pers
+1026476	pers
+1026481	pers
+1026487	pers
+1026492	pers
+1026497	pers
+1026503	pers
+1026509	pers
+1026515	pers
+1026521	pers
+1026527	pers
+1026533	pers
+1026539	pers
+1026545	pers
+1026551	pers
+1026556	pers
+1026560	pers
+1026565	pers
+1026571	pers
+1026577	pers
+1026583	pers
+1026589	pers
+1026594	pers
+1026599	pers
+1026605	pers
+1026610	pers
+1026616	pers
+1026622	pers
+1026628	pers
+1026634	pers
+1026641	pers
+1026643	pers
+1026645	pers
+1026647	pers
+1026649	pers
+1026651	pers
+1026657	pers
+1026663	pers
+1026669	pers
+1026675	pers
+1026681	pers
+1026685	pers
+1026690	pers
+1026695	pers
+1026698	pers
+1026702	gens
+1026704	topo
+1026709	topo
+1026714	topo
+1026718	topo
+1026721	gens
+1026724	topo
+1026730	topo
+1026735	topo
+1026739	topo
+1026741	gens
+1026744	topo
+1026750	topo
+1026755	topo
+1026759	topo
+1026761	gens
+1026764	topo
+1026770	topo
+1026780	topo
+1026786	topo
+1026791	topo
+1026793	gens
+1026796	topo
+1026798	topo
+1026803	gens
+pers
+1026810	gens
+pers
+1026813	gens
+1026818	gens
+pers
+1026825	gens
+pers
+1026832	gens
+topo
+1026838	gens
+pers
+1026844	gens
+pers
+1026850	gens
+pers
+pers
+1026854	pers
+1026859	gens
+pers
+1026865	gens
+pers
+1026871	gens
+1026874	topo
+1026879	gens
+pers
+1026883	topo
+pers
+1026887	topo
+pers
+1026891	topo
+pers
+1026895	topo
+pers
+1026900	topo
+pers
+1026903	pers
+1026907	pers
+1026909	gens
+pers
+1026912	gens
+1026967	topo
+1026979	n.d.
+1026984	n.d.
+n.d.
+1026996	n.d.
+1026998	pers
+1027007	gens
+1027037	topo
+1027039	topo
+topo
+topo
+1027116	topo
+1027124	n.d.
+n.d.
+1027127	n.d.
+n.d.
+1027141	pers
+1027216	n.d.
+1027229	n.d.
+1027253	n.d.
+1027275	pers
+1027289	topo
+1027294	n.d.
+1027343	topo
+1027347	topo
+1027349	topo
+topo
+topo
+1027353	topo
+1027391	n.d.
+1027396	n.d.
+1027419	topo
+topo
+1027439	topo
+1027493	topo
+1027497	topo
+topo
+1027503	topo
+topo
+1027610	topo
+1027634	n.d.
+1027659	pers
+1027665	n.d.
+1027689	n.d.
+1027725	n.d.
+1027737	n.d.
+1027793	n.d.
+1027820	n.d.
+1027837	topo
+topo
+1027841	topo
+1027847	topo
+1027854	topo
+1027894	topo
+1027938	n.d.
+1027941	topo
+1027943	n.d.
+n.d.
+1027976	topo
+1028059	n.d.
+1028062	n.d.
+1028123	topo
+1028144	pers
+pers
+1028169	topo
+1028177	topo
+1028183	pers
+1028266	topo
+1028336	n.d.
+1028341	n.d.
+1028499	n.d.
+1028593	topo
+1028694	gens
+1028716	gens
+1028809	gens
+1028922	gens
+1028925	n.d.
+1028945	n.d.
+1028965	n.d.
+1029083	n.d.
+1029176	n.d.
+1029185	pers
+1029189	pers
+1029436	topo
+1029470	n.d.
+1029473	n.d.
+1029494	n.d.
+1029513	topo
+1029558	pers
+1029561	pers
+1029744	topo
+1029746	topo
+1029764	topo
+1029776	n.d.
+1029830	n.d.
+1029925	n.d.
+1029965	n.d.
+1029975	n.d.
+1029980	topo
+1029982	gens
+1029984	pers
+1029987	pers
+1029990	pers
+1029992	pers
+1029999	n.d.
+pers
+1030002	pers
+1030037	n.d.
+gens
+1030060	gens
+gens
+1030101	pers
+1030106	pers
+1030116	topo
+1030127	n.d.
+1030142	pers
+n.d.
+n.d.
+topo
+1030151	pers
+pers
+1030172	pers
+1030176	pers
+pers
+1030180	topo
+1030182	pers
+pers
+pers
+1030193	pers
+1030195	pers
+1030224	n.d.
+n.d.
+1030232	topo
+1030247	n.d.
+1030253	pers
+1030256	pers
+pers
+1030259	pers
+1030266	topo
+1030272	topo
+1030285	n.d.
+1030287	pers
+1030289	pers
+1030306	topo
+1030322	pers
+1030324	pers
+1030326	pers
+1030329	pers
+1030331	pers
+1030333	pers
+pers
+1030336	pers
+1030338	n.d.
+1030341	n.d.
+1030351	topo
+1030363	n.d.
+1030368	topo
+topo
+1030380	topo
+1030384	pers
+1030389	pers
+1030391	pers
+1030403	pers
+1030411	pers
+1030413	pers
+1030427	pers
+1030445	pers
+1030449	pers
+1030460	n.d.
+1030464	pers
+pers
+1030467	pers
+1030511	pers
+1030524	n.d.
+1030550	gens
+1030553	n.d.
+1030565	pers
+pers
+1030568	pers
+pers
+pers
+pers
+pers
+1030585	pers
+pers
+pers
+pers
+1030596	pers
+1030601	pers
+pers
+1030615	topo
+1030623	pers
+pers
+pers
+pers
+pers
+pers
+pers
+1030669	pers
+1030673	pers
+1030681	pers
+pers
+pers
+1030685	gens
+1030689	pers
+1030692	pers
+pers
+1030695	pers
+1030697	pers
+1030700	pers
+1030702	pers
+pers
+pers
+1030711	n.d.
+1030721	pers
+1030729	gens
+1030733	pers
+1030735	pers
+1030737	pers
+1030739	pers
+1030742	pers
+1030747	pers
+1030749	pers
+pers
+1030762	pers
+1030764	pers
+pers
+1030769	n.d.
+1030788	topo
+1030818	n.d.
+1030871	pers
+1030887	n.d.
+pers
+1030893	topo
+1030909	pers
+pers
+pers
+1030929	topo
+1030949	n.d.
+1030968	topo
+1031003	n.d.
+1031050	n.d.
+1031052	topo
+1031083	pers
+1031153	n.d.
+1031173	topo
+1031175	gens
+1031178	n.d.
+1031183	n.d.
+1031202	n.d.
+1031207	pers
+1031210	topo
+1031215	pers
+1031219	pers
+1031235	gens
+1031242	gens
+1031250	pers
+1031252	topo
+1031266	topo
+pers
+1031270	n.d.
+pers
+1031280	pers
+1031290	pers
+1031299	topo
+1031305	pers
+1031308	pers
+1031316	pers
+1031323	pers
+1031338	pers
+1031340	pers
+1031345	pers
+1031347	pers
+1031352	topo
+1031355	pers
+1031374	n.d.
+1031390	topo
+topo
+1031397	pers
+1031409	pers
+pers
+1031437	pers
+1031439	pers
+1031476	n.d.
+1031489	pers
+1031496	pers
+1031501	pers
+pers
+1031507	pers
+1031511	pers
+pers
+pers
+1031515	pers
+1031523	n.d.
+1031541	pers
+1031550	pers
+1031555	pers
+1031565	n.d.
+1031567	topo
+1031578	n.d.
+1031611	n.d.
+1031614	topo
+1031617	gens
+1031625	topo
+topo
+1031658	n.d.
+1031682	gens
+1031699	gens
+1031709	pers
+1031720	n.d.
+1031728	n.d.
+1031764	pers
+1031777	pers
+n.d.
+n.d.
+1031806	gens
+1031825	topo
+1031830	topo
+1031871	pers
+n.d.
+1031878	pers
+1031881	topo
+1031884	pers
+pers
+1031887	topo
+1031897	n.d.
+1031899	pers
+n.d.
+pers
+1031939	topo
+pers
+1031988	gens
+1032027	n.d.
+n.d.
+n.d.
+pers
+1032044	n.d.
+n.d.
+1032067	n.d.
+1032101	gens
+1032179	pers
+1032181	n.d.
+1032209	n.d.
+1032234	pers
+1032245	pers
+1032262	n.d.
+1032316	topo
+1032328	topo
+1032333	topo
+1032335	topo
+1032376	n.d.
+1032387	n.d.
+1032390	n.d.
+1032396	n.d.
+1032399	n.d.
+1032401	pers
+1032407	n.d.
+1032445	pers
+pers
+1032455	n.d.
+n.d.
+1032471	pers
+1032473	topo
+1032481	pers
+1032483	pers
+pers
+1032486	pers
+1032557	pers
+1032563	n.d.
+1032588	topo
+1032594	n.d.
+1032608	n.d.
+1032610	n.d.
+1032630	topo
+1032636	pers
+pers
+1032650	topo
+1032678	n.d.
+1032709	n.d.
+1032714	n.d.
+1032735	pers
+1032740	pers
+1032749	topo
+1032766	pers
+1032817	pers
+1032860	pers
+1032881	pers
+1032896	pers
+pers
+1032910	pers
+1032917	n.d.
+n.d.
+1032920	n.d.
+1032930	n.d.
+1032934	n.d.
+1032940	n.d.
+1032946	topo
+1032953	n.d.
+1032962	n.d.
+1032975	n.d.
+1033006	topo
+1033017	n.d.
+1033029	n.d.
+1033035	pers
+1033075	n.d.
+1033131	n.d.
+1033175	topo
+1033274	topo
+1033277	topo
+1033351	topo
+1033367	n.d.
+1033375	n.d.
+1034551	topo
+1034609	gens
+1034676	topo
+1034713	gens
+topo
+1034718	gens
+1034728	gens
+1034823	gens
+1034928	pers
+1034935	pers
+1034962	pers
+1034964	pers
+1034972	pers
+1034974	pers
+1034979	topo
+1034981	pers
+1034983	pers
+1034996	pers
+1035005	gens
+1035015	gens
+1035060	pers
+1035149	gens
+1035238	topo
+1035301	pers
+1035508	n.d.
+1035880	n.d.
+1036034	n.d.
+1036645	n.d.
+1037534	n.d.
+1037687	n.d.
+1038003	n.d.
+1038315	n.d.
+1038382	n.d.
+1039002	n.d.
+1039240	n.d.
+1039794	topo
+1040193	n.d.
+1040468	n.d.
+1040491	n.d.
+1040575	n.d.
+1040625	n.d.
+1040891	topo
+1041796	n.d.
+1042471	n.d.
+1043988	n.d.
+1044437	n.d.
+1044443	n.d.
+1044454	n.d.
+1044622	n.d.
+1044706	n.d.
+1044726	n.d.
+1045417	topo
+1046411	n.d.
+1046529	n.d.
+1046561	n.d.
+1046570	n.d.
+1046578	n.d.
+1046595	n.d.
+1046644	n.d.
+1046653	n.d.
+1046862	n.d.
+1047758	n.d.
+1047869	n.d.
+1047929	n.d.
+1047990	n.d.
+1048033	n.d.
+1048081	pers
+1048168	n.d.
+1048336	n.d.
+1048366	n.d.
+1048541	n.d.
+1048650	n.d.
+1048816	n.d.
+1048826	n.d.
+1048869	n.d.
+1048912	n.d.
+1049150	n.d.
+1050142	n.d.
+1050152	n.d.
+1050299	n.d.
+1050303	n.d.
+1050373	n.d.
+1050651	topo
+1050659	pers
+1050671	gens
+1050678	topo
+1050682	topo
+1051257	gens
+pers
+1052317	n.d.
+1052337	pers
+1052375	n.d.
+1052386	topo
+1053182	n.d.
+1053193	n.d.
+1053308	n.d.
+1053345	n.d.
+1053869	pers
+1053875	n.d.
+1053883	pers
+1053912	pers
+1053969	pers
+1053975	pers
+1053987	gens
+1054025	pers
+1054034	n.d.
+1054073	pers
+1054080	gens
+1054082	pers
+1054087	pers
+1054090	pers
+1054190	gens
+1054230	pers
+1054285	gens
+1054305	gens
+1054316	pers
+1054318	pers
+1054321	pers
+1054327	n.d.
+1054345	pers
+1054356	n.d.
+1054373	n.d.
+gens
+1054377	pers
+1054379	pers
+1054399	gens
+1054425	pers
+1054427	pers
+1054430	pers
+1054438	pers
+1054447	n.d.
+1054469	pers
+1054471	pers
+1054473	pers
+1054494	gens
+1054512	n.d.
+1054546	n.d.
+1054557	pers
+1054562	pers
+1054564	pers
+1054603	pers
+1054625	pers
+1054631	n.d.
+1054667	n.d.
+1054670	pers
+1054686	pers
+1054726	n.d.
+1054749	n.d.
+1054776	pers
+1054781	pers
+1054790	pers
+1054792	gens
+1054803	topo
+1054822	pers
+1054886	pers
+1054912	n.d.
+1054929	topo
+1054940	pers
+1054993	gens
+1055030	gens
+1055053	pers
+1055064	pers
+1055076	pers
+1055078	pers
+1055084	gens
+1055088	gens
+1055134	pers
+1055144	n.d.
+1055163	topo
+1055167	topo
+1055199	pers
+1055258	pers
+1055264	pers
+1055274	pers
+1055294	pers
+1055299	topo
+1055333	pers
+topo
+1055339	pers
+1055346	pers
+1055355	topo
+1055366	pers
+1055411	pers
+pers
+1055414	pers
+1055420	pers
+1055445	pers
+1055473	pers
+1055484	pers
+1055502	pers
+1055515	pers
+1055536	pers
+1055543	pers
+1055552	pers
+1055554	pers
+1055556	pers
+1055569	pers
+1055571	pers
+1055672	topo
+1055740	topo
+1055748	pers
+1055753	n.d.
+1055759	gens
+1055773	pers
+1055806	gens
+1055843	gens
+1055846	n.d.
+1055852	n.d.
+1055863	n.d.
+1055865	gens
+1055890	pers
+1055896	pers
+1055917	topo
+1055919	topo
+1055925	topo
+1055932	pers
+1055934	pers
+1055936	pers
+1055938	pers
+1055962	n.d.
+1056077	n.d.
+1056096	n.d.
+1056123	n.d.
+1056146	n.d.
+1056149	n.d.
+1056169	gens
+1056185	gens
+1056194	gens
+1056215	pers
+1056225	pers
+1056235	pers
+1056243	pers
+1056251	pers
+1056260	topo
+1056285	gens
+1056289	n.d.
+1056302	n.d.
+1056385	n.d.
+1056485	n.d.
+1056498	pers
+1056500	pers
+1056504	pers
+1056506	pers
+1056508	pers
+1056510	pers
+1056512	pers
+1056515	n.d.
+1056679	n.d.
+1057417	n.d.
+1057522	topo
+1058108	pers
+1058266	n.d.
+1058309	n.d.
+1058332	n.d.
+1058755	n.d.
+1058819	n.d.
+1058837	n.d.
+1058890	n.d.
+1059376	n.d.
+1059386	n.d.
+1059398	n.d.
+1059516	n.d.
+1059550	n.d.
+1059758	pers
+1059772	pers
+1059774	pers
+1059776	gens
+1059782	pers
+1059784	gens
+1059787	pers
+pers
+1059996	pers
+1060029	pers
+1060075	pers
+1060077	pers
+1060090	pers

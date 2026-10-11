@@ -1,0 +1,159 @@
+{
+ "178292": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ישוע[",
+  "wordReadingId": 178292
+ },
+ "178326": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "1",
+    "orderedId": 6050004001003,
+    "priorityOfReading": 0,
+    "reading": "עין",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 178327
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א]ת",
+  "wordReadingId": 178326
+ },
+ "178327": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "1",
+    "orderedId": 6050004001002,
+    "priorityOfReading": 0,
+    "reading": "א]ת",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 178326
+   }
+  ],
+  "reading": "עין",
+  "wordReadingId": 178327
+ },
+ "178328": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "צידון",
+  "wordReadingId": 178328
+ },
+ "178336": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "1",
+    "orderedId": 6050005001002,
+    "priorityOfReading": 0,
+    "reading": "א]ת֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 178335
+   }
+  ],
+  "reading": "כוכבה",
+  "wordReadingId": 178336
+ },
+ "178337": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "1",
+    "orderedId": 6050005001005,
+    "priorityOfReading": 0,
+    "reading": "--]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 178338
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ואת֯[",
+  "wordReadingId": 178337
+ },
+ "178347": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "3",
+    "orderedId": 6050005003005,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 178348
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]על",
+  "wordReadingId": 178347
+ },
+ "178348": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "3",
+    "orderedId": 6050005003004,
+    "priorityOfReading": 0,
+    "reading": "]על",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 178347
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "3",
+    "orderedId": 6050005003006,
+    "priorityOfReading": 0,
+    "reading": "דן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 178349
+   }
+  ],
+  "reading": "מי",
+  "wordReadingId": 178348
+ },
+ "178349": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "3",
+    "orderedId": 6050005003005,
+    "priorityOfReading": 0,
+    "reading": "מי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 178348
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דן",
+  "wordReadingId": 178349
+ }
+}

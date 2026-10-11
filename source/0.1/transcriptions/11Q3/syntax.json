@@ -1,0 +1,40 @@
+{
+ "805418": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "2",
+    "orderedId": 10790005002003,
+    "priorityOfReading": 0,
+    "reading": "את[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 805419
+   }
+  ],
+  "reading": "]מצא",
+  "wordReadingId": 805418
+ },
+ "805419": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 4",
+    "location2": "2",
+    "orderedId": 10790005002002,
+    "priorityOfReading": 0,
+    "reading": "]מצא",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 805418
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את[",
+  "wordReadingId": 805419
+ }
+}

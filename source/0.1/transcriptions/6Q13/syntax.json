@@ -1,0 +1,64 @@
+{
+ "180824": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "א]רץ[",
+  "wordReadingId": 180824
+ },
+ "180836": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6270001005002,
+    "priorityOfReading": 0,
+    "reading": "יוצדק",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 180837
+   }
+  ],
+  "reading": "בן",
+  "wordReadingId": 180836
+ },
+ "180837": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 6270001005001,
+    "priorityOfReading": 0,
+    "reading": "בן",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 180836
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יוצדק",
+  "wordReadingId": 180837
+ },
+ "180838": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אשר[",
+  "wordReadingId": 180838
+ },
+ "180842": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ביום[",
+  "wordReadingId": 180842
+ },
+ "180851": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בימים",
+  "wordReadingId": 180851
+ }
+}

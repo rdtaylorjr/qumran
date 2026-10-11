@@ -1,0 +1,170 @@
+{
+ "85417": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1 ii",
+    "location2": "1",
+    "orderedId": 2670002001002,
+    "priorityOfReading": 0,
+    "reading": "בו",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 85418
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "1",
+    "orderedId": 2670002001002,
+    "priorityOfReading": 0,
+    "reading": "בו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 85418
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "1",
+    "orderedId": 2670002001003,
+    "priorityOfReading": 0,
+    "reading": "חיות[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 85419
+   }
+  ],
+  "reading": "ויברא",
+  "wordReadingId": 85417
+ },
+ "85418": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1 ii",
+    "location2": "1",
+    "orderedId": 2670002001001,
+    "priorityOfReading": 0,
+    "reading": "ויברא",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 85417
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "1",
+    "orderedId": 2670002001001,
+    "priorityOfReading": 0,
+    "reading": "ויברא",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 85417
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בו",
+  "wordReadingId": 85418
+ },
+ "85419": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "1",
+    "orderedId": 2670002001001,
+    "priorityOfReading": 0,
+    "reading": "ויברא",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 85417
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "חיות[",
+  "wordReadingId": 85419
+ },
+ "85422": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "2",
+    "orderedId": 2670002002002,
+    "priorityOfReading": 0,
+    "reading": "לאדם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 85423
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "2",
+    "orderedId": 2670002002003,
+    "priorityOfReading": 0,
+    "reading": "דע[ת",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 85424
+   }
+  ],
+  "reading": "נתן",
+  "wordReadingId": 85422
+ },
+ "85423": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "2",
+    "orderedId": 2670002002001,
+    "priorityOfReading": 0,
+    "reading": "נתן",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 85422
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לאדם",
+  "wordReadingId": 85423
+ },
+ "85424": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1 ii",
+    "location2": "2",
+    "orderedId": 2670002002001,
+    "priorityOfReading": 0,
+    "reading": "נתן",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 85422
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "דע[ת",
+  "wordReadingId": 85424
+ },
+ "85427": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לדעת[",
+  "wordReadingId": 85427
+ }
+}

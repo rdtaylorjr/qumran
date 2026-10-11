@@ -1,0 +1,52 @@
+{
+ "808070": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ב]ה",
+  "wordReadingId": 808070
+ },
+ "808037": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8370001001004,
+    "priorityOfReading": 0,
+    "reading": "מ֯אה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 808036
+   }
+  ],
+  "reading": "כדין",
+  "wordReadingId": 808037
+ },
+ "808036": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "1",
+    "orderedId": 8370001001003,
+    "priorityOfReading": 0,
+    "reading": "כדין",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 808037
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ֯אה",
+  "wordReadingId": 808036
+ },
+ "808038": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ו֯סו[־]ות",
+  "wordReadingId": 808038
+ }
+}

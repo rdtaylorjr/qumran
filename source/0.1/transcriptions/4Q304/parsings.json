@@ -1,0 +1,104 @@
+{
+ "85387": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "את",
+    "lemmaId": 61,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "[not. acc.]",
+    "wordClass": "Objektmarker (nota accusativa)",
+    "wordClassAbbr": "not.acc.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "את",
+    "lemmaId": 61,
+    "rootDesignation": "I",
+    "shortDefinition": "[not. acc.]",
+    "wordClassAbbreviation": "not.acc."
+   }
+  ]
+ },
+ "85388": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "ארץ",
+    "lemmaId": 108,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Erde, Erdboden, Land",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ארץ",
+    "lemmaId": 108,
+    "shortDefinition": "Erde, Erdboden, Land",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ },
+ "85392": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "חושך",
+    "lemmaId": 811,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "shortDefinition": "Finsternis",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Nomen maskulinum",
+    "wordClassAbbr": "n.m.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "חושך",
+    "lemmaId": 811,
+    "shortDefinition": "Finsternis",
+    "wordClassAbbreviation": "n.m."
+   }
+  ]
+ }
+}

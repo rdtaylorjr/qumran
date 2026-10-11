@@ -1,0 +1,64 @@
+{
+ "32706": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 790001003003,
+    "priorityOfReading": 0,
+    "reading": "יהללוכ[ה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 32707
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 790001003003,
+    "priorityOfReading": 0,
+    "reading": "יהללוכ[ה",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32707
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ל]עולם",
+  "wordReadingId": 32706
+ },
+ "32707": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 790001003002,
+    "priorityOfReading": 0,
+    "reading": "ל]עולם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 32706
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 790001003002,
+    "priorityOfReading": 0,
+    "reading": "ל]עולם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32706
+   }
+  ],
+  "reading": "יהללוכ[ה",
+  "wordReadingId": 32707
+ }
+}

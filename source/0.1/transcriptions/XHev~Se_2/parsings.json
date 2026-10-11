@@ -1,0 +1,60 @@
+{
+ "392944": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "ילד",
+    "lemmaId": 172,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "3. Person",
+    "personAbbr": "3.",
+    "rootDesignation": "I",
+    "shortDefinition": "zeugen, gebären",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "ילדה",
+    "lemmaId": 3365,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 1,
+    "shortDefinition": "Mädchen",
+    "state": "absolutus",
+    "stateAbbr": "abs.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ילד",
+    "lemmaId": 172,
+    "rootDesignation": "I",
+    "shortDefinition": "zeugen, gebären",
+    "wordClassAbbreviation": "vb."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ילדה",
+    "lemmaId": 3365,
+    "shortDefinition": "Mädchen",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

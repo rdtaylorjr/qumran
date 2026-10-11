@@ -1,0 +1,76 @@
+{
+ "181064": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "כניחוח",
+  "wordReadingId": 181064
+ },
+ "181073": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]גמולים",
+  "wordReadingId": 181073
+ },
+ "181085": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6300002002003,
+    "priorityOfReading": 0,
+    "reading": "רשע",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 181086
+   }
+  ],
+  "reading": "פו]עלי",
+  "wordReadingId": 181085
+ },
+ "181086": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "2",
+    "orderedId": 6300002002002,
+    "priorityOfReading": 0,
+    "reading": "פו]עלי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 181085
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רשע",
+  "wordReadingId": 181086
+ },
+ "181089": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ממשלת",
+  "wordReadingId": 181089
+ },
+ "181092": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ב֯רית֯[",
+  "wordReadingId": 181092
+ },
+ "181095": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מ֯צ֯ות֯[",
+  "wordReadingId": 181095
+ },
+ "181101": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ברכות[",
+  "wordReadingId": 181101
+ }
+}

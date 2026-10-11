@@ -1,0 +1,58 @@
+{
+ "181416": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הא֯[רץ",
+  "wordReadingId": 181416
+ },
+ "181418": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6340001003002,
+    "priorityOfReading": 0,
+    "reading": "נחל[י",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 181419
+   }
+  ],
+  "reading": "ארץ",
+  "wordReadingId": 181418
+ },
+ "181419": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 6340001003001,
+    "priorityOfReading": 0,
+    "reading": "ארץ",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 181418
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "נחל[י",
+  "wordReadingId": 181419
+ },
+ "181427": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "חדשה",
+  "wordReadingId": 181427
+ },
+ "181429": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וה֯תנחל֯[תם",
+  "wordReadingId": 181429
+ }
+}

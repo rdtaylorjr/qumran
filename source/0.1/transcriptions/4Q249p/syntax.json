@@ -1,0 +1,108 @@
+{
+ "62479": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 1910001006003,
+    "priorityOfReading": 0,
+    "reading": "לך",
+    "syntacticCategory": "Dat. eth.",
+    "wordReadingId": 62480
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 1910001006003,
+    "priorityOfReading": 0,
+    "reading": "לך",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 62480
+   }
+  ],
+  "reading": "ל]ך֯",
+  "wordReadingId": 62479
+ },
+ "62480": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 1910001006002,
+    "priorityOfReading": 0,
+    "reading": "ל]ך֯",
+    "syntacticCategory": "Dat. eth.",
+    "wordReadingId": 62479
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 1910001006002,
+    "priorityOfReading": 0,
+    "reading": "ל]ך֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 62479
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "לך",
+  "wordReadingId": 62480
+ },
+ "62484": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 1910001007003,
+    "priorityOfReading": 0,
+    "reading": "חברי֯[ך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 62485
+   }
+  ],
+  "reading": "כו]ל",
+  "wordReadingId": 62484
+ },
+ "62485": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 1910001007002,
+    "priorityOfReading": 0,
+    "reading": "כו]ל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 62484
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "חברי֯[ך",
+  "wordReadingId": 62485
+ },
+ "62497": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]הגמר[",
+  "wordReadingId": 62497
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "164879": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "1",
+    "orderedId": 5400001001003,
+    "priorityOfReading": 0,
+    "reading": "ל֯ך֯[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 164880
+   }
+  ],
+  "reading": "וי]שע֯[ו]ן֯",
+  "wordReadingId": 164879
+ },
+ "164884": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1-2",
+    "location2": "2",
+    "orderedId": 5400001002004,
+    "priorityOfReading": 0,
+    "reading": "יהונתן֯[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 164885
+   }
+  ],
+  "reading": "אוגו",
+  "wordReadingId": 164884
+ },
+ "164885": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1-2",
+    "location2": "2",
+    "orderedId": 5400001002003,
+    "priorityOfReading": 0,
+    "reading": "אוגו",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 164884
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "יהונתן֯[",
+  "wordReadingId": 164885
+ },
+ "164889": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1-2",
+    "location2": "3",
+    "orderedId": 5400001003002,
+    "priorityOfReading": 0,
+    "reading": "]הצבאים",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 164888
+   }
+  ],
+  "reading": "גנבו[",
+  "wordReadingId": 164889
+ },
+ "164893": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "המזלגות",
+  "wordReadingId": 164893
+ },
+ "164896": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]גוג",
+  "wordReadingId": 164896
+ },
+ "164897": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וםגוג",
+  "wordReadingId": 164897
+ },
+ "807551": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בט־[",
+  "wordReadingId": 807551
+ },
+ "164906": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]נתונים֯",
+  "wordReadingId": 164906
+ },
+ "164910": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "8",
+    "orderedId": 5400001008003,
+    "priorityOfReading": 0,
+    "reading": "א֯ת֯[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 164911
+   }
+  ],
+  "reading": "]תסוב[בו]ן֯",
+  "wordReadingId": 164910
+ },
+ "164911": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "8",
+    "orderedId": 5400001008002,
+    "priorityOfReading": 0,
+    "reading": "]תסוב[בו]ן֯",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 164910
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1-2",
+    "location2": "8",
+    "orderedId": 5400001008004,
+    "priorityOfReading": 0,
+    "reading": "--]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 164912
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א֯ת֯[",
+  "wordReadingId": 164911
+ },
+ "164919": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גליקה",
+  "wordReadingId": 164919
+ },
+ "164929": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י]סתגון",
+  "wordReadingId": 164929
+ },
+ "164933": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "2",
+    "orderedId": 5400002002003,
+    "priorityOfReading": 0,
+    "reading": "יבטלון",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 164934
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "א]ל?",
+  "wordReadingId": 164933
+ },
+ "164934": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 3",
+    "location2": "2",
+    "orderedId": 5400002002002,
+    "priorityOfReading": 0,
+    "reading": "א]ל?",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 164933
+   }
+  ],
+  "reading": "יבטלון",
+  "wordReadingId": 164934
+ }
+}

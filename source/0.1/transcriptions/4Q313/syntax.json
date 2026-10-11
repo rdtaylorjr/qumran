@@ -1,0 +1,40 @@
+{
+ "85661": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 2700002001003,
+    "priorityOfReading": 0,
+    "reading": "ה֯מ֯טעת[",
+    "syntacticCategory": "Part. hinzufügend",
+    "wordReadingId": 85662
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ו]אף",
+  "wordReadingId": 85661
+ },
+ "85662": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 2700002001002,
+    "priorityOfReading": 0,
+    "reading": "ו]אף",
+    "syntacticCategory": "Part. hinzufügend",
+    "wordReadingId": 85661
+   }
+  ],
+  "reading": "ה֯מ֯טעת[",
+  "wordReadingId": 85662
+ }
+}

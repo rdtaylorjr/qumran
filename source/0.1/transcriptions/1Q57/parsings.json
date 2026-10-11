@@ -1,0 +1,83 @@
+{
+ "31184": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "הלל",
+    "lemmaId": 536,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "preisen, rühmen",
+    "verbStem": "Piʿel (Hebr.)",
+    "verbStemAbbr": "pi.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "הלל",
+    "lemmaId": 536,
+    "rootDesignation": "I",
+    "shortDefinition": "preisen, rühmen",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "31187": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClass": "Präposition",
+    "wordClassAbbr": "praep.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "femininum",
+    "genderAbbr": "f.",
+    "lemma": "חוקה",
+    "lemmaId": 617,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "shortDefinition": "Bestimmung, Satzung",
+    "state": "constructus",
+    "stateAbbr": "cs.",
+    "suffixGender": "maskulinum",
+    "suffixGenderAbbr": "m.",
+    "suffixNumber": "singularis",
+    "suffixNumberAbbr": "sg.",
+    "suffixPerson": "2. Person",
+    "suffixPersonAbbr": "2.",
+    "wordClass": "Nomen femininum",
+    "wordClassAbbr": "n.f.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ב",
+    "lemmaId": 247,
+    "rootDesignation": "II",
+    "shortDefinition": "in, an, bei",
+    "wordClassAbbreviation": "praep."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "חוקה",
+    "lemmaId": 617,
+    "shortDefinition": "Bestimmung, Satzung",
+    "wordClassAbbreviation": "n.f."
+   }
+  ]
+ }
+}

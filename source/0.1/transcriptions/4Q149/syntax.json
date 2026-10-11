@@ -1,0 +1,70 @@
+{
+ "370699": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "תעבוד",
+  "wordReadingId": 370699
+ },
+ "370733": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 10510001005007,
+    "priorityOfReading": 0,
+    "reading": "את]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 370732
+   }
+  ],
+  "reading": "ה֯ימים֯",
+  "wordReadingId": 370733
+ },
+ "370754": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 10510001006004,
+    "priorityOfReading": 0,
+    "reading": "כ]בד",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 370749
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 10510001006004,
+    "priorityOfReading": 0,
+    "reading": "כ]בד",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 370749
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 10510001006010,
+    "priorityOfReading": 0,
+    "reading": "יארכון",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 370755
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כ֯א֯ש֯[ר",
+  "wordReadingId": 370754
+ }
+}

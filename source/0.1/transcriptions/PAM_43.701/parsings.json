@@ -1,0 +1,87 @@
+{
+ "204750": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אין",
+    "lemmaId": 293,
+    "parsingPriority": 0,
+    "rootDesignation": "I",
+    "shortDefinition": "[Partikel zur Anzeige d. Nichtexistenz]",
+    "wordClass": "Negation",
+    "wordClassAbbr": "neg.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אין",
+    "lemmaId": 293,
+    "rootDesignation": "I",
+    "shortDefinition": "[Partikel zur Anzeige d. Nichtexistenz]",
+    "wordClassAbbreviation": "neg."
+   }
+  ]
+ },
+ "204754": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "communis",
+    "genderAbbr": "comm.",
+    "lemma": "ידע",
+    "lemmaId": 86,
+    "number": "pluralis",
+    "numberAbbr": "pl.",
+    "parsingPriority": 0,
+    "person": "1. Person",
+    "personAbbr": "1.",
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Imperfekt",
+    "verbTenseAbbr": "impf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ידע",
+    "lemmaId": 86,
+    "shortDefinition": "(noch nicht bearbeitet)",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "204758": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אלה",
+    "lemmaId": 63,
+    "parsingPriority": 0,
+    "rootDesignation": "III",
+    "shortDefinition": "[pron.dem. c.pl.]",
+    "state": "determinatus",
+    "stateAbbr": "det.",
+    "wordClass": "Demonstrativpronomen c. pl.",
+    "wordClassAbbr": "pron.dem. c.pl.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "אלה",
+    "lemmaId": 63,
+    "rootDesignation": "III",
+    "shortDefinition": "[pron.dem. c.pl.]",
+    "wordClassAbbreviation": "pron.dem. c.pl."
+   }
+  ]
+ }
+}

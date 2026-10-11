@@ -1,0 +1,232 @@
+{
+ "138898": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ך֯[",
+  "wordReadingId": 138898
+ },
+ "138899": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ם[",
+  "wordReadingId": 138899
+ },
+ "138901": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גפם",
+  "wordReadingId": 138901
+ },
+ "138902": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4530001002003,
+    "priorityOfReading": 0,
+    "reading": "רבא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138903
+   }
+  ],
+  "reading": "מגפא",
+  "wordReadingId": 138902
+ },
+ "138903": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4530001002002,
+    "priorityOfReading": 0,
+    "reading": "מגפא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138902
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "רבא",
+  "wordReadingId": 138903
+ },
+ "138905": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואדום",
+  "wordReadingId": 138905
+ },
+ "138906": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ועזה",
+  "wordReadingId": 138906
+ },
+ "138907": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואש֯[קלון",
+  "wordReadingId": 138907
+ },
+ "138909": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4530001004002,
+    "priorityOfReading": 0,
+    "reading": "קטורא",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138910
+   }
+  ],
+  "reading": "בני",
+  "wordReadingId": 138909
+ },
+ "138910": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 4530001004001,
+    "priorityOfReading": 0,
+    "reading": "בני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138909
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "קטורא",
+  "wordReadingId": 138910
+ },
+ "138911": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "פלטת֯[",
+  "wordReadingId": 138911
+ },
+ "138913": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4530001005002,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138914
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4530001005003,
+    "priorityOfReading": 0,
+    "reading": "הכרכים֯[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 138915
+   }
+  ],
+  "reading": "לחם",
+  "wordReadingId": 138913
+ },
+ "138914": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4530001005001,
+    "priorityOfReading": 0,
+    "reading": "לחם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138913
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4530001005003,
+    "priorityOfReading": 0,
+    "reading": "הכרכים֯[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138915
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את",
+  "wordReadingId": 138914
+ },
+ "138915": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4530001005001,
+    "priorityOfReading": 0,
+    "reading": "לחם",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 138913
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 4530001005002,
+    "priorityOfReading": 0,
+    "reading": "את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 138914
+   }
+  ],
+  "reading": "הכרכים֯[",
+  "wordReadingId": 138915
+ },
+ "138917": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "י֯שראל",
+  "wordReadingId": 138917
+ },
+ "138918": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וש־[",
+  "wordReadingId": 138918
+ },
+ "138919": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "--]",
+  "wordReadingId": 138919
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "91244": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 2960001002003,
+    "priorityOfReading": 0,
+    "reading": "השני]ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91243
+   }
+  ],
+  "reading": "מ֯[עד]יה",
+  "wordReadingId": 91244
+ },
+ "91249": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2960001003003,
+    "priorityOfReading": 0,
+    "reading": "השלשי]ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91248
+   }
+  ],
+  "reading": "מע֯ד֯יה",
+  "wordReadingId": 91249
+ },
+ "91250": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ב֯ש֯לשה",
+  "wordReadingId": 91250
+ },
+ "91253": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 2960001004004,
+    "priorityOfReading": 0,
+    "reading": "מע֯דיה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91254
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ברבעית",
+  "wordReadingId": 91253
+ },
+ "91254": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2960001005003,
+    "priorityOfReading": 0,
+    "reading": "הפ]סח",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91257
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 2960001004003,
+    "priorityOfReading": 0,
+    "reading": "ברבעית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91253
+   }
+  ],
+  "reading": "מע֯דיה",
+  "wordReadingId": 91254
+ },
+ "91257": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 2960001004004,
+    "priorityOfReading": 0,
+    "reading": "מע֯דיה",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 91254
+   }
+  ],
+  "reading": "הפ]סח",
+  "wordReadingId": 91257
+ },
+ "91258": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2960001005005,
+    "priorityOfReading": 0,
+    "reading": "מעדיה",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91259
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "החמ֯שית",
+  "wordReadingId": 91258
+ },
+ "91259": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": true,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 2960001005004,
+    "priorityOfReading": 0,
+    "reading": "החמ֯שית",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 91258
+   }
+  ],
+  "reading": "מעדיה",
+  "wordReadingId": 91259
+ },
+ "91260": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 2960001006002,
+    "priorityOfReading": 0,
+    "reading": "באמ[ר",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 91261
+   }
+  ],
+  "reading": "בשלשה",
+  "wordReadingId": 91260
+ },
+ "91261": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 2960001006001,
+    "priorityOfReading": 0,
+    "reading": "בשלשה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 91260
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "באמ[ר",
+  "wordReadingId": 91261
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "23507": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וגבריאל",
+  "wordReadingId": 23507
+ },
+ "23511": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "5",
+    "orderedId": 130001005002,
+    "priorityOfReading": 0,
+    "reading": "אדון]",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 23510
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אדונים",
+  "wordReadingId": 23511
+ },
+ "23512": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "5",
+    "orderedId": 130001005005,
+    "priorityOfReading": 0,
+    "reading": "גבורים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 23513
+   }
+  ],
+  "reading": "וגב[ור",
+  "wordReadingId": 23512
+ },
+ "23516": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עלמי֯[ם",
+  "wordReadingId": 23516
+ }
+}

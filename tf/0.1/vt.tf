@@ -1,0 +1,26115 @@
+@node
+@compiler=DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
+@converters=Rusty Taylor
+@copynote1=© 2022 DFG-Projekt 465277421 Qumran-Digital: Text und Lexikon
+@copynote2=Bereitgestellt durch das DFG-Projekt Nr. 465277421 Qumran-Digital: Text und Lexikon auf der Grundlage eines Textes des früheren Projekts Qumran-Wörterbuch der Niedersächsischen Akademie der Wissenschaften zu Göttingen, der auf einem Vorläufertext von Martin Abegg basierte.
+@copynote3=Modified: converted from HTML and JSON to Text-Fabric, see docs/transcription.md. Provided as is, without warranties, see the disclaimer in the license.
+@description=verbal tense (perf; impf; wayq; impv; infc) or the source abbreviation
+@license=Creative Commons Attribution-ShareAlike 4.0 International
+@licenseUrl=https://creativecommons.org/licenses/by-sa/4.0/
+@name=Qumran
+@source=Qumran-Digital: Text und Lexikon, API version 1
+@sourceFormat=HTML and JSON
+@sourceUrl=https://lexicon.qumran-digital.org/v1/qumran
+@valueType=str
+@version=0.1
+@writtenBy=Text-Fabric
+@dateWritten=2026-10-11T19:17:03+00:00Z
+
+913713	infc
+913718	infc
+913726	perf
+913738	infc
+913741	perf
+913744	infc
+913748	perf
+913750	infc
+913756	infc
+913763	infc
+913774	infc
+913784	infc
+913789	infc
+913792	ptz.
+913794	infc
+913801	infc
+913807	infc
+913812	ptz.
+913818	infc
+913830	infc
+913842	ptz.
+913845	impf
+913856	infc
+913865	infc
+913878	infc
+913891	infc
+913896	infc
+913903	infc
+913908	infc
+913914	ptz.
+913918	impf
+913927	infc
+913937	ptz.
+913943	infc
+913946	impf
+913950	ptz.
+913961	ptz.
+913964	ptz.
+913970	ptz.
+913978	ptz.
+913986	ptz.
+914002	ptz.
+914005	ptz.
+914008	infc
+perf
+perf
+perf
+perf
+914021	infc
+914035	perf
+914044	ptz.
+914050	ptz.
+914056	ptz.
+impf
+914062	impf
+914067	impf
+914073	impf
+914078	impf
+914087	ptz.
+914094	pf.cons.
+914096	pf.cons.
+ptz.
+914104	impf
+914110	ptz.
+914113	impf
+914119	ptz.
+914121	ptz.
+914130	ptz.
+914137	impf
+914140	infc
+914143	impf
+914145	infc
+914148	impf
+914155	impf
+914161	ptz.
+914165	ptz.
+914168	ptz.
+914170	ptz.
+914174	pf.cons.
+914179	pf.cons.
+ptz.
+914186	infc
+infc
+ptz.
+914195	impf
+914199	infc
+914202	pf.cons.
+914204	infc
+914209	impf
+914213	infc
+914215	impf
+914221	impf
+914223	pf.cons.
+914237	impf
+914243	pf.cons.
+914250	impf
+914255	pf.cons.
+914262	infc
+914271	impf
+914275	ptz.
+914279	ptz.
+914281	impf
+914283	pf.cons.
+914288	impf
+914297	impf
+914310	impf
+914315	impf
+914332	infc
+914347	impf
+914354	impf
+914360	impf
+914385	ptz.
+914387	infc
+914390	infc
+914399	perf
+914407	perf
+914415	impf
+914423	impf
+914438	impf
+914445	impf
+914453	impf
+914455	impf
+impf
+914461	impf
+impf
+914468	impf
+914475	impf
+impf
+914483	impf
+914486	infc
+914492	infc
+914504	impf
+914508	infc
+914520	impf
+impf
+914531	impf
+914542	impf
+914545	infc
+914551	infc
+914556	impf
+914567	perf
+914574	infc
+914581	infc
+914588	impf
+914596	pf.cons.
+914605	infc
+914608	infc
+914639	ptz.
+914641	ptz.
+914645	infc
+perf
+914651	infc
+914657	impf
+914662	infc
+914669	impf
+914675	perf
+914681	wayq
+914686	infc
+914718	impf
+914732	impf
+914773	infc
+914782	perf
+914792	perf
+914799	perf
+914809	perf
+914819	impf
+914823	perf
+914828	perf
+914837	infc
+914843	infc
+914852	infc
+914875	ptz.
+914880	ptz.
+914901	ptz.
+914912	ptz.
+914918	infc
+914923	infc
+914938	ptz.
+914949	infc
+914975	infc
+914978	infc
+914988	infc
+914997	infc
+915031	infc
+915042	ptz.
+915060	ptz.
+915088	infc
+915104	impf
+915112	impf
+915133	perf
+915141	wayq
+915166	impf
+915176	perf
+915179	infc
+915185	impf
+915190	impf
+915196	perf
+915206	ptz.
+915209	impf
+915216	impf
+915223	infc
+915232	infc
+915241	impf
+915251	infc
+915266	infc
+915271	perf
+915284	impf
+915292	impf
+915300	impf
+915312	impf
+915315	impf
+915323	impf
+915327	impf
+915333	perf
+915337	ptz.
+915339	infc
+915343	perf
+915351	wayq
+915356	infc
+915360	infc
+915376	ptz.
+915378	infc
+915384	infc
+915388	perf
+915392	infc
+915399	infc
+915409	ptz.
+915415	ptz.
+915423	ptz.
+915428	impf
+915443	infc
+915457	infc
+915463	impf
+915469	infc
+915480	infc
+915489	infc
+915498	infc
+915501	ptz.
+915513	ptz.
+915524	infc
+915526	ptz.
+915537	infc
+915543	ptz.
+915547	impf
+915554	ptz.
+915556	impf
+915563	infc
+915570	perf
+915580	ptz.
+915586	ptz.
+915589	ptz.
+915596	ptz.
+915602	infc
+915607	impf
+915613	infc
+915618	ptz.
+915624	perf
+915629	perf
+915632	perf
+915636	infc
+ptz.
+915639	perf
+915644	ptz.
+perf
+915648	ptz.
+915650	infc
+915654	infc
+915660	infc
+915672	impf
+915676	infc
+915683	impf
+impf
+915687	perf
+915694	ptz.
+915699	impf
+915707	impf
+915711	impf
+915718	ptz.
+915723	impf
+915727	impf
+915742	impf
+915748	impf
+915751	impf
+915762	ptz.
+impv
+915774	ptz.
+915780	perf
+915784	infc
+915793	impf
+915806	perf
+impf
+915812	ptz.
+915814	impf
+915831	impf
+915835	infc
+915843	infc
+915848	perf
+915868	ptz.
+915874	infc
+915879	infc
+915884	perf
+915886	infc
+915892	ptz.
+915894	infc
+915902	pf.cons.
+915915	infc
+915925	infc
+ptz.
+915935	infc
+915945	infc
+915949	infc
+915963	impf
+915977	impf
+impf
+915985	impf
+915988	impf
+915994	impf
+916012	impf
+916017	ptz.
+916022	impf
+916033	impf
+916036	impf
+916039	impf
+916045	impf
+916053	impf
+916062	impf
+916067	impf
+impf
+916078	perf
+916080	impf
+916083	infc
+916087	infc
+916089	impf
+916094	infc
+916101	infc
+916103	impf
+916108	infc
+916116	impf
+916120	impf
+916124	ptz.
+916132	infc
+916138	impf
+916147	infc
+916152	infc
+916156	infc
+916169	impf
+916180	impf
+916186	impf
+impf
+916197	impf
+916201	infc
+916209	impf
+916216	impf
+916219	infc
+916223	impf
+916227	ptz.
+916235	impf
+916258	infc
+916268	ptz.
+916273	pf.cons.
+916278	pf.cons.
+916283	infc
+916287	impf
+916289	impf
+916292	ptz.
+916296	infc
+916300	impf
+916303	ptz.
+916317	impf
+916319	impf
+916323	infc
+916328	infc
+916333	pf.cons.
+916341	infc
+916343	infc
+916348	pf.cons.
+916355	impf
+perf
+916361	impf
+916363	impf
+916366	infc
+916371	impf
+916377	impf
+916383	infc
+916391	impf
+916397	infc
+916403	impf
+916417	impf
+perf
+916422	infc
+916433	impf
+916448	pf.cons.
+916461	impf
+916463	impf
+916468	infc
+916478	infc
+916482	impf
+impf
+916489	impf
+perf
+916494	infc
+916497	impf
+916514	infc
+916518	impf
+916528	impf
+916537	impf
+916541	impf
+916546	ptz.
+916548	impf
+916556	pf.cons.
+916562	impf
+916569	perf
+916574	infc
+916579	infc
+916583	ptz.
+916587	perf
+916591	pf.cons.
+916596	impf
+916600	ptz.
+916605	perf
+916608	infc
+916619	ptz.
+916625	ptz.
+916627	pf.cons.
+916630	impf
+916643	ptz.
+916646	perf
+916650	pf.cons.
+916654	ptz.
+916664	perf
+916666	pf.cons.
+916671	impf
+916675	pf.cons.
+916679	pf.cons.
+916683	ptz.
+916686	impf
+916692	impf
+916697	pf.cons.
+916704	impf
+916706	pf.cons.
+916714	impf
+916717	infc
+infc
+916720	infc
+916726	impf
+916730	infc
+infc
+916733	pf.cons.
+916738	impf
+916743	pf.cons.
+916750	ptz.
+916757	impf
+916768	impf
+916770	pf.cons.
+916780	ptz.
+916791	ptz.
+916799	pf.cons.
+916804	impf
+916806	pf.cons.
+916808	pf.cons.
+916813	impf
+916820	perf
+916822	ptz.
+916824	pf.cons.
+916830	impf
+916836	pf.cons.
+916841	impf
+916848	perf
+ptz.
+916851	pf.cons.
+916854	pf.cons.
+916859	impf
+impf
+916864	infc
+916867	pf.cons.
+916871	ptz.
+916877	infc
+infc
+916881	pf.cons.
+916887	impf
+916892	perf
+916899	pf.cons.
+916904	impf
+916907	infc
+916913	impf
+916918	impf
+916921	impf
+916924	impf
+916929	impf
+916931	pf.cons.
+916937	impf
+916943	infc
+916948	infc
+916953	impf
+916955	pf.cons.
+916961	impf
+916966	impf
+impf
+916977	impf
+916980	infc
+916987	pf.cons.
+916992	impf
+916999	impf
+917004	infc
+917008	pf.cons.
+917011	infc
+917015	pf.cons.
+917021	infc
+917026	impf
+917037	impf
+917056	ptz.
+917061	infc
+917072	infc
+917078	infc
+917084	ptz.
+917087	ptz.
+917090	infc
+917093	ptz.
+917100	infc
+917111	infc
+917115	ptz.
+917143	infc
+917148	infc
+917158	impf
+917162	impf
+917178	infc
+917189	infc
+917195	pf.cons.
+917199	infc
+917204	infc
+917211	infc
+917221	impf
+917231	ptz.
+917235	ptz.
+917238	ptz.
+917240	impf
+impf
+917247	ptz.
+917250	infc
+917259	impf
+917266	infc
+917270	infc
+917278	ptz.
+917281	impv
+917284	impv
+917294	perf
+917299	infc
+917302	ptz.
+917309	perf
+perf
+917324	impf
+917330	ptz.
+917332	impf
+917339	impf
+917345	impf
+917351	infc
+917356	pf.cons.
+917364	impf
+917373	ptz.
+917380	impf
+917388	ptz.
+917392	ptz.
+917398	perf
+917403	impf
+917410	ptz.
+917414	impf
+impf
+917421	impf
+917425	impf
+917442	impf
+917444	pf.cons.
+917457	impf
+917461	impf
+917468	impf
+917472	pf.cons.
+917483	perf
+917486	infc
+917494	impf
+917498	ptz.
+917501	ptz.
+917503	impf
+917506	ptz.
+impf
+917520	impf
+917523	infc
+917534	infc
+917541	infc
+917575	impf
+917584	infc
+infc
+917593	ptz.
+917599	impf
+917608	impf
+917620	ptz.
+917624	impf
+917632	perf
+917635	infc
+917640	infc
+917650	impf
+917652	infc
+917658	pf.cons.
+917664	perf
+917668	infc
+917671	infc
+917681	ptz.
+917683	infc
+917700	infc
+917706	ptz.
+917712	infc
+917716	ptz.
+917725	infc
+917728	infc
+917739	infc
+917747	infc
+917754	infc
+917764	infc
+917767	infc
+917773	infc
+917783	infc
+917790	ptz.
+917793	infc
+917797	infc
+917808	infc
+917815	ptz.
+917819	infc
+917825	infc
+917827	ptz.
+917829	infc
+917834	infc
+917840	infc
+917874	ptz.
+917880	ptz.
+917884	infc
+917886	ptz.
+917895	infc
+917907	perf
+917910	ptz.
+917912	impf
+917920	impf
+917926	impf
+917929	impf
+917934	perf
+917939	impf
+impf
+impf
+917945	perf
+917955	infc
+917964	impf
+917967	impf
+917974	infc
+917979	infc
+917985	infc
+918004	infc
+918022	ptz.
+918039	impf
+918042	ptz.
+918053	infc
+918085	infc
+918087	ptz.
+918098	impf
+918115	impf
+918124	koh.
+918133	impf
+918137	infc
+impf
+918142	infc
+918144	impf
+918154	ptz.
+918158	impf
+918163	ptz.
+918178	impf
+918181	impf
+918183	impf
+918186	impf
+918193	impf
+918197	infc
+918199	infc
+918201	infc
+918203	infc
+918208	koh.
+918211	impf
+918221	impf
+918224	infc
+918240	impf
+918247	impf
+918251	impf
+918255	impf
+918268	infc
+918270	impf
+918274	koh.
+918277	impf
+918284	impf
+918295	impf
+918300	impf
+918311	impf
+918318	impf
+impf
+918328	impf
+918334	impf
+918336	infc
+918339	impf
+918344	ptz.
+ptz.
+918349	impf
+918352	ptz.
+918355	impf
+918359	ptz.
+918361	infc
+918368	impf
+918373	impf
+918386	impf
+918395	impf
+918399	impf
+918404	impf
+918411	infc
+918414	impf
+918419	ptz.
+918426	impf
+918432	impf
+918435	ptz.
+918437	infc
+918445	impf
+impf
+918455	ptz.
+918462	ptz.
+918464	ptz.
+918469	infc
+ptz.
+918475	infc
+918479	ptz.
+918484	ptz.
+918488	ptz.
+918491	ptz.
+918495	ptz.
+ptz.
+918514	impf
+918520	perf
+918524	ptz.
+perf
+918532	ptz.
+918534	ptz.
+918548	impf
+918571	ptz.
+918573	perf
+918577	ptz.
+918600	perf
+918602	perf
+918607	wayq
+918615	perf
+918630	ptz.
+918654	ptz.
+918663	impf
+918677	ptz.
+918681	ptz.
+918684	impf
+918689	impf
+918693	impf
+impf
+918702	impf
+918710	impf
+918715	impf
+918720	impf
+918724	wayq
+918730	perf
+918734	impf
+918739	perf
+918744	impf
+918751	impf
+918760	infc
+918768	ptz.
+918771	ptz.
+918776	impv
+918785	perf
+918790	infc
+918799	impf
+918806	impf
+918809	perf
+918814	ptz.
+918817	perf
+918826	infc
+918833	infc
+918839	infc
+918842	ptz.
+918848	ptz.
+918850	infc
+918863	ptz.
+918867	impf
+impf
+918884	perf
+918890	impf
+918893	perf
+918898	impf
+918910	infc
+918912	infc
+918923	perf
+918931	perf
+918937	infc
+918941	ptz.
+918948	pf.cons.
+perf
+918957	infc
+918962	impf
+918981	infc
+918989	impf
+918993	pf.cons.
+919000	impf
+919004	infc
+919011	infc
+919017	impf
+919021	infc
+919029	infc
+919034	infc
+919040	impf
+919042	infc
+919048	infc
+919054	infc
+919062	impf
+919064	infc
+919070	infc
+919078	impf
+919080	infc
+919086	infc
+919097	ptz.
+919099	ptz.
+919115	impf
+919118	infc
+919122	infc
+919125	infc
+919136	impf
+919141	infc
+919153	impf
+919159	ptz.
+919165	impf
+919177	impf
+919181	infc
+919186	infc
+919190	infc
+919195	infc
+919199	infc
+919205	impf
+919211	impf
+919219	impf
+919228	infc
+919231	infc
+919247	ptz.
+919250	ptz.
+919266	impf
+919281	pf.cons.
+919285	infc
+919287	ptz.
+919293	ptz.
+919302	ptz.
+919304	ptz.
+919327	ptz.
+919344	ptz.
+919352	impf
+919359	ptz.
+919364	infc
+919371	ptz.
+919387	ptz.
+919391	infc
+919396	ptz.
+919401	infc
+919406	impf
+919409	infc
+919427	infc
+919431	impf
+919438	impf
+919441	ptz.
+919454	impf
+impf
+919458	impf
+919473	pf.cons.
+impf
+919486	pf.cons.
+impf
+919510	impf
+919521	impf
+919523	ptz.
+919538	ptz.
+919551	impf
+919566	impf
+919570	impf
+919579	infc
+919581	ptz.
+ptz.
+919585	ptz.
+919589	ptz.
+919593	wayq
+919599	impf
+919602	impf
+919608	impf
+impf
+919616	impf
+919622	impf
+919625	impf
+919628	perf
+919632	impf
+919638	impf
+impf
+919641	impf
+919645	impf
+919647	impf
+impf
+919655	impf
+919657	impf
+919661	impf
+919663	impf
+919670	impf
+919677	ptz.
+919680	impf
+919686	impf
+919691	impf
+919697	impf
+919702	impf
+919705	impf
+919710	ptz.
+919716	impf
+919724	impv
+919726	infc
+919741	perf
+919744	perf
+919758	perf
+919762	infc
+919768	infc
+919776	infc
+919779	perf
+919781	impf
+919787	perf
+919791	wayq
+919794	perf
+impf
+919801	impf
+919810	impf
+919813	impf
+919819	impf
+919828	impf
+919837	impf
+919841	impf
+919851	infc
+919855	impf
+919858	perf
+919862	infc
+919869	infc
+919893	impf
+919895	ptz.
+919900	ptz.
+919918	impf
+919931	infc
+919939	impf
+919943	perf
+919945	impf
+919951	perf
+919963	impf
+919967	infc
+919974	impf
+919977	infc
+919984	infc
+919992	infc
+919999	impf
+920011	ptz.
+920013	perf
+920019	impf
+920025	impf
+920027	impf
+920038	pf.cons.
+920046	impf
+920052	impf
+920059	ptz.
+920063	impf
+920068	impf
+920070	pf.cons.
+920076	ptz.
+920082	impf
+920085	impf
+920091	perf
+920101	impf
+920104	impv
+impf
+ptz.
+920118	ptz.
+920122	perf
+920130	ptz.
+920136	impf
+920138	infc
+920141	ptz.
+920149	perf
+920155	infc
+920163	perf
+920167	ptz.
+920174	ptz.
+920180	ptz.
+920191	infc
+920198	impf
+920205	impf
+920207	infc
+920210	infc
+920217	perf
+920219	infc
+920225	ptz.
+920235	infc
+impf
+920253	infc
+920259	impf
+920270	pf.cons.
+920275	perf
+920277	perf
+920279	perf
+920283	impf
+920286	ptz.
+920288	infc
+920292	impf
+920300	impf
+920311	impf
+920316	infc
+920334	impf
+920337	perf
+920339	ptz.
+920344	impf
+920349	pf.cons.
+920351	ptz.
+920356	impf
+pf.cons.
+920366	impf
+920368	impf
+920371	impf
+920374	ptz.
+920377	impf
+920384	impf
+920390	impf
+920392	infc
+920398	impf
+920402	pf.cons.
+920405	ptz.
+920408	perf
+920411	wayq
+920413	impf
+920420	ptz.
+920427	impf
+920433	ptz.
+920437	impf
+920446	perf
+920450	ptz.
+perf
+920455	infc
+920459	infc
+920463	impf
+920468	impf
+920480	impf
+920489	impf
+920494	perf
+920503	perf
+920507	infc
+920513	perf
+920521	impf
+ptz.
+920524	impf
+920527	infc
+infc
+920540	perf
+perf
+920548	perf
+920553	perf
+920561	wayq
+920569	infc
+920575	wayq
+920579	wayq
+920582	impf
+920589	wayq
+920600	perf
+920603	impf
+920607	impf
+920613	ptz.
+920631	ptz.
+920645	infc
+920650	impf
+920654	infc
+920658	impf
+920663	impf
+920679	impf
+920682	koh.
+920684	koh.
+920688	impf
+920690	infc
+920692	impf
+920699	wayq
+920702	impv
+920707	impf
+impf
+920710	wayq
+920715	infc
+920717	ptz.
+920727	perf
+920730	perf
+920733	impf
+impf
+ptz.
+920742	perf
+920756	impf
+920762	impf
+920765	impf
+920773	perf
+920781	impf
+impv
+920786	impf
+920789	impf
+920796	impf
+920802	infc
+920808	impf
+920813	perf
+920819	perf
+920821	perf
+920824	impf
+920828	impf
+920845	impf
+920851	perf
+920862	impf
+920864	wayq
+920869	wayq
+920880	impf
+920882	ptz.
+920886	impf
+920888	ptz.
+920894	impf
+920906	perf
+920909	perf
+920912	wayq
+920916	wayq
+920923	wayq
+920925	wayq
+920930	perf
+920936	perf
+920938	infc
+920945	perf
+920953	impf
+ptz.
+920956	impf
+ptz.
+920962	perf
+920966	impf
+920973	perf
+920975	perf
+920977	infc
+920986	perf
+920995	perf
+920998	perf
+921002	impf
+921012	impf
+921023	impf
+921041	ptz.
+921055	perf
+921061	infc
+921072	perf
+921077	ptz.
+921084	infc
+infc
+921092	perf
+921097	ptz.
+921103	impf
+921108	impf
+921113	infc
+921123	ptz.
+921130	impf
+921141	impf
+921148	impf
+921150	ptz.
+921155	impf
+921169	impf
+perf
+921180	impf
+921184	ptz.
+921187	perf
+921190	infc
+921197	infc
+921205	infc
+921216	infc
+infc
+infc
+921223	infc
+921229	impf
+921234	perf
+921236	wayq
+921241	impf
+921244	infc
+921250	impf
+921256	impf
+921265	ptz.
+921267	ptz.
+921270	perf
+921274	infc
+921282	perf
+921288	infc
+infc
+921303	perf
+921307	infc
+infc
+921311	infc
+921317	perf
+perf
+921323	impf
+921336	perf
+921342	perf
+921347	wayq
+921353	infc
+921359	impf
+impf
+impf
+921363	infc
+921367	impf
+921377	ptz.
+921385	infc
+921390	perf
+921403	ptz.
+921406	impf
+921412	perf
+921414	infc
+921427	perf
+921434	wayq
+921445	perf
+921449	perf
+921452	perf
+ptz.
+921457	ptz.
+921460	perf
+ptz.
+921465	infc
+921475	perf
+921477	infc
+921480	infc
+921485	impf
+921493	impv
+impv
+921508	perf
+921518	impf
+921522	ptz.
+921537	infc
+921563	ptz.
+921575	impf
+921581	infc
+921589	infc
+921596	impf
+921605	impf
+921610	infc
+921617	infc
+921620	infc
+921643	pf.cons.
+921649	pf.cons.
+921653	ptz.
+921656	pf.cons.
+921660	infc
+921668	impf
+921673	impf
+921684	infc
+921692	impf
+921730	ptz.
+921741	impf
+921755	ptz.
+921781	perf
+921784	infc
+921786	infc
+921801	impf
+921805	infc
+921809	impf
+921815	ptz.
+921817	impf
+921819	infc
+921824	ptz.
+921833	ptz.
+921841	impf
+921851	impf
+921864	impf
+921875	infc
+infc
+ptz.
+921893	impf
+921899	infc
+921912	impf
+921921	infc
+921930	ptz.
+impf
+921951	impf
+921958	infc
+921965	infc
+921971	infc
+921981	impf
+921993	ptz.
+impf
+922004	ptz.
+922016	impf
+922021	infc
+922036	impf
+922038	infc
+922053	impf
+922058	ptz.
+922069	ptz.
+922073	impf
+922086	impf
+922107	impf
+922116	impf
+922131	impf
+922137	impf
+922149	impf
+922161	ptz.
+impf
+922174	ptz.
+922181	infc
+922185	infc
+922199	infc
+922205	infc
+922211	impf
+ptz.
+922219	impf
+922226	impf
+922238	infc
+922242	impf
+922252	impf
+922262	impf
+922266	infc
+922270	infc
+922272	ptz.
+922278	ptz.
+922285	impf
+922303	infc
+922307	infc
+922311	impf
+922321	impf
+922328	infc
+922336	impf
+922340	infc
+922346	impf
+perf
+922353	impf
+922356	infc
+922359	infc
+922363	infc
+922365	impf
+922369	perf
+922380	infc
+922384	impf
+922404	impf
+922430	impf
+922434	impf
+922456	impf
+922473	impf
+922502	impf
+922527	impf
+perf
+922547	impf
+922566	infc
+922569	impf
+922582	ptz.
+922586	infc
+922589	impf
+922604	infc
+922607	impf
+922610	infc
+922613	infc
+922622	infc
+922625	impf
+922664	impf
+922670	infc
+922673	impf
+922705	impf
+922709	infc
+922712	impf
+922760	impf
+922785	infc
+922789	infc
+922792	infc
+922798	impf
+922807	ptz.
+922816	ptz.
+922819	ptz.
+922826	ptz.
+922835	ptz.
+922841	ptz.
+922883	ptz.
+922895	ptz.
+922923	ptz.
+922934	ptz.
+922949	ptz.
+ptz.
+922954	ptz.
+922966	ptz.
+923003	ptz.
+923013	ptz.
+923015	ptz.
+923026	impf
+impf
+923041	pf.cons.
+923046	impf
+923051	pf.cons.
+923056	impf
+923067	impf
+923077	impf
+923081	infc
+923090	impf
+923093	ptz.
+923101	impf
+923105	pf.cons.
+923110	impf
+923115	pf.cons.
+923122	ptz.
+923129	ptz.
+923134	infc
+923141	infc
+923148	infc
+923159	pf.cons.
+923168	impf
+923175	impf
+923189	impf
+923205	impf
+923213	impf
+923239	impf
+923253	ptz.
+923270	ptz.
+923274	ptz.
+923277	ptz.
+923279	infc
+923287	ptz.
+923293	ptz.
+923310	impf
+923322	ptz.
+923341	infc
+923350	impf
+923360	ptz.
+923362	impf
+923371	impf
+923384	ptz.
+923387	ptz.
+923389	ptz.
+923393	ptz.
+ptz.
+923398	ptz.
+923401	impf
+923419	impf
+923423	infc
+923427	infc
+923431	infc
+923448	ptz.
+923455	impf
+923460	impf
+923470	ptz.
+923479	impf
+923487	impf
+923497	impf
+923514	impf
+923520	infc
+923524	infc
+923528	infc
+923531	pf.cons.
+923543	ptz.
+923553	ptz.
+923558	ptz.
+923569	ptz.
+923581	impf
+923584	impf
+ptz.
+923592	infc
+923600	impf
+923617	infc
+923622	impf
+923634	ptz.
+923643	pf.cons.
+923657	impf
+923662	ptz.
+923669	impf
+923677	pf.cons.
+923684	impf
+ptz.
+923687	infc
+923691	infc
+923693	infc
+923698	impf
+923705	pf.cons.
+923711	infc
+923715	pf.cons.
+923721	pf.cons.
+923728	pf.cons.
+923742	pf.cons.
+923747	ptz.
+923749	infc
+923755	impf
+ptz.
+ptz.
+923765	infc
+923769	pf.cons.
+923777	ptz.
+923781	infc
+923786	pf.cons.
+923793	impf
+923800	ptz.
+923802	infc
+923810	impf
+923817	infc
+923824	impf
+923828	infc
+923832	impf
+923836	impf
+923838	ptz.
+923841	ptz.
+923843	infc
+923847	infc
+923855	impf
+923863	ptz.
+ptz.
+923868	impf
+923877	impf
+923882	infc
+923893	impf
+923896	infc
+923902	impf
+impf
+923909	impf
+ptz.
+923918	infc
+923921	pf.cons.
+923925	ptz.
+923931	infc
+923934	impf
+923940	pf.cons.
+923950	pf.cons.
+923955	ptz.
+923966	ptz.
+923971	impf
+923973	infc
+923982	pf.cons.
+923989	perf
+923995	infc
+924002	ptz.
+924010	infc
+924013	ptz.
+924018	impf
+924023	infc
+924031	impf
+924043	infc
+924048	infc
+924063	ptz.
+924067	ptz.
+924076	impf
+924087	ptz.
+924097	impf
+924123	impf
+924137	impf
+924144	infc
+924152	perf
+924161	ptz.
+924163	infc
+924170	wayq
+924176	infc
+924178	infc
+924182	perf
+924185	pf.cons.
+924189	infc
+impv
+924193	ptz.
+924200	impf
+924203	impf
+924207	impf
+924210	impf
+924215	ptz.
+924218	infc
+924223	infc
+924226	ptz.
+impf
+924230	ptz.
+924236	infc
+infc
+924243	infc
+924249	infc
+924255	perf
+924260	infc
+924262	impf
+924267	pf.cons.
+924271	pf.cons.
+924276	pf.cons.
+924289	impf
+924303	perf
+924313	ptz.
+924315	ptz.
+924317	ptz.
+924319	ptz.
+924321	ptz.
+924324	ptz.
+924327	ptz.
+924342	ptz.
+924358	ptz.
+924361	ptz.
+924365	ptz.
+924379	ptz.
+924396	perf
+924409	perf
+924413	ptz.
+924421	perf
+924427	perf
+924443	perf
+924454	perf
+924481	perf
+924493	perf
+924498	infc
+perf
+924503	perf
+924508	perf
+924512	perf
+924518	wayq
+impf
+924525	pf.cons.
+924530	perf
+924535	ptz.
+924544	perf
+924551	infc
+infc
+924558	infc
+924573	ptz.
+924578	wayq
+924592	ptz.
+924594	impf
+924600	ptz.
+924603	impf
+924605	infc
+infc
+924617	infc
+924619	pf.cons.
+924629	impf
+924634	impf
+924641	ptz.
+924644	infc
+924648	infc
+924655	infc
+924664	infc
+924673	infc
+924676	infc
+924682	infc
+infc
+924692	impf
+924698	infc
+924712	infc
+924718	perf
+924736	perf
+924742	infc
+924772	ptz.
+924776	ptz.
+924810	ptz.
+924830	infc
+924837	infc
+924843	impv
+924847	ptz.
+924850	impv
+924860	impv
+924865	impf
+924868	impv
+924887	impv
+924890	impv
+924895	impv
+924899	impv
+924902	infc
+924908	impf
+924910	pf.cons.
+924913	ptz.
+924916	impv
+924919	impv
+924925	infc
+924944	pf.cons.
+924956	pf.cons.
+924966	pf.cons.
+924968	pf.cons.
+ptz.
+924979	ptz.
+924981	ptz.
+924984	ptz.
+924988	ptz.
+924994	ptz.
+925000	ptz.
+925008	ptz.
+925030	koh.
+925037	perf
+925041	wayq
+925052	perf
+925065	infc
+925072	perf
+925080	perf
+925088	perf
+925090	infc
+925099	perf
+925113	infc
+infc
+925119	infc
+infc
+925130	impf
+925140	koh.
+925145	impf
+925149	impf
+925175	perf
+925183	infc
+925187	infc
+925191	infc
+925197	infc
+925204	perf
+925216	infc
+925221	infc
+925223	impf
+925231	impf
+925234	perf
+925240	pf.cons.
+925243	infc
+925245	perf
+925250	infc
+925254	pf.cons.
+925261	pf.cons.
+925267	pf.cons.
+925269	pf.cons.
+ptz.
+925273	ptz.
+925284	wayq
+ptz.
+925292	perf
+925299	infc
+925303	ptz.
+925306	infc
+925309	ptz.
+925311	infc
+925316	infc
+925319	ptz.
+925321	ptz.
+925331	ptz.
+ptz.
+925343	impf
+925355	ptz.
+925359	ptz.
+925367	perf
+925382	perf
+925388	perf
+925392	perf
+925397	perf
+ptz.
+925402	ptz.
+925404	impf
+925409	ptz.
+ptz.
+925418	ptz.
+impf
+925437	koh.
+925442	impf
+925465	ptz.
+925469	infc
+925475	infc
+925478	impv
+impv
+925482	impv
+925490	impf
+impf
+925522	impf
+925524	pf.cons.
+925533	ptz.
+925541	pf.cons.
+925555	pf.cons.
+925570	pf.cons.
+925577	pf.cons.
+925579	ptz.
+925588	pf.cons.
+925591	pf.cons.
+925593	perf
+impv
+925596	impv
+925598	impv
+925603	impf
+925608	impf
+925611	impf
+925616	impf
+925638	ptz.
+925644	impf
+925650	impf
+perf
+925665	ptz.
+925669	ptz.
+925678	infc
+925683	perf
+925692	impf
+925698	impf
+925700	infc
+925707	impf
+925714	pf.cons.
+925718	pf.cons.
+925722	pf.cons.
+925727	pf.cons.
+925738	infc
+925743	pf.cons.
+925750	infc
+925758	impf
+925768	ptz.
+925778	impf
+925784	infc
+925786	impf
+925789	infc
+925796	impf
+925801	impf
+ptz.
+925808	ptz.
+925813	infc
+925821	impf
+impf
+impf
+925825	infc
+925831	infc
+925834	ptz.
+925838	impf
+925843	infc
+925850	perf
+925855	ptz.
+925858	impf
+925860	infc
+925862	pf.cons.
+925866	pf.cons.
+925871	pf.cons.
+925880	pf.cons.
+925882	pf.cons.
+925885	impf
+925897	perf
+925902	ptz.
+925905	impf
+925910	impf
+925914	impv
+925921	perf
+925929	perf
+925936	impv
+925939	impf
+925955	ptz.
+925957	ptz.
+925960	ptz.
+925965	infc
+925968	infc
+925973	impf
+925983	perf
+925991	infc
+926003	infc
+926014	impf
+926022	impf
+926030	impv
+926035	impf
+926038	pf.cons.
+926047	impf
+926051	infc
+926056	ptz.
+926061	infc
+926066	pf.cons.
+926076	infc
+926083	impf
+926091	impf
+926097	impf
+926103	impf
+926109	impf
+926111	infc
+926117	impf
+926122	impf
+ptz.
+926128	ptz.
+926132	ptz.
+926140	infc
+926157	infc
+926160	pf.cons.
+926167	impf
+impf
+926182	impf
+926187	pf.cons.
+926193	pf.cons.
+926197	infc
+926199	infc
+926202	infc
+926206	impf
+926217	pf.cons.
+926223	pf.cons.
+926225	pf.cons.
+ptz.
+926231	perf
+926239	perf
+926254	perf
+926258	perf
+926267	perf
+926271	perf
+926276	perf
+926286	infc
+926305	perf
+perf
+926309	infc
+926316	perf
+926336	perf
+impf
+926341	infc
+926355	infc
+926362	infc
+926366	ptz.
+926369	impv
+926376	impf
+926378	impv
+926391	impf
+926393	pf.cons.
+926396	ptz.
+926399	impv
+926403	impv
+926406	impv
+926428	impf
+926441	ptz.
+926444	perf
+926450	pf.cons.
+926460	ptz.
+926465	pf.cons.
+926472	wayq
+926478	perf
+926485	ptz.
+926488	ptz.
+926492	ptz.
+926497	ptz.
+926522	perf
+926531	impf
+impf
+926538	perf
+926557	ptz.
+926562	ptz.
+926568	ptz.
+926570	ptz.
+926578	ptz.
+926582	ptz.
+ptz.
+926599	ptz.
+926601	perf
+926622	perf
+926628	infc
+926634	infc
+926643	perf
+926650	ptz.
+926654	infc
+926663	infc
+926668	infc
+926680	perf
+926683	impf
+926687	infc
+926698	infc
+926706	infc
+infc
+926710	infc
+926718	perf
+926722	perf
+926725	perf
+926736	perf
+926740	perf
+926742	impf
+926744	infc
+926755	perf
+926759	infc
+926763	infc
+926768	impv
+926771	infc
+926776	infc
+926780	perf
+926783	infc
+926787	perf
+926798	perf
+926804	impf
+926812	impf
+impf
+ptz.
+926816	ptz.
+926823	infc
+926830	infc
+926842	perf
+926856	perf
+926864	perf
+926880	perf
+926892	perf
+perf
+926910	perf
+926936	perf
+926939	infc
+926946	perf
+926980	perf
+926986	perf
+926990	impf
+926996	perf
+927000	perf
+927003	infc
+927006	infc
+927011	infc
+ptz.
+927016	perf
+927019	impf
+927024	infc
+927033	infc
+927039	infc
+927045	ptz.
+927050	ptz.
+927069	ptz.
+perf
+ptz.
+927075	impf
+927086	impf
+impf
+927091	impf
+927106	impf
+927111	perf
+927115	perf
+927124	impf
+927129	ptz.
+ptz.
+ptz.
+927135	wayq
+927140	infc
+927150	ptz.
+927152	ptz.
+927157	ptz.
+927160	ptz.
+927162	ptz.
+927168	ptz.
+927173	perf
+927178	infc
+927183	infc
+927198	infc
+927202	ptz.
+927210	infc
+927216	infc
+927220	ptz.
+927223	perf
+927225	wayq
+927229	impf
+927235	wayq
+927238	perf
+927246	perf
+927252	infc
+impf
+927259	ptz.
+927268	impf
+927272	ptz.
+927274	impf
+927287	impf
+927291	pf.cons.
+927299	perf
+927306	perf
+927311	infc
+927316	infc
+927322	perf
+927331	impf
+927336	impf
+927339	impf
+927346	impf
+927349	impf
+927355	impf
+927358	impf
+927362	ptz.
+927365	impf
+927372	ptz.
+927381	ptz.
+927383	ptz.
+927386	ptz.
+927393	wayq
+927400	perf
+927406	infc
+927411	impf
+927420	perf
+927422	impf
+927429	wayq
+927435	wayq
+927438	perf
+927441	impf
+927443	perf
+927446	infc
+927448	impf
+927451	infc
+927456	infc
+ptz.
+927461	ptz.
+927470	infc
+927475	impf
+impf
+927485	perf
+927488	ptz.
+ptz.
+impf
+927497	impf
+927503	perf
+927517	impf
+927525	impf
+927536	perf
+927541	perf
+927544	infc
+927548	impf
+927551	ptz.
+ptz.
+927558	perf
+927570	impf
+927573	infc
+927576	wayq
+927584	perf
+927587	perf
+927590	impf
+927593	infc
+927598	perf
+927603	perf
+927608	infc
+927613	infc
+927618	infc
+927625	infc
+927639	wayq
+927645	perf
+927652	perf
+927657	perf
+927663	wayq
+927670	perf
+927673	wayq
+927676	perf
+perf
+927679	infc
+927689	infc
+927696	infc
+927713	impf
+927715	infc
+927718	perf
+927722	perf
+927731	perf
+927734	impf
+927742	wayq
+927745	perf
+927750	impf
+927753	impf
+927767	perf
+927775	wayq
+927777	perf
+927792	perf
+perf
+927796	ptz.
+927798	impf
+927802	infc
+927811	perf
+927818	impf
+927820	infc
+927827	perf
+927839	infc
+perf
+927842	infc
+927844	ptz.
+927848	ptz.
+927858	perf
+927862	impf
+927872	wayq
+927878	perf
+927887	perf
+927890	impf
+impf
+927895	infc
+927900	infc
+927904	impf
+927908	infc
+927911	infc
+927915	infc
+927919	infc
+927925	infc
+927931	infc
+927939	infc
+927943	ptz.
+927955	perf
+927957	infc
+927960	wayq
+927976	infc
+927979	perf
+927984	perf
+927986	infc
+927993	perf
+927998	koh.
+928001	impf
+928006	impf
+928011	perf
+928014	infc
+928021	infc
+928027	infc
+928033	infc
+928037	infc
+928043	perf
+928045	ptz.
+928048	ptz.
+928056	infc
+928063	infc
+928069	infc
+928074	impf
+928086	wayq
+928098	ptz.
+928105	pf.cons.
+impv
+ptz.
+928111	ptz.
+928113	ptz.
+928121	infc
+928126	impf
+928131	impf
+928138	infc
+928168	perf
+928179	perf
+perf
+928186	impf
+928190	impf
+928195	perf
+928207	perf
+928211	perf
+928221	infc
+928249	perf
+928256	perf
+928259	perf
+928266	perf
+928273	perf
+928286	perf
+928301	perf
+928316	wayq
+928333	perf
+928337	infc
+928342	impf
+928344	perf
+928348	perf
+perf
+928374	ptz.
+928379	ptz.
+928384	impf
+928387	perf
+928389	koh.
+928392	perf
+928394	ptz.
+928416	perf
+928419	perf
+928425	impf
+928430	impf
+928435	impf
+928460	perf
+928465	impf
+928468	wayq
+928473	infc
+928475	wayq
+928486	wayq
+928496	infc
+928500	infc
+ptz.
+928511	infc
+928516	ptz.
+928520	impf
+928531	perf
+928539	perf
+928544	infc
+ptz.
+928551	koh.
+928561	ptz.
+928563	perf
+perf
+928568	impv
+928571	ptz.
+928574	ptz.
+impf
+928578	ptz.
+impv
+928582	impv
+928588	impv
+ptz.
+928591	impv
+928595	impf
+928604	impf
+928610	impf
+928617	pf.cons.
+928619	ptz.
+928625	ptz.
+928637	infc
+928641	ptz.
+928647	wayq
+928654	wayq
+928663	wayq
+928669	wayq
+928672	ptz.
+928677	ptz.
+928684	ptz.
+928687	ptz.
+928690	wayq
+928695	ptz.
+928704	wayq
+928713	impf
+928717	perf
+928720	ptz.
+928725	impf
+928727	impf
+928732	infc
+928737	impf
+928739	wayq
+928751	infc
+928755	infc
+ptz.
+928759	wayq
+928773	wayq
+928780	ptz.
+928783	impf
+928794	wayq
+928800	perf
+928804	wayq
+928807	perf
+928811	infc
+928816	ptz.
+928818	wayq
+928830	infc
+928833	impf
+928836	perf
+928843	wayq
+928851	perf
+928854	infc
+928865	perf
+928873	impf
+928881	perf
+928886	infc
+928891	infc
+928900	infc
+928904	perf
+perf
+928908	perf
+928914	impf
+928925	ptz.
+928938	infc
+928942	impf
+impf
+928948	infc
+928953	infc
+928958	impf
+928965	perf
+928967	impf
+impf
+928972	perf
+928975	perf
+928979	perf
+928984	koh.
+928986	impf
+928996	infc
+929001	wayq
+929009	ptz.
+929011	perf
+929015	perf
+929017	infc
+929020	infc
+929025	perf
+929031	wayq
+929039	ptz.
+929044	perf
+929048	ptz.
+929054	wayq
+929063	perf
+929065	infc
+929073	infc
+929077	ptz.
+929079	perf
+929084	perf
+929086	infc
+929096	perf
+929107	wayq
+929110	perf
+929112	impf
+929114	wayq
+929131	ptz.
+929133	perf
+929138	ptz.
+929142	infc
+929147	perf
+929155	perf
+929162	impf
+929168	impf
+929173	ptz.
+929177	wayq
+929183	perf
+929194	ptz.
+929198	impf
+929209	ptz.
+929217	wayq
+929226	impf
+929232	ptz.
+929235	ptz.
+929237	ptz.
+929249	impf
+929253	infc
+929256	infc
+929260	ptz.
+929263	wayq
+929275	infc
+impf
+929289	impf
+929302	impf
+929305	perf
+929313	perf
+929318	koh.
+929325	wayq
+929331	perf
+929339	ptz.
+perf
+929345	infc
+929353	infc
+929361	wayq
+929370	infc
+929377	infc
+ptz.
+929395	perf
+929401	perf
+929412	impf
+impf
+929426	wayq
+929437	infc
+929443	infc
+929445	impf
+929450	infc
+929458	ptz.
+929463	ptz.
+929473	perf
+929478	impf
+929487	ptz.
+929492	infc
+929501	impf
+929508	ptz.
+929512	impf
+929528	impf
+929534	impf
+impf
+929541	impf
+929546	ptz.
+929550	impf
+929553	ptz.
+929559	impf
+929561	impf
+929566	impf
+929571	impf
+929577	impf
+wayq
+929587	impf
+929590	impf
+929592	impf
+929599	impf
+929604	impf
+929608	ptz.
+929614	impf
+929617	perf
+929623	ptz.
+929628	impf
+929638	impf
+929644	impf
+impf
+929652	infc
+929657	wayq
+wayq
+929663	wayq
+929674	perf
+929680	impf
+929683	perf
+929690	ptz.
+929693	perf
+929695	perf
+perf
+929701	perf
+929703	wayq
+929712	perf
+929716	impf
+929718	infc
+929721	impf
+impf
+impf
+929736	ptz.
+perf
+929740	wayq
+929743	ptz.
+929751	perf
+929755	infc
+929758	perf
+929766	wayq
+929774	impf
+929778	infc
+929782	infc
+929786	infc
+929792	impf
+929799	impf
+929803	impf
+929808	ptz.
+929811	impf
+929813	wayq
+929820	perf
+929824	ptz.
+929834	impf
+929836	wayq
+929842	perf
+929847	wayq
+929849	ptz.
+929854	ptz.
+929866	impf
+929870	infc
+929877	perf
+929883	perf
+929887	perf
+929892	ptz.
+929902	impf
+929905	infc
+929916	impf
+929920	perf
+929924	impf
+929934	impf
+929952	impf
+929958	ptz.
+929962	impf
+929968	infc
+929970	koh.
+929972	koh.
+929974	ptz.
+929979	ptz.
+929982	impf
+929984	infc
+929987	wayq
+929993	perf
+929998	ptz.
+930000	ptz.
+930005	impf
+ptz.
+930011	impf
+930017	impf
+930027	impf
+930032	infc
+930044	infc
+930048	ptz.
+930051	perf
+930056	wayq
+wayq
+930062	perf
+930070	perf
+930084	infc
+930091	perf
+930099	infc
+930115	perf
+930141	impf
+930146	perf
+930150	infc
+930157	impf
+930175	perf
+930179	impf
+930181	impf
+930189	impf
+930193	ptz.
+930197	perf
+930203	infc
+930213	perf
+930216	perf
+930221	infc
+930227	perf
+930229	wayq
+930232	perf
+930239	perf
+930247	impf
+930251	infc
+930263	perf
+930266	perf
+930270	koh.
+930290	infc
+930292	perf
+930300	impf
+930304	perf
+930306	infc
+930312	perf
+930315	perf
+930320	wayq
+930325	wayq
+930330	ptz.
+930335	ptz.
+930339	ptz.
+930343	wayq
+930349	ptz.
+930363	perf
+930367	perf
+930375	ptz.
+930377	wayq
+930394	infc
+impf
+930398	perf
+930404	perf
+perf
+930411	perf
+930415	infc
+930423	perf
+930426	perf
+930432	perf
+930436	wayq
+930443	perf
+930450	perf
+930455	impf
+930459	ptz.
+930461	wayq
+930475	infc
+930481	perf
+930485	impf
+930496	ptz.
+930499	ptz.
+930501	infc
+930504	impf
+930513	impf
+930518	impf
+930526	perf
+930530	ptz.
+930536	impf
+ptz.
+930542	perf
+930546	perf
+ptz.
+930561	ptz.
+930571	ptz.
+930574	infc
+930586	perf
+930596	ptz.
+930598	ptz.
+930601	perf
+930608	ptz.
+930613	ptz.
+930615	ptz.
+930620	perf
+930622	impf
+930630	infc
+930636	perf
+perf
+930647	impf
+930651	perf
+930657	ptz.
+930662	ptz.
+930664	impf
+930666	infc
+930673	wayq
+930679	ptz.
+930684	infc
+930688	infc
+930692	infc
+930695	wayq
+930704	infc
+930708	wayq
+930722	perf
+930727	ptz.
+930729	wayq
+930733	perf
+930738	impf
+930740	perf
+930746	perf
+930751	wayq
+930758	ptz.
+930765	perf
+930769	wayq
+930773	wayq
+930778	wayq
+930789	perf
+930801	impf
+930807	wayq
+930818	wayq
+930824	infc
+930828	infc
+930835	perf
+930840	infc
+930845	impf
+930858	ptz.
+perf
+930861	perf
+930883	perf
+perf
+930888	ptz.
+930898	wayq
+930904	wayq
+930909	ptz.
+930912	ptz.
+930916	infc
+930924	koh.
+930933	infc
+930935	perf
+930937	impf
+930948	impf
+930950	infc
+930955	infc
+930963	impf
+930974	infc
+930980	infc
+930988	perf
+930990	infc
+930999	infc
+931003	ptz.
+931007	impf
+931010	infc
+931012	impf
+931021	perf
+931045	impf
+931050	impf
+931056	perf
+931065	infc
+infc
+931074	impf
+impf
+931094	pf.cons.
+931101	pf.cons.
+931111	pf.cons.
+931119	infc
+931123	impf
+931128	ptz.
+931135	perf
+931139	infc
+931147	perf
+931149	infc
+931162	impf
+931164	impf
+931171	impf
+931174	ptz.
+931179	impf
+931183	impf
+931188	perf
+931201	perf
+931207	infc
+infc
+931215	infc
+931221	wayq
+931228	perf
+931233	wayq
+931235	ptz.
+931240	ptz.
+931243	ptz.
+931247	koh.
+931253	impf
+931266	infc
+931275	impf
+931278	ptz.
+931280	impf
+impf
+931284	impf
+931298	impf
+931300	impf
+931306	infc
+931313	impf
+931323	impf
+impf
+931326	infc
+931333	impf
+931336	impf
+931340	impf
+931351	infc
+931355	impf
+931362	impf
+931371	impf
+931390	ptz.
+931395	ptz.
+perf
+perf
+931404	infc
+931406	ptz.
+931408	impf
+931419	perf
+931424	perf
+931426	ptz.
+931430	wayq
+931434	perf
+931437	infc
+931443	infc
+931445	perf
+931453	infc
+931457	wayq
+931463	impf
+931477	wayq
+931484	impf
+impf
+931489	impf
+931492	perf
+931498	perf
+931501	impf
+impf
+931504	wayq
+931514	perf
+931519	wayq
+wayq
+931526	ptz.
+931528	wayq
+931545	impf
+931549	perf
+931554	wayq
+931576	impf
+931582	ptz.
+931585	impf
+931587	infc
+931595	perf
+931603	perf
+931605	wayq
+931613	infc
+931619	infc
+931637	infc
+931641	infc
+931646	perf
+931653	infc
+931658	infc
+931671	infc
+931679	impf
+931681	infc
+931688	infc
+infc
+931692	infc
+931696	wayq
+931713	wayq
+931717	ptz.
+931719	wayq
+931734	ptz.
+931737	perf
+931740	wayq
+931745	perf
+931749	perf
+931759	wayq
+931765	impf
+931771	perf
+931782	ptz.
+931796	impf
+931800	infc
+931804	infc
+931809	impf
+931812	infc
+931821	impf
+931827	infc
+931838	infc
+931851	impf
+931867	infc
+931872	impf
+931876	perf
+931884	ptz.
+931886	perf
+931889	wayq
+931895	perf
+931915	impf
+931922	impf
+931925	perf
+931958	ptz.
+931965	pf.cons.
+931967	infc
+931973	infc
+931975	impf
+931980	impf
+931982	impf
+931989	impf
+931998	impf
+932007	ptz.
+932016	impf
+932024	impf
+932029	impf
+932033	ptz.
+ptz.
+932040	ptz.
+perf
+932044	ptz.
+932048	ptz.
+ptz.
+932055	perf
+932068	ptz.
+932070	impf
+932080	impf
+932084	impf
+932090	perf
+932093	perf
+932095	wayq
+932098	perf
+932103	wayq
+932109	perf
+932113	ptz.
+ptz.
+932116	perf
+932122	perf
+932136	impf
+932139	impf
+932141	impf
+932153	impf
+impf
+impf
+ptz.
+932158	ptz.
+932162	impf
+932181	impf
+perf
+932196	perf
+932202	infc
+infc
+932206	ptz.
+932216	infc
+932219	infc
+932221	impf
+932233	impf
+932237	impf
+932239	impf
+932251	impf
+932260	impf
+932267	impf
+932271	perf
+932285	wayq
+932288	ptz.
+932295	perf
+932303	infc
+932307	ptz.
+932311	ptz.
+impf
+932315	perf
+932321	impf
+932330	wayq
+932333	ptz.
+ptz.
+932340	impf
+932343	infc
+932349	infc
+932354	impf
+932360	impf
+932364	perf
+932369	wayq
+932374	wayq
+932381	perf
+932385	wayq
+932392	infc
+932396	perf
+932400	impf
+932407	infc
+932418	perf
+932424	perf
+932429	ptz.
+932433	infc
+932439	infc
+932441	ptz.
+932448	infc
+infc
+932454	ptz.
+932456	perf
+ptz.
+932463	perf
+932478	perf
+perf
+932490	impf
+932504	impf
+932520	perf
+932524	perf
+932548	impf
+932551	ptz.
+932554	perf
+932561	impf
+932567	koh.
+932569	ptz.
+932573	ptz.
+932577	impf
+932581	impf
+932583	perf
+932587	wayq
+932593	perf
+932595	perf
+932599	wayq
+932606	perf
+932611	perf
+932614	perf
+932620	perf
+932624	perf
+932627	impf
+932632	perf
+932636	impf
+932638	koh.
+932643	wayq
+932656	impf
+932662	impf
+932667	impf
+932672	impf
+932677	impf
+932699	ptz.
+932704	perf
+932707	infc
+932714	impf
+932726	ptz.
+932733	impf
+932739	perf
+932743	wayq
+wayq
+932771	perf
+932777	perf
+932800	impf
+932807	infc
+932815	perf
+932820	perf
+932825	ptz.
+932838	perf
+932846	ptz.
+perf
+932852	impf
+932862	infc
+932873	infc
+932878	impf
+932883	perf
+932887	perf
+932897	wayq
+impf
+932907	impf
+932911	ptz.
+932913	perf
+perf
+932920	infc
+932926	impf
+932929	perf
+932935	impf
+932944	impf
+932955	perf
+932966	impf
+impf
+932976	impf
+932979	perf
+perf
+932985	impf
+932990	impf
+932993	perf
+932996	impf
+932999	perf
+perf
+933004	impf
+933007	perf
+933011	impf
+933014	perf
+933021	ptz.
+933028	ptz.
+933036	impf
+933040	impf
+933069	impf
+933072	infc
+933080	ptz.
+933084	impf
+933089	perf
+933092	ptz.
+933101	perf
+933104	infc
+ptz.
+933109	infc
+933119	koh.
+933134	perf
+933144	infc
+933147	impf
+ptz.
+933151	infc
+933160	impf
+933163	perf
+933165	perf
+933168	perf
+933180	perf
+933195	wayq
+933207	infc
+933213	infc
+infc
+933217	perf
+933221	infc
+933229	perf
+933235	impf
+933246	perf
+933257	perf
+933267	ptz.
+933273	impf
+933276	impf
+933281	ptz.
+933294	wayq
+933301	wayq
+933313	impf
+933318	impf
+impf
+impf
+933323	koh.
+933325	infc
+933346	impf
+933349	perf
+933356	perf
+933363	perf
+933368	wayq
+933373	wayq
+933388	koh.
+933394	koh.
+933398	koh.
+933401	impf
+933411	impf
+933415	perf
+933455	perf
+933463	perf
+933468	perf
+933473	infc
+933484	infc
+infc
+933495	infc
+933499	ptz.
+933507	ptz.
+933512	infc
+933523	infc
+933526	ptz.
+ptz.
+933530	ptz.
+ptz.
+933535	impf
+933537	impf
+933543	perf
+933550	ptz.
+perf
+perf
+933555	impf
+933558	wayq
+933565	impf
+933571	perf
+933579	perf
+933584	infc
+933590	koh.
+933597	wayq
+933601	wayq
+933608	infc
+infc
+933615	impf
+933627	infc
+933635	infc
+933638	koh.
+933651	infc
+933657	impf
+933660	infc
+infc
+933666	impf
+933671	impf
+933675	impf
+933690	impf
+933697	ptz.
+933700	perf
+933706	infc
+933710	infc
+933714	ptz.
+933732	impv
+933738	impv
+933743	perf
+933749	impf
+933753	perf
+933758	perf
+933760	perf
+933763	ptz.
+933768	perf
+933771	wayq
+933783	perf
+933787	impf
+933792	impf
+933811	koh.
+933815	ptz.
+933822	infc
+933824	infc
+933845	infc
+933860	infc
+933865	infc
+933897	ptz.
+933903	ptz.
+933906	impf
+933913	perf
+933916	impf
+933921	perf
+933929	perf
+933934	perf
+933937	ptz.
+perf
+933977	impf
+impf
+933982	impf
+933986	ptz.
+ptz.
+933992	impf
+933996	perf
+934001	impf
+934005	infc
+934010	infc
+934017	perf
+perf
+934039	impf
+934043	perf
+934048	impf
+934054	impf
+934059	impf
+934062	ptz.
+934077	impf
+934079	infc
+934084	infc
+934091	infc
+934096	perf
+934105	ptz.
+934110	perf
+934113	impf
+934120	perf
+934126	impf
+934129	perf
+934133	impf
+934136	perf
+934139	impf
+934142	perf
+perf
+934147	impf
+934151	perf
+934154	impf
+934161	impf
+934163	ptz.
+934165	impf
+934170	impf
+934173	perf
+934177	impf
+934180	perf
+perf
+934184	koh.
+perf
+934191	perf
+934196	wayq
+934199	perf
+934209	infc
+934212	infc
+934217	infc
+934223	ptz.
+934226	ptz.
+perf
+934232	wayq
+wayq
+934251	perf
+934258	ptz.
+934260	perf
+934272	pf.cons.
+934288	perf
+934299	impf
+934304	infc
+934307	infc
+934310	infc
+934315	impf
+934319	ptz.
+934321	impf
+934327	impf
+perf
+934334	impf
+934339	impf
+934360	impf
+impf
+934373	perf
+934377	perf
+934382	impf
+impf
+impf
+934398	ptz.
+934405	impf
+934408	impf
+934410	infc
+934413	ptz.
+934421	ptz.
+934430	infc
+934435	impf
+934446	perf
+934448	wayq
+934457	koh.
+934462	perf
+perf
+934487	impf
+934491	impf
+934495	perf
+934497	impf
+934501	ptz.
+934504	perf
+934507	perf
+perf
+934511	impf
+934516	perf
+934519	wayq
+934530	perf
+934535	impf
+934547	ptz.
+pf.cons.
+934552	impf
+perf
+934559	wayq
+wayq
+934563	infc
+934567	wayq
+934573	impf
+934578	ptz.
+934583	perf
+934586	wayq
+wayq
+934595	perf
+impf
+impf
+934601	infc
+934605	impf
+934612	wayq
+934618	infc
+934624	wayq
+wayq
+934630	wayq
+934637	infc
+934641	ptz.
+934646	infc
+934653	wayq
+impf
+934658	impf
+impf
+934662	infc
+ptz.
+934667	ptz.
+934671	perf
+934678	perf
+934683	ptz.
+934698	wayq
+934701	infc
+934708	ptz.
+934714	infc
+934720	perf
+934724	infc
+934727	ptz.
+934730	infc
+934733	infc
+934740	infc
+934744	ptz.
+934762	impf
+impf
+934765	infc
+934768	infc
+934777	perf
+934782	perf
+934788	impv
+934801	ptz.
+934827	impf
+934834	perf
+934840	infc
+934852	perf
+perf
+934855	perf
+934857	infc
+934859	ptz.
+934863	ptz.
+934868	perf
+934871	perf
+934878	ptz.
+934880	ptz.
+934885	impf
+934898	infc
+infc
+934904	impf
+934917	wayq
+934921	impf
+934930	ptz.
+934937	infc
+934943	infc
+934947	infc
+934965	infc
+infc
+934969	infc
+934977	ptz.
+934994	infc
+934997	perf
+935003	infc
+935005	perf
+perf
+935012	infc
+perf
+935018	infc
+935022	ptz.
+935025	impf
+impf
+935030	perf
+935037	infc
+935041	perf
+935045	ptz.
+935048	infc
+935062	impf
+935065	impf
+935069	impf
+impf
+935078	impf
+935084	infc
+935086	impf
+935097	infc
+935102	perf
+935108	perf
+perf
+935120	perf
+935128	ptz.
+935134	ptz.
+935136	impf
+935138	infc
+935142	infc
+935149	impf
+935158	pf.cons.
+935160	infc
+935163	infc
+935167	infc
+perf
+935180	impf
+impf
+935190	infc
+infc
+ptz.
+935195	infc
+ptz.
+935201	impv
+935203	impv
+935205	wayq
+impf
+935213	ptz.
+935215	impf
+935222	infc
+935225	infc
+935233	perf
+935242	infc
+935257	infc
+935260	wayq
+935268	impf
+935273	infc
+935275	impf
+935279	perf
+935284	impf
+935297	infc
+935305	impf
+935317	perf
+935321	ptz.
+935336	ptz.
+935338	infc
+935345	impf
+935355	impf
+935358	infc
+935372	impf
+935375	wayq
+935386	ptz.
+impf
+ptz.
+935392	perf
+935403	infc
+935410	perf
+perf
+935414	impf
+impf
+impf
+impf
+935420	impv
+935425	infc
+935435	perf
+935443	impf
+935445	infc
+935455	wayq
+935461	wayq
+935466	wayq
+935469	perf
+ptz.
+935474	impf
+935481	ptz.
+935493	perf
+935500	perf
+935502	ptz.
+935507	perf
+935517	infc
+935520	perf
+935530	impf
+935536	impf
+935543	perf
+935555	infc
+935567	infc
+935572	impv
+935575	pf.cons.
+935578	impv
+935586	pf.cons.
+935593	perf
+935598	infc
+935606	impf
+935609	pf.cons.
+935616	impf
+935621	ptz.
+935624	impf
+935626	impf
+935632	perf
+935638	impf
+935646	ptz.
+935649	infc
+935652	infc
+935657	ptz.
+935662	infc
+935664	perf
+935666	impf
+935671	pf.cons.
+935673	infc
+935676	infc
+935678	wayq
+935687	infc
+935690	impv
+935695	ptz.
+935701	ptz.
+935705	infc
+935714	ptz.
+935717	perf
+935719	pf.cons.
+935721	pf.cons.
+935724	impf
+935727	pf.cons.
+935730	ptz.
+935742	infc
+935753	impf
+935755	infc
+935757	infc
+935761	infc
+935764	impf
+935766	infc
+935774	impv
+935779	infc
+935781	pf.cons.
+935785	pf.cons.
+935791	infc
+935800	infc
+935805	infc
+935818	infc
+impf
+935826	impf
+impf
+935837	perf
+ptz.
+935848	impf
+935855	impf
+935859	impf
+935867	pf.cons.
+935870	impf
+935874	impf
+935886	impf
+935898	pf.cons.
+935906	perf
+935910	infc
+935919	perf
+935926	infc
+935932	impf
+935935	impf
+935941	perf
+935957	pf.cons.
+perf
+935963	perf
+935965	perf
+935968	perf
+935972	perf
+perf
+935977	ptz.
+935979	impv
+935983	impf
+935986	perf
+935991	perf
+935998	impv
+936002	pf.cons.
+impv
+936014	perf
+936016	ptz.
+936021	perf
+936024	perf
+936027	impf
+936032	perf
+936035	ptz.
+936041	impf
+936043	infc
+936047	pf.cons.
+936053	infc
+936060	infc
+936067	impf
+936073	impf
+936080	ptz.
+936085	impf
+936093	ptz.
+936096	infc
+936103	impf
+impf
+936108	impf
+936114	perf
+936120	impf
+936134	ptz.
+936138	ptz.
+936140	impf
+936144	impf
+936146	impf
+936156	perf
+936162	perf
+936173	ptz.
+936175	ptz.
+936178	impf
+936189	ptz.
+perf
+936199	perf
+936204	impf
+936209	perf
+936211	perf
+perf
+936219	impf
+936227	infc
+936236	perf
+impv
+936246	ptz.
+936248	ptz.
+936255	perf
+936259	infc
+936262	infc
+936265	ptz.
+936272	infc
+936279	impf
+936281	pf.cons.
+936288	ptz.
+936292	impf
+936298	impv
+936331	impf
+wayq
+936336	infc
+936340	infc
+936345	ptz.
+infc
+936348	impf
+936352	ptz.
+936371	ptz.
+936374	perf
+936379	impv
+936406	infc
+936408	pf.cons.
+936412	ptz.
+936416	ptz.
+936419	impf
+936426	perf
+936434	infc
+936443	perf
+936449	perf
+936452	perf
+936457	wayq
+936462	perf
+936467	wayq
+936471	impf
+936479	impf
+936483	wayq
+936490	perf
+936493	wayq
+936495	infc
+936503	wayq
+936517	perf
+936520	infc
+936527	ptz.
+ptz.
+936534	infc
+infc
+936541	ptz.
+perf
+936552	ptz.
+936563	ptz.
+936570	ptz.
+936576	ptz.
+936579	ptz.
+936606	infc
+infc
+936619	infc
+936621	pf.cons.
+936625	perf
+936642	perf
+936650	ptz.
+936663	ptz.
+infc
+perf
+936675	impf
+936678	perf
+perf
+936692	impf
+936706	infc
+936715	perf
+936744	ptz.
+936752	ptz.
+936773	perf
+936785	perf
+ptz.
+936802	infc
+936810	impf
+936815	wayq
+936817	impf
+936821	impf
+936824	infc
+936834	infc
+936839	infc
+936841	perf
+936853	impf
+936867	perf
+936872	impf
+936878	impf
+936894	ptz.
+936899	impf
+936902	infc
+936905	impf
+936912	ptz.
+936918	impf
+936934	perf
+perf
+936955	perf
+936974	ptz.
+impf
+936985	impf
+936999	pf.cons.
+937001	infc
+937011	perf
+937036	ptz.
+937071	ptz.
+937104	ptz.
+937221	impv
+937254	impv
+937314	ptz.
+937334	impv
+937372	impv
+937389	impv
+937423	impv
+937441	impv
+937453	ptz.
+937458	impv
+937477	ptz.
+937480	impv
+937493	impv
+937506	impv
+937520	impv
+937536	impv
+937550	impv
+937562	impv
+937593	impf
+impf
+937599	perf
+937602	impv
+937619	impv
+937629	ptz.
+937635	ptz.
+937637	impv
+937653	impv
+937666	impv
+937687	ptz.
+937689	impv
+937702	ptz.
+937706	impv
+937730	impv
+937783	infc
+937822	impv
+937872	infc
+937875	ptz.
+938030	ptz.
+938034	perf
+938056	impf
+938060	perf
+938065	perf
+938072	impf
+938074	perf
+938077	perf
+938079	ptz.
+938091	impf
+938099	perf
+938102	ptz.
+impf
+impv
+938106	ptz.
+938110	impf
+impf
+impv
+938114	impv
+938117	impf
+938122	ptz.
+938124	infc
+938129	infc
+938134	impf
+938149	impf
+938157	impf
+938159	impf
+938163	impf
+impf
+ptz.
+938170	impf
+938175	impf
+938180	impv
+938183	impv
+938186	impv
+938188	impv
+938191	impv
+impv
+938198	impf
+938200	impf
+938204	impf
+938206	impf
+938208	ptz.
+938215	impf
+938221	impv
+938224	perf
+impf
+938227	impf
+938230	impv
+938233	impf
+ptz.
+938239	impf
+938242	wayq
+impf
+938245	wayq
+938252	impf
+938258	impv
+938261	perf
+perf
+938264	ptz.
+938271	impf
+impf
+impf
+938276	pf.cons.
+pf.cons.
+pf.cons.
+pf.cons.
+938292	wayq
+perf
+perf
+938297	impf
+impf
+938305	impv
+938307	impv
+938309	ptz.
+impf
+938315	impf
+938319	impf
+938326	impf
+impf
+938329	impf
+938331	pf.cons.
+938334	impf
+938336	wayq
+938338	infc
+938342	wayq
+938351	impf
+938355	impf
+938357	pf.cons.
+938359	impf
+938363	impf
+938365	impf
+938368	impf
+impf
+938376	impf
+938379	infc
+938381	impf
+938383	infc
+ptz.
+938389	perf
+938396	perf
+938400	impf
+938402	impf
+938405	impf
+938409	wayq
+938411	wayq
+938418	impf
+938423	impf
+938428	perf
+938431	impf
+938433	perf
+938435	perf
+938444	impf
+938451	wayq
+938457	wayq
+938459	infc
+938462	wayq
+938464	wayq
+938468	wayq
+938474	wayq
+938476	wayq
+938479	wayq
+impv
+938484	impf
+938490	impf
+938503	wayq
+938507	infc
+938514	perf
+938528	infc
+impv
+938531	infc
+938535	perf
+938542	infc
+938544	infc
+938547	infc
+938556	wayq
+938563	infc
+938570	impf
+938577	wayq
+938587	perf
+938591	perf
+938603	wayq
+938608	perf
+938613	impf
+938617	wayq
+938622	pf.cons.
+938627	infc
+938632	impv
+938637	impf
+938641	infc
+938644	impf
+938646	impf
+938654	impf
+938658	wayq
+938662	impv
+impv
+938669	impf
+938671	impv
+938676	wayq
+938682	wayq
+938684	perf
+938688	perf
+938691	impf
+938701	impf
+938709	perf
+938712	impf
+938720	pf.cons.
+pf.cons.
+938725	impf
+ptz.
+938732	impf
+938738	impf
+938746	perf
+938750	impf
+938756	perf
+938759	pf.cons.
+938761	perf
+938766	perf
+938777	impf
+938783	impf
+impf
+938793	impf
+ptz.
+938798	impf
+938808	impf
+938817	impf
+938828	infc
+938833	pf.cons.
+938837	impf
+938839	impf
+938842	impf
+938865	pf.cons.
+pf.cons.
+938872	impf
+perf
+938877	infc
+938882	pf.cons.
+938888	ptz.
+938897	impf
+938899	pf.cons.
+938905	impf
+938912	impf
+938914	infc
+938925	impf
+938967	perf
+938972	ptz.
+ptz.
+ptz.
+938980	impf
+938986	wayq
+938990	impf
+938998	pf.cons.
+939004	perf
+939012	impf
+939015	impf
+impf
+939018	perf
+939021	ptz.
+939023	impf
+939030	impf
+939036	impf
+939043	impf
+939052	infc
+939054	impf
+939056	pf.cons.
+ptz.
+939061	perf
+939064	pf.cons.
+939067	perf
+perf
+939071	pf.cons.
+939074	impf
+939079	wayq
+939082	infc
+939087	perf
+939091	infc
+939097	wayq
+939099	impv
+939103	impf
+939109	infc
+939114	perf
+939118	perf
+939123	impv
+939126	impv
+939130	impv
+939152	ptz.
+939154	impf
+impf
+939159	perf
+939163	impf
+939168	impf
+939173	ptz.
+939184	impf
+939195	perf
+perf
+939201	perf
+939203	perf
+perf
+939212	perf
+939214	infc
+939236	impf
+939244	perf
+939249	impf
+939252	impf
+939255	infc
+939264	impf
+939267	perf
+939270	perf
+939277	perf
+939280	ptz.
+939282	perf
+939294	infc
+939296	infc
+939301	infc
+939309	ptz.
+939311	ptz.
+939321	impf
+939333	impf
+impf
+939336	pf.cons.
+939339	ptz.
+939345	pf.cons.
+pf.cons.
+939358	impf
+939363	infc
+939373	pf.cons.
+939387	impf
+939392	ptz.
+939398	impf
+939412	impf
+939416	impf
+939423	impf
+939427	impf
+939429	impf
+939434	impf
+939445	impf
+939452	perf
+939468	impf
+939474	ptz.
+939478	impf
+ptz.
+939483	impf
+impf
+939486	pf.cons.
+939501	perf
+939506	perf
+939509	perf
+939524	perf
+939528	perf
+939534	pf.cons.
+939542	ptz.
+939552	perf
+939561	perf
+perf
+939565	perf
+939571	wayq
+939575	wayq
+939577	wayq
+939580	impf
+939593	perf
+perf
+939604	ptz.
+939609	perf
+939611	ptz.
+939615	ptz.
+939625	pf.cons.
+939630	pf.cons.
+939636	ptz.
+ptz.
+939645	ptz.
+ptz.
+939649	impf
+939652	impf
+939654	wayq
+939664	impf
+939676	impf
+939682	infc
+939686	wayq
+939701	impf
+939709	ptz.
+939715	perf
+939737	perf
+ptz.
+939746	perf
+939749	impf
+ptz.
+939753	ptz.
+939765	impf
+939776	impf
+939786	wayq
+939790	perf
+939792	wayq
+939795	ptz.
+939797	ptz.
+939799	ptz.
+939809	ptz.
+939811	ptz.
+939815	perf
+impf
+939820	impf
+939826	pf.cons.
+perf
+939836	infc
+939843	infc
+939845	infc
+939848	impf
+939851	perf
+939861	impf
+939865	perf
+939870	impf
+939873	impf
+939884	impf
+939887	perf
+939901	impf
+939904	infc
+939911	ptz.
+939920	ptz.
+939927	infc
+939933	perf
+infc
+939940	impf
+impf
+939947	perf
+939977	ptz.
+939982	ptz.
+939986	perf
+939995	pf.cons.
+939998	perf
+940015	ptz.
+940021	ptz.
+940044	ptz.
+940047	perf
+perf
+940056	impf
+940061	impf
+940066	ptz.
+940074	impf
+940079	perf
+940083	ptz.
+940088	infc
+940094	ptz.
+940096	impf
+940102	infc
+940106	perf
+940113	ptz.
+940117	perf
+940122	wayq
+impf
+940136	ptz.
+infc
+940149	perf
+940155	perf
+940159	perf
+940165	ptz.
+perf
+940168	wayq
+940172	impf
+940180	impf
+940182	pf.cons.
+940189	pf.cons.
+940195	infc
+940199	impf
+940204	ptz.
+940206	impf
+940211	perf
+940218	infc
+940227	perf
+940232	impf
+940244	impf
+940250	perf
+940257	ptz.
+940259	pf.cons.
+940263	pf.cons.
+940280	impf
+940283	infc
+940288	impf
+940290	pf.cons.
+940292	impf
+940299	infc
+940310	impf
+940313	perf
+940316	perf
+940320	wayq
+940332	perf
+940335	impf
+940338	impf
+940352	perf
+940354	impf
+940372	perf
+ptz.
+940377	wayq
+940383	infc
+940388	infc
+940393	ptz.
+940395	impf
+940402	perf
+940404	impf
+940410	ptz.
+940418	pf.cons.
+940423	ptz.
+940440	perf
+940451	perf
+940453	infc
+940457	ptz.
+940466	infc
+ptz.
+940472	ptz.
+940477	ptz.
+940485	impf
+940499	ptz.
+940502	impf
+940512	ptz.
+940516	impf
+impf
+940524	impf
+940527	pf.cons.
+940547	impf
+940549	impf
+940557	impf
+940566	perf
+940571	ptz.
+940581	impf
+940583	impf
+940594	ptz.
+940597	ptz.
+940615	pf.cons.
+940621	ptz.
+940625	impf
+940638	infc
+940647	impf
+940661	impf
+940673	ptz.
+ptz.
+940684	ptz.
+940696	impf
+940705	ptz.
+940709	impf
+940712	ptz.
+940714	ptz.
+impf
+940725	pf.cons.
+940730	pf.cons.
+940748	perf
+940752	pf.cons.
+940754	pf.cons.
+ptz.
+940757	perf
+940759	ptz.
+impf
+940764	ptz.
+940770	impf
+940778	impf
+940782	pf.cons.
+940784	pf.cons.
+940790	infc
+940793	impf
+940800	pf.cons.
+940802	ptz.
+940804	pf.cons.
+940809	pf.cons.
+940812	impf
+940816	koh.
+ptz.
+940819	ptz.
+940822	impf
+940825	pf.cons.
+940829	impf
+940832	infc
+940837	impf
+940842	impf
+940855	ptz.
+940877	ptz.
+940884	ptz.
+940891	perf
+940893	impf
+940900	ptz.
+impf
+940912	impf
+940919	impf
+940924	ptz.
+940932	impf
+940952	impv
+940959	impf
+ptz.
+ptz.
+940966	ptz.
+940968	infc
+940970	ptz.
+940975	impv
+940979	impv
+940983	impf
+940985	ptz.
+940989	ptz.
+940995	perf
+941001	perf
+941006	perf
+941012	impf
+941021	impv
+941025	impv
+941029	impf
+941032	infc
+941034	ptz.
+impf
+941039	ptz.
+941044	impf
+941046	infc
+941051	ptz.
+941053	infc
+941056	impf
+941058	ptz.
+941061	impf
+941066	ptz.
+941075	koh.
+941089	impf
+941092	impf
+941100	impf
+941103	pf.cons.
+941112	impf
+941117	pf.cons.
+941124	impf
+941128	pf.cons.
+941133	ptz.
+941138	ptz.
+941140	impf
+941143	perf
+941145	perf
+941156	impf
+941158	infc
+941160	ptz.
+941169	impf
+941173	perf
+941176	impf
+941179	infc
+941185	infc
+941189	impf
+941194	impf
+941202	impf
+941204	infc
+941215	ptz.
+941219	impf
+941225	impf
+941244	impf
+941247	ptz.
+941250	impf
+941269	impf
+941272	impf
+941275	impf
+941281	impf
+941290	perf
+941292	infc
+941295	ptz.
+941305	impf
+941313	perf
+941322	perf
+941327	impf
+941332	ptz.
+941335	ptz.
+941339	impf
+941342	ptz.
+941344	ptz.
+impf
+941355	impf
+941363	impf
+941365	ptz.
+impf
+941373	impf
+941375	pf.cons.
+941381	perf
+941384	impf
+941386	impf
+941388	impf
+941396	perf
+941402	infc
+infc
+941406	perf
+941408	infc
+941411	perf
+941416	perf
+ptz.
+941420	ptz.
+941422	ptz.
+941424	ptz.
+941439	impf
+941441	perf
+941443	ptz.
+941450	perf
+ptz.
+941455	infc
+941459	perf
+941464	impf
+impf
+941468	infc
+941475	impv
+941478	impf
+941480	infc
+941483	infc
+941485	impf
+941492	impf
+941496	impf
+941507	impf
+perf
+941511	ptz.
+941517	perf
+941521	impf
+941523	pf.cons.
+941529	impf
+941531	wayq
+941534	impf
+941537	impf
+941541	ptz.
+941547	ptz.
+941564	infc
+941571	koh.
+941576	impf
+941579	impf
+941588	infc
+941591	perf
+941594	ptz.
+941598	infc
+ptz.
+941601	impf
+941608	ptz.
+941615	impf
+941617	perf
+941619	ptz.
+941621	perf
+941625	ptz.
+941632	impf
+941636	infc
+941656	ptz.
+941659	perf
+941662	impf
+941670	impf
+941690	impf
+941693	impf
+941698	perf
+941709	wayq
+941711	infc
+941716	infc
+ptz.
+941726	perf
+941730	pf.cons.
+941736	impf
+941742	ptz.
+941745	infc
+941750	perf
+941755	infc
+941760	infc
+941766	impf
+941773	pf.cons.
+941778	impf
+941781	pf.cons.
+941786	pf.cons.
+941793	impf
+941799	impf
+941806	ptz.
+941808	ptz.
+941816	ptz.
+941818	pf.cons.
+941822	ptz.
+941826	ptz.
+941828	impf
+941830	infc
+941839	perf
+941845	ptz.
+941849	ptz.
+941858	wayq
+941866	ptz.
+941887	impf
+impf
+941890	ptz.
+perf
+941907	ptz.
+941910	infc
+941913	pf.cons.
+941920	ptz.
+941926	impf
+941928	impf
+941933	ptz.
+941935	impf
+941938	infc
+ptz.
+941942	ptz.
+941949	perf
+941954	infc
+941962	perf
+941967	infc
+941970	perf
+impf
+941975	ptz.
+941997	ptz.
+941999	infc
+ptz.
+942018	wayq
+942023	infc
+perf
+942031	perf
+942033	perf
+942036	perf
+942038	impf
+942040	impf
+942045	infc
+942049	infc
+942057	impf
+942065	impf
+942072	pf.cons.
+942079	impf
+942084	impf
+942086	perf
+942090	impf
+impf
+942096	impf
+942101	impf
+942105	wayq
+942108	wayq
+942121	perf
+perf
+942125	ptz.
+942129	impf
+942135	impf
+ptz.
+942138	ptz.
+942140	perf
+942145	wayq
+942150	perf
+942154	perf
+impv
+942165	perf
+942168	impf
+942172	ptz.
+942180	perf
+942185	perf
+942190	perf
+942192	perf
+942196	impf
+942198	impf
+942205	impf
+942213	impv
+942219	impf
+impv
+942222	ptz.
+942224	ptz.
+942226	impf
+942230	perf
+942233	infc
+942236	infc
+942240	wayq
+ptz.
+942244	impf
+942250	impf
+942254	impf
+942261	ptz.
+942264	ptz.
+942266	infc
+942277	pf.cons.
+942279	infc
+942284	pf.cons.
+942286	pf.cons.
+942289	wayq
+942295	infc
+942330	impv
+942333	impv
+942338	impv
+942345	impv
+942350	ptz.
+942356	impf
+942358	impv
+942364	perf
+942367	perf
+942376	ptz.
+942379	impv
+942382	impv
+942390	impf
+942393	impf
+942395	pf.cons.
+942408	perf
+942410	ptz.
+942412	perf
+942420	perf
+ptz.
+942424	impv
+942427	perf
+942429	perf
+942437	impf
+942439	perf
+942441	impf
+942443	perf
+942450	impf
+942453	impf
+942457	impf
+942459	impf
+942467	ptz.
+942470	impv
+942472	impv
+942477	impf
+942479	impf
+942481	impf
+942483	impf
+942487	impf
+942494	ptz.
+942498	ptz.
+942507	ptz.
+942509	perf
+942515	impf
+perf
+942520	perf
+942525	impf
+942532	perf
+perf
+ptz.
+942542	infc
+942548	perf
+942550	infc
+942555	infc
+942557	impf
+942560	impf
+942566	impf
+perf
+942575	ptz.
+942577	ptz.
+942584	infc
+942587	impv
+942589	impv
+942591	ptz.
+942598	impv
+perf
+942605	ptz.
+ptz.
+942608	infc
+942617	infc
+942621	ptz.
+ptz.
+942625	ptz.
+942636	impf
+942645	perf
+942649	infc
+infc
+infc
+942666	perf
+ptz.
+ptz.
+942674	wayq
+942687	wayq
+942695	wayq
+942713	wayq
+942722	perf
+942731	impf
+942734	pf.cons.
+942743	ptz.
+942750	perf
+ptz.
+942756	perf
+ptz.
+942767	perf
+942777	pf.cons.
+942783	pf.cons.
+perf
+942788	impf
+impf
+942798	ptz.
+942813	ptz.
+942818	wayq
+942822	wayq
+942828	impf
+942832	infc
+impv
+942846	wayq
+942853	ptz.
+942857	perf
+942859	infc
+942867	ptz.
+942884	impf
+942888	ptz.
+942894	perf
+942897	perf
+942905	wayq
+942907	impf
+942916	pf.cons.
+pf.cons.
+perf
+942925	wayq
+942928	ptz.
+942933	ptz.
+942937	ptz.
+942950	ptz.
+942953	impf
+942955	infc
+ptz.
+942963	impf
+impf
+942968	perf
+942976	perf
+942984	ptz.
+942987	ptz.
+943004	infc
+943010	ptz.
+ptz.
+ptz.
+943019	ptz.
+943027	ptz.
+943037	infc
+ptz.
+943043	impf
+impf
+943056	infc
+943059	infc
+943061	perf
+943072	perf
+943078	impf
+943084	ptz.
+943091	impv
+impv
+943095	infc
+943100	impf
+943111	impf
+943115	impf
+943132	impf
+943140	infc
+943154	pf.cons.
+943178	impv
+943192	impf
+943201	ptz.
+943203	perf
+943205	perf
+perf
+impv
+943211	impf
+943216	impf
+943222	ptz.
+943247	infc
+943254	perf
+perf
+943264	perf
+943266	perf
+943280	ptz.
+943284	perf
+943286	ptz.
+943293	perf
+943300	perf
+perf
+943313	perf
+943315	wayq
+943317	ptz.
+943329	ptz.
+943332	infc
+infc
+943339	perf
+943343	ptz.
+943349	ptz.
+943356	ptz.
+ptz.
+943380	ptz.
+943382	ptz.
+943386	ptz.
+943391	ptz.
+943394	ptz.
+943404	ptz.
+943419	ptz.
+943423	impf
+943430	pf.cons.
+943436	perf
+943440	infc
+943442	ptz.
+943445	perf
+perf
+943450	ptz.
+943457	perf
+infc
+infc
+943469	perf
+943478	infc
+943491	impf
+943493	perf
+943495	impf
+943515	impf
+943518	impf
+943521	ptz.
+943523	perf
+perf
+943529	impf
+943538	ptz.
+943540	wayq
+943545	perf
+perf
+943548	ptz.
+943558	ptz.
+943604	perf
+943609	infc
+943628	perf
+943634	perf
+943641	perf
+943646	ptz.
+943649	ptz.
+943654	ptz.
+ptz.
+943662	ptz.
+943669	impf
+impf
+943673	ptz.
+943676	infc
+infc
+ptz.
+943687	infc
+943690	wayq
+943695	wayq
+943701	perf
+943704	wayq
+943706	wayq
+943711	infc
+943716	wayq
+943719	ptz.
+943726	wayq
+943735	impf
+943739	impf
+impf
+943743	infc
+943749	impf
+infc
+943755	perf
+943757	perf
+943761	infc
+perf
+943765	infc
+943784	ptz.
+943803	impf
+infc
+943806	impf
+943821	ptz.
+ptz.
+943834	ptz.
+943836	ptz.
+943839	ptz.
+943851	ptz.
+943859	impf
+943862	ptz.
+impf
+943869	impf
+943874	impf
+943878	infc
+943883	impf
+943888	impf
+943890	infc
+943893	impf
+943898	impf
+943901	infc
+943908	infc
+943910	ptz.
+943914	ptz.
+943918	infc
+943922	infc
+infc
+943929	infc
+943935	infc
+943939	impf
+943944	infc
+943951	infc
+943958	perf
+943969	impf
+impf
+943972	impv
+impv
+943976	impv
+943988	impf
+944010	infc
+944018	impf
+944020	infc
+944028	impf
+944037	impf
+944041	pf.cons.
+944045	perf
+944048	impf
+944052	impf
+944059	impf
+944061	impf
+944064	impf
+944076	impv
+944080	impv
+944087	impv
+ptz.
+perf
+944094	impf
+944103	impv
+944119	impf
+944123	impf
+944130	perf
+944144	infc
+944156	perf
+944160	impf
+944167	perf
+944172	impf
+944175	infc
+944177	perf
+perf
+944188	perf
+944192	perf
+944195	pf.cons.
+perf
+impf
+944199	pf.cons.
+944214	impf
+944217	perf
+944224	impf
+944229	impf
+944231	impf
+944235	impf
+impf
+944245	impf
+944248	perf
+944258	wayq
+wayq
+944262	ptz.
+944265	perf
+944273	impf
+944284	ptz.
+ptz.
+944330	ptz.
+944340	ptz.
+944343	ptz.
+944349	ptz.
+944352	ptz.
+944355	ptz.
+infc
+944363	ptz.
+944380	impf
+944399	ptz.
+944427	ptz.
+944435	ptz.
+944444	infc
+944449	impv
+944453	impf
+impf
+944462	infc
+944465	impf
+944468	wayq
+944483	impv
+impv
+944487	impv
+944496	impv
+944499	impf
+944504	impf
+944507	impf
+944510	ptz.
+944514	impf
+944525	pf.cons.
+944527	infc
+perf
+944536	ptz.
+944542	ptz.
+944544	impf
+944548	ptz.
+944552	impf
+944554	pf.cons.
+944558	perf
+944561	perf
+944563	impv
+944567	impf
+944572	infc
+944584	impf
+944591	wayq
+944596	pf.cons.
+944598	perf
+944600	ptz.
+ptz.
+944603	ptz.
+944607	ptz.
+944609	perf
+perf
+944630	ptz.
+ptz.
+944637	ptz.
+944644	impf
+944647	impv
+944653	ptz.
+944657	impv
+944665	impv
+944667	impv
+944673	wayq
+944688	perf
+944694	impf
+impf
+944697	infc
+944713	perf
+944717	wayq
+944722	wayq
+944734	wayq
+944742	perf
+944745	wayq
+944747	wayq
+944752	wayq
+944760	perf
+ptz.
+944763	infc
+wayq
+944766	ptz.
+944771	wayq
+wayq
+944778	perf
+944783	ptz.
+944794	wayq
+wayq
+944812	perf
+944815	perf
+944820	ptz.
+944826	wayq
+944839	wayq
+944848	wayq
+944855	perf
+944862	impf
+perf
+944865	pf.cons.
+944871	perf
+944892	impf
+944896	impf
+944903	infc
+944907	perf
+944912	perf
+944918	wayq
+wayq
+944927	perf
+944932	perf
+944934	perf
+944936	infc
+944949	infc
+944955	infc
+944960	infc
+944967	infc
+944970	perf
+944976	infc
+944986	ptz.
+944988	impf
+944992	perf
+944994	ptz.
+945000	impf
+945007	infc
+945011	pf.cons.
+945013	pf.cons.
+945018	pf.cons.
+945025	impf
+945037	impf
+945039	pf.cons.
+945047	wayq
+945054	ptz.
+945056	impf
+945060	impf
+945064	pf.cons.
+945070	impf
+945080	infc
+impf
+945084	impf
+945091	wayq
+945104	ptz.
+ptz.
+945154	perf
+945169	perf
+perf
+945183	infc
+945191	infc
+945201	pf.cons.
+945221	perf
+945232	perf
+945241	ptz.
+945244	koh.
+945251	perf
+945270	infc
+945287	perf
+945303	ptz.
+945312	impf
+945320	ptz.
+945324	pf.cons.
+945329	impf
+impf
+945338	impf
+945342	perf
+945349	impf
+945359	impf
+945361	pf.cons.
+945373	impf
+945375	infc
+945380	impf
+945384	impf
+945387	infc
+infc
+945396	pf.cons.
+945401	infc
+945415	impv
+945417	impf
+945422	pf.cons.
+pf.cons.
+945428	pf.cons.
+945433	pf.cons.
+945438	pf.cons.
+945451	impv
+impv
+945471	impv
+impv
+945488	wayq
+945494	perf
+945518	impf
+945524	impf
+945528	impf
+945533	impf
+945539	ptz.
+945542	impf
+945553	impf
+945580	impf
+945592	impf
+945597	pf.cons.
+pf.cons.
+945600	pf.cons.
+945605	pf.cons.
+945613	pf.cons.
+945623	impv
+impv
+945659	ptz.
+945663	perf
+945670	impv
+945680	infc
+945684	impf
+945687	infc
+945690	infc
+945696	infc
+infc
+impf
+945707	perf
+945718	perf
+perf
+ptz.
+945732	wayq
+perf
+945737	perf
+945739	infc
+945752	impf
+945758	wayq
+945763	koh.
+945768	koh.
+945774	impf
+945777	impv
+945780	impf
+945786	perf
+945788	wayq
+ptz.
+945794	perf
+945800	perf
+945802	impf
+945805	impf
+945807	impf
+945815	impf
+945821	impf
+945841	wayq
+945852	perf
+945859	perf
+945864	perf
+945868	ptz.
+945879	ptz.
+945881	ptz.
+945883	ptz.
+945888	ptz.
+945893	perf
+945919	impf
+945923	impf
+impf
+945926	ptz.
+945939	ptz.
+945947	ptz.
+ptz.
+945954	ptz.
+ptz.
+ptz.
+wayq
+ptz.
+945973	ptz.
+945989	impf
+945994	wayq
+945999	wayq
+946008	wayq
+946022	ptz.
+946027	impf
+946035	infc
+946037	impf
+946044	impf
+946049	impf
+946052	impf
+946059	ptz.
+946061	pf.cons.
+946065	impv
+946068	ptz.
+946075	infc
+ptz.
+946099	perf
+946106	wayq
+946110	wayq
+946115	wayq
+946117	perf
+946127	infc
+946130	ptz.
+946138	perf
+946140	infc
+946142	infc
+946145	wayq
+946149	perf
+946151	wayq
+946156	wayq
+946164	wayq
+946167	wayq
+946175	wayq
+946182	wayq
+946189	wayq
+946204	wayq
+946206	perf
+946210	wayq
+946213	wayq
+946224	wayq
+946230	impf
+946240	ptz.
+946246	pf.cons.
+946250	impv
+impv
+946255	impv
+946266	ptz.
+946273	impf
+946275	wayq
+946279	wayq
+946282	wayq
+946288	wayq
+946292	wayq
+946297	wayq
+946300	impv
+946307	perf
+946309	impf
+946318	wayq
+946320	wayq
+946325	wayq
+946331	wayq
+wayq
+946338	wayq
+946341	perf
+946347	ptz.
+ptz.
+946357	ptz.
+946359	ptz.
+946361	impf
+impf
+946367	impf
+ptz.
+946372	wayq
+946375	impf
+ptz.
+946378	wayq
+946386	perf
+946401	ptz.
+impv
+946415	infc
+946419	infc
+946421	perf
+946425	impf
+wayq
+946428	perf
+946447	impf
+946455	ptz.
+946458	perf
+946463	ptz.
+946469	infc
+946472	infc
+946477	infc
+946481	perf
+946483	ptz.
+946487	wayq
+946491	wayq
+946505	impf
+impf
+impf
+946517	perf
+946527	wayq
+946531	wayq
+946543	impf
+946546	koh.
+946549	impf
+946551	wayq
+946563	ptz.
+ptz.
+946573	impf
+946583	ptz.
+946586	impf
+946589	impf
+946592	wayq
+946601	impf
+946628	pf.cons.
+946633	ptz.
+946640	ptz.
+946644	perf
+946654	impf
+impf
+946661	impv
+ptz.
+946666	infc
+infc
+946672	ptz.
+946694	impf
+946705	pf.cons.
+946711	pf.cons.
+946715	pf.cons.
+946719	pf.cons.
+946725	pf.cons.
+pf.cons.
+946742	pf.cons.
+946759	ptz.
+impf
+946766	impf
+946816	pf.cons.
+impf
+946826	infc
+946833	ptz.
+946842	impf
+946852	pf.cons.
+impf
+946857	ptz.
+946862	pf.cons.
+946867	impf
+946870	impv
+946875	perf
+946889	infc
+946894	impf
+946906	infc
+946909	infc
+946916	infc
+946928	infc
+946933	pf.cons.
+impf
+946938	pf.cons.
+ptz.
+946946	pf.cons.
+946948	infc
+946951	pf.cons.
+946954	pf.cons.
+946970	impf
+946985	impf
+946992	impf
+946998	perf
+947006	impf
+947039	perf
+perf
+947048	impf
+947057	perf
+947067	infc
+947076	impf
+947080	impf
+947086	impf
+infc
+947091	infc
+947100	impf
+947109	impf
+947111	infc
+947119	ptz.
+947121	impf
+947143	impf
+947147	impf
+947154	infc
+947158	impf
+947170	perf
+947185	pf.cons.
+947198	perf
+947203	infc
+947206	perf
+947208	impf
+947215	wayq
+947228	perf
+947253	perf
+947261	perf
+947263	wayq
+947285	wayq
+947311	perf
+947323	perf
+947336	perf
+947350	perf
+947354	wayq
+947360	infc
+947364	wayq
+947380	wayq
+947384	infc
+947386	perf
+947390	perf
+947393	wayq
+947397	wayq
+947403	wayq
+947405	infc
+947407	wayq
+947435	perf
+947437	infc
+947451	perf
+infc
+947454	perf
+947457	wayq
+947463	wayq
+947488	perf
+947497	perf
+947528	wayq
+947533	wayq
+947540	wayq
+ptz.
+947545	impf
+947550	perf
+947557	perf
+947566	impf
+947568	perf
+947571	ptz.
+947579	infc
+947585	wayq
+947594	perf
+947600	perf
+947611	infc
+perf
+947614	infc
+947619	ptz.
+947632	impf
+947636	impf
+947638	ptz.
+947646	wayq
+947657	perf
+947664	wayq
+947670	perf
+947674	perf
+947680	impf
+947700	perf
+947704	impf
+perf
+947709	perf
+947711	perf
+947714	perf
+947716	perf
+947721	perf
+947724	perf
+947726	impf
+947732	infc
+947736	impf
+ptz.
+947742	ptz.
+947752	infc
+947762	perf
+947770	perf
+947778	perf
+impf
+947785	infc
+947801	perf
+947812	impf
+947819	impf
+947826	wayq
+947835	impf
+947837	perf
+perf
+947847	perf
+947849	wayq
+947852	perf
+947855	perf
+perf
+perf
+perf
+perf
+perf
+perf
+947866	ptz.
+947874	wayq
+ptz.
+947877	ptz.
+947881	impf
+947891	wayq
+947895	ptz.
+947903	perf
+947909	perf
+perf
+947914	perf
+impf
+947922	wayq
+947925	perf
+947928	perf
+perf
+perf
+perf
+perf
+perf
+perf
+947951	perf
+947960	wayq
+947963	wayq
+947965	infc
+947972	perf
+947974	wayq
+947984	perf
+947990	infc
+947992	perf
+947994	infc
+948003	impf
+948015	impf
+948021	infc
+948027	infc
+948039	infc
+948046	infc
+948065	impf
+948084	ptz.
+948094	infc
+948099	pf.cons.
+ptz.
+948107	infc
+948119	infc
+948127	infc
+948140	ptz.
+948146	ptz.
+948153	infc
+948164	impf
+948177	impf
+948180	ptz.
+948186	infc
+948191	infc
+948201	infc
+948204	ptz.
+948206	infc
+948214	ptz.
+948220	infc
+948234	infc
+948248	ptz.
+948258	impf
+948261	ptz.
+948270	infc
+948274	impf
+948279	impf
+948291	koh.
+948295	ptz.
+948302	pf.cons.
+948304	pf.cons.
+ptz.
+948310	impf
+948316	ptz.
+ptz.
+948326	ptz.
+948330	impf
+948335	perf
+948337	perf
+948341	impf
+948349	impf
+948355	impf
+948363	impf
+948365	impf
+948370	impf
+impf
+948377	impf
+948380	impf
+impf
+948386	infc
+948391	infc
+948396	infc
+948405	ptz.
+948411	infc
+infc
+948420	infc
+948457	ptz.
+948460	infc
+infc
+948467	infc
+948471	perf
+948474	infc
+948481	infc
+948489	ptz.
+948503	infc
+948513	infc
+948518	impf
+948523	infc
+948527	infc
+948535	ptz.
+948546	ptz.
+948552	ptz.
+948556	impf
+948569	ptz.
+948578	impf
+948603	impf
+948611	ptz.
+948614	infc
+948639	ptz.
+948641	infc
+948646	infc
+948651	perf
+948653	infc
+948659	ptz.
+948661	infc
+948668	infc
+948684	infc
+948694	infc
+ptz.
+948706	infc
+948713	infc
+948717	infc
+948742	impf
+948747	ptz.
+948751	impf
+948759	impf
+948761	impf
+948764	impf
+948772	impf
+948774	perf
+948778	impf
+948794	infc
+948810	perf
+perf
+948813	impf
+948819	perf
+948831	pf.cons.
+948843	pf.cons.
+948851	perf
+948856	infc
+948863	impf
+948868	ptz.
+948870	impf
+948875	impf
+948885	pf.cons.
+948898	infc
+948928	impf
+948937	ptz.
+948940	impf
+948948	ptz.
+948952	impf
+948957	perf
+948960	infc
+948969	infc
+948978	impf
+948982	impf
+948988	infc
+948996	infc
+949003	ptz.
+949009	infc
+949018	infc
+949022	ptz.
+949026	infc
+949032	infc
+949034	ptz.
+949036	infc
+949043	infc
+949059	infc
+949065	ptz.
+949071	ptz.
+949075	infc
+949077	ptz.
+949086	ptz.
+949088	impf
+949098	infc
+949106	infc
+949110	infc
+949127	ptz.
+949139	impf
+949142	ptz.
+949146	infc
+949161	infc
+949163	ptz.
+949166	impf
+949187	impf
+949192	impf
+949198	infc
+949201	wayq
+949208	pf.cons.
+949213	impf
+perf
+949216	ptz.
+949220	pf.cons.
+949230	pf.cons.
+949235	ptz.
+949237	impf
+949244	infc
+949251	infc
+949268	ptz.
+949272	ptz.
+949274	infc
+949283	ptz.
+949301	infc
+949312	impf
+949324	infc
+949337	infc
+949343	perf
+ptz.
+949347	ptz.
+949349	impf
+impf
+949354	ptz.
+949357	infc
+949363	impf
+949369	infc
+949378	ptz.
+949381	impv
+949390	perf
+949404	infc
+949409	ptz.
+ptz.
+949418	infc
+949427	infc
+949438	impf
+949443	infc
+949448	ptz.
+949454	infc
+949457	infc
+949476	infc
+949479	infc
+949484	infc
+949486	infc
+949488	impf
+949495	impf
+949498	infc
+949510	impf
+949522	infc
+949524	impf
+949530	impf
+949545	impf
+949561	infc
+949565	ptz.
+ptz.
+ptz.
+949570	impf
+949574	infc
+949581	impf
+949586	impf
+949599	impf
+949605	impf
+949609	impf
+949615	perf
+949617	infc
+949620	ptz.
+949622	infc
+949626	infc
+949643	ptz.
+949645	pf.cons.
+ptz.
+949654	pf.cons.
+949661	pf.cons.
+949668	perf
+ptz.
+949684	infc
+949690	impf
+impf
+949699	infc
+949705	ptz.
+949713	impf
+949722	impf
+949738	impf
+949740	impf
+949751	impf
+949755	infc
+949766	infc
+949769	impv
+949776	perf
+949781	ptz.
+949784	infc
+949790	ptz.
+949798	ptz.
+949810	impf
+949821	infc
+949826	impf
+949828	pf.cons.
+949831	impf
+949849	impf
+949851	infc
+949854	infc
+949865	infc
+949868	ptz.
+ptz.
+949875	perf
+impv
+949879	perf
+949881	impf
+949885	impf
+949901	pf.cons.
+949905	ptz.
+949909	pf.cons.
+949919	impf
+949924	pf.cons.
+949930	infc
+949935	pf.cons.
+949939	infc
+949941	pf.cons.
+949945	pf.cons.
+949947	impf
+949956	impf
+949958	infc
+949964	perf
+949972	pf.cons.
+949977	impf
+949986	impf
+949992	infc
+950003	ptz.
+950012	impf
+950024	impf
+950035	impf
+950039	impf
+950051	impf
+950055	impf
+950060	infc
+950065	impf
+950074	impf
+950080	impf
+950089	impf
+950097	impf
+950099	infc
+950106	ptz.
+950114	infc
+950119	pf.cons.
+950129	perf
+950135	perf
+950140	perf
+950153	pf.cons.
+950159	infc
+950161	impf
+950166	impf
+950168	pf.cons.
+impf
+950175	impf
+950177	impf
+950182	infc
+950192	infc
+950195	ptz.
+950199	impf
+950201	impf
+950204	ptz.
+koh.
+950212	perf
+950214	perf
+950230	impv
+950234	impf
+950239	perf
+950247	infc
+950252	infc
+950255	infc
+950259	ptz.
+950265	perf
+950267	ptz.
+950271	ptz.
+950277	perf
+950279	wayq
+950283	impv
+950285	ptz.
+950288	impv
+950292	ptz.
+perf
+950301	wayq
+950304	perf
+950311	infc
+950318	perf
+perf
+950326	infc
+950332	wayq
+950339	wayq
+950344	infc
+950355	wayq
+950361	infc
+950366	infc
+950369	perf
+950374	infc
+950380	wayq
+950384	wayq
+950387	wayq
+950395	perf
+950400	ptz.
+950407	wayq
+wayq
+950416	impf
+impf
+950420	perf
+950428	ptz.
+950430	infc
+950432	wayq
+950434	wayq
+950453	ptz.
+950458	perf
+950468	infc
+perf
+ptz.
+950480	ptz.
+950486	impf
+950488	perf
+950491	ptz.
+950499	wayq
+950506	perf
+950513	ptz.
+950516	perf
+impf
+950521	impf
+950523	infc
+950529	infc
+950538	impf
+impf
+950541	infc
+950550	ptz.
+950555	perf
+950563	perf
+perf
+950566	ptz.
+perf
+950572	ptz.
+950577	impf
+950579	infc
+950585	impf
+950594	wayq
+950598	perf
+950600	infc
+950602	pf.cons.
+950611	pf.cons.
+pf.cons.
+950614	impf
+ptz.
+950622	ptz.
+950626	ptz.
+perf
+950631	impf
+950637	ptz.
+950655	impf
+950660	infc
+950672	perf
+950674	infc
+950677	impf
+950689	impf
+950693	infc
+950697	impf
+950706	impf
+950715	impf
+950717	infc
+950719	infc
+950727	infc
+950731	perf
+perf
+950742	infc
+950754	pf.cons.
+950756	perf
+950781	pf.cons.
+950789	ptz.
+950794	pf.cons.
+950801	perf
+950805	ptz.
+950816	perf
+950825	infc
+950829	perf
+950837	wayq
+950841	impf
+pf.cons.
+950846	perf
+950848	pf.cons.
+950851	pf.cons.
+950859	impf
+950863	impf
+950867	ptz.
+950872	pf.cons.
+impv
+950876	impf
+950880	ptz.
+950891	impf
+950895	ptz.
+950898	ptz.
+950903	ptz.
+950905	ptz.
+950916	infc
+950919	ptz.
+950935	infc
+950939	impf
+950941	perf
+950946	infc
+950953	perf
+950963	impf
+950967	impf
+950971	infc
+950980	pf.cons.
+950991	ptz.
+950993	infc
+950997	perf
+951000	pf.cons.
+951023	infc
+951047	impf
+951050	infc
+951057	impf
+pf.cons.
+951064	infc
+951070	perf
+951073	impf
+951085	ptz.
+951089	perf
+951105	impf
+951109	ptz.
+951111	infc
+951117	impf
+951120	infc
+951124	impf
+951128	perf
+951136	perf
+951138	impf
+951142	impf
+951146	impf
+impf
+951155	impf
+951158	infc
+951161	ptz.
+951163	impf
+951168	ptz.
+951174	infc
+951198	ptz.
+951202	impf
+impf
+951205	pf.cons.
+ptz.
+951214	ptz.
+951219	ptz.
+951231	ptz.
+951248	impf
+951253	infc
+951259	perf
+951261	infc
+951280	impf
+impf
+impf
+951287	infc
+951289	infc
+951292	pf.cons.
+951298	ptz.
+951305	impf
+951308	impf
+951320	impf
+951346	impf
+951351	infc
+951358	infc
+951362	impf
+951365	ptz.
+impf
+951368	ptz.
+impf
+951374	impf
+951379	impf
+951383	impf
+951389	ptz.
+951396	impf
+951405	impf
+951423	pf.cons.
+951431	impf
+951443	pf.cons.
+951447	pf.cons.
+951450	impf
+951462	pf.cons.
+951471	pf.cons.
+ptz.
+951475	pf.cons.
+951483	impf
+951489	pf.cons.
+951491	impf
+951500	pf.cons.
+951503	ptz.
+951507	pf.cons.
+951513	infc
+951515	pf.cons.
+impf
+951520	pf.cons.
+951527	perf
+951534	impf
+951538	impf
+951547	ptz.
+koh.
+951555	impf
+951563	ptz.
+951565	infc
+951576	ptz.
+impv
+951584	ptz.
+951592	ptz.
+951597	impf
+951603	perf
+951614	impf
+951616	impf
+951619	ptz.
+951623	pf.cons.
+951625	pf.cons.
+ptz.
+951640	ptz.
+951643	perf
+951652	wayq
+951663	perf
+951666	perf
+951673	impf
+951676	pf.cons.
+951679	perf
+951683	ptz.
+perf
+951693	perf
+951695	ptz.
+951698	perf
+951700	impf
+ptz.
+951705	impf
+951710	impf
+951713	ptz.
+951716	impf
+951719	pf.cons.
+951727	impf
+951732	pf.cons.
+951734	ptz.
+951737	impf
+951757	impf
+951759	impf
+951762	ptz.
+951764	impf
+951768	ptz.
+ptz.
+ptz.
+perf
+951775	impf
+951793	ptz.
+951795	impf
+951818	infc
+951821	ptz.
+951824	wayq
+951829	perf
+951844	wayq
+951847	infc
+951854	wayq
+951859	wayq
+951862	ptz.
+951868	impf
+951870	wayq
+951874	perf
+951877	perf
+951879	perf
+951882	ptz.
+951887	ptz.
+951889	ptz.
+951894	wayq
+951911	infc
+951914	infc
+951917	impv
+impf
+951920	impf
+951925	impf
+951927	impf
+951941	impf
+951944	impf
+951957	infc
+951961	infc
+951968	ptz.
+951970	infc
+951974	ptz.
+951977	ptz.
+951979	impf
+952004	perf
+ptz.
+952011	perf
+952020	ptz.
+952027	perf
+952036	impf
+952046	impf
+impf
+952076	infc
+952080	perf
+952083	infc
+952087	ptz.
+952092	ptz.
+952098	perf
+952101	impf
+wayq
+952105	impf
+impf
+952129	impf
+952133	impf
+952146	ptz.
+952158	impf
+952162	pf.cons.
+952167	impf
+952169	infc
+952174	ptz.
+952182	impf
+952189	infc
+952192	infc
+952197	perf
+952202	perf
+952205	ptz.
+952209	ptz.
+952213	wayq
+wayq
+952217	ptz.
+952220	perf
+952222	wayq
+952224	wayq
+952227	ptz.
+952230	impf
+952234	impv
+952237	ptz.
+952240	impv
+952246	impf
+952249	ptz.
+952254	infc
+952261	wayq
+952263	perf
+952274	perf
+perf
+952277	wayq
+952289	ptz.
+952293	impf
+952298	impv
+952302	perf
+952312	perf
+952316	ptz.
+952319	wayq
+952324	infc
+952327	infc
+952332	infc
+952335	perf
+952354	perf
+952358	perf
+952364	ptz.
+952367	pf.cons.
+952370	pf.cons.
+952374	ptz.
+952396	perf
+952402	impf
+952413	perf
+952425	impf
+952430	perf
+952447	infc
+952449	ptz.
+952454	infc
+952457	impf
+952459	infc
+952462	infc
+952475	pf.cons.
+952486	impf
+952505	perf
+impf
+952510	perf
+952513	impf
+952516	impf
+952529	impf
+952536	impf
+952539	impf
+952550	infc
+952564	ptz.
+952570	ptz.
+952574	infc
+952582	infc
+952587	impf
+952595	impf
+impf
+952603	impf
+952615	impf
+952622	ptz.
+952628	ptz.
+952631	perf
+952635	infc
+infc
+952639	impv
+952642	ptz.
+952650	impf
+952656	infc
+952665	impf
+952682	perf
+952701	ptz.
+952713	impf
+952725	ptz.
+952731	infc
+952760	impf
+952764	impf
+952768	infc
+952771	perf
+ptz.
+perf
+952777	perf
+952782	impf
+952786	impf
+952794	ptz.
+952802	impf
+952809	perf
+952813	impf
+952818	perf
+952820	infc
+952824	perf
+952830	perf
+perf
+952837	infc
+952841	impf
+952853	perf
+952858	impf
+952863	pf.cons.
+ptz.
+952873	infc
+952875	impf
+952882	ptz.
+952884	impf
+952894	perf
+952896	infc
+ptz.
+952900	ptz.
+952905	ptz.
+952910	perf
+952918	infc
+952921	perf
+952925	impf
+952928	perf
+952933	ptz.
+952937	ptz.
+952944	infc
+952946	perf
+952949	infc
+952951	impf
+952955	ptz.
+952963	ptz.
+952967	ptz.
+952981	ptz.
+952995	impf
+953002	infc
+953007	infc
+953009	perf
+953017	ptz.
+953023	impf
+953034	impf
+953050	impf
+impf
+953053	impf
+953057	impf
+953061	infc
+953064	infc
+953068	impf
+ptz.
+953084	impf
+953100	impf
+953118	perf
+953127	ptz.
+953132	pf.cons.
+953135	impf
+953138	impf
+953140	pf.cons.
+953143	impf
+953145	impf
+953149	pf.cons.
+953155	pf.cons.
+953159	perf
+953163	impf
+953165	infc
+953173	pf.cons.
+953176	impf
+953184	impf
+953188	pf.cons.
+953202	ptz.
+953206	impf
+impf
+953209	impf
+953212	ptz.
+953215	pf.cons.
+953222	perf
+953229	impf
+953234	koh.
+953243	impv
+953249	ptz.
+ptz.
+953258	ptz.
+953263	impf
+953268	pf.cons.
+953281	ptz.
+953285	ptz.
+953289	ptz.
+953296	pf.cons.
+953298	impf
+953306	ptz.
+953310	impf
+953324	impf
+953327	infc
+953333	impf
+953339	impf
+953344	infc
+953350	impf
+953353	impf
+953374	ptz.
+953377	impf
+953389	impf
+953393	perf
+953405	perf
+953409	perf
+953412	infc
+953414	ptz.
+953417	perf
+953420	infc
+953422	pf.cons.
+953425	impf
+953433	impf
+953441	ptz.
+953443	impf
+953446	ptz.
+953449	ptz.
+953460	impf
+953464	impf
+953468	ptz.
+953475	impf
+953479	perf
+953493	impf
+953497	perf
+953499	infc
+953505	perf
+953510	perf
+953513	perf
+953524	impf
+953528	ptz.
+953530	ptz.
+ptz.
+953539	impf
+953542	infc
+953544	impf
+953547	impf
+953552	impf
+953561	perf
+953569	infc
+953575	ptz.
+953582	ptz.
+953587	impf
+953591	infc
+953599	impf
+953604	perf
+953610	impf
+953619	infc
+953623	impf
+953628	infc
+953633	infc
+953636	infc
+953639	impf
+953646	impf
+953650	impf
+953658	impf
+953663	ptz.
+perf
+953675	infc
+953684	infc
+953688	ptz.
+953690	impf
+953703	impf
+953707	impf
+953709	ptz.
+953712	impf
+953715	infc
+953718	infc
+953722	impf
+953732	infc
+953735	infc
+953739	impf
+953747	impf
+953754	impf
+953760	impf
+953781	impf
+953784	impf
+953794	ptz.
+953805	infc
+ptz.
+953817	impf
+953822	infc
+impf
+impf
+953827	impf
+953830	impf
+953836	infc
+953841	impf
+953847	perf
+pf.cons.
+953852	impf
+953856	impf
+impf
+impf
+953860	infc
+953869	impf
+953872	pf.cons.
+953874	impf
+953878	impf
+953882	impf
+953884	pf.cons.
+953887	impf
+953897	infc
+953907	ptz.
+953909	impf
+953920	ptz.
+953922	ptz.
+953925	perf
+953928	impf
+953935	perf
+infc
+953945	ptz.
+953951	perf
+953954	pf.cons.
+953966	impf
+953970	ptz.
+953976	ptz.
+953981	ptz.
+953991	pf.cons.
+953993	ptz.
+953997	ptz.
+954001	impf
+954009	ptz.
+954011	impf
+954024	impf
+954027	impf
+954043	perf
+954049	impf
+954059	perf
+954062	perf
+954064	perf
+954068	impf
+954074	infc
+954082	perf
+954084	perf
+impf
+954087	infc
+954092	impf
+954096	impf
+954101	impf
+954124	impf
+954134	pf.cons.
+954138	impf
+954142	impf
+954146	perf
+954149	impf
+954152	infc
+954155	ptz.
+954161	impf
+954163	ptz.
+954169	impf
+954171	ptz.
+954173	perf
+954177	perf
+954181	perf
+impf
+954185	perf
+954188	impf
+954194	impf
+954202	impf
+954211	impf
+954215	ptz.
+954221	ptz.
+954228	impf
+954235	perf
+954246	ptz.
+954250	impf
+954254	impf
+ptz.
+954267	impf
+954270	impf
+954274	pf.cons.
+954276	pf.cons.
+954279	impf
+954283	impf
+954288	pf.cons.
+954290	impf
+954292	impf
+impf
+954300	impf
+954305	impf
+954310	impf
+954312	ptz.
+954321	impf
+954323	ptz.
+954325	impf
+954329	impf
+954334	impf
+impf
+954342	impf
+954346	perf
+954349	pf.cons.
+954353	perf
+954357	impf
+954362	ptz.
+954370	perf
+954378	pf.cons.
+954383	impf
+954385	pf.cons.
+954399	ptz.
+954404	infc
+954415	ptz.
+954421	impf
+954427	impf
+impf
+954431	impf
+perf
+954437	impf
+954439	perf
+954462	infc
+954470	impf
+954482	impf
+954487	impf
+954499	impf
+954501	impf
+impf
+ptz.
+954510	pf.cons.
+954512	pf.cons.
+954519	infc
+954522	pf.cons.
+954526	pf.cons.
+954535	ptz.
+954537	perf
+954541	infc
+954550	impf
+954556	ptz.
+954562	infc
+954569	pf.cons.
+954580	pf.cons.
+954591	pf.cons.
+954595	pf.cons.
+954600	perf
+954604	pf.cons.
+954607	ptz.
+954618	ptz.
+954627	perf
+954634	impf
+954638	ptz.
+954643	impf
+954657	ptz.
+954664	impf
+954668	ptz.
+954672	impf
+954677	impf
+impf
+954684	infc
+954691	infc
+954694	impf
+impf
+954702	impf
+954705	ptz.
+954710	perf
+954712	infc
+954719	impf
+954721	ptz.
+954724	pf.cons.
+954730	perf
+954734	ptz.
+954739	impf
+954742	perf
+954746	infc
+954757	pf.cons.
+954767	ptz.
+954771	infc
+954773	impf
+954782	impf
+954793	infc
+954800	ptz.
+954811	ptz.
+954814	impf
+954820	impf
+954826	ptz.
+954832	ptz.
+954838	ptz.
+ptz.
+954841	ptz.
+954846	infc
+954856	ptz.
+954858	infc
+ptz.
+954866	perf
+954869	perf
+954874	perf
+954876	perf
+954878	perf
+ptz.
+954893	impf
+954914	impf
+954927	impf
+954932	ptz.
+954935	pf.cons.
+954952	infc
+954958	perf
+954965	infc
+infc
+954970	pf.cons.
+954973	perf
+954982	ptz.
+954994	infc
+955000	pf.cons.
+955002	pf.cons.
+ptz.
+955005	perf
+955027	impf
+955030	pf.cons.
+955034	perf
+955039	perf
+955046	impf
+955048	ptz.
+955063	ptz.
+955066	impf
+955069	pf.cons.
+955072	perf
+955080	impf
+955085	infc
+955088	impf
+955090	impf
+955094	pf.cons.
+955096	impf
+955102	pf.cons.
+955106	infc
+955128	infc
+955131	impf
+pf.cons.
+impf
+impf
+955141	perf
+ptz.
+955153	wayq
+955161	impf
+955164	pf.cons.
+955167	pf.cons.
+955173	wayq
+955177	impf
+955184	pf.cons.
+pf.cons.
+impf
+955188	pf.cons.
+955197	pf.cons.
+pf.cons.
+955210	ptz.
+955213	ptz.
+ptz.
+955216	perf
+955222	ptz.
+955232	impf
+955236	ptz.
+955255	ptz.
+955260	ptz.
+955262	impf
+955266	perf
+955269	wayq
+955273	impf
+955282	wayq
+955339	ptz.
+955436	pf.cons.
+955468	ptz.
+955546	perf
+955551	ptz.
+955560	ptz.
+955569	impv
+955580	ptz.
+955583	infc
+955586	infc
+955596	pf.cons.
+955598	infc
+955603	impf
+955611	impf
+955620	pf.cons.
+955622	pf.cons.
+ptz.
+955629	ptz.
+955635	ptz.
+955643	ptz.
+955660	ptz.
+955664	ptz.
+955673	infc
+955689	ptz.
+955705	ptz.
+955710	infc
+955721	pf.cons.
+955723	impf
+955740	impf
+955742	impf
+955759	impf
+955761	impf
+impf
+955766	infc
+955770	impf
+955808	ptz.
+955817	impf
+955824	impf
+955830	perf
+955840	perf
+955846	ptz.
+955853	wayq
+955861	infc
+955867	infc
+955877	pf.cons.
+ptz.
+955904	impv
+955927	impf
+955952	perf
+955956	perf
+955967	impf
+perf
+infc
+955974	ptz.
+955977	ptz.
+955988	impf
+955990	impf
+955996	impf
+956023	ptz.
+956034	impf
+956038	ptz.
+956042	perf
+956047	impv
+956052	ptz.
+956054	impv
+956058	ptz.
+956060	impv
+956068	ptz.
+impv
+956090	perf
+956095	perf
+956099	perf
+956101	infc
+956112	infc
+956121	impv
+956123	ptz.
+impv
+956128	impv
+956131	ptz.
+956133	infc
+infc
+ptz.
+impv
+956141	impv
+956143	impv
+956145	impv
+956148	impv
+956154	impf
+956157	impf
+956164	impf
+956166	infc
+956168	infc
+956170	perf
+956180	perf
+956187	koh.
+ptz.
+perf
+impf
+956197	wayq
+wayq
+wayq
+wayq
+wayq
+956206	impf
+perf
+perf
+956217	perf
+impf
+perf
+956235	impf
+956240	ptz.
+956246	impf
+perf
+956250	ptz.
+impf
+956266	ptz.
+956282	perf
+956287	perf
+956289	wayq
+956304	perf
+956307	impf
+956314	perf
+956330	infc
+956343	impf
+956345	perf
+956353	impf
+956357	impf
+956360	perf
+956366	infc
+956377	perf
+perf
+956383	infc
+956391	ptz.
+956404	perf
+perf
+ptz.
+956409	ptz.
+956423	infc
+956441	ptz.
+956444	ptz.
+956456	impf
+956460	impf
+perf
+956464	ptz.
+perf
+impf
+956472	ptz.
+956480	ptz.
+956482	infc
+956487	perf
+956489	pf.cons.
+956491	perf
+956494	impf
+956498	perf
+956501	perf
+perf
+956504	perf
+956512	perf
+perf
+956516	impf
+956518	perf
+956522	ptz.
+956530	impf
+perf
+956548	ptz.
+956552	perf
+956560	impf
+impf
+956568	infc
+956571	infc
+956573	ptz.
+956582	infc
+956595	perf
+956600	perf
+956606	impf
+impf
+956612	impf
+956614	infc
+956621	infc
+956648	perf
+ptz.
+956651	koh.
+956654	ptz.
+perf
+impv
+956659	ptz.
+956669	infc
+perf
+956683	perf
+956686	impf
+956691	impf
+956694	impf
+956709	ptz.
+956720	impf
+956724	infc
+956735	impf
+koh.
+956739	ptz.
+956741	infc
+956744	ptz.
+infc
+956748	perf
+956751	perf
+956760	infc
+956770	impf
+956774	ptz.
+956776	ptz.
+956778	ptz.
+956788	ptz.
+956790	impf
+956799	ptz.
+956807	impf
+956825	perf
+956833	perf
+956844	infc
+956851	infc
+956883	ptz.
+956892	ptz.
+956894	impv
+956897	impv
+956901	perf
+956904	impf
+956906	perf
+956910	ptz.
+956919	perf
+956927	perf
+956931	perf
+956937	impf
+956939	impf
+956942	impv
+956946	ptz.
+956949	impf
+impf
+956957	impf
+956962	perf
+956966	ptz.
+956969	impf
+956976	perf
+956984	pf.cons.
+956990	infc
+956993	impf
+957004	perf
+957007	impf
+perf
+perf
+957013	ptz.
+957021	ptz.
+957033	ptz.
+957044	ptz.
+957046	infc
+957063	ptz.
+957067	impf
+957076	perf
+957082	perf
+957099	impf
+957110	koh.
+957115	impf
+impf
+957123	ptz.
+957127	ptz.
+ptz.
+957144	ptz.
+957148	ptz.
+957153	ptz.
+957167	infc
+957172	wayq
+957181	impf
+957184	ptz.
+957193	perf
+957197	ptz.
+957199	ptz.
+957216	ptz.
+ptz.
+957222	ptz.
+957229	perf
+957231	ptz.
+957239	ptz.
+957244	ptz.
+957250	infc
+957254	infc
+957268	ptz.
+957278	ptz.
+957287	infc
+957302	ptz.
+957310	perf
+957321	infc
+infc
+impv
+957329	impf
+957335	impf
+957341	perf
+957343	perf
+957363	impf
+957367	infc
+957371	impf
+957373	impf
+957383	impf
+957392	perf
+957396	infc
+957400	infc
+957417	impf
+impf
+957423	infc
+957429	wayq
+957455	ptz.
+perf
+957462	perf
+957475	wayq
+957478	perf
+957483	infc
+957485	impf
+957488	impf
+957491	impf
+957507	ptz.
+957510	infc
+957516	impf
+957522	wayq
+957531	perf
+957533	ptz.
+957537	ptz.
+957543	impf
+957545	ptz.
+957554	impf
+957561	impf
+957576	impf
+957579	impf
+957582	impf
+957585	impf
+957588	impf
+957591	impf
+957597	impf
+957603	impf
+957607	impf
+impf
+957620	infc
+957629	impf
+957634	impf
+957641	impf
+impf
+957647	impf
+957651	impf
+957656	impf
+957672	impf
+957674	infc
+impf
+957685	impf
+957688	impf
+957693	impf
+957695	impf
+957698	impf
+impf
+957709	infc
+957711	impf
+957714	impf
+957716	infc
+957721	impf
+957726	impf
+impf
+957731	impf
+957734	impf
+957738	impf
+957741	impf
+957745	impf
+957748	impf
+impf
+957752	impf
+957754	impf
+957757	impf
+impf
+957761	impf
+957768	impf
+957773	impf
+957776	impf
+957782	infc
+957787	impf
+957790	impf
+957793	impf
+957796	impf
+impf
+957800	impf
+957803	impf
+957808	impf
+957811	impf
+impf
+impf
+impf
+957817	impf
+impf
+impf
+impf
+impf
+impf
+impf
+impf
+impf
+957828	impf
+957833	impf
+957838	impf
+957840	impf
+957844	impf
+957848	impf
+957851	impf
+957854	impf
+957859	impf
+impf
+957862	impf
+957864	impf
+impf
+957872	impf
+957877	impf
+957880	impf
+957883	impf
+957899	infc
+957903	infc
+957905	impf
+957907	impf
+957910	impf
+impf
+impf
+impf
+impf
+957921	impf
+957924	impf
+957926	infc
+957929	impf
+impf
+impf
+957935	impf
+957938	impf
+958235	infc
+958239	infc
+958392	infc
+958423	infc
+958456	infc
+958472	infc
+958502	infc
+958534	infc
+958810	infc
+958846	infc
+958889	infc
+959082	pf.cons.
+959212	infc
+959220	perf
+959225	infc
+959237	perf
+959241	perf
+959248	perf
+959251	perf
+959314	perf
+perf
+959319	perf
+perf
+959326	ptz.
+959340	ptz.
+959384	ptz.
+959438	perf
+959447	infc
+959455	infc
+959467	wayq
+959480	infc
+959484	wayq
+wayq
+959490	perf
+959498	impv
+959500	perf
+959506	perf
+959508	wayq
+impv
+959512	impf
+959517	pf.cons.
+959522	ptz.
+959532	perf
+959540	infc
+959544	ptz.
+959548	wayq
+959565	wayq
+959569	wayq
+959573	wayq
+959576	perf
+959578	wayq
+959584	infc
+959590	pf.cons.
+959598	infc
+959603	perf
+959607	ptz.
+959617	impf
+959621	wayq
+959624	infc
+959628	wayq
+959635	perf
+959642	impf
+959645	impf
+959647	pf.cons.
+959657	impf
+959662	wayq
+959671	perf
+959673	infc
+959682	perf
+959685	perf
+959691	infc
+impv
+959697	impf
+959708	pf.cons.
+959722	impf
+959728	impf
+impf
+959734	wayq
+959736	perf
+959740	wayq
+959746	infc
+959751	wayq
+959753	wayq
+959757	wayq
+959759	wayq
+959765	wayq
+959770	wayq
+959777	wayq
+959783	wayq
+959803	perf
+959810	infc
+959818	impf
+959820	impf
+959822	wayq
+959824	ptz.
+perf
+959831	ptz.
+959836	wayq
+959839	perf
+959845	ptz.
+959849	wayq
+959851	wayq
+959854	perf
+959857	wayq
+959860	impf
+959866	impf
+959871	impf
+959877	wayq
+959883	impf
+impf
+959886	perf
+959888	wayq
+959891	perf
+959893	pf.cons.
+959895	impv
+959897	infc
+959910	wayq
+959915	wayq
+959917	wayq
+959925	perf
+959939	perf
+959951	wayq
+959962	impf
+959971	perf
+959976	ptz.
+959979	perf
+959982	impf
+959987	ptz.
+959992	perf
+959999	perf
+960006	impv
+960010	perf
+960014	perf
+perf
+960023	wayq
+960029	wayq
+960033	impv
+960037	pf.cons.
+960042	perf
+960046	pf.cons.
+960052	wayq
+960055	perf
+960065	infc
+960067	perf
+960070	impf
+960077	infc
+960086	infc
+960089	pf.cons.
+pf.cons.
+960099	ptz.
+960106	pf.cons.
+960115	impf
+960118	impf
+960123	ptz.
+960125	impf
+960136	impf
+960138	pf.cons.
+960144	pf.cons.
+960146	impf
+960149	impf
+960153	perf
+960165	impf
+960177	wayq
+960183	infc
+960190	wayq
+960197	perf
+960201	perf
+960206	impv
+960210	pf.cons.
+960215	perf
+960217	impv
+960221	impf
+960224	ptz.
+960237	ptz.
+960254	wayq
+960258	ptz.
+960269	infc
+960273	wayq
+960278	impf
+960285	impf
+960293	impf
+960295	impv
+960304	impv
+impv
+960319	ptz.
+960325	wayq
+960332	infc
+960339	wayq
+960344	wayq
+960349	impf
+960355	infc
+960357	impf
+960361	perf
+960376	wayq
+960378	wayq
+960381	perf
+960385	infc
+960388	ptz.
+perf
+960391	ptz.
+960393	perf
+perf
+960398	ptz.
+960400	impv
+960403	ptz.
+ptz.
+960406	perf
+ptz.
+960410	wayq
+960417	wayq
+960422	wayq
+960424	perf
+960426	infc
+960431	wayq
+960434	impf
+960436	wayq
+960441	wayq
+960444	wayq
+960447	perf
+960452	impf
+impf
+960462	impf
+960464	pf.cons.
+960471	perf
+960475	infc
+960486	infc
+960488	impf
+960495	impf
+960497	impv
+960502	impv
+960514	ptz.
+ptz.
+960521	ptz.
+960524	wayq
+960540	ptz.
+960576	pf.cons.
+960581	impf
+960584	impv
+960586	perf
+960601	perf
+960612	impf
+960622	wayq
+960634	ptz.
+ptz.
+960637	impf
+960649	ptz.
+960657	wayq
+960661	wayq
+960678	wayq
+960688	wayq
+960698	perf
+960717	perf
+ptz.
+960737	ptz.
+960740	perf
+960745	wayq
+960749	wayq
+960756	ptz.
+960768	ptz.
+960770	ptz.
+ptz.
+960777	ptz.
+960779	wayq
+960842	impf
+impf
+960846	infc
+impf
+960851	impf
+960854	ptz.
+960864	perf
+960870	pf.cons.
+ptz.
+960878	perf
+960888	impf
+960895	impf
+960902	impf
+960908	perf
+960912	infc
+960921	wayq
+960933	infc
+impv
+960939	infc
+960941	infc
+960946	ptz.
+960951	pf.cons.
+960955	impf
+960965	impf
+960970	infc
+960999	impf
+961002	impf
+961006	ptz.
+961016	pf.cons.
+961021	pf.cons.
+961023	impf
+961029	pf.cons.
+961037	pf.cons.
+961046	pf.cons.
+961053	pf.cons.
+961055	pf.cons.
+961060	pf.cons.
+961066	pf.cons.
+961070	pf.cons.
+961073	pf.cons.
+961080	pf.cons.
+961095	impv
+961103	impv
+961122	impf
+961159	ptz.
+ptz.
+961167	ptz.
+961169	infc
+961175	ptz.
+961192	perf
+961196	infc
+961199	infc
+961209	perf
+961215	infc
+961222	impf
+961227	impf
+961252	infc
+961256	wayq
+961259	infc
+961264	wayq
+961275	ptz.
+961280	impf
+961294	ptz.
+961307	ptz.
+961328	pf.cons.
+961330	pf.cons.
+961342	wayq
+961351	infc
+961354	perf
+961358	wayq
+961372	perf
+961378	wayq
+961383	wayq
+961394	wayq
+961404	perf
+961408	ptz.
+ptz.
+961414	impf
+ptz.
+961420	impf
+961422	pf.cons.
+961427	pf.cons.
+961430	ptz.
+961433	wayq
+961448	perf
+961454	pf.cons.
+961458	wayq
+961463	wayq
+961474	impf
+961476	wayq
+961481	infc
+961495	ptz.
+ptz.
+961504	ptz.
+961508	pf.cons.
+961517	pf.cons.
+961544	ptz.
+961554	pf.cons.
+ptz.
+961611	ptz.
+961617	ptz.
+961637	ptz.
+961639	ptz.
+961643	ptz.
+961691	impf
+961693	ptz.
+961696	impf
+961718	ptz.
+961720	ptz.
+961743	impf
+impf
+961747	impf
+961753	pf.cons.
+961757	impf
+impf
+961765	impf
+961770	pf.cons.
+961773	impf
+961777	impf
+961787	perf
+961836	impf
+961838	pf.cons.
+961872	perf
+961878	pf.cons.
+961906	impf
+961908	perf
+961910	impv
+961915	wayq
+961919	impv
+961921	infc
+961924	impf
+961926	pf.cons.
+961928	perf
+961935	impf
+961940	impf
+961942	infc
+961944	pf.cons.
+961953	infc
+961958	impf
+961975	pf.cons.
+961979	pf.cons.
+961983	pf.cons.
+961997	infc
+962001	impf
+impf
+impf
+962006	impf
+962009	impf
+962038	impf
+962062	ptz.
+962067	impf
+962070	impf
+962074	impf
+962087	impf
+962092	impf
+962096	perf
+962106	perf
+962114	infc
+962126	impv
+962129	impv
+962138	impf
+962149	ptz.
+962153	ptz.
+962158	infc
+962160	impf
+962165	impf
+962169	ptz.
+962183	impf
+962188	infc
+962199	ptz.
+962202	ptz.
+962205	impf
+962211	infc
+962213	impf
+962222	perf
+962228	ptz.
+962237	perf
+962240	infc
+962252	impf
+962263	perf
+962268	wayq
+962276	ptz.
+962286	perf
+962300	impf
+962312	infc
+962337	wayq
+962341	perf
+962348	perf
+962353	perf
+962355	impf
+962357	impf
+perf
+962361	impf
+962368	perf
+962372	perf
+962375	impf
+962380	wayq
+962392	wayq
+962397	wayq
+962403	perf
+962409	perf
+962411	perf
+962420	perf
+962423	perf
+962426	perf
+962428	perf
+962431	perf
+962439	wayq
+962449	perf
+962451	wayq
+962456	perf
+962459	impf
+962473	perf
+impf
+962477	impf
+962482	infc
+962491	impf
+962494	impv
+ptz.
+962497	impf
+962503	impf
+962505	impf
+962509	impf
+962521	impf
+962523	infc
+962534	ptz.
+962536	infc
+962541	impf
+962546	infc
+962553	ptz.
+962556	infc
+perf
+962563	impf
+962565	perf
+962572	impf
+962581	pf.cons.
+962583	ptz.
+962585	impf
+962595	impf
+962601	ptz.
+962624	impf
+962626	infc
+962628	infc
+962638	ptz.
+962646	ptz.
+962648	ptz.
+962655	infc
+962661	impf
+962666	infc
+962672	impf
+962674	infc
+962688	ptz.
+962692	ptz.
+962701	wayq
+impf
+962707	infc
+962711	wayq
+962716	impf
+962720	impv
+962727	impf
+962730	ptz.
+962754	ptz.
+962771	ptz.
+962779	perf
+962785	ptz.
+962788	perf
+962793	ptz.
+962795	ptz.
+ptz.
+962800	impf
+962806	impf
+impf
+962809	ptz.
+962812	infc
+962817	impf
+962819	impf
+962823	impf
+962827	infc
+962829	ptz.
+962834	ptz.
+962844	infc
+962848	infc
+962858	ptz.
+962868	perf
+962870	pf.cons.
+962884	ptz.
+ptz.
+962889	infc
+962891	infc
+962893	infc
+perf
+962900	ptz.
+962902	perf
+962906	infc
+962908	wayq
+962919	impv
+962921	ptz.
+ptz.
+962927	perf
+962939	infc
+962942	koh.
+962947	infc
+962951	infc
+962957	impf
+962961	impf
+962970	impf
+impf
+962979	perf
+962990	infc
+962993	impf
+963000	impf
+963006	perf
+963010	infc
+963017	perf
+perf
+963020	infc
+963025	ptz.
+963029	impf
+963032	impv
+963034	perf
+963046	perf
+963049	pf.cons.
+963051	perf
+ptz.
+963054	perf
+963065	impf
+963068	infc
+963072	impf
+963075	ptz.
+ptz.
+963085	ptz.
+963088	impf
+impf
+963095	ptz.
+963103	impf
+963109	perf
+963120	ptz.
+963126	perf
+impv
+963138	ptz.
+963143	perf
+963149	perf
+963153	infc
+963159	infc
+963175	wayq
+963187	wayq
+wayq
+963197	impf
+impf
+963200	impf
+963203	wayq
+963207	infc
+963213	wayq
+963221	perf
+perf
+963224	impf
+963226	impf
+963228	infc
+963231	infc
+perf
+963242	infc
+963245	infc
+963259	perf
+impv
+963262	impf
+963269	pf.cons.
+963273	pf.cons.
+963281	pf.cons.
+963288	infc
+963294	impf
+963296	pf.cons.
+963299	infc
+963303	impf
+963305	pf.cons.
+963307	impf
+963312	ptz.
+963315	pf.cons.
+963322	ptz.
+963326	impf
+963336	impf
+963343	pf.cons.
+963353	impf
+963355	pf.cons.
+963366	ptz.
+963369	pf.cons.
+963386	impf
+963389	impf
+pf.cons.
+963399	impf
+963406	infc
+963409	infc
+963412	perf
+963423	impf
+963436	impf
+963440	infc
+963450	infc
+963456	infc
+963461	pf.cons.
+963480	impf
+963512	wayq
+963515	wayq
+963519	wayq
+963526	pf.cons.
+pf.cons.
+963532	impf
+963537	wayq
+963540	wayq
+963544	impv
+963547	ptz.
+963551	impf
+963553	impf
+963555	impf
+963562	infc
+963572	wayq
+963582	impf
+963589	perf
+963592	ptz.
+963600	perf
+963604	infc
+963616	perf
+perf
+963636	wayq
+963641	infc
+963645	impf
+963655	perf
+963673	perf
+963675	infc
+963680	pf.cons.
+963689	pf.cons.
+963695	pf.cons.
+pf.cons.
+963704	infc
+963707	perf
+963712	perf
+963715	wayq
+963720	pf.cons.
+963732	impf
+impf
+impv
+963736	impv
+963738	impf
+963740	impf
+963743	impf
+impf
+963752	impf
+963768	perf
+963770	impf
+963775	impf
+963777	impf
+963783	perf
+perf
+963786	wayq
+963792	impf
+963800	ptz.
+963804	infc
+963823	ptz.
+963834	infc
+963837	perf
+963846	infc
+963848	wayq
+963861	perf
+963871	impf
+impf
+963875	infc
+963883	perf
+perf
+963901	infc
+963904	infc
+963910	perf
+963917	ptz.
+963929	perf
+963937	impf
+963942	ptz.
+963944	perf
+963953	perf
+963962	impf
+963968	impv
+963992	impf
+ptz.
+964000	impf
+964014	impf
+964026	perf
+perf
+ptz.
+ptz.
+perf
+964032	perf
+964045	infc
+964061	ptz.
+964067	ptz.
+964090	impv
+964110	ptz.
+964112	ptz.
+964117	perf
+perf
+ptz.
+964130	ptz.
+964139	infc
+964148	perf
+964150	impf
+964174	ptz.
+964181	perf
+964184	infc
+964187	infc
+964190	ptz.
+964193	impf
+964202	impf
+964208	ptz.
+964211	infc
+964215	infc
+964220	pf.cons.
+964222	pf.cons.
+964225	wayq
+964231	infc
+964251	perf
+infc
+perf
+964255	perf
+infc
+perf
+964263	perf
+964270	ptz.
+964284	perf
+964286	perf
+964293	impf
+964298	impf
+964301	perf
+964306	wayq
+964308	infc
+964312	impf
+impf
+964321	impf
+964325	ptz.
+964329	ptz.
+ptz.
+964333	impf
+964335	infc
+964337	impf
+964349	impf
+964351	impf
+ptz.
+perf
+impf
+964358	infc
+964365	impf
+964369	impf
+perf
+964374	infc
+964377	impf
+impf
+964381	perf
+964396	impf
+964400	impf
+964405	perf
+964407	ptz.
+koh.
+964411	impf
+964420	impf
+964425	impf
+964429	ptz.
+964433	perf
+964443	perf
+964458	wayq
+wayq
+964476	perf
+964478	infc
+964500	infc
+964502	impf
+964510	infc
+964520	infc
+964525	infc
+964535	perf
+964538	perf
+964541	impf
+964544	impf
+964558	infc
+964562	impf
+964564	impv
+964570	perf
+964575	impf
+964581	perf
+964597	perf
+964600	perf
+perf
+964605	perf
+964610	perf
+impf
+964618	impf
+964625	impf
+964631	impf
+964646	impf
+964651	perf
+964656	impf
+impf
+964664	ptz.
+964676	ptz.
+perf
+impv
+964690	impf
+964700	ptz.
+964704	impf
+964708	impf
+964718	impf
+964721	perf
+964733	impf
+964737	impf
+964740	wayq
+impf
+964747	impf
+964751	impf
+964755	perf
+impf
+impf
+964759	impf
+964768	impf
+964773	koh.
+964775	ptz.
+964778	impf
+964781	perf
+ptz.
+964785	perf
+964788	ptz.
+964793	impf
+impf
+964797	ptz.
+964802	impf
+964805	ptz.
+964808	infc
+964813	impf
+964821	ptz.
+964829	ptz.
+964831	perf
+964836	impf
+impf
+964845	ptz.
+impf
+964848	ptz.
+impf
+964854	impf
+impf
+impf
+impf
+964864	impv
+964869	impf
+964876	impf
+964886	impf
+964895	ptz.
+964897	koh.
+964899	koh.
+964902	ptz.
+964911	infc
+964920	infc
+964934	impf
+964937	impf
+964943	perf
+964946	perf
+964950	impf
+964954	impf
+964958	perf
+perf
+perf
+perf
+964963	perf
+964972	perf
+964977	perf
+perf
+ptz.
+964983	ptz.
+impf
+impf
+964987	impf
+964990	infc
+964994	perf
+perf
+964997	ptz.
+964999	ptz.
+965001	ptz.
+965006	impf
+965009	ptz.
+impf
+965012	impf
+965016	impf
+impf
+965020	perf
+965022	impf
+965025	infc
+965029	perf
+965033	impf
+965035	infc
+965039	perf
+965042	impf
+965047	ptz.
+965049	perf
+965058	impf
+impf
+965071	impf
+impf
+965078	impf
+965082	impf
+perf
+965086	ptz.
+965089	impf
+965093	ptz.
+965096	impf
+965099	ptz.
+965101	ptz.
+965110	infc
+infc
+965115	pf.cons.
+965118	impf
+965121	ptz.
+965128	impf
+965133	ptz.
+965141	impf
+965145	ptz.
+965148	infc
+965156	impf
+impf
+965161	ptz.
+965166	perf
+965176	impf
+impf
+965180	ptz.
+965183	impf
+965189	impf
+965196	pf.cons.
+wayq
+965218	perf
+965222	infc
+965227	infc
+965231	wayq
+965237	infc
+965240	infc
+965244	perf
+965246	wayq
+965249	infc
+965253	infc
+965256	ptz.
+965263	perf
+965266	impv
+965270	impf
+965276	infc
+965278	perf
+965284	infc
+infc
+965292	infc
+965296	ptz.
+965299	perf
+ptz.
+965305	impf
+965310	impv
+965332	impf
+965337	impf
+965339	ptz.
+965343	ptz.
+965349	infc
+965352	impf
+965365	impf
+impf
+965370	infc
+965377	infc
+965384	impf
+impf
+965390	ptz.
+965395	perf
+965401	infc
+965406	infc
+965429	perf
+perf
+965434	impf
+965438	impf
+965442	impf
+965445	perf
+965448	impf
+impv
+965452	impv
+965472	impf
+965477	impf
+wayq
+965482	wayq
+965485	perf
+ptz.
+965511	perf
+965519	ptz.
+965522	ptz.
+965524	ptz.
+965529	perf
+965533	ptz.
+965536	impv
+965541	impf
+965546	ptz.
+965548	perf
+965560	perf
+965562	pf.cons.
+965573	ptz.
+965580	perf
+965582	perf
+965584	koh.
+965587	infc
+965591	ptz.
+965593	impf
+965596	ptz.
+965606	infc
+965617	perf
+965621	perf
+965623	impf
+965627	perf
+965638	ptz.
+ptz.
+965650	infc
+965665	infc
+965673	perf
+965684	ptz.
+965686	perf
+965696	infc
+965701	infc
+965706	impf
+965712	impf
+965718	pf.cons.
+965720	pf.cons.
+965724	perf
+965729	perf
+965733	perf
+965742	ptz.
+965752	wayq
+965767	pf.cons.
+perf
+perf
+965771	infc
+965774	infc
+965781	perf
+965795	infc
+965799	ptz.
+965805	pf.cons.
+965809	ptz.
+965813	impf
+965819	impf
+965821	impf
+impf
+965826	ptz.
+965829	perf
+965837	infc
+965839	ptz.
+965842	ptz.
+965844	ptz.
+965846	infc
+965860	impf
+965865	ptz.
+965880	perf
+965882	ptz.
+965887	perf
+ptz.
+965895	ptz.
+965898	infc
+965901	ptz.
+965906	perf
+965910	wayq
+965916	impf
+impf
+965920	impf
+965923	wayq
+965927	impf
+965932	impf
+965938	impv
+965942	pf.cons.
+965944	impf
+965951	wayq
+965954	wayq
+965956	impv
+965958	impf
+965962	impf
+965965	wayq
+impv
+impv
+965973	impf
+965976	wayq
+965981	wayq
+965987	wayq
+965990	impf
+965993	wayq
+965997	impf
+impf
+966002	impf
+impf
+966010	perf
+966012	wayq
+966016	impv
+966025	impv
+966029	impf
+966034	impf
+966038	ptz.
+966042	impf
+966046	wayq
+966051	impf
+966060	perf
+966063	perf
+966075	pf.cons.
+impv
+impv
+pf.cons.
+966084	ptz.
+966088	perf
+966090	perf
+966100	impf
+966108	perf
+966130	perf
+966132	ptz.
+966137	perf
+966143	ptz.
+966147	infc
+966154	perf
+966169	ptz.
+966174	wayq
+966176	infc
+966180	perf
+966184	wayq
+966188	perf
+wayq
+966192	wayq
+966198	wayq
+966203	infc
+966206	perf
+966210	wayq
+perf
+966215	wayq
+966218	wayq
+966220	wayq
+966227	pf.cons.
+ptz.
+966232	pf.cons.
+966237	impf
+966240	impf
+966250	ptz.
+perf
+966256	impf
+966261	pf.cons.
+966267	wayq
+966281	infc
+966285	impf
+impf
+impf
+impf
+impf
+966292	impf
+966298	perf
+966314	ptz.
+966321	impf
+966336	wayq
+wayq
+966348	infc
+966351	impf
+impf
+impf
+impf
+966364	impf
+966367	ptz.
+966395	impf
+966408	ptz.
+966411	perf
+966416	wayq
+966422	infc
+966428	wayq
+966439	wayq
+966442	wayq
+966447	wayq
+966450	impf
+966458	pf.cons.
+966467	perf
+966475	infc
+966477	wayq
+966479	ptz.
+966499	impv
+perf
+966506	perf
+impv
+impv
+966513	impf
+966523	ptz.
+966525	ptz.
+966537	wayq
+966542	infc
+impv
+966545	pf.cons.
+966547	ptz.
+966552	impf
+966557	impf
+966563	impf
+966570	impf
+966574	impf
+966578	impf
+966585	perf
+966590	impf
+966596	impf
+impv
+966605	wayq
+966608	impf
+966611	wayq
+966618	impf
+966622	wayq
+966624	impv
+966631	wayq
+perf
+966637	ptz.
+966640	impf
+966642	wayq
+966646	impf
+966648	infc
+966653	impf
+966659	impf
+966665	impf
+966670	impf
+966675	impf
+966680	impf
+966687	impf
+966693	impf
+966696	impf
+perf
+966702	pf.cons.
+impf
+966707	perf
+966713	impf
+966722	ptz.
+966726	impf
+966728	impf
+966738	impf
+966742	pf.cons.
+966746	ptz.
+966751	perf
+966753	wayq
+966759	wayq
+perf
+impf
+966768	wayq
+966773	wayq
+966777	perf
+966779	wayq
+966784	wayq
+966786	perf
+966790	infc
+966799	infc
+966801	impf
+966803	infc
+966811	pf.cons.
+966815	infc
+966820	impf
+966826	perf
+966834	pf.cons.
+966845	infc
+966852	ptz.
+966855	pf.cons.
+966862	pf.cons.
+966870	impf
+966874	impf
+966879	pf.cons.
+966882	pf.cons.
+966885	ptz.
+966888	ptz.
+966897	ptz.
+966901	ptz.
+966909	impf
+966915	impf
+966917	pf.cons.
+966921	pf.cons.
+966931	pf.cons.
+966940	infc
+966948	ptz.
+966951	perf
+966958	impf
+966965	impf
+966969	ptz.
+966975	impf
+966981	infc
+966991	pf.cons.
+967014	perf
+967029	infc
+967035	infc
+967040	perf
+967048	perf
+967051	perf
+967054	perf
+967059	infc
+967063	infc
+967066	impf
+967070	infc
+967086	ptz.
+967095	ptz.
+967099	impf
+impf
+967102	ptz.
+967116	impf
+967121	perf
+967124	impf
+impf
+967128	impf
+967132	impf
+967137	pf.cons.
+967145	infc
+967151	perf
+967156	impf
+967160	ptz.
+perf
+967163	impf
+967166	perf
+967168	perf
+967173	perf
+967179	impf
+967193	impf
+967200	impf
+967202	pf.cons.
+967206	pf.cons.
+967210	perf
+967214	infc
+967219	infc
+967224	impf
+967229	perf
+967234	infc
+967236	perf
+967242	perf
+967259	perf
+967268	infc
+967272	perf
+967274	wayq
+967278	koh.
+967282	wayq
+967285	perf
+impv
+967295	wayq
+967298	pf.cons.
+967305	impf
+967319	ptz.
+967325	perf
+967328	perf
+967332	perf
+967336	impf
+967344	infc
+infc
+967347	perf
+967351	infc
+967356	perf
+967365	impf
+967373	impf
+967382	perf
+967384	wayq
+967387	ptz.
+967402	impf
+967410	pf.cons.
+967416	impf
+967421	ptz.
+967423	impf
+967426	impf
+967436	perf
+967445	ptz.
+967451	infc
+967455	impf
+967458	impf
+967462	impf
+967466	perf
+967472	infc
+967481	impf
+967490	impf
+967493	impf
+967498	pf.cons.
+967502	pf.cons.
+967507	pf.cons.
+967511	pf.cons.
+967518	impf
+impf
+967524	infc
+967528	pf.cons.
+967533	pf.cons.
+967535	impf
+967537	impf
+967542	impf
+967552	ptz.
+967555	impf
+967558	pf.cons.
+967563	infc
+967572	impf
+ptz.
+967582	impf
+967588	impf
+967590	infc
+967598	infc
+967603	impf
+967605	pf.cons.
+967609	pf.cons.
+967613	impf
+967616	impf
+967618	perf
+967620	infc
+impf
+967623	wayq
+967631	perf
+perf
+967634	infc
+967643	impf
+967645	wayq
+967649	impf
+967652	impf
+967656	impf
+967660	impf
+967662	impf
+perf
+967665	impf
+967667	infc
+967673	impf
+impf
+967698	ptz.
+967702	perf
+perf
+967709	ptz.
+967714	wayq
+967719	perf
+967741	impf
+967747	wayq
+wayq
+967757	infc
+967760	impf
+967762	wayq
+967774	ptz.
+967787	wayq
+967791	infc
+967794	perf
+ptz.
+ptz.
+infc
+967803	infc
+967807	ptz.
+967819	ptz.
+967822	pf.cons.
+perf
+ptz.
+967830	wayq
+impf
+967854	impf
+967866	infc
+967872	impf
+967876	infc
+967889	infc
+infc
+967901	perf
+967917	ptz.
+perf
+967923	infc
+967932	perf
+967952	infc
+967962	impf
+967966	ptz.
+967978	ptz.
+967982	ptz.
+968002	wayq
+968020	wayq
+perf
+968026	infc
+968045	impf
+968050	impf
+perf
+968053	perf
+968056	perf
+968059	impf
+968062	impf
+968064	infc
+968068	perf
+perf
+perf
+968072	impv
+968079	impv
+968083	impv
+968086	pf.cons.
+968092	impv
+ptz.
+968097	impv
+968102	ptz.
+968106	impf
+968108	perf
+968118	perf
+968128	ptz.
+968131	ptz.
+968136	ptz.
+968140	impf
+968147	infc
+968156	perf
+968159	wayq
+968166	infc
+968174	impv
+impv
+968180	impf
+968184	impf
+impf
+968187	impf
+968189	impf
+968197	perf
+968204	infc
+968206	perf
+968214	infc
+968223	infc
+968226	ptz.
+968242	infc
+impf
+968267	ptz.
+ptz.
+968273	perf
+968289	ptz.
+968294	infc
+968299	ptz.
+968315	ptz.
+968318	ptz.
+968336	infc
+968338	ptz.
+968341	infc
+infc
+968346	ptz.
+968357	ptz.
+968360	ptz.
+968363	ptz.
+968367	ptz.
+968374	infc
+968377	infc
+968383	impf
+ptz.
+ptz.
+968393	infc
+968397	ptz.
+ptz.
+968405	ptz.
+968417	ptz.
+968435	ptz.
+968440	ptz.
+968447	ptz.
+968451	ptz.
+ptz.
+968456	infc
+infc
+968460	infc
+968469	ptz.
+ptz.
+968477	perf
+968485	perf
+968491	perf
+968494	perf
+968496	perf
+968498	infc
+968501	ptz.
+968508	ptz.
+968510	ptz.
+968519	ptz.
+968521	ptz.
+968528	ptz.
+968530	ptz.
+968538	infc
+968545	ptz.
+968562	perf
+968577	impf
+968581	ptz.
+968585	ptz.
+ptz.
+968588	infc
+968600	ptz.
+968603	infc
+968610	ptz.
+968622	ptz.
+968624	impf
+968635	infc
+ptz.
+968641	ptz.
+968643	infc
+968650	ptz.
+968655	perf
+968663	perf
+968669	perf
+968672	perf
+968674	perf
+968676	infc
+968679	ptz.
+968685	ptz.
+ptz.
+968693	ptz.
+968701	ptz.
+968705	perf
+968722	ptz.
+968742	ptz.
+968744	impf
+968752	ptz.
+968760	impf
+968762	pf.cons.
+impf
+968770	infc
+968780	ptz.
+ptz.
+968784	ptz.
+968786	ptz.
+968789	infc
+968793	infc
+968805	ptz.
+968811	ptz.
+968818	ptz.
+968824	ptz.
+968828	infc
+968837	infc
+968848	ptz.
+968856	ptz.
+968875	ptz.
+968894	ptz.
+968896	ptz.
+968899	ptz.
+968904	ptz.
+968909	infc
+infc
+968913	infc
+968933	impf
+968935	pf.cons.
+impf
+968944	ptz.
+968946	ptz.
+968955	ptz.
+968961	ptz.
+968967	infc
+968974	ptz.
+968987	perf
+968989	ptz.
+968992	impf
+969001	impf
+969010	ptz.
+969012	perf
+969016	impf
+impf
+969037	ptz.
+ptz.
+969041	ptz.
+969043	impf
+969047	pf.cons.
+969050	ptz.
+969057	pf.cons.
+969073	impf
+969090	ptz.
+impf
+969110	perf
+969118	infc
+969127	ptz.
+969129	perf
+969134	ptz.
+969144	impf
+969151	impf
+969153	impv
+969158	impv
+969165	perf
+ptz.
+ptz.
+ptz.
+969173	ptz.
+969176	perf
+969181	impf
+969183	pf.cons.
+969194	pf.cons.
+pf.cons.
+969199	pf.cons.
+969208	ptz.
+969210	impv
+969213	perf
+969218	perf
+ptz.
+969229	perf
+969236	perf
+969248	impv
+969253	impv
+969258	impf
+969262	impv
+969273	impf
+969278	infc
+969284	pf.cons.
+969289	infc
+969301	ptz.
+969308	infc
+969312	infc
+969324	impv
+perf
+969337	impf
+969341	ptz.
+969352	perf
+969361	infc
+969381	ptz.
+969390	impf
+impf
+969394	perf
+969414	impf
+969423	perf
+969426	impf
+969431	impf
+969434	ptz.
+969437	impf
+969441	ptz.
+969464	perf
+969474	ptz.
+969503	pf.cons.
+969517	infc
+969530	ptz.
+969536	ptz.
+969545	impf
+969551	pf.cons.
+969568	impf
+969571	infc
+969573	impf
+969589	ptz.
+969608	infc
+969610	ptz.
+969615	ptz.
+ptz.
+969624	impv
+969627	perf
+969636	impf
+969641	impf
+969656	perf
+969673	impf
+969679	ptz.
+969681	perf
+ptz.
+969690	infc
+969698	ptz.
+969704	ptz.
+969708	perf
+impf
+impf
+969713	perf
+ptz.
+969726	impf
+969732	impf
+impf
+969736	impv
+perf
+969740	ptz.
+969743	ptz.
+perf
+969747	infc
+impv
+perf
+969752	perf
+969758	impf
+969765	impf
+969771	ptz.
+969773	impv
+969777	infc
+969807	perf
+969810	infc
+969814	impf
+969817	ptz.
+969828	impf
+969839	pf.cons.
+969845	perf
+969847	impf
+969889	pf.cons.
+969909	impf
+969912	ptz.
+969927	pf.cons.
+969949	ptz.
+969951	pf.cons.
+969963	infc
+969986	ptz.
+969996	ptz.
+970005	impf
+970010	ptz.
+970013	pf.cons.
+970015	ptz.
+970020	impf
+970023	ptz.
+970029	ptz.
+970035	ptz.
+970044	impf
+970056	pf.cons.
+970069	ptz.
+970072	pf.cons.
+970075	ptz.
+970089	impf
+970097	ptz.
+970106	ptz.
+970116	pf.cons.
+970120	ptz.
+970134	pf.cons.
+970137	ptz.
+ptz.
+970142	ptz.
+ptz.
+970145	ptz.
+970157	perf
+970160	ptz.
+970173	impv
+970176	ptz.
+970181	impf
+970203	impv
+impv
+970206	impv
+970237	impf
+970251	impv
+ptz.
+970260	impv
+970265	ptz.
+970272	ptz.
+970274	ptz.
+970281	impv
+970291	impf
+970299	impf
+970303	impf
+970318	impv
+970344	impf
+970359	impv
+970361	ptz.
+970374	infc
+970429	infc
+970431	infc
+970435	ptz.
+ptz.
+970474	ptz.
+ptz.
+970487	impf
+970505	pf.cons.
+970510	pf.cons.
+970519	pf.cons.
+970546	impv
+970551	infc
+970554	impv
+970623	impf
+970643	infc
+970647	ptz.
+970661	ptz.
+970665	pf.cons.
+970668	infc
+impf
+970678	pf.cons.
+970686	pf.cons.
+970689	ptz.
+970695	ptz.
+970703	impv
+970708	impv
+970753	perf
+970759	ptz.
+970763	pf.cons.
+970769	ptz.
+970786	impf
+970792	pf.cons.
+970799	ptz.
+970801	pf.cons.
+970807	ptz.
+970810	ptz.
+970812	ptz.
+970838	impf
+impv
+ptz.
+970842	ptz.
+970865	impf
+impf
+970895	impv
+970912	ptz.
+970915	infc
+970926	impf
+970931	impf
+970933	impf
+970942	impf
+970946	impf
+970961	perf
+970978	pf.cons.
+970981	ptz.
+970997	impf
+971011	pf.cons.
+971020	ptz.
+971025	ptz.
+971046	ptz.
+971060	ptz.
+971118	ptz.
+971128	pf.cons.
+971130	impf
+971152	ptz.
+971164	infc
+971169	impf
+impv
+971179	impv
+pf.cons.
+971197	ptz.
+971212	ptz.
+971222	ptz.
+971258	impf
+971261	infc
+971291	infc
+971298	impv
+971305	impf
+971310	pf.cons.
+971312	infc
+971320	infc
+971328	ptz.
+971339	impf
+971346	infc
+971348	impf
+971351	impf
+971377	ptz.
+971382	ptz.
+971394	infc
+971399	infc
+971404	perf
+971422	pf.cons.
+971424	ptz.
+971436	ptz.
+971438	impf
+impf
+971444	infc
+971451	perf
+971454	infc
+971460	impf
+971469	ptz.
+971473	ptz.
+971500	ptz.
+971503	ptz.
+971505	ptz.
+971511	infc
+971521	ptz.
+971529	impf
+971531	impf
+971536	impf
+971540	impf
+971544	impf
+impf
+971547	impf
+971554	impf
+971562	ptz.
+971572	pf.cons.
+971576	perf
+971579	infc
+971585	perf
+971591	impf
+971600	ptz.
+971610	ptz.
+ptz.
+971628	ptz.
+971633	ptz.
+971641	ptz.
+971646	infc
+971668	pf.cons.
+971700	ptz.
+971749	ptz.
+971759	pf.cons.
+971786	impf
+971792	ptz.
+971804	infc
+971806	infc
+971812	impf
+971814	ptz.
+971824	ptz.
+971827	ptz.
+971832	perf
+971834	infc
+971836	perf
+971841	infc
+971851	infc
+971856	perf
+infc
+971864	infc
+971870	perf
+971875	infc
+971880	infc
+971893	infc
+ptz.
+971899	perf
+infc
+infc
+971907	impv
+971909	impv
+971920	impv
+impv
+971928	impv
+971930	impv
+971933	impv
+971936	impv
+971940	impv
+971942	impv
+971945	ptz.
+971949	impf
+971956	impf
+971977	impf
+971981	perf
+971988	perf
+971992	impv
+971999	perf
+972004	perf
+972009	perf
+perf
+972019	infc
+972023	perf
+972025	perf
+972027	perf
+972042	impf
+972048	perf
+impv
+infc
+impv
+972060	impv
+972063	ptz.
+972067	impv
+impv
+972076	ptz.
+972082	impf
+972085	perf
+972088	ptz.
+972093	impf
+972095	impv
+972107	perf
+972116	infc
+972125	impf
+972128	impv
+972136	perf
+perf
+972145	infc
+972150	perf
+972155	infc
+972161	infc
+972166	impf
+972170	pf.cons.
+972172	pf.cons.
+ptz.
+972177	ptz.
+972185	impf
+972210	pf.cons.
+972227	pf.cons.
+pf.cons.
+972235	perf
+972237	infc
+972240	perf
+972244	infc
+972252	infc
+972257	pf.cons.
+972261	pf.cons.
+972265	impf
+ptz.
+972272	ptz.
+972278	pf.cons.
+perf
+perf
+972299	ptz.
+972309	impf
+972317	infc
+972326	impf
+972332	pf.cons.
+972335	perf
+972337	impf
+impf
+972349	impf
+972353	ptz.
+972383	ptz.
+impv
+perf
+972397	impv
+972401	impf
+impf
+impf
+impf
+972408	infc
+infc
+infc
+972416	impf
+972420	perf
+972431	impv
+972454	perf
+972459	perf
+972462	impf
+972468	perf
+972470	perf
+972472	pf.cons.
+972477	impf
+972481	impf
+972484	ptz.
+perf
+972490	impv
+infc
+perf
+impv
+impv
+972497	perf
+972500	impf
+impf
+972504	impv
+972506	ptz.
+972515	perf
+972520	impv
+perf
+972530	infc
+972542	infc
+972554	perf
+972570	impf
+972578	impf
+972581	impf
+972584	perf
+972588	perf
+972590	wayq
+972597	impf
+972600	impf
+972604	infc
+972613	infc
+972631	impv
+972634	ptz.
+972649	impf
+972653	impv
+972655	impv
+972658	impf
+impf
+972661	ptz.
+ptz.
+972667	impf
+972675	impf
+972677	perf
+impv
+972681	infc
+972685	impf
+972692	impf
+972705	ptz.
+perf
+perf
+972711	impv
+impv
+972716	impv
+972724	impf
+972730	ptz.
+972733	impf
+972739	impv
+972742	impf
+972747	impf
+972752	impf
+972762	impf
+972767	infc
+972770	impf
+972778	pf.cons.
+972785	impf
+972794	pf.cons.
+972796	impf
+972802	pf.cons.
+972813	impf
+972821	impf
+impf
+972828	impf
+972832	impf
+972838	impf
+impf
+impf
+972842	impf
+impf
+972846	impf
+972848	impf
+972853	infc
+972859	impf
+ptz.
+972865	impf
+972869	impf
+impf
+972874	impf
+972877	impf
+972883	impf
+972891	ptz.
+972894	impf
+972899	ptz.
+impf
+972906	impf
+972910	impv
+972912	ptz.
+972917	impf
+972922	impf
+972926	impf
+impf
+972931	impf
+972933	perf
+972935	impf
+972944	perf
+972946	impf
+972949	impf
+972954	perf
+972959	perf
+972963	impf
+impf
+972968	impf
+972974	impf
+972980	impf
+972985	impf
+972990	impf
+972993	impf
+972997	impf
+973002	impv
+973006	ptz.
+impv
+973011	impf
+973016	impf
+973018	impf
+973024	ptz.
+impv
+973029	impv
+973034	perf
+973039	perf
+973044	perf
+973048	impf
+ptz.
+973053	impf
+973059	impv
+973064	impv
+973072	ptz.
+impv
+973075	impv
+973084	impf
+973087	impf
+973124	ptz.
+973128	perf
+973131	wayq
+973135	impv
+973139	perf
+perf
+973144	ptz.
+impv
+973150	impv
+973160	ptz.
+973166	perf
+973169	impv
+973172	infc
+973174	impv
+973185	perf
+973187	perf
+973190	perf
+973194	perf
+973205	impf
+973221	impf
+973224	perf
+973229	perf
+973232	infc
+infc
+973239	infc
+973248	infc
+973250	impv
+973257	impv
+973259	perf
+impv
+973265	impf
+impf
+973290	impf
+973292	infc
+973301	impf
+973308	impv
+973313	ptz.
+973317	impf
+impf
+973322	ptz.
+impv
+973329	impv
+973343	impv
+973347	infc
+973350	ptz.
+973353	impv
+973358	perf
+973363	ptz.
+impv
+973369	impv
+973376	impf
+973398	impf
+973413	ptz.
+perf
+973419	perf
+973427	perf
+973438	perf
+perf
+973446	infc
+973459	perf
+ptz.
+973463	infc
+973469	impv
+973472	impf
+973486	ptz.
+973491	ptz.
+ptz.
+973496	ptz.
+973500	ptz.
+ptz.
+973509	ptz.
+973513	ptz.
+973523	wayq
+973538	perf
+973542	perf
+973549	perf
+973560	ptz.
+impv
+973564	ptz.
+973566	impv
+973570	infc
+973582	impv
+973586	impv
+973589	impf
+973594	impf
+973599	impf
+impv
+973606	impf
+973613	impv
+973618	impv
+973624	impv
+impv
+973629	impf
+973635	ptz.
+973638	perf
+973640	impf
+impf
+973647	impv
+impv
+973655	impf
+impf
+973664	impv
+973668	impf
+973671	impf
+973685	impf
+973690	ptz.
+973696	impv
+973699	impf
+973702	impf
+973714	ptz.
+973717	impf
+973721	impf
+973724	ptz.
+973726	impv
+973730	impv
+973732	ptz.
+973746	impv
+973756	impv
+973759	ptz.
+973762	impf
+973765	impf
+973771	impv
+973774	impf
+973777	pf.cons.
+973780	pf.cons.
+973785	impf
+973796	impf
+973802	impf
+impv
+973809	impv
+973813	impf
+973816	impf
+impv
+973827	impf
+973832	impf
+impv
+973836	impf
+973842	impf
+973846	impf
+973856	perf
+infc
+973859	ptz.
+973861	impf
+973863	impf
+973870	ptz.
+973877	impf
+973883	impf
+973885	perf
+973887	impf
+973890	impf
+973896	impf
+973900	infc
+973907	infc
+973911	impf
+973914	pf.cons.
+973919	impf
+973922	ptz.
+973924	impv
+impv
+973929	ptz.
+973933	perf
+973941	impf
+973944	impf
+973950	infc
+973958	impf
+973960	impf
+973962	pf.cons.
+973967	impv
+973973	impf
+973979	impf
+973982	impf
+973989	impf
+973995	impf
+973998	impf
+974001	impv
+974011	impf
+974018	perf
+974032	impf
+974038	ptz.
+974047	impf
+974054	impf
+impf
+974058	ptz.
+974060	impf
+impf
+974065	impf
+974075	impf
+974081	ptz.
+974100	perf
+974102	impf
+974113	impf
+974121	impf
+974125	impf
+974133	perf
+impv
+974145	impf
+974147	impf
+974160	infc
+974165	impf
+impf
+perf
+974169	perf
+974172	pf.cons.
+974189	pf.cons.
+974197	ptz.
+ptz.
+974205	perf
+impf
+974213	impf
+974217	impf
+974221	impf
+974225	impv
+impv
+974230	impf
+974235	impf
+974237	impf
+974243	ptz.
+974247	impf
+974249	impf
+974255	ptz.
+impv
+974260	impv
+974264	perf
+974268	perf
+974273	perf
+974276	impf
+ptz.
+974287	impf
+974293	impv
+974314	ptz.
+974318	perf
+974322	ptz.
+974327	perf
+974343	perf
+974347	impv
+974357	impv
+974364	ptz.
+ptz.
+974370	impv
+974372	impf
+974375	impf
+974379	pf.cons.
+974397	ptz.
+974400	perf
+974403	ptz.
+974408	ptz.
+974416	impv
+974419	ptz.
+974428	perf
+974434	infc
+974440	infc
+974444	ptz.
+974447	ptz.
+974449	perf
+impv
+974453	ptz.
+974455	infc
+974460	infc
+974463	impf
+974466	impf
+impf
+974471	ptz.
+974476	impf
+974478	impf
+974482	perf
+974488	ptz.
+974491	impf
+974493	impf
+impf
+974497	impf
+974501	ptz.
+974509	perf
+974512	perf
+974516	infc
+974520	perf
+974522	ptz.
+974533	perf
+974537	perf
+974545	wayq
+974554	impf
+impf
+974564	impf
+974569	impf
+impf
+974575	impf
+974578	perf
+974592	impv
+impv
+974598	impf
+974604	ptz.
+974616	perf
+974622	perf
+974625	impf
+ptz.
+974630	perf
+974638	impf
+974643	ptz.
+974645	ptz.
+974647	impf
+974650	impf
+974658	impf
+974662	ptz.
+974664	perf
+impf
+974668	impf
+974671	impf
+974679	impf
+perf
+974684	perf
+974691	perf
+974702	impf
+974714	impf
+perf
+974720	wayq
+974726	impf
+974748	perf
+974750	impv
+974754	impv
+974761	impf
+974769	impv
+974772	ptz.
+974778	impf
+974785	impv
+974787	impv
+perf
+974791	infc
+974798	impv
+974800	perf
+974807	impv
+974811	perf
+974813	impv
+974820	perf
+974823	wayq
+974838	perf
+974843	impv
+974845	infc
+974849	perf
+perf
+974861	perf
+974865	perf
+974868	wayq
+974874	impf
+974884	impv
+974889	impv
+974898	impv
+974906	perf
+974911	perf
+974915	perf
+974921	infc
+974926	impf
+974930	impv
+974942	impf
+974944	ptz.
+974951	ptz.
+974956	perf
+974962	ptz.
+974967	impf
+974969	impv
+974974	ptz.
+impv
+974977	impv
+974983	ptz.
+974987	impf
+impf
+974990	pf.cons.
+975001	perf
+975007	perf
+975009	impf
+impf
+975015	perf
+perf
+975051	impf
+975054	impf
+975058	impv
+975060	impf
+impf
+975063	impf
+975068	impf
+975076	infc
+975078	pf.cons.
+975084	impf
+975087	pf.cons.
+975098	perf
+975104	impf
+impf
+975109	impf
+975112	infc
+975114	impv
+975118	impf
+975120	impf
+975129	impf
+975133	impf
+975142	ptz.
+975150	infc
+975153	impf
+975158	ptz.
+975162	impf
+975169	impv
+975177	impf
+impf
+975187	impv
+perf
+975195	perf
+975200	impf
+975205	impf
+975211	ptz.
+975216	ptz.
+975224	ptz.
+975233	impf
+975237	impf
+975243	impf
+impf
+975246	impf
+975250	impv
+975253	impf
+impf
+975271	infc
+975273	perf
+975285	ptz.
+975290	ptz.
+975296	impf
+ptz.
+975301	impv
+975306	impf
+975317	infc
+975328	ptz.
+975332	perf
+975337	impf
+975341	perf
+perf
+975346	ptz.
+975349	ptz.
+975352	ptz.
+975354	infc
+975358	impv
+975362	ptz.
+975364	impv
+975366	impv
+975369	impf
+975387	perf
+975390	perf
+975394	perf
+975398	ptz.
+975400	impf
+impf
+975406	perf
+975415	infc
+975420	ptz.
+975424	infc
+975429	infc
+975442	infc
+975458	impf
+975462	impf
+975468	impv
+975471	ptz.
+975479	impf
+975487	impf
+975496	impf
+975505	pf.cons.
+975512	impf
+975514	perf
+975524	perf
+975527	impf
+975531	perf
+975533	perf
+975537	pf.cons.
+perf
+975543	ptz.
+975546	ptz.
+975548	perf
+975557	perf
+975563	wayq
+975570	perf
+975580	impf
+975582	ptz.
+975588	impf
+975592	impf
+975603	impf
+975624	ptz.
+975626	impf
+975628	impf
+975641	perf
+impf
+975648	impf
+975659	ptz.
+975662	ptz.
+975686	perf
+975689	impv
+975694	ptz.
+975699	impv
+infc
+975703	ptz.
+975709	impf
+975713	infc
+ptz.
+975722	impv
+975726	infc
+975733	impf
+975736	ptz.
+975741	perf
+impv
+975747	wayq
+impf
+975754	pf.cons.
+975788	perf
+975794	perf
+975806	perf
+975811	perf
+975814	ptz.
+perf
+975818	infc
+975825	impf
+975827	infc
+975844	infc
+975854	perf
+975858	impf
+975870	impf
+impf
+impf
+975879	perf
+975886	ptz.
+975895	ptz.
+975908	impv
+pf.cons.
+975912	impv
+975914	impv
+975917	ptz.
+975922	impv
+975924	impv
+975929	impf
+impf
+975933	impv
+perf
+975938	infc
+975944	impf
+975946	infc
+975950	perf
+perf
+975955	ptz.
+975958	ptz.
+975964	impf
+975969	infc
+975974	ptz.
+975979	impf
+975981	impf
+impf
+975985	impf
+impf
+975990	ptz.
+975995	infc
+impv
+975998	impv
+976002	perf
+976004	impv
+ptz.
+976008	impf
+976016	impf
+impf
+976019	impf
+ptz.
+perf
+976025	impf
+976030	impv
+976038	perf
+976051	perf
+976061	infc
+976065	impf
+976068	impf
+976070	impf
+976081	ptz.
+976084	infc
+976089	infc
+976092	ptz.
+976095	impv
+976099	impf
+976102	impf
+976104	infc
+976112	infc
+976116	ptz.
+976122	pf.cons.
+976127	perf
+976129	perf
+976131	impv
+976138	infc
+976142	perf
+976147	perf
+impv
+impv
+perf
+976158	impv
+976160	ptz.
+976175	impf
+976177	impv
+976180	ptz.
+976188	infc
+976190	impv
+976196	perf
+976200	perf
+976205	pf.cons.
+976211	ptz.
+976218	ptz.
+976223	impf
+impf
+impf
+perf
+976231	ptz.
+976234	ptz.
+976238	impf
+976242	ptz.
+976244	impv
+976247	impf
+976252	impf
+976269	perf
+976281	perf
+976284	infc
+infc
+impf
+976290	impf
+976297	ptz.
+976307	impf
+976310	impf
+976313	impf
+976318	perf
+976324	infc
+impv
+perf
+perf
+976333	impv
+976335	ptz.
+976350	ptz.
+976352	impf
+976359	wayq
+976364	infc
+976368	infc
+976373	wayq
+976380	ptz.
+976391	impf
+976396	perf
+perf
+impf
+impf
+impf
+976404	ptz.
+976408	perf
+976410	wayq
+976423	impf
+976426	pf.cons.
+976431	impf
+976435	impf
+976438	impf
+976441	impf
+976447	impf
+976449	impf
+976457	impf
+976461	ptz.
+976465	impf
+976468	ptz.
+976470	impf
+976479	ptz.
+perf
+976484	ptz.
+976486	infc
+976490	ptz.
+976496	ptz.
+976500	impf
+976506	ptz.
+976524	infc
+976536	impf
+976539	perf
+perf
+perf
+impv
+976546	infc
+ptz.
+976550	infc
+infc
+976554	impf
+impf
+impf
+976559	ptz.
+976562	infc
+976568	impf
+976571	impf
+976576	impf
+976580	impf
+976588	infc
+976590	impf
+impf
+976595	infc
+976597	ptz.
+976600	infc
+infc
+976605	ptz.
+976608	ptz.
+976611	pf.cons.
+976615	impf
+976622	impf
+976633	impf
+976638	impf
+976662	infc
+976664	impf
+976673	impf
+976689	impf
+976695	impf
+976701	infc
+976712	perf
+976714	infc
+976718	infc
+976733	perf
+perf
+976740	wayq
+976745	impf
+976747	perf
+976752	perf
+976759	infc
+976767	perf
+976771	perf
+976778	infc
+976781	perf
+976787	wayq
+wayq
+wayq
+976797	infc
+976809	perf
+perf
+impf
+976814	pf.cons.
+976816	ptz.
+976820	wayq
+976832	wayq
+976836	ptz.
+976840	wayq
+976845	infc
+976848	wayq
+976852	infc
+976855	infc
+976861	wayq
+976878	wayq
+976882	wayq
+976890	perf
+impf
+976900	impf
+976912	infc
+976918	wayq
+wayq
+976922	infc
+976927	perf
+976932	infc
+976938	wayq
+976946	impf
+976949	perf
+976951	ptz.
+ptz.
+impf
+976959	perf
+976961	impf
+impf
+perf
+perf
+976975	ptz.
+976977	infc
+976983	infc
+976987	perf
+976989	infc
+976992	infc
+976997	impf
+977002	impf
+977005	infc
+977007	perf
+977011	ptz.
+977017	impf
+977024	ptz.
+977035	perf
+977042	perf
+977054	impv
+977056	impf
+977062	perf
+977069	impv
+977072	impv
+977075	impf
+977081	perf
+perf
+977090	perf
+977093	ptz.
+977095	perf
+977102	impf
+977114	impv
+977118	impv
+977122	impv
+977129	impv
+impv
+977148	perf
+977170	perf
+perf
+977173	infc
+977179	wayq
+977185	ptz.
+977199	impf
+977207	ptz.
+977219	ptz.
+977221	infc
+977227	infc
+977231	perf
+977233	infc
+977236	infc
+977242	impf
+977247	impf
+977250	infc
+977252	perf
+977256	ptz.
+977263	impf
+977268	ptz.
+977277	impf
+977279	infc
+977282	perf
+977291	ptz.
+977293	impf
+977297	ptz.
+977299	impf
+977306	impf
+977309	impf
+977317	impf
+977321	impf
+977325	impf
+977329	impf
+977336	infc
+977343	impf
+impf
+977347	impf
+977353	impf
+977361	impf
+977364	impf
+977370	infc
+977372	ptz.
+977377	impf
+977385	impf
+impf
+977406	ptz.
+impf
+977411	impf
+977416	impf
+977419	ptz.
+977422	impf
+977424	ptz.
+977428	impf
+977430	ptz.
+977434	impf
+977437	infc
+977441	infc
+977445	impf
+977449	ptz.
+977452	impf
+977454	infc
+977462	impf
+977464	infc
+977470	impf
+977472	ptz.
+977477	impf
+impf
+977480	ptz.
+977485	ptz.
+977487	ptz.
+977490	infc
+ptz.
+ptz.
+977499	impf
+977502	infc
+infc
+977506	ptz.
+977511	impf
+977515	impf
+977518	impf
+977521	ptz.
+impf
+impf
+977527	impf
+977532	impf
+977537	impf
+977544	ptz.
+977548	impf
+977572	ptz.
+977579	perf
+ptz.
+ptz.
+impv
+977584	perf
+977592	infc
+977597	ptz.
+977599	ptz.
+977606	impf
+977609	impf
+977620	ptz.
+ptz.
+977627	perf
+977636	ptz.
+977645	ptz.
+977662	impf
+impf
+977665	koh.
+977668	impf
+977674	perf
+ptz.
+977688	perf
+977691	perf
+977694	ptz.
+977696	impf
+impf
+perf
+977704	ptz.
+977706	impf
+977709	ptz.
+ptz.
+977714	ptz.
+977721	perf
+977730	perf
+perf
+977734	wayq
+977747	wayq
+977751	infc
+977757	wayq
+977766	impf
+977772	ptz.
+977777	koh.
+977782	impf
+977798	koh.
+977800	ptz.
+977805	perf
+977809	impf
+impf
+977817	impf
+977819	impf
+977827	impf
+977833	impf
+977835	impv
+977837	impv
+977843	impv
+977847	impv
+977850	perf
+impv
+977856	impv
+977864	impv
+977872	impv
+977879	impv
+977882	impv
+977893	impv
+ptz.
+977897	ptz.
+977901	infc
+977907	infc
+infc
+ptz.
+977911	infc
+ptz.
+977914	ptz.
+977916	infc
+infc
+ptz.
+977922	infc
+ptz.
+977931	ptz.
+977945	ptz.
+977951	perf
+977959	perf
+977963	perf
+977965	perf
+977967	perf
+perf
+977970	perf
+977978	perf
+977980	perf
+977989	impv
+977991	impv
+977994	ptz.
+977996	perf
+978003	wayq
+978012	impf
+978024	impf
+978038	infc
+impf
+ptz.
+978042	ptz.
+978046	ptz.
+978049	infc
+infc
+978058	ptz.
+978062	infc
+978071	perf
+978075	perf
+978081	perf
+978089	impf
+978091	infc
+978099	infc
+978108	infc
+978110	perf
+978129	ptz.
+978137	ptz.
+978146	ptz.
+ptz.
+impf
+978153	impf
+978158	perf
+978171	ptz.
+978174	perf
+infc
+978185	perf
+978204	ptz.
+978208	perf
+978220	perf
+978231	infc
+978237	impf
+978244	ptz.
+978250	wayq
+978258	wayq
+978264	perf
+978282	ptz.
+978286	infc
+978306	wayq
+978318	pf.cons.
+978325	wayq
+978332	perf
+978346	perf
+978354	infc
+978363	perf
+978374	impf
+impf
+978381	impf
+978389	impf
+978399	impf
+978403	impf
+978421	ptz.
+perf
+978430	perf
+978433	infc
+978443	impf
+978455	ptz.
+978458	infc
+978462	impf
+978473	ptz.
+978477	perf
+978482	infc
+978488	perf
+perf
+impf
+978495	ptz.
+978499	ptz.
+978506	impf
+978508	infc
+978511	infc
+978527	infc
+perf
+978537	ptz.
+978541	ptz.
+978544	perf
+978551	perf
+perf
+978554	perf
+978561	perf
+978566	infc
+978571	ptz.
+impf
+978578	ptz.
+978583	ptz.
+978585	impf
+978587	infc
+978594	wayq
+978601	infc
+978604	perf
+978611	perf
+978616	perf
+978620	wayq
+978636	impf
+978640	infc
+978652	perf
+978655	impf
+978657	impf
+978662	ptz.
+978666	impf
+978675	wayq
+978691	infc
+978696	impf
+978700	perf
+978705	ptz.
+978713	perf
+978718	impf
+978720	pf.cons.
+impf
+impf
+impf
+978732	impf
+978737	impf
+978743	impf
+impf
+978747	impv
+978749	perf
+ptz.
+ptz.
+978758	perf
+978762	impf
+978764	perf
+978766	perf
+perf
+978769	perf
+978774	perf
+978776	perf
+978781	perf
+impf
+978784	impv
+978786	impv
+978789	ptz.
+978791	wayq
+978796	impf
+978805	infc
+978810	perf
+perf
+978814	ptz.
+978817	perf
+978826	ptz.
+978828	ptz.
+ptz.
+978834	ptz.
+978837	infc
+978841	ptz.
+978843	wayq
+978846	ptz.
+978848	ptz.
+978854	impf
+978858	infc
+978860	infc
+978863	wayq
+978886	infc
+978891	ptz.
+978898	impf
+978905	ptz.
+978909	infc
+978912	impf
+978921	infc
+978925	impf
+impf
+978929	wayq
+978933	infc
+978947	infc
+978950	perf
+978967	wayq
+978975	ptz.
+978978	impf
+ptz.
+978981	perf
+978988	impf
+978995	impf
+979001	impf
+979014	perf
+979022	impf
+979024	impf
+979032	impf
+979037	infc
+979041	ptz.
+979046	impf
+979055	impf
+979060	impf
+impf
+979065	ptz.
+perf
+ptz.
+979069	infc
+979076	pf.cons.
+979078	impf
+979086	ptz.
+ptz.
+979090	ptz.
+ptz.
+979096	infc
+979101	impf
+impv
+979110	ptz.
+979114	ptz.
+979117	perf
+979124	perf
+979127	perf
+979130	perf
+979137	perf
+wayq
+979145	perf
+979149	wayq
+979152	infc
+979158	infc
+979161	wayq
+979165	wayq
+979170	wayq
+979183	perf
+979187	perf
+979191	perf
+979196	perf
+perf
+979207	perf
+perf
+979216	infc
+perf
+979221	perf
+979225	perf
+979232	wayq
+979234	wayq
+979246	wayq
+wayq
+979259	perf
+979262	wayq
+perf
+979270	perf
+979273	wayq
+979281	perf
+979283	perf
+979286	perf
+979288	wayq
+979294	perf
+979299	wayq
+wayq
+979304	perf
+979306	impf
+979316	perf
+perf
+979323	wayq
+979327	wayq
+979335	impf
+979341	perf
+979344	perf
+979346	infc
+979352	infc
+979355	impf
+979364	impf
+979369	impf
+979374	impf
+979378	infc
+979386	impf
+979388	impf
+979396	impf
+979415	perf
+979426	perf
+979433	ptz.
+979437	pf.cons.
+979439	pf.cons.
+979450	wayq
+979462	wayq
+979469	impf
+979477	perf
+979486	wayq
+979492	perf
+ptz.
+979501	perf
+979509	perf
+979516	perf
+979520	infc
+979522	ptz.
+979528	infc
+979533	infc
+979540	ptz.
+979543	infc
+infc
+979546	infc
+979551	infc
+979557	impf
+979560	infc
+979564	perf
+979574	perf
+979578	wayq
+979584	perf
+979589	wayq
+wayq
+wayq
+979595	infc
+979599	perf
+979602	perf
+979604	impf
+impf
+979609	perf
+979611	wayq
+979614	infc
+979618	wayq
+979625	perf
+979630	wayq
+979633	impf
+979641	infc
+979645	perf
+979649	perf
+979653	wayq
+perf
+979657	wayq
+979664	perf
+979666	perf
+979671	perf
+979674	wayq
+979676	perf
+979679	wayq
+979683	perf
+979691	perf
+979695	ptz.
+perf
+979703	ptz.
+perf
+979707	ptz.
+perf
+979711	infc
+979713	wayq
+979720	impf
+979723	perf
+979734	wayq
+979738	perf
+ptz.
+ptz.
+979744	perf
+979750	perf
+979757	perf
+979763	impf
+979767	perf
+979769	wayq
+979772	ptz.
+979776	perf
+perf
+979779	impf
+979786	impf
+979792	perf
+979795	perf
+979797	perf
+979804	perf
+979809	perf
+979811	perf
+979814	impf
+979825	perf
+979827	perf
+979829	perf
+979831	wayq
+979834	perf
+979839	impf
+perf
+979853	infc
+ptz.
+979859	infc
+perf
+979864	infc
+979872	infc
+979881	wayq
+979893	wayq
+979895	ptz.
+979900	ptz.
+979908	perf
+impv
+979914	impf
+979916	impf
+979924	perf
+979927	perf
+979932	perf
+ptz.
+979936	ptz.
+979939	infc
+979942	perf
+979944	ptz.
+979960	infc
+979962	infc
+979971	perf
+979977	perf
+979979	perf
+979982	ptz.
+979986	wayq
+979988	ptz.
+979993	perf
+979995	perf
+980000	impf
+980005	ptz.
+980009	infc
+980015	infc
+980020	infc
+980028	ptz.
+980039	ptz.
+980046	perf
+980051	ptz.
+perf
+980057	ptz.
+980059	pf.cons.
+980062	perf
+980083	infc
+infc
+980089	ptz.
+980094	ptz.
+980097	infc
+980110	ptz.
+980119	perf
+980122	ptz.
+980125	ptz.
+980137	perf
+980140	impf
+980143	impf
+980145	ptz.
+980147	impf
+impf
+980152	impf
+980155	impf
+980163	impf
+980167	impf
+980178	infc
+980180	impf
+980182	impf
+980188	ptz.
+980196	impf
+980199	impf
+980207	impf
+980210	perf
+980213	ptz.
+980217	impf
+980221	infc
+980224	infc
+980235	impf
+980253	perf
+980259	wayq
+impf
+980266	infc
+980272	ptz.
+980277	infc
+980285	ptz.
+980294	ptz.
+980299	perf
+perf
+980305	ptz.
+980307	ptz.
+perf
+980316	impf
+980320	ptz.
+980334	impf
+impf
+980338	infc
+980341	impv
+980345	perf
+980351	impf
+impf
+pf.cons.
+ptz.
+980356	ptz.
+980364	impv
+980379	impf
+980385	impf
+980395	infc
+980397	infc
+impv
+perf
+980405	ptz.
+980408	infc
+980435	ptz.
+980439	perf
+980450	impf
+980452	impv
+980466	perf
+perf
+980470	perf
+980491	perf
+impv
+980496	impf
+980498	infc
+impf
+impv
+980505	impv
+980515	impf
+ptz.
+980521	perf
+980524	perf
+perf
+980529	infc
+980532	infc
+980538	impf
+980548	perf
+perf
+980551	ptz.
+980553	perf
+980557	infc
+980561	pf.cons.
+980565	ptz.
+980567	impf
+980574	infc
+980580	perf
+pf.cons.
+980586	infc
+980590	impf
+980595	impf
+980601	impf
+impf
+980604	pf.cons.
+980608	ptz.
+980612	ptz.
+980614	infc
+980621	perf
+980630	perf
+perf
+980633	perf
+perf
+980638	perf
+980643	ptz.
+980654	perf
+980658	infc
+980662	impf
+impf
+980676	impf
+980678	impf
+980681	impf
+980684	pf.cons.
+980689	impf
+980716	infc
+980723	impf
+980728	perf
+980749	perf
+980755	ptz.
+980757	impf
+980759	infc
+980762	impf
+980764	infc
+980778	impf
+980786	impf
+980792	ptz.
+980798	impf
+980802	perf
+980804	infc
+980809	infc
+980811	wayq
+980818	wayq
+980821	wayq
+980827	wayq
+980829	infc
+980836	infc
+980840	infc
+980843	infc
+980849	pf.cons.
+980854	ptz.
+980868	impf
+wayq
+980874	perf
+980876	ptz.
+980883	impf
+980889	ptz.
+980896	impf
+980905	perf
+980913	ptz.
+perf
+980916	pf.cons.
+980921	wayq
+980927	perf
+980932	wayq
+980934	wayq
+980939	perf
+980946	ptz.
+980956	impf
+980962	wayq
+980972	perf
+980978	perf
+980981	infc
+980984	impf
+wayq
+980990	impf
+980992	wayq
+980997	perf
+981002	infc
+981008	wayq
+981010	ptz.
+981013	perf
+981015	wayq
+981017	infc
+981020	wayq
+981037	perf
+981040	ptz.
+981055	ptz.
+perf
+981060	pf.cons.
+981062	pf.cons.
+981064	perf
+981067	wayq
+981071	perf
+981089	infc
+981091	perf
+981093	infc
+981100	infc
+981110	perf
+ptz.
+981115	perf
+981119	impf
+981128	impf
+981141	perf
+981146	impf
+981148	perf
+981157	infc
+981164	perf
+981170	impf
+impf
+impf
+981185	infc
+981194	impv
+infc
+981207	perf
+perf
+981216	perf
+perf
+981227	perf
+981234	perf
+981237	infc
+981241	infc
+981248	ptz.
+981257	perf
+981270	perf
+981274	perf
+981282	perf
+981288	perf
+perf
+981292	impf
+981300	infc
+981303	infc
+981310	impf
+981314	impf
+981320	koh.
+ptz.
+981326	infc
+981329	infc
+981338	wayq
+981343	infc
+981355	impf
+ptz.
+981359	infc
+981369	infc
+981383	infc
+981386	perf
+981389	wayq
+981399	perf
+perf
+981404	impf
+impf
+981408	perf
+981413	impf
+981415	perf
+impf
+981421	perf
+981424	impf
+981427	impf
+981429	impf
+981434	impf
+981439	impf
+981487	ptz.
+981499	ptz.
+981505	impf
+981517	perf
+981520	ptz.
+981528	infc
+981532	impf
+981540	impf
+981545	infc
+981547	ptz.
+981563	pf.cons.
+981569	impf
+981578	ptz.
+981580	pf.cons.
+981587	ptz.
+981589	pf.cons.
+981593	ptz.
+981596	ptz.
+981598	infc
+981605	perf
+981608	ptz.
+981611	ptz.
+981625	infc
+981635	infc
+981656	perf
+981660	infc
+981664	perf
+981667	ptz.
+981678	ptz.
+981680	perf
+981683	infc
+impv
+981687	impf
+981698	perf
+981707	perf
+perf
+981710	infc
+981724	wayq
+981737	perf
+981740	impf
+ptz.
+981762	pf.cons.
+981779	perf
+981785	perf
+981788	impf
+981790	koh.
+981792	koh.
+981797	impf
+981808	impf
+981818	ptz.
+981820	impf
+981826	pf.cons.
+pf.cons.
+impv
+981836	ptz.
+981841	impf
+impf
+impf
+impf
+981859	perf
+981869	ptz.
+981873	impf
+981879	impf
+981887	impf
+981895	infc
+infc
+981898	impf
+impf
+981901	infc
+impf
+impf
+981905	infc
+981907	impf
+981916	impf
+impf
+981920	ptz.
+981959	impf
+981963	impf
+981978	impf
+981986	infc
+981999	ptz.
+982007	ptz.
+982012	infc
+982016	impf
+982021	impf
+impf
+982026	infc
+982028	infc
+982031	infc
+ptz.
+982034	infc
+982038	ptz.
+982047	impf
+982055	impf
+982065	pf.cons.
+982085	impf
+982090	impf
+982101	ptz.
+982107	infc
+982111	impf
+982119	impf
+982132	impf
+982137	ptz.
+impf
+982143	impf
+982149	infc
+982155	impf
+ptz.
+982161	pf.cons.
+982181	perf
+982183	ptz.
+982190	impf
+982193	ptz.
+982198	infc
+982201	impf
+982203	pf.cons.
+982205	infc
+982208	pf.cons.
+982214	pf.cons.
+982216	pf.cons.
+982227	ptz.
+982243	perf
+perf
+982270	pf.cons.
+982272	pf.cons.
+ptz.
+982276	ptz.
+982284	perf
+982292	infc
+ptz.
+982295	ptz.
+982311	infc
+982315	impf
+982321	ptz.
+982325	ptz.
+982331	perf
+perf
+982335	perf
+982339	ptz.
+982341	impf
+982350	ptz.
+982366	koh.
+982371	koh.
+982380	infc
+982382	impv
+982386	impv
+982393	impf
+982403	ptz.
+982410	impf
+impf
+ptz.
+982419	impf
+982423	impf
+982431	impf
+982440	infc
+982455	pf.cons.
+pf.cons.
+982458	ptz.
+982462	pf.cons.
+982469	pf.cons.
+982471	pf.cons.
+982474	infc
+982491	impf
+impf
+982498	perf
+ptz.
+982503	impf
+982506	impf
+982509	perf
+perf
+982533	impf
+982542	ptz.
+982545	impf
+982548	impf
+982552	perf
+982556	impf
+982579	ptz.
+982581	ptz.
+982587	impf
+982592	ptz.
+982594	impf
+982596	pf.cons.
+982600	perf
+982607	impf
+982610	impf
+impf
+982613	infc
+982618	impf
+982621	impf
+982623	impf
+982630	impv
+982643	impv
+perf
+perf
+impv
+982656	infc
+982662	pf.cons.
+982665	impf
+982669	impf
+982675	ptz.
+982684	infc
+982686	impf
+982693	impf
+impf
+impf
+982697	infc
+impf
+982705	pf.cons.
+982714	impf
+982719	impf
+982723	infc
+infc
+982726	ptz.
+perf
+982734	infc
+982736	ptz.
+982739	infc
+982745	impf
+982754	pf.cons.
+982777	impf
+982786	infc
+982790	impf
+982798	impf
+982807	ptz.
+982813	impf
+982820	infc
+982827	infc
+982833	impf
+982840	ptz.
+982845	ptz.
+982855	pf.cons.
+982859	pf.cons.
+982863	pf.cons.
+982866	impf
+982873	pf.cons.
+982875	pf.cons.
+982877	impv
+982879	impv
+impf
+982883	ptz.
+982888	pf.cons.
+982899	impf
+982924	perf
+982934	impf
+982942	impf
+982944	infc
+982963	ptz.
+982995	impv
+983000	impv
+perf
+983008	infc
+983014	impf
+983016	impf
+983019	impv
+983023	impv
+983033	impf
+983038	impf
+983043	perf
+983047	perf
+983052	ptz.
+983054	perf
+983075	pf.cons.
+983083	impf
+983088	pf.cons.
+983095	impf
+983103	impf
+983113	impf
+983124	impf
+983134	impf
+983136	pf.cons.
+983141	infc
+983145	infc
+983151	pf.cons.
+983153	infc
+983159	infc
+983161	impf
+983167	infc
+983170	pf.cons.
+983180	ptz.
+983184	infc
+impf
+983191	infc
+983198	impf
+983207	ptz.
+983235	perf
+983239	perf
+983249	impf
+ptz.
+983263	pf.cons.
+983274	impf
+983292	impf
+983298	ptz.
+983314	impf
+983325	impf
+983344	ptz.
+ptz.
+983351	ptz.
+983355	impf
+983361	perf
+perf
+983364	ptz.
+983366	impf
+impf
+983371	perf
+983381	impf
+983385	impf
+983388	ptz.
+983402	impf
+983411	impv
+983413	ptz.
+983416	ptz.
+983418	impv
+983421	ptz.
+ptz.
+ptz.
+983426	ptz.
+ptz.
+983430	ptz.
+ptz.
+perf
+983440	wayq
+impf
+983445	ptz.
+983447	impv
+983449	impv
+983455	perf
+983466	impf
+983478	impv
+983483	perf
+983487	wayq
+983493	ptz.
+983499	infc
+983503	ptz.
+983508	ptz.
+983513	ptz.
+983518	infc
+983524	infc
+impf
+983531	ptz.
+impv
+983534	impf
+983538	pf.cons.
+983540	pf.cons.
+983543	infc
+983556	ptz.
+983578	ptz.
+983592	ptz.
+983596	ptz.
+983615	impv
+983621	perf
+983632	infc
+infc
+983654	impf
+983657	impf
+983668	perf
+perf
+983683	ptz.
+983688	perf
+infc
+983696	pf.cons.
+983707	ptz.
+983722	ptz.
+983727	perf
+perf
+983736	ptz.
+983752	impf
+983759	ptz.
+983766	pf.cons.
+983768	infc
+983778	pf.cons.
+impf
+983782	infc
+983789	impf
+983807	impv
+983810	perf
+perf
+983837	ptz.
+983841	perf
+983855	ptz.
+perf
+983860	infc
+983863	impf
+983865	pf.cons.
+983886	impf
+983888	pf.cons.
+983890	pf.cons.
+ptz.
+983904	infc
+983920	infc
+983922	infc
+983925	impf
+983945	impf
+impf
+983956	pf.cons.
+ptz.
+983965	infc
+983969	infc
+983973	koh.
+983987	ptz.
+983992	perf
+983994	infc
+984016	ptz.
+984026	impf
+984028	pf.cons.
+984056	ptz.
+ptz.
+984060	ptz.
+984065	infc
+984082	impf
+984084	perf
+984097	perf
+984110	ptz.
+984114	perf
+984131	infc
+984139	impf
+984141	pf.cons.
+984154	impf
+984156	pf.cons.
+984158	pf.cons.
+ptz.
+984178	impf
+984180	pf.cons.
+984182	pf.cons.
+984189	ptz.
+984194	perf
+984201	infc
+984205	perf
+984242	ptz.
+984280	infc
+984287	pf.cons.
+impv
+984290	ptz.
+984305	impf
+984307	pf.cons.
+984309	pf.cons.
+984323	pf.cons.
+ptz.
+984340	infc
+984343	impf
+984345	pf.cons.
+984347	pf.cons.
+ptz.
+984361	pf.cons.
+ptz.
+984367	perf
+984376	pf.cons.
+984378	pf.cons.
+ptz.
+984382	perf
+984390	impf
+984396	pf.cons.
+984406	infc
+984424	infc
+ptz.
+984435	pf.cons.
+984437	pf.cons.
+ptz.
+984457	infc
+984460	impf
+984462	pf.cons.
+ptz.
+984480	ptz.
+984485	pf.cons.
+984487	perf
+984497	infc
+984501	perf
+984506	pf.cons.
+984508	pf.cons.
+984510	infc
+984519	infc
+984530	ptz.
+984539	infc
+ptz.
+984543	impf
+984545	pf.cons.
+984561	infc
+984574	pf.cons.
+984576	pf.cons.
+984581	ptz.
+984587	impv
+984594	perf
+984598	infc
+984602	wayq
+984605	infc
+984607	wayq
+984617	perf
+984624	infc
+984635	impf
+984647	pf.cons.
+984649	ptz.
+984651	perf
+984664	infc
+984673	impf
+984682	perf
+984686	perf
+984688	perf
+984690	infc
+984693	perf
+984707	perf
+984713	perf
+984717	perf
+984720	perf
+984727	perf
+984733	wayq
+984735	infc
+984740	wayq
+984757	perf
+984762	perf
+984773	wayq
+wayq
+984777	perf
+984783	perf
+984785	infc
+984795	infc
+984803	perf
+984810	infc
+984816	perf
+984823	wayq
+984829	perf
+984833	infc
+984835	ptz.
+984841	pf.cons.
+impf
+984853	perf
+984857	perf
+984867	impf
+984880	infc
+984897	impf
+984899	impf
+984901	impf
+984906	wayq
+984914	perf
+984918	perf
+984927	infc
+984929	ptz.
+984932	ptz.
+984937	perf
+984943	perf
+984947	infc
+984949	infc
+984962	wayq
+984965	perf
+984971	perf
+984975	wayq
+984983	perf
+984986	infc
+984990	infc
+984994	infc
+984998	perf
+985004	perf
+985010	infc
+985014	infc
+985020	infc
+985025	wayq
+985034	ptz.
+985037	perf
+985041	perf
+perf
+985046	perf
+985048	infc
+985054	wayq
+985065	perf
+985075	perf
+985077	perf
+985088	perf
+985093	perf
+985100	perf
+985103	infc
+985111	perf
+985117	perf
+985123	impf
+985131	infc
+ptz.
+985138	impf
+985145	impv
+985152	impv
+985163	ptz.
+985168	infc
+985171	infc
+ptz.
+985174	perf
+985183	impv
+985212	wayq
+985216	wayq
+985218	ptz.
+985220	perf
+985227	impv
+985229	impf
+985234	perf
+985245	impf
+985249	wayq
+985265	perf
+985267	wayq
+985273	perf
+985290	perf
+985293	perf
+985296	impf
+985307	impv
+985309	impv
+985325	perf
+impv
+985329	impv
+985332	infc
+985334	infc
+985339	perf
+985350	ptz.
+ptz.
+985356	infc
+985366	impv
+985369	koh.
+985371	perf
+985375	perf
+985385	infc
+985392	impv
+985398	impf
+985402	impf
+985407	impf
+985409	impf
+985412	impf
+985414	impf
+985416	perf
+985422	impf
+985432	ptz.
+985447	impf
+985449	infc
+985456	pf.cons.
+985458	ptz.
+985465	ptz.
+985469	infc
+985478	impf
+985480	perf
+985482	perf
+985485	wayq
+wayq
+985488	wayq
+985490	perf
+985493	ptz.
+impv
+985501	ptz.
+985505	ptz.
+985507	perf
+985511	perf
+985518	perf
+perf
+985522	infc
+985528	infc
+985536	perf
+985552	perf
+985554	infc
+perf
+985561	perf
+985565	infc
+985572	ptz.
+985574	perf
+985585	infc
+985588	infc
+perf
+985591	perf
+985603	perf
+985613	wayq
+985621	infc
+985624	ptz.
+perf
+985629	impv
+koh.
+985632	perf
+985635	wayq
+985646	perf
+985649	ptz.
+985652	perf
+985665	perf
+985668	perf
+985670	impf
+985676	perf
+985697	infc
+985701	ptz.
+985703	ptz.
+985709	impv
+985712	impf
+impv
+985720	wayq
+985728	perf
+ptz.
+985731	ptz.
+perf
+985741	perf
+perf
+985746	ptz.
+ptz.
+985749	perf
+985778	infc
+985784	ptz.
+985786	ptz.
+985790	perf
+985792	infc
+985805	perf
+985807	infc
+985815	impf
+985819	perf
+985833	wayq
+985842	perf
+985856	ptz.
+985859	perf
+985862	wayq
+985864	ptz.
+985870	perf
+985872	perf
+985874	wayq
+985878	ptz.
+985884	perf
+985896	ptz.
+ptz.
+985903	ptz.
+985914	ptz.
+ptz.
+ptz.
+985919	impf
+985923	impf
+985938	ptz.
+985940	perf
+985943	perf
+985948	impf
+perf
+985962	impf
+985967	impv
+985970	perf
+perf
+985975	impf
+impf
+985991	perf
+986003	impf
+perf
+986007	perf
+perf
+986010	perf
+986021	perf
+986024	perf
+986026	perf
+986029	perf
+986039	ptz.
+986045	infc
+986050	impv
+986057	perf
+986076	infc
+986083	infc
+ptz.
+986086	perf
+986088	perf
+perf
+986096	impf
+impf
+986100	perf
+986112	impf
+impf
+986121	impf
+infc
+perf
+impf
+986127	ptz.
+986129	perf
+986132	ptz.
+986135	ptz.
+986137	wayq
+986140	ptz.
+986143	pf.cons.
+perf
+986154	ptz.
+986162	impv
+986197	impf
+986199	impf
+986201	impf
+986209	ptz.
+986213	infc
+986216	infc
+986234	ptz.
+986238	infc
+986245	infc
+infc
+986268	impf
+986284	ptz.
+986286	ptz.
+986291	impf
+986296	impf
+986299	impf
+986308	ptz.
+986315	impf
+986318	perf
+986329	impf
+986335	impv
+986337	ptz.
+986342	perf
+986352	infc
+infc
+986363	ptz.
+986375	ptz.
+perf
+986390	perf
+986398	infc
+986406	infc
+986414	impv
+986434	perf
+986440	ptz.
+986456	infc
+986463	perf
+986467	impf
+986474	infc
+ptz.
+986486	impf
+ptz.
+986493	impf
+impf
+986500	infc
+986523	impf
+986530	impf
+986535	impf
+986540	impv
+986549	ptz.
+986553	ptz.
+986556	ptz.
+986563	impf
+986576	impf
+986578	infc
+ptz.
+986585	perf
+986601	ptz.
+986605	ptz.
+986610	ptz.
+986642	perf
+986647	perf
+perf
+986655	ptz.
+986660	ptz.
+986668	ptz.
+986676	infc
+986687	infc
+impf
+impf
+986691	impf
+986721	infc
+986724	impf
+986730	impf
+986735	perf
+986744	perf
+986756	perf
+986764	perf
+986769	ptz.
+986771	impf
+986781	impf
+986785	impf
+986796	impf
+986798	impf
+986801	infc
+986812	infc
+986820	ptz.
+986825	impf
+986834	ptz.
+986836	pf.cons.
+986842	ptz.
+986845	impf
+986848	ptz.
+986851	ptz.
+986857	infc
+986859	perf
+986866	infc
+ptz.
+986876	pf.cons.
+perf
+986885	impf
+986887	impf
+impf
+986891	impf
+986893	impf
+impf
+986897	perf
+986899	impf
+986901	perf
+986917	koh.
+986923	infc
+986965	perf
+986973	impf
+986976	infc
+986992	impf
+986999	perf
+impf
+987028	ptz.
+987038	ptz.
+987045	ptz.
+987054	perf
+987065	koh.
+987071	koh.
+ptz.
+987074	impf
+987090	ptz.
+987110	impf
+987114	perf
+987118	perf
+987130	infc
+987141	infc
+987144	infc
+987149	infc
+987157	infc
+987164	ptz.
+impf
+987170	ptz.
+987179	perf
+987183	ptz.
+987189	ptz.
+987210	perf
+987218	perf
+987223	ptz.
+ptz.
+987229	ptz.
+impf
+987237	impf
+987240	impf
+987242	ptz.
+987246	impf
+impf
+987249	infc
+987260	ptz.
+ptz.
+987270	koh.
+987273	perf
+987275	wayq
+987309	infc
+impf
+987312	pf.cons.
+ptz.
+987323	ptz.
+987334	ptz.
+987336	ptz.
+987341	pf.cons.
+987352	impf
+987354	pf.cons.
+987356	pf.cons.
+987358	pf.cons.
+ptz.
+987362	wayq
+987367	wayq
+987382	perf
+impf
+987395	ptz.
+987401	infc
+987410	infc
+987413	pf.cons.
+987418	ptz.
+987421	perf
+987427	perf
+987432	infc
+987447	infc
+987453	pf.cons.
+987459	pf.cons.
+987464	pf.cons.
+pf.cons.
+987469	impf
+987474	pf.cons.
+987476	infc
+987491	pf.cons.
+987493	pf.cons.
+987495	pf.cons.
+987500	infc
+987527	infc
+987533	infc
+987539	perf
+987549	infc
+987555	impf
+987573	infc
+987576	perf
+987581	infc
+987583	pf.cons.
+987585	pf.cons.
+ptz.
+987591	wayq
+987597	infc
+987604	impf
+ptz.
+987609	perf
+perf
+987616	impf
+impf
+impf
+987625	infc
+987629	pf.cons.
+987639	impf
+987643	impf
+987645	pf.cons.
+987647	pf.cons.
+987650	perf
+987656	perf
+987663	wayq
+impf
+pf.cons.
+987676	impf
+impf
+987687	infc
+infc
+987692	ptz.
+987694	wayq
+987696	infc
+987698	ptz.
+987701	ptz.
+987709	infc
+987718	perf
+987726	pf.cons.
+987729	pf.cons.
+987755	infc
+987774	infc
+987783	infc
+987785	perf
+987788	perf
+987793	infc
+987795	infc
+987805	infc
+987807	infc
+987811	perf
+987819	perf
+987823	perf
+987845	impf
+987851	ptz.
+987853	ptz.
+ptz.
+987872	impf
+impf
+987880	ptz.
+987884	perf
+987890	infc
+987893	impf
+987898	infc
+987901	pf.cons.
+987903	pf.cons.
+987907	impf
+987910	perf
+987912	infc
+987925	impf
+987927	pf.cons.
+987931	pf.cons.
+987934	impf
+987942	impf
+987945	pf.cons.
+987952	perf
+987954	infc
+987960	impf
+987971	impf
+987973	pf.cons.
+987977	pf.cons.
+987980	impf
+987985	impf
+987989	impf
+987994	ptz.
+988004	ptz.
+988012	infc
+988016	impf
+impf
+impf
+988020	impf
+perf
+perf
+988025	impf
+988027	ptz.
+988033	pf.cons.
+988037	perf
+988042	infc
+988048	impf
+impf
+988054	impf
+988062	impf
+988066	impv
+ptz.
+988077	impf
+988081	ptz.
+988088	impf
+988093	impf
+988098	impf
+988101	impf
+988105	impf
+988112	ptz.
+ptz.
+ptz.
+988116	ptz.
+ptz.
+988121	impf
+988123	ptz.
+988134	impf
+988136	ptz.
+988139	perf
+impf
+988144	perf
+988146	impf
+impf
+988150	ptz.
+impf
+988153	impf
+988156	impf
+ptz.
+impf
+988161	impf
+impf
+988168	wayq
+988170	ptz.
+ptz.
+988181	perf
+ptz.
+988192	perf
+988197	impf
+988207	pf.cons.
+impv
+pf.cons.
+988211	infc
+988215	impf
+impf
+impv
+perf
+988235	ptz.
+988243	ptz.
+ptz.
+988248	impf
+ptz.
+988251	ptz.
+988254	impf
+988256	koh.
+988267	perf
+988269	perf
+perf
+ptz.
+988273	pf.cons.
+988280	impf
+988296	impv
+988301	impf
+impf
+988307	impf
+988311	impf
+988314	wayq
+988319	wayq
+988323	ptz.
+988352	perf
+988374	wayq
+988394	ptz.
+988444	impf
+impf
+perf
+988448	infc
+988456	ptz.
+988467	impf
+988476	infc
+988489	impf
+988493	infc
+988497	impf
+988512	impf
+988522	ptz.
+988524	perf
+988526	perf
+988534	perf
+988538	perf
+988544	impf
+988563	perf
+perf
+ptz.
+988572	wayq
+perf
+perf
+988576	perf
+988581	ptz.
+impf
+988585	impf
+988587	impf
+988594	pf.cons.
+988597	impf
+988599	ptz.
+988604	pf.cons.
+988611	pf.cons.
+988613	impf
+988625	impf
+988628	impf
+988634	ptz.
+988658	impf
+988665	ptz.
+988674	impf
+988682	impf
+988685	impf
+988695	pf.cons.
+988708	perf
+988711	perf
+perf
+988717	perf
+988724	infc
+988726	infc
+988733	perf
+988737	ptz.
+988741	impf
+988746	ptz.
+988750	impf
+988755	ptz.
+988761	impf
+impf
+impf
+impf
+988770	perf
+988773	impf
+988778	impf
+988783	impf
+988789	impf
+988793	impf
+988802	impf
+988805	impf
+988812	impf
+988815	impf
+988820	impf
+988824	infc
+988831	infc
+988836	wayq
+988844	impf
+988853	impf
+988856	impf
+impf
+988862	impf
+988870	impf
+988889	impf
+988896	impf
+988900	impv
+988902	impf
+988909	impf
+988920	impf
+impf
+988926	ptz.
+988928	impf
+988931	impf
+988938	impf
+ptz.
+impf
+ptz.
+988944	impf
+988950	impf
+impf
+988953	impf
+impf
+988959	impf
+ptz.
+988962	impf
+988966	ptz.
+988971	infc
+988974	ptz.
+988976	infc
+988979	ptz.
+988984	ptz.
+988987	ptz.
+988989	ptz.
+988994	ptz.
+988996	ptz.
+ptz.
+989003	ptz.
+989027	ptz.
+989034	impf
+989037	impf
+impf
+989047	ptz.
+989053	impf
+989057	impf
+989059	impf
+impf
+989062	infc
+989065	impf
+989070	ptz.
+989086	impf
+impf
+impf
+989091	ptz.
+989096	impf
+impf
+989100	infc
+impf
+989105	impf
+989107	ptz.
+989111	ptz.
+impf
+impf
+989116	pf.cons.
+989120	infc
+989130	impf
+989133	pf.cons.
+989139	impf
+impf
+989147	impf
+989151	perf
+989155	impf
+989159	impf
+989162	ptz.
+ptz.
+989165	impf
+989169	impf
+989171	pf.cons.
+989175	ptz.
+impv
+989179	impv
+989183	impv
+989190	impv
+989194	impv
+989198	impf
+989200	impf
+989205	infc
+impv
+989208	ptz.
+989210	impf
+989213	impf
+989219	impv
+989223	impf
+989227	impv
+989229	impv
+ptz.
+989236	infc
+989238	impv
+989241	impf
+989245	pf.cons.
+989253	impf
+989255	impf
+989258	impf
+impf
+989267	impf
+989276	impf
+989282	impf
+989298	impf
+989301	impf
+ptz.
+989304	perf
+989315	perf
+989319	perf
+989326	impf
+989331	ptz.
+989336	ptz.
+989339	ptz.
+989343	impf
+989345	impf
+ptz.
+989352	infc
+989357	ptz.
+989361	perf
+ptz.
+989364	perf
+989366	perf
+perf
+impv
+989372	impf
+989374	perf
+989380	impf
+impf
+989385	ptz.
+989388	infc
+989402	perf
+989404	impf
+impf
+989408	perf
+989419	perf
+perf
+989423	ptz.
+impf
+impf
+989428	perf
+989430	impv
+989434	perf
+989436	perf
+989441	impf
+ptz.
+989447	ptz.
+impf
+989450	ptz.
+989453	ptz.
+989455	ptz.
+ptz.
+989462	impf
+impf
+989486	impv
+989493	wayq
+989496	impf
+989498	impf
+perf
+989503	impf
+989506	impf
+989508	perf
+989516	impf
+989519	perf
+perf
+989522	perf
+ptz.
+989531	impf
+ptz.
+989538	impf
+989546	ptz.
+989548	ptz.
+989551	perf
+989558	perf
+989565	ptz.
+989569	perf
+ptz.
+989589	infc
+989591	ptz.
+989594	infc
+989607	ptz.
+989617	perf
+989624	infc
+989627	ptz.
+989631	impf
+989633	ptz.
+989638	perf
+989643	ptz.
+989650	impf
+ptz.
+impf
+perf
+989657	perf
+989664	perf
+989666	infc
+989671	infc
+ptz.
+989674	infc
+989684	perf
+989692	wayq
+989695	infc
+perf
+989699	infc
+989704	impf
+989710	impf
+989715	impf
+989719	infc
+989722	infc
+infc
+989737	impf
+impf
+989764	infc
+989768	perf
+989785	impf
+989787	impf
+989802	perf
+ptz.
+989811	pf.cons.
+989816	ptz.
+989818	impf
+989821	ptz.
+989828	impf
+989844	infc
+989848	impf
+989854	ptz.
+989859	pf.cons.
+pf.cons.
+989863	perf
+989867	wayq
+989874	wayq
+989881	impf
+impf
+989895	perf
+989905	ptz.
+infc
+989910	perf
+989915	perf
+perf
+989918	perf
+perf
+perf
+989924	perf
+989926	ptz.
+impf
+impf
+989930	ptz.
+989935	infc
+989940	infc
+989953	perf
+989957	impf
+989960	ptz.
+989963	ptz.
+989970	infc
+989973	wayq
+989977	wayq
+989983	wayq
+989989	infc
+989991	infc
+990004	ptz.
+990012	infc
+990028	wayq
+990036	impf
+990047	impf
+impf
+ptz.
+990068	pf.cons.
+990073	pf.cons.
+990078	ptz.
+990087	ptz.
+990090	impf
+990108	infc
+990110	impv
+990113	infc
+990117	impf
+990119	infc
+990128	infc
+990131	perf
+990135	infc
+990138	perf
+990142	infc
+990147	infc
+990155	ptz.
+990170	ptz.
+990172	impf
+impf
+990175	ptz.
+990178	ptz.
+990184	ptz.
+990198	ptz.
+990206	infc
+990209	ptz.
+990212	infc
+990222	infc
+990233	ptz.
+990235	infc
+990241	impf
+990244	ptz.
+impf
+impf
+990251	impf
+990254	ptz.
+990260	ptz.
+990267	impf
+990271	impf
+990276	impf
+990278	impf
+990281	ptz.
+990284	infc
+990297	perf
+impv
+990310	perf
+990314	ptz.
+990318	perf
+990321	ptz.
+990323	ptz.
+990325	ptz.
+990330	perf
+990333	infc
+990337	infc
+990342	infc
+990350	perf
+990357	perf
+990359	wayq
+990372	perf
+990376	perf
+990378	infc
+990380	impf
+990386	perf
+impv
+990392	impv
+990399	impv
+990401	impf
+impf
+990406	impf
+990422	impf
+impf
+990432	perf
+990435	impf
+990442	infc
+990447	perf
+990449	perf
+perf
+990461	impf
+990464	perf
+perf
+990468	infc
+990470	impf
+990472	perf
+990481	perf
+perf
+990488	perf
+990492	ptz.
+990494	perf
+990497	ptz.
+impf
+990500	perf
+990502	wayq
+perf
+990508	impf
+perf
+990515	perf
+perf
+990523	impf
+990525	perf
+990532	impf
+990534	perf
+impf
+990543	perf
+ptz.
+990557	infc
+990561	impf
+990567	ptz.
+990572	impf
+990578	impf
+990583	impf
+990586	impf
+990591	impf
+impv
+990601	perf
+990603	impf
+990610	perf
+990613	perf
+perf
+990618	wayq
+990622	impf
+990627	impf
+990631	perf
+990636	perf
+990639	ptz.
+990647	impf
+990651	impf
+990657	impf
+990660	impf
+990662	ptz.
+impf
+990665	perf
+990670	impf
+impf
+impv
+990674	impv
+990676	impv
+990678	ptz.
+impf
+990684	perf
+990686	perf
+perf
+990692	impv
+990695	impv
+990702	impf
+990704	impv
+990708	impf
+impf
+990712	impf
+990718	impf
+990724	impf
+990729	impf
+990734	impv
+990741	impv
+990743	impf
+990748	impf
+990751	impv
+990754	impf
+990759	impv
+990764	impf
+990766	impv
+990773	impf
+990775	infc
+990777	impv
+990782	impf
+990794	perf
+990797	impf
+990799	impf
+990804	impf
+990811	perf
+990814	wayq
+990816	ptz.
+990818	perf
+990820	wayq
+perf
+990837	impf
+990855	ptz.
+990860	perf
+990865	perf
+990869	wayq
+990871	perf
+990875	perf
+ptz.
+990884	ptz.
+ptz.
+990889	ptz.
+990893	perf
+990896	wayq
+990900	wayq
+990905	wayq
+990916	ptz.
+990918	ptz.
+990930	wayq
+990934	ptz.
+990938	ptz.
+990940	wayq
+990950	infc
+990997	wayq
+991001	perf
+991011	infc
+991013	ptz.
+991016	impf
+991024	perf
+991028	perf
+perf
+991035	impv
+991042	perf
+991051	impf
+ptz.
+991056	ptz.
+991060	perf
+991066	koh.
+991070	perf
+991077	impf
+991082	impf
+991093	impf
+991096	impf
+991099	impf
+991104	ptz.
+991109	perf
+991112	perf
+perf
+991116	infc
+991120	infc
+perf
+991124	infc
+991137	perf
+991142	wayq
+991144	wayq
+991149	wayq
+991154	wayq
+991159	ptz.
+991169	perf
+991173	perf
+991175	ptz.
+991179	impf
+impf
+991183	perf
+991192	impf
+991197	ptz.
+991204	perf
+991206	impf
+991208	impf
+991210	impf
+991212	impf
+991217	ptz.
+991222	perf
+impv
+991229	impv
+991241	infc
+991245	perf
+991249	impv
+991260	infc
+991262	ptz.
+991269	ptz.
+infc
+impv
+ptz.
+991281	ptz.
+991284	ptz.
+ptz.
+991288	perf
+991290	impf
+991293	ptz.
+991295	impf
+991300	impv
+991316	ptz.
+impf
+991324	impv
+991327	impf
+991333	impv
+991340	impv
+991343	impv
+991345	ptz.
+991359	perf
+perf
+991367	impf
+perf
+perf
+991374	impv
+991377	impv
+991383	perf
+991391	perf
+991395	impv
+991401	impf
+991405	impf
+991409	perf
+991414	impv
+991417	impv
+ptz.
+991422	impv
+991424	ptz.
+991442	perf
+991445	impv
+991450	impv
+991453	ptz.
+991455	impf
+991459	infc
+991462	impf
+ptz.
+991466	impv
+991476	infc
+impf
+991487	impf
+991496	ptz.
+991511	wayq
+991515	perf
+perf
+991519	infc
+991521	infc
+991531	infc
+991535	impv
+991538	ptz.
+991541	ptz.
+991546	ptz.
+991551	ptz.
+991561	impf
+991564	ptz.
+991567	impf
+991574	ptz.
+991577	ptz.
+991583	ptz.
+991594	ptz.
+991614	ptz.
+991617	ptz.
+991622	impf
+991628	impf
+991634	impf
+impf
+ptz.
+991638	ptz.
+ptz.
+ptz.
+991651	impv
+perf
+991657	impf
+991662	impf
+991666	impv
+impf
+991673	perf
+991676	impf
+ptz.
+991680	ptz.
+991687	wayq
+991691	impv
+991694	koh.
+991696	impv
+impf
+991702	perf
+perf
+991705	ptz.
+991718	ptz.
+991727	impf
+991729	impf
+991738	impf
+991741	impf
+991743	impf
+991751	perf
+991757	perf
+991762	infc
+perf
+991765	infc
+impv
+991770	impv
+991775	ptz.
+impf
+991779	ptz.
+991781	ptz.
+991787	ptz.
+991794	impv
+991796	perf
+991807	perf
+991813	ptz.
+991822	perf
+991833	ptz.
+991841	infc
+991845	impf
+991863	impf
+991869	infc
+991887	pf.cons.
+perf
+991904	ptz.
+991911	impf
+991916	pf.cons.
+991950	infc
+991954	ptz.
+991962	wayq
+991966	wayq
+991975	perf
+991979	wayq
+991983	perf
+991998	impf
+992011	impf
+992019	wayq
+992021	perf
+992029	ptz.
+992040	perf
+992050	impf
+impf
+992055	perf
+992057	perf
+992069	pf.cons.
+992073	infc
+992079	impf
+992096	infc
+992110	infc
+992131	ptz.
+992137	perf
+992139	ptz.
+992144	impv
+992146	impf
+992150	impf
+992155	impf
+992166	infc
+992171	infc
+992175	impf
+992180	impf
+992205	perf
+992209	perf
+perf
+992214	ptz.
+ptz.
+992217	ptz.
+ptz.
+992227	ptz.
+992233	perf
+992237	ptz.
+992241	infc
+992244	infc
+992253	perf
+992257	wayq
+992260	ptz.
+992264	perf
+992268	ptz.
+992270	ptz.
+992272	infc
+992278	impf
+992284	perf
+992286	pf.cons.
+992292	impv
+impf
+992309	infc
+infc
+992320	impf
+992322	impf
+992329	impf
+992337	pf.cons.
+992342	pf.cons.
+992344	ptz.
+992351	ptz.
+992358	ptz.
+992360	ptz.
+992364	impf
+992369	impf
+992373	impf
+992382	infc
+992397	infc
+992409	impf
+992414	pf.cons.
+992416	pf.cons.
+992419	ptz.
+992428	impf
+992439	perf
+992453	ptz.
+992459	ptz.
+992464	perf
+992476	perf
+992486	perf
+992496	perf
+992499	wayq
+992503	impf
+992512	wayq
+992533	ptz.
+992535	infc
+992588	ptz.
+992593	ptz.
+992601	ptz.
+992605	impf
+992607	infc
+992610	impf
+992613	infc
+992620	impf
+992635	impf
+992638	impf
+992642	impf
+992654	ptz.
+992662	ptz.
+992670	impf
+992675	ptz.
+992677	ptz.
+992700	pf.cons.
+impv
+992730	ptz.
+992827	impv
+992830	impf
+992832	ptz.
+992835	impf
+992839	impf
+992845	impf
+992850	impf
+992858	impf
+992864	impv
+992866	impf
+992870	pf.cons.
+992872	pf.cons.
+992885	impf
+992897	impf
+992911	impf
+992917	impf
+992923	infc
+992944	ptz.
+992948	pf.cons.
+992998	ptz.
+993056	ptz.
+993064	pf.cons.
+993069	ptz.
+993077	pf.cons.
+993090	infc
+993092	impf
+993099	pf.cons.
+993111	impf
+993115	pf.cons.
+993117	pf.cons.
+993126	ptz.
+993150	infc
+993174	impf
+993180	ptz.
+993184	pf.cons.
+993201	ptz.
+993220	ptz.
+993249	impf
+993268	ptz.
+993297	pf.cons.
+993337	infc
+993345	impf
+ptz.
+perf
+993350	infc
+993364	pf.cons.
+993368	pf.cons.
+993373	impf
+impf
+993377	impf
+993380	pf.cons.
+993413	impf
+993418	ptz.
+993428	impf
+993435	impf
+993444	impf
+993453	impf
+993465	impf
+993472	impf
+993475	impf
+993477	perf
+993479	impf
+993492	pf.cons.
+993497	pf.cons.
+993504	impf
+993507	pf.cons.
+993514	pf.cons.
+993516	pf.cons.
+993533	impf
+993542	pf.cons.
+993598	impf
+993628	impf
+993638	pf.cons.
+993644	infc
+993647	impf
+993653	impf
+993656	pf.cons.
+993674	impf
+993682	impf
+993686	pf.cons.
+993690	impf
+993700	pf.cons.
+993716	pf.cons.
+993720	infc
+993732	impf
+993736	pf.cons.
+993752	impf
+993768	impf
+impf
+993780	impf
+993792	impf
+993801	pf.cons.
+993805	perf
+993811	perf
+993816	impf
+993821	impf
+993826	ptz.
+993828	impf
+993832	impf
+993835	impf
+993840	impf
+993846	impf
+993850	impf
+impf
+993853	impf
+993876	impf
+993904	impf
+993913	impf
+993926	infc
+993938	pf.cons.
+993953	impf
+993959	impf
+993963	pf.cons.
+994003	pf.cons.
+994007	pf.cons.
+994014	impf
+994020	impf
+994039	impf
+994050	impf
+994055	pf.cons.
+994082	pf.cons.
+994100	impf
+994102	impf
+994113	impf
+994126	impf
+994157	impf
+994163	impf
+994169	pf.cons.
+994176	pf.cons.
+994184	pf.cons.
+994201	pf.cons.
+994212	impf
+994215	ptz.
+994229	impf
+994241	impf
+994260	impf
+994282	impf
+994298	impf
+994306	perf
+994311	impf
+994322	impf
+994329	impf
+994342	impf
+994358	impf
+994372	impf
+994393	pf.cons.
+994418	impf
+994423	impf
+994429	impf
+994444	impf
+994453	impf
+994459	pf.cons.
+994463	pf.cons.
+994506	impf
+994512	impf
+994533	pf.cons.
+994537	pf.cons.
+994550	impf
+994563	impf
+994570	impf
+994577	pf.cons.
+994580	pf.cons.
+994592	pf.cons.
+994607	pf.cons.
+994612	pf.cons.
+994621	pf.cons.
+994631	pf.cons.
+994634	impf
+994648	pf.cons.
+994661	impf
+994669	impf
+994676	impf
+994682	impf
+994688	impf
+994691	pf.cons.
+994699	impf
+994704	pf.cons.
+994713	impf
+994733	impf
+994848	impf
+994865	impf
+994874	impf
+994880	impf
+994885	pf.cons.
+994892	koh.
+994897	impf
+994905	impf
+994910	infc
+994917	perf
+994924	infc
+994926	pf.cons.
+994933	impf
+994935	pf.cons.
+994942	ptz.
+994958	pf.cons.
+994978	ptz.
+994988	ptz.
+994997	ptz.
+995003	ptz.
+995011	impf
+ptz.
+995021	impv
+995039	pf.cons.
+995045	ptz.
+995068	impv
+995090	infc
+995095	infc
+995107	ptz.
+995109	impf
+ptz.
+995116	impf
+995124	perf
+995130	ptz.
+995136	ptz.
+995140	impf
+995142	ptz.
+ptz.
+995146	ptz.
+995152	impf
+ptz.
+995161	ptz.
+995164	ptz.
+995167	ptz.
+995173	ptz.
+995176	ptz.
+995183	pf.cons.
+995227	ptz.
+995230	ptz.
+995241	ptz.
+995259	impf
+ptz.
+995271	infc
+995273	infc
+ptz.
+995283	ptz.
+995289	ptz.
+995299	impf
+ptz.
+995303	impf
+ptz.
+995309	ptz.
+995316	ptz.
+995320	ptz.
+995329	ptz.
+995334	ptz.
+995340	ptz.
+995347	ptz.
+995351	ptz.
+995376	pf.cons.
+995391	pf.cons.
+995393	ptz.
+995404	impf
+995411	impf
+995416	ptz.
+995418	perf
+995422	impf
+995425	impf
+995429	infc
+995435	pf.cons.
+995450	pf.cons.
+995458	pf.cons.
+995466	ptz.
+995472	ptz.
+995491	impf
+ptz.
+995498	ptz.
+impf
+995507	impf
+995519	infc
+995545	ptz.
+995548	ptz.
+995577	ptz.
+995580	ptz.
+995585	ptz.
+995604	impf
+995615	ptz.
+995638	pf.cons.
+995658	ptz.
+995674	impf
+ptz.
+995678	impf
+995694	impf
+ptz.
+995709	ptz.
+995716	impf
+995729	impf
+ptz.
+995740	pf.cons.
+995743	ptz.
+995792	ptz.
+995801	ptz.
+995813	infc
+995821	impf
+995829	impf
+995848	impf
+995859	pf.cons.
+995941	infc
+995948	impf
+995951	pf.cons.
+995961	perf
+996008	ptz.
+996145	ptz.
+996157	ptz.
+996183	ptz.
+996189	ptz.
+996193	ptz.
+996201	impf
+996221	impf
+996228	ptz.
+996242	ptz.
+996259	impf
+996262	ptz.
+996275	pf.cons.
+996277	ptz.
+996308	impf
+ptz.
+996311	ptz.
+996314	infc
+996339	impf
+996342	impf
+996349	impf
+ptz.
+996358	impf
+ptz.
+996393	infc
+996401	perf
+996404	impf
+impf
+996408	impf
+996410	impf
+996413	perf
+996415	ptz.
+996425	impf
+996427	infc
+impf
+996432	impf
+996434	infc
+impf
+996439	pf.cons.
+996443	pf.cons.
+996455	pf.cons.
+996461	impf
+996475	impf
+996478	impf
+996482	ptz.
+996485	pf.cons.
+pf.cons.
+996489	impf
+996503	impf
+impf
+996584	impf
+ptz.
+996588	impf
+996602	pf.cons.
+996604	ptz.
+996607	ptz.
+996612	ptz.
+996620	impf
+996625	impf
+996630	impf
+996636	impf
+996640	pf.cons.
+996643	pf.cons.
+996651	impf
+996654	pf.cons.
+996656	impf
+996661	impf
+996668	pf.cons.
+996672	impf
+996678	impf
+996684	impf
+996693	impf
+996699	impf
+996704	ptz.
+996710	ptz.
+996723	impf
+996727	pf.cons.
+996734	impf
+996740	pf.cons.
+996748	impf
+996754	ptz.
+996758	impf
+996762	impf
+impf
+996766	ptz.
+996768	ptz.
+996770	impf
+996774	impf
+impf
+996779	impf
+996781	pf.cons.
+996785	impf
+996796	infc
+996806	ptz.
+996810	pf.cons.
+996828	impf
+ptz.
+996834	infc
+996838	pf.cons.
+996848	impf
+ptz.
+996857	impf
+ptz.
+996865	impf
+996867	pf.cons.
+996871	pf.cons.
+996876	ptz.
+996880	pf.cons.
+996888	impf
+ptz.
+996900	ptz.
+996905	impf
+996907	ptz.
+996912	impf
+ptz.
+996923	pf.cons.
+996929	ptz.
+996934	impf
+ptz.
+ptz.
+996938	ptz.
+996942	impf
+996958	impf
+996962	infc
+infc
+infc
+996968	impf
+996979	impf
+impf
+996986	impf
+996991	impf
+996993	impf
+997004	impf
+997012	impf
+997017	impf
+997022	impf
+ptz.
+997034	impf
+997038	impf
+997042	impf
+997047	ptz.
+997058	impf
+997062	impf
+ptz.
+997077	impf
+997085	impf
+997091	impf
+997103	impf
+997108	impf
+997110	pf.cons.
+997117	impf
+997119	pf.cons.
+997129	impf
+997132	impf
+997142	ptz.
+997150	impf
+997170	impf
+ptz.
+997182	infc
+997188	infc
+997199	impf
+997201	impv
+997209	impf
+997223	impf
+997226	impf
+997231	ptz.
+997237	impf
+997244	impf
+997255	impf
+997260	impf
+997264	ptz.
+997269	ptz.
+997271	ptz.
+997278	ptz.
+997282	impf
+997287	impf
+ptz.
+997290	ptz.
+997295	impf
+997298	infc
+997306	impf
+997309	ptz.
+997320	impf
+997324	pf.cons.
+997328	ptz.
+997333	infc
+997339	infc
+997342	impf
+impf
+impf
+997351	ptz.
+997355	ptz.
+997359	impf
+997362	pf.cons.
+997381	pf.cons.
+997385	impf
+997391	impf
+997393	ptz.
+impf
+997403	ptz.
+997406	impf
+997413	impf
+997416	impf
+997418	ptz.
+impf
+997423	impf
+997432	impf
+997434	ptz.
+impf
+997449	impf
+997452	ptz.
+impf
+997470	impf
+997479	impf
+997485	impf
+perf
+ptz.
+997489	impf
+997519	impf
+997524	perf
+997530	perf
+997533	wayq
+997537	impf
+997546	impf
+997551	impf
+997553	impf
+997565	impf
+997568	impf
+997570	impf
+997575	impf
+997579	ptz.
+997581	infc
+997590	perf
+997596	ptz.
+perf
+997603	impf
+997610	pf.cons.
+997614	infc
+997620	impf
+997627	ptz.
+997634	ptz.
+997639	ptz.
+997643	impf
+997651	impf
+997665	impf
+997667	impf
+997670	pf.cons.
+997672	pf.cons.
+997678	impf
+997681	impf
+997691	ptz.
+impf
+997698	impf
+997700	impf
+997708	ptz.
+997718	impf
+997720	impf
+997724	pf.cons.
+997727	pf.cons.
+997735	impf
+997737	impf
+997740	pf.cons.
+997745	impf
+997748	pf.cons.
+997751	pf.cons.
+997753	pf.cons.
+997756	pf.cons.
+997772	impf
+997778	impf
+997784	impf
+997792	impf
+997811	impf
+997814	infc
+ptz.
+997817	impf
+impf
+997821	infc
+impf
+997826	impf
+997829	pf.cons.
+997832	pf.cons.
+997835	ptz.
+997847	pf.cons.
+997850	pf.cons.
+997854	pf.cons.
+997857	impf
+pf.cons.
+997867	impf
+impf
+997872	ptz.
+997879	impf
+997883	ptz.
+997890	impf
+997895	perf
+997899	ptz.
+997901	ptz.
+impf
+997909	impf
+997915	impf
+997919	impf
+997923	ptz.
+997926	ptz.
+997928	ptz.
+997932	ptz.
+997936	ptz.
+997943	impf
+997946	impf
+997948	pf.cons.
+997950	pf.cons.
+997955	ptz.
+997958	infc
+997964	impf
+997967	impf
+997970	impf
+997973	impf
+997976	infc
+997978	impf
+997984	ptz.
+997989	ptz.
+997991	ptz.
+997995	ptz.
+997998	ptz.
+998002	infc
+998005	ptz.
+998008	impf
+998012	impf
+998019	impf
+998025	infc
+998029	impf
+998035	impf
+998046	impf
+998069	impf
+998075	impf
+998082	impf
+998089	impf
+998092	impf
+998098	impf
+998103	impf
+998110	impf
+998113	impf
+998124	impf
+998128	impf
+998142	impf
+998145	impf
+998149	pf.cons.
+998154	impf
+998160	impf
+998168	impf
+998189	impf
+998191	infc
+998198	pf.cons.
+998200	pf.cons.
+998206	impf
+998208	infc
+998221	impf
+998229	impf
+998238	impf
+998250	ptz.
+998252	infc
+998258	impf
+998263	pf.cons.
+998266	pf.cons.
+998276	impf
+perf
+998280	infc
+998282	impf
+998285	pf.cons.
+998294	impf
+998297	pf.cons.
+998312	impv
+998315	infc
+998319	impf
+998323	pf.cons.
+998332	impf
+998339	impf
+998348	perf
+998362	impf
+998364	pf.cons.
+998368	impf
+998372	pf.cons.
+998378	perf
+998380	perf
+998386	impf
+998389	impf
+998391	infc
+998394	impf
+998398	pf.cons.
+998404	impf
+998407	impf
+998409	impf
+998414	perf
+998419	infc
+998422	perf
+998426	impf
+998430	impf
+998433	infc
+998439	impf
+998443	ptz.
+998449	impf
+998453	perf
+998465	perf
+998473	perf
+998477	perf
+998481	pf.cons.
+998488	perf
+998491	impf
+998495	impf
+998500	infc
+998506	perf
+998510	impf
+998513	impf
+998516	perf
+998523	impf
+998526	impf
+998529	infc
+998532	impf
+998539	ptz.
+998542	perf
+998545	impf
+998550	perf
+998557	ptz.
+998560	impf
+998562	infc
+998564	impf
+998568	impf
+998571	impf
+998576	ptz.
+998579	pf.cons.
+998585	pf.cons.
+998591	perf
+998594	infc
+koh.
+998597	koh.
+998602	perf
+998604	impf
+998611	ptz.
+998615	ptz.
+998619	infc
+998622	ptz.
+998637	impf
+998640	impf
+998643	impf
+998646	impf
+998651	ptz.
+998654	perf
+998660	perf
+998665	perf
+998670	infc
+998674	perf
+998676	infc
+998679	pf.cons.
+998685	impf
+998707	infc
+koh.
+998710	koh.
+998715	perf
+998718	impf
+998722	ptz.
+998725	infc
+998727	infc
+perf
+998733	infc
+998735	wayq
+998738	ptz.
+998741	infc
+koh.
+998744	koh.
+998748	perf
+998750	pf.cons.
+998752	pf.cons.
+998754	pf.cons.
+998759	ptz.
+998761	perf
+998767	impf
+998770	ptz.
+998776	impv
+998787	impf
+998795	impf
+998800	pf.cons.
+998814	pf.cons.
+998819	impf
+998823	impf
+998831	impf
+998836	pf.cons.
+998841	perf
+998845	impf
+impf
+998851	infc
+infc
+998857	ptz.
+998860	infc
+998869	impf
+998877	ptz.
+998883	impf
+998889	infc
+998892	pf.cons.
+998894	pf.cons.
+998898	pf.cons.
+998912	pf.cons.
+998916	pf.cons.
+998921	perf
+998923	pf.cons.
+998928	ptz.
+998930	perf
+998938	pf.cons.
+998947	pf.cons.
+998952	perf
+998954	pf.cons.
+998956	pf.cons.
+998961	pf.cons.
+998966	impf
+998973	impf
+998979	impf
+998986	impf
+998988	infc
+998992	pf.cons.
+998994	infc
+998998	impf
+999004	impf
+999006	impf
+999008	impf
+999012	impf
+999021	impf
+999023	impf
+999028	infc
+999031	ptz.
+999034	infc
+999039	ptz.
+999041	impf
+999045	pf.cons.
+999052	impf
+999054	impf
+999057	impf
+999062	impf
+999067	ptz.
+999070	pf.cons.
+999072	pf.cons.
+999075	pf.cons.
+koh.
+999086	impf
+999090	impf
+999095	impf
+999099	impf
+999109	impf
+999114	impf
+999120	infc
+999129	perf
+999132	impf
+999134	infc
+999141	impf
+999146	impf
+999155	impf
+999159	pf.cons.
+999161	infc
+999166	pf.cons.
+999184	impf
+999200	perf
+999219	pf.cons.
+pf.cons.
+999228	infc
+999237	impf
+999241	impf
+999247	ptz.
+999249	impf
+impf
+999253	ptz.
+999255	ptz.
+999263	pf.cons.
+999269	impf
+ptz.
+999282	impf
+999302	impf
+ptz.
+999313	impf
+999318	impf
+999329	impf
+999339	impf
+999347	impf
+999355	impf
+999362	perf
+999364	pf.cons.
+999374	impf
+999378	impf
+999381	infc
+999386	impf
+999397	ptz.
+999402	perf
+999406	pf.cons.
+999408	impf
+999415	ptz.
+999417	infc
+999425	pf.cons.
+999433	ptz.
+999438	pf.cons.
+999444	infc
+999451	pf.cons.
+999457	ptz.
+perf
+999463	pf.cons.
+999479	pf.cons.
+999487	impf
+ptz.
+999496	impf
+999504	impf
+999508	pf.cons.
+999519	impf
+impf
+999522	perf
+999527	pf.cons.
+pf.cons.
+999530	pf.cons.
+999535	pf.cons.
+999539	pf.cons.
+999559	pf.cons.
+999563	ptz.
+999568	perf
+999573	impf
+999579	pf.cons.
+999589	pf.cons.
+999606	impf
+999608	impf
+999614	pf.cons.
+999623	impf
+999627	impf
+999636	impf
+999642	impf
+999649	pf.cons.
+999654	perf
+999660	impf
+999665	pf.cons.
+999679	infc
+999682	pf.cons.
+999701	pf.cons.
+999703	ptz.
+999710	ptz.
+999712	ptz.
+999718	perf
+999721	impf
+999728	impf
+999732	pf.cons.
+999743	ptz.
+999748	perf
+999753	perf
+999756	impf
+impf
+999761	impf
+999776	pf.cons.
+999781	perf
+999784	ptz.
+999786	pf.cons.
+999791	pf.cons.
+999793	pf.cons.
+999795	pf.cons.
+999798	pf.cons.
+999803	impf
+999810	perf
+999817	impf
+999820	ptz.
+999829	impf
+999832	infc
+999840	impf
+999844	impf
+999846	wayq
+999853	impf
+999856	ptz.
+999866	perf
+999869	pf.cons.
+999872	ptz.
+999876	ptz.
+999879	infc
+999886	pf.cons.
+999893	impf
+999896	pf.cons.
+999910	impf
+999945	impf
+999949	impf
+999965	perf
+999975	ptz.
+1000020	perf
+1000025	infc
+1000030	infc
+1000033	infc
+1000044	impf
+1000064	impf
+1000066	infc
+1000072	impf
+impf
+ptz.
+1000081	impf
+1000091	impf
+1000096	ptz.
+1000099	impf
+1000101	infc
+1000107	impf
+1000109	ptz.
+1000115	ptz.
+1000118	ptz.
+1000120	ptz.
+1000122	ptz.
+ptz.
+1000125	ptz.
+1000130	ptz.
+1000132	ptz.
+1000140	ptz.
+1000145	impf
+1000156	pf.cons.
+1000161	impf
+1000167	impf
+1000172	perf
+1000176	impf
+1000183	impf
+1000187	impf
+1000192	perf
+1000195	perf
+1000198	impf
+1000201	impf
+1000214	impf
+1000224	impf
+1000227	impf
+1000233	infc
+1000237	pf.cons.
+1000254	ptz.
+1000256	impf
+1000261	pf.cons.
+ptz.
+1000268	perf
+1000270	perf
+1000274	perf
+1000278	perf
+1000280	infc
+1000284	pf.cons.
+1000289	ptz.
+impf
+1000292	impf
+1000297	impf
+1000300	infc
+1000307	impf
+1000320	impf
+1000326	pf.cons.
+1000335	impf
+1000340	ptz.
+1000345	pf.cons.
+1000347	infc
+1000351	pf.cons.
+1000354	impf
+1000358	pf.cons.
+1000360	impv
+1000363	ptz.
+1000365	infc
+1000369	pf.cons.
+1000372	ptz.
+1000376	impf
+1000378	impf
+1000382	impf
+1000389	impf
+1000391	infc
+ptz.
+1000394	infc
+1000398	impf
+1000402	infc
+1000405	pf.cons.
+1000410	pf.cons.
+1000413	impf
+1000415	pf.cons.
+1000418	pf.cons.
+1000421	ptz.
+1000423	impf
+1000428	pf.cons.
+1000432	impf
+1000435	pf.cons.
+1000439	pf.cons.
+1000442	pf.cons.
+1000446	pf.cons.
+1000461	impf
+1000466	impf
+1000469	ptz.
+1000472	impf
+1000491	ptz.
+1000495	impf
+1000500	impf
+1000519	impf
+1000521	infc
+1000526	perf
+1000529	perf
+perf
+1000542	impf
+1000545	impf
+1000547	pf.cons.
+1000552	pf.cons.
+1000558	perf
+1000560	infc
+1000565	infc
+1000571	impf
+1000585	impf
+1000591	ptz.
+1000595	pf.cons.
+1000597	pf.cons.
+1000600	perf
+1000607	perf
+impv
+1000613	perf
+1000617	impf
+1000625	perf
+1000630	impf
+1000637	pf.cons.
+1000646	impf
+1000652	pf.cons.
+1000657	perf
+1000661	pf.cons.
+1000668	pf.cons.
+1000672	pf.cons.
+pf.cons.
+1000678	pf.cons.
+1000683	pf.cons.
+1000687	perf
+1000692	pf.cons.
+1000699	pf.cons.
+1000703	pf.cons.
+1000712	impf
+1000715	pf.cons.
+1000717	perf
+1000723	impf
+1000734	impf
+1000736	impf
+1000740	impf
+1000742	impf
+1000746	ptz.
+1000748	ptz.
+1000750	ptz.
+1000759	pf.cons.
+1000763	impf
+1000766	pf.cons.
+1000772	pf.cons.
+1000781	pf.cons.
+1000787	ptz.
+1000789	ptz.
+1000792	ptz.
+1000795	ptz.
+1000797	ptz.
+1000799	pf.cons.
+1000806	impf
+1000808	pf.cons.
+1000816	impf
+1000818	impf
+1000820	impf
+1000826	ptz.
+1000833	ptz.
+1000838	pf.cons.
+1000843	impf
+1000853	impf
+1000856	impf
+1000860	impf
+1000867	impf
+1000872	impf
+1000880	perf
+1000886	impf
+1000889	impf
+impf
+1000896	impf
+1000901	ptz.
+1000905	ptz.
+1000910	impf
+1000915	ptz.
+1000919	impf
+1000929	ptz.
+1000931	pf.cons.
+1000934	impf
+1000945	perf
+1000947	pf.cons.
+1000952	perf
+1000955	infc
+1000957	impf
+1000975	ptz.
+1000982	impf
+1000988	impf
+1000994	impf
+1000998	impf
+1001001	pf.cons.
+1001004	impf
+1001008	perf
+1001014	impf
+1001019	impf
+ptz.
+1001023	impf
+1001027	pf.cons.
+1001029	pf.cons.
+1001031	pf.cons.
+1001036	pf.cons.
+1001040	perf
+1001042	wayq
+1001046	perf
+1001050	pf.cons.
+1001056	pf.cons.
+1001064	pf.cons.
+1001071	perf
+1001079	perf
+1001082	perf
+1001087	infc
+1001089	perf
+1001098	pf.cons.
+1001106	pf.cons.
+1001114	pf.cons.
+1001117	pf.cons.
+1001122	pf.cons.
+1001127	perf
+1001136	pf.cons.
+1001140	impf
+1001147	perf
+1001156	perf
+1001161	pf.cons.
+1001167	perf
+1001177	perf
+1001181	perf
+1001184	perf
+1001187	pf.cons.
+1001189	ptz.
+1001197	impf
+1001207	impf
+1001212	pf.cons.
+1001221	perf
+perf
+1001224	ptz.
+1001227	ptz.
+1001229	impf
+1001235	perf
+1001238	ptz.
+1001243	pf.cons.
+1001246	ptz.
+1001248	pf.cons.
+1001250	ptz.
+1001261	impf
+1001266	perf
+1001268	impf
+1001270	infc
+1001274	impf
+1001281	impf
+1001285	impf
+1001292	impf
+1001304	impf
+1001314	impf
+1001327	impf
+1001339	impf
+1001341	pf.cons.
+1001360	impf
+ptz.
+1001387	impf
+ptz.
+1001399	infc
+1001414	impf
+1001429	pf.cons.
+1001436	pf.cons.
+1001439	impf
+1001449	ptz.
+1001451	impf
+1001463	impf
+1001465	pf.cons.
+1001477	impf
+1001525	impf
+1001532	impf
+1001537	impf
+1001547	impf
+impf
+1001579	ptz.
+1001614	impf
+1001616	infc
+1001622	impf
+1001636	perf
+1001654	impf
+1001669	pf.cons.
+1001711	impf
+1001725	ptz.
+1001735	ptz.
+1001747	impf
+1001758	impf
+ptz.
+1001773	ptz.
+1001777	impf
+impf
+1001783	impf
+1001786	ptz.
+1001800	ptz.
+1001805	infc
+1001809	impf
+ptz.
+1001814	pf.cons.
+1001822	ptz.
+1001829	perf
+perf
+1001839	ptz.
+1001843	pf.cons.
+impf
+1001851	impf
+1001866	ptz.
+1001884	impf
+impf
+1001888	infc
+1001892	infc
+1001898	impf
+1001917	impf
+1001919	ptz.
+1001924	infc
+1001929	impf
+1001940	perf
+1001944	impf
+1001952	wayq
+1001958	ptz.
+ptz.
+1001961	pf.cons.
+perf
+1001968	infc
+1001972	wayq
+1001974	wayq
+1001981	infc
+1001998	perf
+perf
+1002001	impf
+impf
+1002009	perf
+1002013	impf
+1002020	impf
+impf
+1002023	infc
+ptz.
+1002026	perf
+perf
+1002047	impf
+impf
+perf
+perf
+1002062	impv
+infc
+1002065	perf
+1002075	impf
+1002079	ptz.
+1002100	ptz.
+1002102	impf
+1002113	infc
+impf
+1002130	ptz.
+infc
+ptz.
+1002139	perf
+1002158	perf
+perf
+1002161	pf.cons.
+1002163	impf
+1002173	infc
+1002183	impf
+1002187	impf
+1002209	wayq
+impf
+1002213	perf
+1002217	perf
+1002234	perf
+1002236	pf.cons.
+1002239	perf
+1002241	impf
+impf
+1002251	infc
+1002253	ptz.
+1002258	impf
+perf
+1002263	impv
+impv
+1002275	impv
+1002281	perf
+1002298	impf
+1002300	impf
+1002309	impf
+1002314	ptz.
+1002323	impf
+1002331	impf
+1002336	ptz.
+1002341	wayq
+1002348	ptz.
+1002361	infc
+infc
+1002365	impf
+1002368	impf
+ptz.
+1002373	perf
+infc
+1002379	impf
+impf
+1002384	ptz.
+1002386	wayq
+1002388	infc
+1002397	perf
+1002399	pf.cons.
+1002404	perf
+1002410	perf
+1002414	wayq
+1002420	perf
+ptz.
+1002423	impf
+1002426	impf
+1002431	infc
+1002448	impf
+wayq
+1002451	impf
+1002457	impf
+1002459	perf
+1002480	perf
+1002484	wayq
+1002487	impf
+impf
+impf
+1002494	perf
+ptz.
+1002502	wayq
+impf
+1002507	pf.cons.
+1002509	pf.cons.
+1002511	infc
+1002520	infc
+perf
+1002525	ptz.
+perf
+1002530	infc
+1002532	ptz.
+1002545	ptz.
+1002548	impf
+1002555	impf
+1002559	wayq
+1002566	ptz.
+1002570	infc
+1002575	impv
+1002585	perf
+1002607	infc
+1002658	impf
+impf
+1002661	impf
+1002670	infc
+1002673	perf
+1002682	perf
+1002684	ptz.
+1002688	perf
+1002692	ptz.
+1002703	ptz.
+ptz.
+1002706	infc
+1002709	infc
+1002712	infc
+1002714	impf
+1002717	impf
+1002725	infc
+1002738	ptz.
+1002748	impf
+1002751	ptz.
+1002767	pf.cons.
+1002787	ptz.
+1002808	infc
+1002812	ptz.
+ptz.
+1002819	infc
+1002823	wayq
+1002828	perf
+1002830	wayq
+ptz.
+1002836	perf
+1002838	perf
+1002851	wayq
+1002853	wayq
+1002855	perf
+1002857	perf
+1002861	perf
+1002865	perf
+1002871	perf
+1002874	perf
+perf
+1002880	perf
+1002884	infc
+1002889	perf
+1002892	impv
+1002894	impf
+1002901	wayq
+1002907	impf
+1002911	perf
+1002916	infc
+1002929	perf
+1002933	ptz.
+1002945	perf
+1002948	perf
+impf
+1002963	impv
+1002965	ptz.
+1002968	impv
+1002980	impf
+1002983	ptz.
+1002986	perf
+perf
+1002995	wayq
+1003000	infc
+1003003	perf
+1003007	perf
+1003023	infc
+1003030	perf
+perf
+1003033	wayq
+1003042	infc
+1003049	infc
+infc
+1003055	wayq
+1003059	wayq
+1003065	wayq
+1003070	ptz.
+1003075	wayq
+1003083	perf
+1003085	wayq
+1003090	infc
+1003095	wayq
+1003101	perf
+1003109	ptz.
+1003111	ptz.
+1003116	perf
+ptz.
+1003121	ptz.
+1003123	perf
+1003126	infc
+1003130	perf
+1003136	wayq
+1003142	infc
+1003148	infc
+1003154	infc
+1003157	perf
+1003163	infc
+1003169	infc
+1003172	ptz.
+1003180	perf
+1003184	wayq
+1003188	wayq
+1003193	wayq
+1003196	wayq
+1003200	wayq
+wayq
+1003208	ptz.
+1003210	perf
+1003213	wayq
+1003217	wayq
+1003224	infc
+infc
+1003237	impf
+impf
+1003244	ptz.
+perf
+1003251	perf
+1003261	infc
+1003263	ptz.
+1003281	ptz.
+1003284	ptz.
+1003293	perf
+1003302	perf
+perf
+1003307	wayq
+1003313	wayq
+wayq
+1003322	infc
+1003324	perf
+1003335	ptz.
+1003338	ptz.
+1003341	impf
+1003351	perf
+1003357	infc
+1003363	infc
+1003369	wayq
+1003382	impv
+1003386	impf
+impf
+1003390	infc
+1003393	infc
+1003399	infc
+1003402	perf
+1003405	infc
+1003408	perf
+1003410	infc
+1003418	infc
+1003428	perf
+1003437	infc
+1003441	perf
+1003445	perf
+1003448	perf
+1003464	perf
+1003468	perf
+1003475	perf
+1003477	impf
+1003480	perf
+1003482	infc
+1003487	perf
+1003490	ptz.
+1003493	perf
+1003497	perf
+1003504	ptz.
+1003507	perf
+1003511	wayq
+wayq
+ptz.
+1003515	infc
+1003520	perf
+1003525	wayq
+1003532	wayq
+1003534	wayq
+ptz.
+1003545	perf
+1003548	wayq
+1003556	perf
+1003561	infc
+1003567	infc
+1003573	wayq
+1003577	wayq
+1003584	impv
+1003586	impv
+1003591	perf
+1003594	ptz.
+1003596	ptz.
+1003598	wayq
+1003602	wayq
+1003610	perf
+1003614	perf
+1003618	perf
+1003622	perf
+1003624	perf
+ptz.
+1003629	wayq
+1003633	infc
+1003638	wayq
+1003642	wayq
+1003647	infc
+1003653	ptz.
+1003658	perf
+1003660	perf
+1003670	infc
+infc
+1003673	ptz.
+1003675	perf
+1003693	impf
+1003696	pf.cons.
+1003698	perf
+1003702	wayq
+1003708	ptz.
+1003710	impf
+1003713	perf
+1003722	wayq
+1003725	perf
+1003728	wayq
+1003732	wayq
+1003735	ptz.
+1003740	perf
+1003749	ptz.
+1003764	perf
+1003772	infc
+1003780	perf
+1003785	infc
+1003791	impf
+1003798	ptz.
+1003800	ptz.
+1003808	ptz.
+1003818	ptz.
+1003835	infc
+1003839	perf
+1003842	wayq
+1003845	ptz.
+1003848	infc
+1003853	perf
+1003863	perf
+1003868	infc
+1003872	impf
+1003886	infc
+1003893	infc
+1003897	perf
+1003899	perf
+ptz.
+1003907	impf
+1003909	ptz.
+1003914	perf
+1003923	infc
+ptz.
+1003931	perf
+1003938	perf
+1003945	wayq
+1003957	infc
+1003960	ptz.
+1003963	impf
+1003966	ptz.
+1003969	perf
+1003974	ptz.
+1003976	perf
+1003978	impf
+1003980	ptz.
+1003986	infc
+1003999	perf
+1004004	ptz.
+1004006	impf
+1004012	perf
+1004016	ptz.
+1004018	perf
+1004023	perf
+1004037	perf
+1004041	wayq
+ptz.
+1004044	infc
+1004048	wayq
+wayq
+1004058	wayq
+1004063	ptz.
+1004070	ptz.
+1004074	ptz.
+1004076	ptz.
+1004081	ptz.
+1004093	perf
+1004098	impf
+1004109	ptz.
+1004115	impf
+1004130	perf
+1004135	perf
+1004142	infc
+1004144	perf
+perf
+1004149	ptz.
+1004152	ptz.
+1004155	ptz.
+1004167	impf
+1004171	impf
+impf
+1004180	wayq
+1004191	ptz.
+1004202	perf
+1004211	wayq
+1004221	infc
+1004230	perf
+ptz.
+1004234	wayq
+1004239	perf
+1004253	wayq
+1004256	infc
+1004263	wayq
+1004268	wayq
+1004271	ptz.
+1004277	impf
+1004279	wayq
+1004283	perf
+1004285	perf
+1004289	ptz.
+1004294	ptz.
+1004296	ptz.
+1004298	ptz.
+1004303	wayq
+1004308	perf
+1004314	perf
+1004317	perf
+1004323	ptz.
+1004325	ptz.
+1004328	perf
+1004330	ptz.
+1004338	ptz.
+1004340	infc
+1004345	ptz.
+ptz.
+1004348	perf
+ptz.
+1004351	infc
+1004362	impf
+1004364	infc
+ptz.
+1004373	perf
+1004378	infc
+1004382	infc
+1004386	impf
+ptz.
+1004390	perf
+1004394	impf
+1004398	impf
+1004403	impf
+1004405	infc
+1004413	infc
+1004419	infc
+1004423	ptz.
+1004435	infc
+1004440	infc
+1004446	impf
+impf
+1004450	infc
+1004457	infc
+1004464	infc
+1004479	infc
+1004481	ptz.
+1004488	infc
+1004494	infc
+1004501	infc
+1004511	infc
+1004518	impf
+1004524	infc
+1004531	infc
+1004540	infc
+1004547	infc
+1004555	impf
+1004562	perf
+1004566	ptz.
+1004584	infc
+infc
+1004591	impf
+1004596	pf.cons.
+1004599	pf.cons.
+1004602	pf.cons.
+1004615	perf
+1004627	ptz.
+1004629	infc
+1004634	infc
+1004639	infc
+1004642	ptz.
+1004650	perf
+impf
+1004662	perf
+1004665	infc
+1004671	infc
+1004675	perf
+1004682	ptz.
+perf
+1004687	ptz.
+perf
+1004694	perf
+1004696	pf.cons.
+1004714	perf
+1004716	pf.cons.
+1004720	ptz.
+1004736	perf
+1004743	ptz.
+1004745	ptz.
+1004749	ptz.
+perf
+1004755	perf
+1004766	infc
+1004768	pf.cons.
+1004780	ptz.
+perf
+1004788	ptz.
+1004792	impf
+1004796	infc
+1004805	impf
+1004807	perf
+1004814	perf
+1004818	impf
+1004825	perf
+1004828	ptz.
+1004830	wayq
+1004849	wayq
+1004855	wayq
+1004859	wayq
+1004866	wayq
+1004872	wayq
+1004879	perf
+perf
+perf
+1004886	wayq
+wayq
+1004890	ptz.
+1004892	infc
+1004897	perf
+1004925	infc
+1004933	perf
+ptz.
+1004937	ptz.
+1004940	ptz.
+1004943	ptz.
+1004945	perf
+1004948	perf
+1004956	perf
+1004966	ptz.
+1004968	infc
+1004978	infc
+1004985	ptz.
+1004987	perf
+1004997	perf
+1004999	perf
+1005001	ptz.
+1005009	infc
+1005011	ptz.
+1005013	perf
+1005021	ptz.
+1005028	impf
+1005030	impf
+1005037	perf
+1005051	perf
+1005061	impf
+1005070	impf
+1005073	impf
+1005080	ptz.
+1005083	impf
+1005095	pf.cons.
+1005100	perf
+1005104	infc
+ptz.
+1005108	ptz.
+1005111	ptz.
+1005114	ptz.
+1005119	ptz.
+1005124	perf
+1005135	perf
+1005140	perf
+1005145	perf
+1005150	perf
+1005153	impf
+1005158	impf
+1005162	impf
+1005167	impf
+1005176	ptz.
+1005179	infc
+perf
+1005185	ptz.
+1005188	perf
+1005190	perf
+1005195	perf
+1005197	impf
+1005203	ptz.
+1005205	ptz.
+1005210	impf
+1005212	pf.cons.
+1005215	ptz.
+1005220	pf.cons.
+ptz.
+1005225	perf
+1005236	ptz.
+1005242	pf.cons.
+1005247	perf
+ptz.
+1005253	ptz.
+1005257	impf
+1005261	impf
+1005266	perf
+1005276	impf
+1005280	infc
+1005285	impf
+1005289	infc
+1005295	pf.cons.
+1005297	pf.cons.
+1005308	ptz.
+1005313	pf.cons.
+1005320	ptz.
+1005325	infc
+1005327	impf
+1005333	impf
+1005336	ptz.
+1005341	infc
+1005346	impf
+1005350	ptz.
+1005352	infc
+1005357	perf
+1005360	infc
+1005362	ptz.
+ptz.
+1005367	impf
+1005373	ptz.
+1005378	ptz.
+1005380	infc
+1005382	infc
+1005387	ptz.
+1005392	ptz.
+1005408	ptz.
+1005429	impf
+1005438	infc
+1005445	perf
+1005453	ptz.
+1005455	perf
+1005457	infc
+1005462	impf
+1005470	impf
+1005476	ptz.
+1005479	impf
+1005491	ptz.
+1005493	perf
+1005497	pf.cons.
+1005505	infc
+1005509	impf
+1005518	impf
+1005525	impv
+1005530	infc
+1005536	impf
+1005543	impf
+1005548	impf
+1005554	impf
+1005561	infc
+1005563	ptz.
+1005565	impf
+1005570	infc
+1005577	impf
+1005586	impf
+1005593	ptz.
+1005596	ptz.
+1005603	impf
+1005606	impf
+1005609	perf
+1005615	perf
+1005617	infc
+impf
+1005623	impf
+1005628	impf
+1005633	infc
+1005640	impf
+1005646	ptz.
+1005653	perf
+1005663	impf
+1005668	infc
+1005678	impf
+1005682	infc
+1005686	ptz.
+1005689	impf
+1005693	impf
+1005708	impf
+1005710	impf
+1005714	impf
+1005718	impf
+1005720	ptz.
+1005724	impf
+1005729	infc
+1005732	infc
+1005736	impf
+1005741	infc
+1005744	infc
+1005748	impf
+impf
+1005758	ptz.
+1005764	impf
+1005773	impf
+1005780	impf
+1005784	impf
+1005794	impf
+1005809	impf
+1005818	impf
+1005827	impf
+1005844	impf
+1005858	ptz.
+1005864	infc
+1005866	infc
+1005870	ptz.
+1005882	ptz.
+1005887	impf
+1005891	infc
+1005894	infc
+infc
+impf
+1005898	impf
+1005901	impf
+1005906	impf
+1005914	infc
+1005923	impf
+1005929	perf
+pf.cons.
+1005937	impf
+1005941	impf
+impf
+impf
+1005945	infc
+1005952	impf
+1005960	impf
+1005963	pf.cons.
+1005969	impf
+1005973	impf
+1005977	infc
+1005992	impf
+1005999	impf
+1006007	impf
+1006019	impf
+1006027	impf
+1006039	impf
+1006042	perf
+1006048	impf
+1006058	infc
+1006068	impf
+1006074	impf
+1006077	perf
+1006080	perf
+1006087	impf
+1006109	impf
+1006120	impf
+impf
+impf
+ptz.
+1006134	impf
+1006136	ptz.
+1006142	pf.cons.
+1006156	infc
+1006163	infc
+1006174	infc
+1006188	impf
+1006193	impf
+1006199	ptz.
+1006206	infc
+ptz.
+1006229	impf
+1006232	ptz.
+1006238	impf
+1006244	ptz.
+1006252	ptz.
+1006256	pf.cons.
+1006259	infc
+1006262	infc
+1006266	ptz.
+1006274	impf
+1006278	pf.cons.
+1006281	pf.cons.
+1006285	pf.cons.
+1006295	impf
+1006305	impf
+1006312	impf
+1006317	impf
+1006320	ptz.
+1006323	impf
+1006330	impf
+1006334	ptz.
+1006336	impf
+1006342	infc
+ptz.
+1006345	ptz.
+1006350	ptz.
+1006353	impf
+1006365	pf.cons.
+1006375	impf
+1006381	infc
+1006392	impf
+1006395	impf
+1006403	impf
+1006413	perf
+1006420	pf.cons.
+1006425	impf
+1006430	ptz.
+1006433	impf
+impf
+1006440	impf
+1006448	impf
+1006450	infc
+1006459	perf
+1006462	infc
+1006469	ptz.
+1006477	infc
+1006482	perf
+1006484	perf
+1006489	impf
+impf
+1006508	impf
+1006529	impf
+1006532	impf
+1006538	impf
+1006550	ptz.
+1006561	infc
+1006579	ptz.
+1006590	impf
+ptz.
+1006598	impf
+1006603	infc
+1006606	impf
+1006617	infc
+1006627	ptz.
+1006629	pf.cons.
+1006634	ptz.
+1006636	impf
+1006638	ptz.
+1006642	impf
+1006656	impf
+1006660	impf
+1006670	ptz.
+1006677	ptz.
+1006696	impf
+1006699	impf
+1006704	ptz.
+1006706	pf.cons.
+1006710	pf.cons.
+impf
+1006736	impf
+1006739	impf
+1006741	pf.cons.
+1006743	pf.cons.
+1006752	perf
+1006754	perf
+1006757	perf
+1006759	perf
+1006762	impf
+1006765	impf
+1006768	ptz.
+1006781	impf
+1006783	infc
+1006785	ptz.
+1006789	impf
+1006800	ptz.
+1006803	ptz.
+1006806	infc
+1006812	impf
+1006817	perf
+1006824	infc
+1006836	ptz.
+1006838	infc
+1006845	impf
+1006850	infc
+1006857	impf
+1006861	infc
+1006876	impf
+1006880	perf
+1006887	infc
+1006890	ptz.
+1006911	impf
+1006916	infc
+1006923	ptz.
+1006935	ptz.
+1006949	impf
+1006955	infc
+1006959	impf
+1006965	impf
+1006970	perf
+1006977	perf
+1006980	impf
+1006982	infc
+1006987	impf
+1006992	infc
+1007000	impf
+1007003	impf
+1007008	infc
+1007014	impf
+1007019	perf
+1007023	infc
+1007027	impf
+1007032	impf
+1007035	infc
+1007040	infc
+1007043	infc
+1007046	impf
+1007049	impf
+1007059	impf
+1007064	ptz.
+1007072	impf
+1007079	impf
+1007084	impf
+impf
+ptz.
+1007092	infc
+infc
+1007099	ptz.
+ptz.
+1007105	ptz.
+1007108	ptz.
+1007116	impf
+1007121	pf.cons.
+1007127	pf.cons.
+1007130	impf
+1007143	perf
+1007155	ptz.
+1007162	infc
+1007166	ptz.
+1007172	impv
+1007174	ptz.
+1007181	impv
+1007183	ptz.
+1007185	impf
+1007188	pf.cons.
+1007191	ptz.
+1007193	ptz.
+1007199	impf
+impf
+1007205	ptz.
+impf
+1007210	infc
+1007217	perf
+1007223	perf
+1007229	infc
+1007233	ptz.
+1007235	ptz.
+1007237	ptz.
+perf
+1007241	ptz.
+1007248	ptz.
+1007252	impf
+1007257	infc
+1007266	impf
+1007270	perf
+perf
+1007275	ptz.
+1007278	impf
+1007283	perf
+1007289	perf
+1007292	ptz.
+1007294	wayq
+1007314	wayq
+1007320	wayq
+1007324	wayq
+1007331	wayq
+1007338	wayq
+1007344	perf
+perf
+perf
+1007354	wayq
+wayq
+1007358	ptz.
+1007360	infc
+1007365	perf
+1007391	ptz.
+1007394	infc
+1007401	perf
+ptz.
+1007405	ptz.
+1007408	ptz.
+1007411	ptz.
+1007415	ptz.
+1007420	perf
+1007428	perf
+1007440	ptz.
+1007442	infc
+1007452	infc
+1007458	ptz.
+1007460	perf
+1007470	perf
+1007476	pf.cons.
+1007478	ptz.
+1007485	ptz.
+1007487	ptz.
+1007490	ptz.
+1007493	perf
+1007499	ptz.
+1007507	ptz.
+1007514	impf
+1007516	impf
+1007524	perf
+1007532	pf.cons.
+1007534	wayq
+1007536	wayq
+1007542	impf
+1007550	impf
+1007553	infc
+ptz.
+1007559	infc
+1007571	ptz.
+1007577	impf
+1007579	infc
+1007584	ptz.
+1007589	infc
+1007591	impf
+1007598	perf
+1007607	impf
+1007612	impf
+1007614	infc
+1007625	infc
+1007632	impf
+1007638	impf
+1007647	perf
+1007657	ptz.
+1007664	perf
+1007669	wayq
+1007683	perf
+1007687	impf
+1007689	perf
+1007695	perf
+1007701	perf
+1007711	impf
+1007723	infc
+ptz.
+1007727	infc
+1007732	perf
+1007743	impf
+1007750	perf
+1007758	ptz.
+1007761	ptz.
+1007765	ptz.
+1007768	perf
+1007772	impf
+1007777	infc
+1007782	infc
+1007791	wayq
+1007793	wayq
+1007799	ptz.
+1007803	ptz.
+1007806	impf
+1007811	ptz.
+1007814	ptz.
+1007819	perf
+1007821	ptz.
+1007826	ptz.
+1007829	ptz.
+1007837	perf
+1007842	pf.cons.
+1007848	infc
+1007851	wayq
+1007855	pf.cons.
+1007868	impf
+1007875	perf
+1007880	ptz.
+1007883	infc
+1007888	impf
+1007895	ptz.
+1007902	ptz.
+1007907	infc
+1007910	infc
+1007915	wayq
+1007920	wayq
+1007924	perf
+perf
+1007931	infc
+1007941	impf
+1007953	perf
+1007958	perf
+1007963	pf.cons.
+1007970	impf
+1007975	infc
+1007978	impf
+1007981	impf
+1007987	pf.cons.
+1007991	pf.cons.
+1007995	perf
+1008000	impv
+1008004	impv
+1008009	impf
+1008011	impf
+1008015	impf
+ptz.
+1008024	impv
+1008028	impf
+1008033	impf
+1008038	impf
+1008041	impf
+1008056	ptz.
+1008058	ptz.
+1008061	impv
+1008067	impf
+1008074	impf
+1008076	impv
+1008080	impf
+1008088	impf
+1008093	impf
+impf
+impf
+impf
+1008100	impf
+1008107	infc
+1008110	ptz.
+ptz.
+1008114	ptz.
+ptz.
+ptz.
+1008121	impv
+1008125	impf
+1008127	ptz.
+1008129	impv
+1008139	impf
+1008148	impf
+1008153	impf
+1008155	ptz.
+1008158	impf
+1008162	perf
+impv
+1008169	ptz.
+1008175	impf
+impf
+1008180	perf
+1008189	ptz.
+1008192	impf
+1008195	ptz.
+1008197	impf
+1008201	impf
+1008205	ptz.
+ptz.
+ptz.
+1008214	impf
+1008220	impf
+1008223	impf
+1008225	infc
+1008241	impf
+1008246	ptz.
+1008249	impf
+1008251	ptz.
+impf
+1008256	impf
+1008258	ptz.
+1008268	infc
+impf
+1008273	impf
+impf
+1008280	impf
+1008285	ptz.
+1008293	impf
+impf
+1008297	impf
+1008299	ptz.
+1008302	impf
+1008309	impf
+1008311	impf
+1008317	impf
+ptz.
+1008322	impf
+1008326	infc
+ptz.
+1008337	impf
+1008339	ptz.
+impv
+impv
+1008352	impv
+1008354	impv
+1008359	impv
+1008363	impv
+ptz.
+1008366	ptz.
+1008369	impf
+1008374	impv
+1008386	impf
+1008389	impf
+1008391	impf
+1008397	perf
+1008400	wayq
+1008403	ptz.
+1008405	ptz.
+perf
+1008408	ptz.
+impf
+1008415	impf
+1008422	impf
+impf
+impf
+1008430	ptz.
+1008432	ptz.
+1008438	impf
+ptz.
+1008441	impf
+1008444	ptz.
+1008446	impf
+1008453	infc
+impf
+1008459	impf
+1008465	impf
+impf
+1008469	impf
+impf
+impf
+impf
+pf.cons.
+1008477	impf
+1008479	pf.cons.
+1008481	pf.cons.
+1008485	impf
+1008488	impf
+1008490	impf
+1008496	impv
+1008498	impv
+1008505	impf
+1008510	ptz.
+1008519	impf
+1008525	impf
+impf
+1008530	impf
+1008535	impf
+1008541	ptz.
+1008549	impf
+1008555	impv
+1008557	impf
+1008559	infc
+1008564	impf
+1008569	impf
+1008575	impf
+1008578	ptz.
+1008580	impf
+1008582	ptz.
+1008589	impf
+1008593	impv
+1008598	ptz.
+1008601	impf
+1008607	impf
+impf
+1008610	impf
+1008621	impf
+impf
+1008628	ptz.
+1008630	ptz.
+1008634	impf
+1008636	ptz.
+1008638	infc
+1008640	ptz.
+1008645	impf
+1008650	impf
+1008656	impf
+1008660	infc
+1008665	impf
+1008671	infc
+1008676	impf
+1008678	impf
+1008682	ptz.
+ptz.
+1008685	impf
+perf
+1008689	impf
+1008699	impf
+1008705	impf
+1008709	impf
+1008711	infc
+1008716	pf.cons.
+1008722	impf
+1008731	impf
+1008734	impf
+1008736	infc
+1008740	impf
+1008747	impf
+1008753	impf
+1008755	impf
+1008761	impf
+1008766	impf
+ptz.
+1008772	ptz.
+1008775	impv
+ptz.
+1008781	impf
+1008783	impv
+ptz.
+1008786	infc
+1008791	impv
+1008796	impv
+1008809	ptz.
+1008813	ptz.
+1008816	impf
+1008823	impf
+impf
+1008830	perf
+1008841	impf
+1008844	ptz.
+1008846	impf
+ptz.
+1008852	impf
+1008860	impf
+1008865	impf
+1008869	impf
+1008872	impf
+1008874	pf.cons.
+1008881	impf
+1008885	ptz.
+impf
+1008889	impf
+ptz.
+1008894	infc
+1008898	impf
+1008906	perf
+ptz.
+1008910	impv
+1008913	impf
+impf
+1008916	infc
+1008920	ptz.
+1008926	impf
+1008931	ptz.
+ptz.
+ptz.
+1008936	ptz.
+infc
+1008942	impf
+1008944	ptz.
+1008949	impf
+1008960	impf
+1008963	impf
+1008965	impf
+1008970	impf
+1008972	ptz.
+impv
+1008976	ptz.
+impv
+ptz.
+1008980	ptz.
+ptz.
+1008985	ptz.
+perf
+1008989	ptz.
+1009000	ptz.
+1009002	ptz.
+1009004	impf
+1009011	ptz.
+1009014	ptz.
+impv
+1009018	impv
+1009026	impf
+1009030	impf
+1009038	impf
+1009044	impf
+1009048	impf
+1009050	infc
+1009068	infc
+1009078	impf
+1009085	impv
+1009088	impv
+1009091	impf
+1009094	impv
+1009096	impv
+impv
+1009099	impv
+1009102	perf
+pf.cons.
+1009106	impf
+1009110	impf
+1009113	pf.cons.
+1009118	pf.cons.
+1009136	impf
+1009140	impf
+1009142	impf
+1009144	impf
+1009147	impf
+1009149	impf
+1009151	impf
+1009153	infc
+1009155	impv
+1009157	impf
+1009160	impv
+1009162	infc
+1009167	impf
+impv
+1009171	impv
+1009175	pf.cons.
+1009183	impv
+1009187	impf
+1009191	perf
+impf
+1009196	impf
+1009198	impv
+1009202	impf
+1009205	impf
+1009210	impf
+1009213	impf
+1009224	impf
+1009232	impf
+1009234	impf
+1009236	infc
+ptz.
+1009243	infc
+1009246	impf
+1009254	impf
+1009261	impf
+1009265	impf
+1009267	infc
+1009273	impf
+1009275	impf
+1009288	perf
+ptz.
+1009291	impf
+1009298	impf
+1009300	impf
+1009306	impv
+1009309	ptz.
+1009311	ptz.
+1009313	impf
+1009325	impf
+1009327	infc
+1009333	impf
+1009335	impf
+1009341	impf
+1009346	impf
+1009350	impv
+1009353	impf
+1009356	impv
+1009363	impf
+1009367	infc
+infc
+infc
+1009376	impv
+1009380	impv
+1009383	impf
+ptz.
+1009394	impf
+1009396	ptz.
+1009403	impf
+1009406	ptz.
+1009410	ptz.
+1009412	ptz.
+impv
+1009417	impf
+1009422	impv
+1009427	ptz.
+1009431	impv
+1009434	impv
+1009441	impv
+1009445	impf
+1009448	impv
+1009452	impf
+pf.cons.
+1009457	ptz.
+1009459	impv
+1009463	impf
+1009465	ptz.
+1009467	impf
+1009472	impv
+1009476	impv
+1009480	impv
+ptz.
+1009484	ptz.
+1009486	impf
+impv
+1009490	impv
+1009493	impv
+1009497	perf
+1009512	impv
+1009516	impf
+1009518	impv
+1009527	ptz.
+1009529	impf
+1009532	impf
+1009534	ptz.
+1009538	impv
+1009540	impf
+impf
+1009545	ptz.
+1009548	impf
+1009552	impv
+1009558	impf
+1009560	impf
+1009566	impf
+impf
+1009571	impf
+1009577	impf
+1009581	impf
+1009587	impf
+1009590	pf.cons.
+1009593	perf
+1009597	impf
+1009602	impf
+1009608	impf
+1009613	impf
+1009618	impf
+1009622	impf
+1009624	ptz.
+1009627	impv
+1009632	impf
+1009636	impf
+1009640	impf
+1009642	ptz.
+impv
+1009645	ptz.
+1009647	impf
+1009653	impv
+1009656	impf
+1009659	infc
+1009664	impf
+1009667	ptz.
+1009669	perf
+1009674	impf
+1009680	infc
+1009683	impf
+1009688	impf
+1009693	impf
+1009698	infc
+1009700	ptz.
+1009704	impf
+1009710	perf
+1009712	ptz.
+1009714	impf
+1009723	impf
+1009725	impf
+1009732	impf
+1009736	impf
+1009741	impf
+1009745	impf
+1009757	ptz.
+impf
+1009760	ptz.
+1009762	impf
+1009765	impf
+1009767	infc
+1009773	impf
+1009777	impf
+1009779	impf
+1009785	impf
+1009789	impf
+1009794	impf
+1009799	impf
+impf
+1009804	impf
+1009809	infc
+1009813	impf
+1009818	impf
+1009824	impf
+1009826	impf
+1009830	ptz.
+1009835	impf
+1009837	impf
+1009841	impf
+1009846	impf
+1009850	infc
+1009856	infc
+1009859	impv
+1009866	impf
+1009874	perf
+1009878	ptz.
+1009881	impf
+1009886	impf
+1009889	impf
+1009893	impf
+1009899	impf
+1009904	impf
+ptz.
+1009910	ptz.
+ptz.
+1009914	ptz.
+1009917	perf
+1009919	impf
+impf
+1009926	impf
+1009932	ptz.
+impv
+1009938	impf
+impv
+1009944	infc
+1009947	impf
+1009952	perf
+1009954	impf
+1009956	impf
+1009959	impv
+1009963	impf
+1009967	impf
+1009970	impv
+1009975	impv
+1009977	ptz.
+impf
+1009995	impf
+impf
+1010000	ptz.
+1010005	ptz.
+1010013	impf
+pf.cons.
+ptz.
+1010017	ptz.
+1010021	ptz.
+1010024	ptz.
+impf
+1010029	ptz.
+1010034	ptz.
+1010043	ptz.
+1010053	ptz.
+impf
+1010065	impf
+1010070	impf
+1010074	ptz.
+1010089	impf
+1010095	impf
+1010102	impf
+1010107	impf
+impf
+ptz.
+1010115	impf
+1010119	impf
+1010132	ptz.
+impf
+1010147	impf
+1010151	perf
+1010156	impf
+1010161	impf
+1010164	perf
+1010167	wayq
+1010174	perf
+1010180	perf
+1010182	impf
+perf
+1010187	wayq
+1010189	impf
+1010202	ptz.
+1010205	ptz.
+1010211	ptz.
+ptz.
+1010217	ptz.
+1010219	ptz.
+1010227	ptz.
+1010234	infc
+1010236	ptz.
+1010240	infc
+1010245	ptz.
+1010247	ptz.
+perf
+1010253	ptz.
+1010256	ptz.
+perf
+1010261	impf
+1010263	impf
+1010265	infc
+1010275	ptz.
+1010280	ptz.
+1010287	impv
+1010290	impf
+1010294	ptz.
+1010296	ptz.
+1010299	impf
+1010302	impf
+ptz.
+1010307	ptz.
+1010313	ptz.
+1010317	ptz.
+1010322	ptz.
+1010328	ptz.
+1010333	ptz.
+1010336	ptz.
+1010341	ptz.
+1010345	impf
+1010350	impf
+impf
+1010353	impf
+1010359	impf
+1010361	ptz.
+1010373	ptz.
+1010376	impf
+1010379	impf
+1010388	ptz.
+1010393	ptz.
+perf
+1010401	perf
+1010404	ptz.
+perf
+1010408	perf
+1010412	ptz.
+perf
+1010418	impf
+1010420	impf
+impv
+1010426	impf
+1010429	impf
+1010432	impf
+1010438	impf
+1010443	impf
+1010452	impf
+1010456	impf
+1010459	ptz.
+1010461	infc
+1010463	impf
+1010467	impf
+1010469	impf
+1010473	impf
+1010475	impf
+1010477	ptz.
+1010479	ptz.
+ptz.
+1010486	ptz.
+1010488	ptz.
+1010490	ptz.
+ptz.
+1010499	wayq
+impf
+1010505	perf
+1010509	wayq
+1010513	perf
+perf
+perf
+1010524	wayq
+wayq
+1010542	infc
+1010560	ptz.
+perf
+1010564	ptz.
+ptz.
+1010574	impf
+1010576	ptz.
+1010578	infc
+impf
+1010584	perf
+1010588	impf
+1010593	perf
+1010595	impf
+1010597	pf.cons.
+1010602	perf
+pf.cons.
+1010605	impv
+1010610	impv
+1010614	impv
+1010616	impf
+1010621	impv
+1010639	impf
+1010641	perf
+1010646	impf
+1010649	impf
+1010652	impf
+1010656	impf
+1010661	impf
+1010666	impf
+1010670	impf
+1010675	impf
+1010679	impf
+1010682	impf
+1010685	impf
+1010691	impf
+1010696	impf
+1010702	infc
+1010707	perf
+1010709	ptz.
+ptz.
+1010721	ptz.
+1010728	ptz.
+1010732	impf
+1010734	ptz.
+1010738	ptz.
+1010743	ptz.
+1010745	ptz.
+ptz.
+1010748	ptz.
+1010753	ptz.
+1010762	ptz.
+impf
+1010768	impf
+ptz.
+1010773	impf
+1010777	impf
+1010784	impf
+impv
+1010790	impf
+1010793	impf
+1010795	impf
+impf
+1010800	impf
+1010803	impf
+1010808	infc
+impf
+1010812	impf
+1010814	impf
+1010818	ptz.
+1010821	impf
+1010824	impf
+1010827	impv
+1010831	impv
+1010847	perf
+1010851	impf
+1010858	impf
+1010863	impf
+1010868	impf
+1010873	ptz.
+1010878	impf
+1010880	impv
+1010884	impv
+1010887	impv
+ptz.
+1010891	impf
+1010895	impf
+1010898	ptz.
+1010901	impf
+1010904	ptz.
+1010909	ptz.
+1010916	ptz.
+1010918	impf
+1010920	ptz.
+1010927	impf
+1010931	impf
+1010934	impf
+1010937	impv
+1010940	infc
+1010942	impv
+1010945	ptz.
+1010949	impf
+1010951	infc
+1010953	impv
+1010957	impf
+1010961	impf
+1010963	impf
+1010966	impf
+1010971	impf
+1010976	impf
+1010981	impf
+1010984	impf
+impf
+ptz.
+ptz.
+1010990	ptz.
+1010995	ptz.
+1011000	ptz.
+1011004	impf
+1011006	impf
+1011011	impf
+1011014	impf
+1011018	impf
+1011020	impf
+1011022	infc
+1011025	perf
+1011027	impf
+1011030	perf
+1011032	impf
+1011035	impf
+1011040	impf
+1011048	impf
+1011051	perf
+1011054	impf
+1011058	perf
+perf
+1011063	ptz.
+impf
+1011067	impf
+1011069	pf.cons.
+1011076	infc
+1011078	impf
+1011080	ptz.
+1011083	impf
+1011086	ptz.
+1011089	impf
+1011094	impf
+1011100	impf
+1011102	impf
+impf
+1011109	ptz.
+1011113	ptz.
+1011116	impf
+impf
+1011122	impf
+1011124	impf
+1011128	perf
+1011130	impf
+1011132	impf
+1011134	impf
+1011138	impf
+impf
+impf
+1011145	impf
+1011151	impf
+impf
+1011155	impf
+1011161	pf.cons.
+1011164	ptz.
+1011167	pf.cons.
+1011170	impf
+impf
+1011175	impf
+1011179	impf
+1011181	pf.cons.
+1011186	impf
+1011188	impv
+1011190	impf
+1011194	impf
+impf
+1011201	ptz.
+1011203	impv
+1011209	impf
+1011211	impf
+1011213	impf
+1011216	impf
+1011218	impf
+1011220	impf
+1011224	infc
+1011229	impf
+1011235	infc
+1011239	perf
+1011242	perf
+1011244	impf
+ptz.
+1011248	impf
+1011252	ptz.
+1011254	impv
+1011256	impv
+1011260	impf
+1011266	impf
+1011272	ptz.
+1011281	impf
+1011284	impf
+1011297	perf
+ptz.
+1011310	ptz.
+1011326	ptz.
+ptz.
+1011332	ptz.
+ptz.
+1011342	ptz.
+1011344	ptz.
+1011348	ptz.
+ptz.
+ptz.
+1011352	ptz.
+1011358	perf
+ptz.
+1011365	ptz.
+1011367	perf
+1011373	impf
+1011375	ptz.
+1011378	impf
+1011381	perf
+1011384	impf
+1011398	impf
+1011411	ptz.
+impf
+1011418	perf
+1011422	perf
+1011429	perf
+1011433	perf
+1011449	ptz.
+1011451	impf
+1011457	impf
+1011464	impf
+1011467	impf
+1011482	ptz.
+1011487	ptz.
+1011490	ptz.
+1011495	impf
+1011504	ptz.
+1011511	impf
+1011525	impv
+infc
+1011532	impv
+impv
+1011542	impf
+1011548	perf
+1011552	impf
+impv
+1011555	ptz.
+1011559	impv
+1011562	impf
+impf
+1011569	infc
+1011572	impf
+impf
+1011575	ptz.
+1011579	impf
+1011584	impf
+1011589	ptz.
+1011591	impv
+1011595	impv
+1011597	impv
+1011604	infc
+1011614	infc
+1011618	impv
+1011623	impf
+1011628	impf
+1011630	infc
+1011637	ptz.
+1011640	ptz.
+ptz.
+1011648	ptz.
+1011651	ptz.
+1011655	impf
+1011659	impf
+1011665	impf
+1011669	impf
+ptz.
+1011677	impf
+1011679	infc
+1011686	impf
+ptz.
+1011694	impf
+ptz.
+1011699	pf.cons.
+1011704	ptz.
+1011709	pf.cons.
+1011713	impf
+1011720	impf
+1011722	ptz.
+1011730	impf
+1011732	ptz.
+1011734	impf
+1011737	ptz.
+1011739	impf
+1011741	pf.cons.
+1011748	impf
+1011750	pf.cons.
+1011755	impf
+1011758	pf.cons.
+1011762	impf
+impf
+1011766	impf
+1011769	impf
+1011773	impf
+1011777	impf
+1011779	impf
+1011786	impf
+1011795	impf
+1011797	perf
+1011806	perf
+1011811	impf
+1011815	ptz.
+perf
+1011818	impf
+1011820	impf
+1011827	perf
+1011829	perf
+1011831	impf
+1011833	perf
+1011843	perf
+1011847	impf
+1011849	ptz.
+1011854	perf
+1011857	wayq
+1011860	ptz.
+1011862	wayq
+1011867	impf
+impf
+1011873	infc
+1011876	impf
+1011880	impf
+ptz.
+1011889	impf
+impv
+1011899	impf
+impf
+1011902	ptz.
+1011908	ptz.
+1011912	impf
+1011916	impf
+1011922	perf
+1011925	infc
+1011928	perf
+1011933	ptz.
+1011935	ptz.
+1011939	ptz.
+1011942	impf
+1011948	impf
+1011955	perf
+1011957	impf
+impf
+1011967	impf
+1011972	impf
+1011979	impf
+1011986	ptz.
+1011996	perf
+1012007	ptz.
+1012009	impf
+1012014	ptz.
+impf
+impf
+1012020	perf
+1012026	perf
+1012031	ptz.
+1012037	perf
+1012041	perf
+1012045	ptz.
+ptz.
+1012053	perf
+1012057	ptz.
+ptz.
+1012063	perf
+1012067	ptz.
+ptz.
+1012076	ptz.
+1012084	ptz.
+1012089	impf
+1012096	ptz.
+1012098	ptz.
+1012102	impf
+impf
+1012114	impf
+impf
+1012117	impf
+1012123	impf
+1012129	ptz.
+1012139	impf
+impf
+1012144	perf
+1012151	perf
+1012154	ptz.
+1012158	impf
+1012166	perf
+perf
+1012172	impf
+1012175	perf
+1012180	impf
+1012185	impf
+1012205	infc
+1012207	ptz.
+1012210	infc
+1012213	infc
+1012221	infc
+1012224	impf
+1012228	impf
+1012237	impf
+1012239	perf
+1012241	impf
+1012245	impf
+1012254	impf
+1012259	impf
+1012263	impf
+1012267	ptz.
+impf
+1012270	impv
+1012273	impv
+1012278	impv
+1012280	koh.
+1012286	infc
+impf
+1012290	infc
+1012299	impf
+1012302	impf
+1012310	perf
+1012314	wayq
+1012316	ptz.
+1012321	ptz.
+ptz.
+1012327	ptz.
+1012329	ptz.
+1012331	ptz.
+1012337	ptz.
+1012346	infc
+1012348	ptz.
+1012352	infc
+1012357	ptz.
+1012359	ptz.
+perf
+1012364	ptz.
+impv
+1012369	ptz.
+impv
+1012374	ptz.
+1012376	impf
+1012378	impf
+1012380	infc
+1012386	impf
+1012388	ptz.
+1012393	ptz.
+1012397	impv
+1012400	impv
+1012404	ptz.
+1012406	ptz.
+1012408	impf
+impf
+1012411	ptz.
+1012419	ptz.
+1012422	ptz.
+1012431	ptz.
+1012439	ptz.
+1012444	ptz.
+1012447	ptz.
+1012452	ptz.
+1012456	impf
+1012461	impf
+1012463	impf
+1012469	impf
+1012471	ptz.
+1012475	impf
+1012477	ptz.
+1012495	ptz.
+1012498	impf
+1012501	impf
+1012506	ptz.
+1012509	impf
+1012512	impf
+1012517	perf
+ptz.
+1012524	perf
+1012528	ptz.
+1012530	impf
+1012533	ptz.
+perf
+1012538	perf
+1012541	perf
+1012543	ptz.
+perf
+1012549	perf
+1012555	impv
+1012557	impf
+1012563	impf
+impf
+1012566	impf
+impv
+1012572	impf
+impf
+1012577	impf
+1012583	impf
+1012588	impf
+1012594	impf
+1012596	impf
+1012598	impf
+1012601	impf
+1012603	impf
+1012606	ptz.
+1012608	infc
+1012610	impf
+1012614	impf
+1012616	impf
+1012620	impf
+1012622	impf
+1012624	ptz.
+1012626	impf
+1012629	ptz.
+1012631	impf
+1012633	pf.cons.
+1012640	impf
+1012642	pf.cons.
+1012648	impf
+1012654	impf
+impf
+impf
+1012658	impf
+1012664	perf
+1012676	impf
+1012679	ptz.
+1012682	impf
+1012689	perf
+perf
+1012693	impf
+1012695	perf
+1012699	perf
+1012701	impf
+1012703	impf
+1012705	perf
+1012716	perf
+1012720	impf
+1012722	ptz.
+1012727	perf
+1012730	wayq
+1012733	ptz.
+1012735	wayq
+1012744	impf
+impf
+1012750	infc
+1012755	impf
+1012759	impf
+1012763	infc
+1012765	ptz.
+1012773	impf
+impv
+1012783	impf
+impf
+1012795	ptz.
+1012798	impf
+ptz.
+1012805	ptz.
+1012807	impf
+1012811	impf
+1012816	infc
+1012819	perf
+1012827	ptz.
+1012829	ptz.
+1012833	ptz.
+1012837	impf
+1012849	impf
+1012858	impf
+1012863	ptz.
+1012886	ptz.
+1012888	impf
+1012893	ptz.
+impf
+impf
+1012898	impf
+1012903	ptz.
+impf
+impf
+1012914	perf
+1012919	perf
+1012925	perf
+ptz.
+1012930	perf
+1012934	ptz.
+1012940	impf
+1012945	impf
+1012952	impf
+impv
+1012958	impv
+1012964	impv
+impv
+1012975	pf.cons.
+1012978	pf.cons.
+1012981	ptz.
+1012983	impf
+impf
+1012990	impv
+1012993	impv
+1012998	impf
+impf
+1013009	ptz.
+1013014	perf
+1013040	infc
+1013049	ptz.
+1013052	infc
+1013058	infc
+1013062	ptz.
+1013071	infc
+1013075	ptz.
+1013078	ptz.
+1013080	ptz.
+1013085	ptz.
+1013090	impf
+1013101	ptz.
+1013108	impf
+1013111	ptz.
+1013113	ptz.
+1013118	ptz.
+ptz.
+1013124	ptz.
+1013132	impf
+1013138	impf
+impf
+1013146	impf
+1013157	infc
+1013159	impv
+1013162	impv
+1013166	impv
+1013170	perf
+1013179	impf
+1013185	impf
+1013194	impf
+1013198	impf
+1013202	impf
+1013206	impf
+1013210	impf
+1013216	impf
+1013219	ptz.
+impf
+1013223	ptz.
+1013225	ptz.
+1013231	impf
+impf
+1013236	infc
+1013240	impf
+1013242	infc
+1013245	perf
+1013247	perf
+1013249	ptz.
+1013256	impf
+impf
+1013260	perf
+1013267	impf
+1013271	ptz.
+1013274	impf
+1013276	ptz.
+1013279	impf
+1013285	perf
+ptz.
+ptz.
+1013290	ptz.
+1013295	perf
+1013297	infc
+1013303	infc
+1013310	perf
+1013312	infc
+1013318	infc
+1013329	ptz.
+impf
+1013333	ptz.
+1013336	perf
+1013342	perf
+perf
+1013348	impf
+1013350	perf
+1013352	infc
+1013357	impf
+1013359	perf
+1013361	infc
+1013366	perf
+1013369	pf.cons.
+1013373	pf.cons.
+1013378	infc
+1013382	impf
+1013387	perf
+1013390	impf
+wayq
+1013398	impf
+1013400	infc
+1013403	perf
+1013405	infc
+1013409	perf
+ptz.
+1013414	impf
+1013417	infc
+1013420	perf
+1013424	impf
+1013436	perf
+1013438	impf
+1013442	impf
+1013447	impv
+1013454	ptz.
+1013460	perf
+1013467	impf
+1013473	impf
+1013478	perf
+1013485	ptz.
+1013488	impv
+impf
+impf
+impf
+1013495	perf
+1013503	impf
+1013506	impf
+1013510	impf
+1013514	impf
+impf
+impv
+impv
+1013525	perf
+impv
+impv
+1013531	impv
+1013535	perf
+1013538	impf
+1013540	impf
+impv
+1013550	impf
+1013552	impf
+impf
+impv
+1013559	impv
+1013564	perf
+1013569	impf
+1013572	impf
+impv
+1013580	impf
+1013582	impf
+1013588	perf
+1013593	impf
+1013599	ptz.
+ptz.
+1013606	impf
+ptz.
+1013620	ptz.
+1013628	ptz.
+1013630	perf
+1013636	ptz.
+impf
+1013648	wayq
+1013656	impv
+1013662	impf
+1013668	ptz.
+1013671	perf
+1013675	wayq
+1013677	impv
+1013681	impf
+1013686	impf
+1013688	impv
+1013691	impv
+1013695	impf
+1013700	impf
+1013702	impf
+impf
+1013707	impf
+1013711	ptz.
+1013715	impf
+1013719	ptz.
+1013726	impf
+1013729	perf
+1013732	ptz.
+1013734	ptz.
+1013740	infc
+1013742	ptz.
+ptz.
+1013753	perf
+1013755	infc
+1013763	impf
+1013768	ptz.
+1013776	perf
+1013778	perf
+1013785	ptz.
+1013795	ptz.
+1013801	perf
+perf
+1013812	ptz.
+1013822	ptz.
+1013825	ptz.
+1013827	ptz.
+1013833	impf
+1013837	impf
+1013843	impf
+impf
+1013853	impv
+1013857	impf
+impv
+1013862	impf
+1013865	impf
+1013871	impf
+1013873	impv
+ptz.
+1013879	impv
+impv
+1013884	impf
+1013888	ptz.
+infc
+1013894	impf
+1013901	impf
+1013907	impf
+1013942	ptz.
+1013958	perf
+ptz.
+1013962	impv
+1013975	impf
+1013977	impf
+1013979	impv
+1013981	infc
+1013983	impv
+1013986	impv
+1013988	ptz.
+1013990	ptz.
+1013995	impf
+1013999	impf
+1014002	infc
+infc
+1014007	impf
+1014013	impf
+1014018	impf
+1014023	ptz.
+impf
+1014027	impf
+1014030	perf
+1014036	impf
+impv
+1014041	impv
+1014047	impf
+1014051	perf
+1014056	impv
+1014072	impv
+ptz.
+ptz.
+1014077	ptz.
+1014079	impf
+1014082	ptz.
+impf
+1014085	ptz.
+1014087	impf
+1014090	ptz.
+impf
+1014093	ptz.
+1014097	impf
+1014099	wayq
+1014102	impv
+1014106	impv
+1014108	impf
+ptz.
+1014111	impf
+1014113	ptz.
+impf
+1014116	ptz.
+1014118	impf
+impf
+1014125	impf
+ptz.
+1014128	impf
+impf
+1014135	impf
+1014144	impf
+1014149	impf
+1014154	impf
+impf
+1014157	infc
+1014161	impf
+1014167	impf
+1014172	impf
+1014178	impf
+1014184	impf
+1014190	impf
+1014196	impf
+1014202	impf
+1014208	impf
+1014213	impf
+1014219	impf
+impf
+1014233	impv
+impv
+1014236	impf
+1014243	impv
+1014247	impv
+1014251	ptz.
+1014253	ptz.
+1014258	impv
+1014261	ptz.
+1014263	ptz.
+1014267	ptz.
+1014269	ptz.
+1014272	ptz.
+1014276	impf
+ptz.
+1014280	impf
+1014287	impf
+ptz.
+1014291	ptz.
+1014298	ptz.
+impf
+1014307	impv
+1014312	impv
+impv
+1014317	impv
+1014343	infc
+infc
+1014347	ptz.
+1014349	ptz.
+1014360	impf
+1014363	impf
+1014366	impf
+1014379	impf
+1014388	impf
+1014392	impf
+1014398	impf
+1014401	impf
+1014407	impf
+1014413	infc
+perf
+1014419	perf
+perf
+1014431	impf
+1014433	impf
+1014435	perf
+1014440	impf
+1014442	impf
+1014444	impf
+1014446	impf
+1014450	ptz.
+ptz.
+1014453	impf
+1014458	impf
+1014463	impf
+ptz.
+1014470	impf
+1014472	impf
+1014480	impf
+1014483	impf
+1014491	impf
+1014495	impf
+1014505	impf
+1014509	pf.cons.
+1014513	impf
+1014523	impv
+1014527	impv
+1014532	impv
+1014537	impf
+1014543	perf
+1014550	impv
+1014558	perf
+1014563	impv
+1014566	impf
+1014569	perf
+1014574	impv
+1014577	impv
+1014579	impv
+1014582	impv
+1014586	impv
+1014589	impv
+1014591	impv
+1014594	impv
+1014596	impv
+1014599	impv
+1014602	impv
+1014604	impv
+1014607	impf
+impv
+1014611	impv
+1014615	impf
+1014618	pf.cons.
+1014620	impf
+impv
+1014627	ptz.
+1014631	impv
+1014636	impf
+1014640	impv
+1014643	perf
+1014648	perf
+impv
+1014655	infc
+impv
+1014667	impv
+1014674	impv
+1014676	perf
+1014679	impv
+1014683	impf
+impf
+1014705	ptz.
+1014713	ptz.
+1014719	ptz.
+1014723	impf
+1014731	ptz.
+1014736	ptz.
+1014740	ptz.
+1014745	ptz.
+1014751	impf
+1014756	impf
+1014760	impf
+1014767	impf
+1014771	perf
+1014778	impf
+impf
+1014792	perf
+1014802	ptz.
+1014808	impf
+1014814	ptz.
+1014816	ptz.
+1014818	impf
+1014822	ptz.
+1014831	ptz.
+1014834	impf
+1014839	ptz.
+perf
+perf
+1014845	ptz.
+ptz.
+1014852	ptz.
+1014856	ptz.
+ptz.
+perf
+1014861	ptz.
+1014863	ptz.
+1014867	ptz.
+ptz.
+1014874	ptz.
+1014879	impf
+1014882	perf
+1014884	infc
+1014890	impf
+1014892	perf
+ptz.
+ptz.
+ptz.
+1014903	impf
+impf
+1014906	ptz.
+ptz.
+1014913	ptz.
+1014917	ptz.
+ptz.
+1014922	impf
+1014925	impf
+1014931	impf
+1014935	infc
+1014939	impf
+1014946	impf
+1014949	ptz.
+impf
+1014954	ptz.
+1014959	ptz.
+ptz.
+1014964	ptz.
+1014968	ptz.
+impv
+1014972	impv
+1014979	impf
+impf
+1014983	impf
+1014985	ptz.
+1014994	infc
+1014997	infc
+1015013	impf
+1015019	ptz.
+ptz.
+1015027	impf
+1015034	ptz.
+1015038	ptz.
+1015041	ptz.
+1015046	ptz.
+1015050	ptz.
+1015055	ptz.
+1015067	ptz.
+1015070	impf
+ptz.
+1015079	impf
+impf
+impf
+1015088	impf
+1015094	perf
+1015096	impf
+impf
+1015099	ptz.
+1015112	impf
+1015116	ptz.
+1015119	ptz.
+1015122	ptz.
+1015129	impv
+1015133	impf
+1015137	impv
+1015154	impf
+1015165	ptz.
+1015171	ptz.
+1015176	ptz.
+1015186	ptz.
+1015188	perf
+ptz.
+1015195	infc
+1015197	ptz.
+1015203	ptz.
+1015209	impf
+impf
+1015220	ptz.
+1015237	impf
+1015240	impf
+ptz.
+1015245	impv
+1015248	impv
+1015253	impf
+1015268	impf
+1015276	impf
+1015282	impf
+impf
+1015288	impf
+impf
+1015292	impf
+impf
+1015298	impf
+1015300	ptz.
+1015306	impf
+1015310	ptz.
+1015312	impf
+impf
+1015317	impf
+ptz.
+1015321	ptz.
+ptz.
+1015327	impf
+1015329	perf
+1015331	ptz.
+impf
+1015334	impf
+1015337	infc
+1015340	perf
+1015346	perf
+1015351	impf
+ptz.
+1015357	impf
+1015360	ptz.
+impf
+1015367	impf
+impf
+1015373	ptz.
+1015377	ptz.
+1015379	impf
+1015381	perf
+1015387	perf
+1015392	infc
+1015400	wayq
+1015405	infc
+1015411	ptz.
+impf
+1015416	ptz.
+ptz.
+1015422	impf
+1015429	impf
+1015439	impf
+impv
+1015452	infc
+1015458	impv
+1015460	impv
+1015463	infc
+1015469	impv
+1015476	impv
+1015481	ptz.
+impv
+1015486	impf
+1015493	impf
+1015512	impf
+1015517	impf
+1015519	impf
+impf
+1015528	impf
+1015530	ptz.
+1015533	ptz.
+impf
+1015537	ptz.
+impf
+1015543	ptz.
+impv
+1015546	impv
+1015548	impv
+1015552	impv
+1015558	impf
+1015561	impv
+1015566	impf
+1015569	impv
+impv
+1015573	impv
+1015576	impv
+1015579	ptz.
+1015588	impv
+1015594	impv
+1015597	ptz.
+1015602	impf
+1015605	impf
+1015609	impv
+1015612	impv
+1015614	impf
+1015617	impv
+impv
+1015630	impf
+1015636	impf
+1015639	impf
+ptz.
+ptz.
+pf.cons.
+1015645	impv
+1015647	infc
+1015650	infc
+ptz.
+impf
+1015655	ptz.
+impf
+1015662	impf
+1015664	impf
+ptz.
+1015668	ptz.
+1015671	ptz.
+1015674	impf
+impf
+1015677	infc
+1015688	impf
+1015694	infc
+1015697	impf
+1015699	infc
+1015701	perf
+1015704	ptz.
+1015707	impf
+1015719	impf
+1015730	impf
+1015737	impf
+1015740	impf
+1015748	impf
+1015760	ptz.
+1015764	ptz.
+1015770	impf
+1015784	ptz.
+1015790	infc
+1015799	perf
+ptz.
+1015803	infc
+1015812	impf
+1015815	impf
+1015819	perf
+1015824	perf
+1015828	impf
+1015830	impf
+1015834	perf
+1015836	impf
+1015840	impf
+1015846	perf
+perf
+1015880	impf
+1015886	perf
+1015893	impf
+1015905	perf
+1015915	infc
+1015917	infc
+1015922	perf
+1015930	impf
+impf
+1015933	perf
+1015939	infc
+1015941	impf
+1015946	impf
+1015952	perf
+1015954	perf
+1015958	perf
+1015966	ptz.
+1015969	impf
+impf
+1015973	infc
+1015982	impf
+1015986	impf
+1015991	impv
+1015993	impv
+1015999	perf
+perf
+1016010	infc
+1016016	infc
+1016025	ptz.
+1016031	infc
+1016038	ptz.
+perf
+ptz.
+1016042	ptz.
+1016048	ptz.
+1016051	ptz.
+1016061	infc
+1016066	impf
+impf
+1016072	impf
+1016076	infc
+1016079	impf
+1016091	ptz.
+perf
+1016095	infc
+1016112	perf
+1016117	impf
+1016125	impf
+1016132	impf
+1016167	infc
+1016170	impf
+1016175	impf
+infc
+ptz.
+1016181	impf
+1016195	impf
+1016214	perf
+1016217	perf
+1016223	impf
+1016228	impf
+1016233	impf
+1016237	ptz.
+1016245	impf
+1016250	ptz.
+1016255	impf
+1016261	ptz.
+1016265	impf
+1016275	impf
+1016284	impf
+1016293	impf
+1016295	ptz.
+1016302	ptz.
+1016313	ptz.
+1016319	infc
+1016340	impf
+1016355	infc
+1016366	perf
+perf
+1016371	impf
+1016373	ptz.
+1016375	ptz.
+1016378	ptz.
+1016385	infc
+1016387	ptz.
+1016395	ptz.
+1016398	ptz.
+1016405	ptz.
+1016410	impf
+1016415	impf
+1016421	ptz.
+1016424	ptz.
+1016432	impf
+1016435	ptz.
+1016441	ptz.
+1016449	infc
+1016466	ptz.
+impf
+impf
+1016471	perf
+1016475	ptz.
+perf
+1016483	ptz.
+ptz.
+1016486	ptz.
+1016489	ptz.
+ptz.
+1016493	ptz.
+1016496	ptz.
+1016499	ptz.
+ptz.
+1016502	ptz.
+1016505	ptz.
+1016508	ptz.
+1016511	impf
+1016515	impv
+1016529	impf
+1016546	ptz.
+1016557	ptz.
+1016568	impf
+1016573	impf
+1016576	impf
+1016578	impf
+1016584	ptz.
+1016588	impf
+impf
+1016595	impf
+1016603	impf
+1016629	impf
+1016631	impv
+1016636	impf
+1016663	ptz.
+1016666	ptz.
+1016673	ptz.
+1016677	ptz.
+1016681	ptz.
+1016685	impf
+1016691	impv
+1016694	impv
+1016700	ptz.
+1016702	infc
+1016706	infc
+ptz.
+1016709	impv
+1016718	ptz.
+1016751	impf
+1016765	infc
+1016768	infc
+1016773	perf
+infc
+1016782	infc
+1016785	ptz.
+infc
+1016788	ptz.
+1016790	infc
+1016799	infc
+1016801	perf
+1016803	ptz.
+1016812	impf
+1016823	pf.cons.
+ptz.
+1016828	ptz.
+1016838	impf
+1016841	impf
+1016858	ptz.
+1016870	ptz.
+1016913	impf
+1016923	impf
+1016926	impf
+1016928	impf
+1016938	impf
+1016946	ptz.
+1016950	ptz.
+1016954	ptz.
+1016956	ptz.
+1016961	pf.cons.
+1016975	ptz.
+1016977	ptz.
+1016986	impf
+1016991	impf
+1017002	impf
+1017010	impf
+1017015	impf
+impf
+1017018	ptz.
+1017025	impf
+1017029	impf
+1017035	impf
+1017040	ptz.
+1017044	impv
+1017055	perf
+1017060	pf.cons.
+1017067	perf
+1017072	impf
+1017074	impf
+1017078	ptz.
+1017081	impf
+1017086	impf
+1017092	impf
+1017094	impf
+1017098	impf
+perf
+1017114	ptz.
+impf
+1017125	ptz.
+ptz.
+impf
+1017129	impf
+1017135	perf
+1017137	koh.
+1017144	ptz.
+1017148	perf
+1017151	ptz.
+1017154	perf
+1017162	perf
+1017166	infc
+ptz.
+1017169	perf
+1017173	infc
+1017180	infc
+1017184	perf
+1017190	impf
+ptz.
+1017193	ptz.
+1017195	ptz.
+1017197	ptz.
+1017199	ptz.
+1017201	perf
+1017207	perf
+1017210	perf
+1017216	perf
+1017223	perf
+1017226	perf
+1017232	ptz.
+1017239	perf
+1017245	perf
+ptz.
+1017249	impf
+1017254	perf
+1017258	impf
+1017260	infc
+1017270	ptz.
+1017273	ptz.
+ptz.
+1017278	perf
+1017280	ptz.
+1017284	ptz.
+1017286	infc
+1017288	infc
+impf
+1017295	impf
+1017297	ptz.
+ptz.
+1017300	ptz.
+1017303	impf
+1017307	impf
+ptz.
+1017312	impf
+1017315	ptz.
+impf
+1017319	perf
+1017321	ptz.
+1017324	impf
+1017329	perf
+impf
+1017334	impf
+1017337	ptz.
+1017365	ptz.
+1017367	ptz.
+1017369	infc
+1017374	ptz.
+1017384	ptz.
+1017392	impf
+1017398	ptz.
+1017405	impf
+1017409	impf
+impf
+1017413	impf
+impv
+1017417	impv
+ptz.
+1017421	perf
+perf
+1017425	ptz.
+perf
+1017428	perf
+perf
+1017437	perf
+1017441	perf
+1017446	impf
+1017449	impf
+1017455	impf
+1017458	impf
+1017461	impf
+1017467	perf
+1017470	wayq
+1017478	impf
+1017487	impf
+1017492	impf
+1017495	impf
+1017501	impf
+1017506	impf
+1017510	infc
+1017513	impf
+impf
+1017516	impf
+1017518	impf
+1017524	impf
+1017527	impf
+impf
+1017532	impf
+1017536	impf
+1017541	impf
+1017545	impf
+1017553	impf
+1017566	ptz.
+ptz.
+1017570	infc
+infc
+1017574	ptz.
+ptz.
+1017577	ptz.
+1017579	impf
+1017583	wayq
+wayq
+1017590	ptz.
+1017592	impf
+1017597	impf
+1017610	impf
+1017615	impf
+1017623	impf
+1017634	impf
+1017641	impf
+1017645	ptz.
+1017648	impv
+1017652	impf
+1017656	ptz.
+impf
+1017661	impf
+1017664	impf
+ptz.
+impv
+1017670	impf
+1017673	impf
+1017675	ptz.
+1017678	ptz.
+1017683	perf
+1017691	impf
+1017701	perf
+perf
+1017708	perf
+perf
+1017723	ptz.
+1017727	ptz.
+1017731	ptz.
+1017734	ptz.
+1017750	ptz.
+1017753	ptz.
+1017757	ptz.
+1017765	ptz.
+1017768	ptz.
+1017779	perf
+1017785	perf
+1017788	infc
+1017792	infc
+1017794	infc
+1017803	wayq
+1017806	perf
+1017810	perf
+perf
+1017826	perf
+1017832	impf
+1017838	impf
+1017842	impf
+1017845	perf
+1017848	perf
+1017851	perf
+1017860	perf
+1017865	perf
+1017869	perf
+1017874	perf
+1017879	perf
+1017883	infc
+1017886	perf
+1017892	perf
+1017898	perf
+1017902	perf
+1017908	perf
+1017914	perf
+ptz.
+1017920	perf
+1017923	infc
+1017928	infc
+1017945	perf
+perf
+1017955	perf
+1017959	perf
+1017964	wayq
+1017968	wayq
+1017972	wayq
+1017978	infc
+1017982	wayq
+1017985	ptz.
+1017992	wayq
+1017996	perf
+1018006	wayq
+1018014	wayq
+1018023	perf
+1018031	wayq
+1018035	wayq
+1018044	infc
+1018055	wayq
+1018059	wayq
+1018067	wayq
+1018072	wayq
+1018076	wayq
+1018080	wayq
+1018087	wayq
+1018092	wayq
+1018097	wayq
+1018107	wayq
+1018114	infc
+1018119	infc
+1018135	ptz.
+1018161	ptz.
+1018184	perf
+perf
+1018197	impf
+1018204	wayq
+1018209	wayq
+1018214	wayq
+1018225	infc
+1018228	infc
+1018232	infc
+1018238	wayq
+1018244	infc
+1018250	infc
+1018257	infc
+1018262	wayq
+1018266	wayq
+1018272	wayq
+1018282	wayq
+1018286	wayq
+1018301	wayq
+1018304	wayq
+1018306	wayq
+1018311	wayq
+1018315	wayq
+1018323	wayq
+1018327	perf
+1018332	impf
+1018342	impf
+1018344	impf
+impf
+1018358	infc
+1018363	wayq
+1018371	wayq
+1018379	perf
+1018384	infc
+1018387	impf
+1018419	impv
+1018424	ptz.
+1018428	impf
+1018435	impf
+1018447	ptz.
+1018452	perf
+1018454	infc
+1018462	infc
+1018467	infc
+1018471	perf
+1018473	infc
+1018476	infc
+1018484	impf
+1018488	perf
+1018493	perf
+1018498	perf
+1018503	infc
+1018505	wayq
+1018515	infc
+1018520	ptz.
+1018526	perf
+1018533	perf
+1018541	infc
+1018543	infc
+1018546	infc
+1018552	infc
+1018560	perf
+1018567	infc
+1018571	ptz.
+1018576	wayq
+1018583	perf
+1018586	infc
+1018593	perf
+1018597	infc
+1018604	infc
+1018608	ptz.
+1018615	perf
+1018619	perf
+1018623	impf
+1018632	ptz.
+ptz.
+1018635	ptz.
+ptz.
+ptz.
+1018646	ptz.
+1018648	ptz.
+1018651	perf
+1018654	wayq
+1018658	perf
+1018665	infc
+1018667	perf
+ptz.
+1018677	infc
+1018681	perf
+1018684	wayq
+1018689	wayq
+wayq
+1018697	infc
+1018700	perf
+1018708	ptz.
+1018715	perf
+1018722	ptz.
+perf
+1018736	perf
+1018738	wayq
+1018743	wayq
+1018752	perf
+1018755	infc
+1018762	ptz.
+1018772	perf
+1018783	perf
+1018786	wayq
+1018790	infc
+1018796	wayq
+wayq
+1018801	perf
+1018806	wayq
+1018811	infc
+1018814	ptz.
+1018818	infc
+1018823	perf
+1018827	wayq
+1018831	infc
+1018833	perf
+1018837	perf
+1018840	wayq
+1018847	perf
+1018852	perf
+1018861	ptz.
+ptz.
+1018867	perf
+1018871	perf
+1018873	infc
+1018880	impf
+impf
+1018886	perf
+1018889	wayq
+1018894	wayq
+1018900	perf
+1018906	perf
+1018909	ptz.
+ptz.
+1018914	perf
+1018921	perf
+1018926	perf
+1018931	wayq
+1018936	perf
+1018940	wayq
+1018945	perf
+1018947	wayq
+1018959	perf
+perf
+1018963	ptz.
+ptz.
+1018968	wayq
+1018975	perf
+1018978	wayq
+1018983	wayq
+1018987	impf
+1018992	impf
+1019008	impf
+1019012	impf
+1019019	ptz.
+1019021	impf
+1019023	wayq
+1019025	wayq
+1019027	ptz.
+1019029	wayq
+1019038	perf
+1019044	perf
+1019046	impf
+1019053	perf
+1019055	wayq
+1019059	wayq
+1019064	infc
+1019068	wayq
+1019075	perf
+1019078	perf
+1019086	ptz.
+1019088	wayq
+1019095	perf
+1019099	perf
+1019105	ptz.
+1019108	ptz.
+ptz.
+1019118	ptz.
+1019123	ptz.
+1019126	ptz.
+1019134	perf
+1019143	ptz.
+1019151	ptz.
+ptz.
+1019156	infc
+1019161	infc
+1019168	infc
+perf
+1019171	perf
+1019176	perf
+1019185	perf
+1019190	perf
+1019198	perf
+1019202	perf
+ptz.
+1019213	perf
+1019217	perf
+1019224	perf
+1019229	wayq
+1019240	perf
+1019245	perf
+1019248	perf
+1019251	infc
+1019256	wayq
+1019261	wayq
+1019266	perf
+1019269	wayq
+1019274	wayq
+1019278	perf
+1019283	wayq
+1019285	ptz.
+1019287	wayq
+1019293	wayq
+wayq
+1019298	wayq
+1019303	wayq
+1019309	wayq
+1019316	wayq
+1019323	perf
+1019326	wayq
+1019331	perf
+infc
+1019334	ptz.
+1019337	infc
+1019343	ptz.
+1019345	ptz.
+1019350	impf
+1019359	perf
+perf
+1019365	wayq
+1019370	wayq
+wayq
+1019379	perf
+1019389	wayq
+1019395	infc
+1019397	wayq
+1019408	wayq
+1019413	wayq
+impf
+1019420	perf
+1019425	perf
+1019428	infc
+1019431	infc
+1019434	infc
+1019436	infc
+1019440	infc
+1019442	infc
+1019445	infc
+1019447	perf
+1019450	wayq
+1019455	perf
+1019459	ptz.
+1019468	impf
+1019470	ptz.
+1019473	perf
+1019477	wayq
+1019479	impf
+1019481	wayq
+1019484	ptz.
+1019489	impf
+impf
+1019492	ptz.
+1019496	wayq
+1019500	wayq
+1019505	perf
+1019513	perf
+1019518	perf
+1019523	perf
+1019530	perf
+1019549	perf
+1019554	perf
+1019559	perf
+1019568	perf
+1019575	ptz.
+1019583	ptz.
+1019588	perf
+ptz.
+1019591	infc
+1019596	infc
+1019604	ptz.
+1019613	ptz.
+1019620	ptz.
+1019627	ptz.
+1019662	ptz.
+1019675	ptz.
+1019678	infc
+1019682	infc
+1019686	infc
+1019691	impf
+1019695	infc
+1019702	perf
+1019715	wayq
+1019734	infc
+1019736	infc
+1019740	infc
+1019744	impf
+1019752	wayq
+1019754	wayq
+1019758	infc
+1019765	perf
+1019767	wayq
+1019772	infc
+1019781	wayq
+1019787	perf
+1019790	wayq
+1019800	infc
+1019802	infc
+1019806	perf
+1019809	perf
+1019811	perf
+1019826	perf
+1019828	wayq
+1019830	infc
+1019833	impv
+1019839	ptz.
+1019841	infc
+1019844	ptz.
+1019849	impf
+1019852	impf
+1019857	impf
+1019861	impf
+1019866	impf
+1019872	impf
+1019883	ptz.
+1019889	ptz.
+1019896	ptz.
+1019913	perf
+perf
+1019916	infc
+1019920	perf
+1019927	impf
+1019929	ptz.
+1019932	impf
+1019937	impf
+1019940	impf
+1019943	koh.
+1019948	perf
+1019952	perf
+1019960	perf
+1019962	perf
+1019973	ptz.
+ptz.
+1019977	ptz.
+perf
+1019980	perf
+1019986	ptz.
+1019991	ptz.
+1019996	perf
+1020009	perf
+1020018	ptz.
+1020025	wayq
+1020035	wayq
+1020039	ptz.
+1020042	wayq
+ptz.
+1020047	koh.
+1020056	ptz.
+1020058	ptz.
+1020061	impf
+1020068	wayq
+1020077	impf
+1020086	koh.
+1020090	impf
+1020094	perf
+1020098	wayq
+1020101	wayq
+1020106	wayq
+1020112	perf
+1020114	koh.
+1020116	koh.
+1020120	impv
+1020129	impv
+1020139	impv
+1020141	ptz.
+1020147	impv
+1020149	ptz.
+1020155	impv
+1020157	ptz.
+1020163	impv
+1020165	ptz.
+ptz.
+1020172	impv
+1020174	ptz.
+1020182	impv
+1020184	ptz.
+1020193	impv
+1020195	ptz.
+1020200	infc
+1020205	impv
+1020213	impv
+1020221	impv
+1020229	impv
+1020231	ptz.
+1020238	impv
+1020248	wayq
+1020261	impv
+1020265	perf
+1020267	perf
+1020270	perf
+1020273	perf
+1020279	perf
+1020281	wayq
+1020287	perf
+1020290	perf
+1020294	impf
+1020296	perf
+1020298	infc
+1020301	impf
+1020303	impf
+perf
+1020310	impf
+1020313	perf
+1020320	impf
+1020323	perf
+1020327	impf
+impf
+1020333	perf
+1020336	perf
+1020344	impf
+impf
+1020349	infc
+1020354	perf
+1020357	perf
+1020365	impf
+impv
+1020370	impv
+1020376	impf
+1020385	impf
+1020387	perf
+1020389	perf
+1020391	impv
+1020401	impv
+1020404	impf
+1020409	ptz.
+1020411	ptz.
+1020413	ptz.
+1020415	impv
+1020420	perf
+1020422	perf
+1020425	perf
+1020427	perf
+1020435	impf
+1020437	impf
+1020443	impf
+1020447	impv
+1020452	ptz.
+1020457	ptz.
+1020462	ptz.
+1020475	perf
+1020486	impf
+1020489	ptz.
+1020498	impf
+impf
+1020505	impf
+impf
+1020513	ptz.
+1020516	ptz.
+ptz.
+1020520	ptz.
+1020522	impf
+1020530	impv
+1020535	impf
+1020540	impf
+1020546	impf
+1020551	impf
+1020556	impf
+1020559	perf
+1020563	impf
+1020568	ptz.
+1020570	infc
+1020574	infc
+ptz.
+1020579	ptz.
+1020587	ptz.
+1020597	impf
+1020599	ptz.
+1020601	ptz.
+1020604	ptz.
+ptz.
+1020608	impf
+1020614	impf
+1020619	impf
+1020624	impf
+1020628	impf
+impf
+1020635	ptz.
+1020639	impf
+1020641	ptz.
+1020643	infc
+1020645	impf
+perf
+1020649	impf
+1020658	impf
+1020660	infc
+1020665	pf.cons.
+1020671	impf
+1020680	impf
+1020683	impf
+1020685	infc
+1020689	impf
+1020696	impf
+1020702	impf
+1020704	impf
+ptz.
+1020711	impf
+1020715	impv
+ptz.
+1020721	impf
+1020723	impv
+ptz.
+1020732	impf
+ptz.
+1020737	impv
+1020742	impv
+1020751	ptz.
+1020753	ptz.
+1020755	impf
+1020760	ptz.
+impf
+1020766	impf
+ptz.
+1020771	ptz.
+1020775	impf
+1020784	ptz.
+impf
+impf
+1020792	impf
+1020800	ptz.
+1020803	perf
+ptz.
+1020807	impv
+1020810	impf
+impf
+1020813	infc
+1020816	ptz.
+ptz.
+ptz.
+1020821	ptz.
+infc
+1020827	impf
+1020829	ptz.
+1020834	impf
+1020839	ptz.
+1020845	impf
+1020850	impf
+perf
+1020856	impf
+1020858	ptz.
+impv
+1020862	ptz.
+impv
+ptz.
+1020870	ptz.
+perf
+1020875	ptz.
+1020885	impf
+1020889	ptz.
+impf
+1020897	impv
+1020902	impf
+1020905	ptz.
+1020908	ptz.
+impv
+1020911	impf
+1020916	impf
+1020920	impf
+impf
+1020927	impv
+1020929	infc
+1020934	impf
+1020936	impf
+1020938	impv
+1020943	impf
+1020953	impf
+1020955	infc
+1020961	infc
+1020965	impv
+1020973	impf
+1020975	ptz.
+1020980	ptz.
+1020983	ptz.
+impv
+1020988	impf
+1020993	impv
+1020996	impv
+1021002	impv
+1021005	impf
+1021008	impv
+1021011	impf
+pf.cons.
+1021014	impv
+1021016	impf
+1021018	impf
+1021027	impf
+ptz.
+1021030	ptz.
+1021036	ptz.
+1021040	ptz.
+ptz.
+1021043	impf
+1021051	impf
+1021054	ptz.
+1021057	ptz.
+1021061	ptz.
+1021067	ptz.
+1021069	perf
+1021072	impf
+1021078	impf
+1021084	ptz.
+1021094	ptz.
+1021096	perf
+1021102	impf
+impf
+1021111	impf
+1021115	ptz.
+impf
+1021118	impf
+1021131	impf
+1021133	ptz.
+1021142	ptz.
+1021145	ptz.
+1021149	ptz.
+1021158	impf
+1021162	impf
+1021168	impf
+1021180	ptz.
+1021182	infc
+1021184	perf
+1021190	infc
+1021192	perf
+1021194	infc
+1021196	ptz.
+1021198	perf
+1021204	ptz.
+1021208	ptz.
+1021213	ptz.
+1021215	impf
+1021218	impf
+1021223	ptz.
+1021225	impf
+1021228	impf
+1021234	impf
+impf
+1021239	impf
+1021246	perf
+1021251	pf.cons.
+1021258	perf
+1021264	ptz.
+1021269	ptz.
+1021272	ptz.
+1021291	impf
+1021295	impf
+1021300	infc
+1021303	impf
+1021309	infc
+impf
+1021317	ptz.
+impf
+1021330	ptz.
+1021332	impf
+1021341	impf
+1021347	ptz.
+1021357	impf
+impf
+1021368	perf
+1021380	impf
+1021389	ptz.
+1021391	impf
+1021394	impf
+1021404	ptz.
+1021407	ptz.
+1021417	ptz.
+1021436	impf
+1021447	perf
+1021454	perf
+1021458	impf
+1021464	ptz.
+1021466	ptz.
+impf
+1021472	ptz.
+1021483	ptz.
+1021486	impf
+ptz.
+1021497	ptz.
+1021505	ptz.
+1021507	ptz.
+1021510	ptz.
+impv
+1021515	impf
+1021519	impv
+1021523	ptz.
+1021527	impv
+1021530	impv
+1021537	impv
+1021539	impf
+1021542	impv
+1021545	ptz.
+1021547	impv
+1021549	impf
+1021553	impv
+1021558	impv
+impv
+ptz.
+impf
+impv
+1021565	perf
+1021578	impv
+1021582	impf
+1021584	impv
+1021593	impf
+1021596	impf
+1021598	ptz.
+1021602	impv
+1021610	impf
+1021612	impf
+impf
+1021617	impf
+1021621	impf
+1021625	impf
+1021631	impf
+1021634	pf.cons.
+1021637	perf
+1021640	ptz.
+1021649	impf
+1021654	impf
+1021658	impf
+1021660	ptz.
+1021663	impv
+1021670	impf
+1021674	impf
+1021677	impf
+1021682	impf
+1021685	impf
+1021688	ptz.
+1021695	infc
+1021698	impf
+impf
+1021708	perf
+1021710	ptz.
+1021712	impf
+1021717	perf
+1021719	ptz.
+1021721	impf
+1021723	ptz.
+1021727	impf
+1021731	impf
+1021733	impf
+1021740	impf
+1021744	impf
+1021749	impf
+1021755	ptz.
+impf
+impf
+1021759	infc
+1021765	impf
+impf
+1021775	impf
+1021781	ptz.
+1021783	ptz.
+impf
+1021788	ptz.
+1021799	ptz.
+1021802	impf
+1021804	ptz.
+ptz.
+perf
+1021809	ptz.
+1021811	ptz.
+1021815	ptz.
+ptz.
+1021821	ptz.
+1021826	impf
+1021828	perf
+1021830	infc
+1021834	ptz.
+1021837	ptz.
+ptz.
+1021848	perf
+ptz.
+1021851	ptz.
+1021857	impf
+1021860	impf
+1021866	impf
+1021870	infc
+1021872	ptz.
+ptz.
+impv
+1021877	ptz.
+1021881	ptz.
+impv
+1021885	impv
+1021893	impf
+1021900	impf
+1021902	impf
+1021905	infc
+1021908	perf
+1021912	infc
+1021916	impf
+1021919	ptz.
+1021922	ptz.
+impv
+1021934	impf
+1021938	ptz.
+1021952	ptz.
+1021963	ptz.
+1021965	impf
+ptz.
+1021975	impf
+impf
+1021989	ptz.
+1021993	ptz.
+1022000	impv
+1022004	impf
+1022016	wayq
+1022024	ptz.
+1022031	ptz.
+1022039	ptz.
+1022045	infc
+1022047	impf
+1022053	ptz.
+1022059	ptz.
+1022069	impf
+impf
+1022099	impf
+1022102	impf
+1022104	ptz.
+1022107	impf
+1022111	ptz.
+1022118	impv
+1022121	impv
+1022125	impf
+1022140	impf
+1022142	impf
+1022147	impf
+impf
+impf
+1022157	impf
+1022159	ptz.
+1022162	ptz.
+ptz.
+impf
+1022171	perf
+1022173	ptz.
+impf
+1022176	impf
+impf
+1022183	impf
+1022185	impf
+impf
+1022190	impf
+impf
+1022194	infc
+1022196	impf
+1022199	impf
+1022209	impf
+1022211	impf
+1022216	impf
+1022223	impv
+1022225	impf
+1022231	impf
+1022233	pf.cons.
+ptz.
+1022237	ptz.
+1022241	impf
+ptz.
+1022245	ptz.
+1022252	impf
+1022258	impf
+impf
+1022264	ptz.
+1022266	ptz.
+ptz.
+1022270	impf
+impf
+1022275	perf
+1022283	perf
+1022289	perf
+1022292	perf
+1022301	perf
+1022306	impf
+1022308	wayq
+1022310	ptz.
+1022313	wayq
+1022317	perf
+1022322	infc
+1022326	infc
+1022343	impv
+1022353	perf
+1022356	perf
+1022361	perf
+1022364	ptz.
+perf
+impv
+1022371	perf
+1022375	ptz.
+impv
+1022382	ptz.
+1022387	ptz.
+1022391	impf
+1022403	impf
+impf
+1022407	impf
+1022413	infc
+1022415	infc
+1022419	infc
+1022423	infc
+1022429	impv
+1022433	impf
+1022445	impv
+1022458	impv
+1022462	impf
+1022466	perf
+1022468	impf
+impv
+1022473	impf
+1022475	infc
+1022478	ptz.
+1022483	impf
+1022493	impf
+1022502	impv
+1022504	impf
+1022508	perf
+impf
+perf
+1022512	perf
+1022516	impf
+1022521	impf
+1022523	ptz.
+1022532	impf
+1022534	ptz.
+1022545	ptz.
+1022549	impf
+1022561	ptz.
+1022566	ptz.
+ptz.
+1022570	ptz.
+1022575	impf
+1022579	impf
+1022585	impf
+1022589	impf
+1022594	impf
+1022601	perf
+1022603	impf
+1022609	impf
+1022611	impv
+1022616	impv
+1022620	impf
+impv
+1022626	impf
+1022629	impf
+1022635	impf
+1022637	impv
+1022643	impv
+1022647	impf
+1022686	impv
+1022688	ptz.
+1022694	impf
+1022697	impv
+1022702	impv
+ptz.
+ptz.
+1022709	ptz.
+impf
+1022714	impf
+1022716	wayq
+1022720	impf
+impf
+1022727	ptz.
+1022729	impf
+impf
+1022733	impf
+1022736	impf
+1022740	impf
+impf
+1022744	infc
+1022748	impf
+1022751	impf
+1022755	impf
+1022759	impf
+1022766	impf
+1022772	impf
+1022777	impf
+1022782	impf
+1022789	impv
+1022791	ptz.
+1022794	impf
+1022800	impf
+1022802	pf.cons.
+ptz.
+1022805	ptz.
+1022808	ptz.
+1022812	impf
+1022814	impf
+ptz.
+1022818	ptz.
+1022823	impv
+1022827	impf
+1022830	impf
+impf
+1022838	ptz.
+1022842	ptz.
+ptz.
+ptz.
+1022847	ptz.
+impf
+impf
+1022855	perf
+1022857	ptz.
+1022864	perf
+1022873	perf
+1022875	impf
+impf
+perf
+1022881	ptz.
+1022889	impf
+1022898	perf
+1022903	impf
+1022908	impf
+1022913	impf
+1022917	ptz.
+1022919	impf
+1022924	ptz.
+1022928	infc
+1022935	perf
+perf
+1022938	ptz.
+1022942	ptz.
+1022951	impf
+1022957	ptz.
+1022962	ptz.
+1022969	infc
+1022984	ptz.
+1022987	ptz.
+1022990	ptz.
+1022993	impf
+1022995	impv
+1023006	perf
+ptz.
+1023010	impf
+1023013	impf
+1023016	perf
+1023019	ptz.
+1023024	impf
+1023032	impf
+1023042	impv
+1023047	impf
+1023059	ptz.
+1023062	ptz.
+1023068	ptz.
+1023072	ptz.
+1023076	impv
+1023079	impv
+1023087	infc
+1023091	infc
+ptz.
+impv
+1023127	impf
+1023131	infc
+1023139	infc
+1023143	infc
+1023148	infc
+1023150	perf
+1023152	infc
+1023154	infc
+1023158	infc
+1023163	ptz.
+1023171	infc
+1023181	pf.cons.
+1023186	ptz.
+1023196	impf
+1023199	impf
+1023240	ptz.
+1023251	ptz.
+ptz.
+ptz.
+1023257	pf.cons.
+1023273	impf
+1023278	impf
+1023282	impf
+1023287	impv
+1023296	impf
+1023298	impf
+1023303	impf
+1023308	impf
+perf
+1023323	ptz.
+ptz.
+1023330	koh.
+1023336	perf
+1023338	koh.
+impf
+1023344	perf
+1023346	koh.
+1023353	ptz.
+1023356	perf
+1023360	ptz.
+1023363	perf
+1023367	infc
+1023369	ptz.
+perf
+1023374	infc
+1023379	perf
+1023386	impf
+1023388	perf
+1023392	ptz.
+ptz.
+1023395	ptz.
+1023398	ptz.
+1023400	ptz.
+1023402	perf
+1023408	perf
+1023419	perf
+1023424	ptz.
+1023428	infc
+1023434	ptz.
+1023442	ptz.
+1023447	perf
+1023451	impf
+1023453	infc
+1023462	ptz.
+1023464	infc
+ptz.
+1023467	ptz.
+1023472	infc
+impf
+1023479	impf
+1023481	ptz.
+1023485	impf
+ptz.
+1023490	ptz.
+1023494	pf.cons.
+1023504	ptz.
+1023509	ptz.
+1023518	ptz.
+1023524	impf
+1023528	impf
+impf
+1023534	impv
+1023537	impv
+ptz.
+1023540	perf
+1023548	perf
+1023554	impf
+1023559	perf
+1023562	wayq
+1023567	perf
+1023570	impf
+1023575	impf
+1023580	impf
+1023583	impf
+impf
+1023593	impf
+1023598	impf
+infc
+1023602	impf
+1023607	impf
+1023612	impf
+1023614	wayq
+1023618	impf
+1023622	impf
+1023626	impf
+1023632	perf
+1023642	perf
+perf
+1023649	ptz.
+1023653	ptz.
+1023670	ptz.
+ptz.
+1023675	ptz.
+1023680	ptz.
+1023684	perf
+1023687	perf
+1023702	perf
+1023706	perf
+ptz.
+1023713	impf
+1023718	impf
+1023723	perf
+1023733	perf
+1023749	impv
+1023774	impf
+1023841	perf
+1023856	ptz.
+1023879	ptz.
+1023905	ptz.
+1023911	ptz.
+1023947	impf
+ptz.
+1023968	ptz.
+1023974	perf
+1023998	perf
+1024000	perf
+1024003	perf
+1024013	impf
+ptz.
+1024031	ptz.
+1024046	ptz.
+1024050	perf
+1024058	perf
+1024072	perf
+1024079	perf
+1024091	impf
+ptz.
+1024097	ptz.
+1024099	ptz.
+1024102	impf
+ptz.
+1024136	ptz.
+1024141	perf
+1024145	ptz.
+1024163	perf
+1024181	ptz.
+1024187	perf
+1024195	perf
+1024201	perf
+1024210	perf
+1024218	perf
+1024232	ptz.
+1024247	perf
+1024250	ptz.
+1024281	perf
+1024302	perf
+1024319	ptz.
+1024331	perf
+1024351	perf
+1024374	ptz.
+1024400	ptz.
+1024421	ptz.
+1024426	perf
+1024442	ptz.
+1024444	ptz.
+1024453	impf
+1024460	impf
+1024466	infc
+1024495	perf
+1024534	ptz.
+impf
+1024540	perf
+1024549	ptz.
+1024564	ptz.
+1024567	perf
+1024570	perf
+perf
+1024576	impf
+ptz.
+ptz.
+1024582	perf
+1024584	impv
+1024586	infc
+1024594	perf
+1024598	perf
+1024615	ptz.
+1024629	ptz.
+1024634	impf
+1024643	ptz.
+1024651	perf
+1024663	pf.cons.
+impf
+1024676	impf
+1024687	impf
+1024689	infc
+1024691	impv
+1024693	impv
+1024696	impv
+1024704	impf
+1024714	impf
+1024729	perf
+1024747	impf
+1024750	impf
+ptz.
+1024758	ptz.
+1024760	ptz.
+1024779	impv
+1024782	perf
+1024791	impv
+1024794	perf
+1024879	ptz.
+1024889	impf
+1024891	impf
+1024893	impf
+1024901	impf
+1024911	impf
+1024931	perf
+1024934	perf
+perf
+1024969	ptz.
+1024976	perf
+1024999	ptz.
+1025009	ptz.
+1025024	perf
+1025040	ptz.
+1025045	ptz.
+1025059	ptz.
+1025068	perf
+1025080	ptz.
+1025085	ptz.
+1025096	ptz.
+1025104	impf
+1025108	ptz.
+1025114	perf
+1025127	ptz.
+1025150	ptz.
+ptz.
+1025173	infc
+1025194	ptz.
+1025205	perf
+1025216	perf
+1025226	perf
+1025263	perf
+1025270	ptz.
+1025275	perf
+1025293	perf
+1025310	perf
+1025315	ptz.
+1025322	impf
+ptz.
+1025325	ptz.
+1025333	impf
+1025341	impf
+1025355	perf
+1025366	impf
+1025369	impf
+1025373	impf
+1025378	infc
+1025388	ptz.
+1025438	perf
+1025453	ptz.
+1025458	perf
+1025463	ptz.
+1025469	ptz.
+1025472	perf
+1025499	perf
+1025509	impf
+1025515	impf
+impf
+1025522	impf
+1025531	impf
+1025539	impf
+1025558	perf
+1025572	impf
+1025575	impf
+1025579	impf
+1025584	infc
+1025600	infc
+1025607	infc
+1025658	ptz.
+ptz.
+1025661	ptz.
+1025668	ptz.
+1025678	perf
+1025681	perf
+perf
+perf
+1025689	impv
+ptz.
+1025703	impf
+1025707	impf
+1025728	impf
+ptz.
+1025731	impf
+1025733	wayq
+1025738	impv
+infc
+1025751	impf
+1025757	ptz.
+1025760	impf
+impf
+1025766	perf
+1025772	impf
+1025775	wayq
+impf
+1025784	impf
+1025789	impf
+1025798	impf
+1025813	ptz.
+impf
+1025819	perf
+1025822	pf.cons.
+1025848	perf
+1025870	ptz.
+1025873	impf
+1025878	impf
+1025881	impf
+1025887	impf
+1025890	impf
+1025906	impf
+1025916	perf
+1025930	impf
+1025936	impf
+ptz.
+1025947	perf
+1025951	ptz.
+1025962	perf
+1025965	perf
+1025968	wayq
+impf
+1025971	impf
+impf
+1025978	perf
+1025995	wayq
+1025997	infc
+1026007	impf
+1026106	ptz.
+1026154	ptz.
+1026175	perf
+1026201	ptz.
+1026211	infc
+1026237	ptz.
+1026920	ptz.
+1026932	ptz.
+1026940	ptz.
+1026942	ptz.
+1026949	wayq
+1026965	impf
+1026973	infc
+1026980	impf
+1026987	impf
+impf
+1026992	wayq
+1026994	infc
+ptz.
+1027006	wayq
+1027010	wayq
+1027018	wayq
+1027020	wayq
+1027026	ptz.
+1027031	perf
+1027033	ptz.
+1027043	infc
+1027049	impv
+1027051	impv
+1027053	impv
+1027055	impf
+1027059	perf
+1027063	ptz.
+1027066	impf
+1027070	impf
+1027074	impf
+1027076	ptz.
+impf
+1027079	impf
+ptz.
+1027085	impf
+1027088	ptz.
+1027096	ptz.
+impf
+1027101	ptz.
+1027103	ptz.
+1027105	ptz.
+1027111	impf
+ptz.
+perf
+1027118	ptz.
+ptz.
+1027132	wayq
+1027135	impf
+1027139	pf.cons.
+1027143	impf
+1027146	wayq
+perf
+1027149	wayq
+1027151	wayq
+ptz.
+1027156	impf
+impf
+1027159	impf
+1027162	impf
+1027165	pf.cons.
+1027167	ptz.
+perf
+1027173	ptz.
+impf
+1027177	impf
+1027185	ptz.
+1027190	wayq
+1027195	ptz.
+1027198	impf
+1027200	impf
+impf
+1027203	ptz.
+1027206	wayq
+1027209	wayq
+1027217	ptz.
+perf
+1027220	infc
+1027227	impf
+1027235	impf
+1027240	impv
+1027242	impv
+1027250	wayq
+ptz.
+1027257	impv
+1027259	impf
+1027261	impv
+1027267	impf
+ptz.
+1027272	ptz.
+ptz.
+1027279	ptz.
+1027282	ptz.
+1027284	ptz.
+1027286	perf
+1027291	wayq
+1027296	ptz.
+1027303	ptz.
+impf
+1027313	wayq
+impf
+1027318	ptz.
+1027321	infc
+impf
+1027331	ptz.
+1027333	ptz.
+ptz.
+ptz.
+1027338	ptz.
+1027340	impf
+1027348	perf
+1027352	ptz.
+1027354	impf
+1027360	impf
+impf
+1027366	impf
+1027371	impf
+1027376	pf.cons.
+1027380	ptz.
+1027384	perf
+1027388	perf
+impf
+1027392	perf
+impv
+1027397	ptz.
+1027400	ptz.
+1027402	ptz.
+1027411	impf
+1027413	perf
+1027427	perf
+1027430	ptz.
+1027432	perf
+1027434	pf.cons.
+1027436	ptz.
+1027440	ptz.
+perf
+1027443	perf
+1027446	perf
+1027448	impf
+1027452	ptz.
+impf
+1027456	perf
+1027460	impf
+1027468	ptz.
+ptz.
+impf
+impv
+ptz.
+1027477	impf
+1027484	impf
+1027487	impv
+impf
+1027490	impf
+1027494	impf
+impf
+perf
+1027500	perf
+perf
+impf
+1027505	ptz.
+1027507	perf
+1027510	impf
+ptz.
+1027515	ptz.
+1027520	impf
+1027523	perf
+impf
+ptz.
+impf
+1027531	ptz.
+impf
+impf
+1027540	ptz.
+1027543	impf
+1027550	impf
+1027553	ptz.
+1027556	ptz.
+1027559	pf.cons.
+1027568	impf
+1027571	perf
+1027573	impf
+1027575	pf.cons.
+ptz.
+ptz.
+1027579	ptz.
+ptz.
+1027586	pf.cons.
+ptz.
+1027590	perf
+1027592	perf
+ptz.
+1027595	pf.cons.
+impf
+1027598	wayq
+1027601	impf
+1027607	impf
+1027611	ptz.
+1027613	impf
+1027618	perf
+1027620	impf
+1027622	wayq
+impf
+impv
+impv
+ptz.
+1027629	ptz.
+1027632	perf
+1027635	impf
+1027640	perf
+ptz.
+1027647	perf
+1027649	infc
+1027651	perf
+1027653	infc
+impf
+1027657	perf
+ptz.
+1027663	ptz.
+1027666	impv
+1027668	ptz.
+perf
+1027672	ptz.
+ptz.
+1027677	ptz.
+1027679	impv
+1027684	perf
+1027688	ptz.
+1027691	ptz.
+1027695	ptz.
+perf
+ptz.
+1027701	impf
+impf
+ptz.
+ptz.
+impf
+impf
+1027711	impf
+1027714	pf.cons.
+1027716	pf.cons.
+impf
+perf
+1027727	pf.cons.
+pf.cons.
+1027730	infc
+1027732	impf
+1027736	perf
+1027738	ptz.
+ptz.
+impf
+1027742	impf
+1027745	impf
+impf
+1027748	ptz.
+1027750	perf
+1027755	impf
+ptz.
+ptz.
+1027759	ptz.
+ptz.
+1027762	impf
+1027770	ptz.
+perf
+1027774	infc
+1027779	ptz.
+impf
+ptz.
+1027783	pf.cons.
+1027796	pf.cons.
+1027798	perf
+1027807	perf
+impf
+ptz.
+1027812	impf
+1027814	perf
+impf
+1027822	infc
+1027824	perf
+1027827	perf
+1027829	impf
+1027832	impf
+impf
+ptz.
+impf
+1027839	impv
+1027843	perf
+1027845	perf
+1027852	ptz.
+1027855	impf
+1027857	impf
+1027862	perf
+1027865	wayq
+1027867	pf.cons.
+1027869	ptz.
+1027871	wayq
+infc
+1027875	impf
+1027881	impf
+ptz.
+ptz.
+perf
+1027901	ptz.
+1027905	perf
+ptz.
+1027910	impf
+1027919	ptz.
+impf
+1027925	impv
+1027928	impf
+infc
+ptz.
+1027932	impf
+1027934	infc
+1027942	impf
+1027947	impf
+1027949	impf
+1027951	pf.cons.
+1027954	impf
+impf
+perf
+ptz.
+impf
+1027960	infc
+1027962	pf.cons.
+1027964	infc
+1027967	impf
+1027969	perf
+impf
+impv
+1027973	impv
+impv
+1027987	infc
+1027989	ptz.
+1027992	ptz.
+ptz.
+1027995	ptz.
+impv
+1027998	impv
+1028000	ptz.
+1028016	ptz.
+1028018	infc
+impf
+impv
+1028022	impv
+perf
+1028026	impf
+1028029	perf
+ptz.
+1028033	ptz.
+1028035	perf
+ptz.
+impf
+1028039	impf
+1028041	impf
+perf
+1028044	ptz.
+1028046	impf
+1028052	impf
+1028054	impf
+1028060	ptz.
+1028063	ptz.
+1028069	perf
+1028071	infc
+1028076	impf
+impf
+impf
+1028080	ptz.
+1028086	perf
+1028088	pf.cons.
+impf
+1028091	impf
+ptz.
+1028094	pf.cons.
+1028096	pf.cons.
+1028101	perf
+1028106	impf
+1028109	perf
+1028113	impv
+1028121	perf
+impf
+1028124	ptz.
+1028130	impf
+1028132	impf
+impf
+impf
+1028140	ptz.
+1028142	impf
+1028151	ptz.
+1028165	ptz.
+ptz.
+1028181	perf
+1028189	infc
+1028191	pf.cons.
+ptz.
+1028203	impf
+1028205	ptz.
+1028208	impv
+1028211	wayq
+1028213	impv
+1028216	perf
+1028219	perf
+1028221	impf
+1028224	impf
+1028229	ptz.
+ptz.
+1028232	ptz.
+1028234	impf
+1028238	infc
+1028240	infc
+perf
+1028246	pf.cons.
+pf.cons.
+1028249	ptz.
+1028254	impf
+1028259	wayq
+1028262	ptz.
+1028269	ptz.
+1028271	wayq
+impv
+1028277	wayq
+1028281	impf
+1028291	impf
+perf
+1028294	ptz.
+1028298	impf
+1028302	perf
+1028304	impf
+1028310	perf
+1028315	perf
+1028320	perf
+1028323	impf
+impf
+1028327	wayq
+1028330	pf.cons.
+1028333	impf
+perf
+1028337	impv
+1028357	ptz.
+ptz.
+1028361	perf
+1028370	impf
+1028373	impf
+1028378	impf
+1028380	perf
+1028385	perf
+1028389	infc
+1028391	infc
+perf
+1028394	ptz.
+1028396	ptz.
+1028399	wayq
+1028409	perf
+perf
+perf
+ptz.
+1028415	impf
+1028417	impf
+1028421	impf
+1028424	impf
+1028426	impf
+1028428	impf
+ptz.
+1028431	impf
+impf
+1028438	impf
+1028440	impf
+1028442	ptz.
+perf
+perf
+1028447	perf
+impf
+impf
+1028452	perf
+1028455	ptz.
+perf
+1028459	ptz.
+1028461	impf
+koh.
+1028467	impf
+1028475	perf
+1028477	wayq
+1028485	impf
+impf
+1028491	impf
+1028493	ptz.
+1028495	ptz.
+ptz.
+1028498	ptz.
+1028501	impf
+1028505	impf
+1028507	impf
+1028511	ptz.
+1028517	ptz.
+impf
+1028521	ptz.
+1028523	impf
+1028525	perf
+impf
+1028528	impf
+1028530	impf
+1028532	perf
+1028536	perf
+impv
+1028539	ptz.
+1028542	wayq
+1028545	wayq
+1028555	infc
+1028559	ptz.
+1028561	ptz.
+1028563	impf
+ptz.
+1028566	perf
+1028570	perf
+impf
+1028577	perf
+perf
+impv
+1028585	impf
+1028589	perf
+1028599	impf
+1028601	impf
+1028603	impf
+1028605	perf
+1028612	ptz.
+impf
+1028615	impv
+1028621	impf
+1028623	impf
+1028627	ptz.
+1028629	ptz.
+1028640	ptz.
+1028643	impf
+1028648	impf
+1028650	ptz.
+1028652	ptz.
+1028655	impf
+1028657	ptz.
+impf
+impf
+1028662	impf
+1028666	wayq
+1028669	perf
+1028671	infc
+1028675	pf.cons.
+pf.cons.
+pf.cons.
+1028679	wayq
+1028683	impf
+1028685	impf
+1028688	impf
+1028691	impf
+impf
+impv
+1028695	perf
+impf
+impf
+1028701	ptz.
+ptz.
+1028704	impf
+impf
+1028708	impf
+impf
+1028714	impf
+1028720	perf
+1028722	ptz.
+1028726	ptz.
+impf
+ptz.
+1028731	ptz.
+1028733	ptz.
+1028735	ptz.
+ptz.
+1028738	ptz.
+1028740	perf
+1028742	impf
+impf
+impf
+1028746	impf
+impf
+1028749	ptz.
+1028752	ptz.
+1028756	ptz.
+1028758	impv
+1028760	ptz.
+1028765	impv
+1028769	impf
+ptz.
+1028773	impf
+1028776	perf
+1028778	ptz.
+1028780	impf
+1028783	impf
+1028789	impf
+1028794	impf
+1028796	impf
+impf
+1028799	impf
+impf
+impf
+impv
+1028804	impv
+1028806	perf
+perf
+1028812	impv
+impv
+impf
+ptz.
+1028817	ptz.
+1028822	perf
+perf
+1028829	perf
+1028836	ptz.
+1028843	impf
+1028845	impf
+1028847	infc
+1028851	ptz.
+perf
+1028857	impf
+ptz.
+ptz.
+1028863	infc
+perf
+ptz.
+1028867	perf
+1028870	perf
+1028874	koh.
+1028876	ptz.
+perf
+perf
+perf
+infc
+perf
+1028883	impf
+1028887	perf
+1028890	wayq
+ptz.
+1028897	ptz.
+perf
+1028901	perf
+1028903	perf
+perf
+1028906	wayq
+1028918	ptz.
+1028920	impf
+1028926	ptz.
+1028928	ptz.
+impf
+impf
+1028932	impf
+impf
+1028935	impf
+1028937	impf
+1028943	impf
+ptz.
+1028950	ptz.
+1028952	ptz.
+impv
+1028958	ptz.
+1028971	impf
+1028975	ptz.
+ptz.
+1028978	pf.cons.
+impf
+1028981	impf
+1028983	impf
+1028987	perf
+1028990	impf
+1028993	impf
+impf
+1028996	impf
+1028998	impf
+1029000	perf
+perf
+impf
+1029004	wayq
+1029007	impf
+1029010	perf
+1029013	perf
+1029015	perf
+perf
+1029018	impf
+1029020	impf
+perf
+1029032	impv
+1029034	perf
+1029038	ptz.
+ptz.
+1029051	ptz.
+ptz.
+1029057	infc
+impf
+1029060	ptz.
+perf
+perf
+1029064	infc
+ptz.
+ptz.
+impf
+perf
+1029072	ptz.
+1029076	impf
+1029078	ptz.
+1029081	perf
+1029085	perf
+perf
+1029088	perf
+ptz.
+1029094	perf
+1029096	perf
+1029102	ptz.
+ptz.
+1029107	impf
+1029109	perf
+1029112	perf
+1029116	impf
+1029121	ptz.
+1029124	wayq
+1029128	ptz.
+1029131	ptz.
+1029133	ptz.
+1029139	infc
+ptz.
+perf
+1029144	perf
+1029146	wayq
+1029149	impf
+1029151	impf
+1029157	impf
+1029161	impf
+1029164	impf
+impv
+1029169	impf
+1029173	impf
+1029175	impf
+1029182	ptz.
+1029188	infc
+1029191	impf
+perf
+1029196	ptz.
+impf
+1029201	impf
+impf
+1029204	perf
+ptz.
+1029208	impf
+1029211	impf
+1029213	perf
+1029216	perf
+impv
+1029229	ptz.
+impf
+1029234	perf
+1029238	infc
+1029241	ptz.
+1029247	impf
+1029251	ptz.
+1029253	infc
+1029258	ptz.
+1029260	impf
+1029262	impf
+1029264	impf
+1029269	ptz.
+1029272	impf
+1029284	infc
+1029286	perf
+1029288	wayq
+1029293	perf
+perf
+1029296	wayq
+perf
+1029301	impf
+1029303	impf
+1029305	ptz.
+1029307	impf
+impv
+impv
+1029313	infc
+infc
+1029318	infc
+infc
+1029322	ptz.
+1029324	impf
+1029328	impf
+impf
+1029354	pf.cons.
+1029356	impf
+1029360	infc
+1029364	perf
+1029366	ptz.
+1029371	perf
+1029374	perf
+1029378	impf
+impf
+1029383	ptz.
+ptz.
+impf
+impf
+1029397	ptz.
+1029401	impf
+1029403	ptz.
+1029408	perf
+1029410	perf
+1029414	pf.cons.
+1029418	perf
+1029433	pf.cons.
+1029438	impf
+1029442	impf
+1029446	perf
+1029450	pf.cons.
+ptz.
+1029453	perf
+1029456	pf.cons.
+1029460	ptz.
+1029468	impf
+1029475	infc
+1029485	impf
+ptz.
+1029496	impf
+1029499	impf
+1029501	impf
+1029505	infc
+1029507	ptz.
+1029512	impf
+1029517	perf
+1029520	ptz.
+1029522	impf
+impv
+impv
+impv
+1029528	ptz.
+1029534	ptz.
+1029537	perf
+ptz.
+1029545	impf
+perf
+perf
+1029557	wayq
+1029560	ptz.
+1029562	perf
+1029565	perf
+1029569	perf
+perf
+1029572	perf
+1029574	perf
+1029581	impf
+1029584	wayq
+1029587	impf
+1029589	infc
+1029591	wayq
+1029599	ptz.
+1029605	impf
+1029615	perf
+perf
+ptz.
+1029620	ptz.
+1029622	impf
+1029626	ptz.
+1029631	impf
+ptz.
+1029639	perf
+impf
+1029642	pf.cons.
+1029645	ptz.
+1029648	impf
+1029651	impf
+1029655	pf.cons.
+1029657	pf.cons.
+1029659	impv
+1029661	impf
+1029672	perf
+1029678	ptz.
+ptz.
+1029681	ptz.
+1029685	ptz.
+1029695	impf
+1029704	impf
+1029708	impf
+ptz.
+1029711	pf.cons.
+1029715	ptz.
+1029718	ptz.
+impf
+1029721	impf
+impf
+1029725	perf
+1029770	pf.cons.
+1029773	ptz.
+ptz.
+1029780	infc
+1029785	ptz.
+1029787	impf
+1029795	impf
+1029799	ptz.
+1029801	impf
+impf
+1029805	ptz.
+1029807	ptz.
+impf
+1029810	impf
+ptz.
+perf
+1029816	infc
+1029821	impv
+1029824	perf
+1029826	ptz.
+1029828	ptz.
+1029834	ptz.
+1029844	ptz.
+1029847	perf
+1029849	ptz.
+1029851	ptz.
+1029853	infc
+perf
+1029856	impf
+1029858	impf
+impf
+1029861	impf
+1029872	perf
+1029875	impf
+1029882	infc
+1029893	impf
+1029897	ptz.
+1029900	perf
+perf
+1029903	perf
+1029913	impf
+1029916	impf
+1029928	ptz.
+1029937	ptz.
+perf
+1029940	koh.
+1029942	impf
+ptz.
+1029945	impf
+1029954	ptz.
+1029957	ptz.
+1029960	perf
+1029964	ptz.
+1029967	perf
+impf
+1029974	ptz.
+1029993	perf
+1029996	perf
+1030001	ptz.
+1030003	ptz.
+1030006	ptz.
+1030009	pf.cons.
+1030011	wayq
+1030017	ptz.
+1030020	pf.cons.
+1030022	impf
+1030024	perf
+1030026	perf
+impf
+ptz.
+impv
+1030031	impf
+1030043	infc
+1030046	perf
+1030051	impf
+1030053	infc
+1030058	impf
+ptz.
+1030074	wayq
+1030078	impf
+1030082	perf
+1030091	impf
+1030100	wayq
+1030115	wayq
+1030119	infc
+1030124	wayq
+impf
+1030130	impf
+1030136	pf.cons.
+1030141	infc
+1030149	wayq
+1030155	ptz.
+1030157	wayq
+1030159	wayq
+1030162	impv
+1030164	infc
+1030167	impf
+1030169	perf
+1030171	infc
+1030175	infc
+1030187	infc
+1030192	perf
+1030196	ptz.
+1030199	ptz.
+1030203	wayq
+wayq
+ptz.
+1030207	impv
+1030209	ptz.
+ptz.
+1030215	ptz.
+1030222	infc
+impf
+1030226	ptz.
+1030228	wayq
+impv
+1030235	infc
+impf
+1030238	ptz.
+1030242	ptz.
+1030246	impf
+1030252	impf
+1030255	wayq
+1030284	perf
+1030291	pf.cons.
+1030304	infc
+1030308	wayq
+1030310	wayq
+1030312	wayq
+1030315	wayq
+1030317	wayq
+1030321	ptz.
+1030327	ptz.
+1030340	perf
+1030342	ptz.
+1030360	impf
+1030366	impf
+1030377	infc
+1030385	ptz.
+1030397	wayq
+1030399	impv
+1030405	wayq
+impv
+1030414	ptz.
+1030418	impf
+1030424	perf
+1030432	perf
+1030434	impf
+1030437	pf.cons.
+impf
+ptz.
+1030447	perf
+1030451	ptz.
+1030456	pf.cons.
+1030463	wayq
+1030466	impf
+1030468	impf
+1030475	impv
+1030484	impf
+1030486	pf.cons.
+1030488	perf
+1030491	infc
+perf
+1030494	infc
+1030496	pf.cons.
+1030506	perf
+1030509	wayq
+1030527	ptz.
+1030540	pf.cons.
+1030548	ptz.
+1030561	wayq
+1030563	perf
+1030574	ptz.
+1030579	pf.cons.
+1030581	pf.cons.
+1030584	wayq
+1030590	wayq
+1030606	pf.cons.
+1030608	perf
+1030618	impf
+1030622	impf
+1030630	impf
+1030635	ptz.
+1030637	ptz.
+1030640	ptz.
+1030642	pf.cons.
+1030648	infc
+infc
+1030653	infc
+impf
+1030659	wayq
+perf
+perf
+1030664	impf
+1030666	wayq
+1030668	wayq
+1030674	impf
+1030679	perf
+perf
+1030687	ptz.
+ptz.
+1030690	ptz.
+1030699	perf
+1030707	ptz.
+1030710	perf
+1030715	impf
+1030736	ptz.
+1030741	pf.cons.
+1030746	ptz.
+1030748	impf
+1030756	impf
+1030760	wayq
+ptz.
+1030773	perf
+impf
+1030776	ptz.
+1030782	perf
+1030784	perf
+1030786	infc
+1030789	perf
+infc
+1030792	infc
+perf
+1030795	infc
+1030798	impf
+1030808	perf
+1030811	pf.cons.
+1030815	pf.cons.
+1030817	pf.cons.
+1030822	perf
+1030824	impf
+perf
+1030827	wayq
+1030829	impf
+1030831	impf
+perf
+1030838	pf.cons.
+1030845	pf.cons.
+1030852	pf.cons.
+1030860	impf
+perf
+infc
+1030864	impf
+1030866	ptz.
+1030869	impv
+1030872	impf
+1030878	ptz.
+1030880	impv
+impf
+impf
+ptz.
+1030886	perf
+1030890	ptz.
+1030898	ptz.
+1030918	perf
+1030920	infc
+1030927	ptz.
+1030933	ptz.
+1030936	ptz.
+1030942	pf.cons.
+1030944	impf
+1030946	perf
+ptz.
+1030953	ptz.
+perf
+1030956	infc
+1030958	infc
+1030962	impf
+1030966	ptz.
+1030973	impf
+1030976	ptz.
+impf
+1030984	wayq
+1030988	wayq
+ptz.
+1030995	wayq
+1031007	impf
+1031012	impf
+1031019	impf
+1031024	impf
+1031026	pf.cons.
+1031031	perf
+1031033	pf.cons.
+1031035	impf
+1031040	ptz.
+1031042	impf
+1031044	perf
+1031046	impf
+1031049	impf
+1031053	ptz.
+1031056	perf
+1031062	ptz.
+1031065	ptz.
+ptz.
+1031071	perf
+1031076	ptz.
+perf
+1031080	perf
+1031085	ptz.
+1031087	pf.cons.
+impf
+1031092	pf.cons.
+1031095	ptz.
+1031102	wayq
+1031108	ptz.
+impf
+1031114	perf
+1031124	infc
+1031126	impf
+1031138	impf
+impf
+1031142	ptz.
+1031144	infc
+1031146	wayq
+1031151	ptz.
+1031158	impf
+1031160	infc
+1031167	impf
+1031171	impf
+perf
+1031176	perf
+1031181	ptz.
+1031186	perf
+1031193	perf
+1031195	perf
+1031199	wayq
+1031201	wayq
+1031212	perf
+1031224	perf
+perf
+1031231	perf
+1031233	ptz.
+1031238	ptz.
+1031248	perf
+1031259	wayq
+1031264	wayq
+1031277	wayq
+1031288	wayq
+1031303	perf
+1031307	wayq
+1031310	wayq
+ptz.
+ptz.
+1031314	wayq
+1031319	wayq
+1031322	impf
+1031327	ptz.
+perf
+ptz.
+1031334	perf
+perf
+1031337	infc
+1031342	wayq
+1031344	ptz.
+1031346	perf
+1031348	perf
+1031350	wayq
+impf
+1031363	wayq
+1031370	wayq
+1031372	wayq
+1031376	perf
+1031378	wayq
+1031385	perf
+1031392	perf
+1031395	ptz.
+1031399	wayq
+1031401	wayq
+1031403	impf
+1031405	wayq
+1031414	impf
+1031417	pf.cons.
+1031420	infc
+1031430	infc
+1031432	ptz.
+ptz.
+1031435	pf.cons.
+1031442	infc
+1031448	ptz.
+1031451	pf.cons.
+1031455	impf
+1031457	wayq
+ptz.
+1031462	impf
+1031464	impf
+perf
+1031467	impf
+1031474	ptz.
+ptz.
+1031486	perf
+1031488	ptz.
+1031492	perf
+1031499	impf
+1031505	impv
+1031518	perf
+ptz.
+1031522	impv
+1031525	impf
+1031529	perf
+1031532	infc
+1031535	infc
+1031542	impf
+1031552	ptz.
+1031560	perf
+1031564	perf
+1031568	impf
+1031582	pf.cons.
+ptz.
+1031586	ptz.
+1031589	ptz.
+1031591	ptz.
+ptz.
+impf
+perf
+1031598	perf
+1031602	impf
+1031605	impf
+ptz.
+1031610	ptz.
+1031618	impf
+1031620	ptz.
+impf
+1031627	impf
+1031629	ptz.
+1031636	infc
+1031639	pf.cons.
+1031641	perf
+perf
+1031644	infc
+impf
+ptz.
+impv
+1031650	impv
+1031653	perf
+1031655	ptz.
+1031657	perf
+1031659	ptz.
+1031663	ptz.
+ptz.
+perf
+ptz.
+1031668	ptz.
+ptz.
+1031672	perf
+1031676	infc
+1031685	pf.cons.
+1031689	ptz.
+perf
+1031700	impf
+ptz.
+1031703	ptz.
+ptz.
+1031713	ptz.
+1031715	impf
+perf
+perf
+1031719	infc
+1031722	impf
+impv
+ptz.
+impf
+1031730	ptz.
+1031732	pf.cons.
+1031736	ptz.
+1031741	impf
+impf
+1031744	ptz.
+1031746	impf
+impf
+1031749	impf
+1031752	impf
+1031754	wayq
+1031759	perf
+perf
+ptz.
+perf
+1031765	impf
+1031769	impf
+1031773	ptz.
+1031776	impf
+1031782	impf
+1031784	impf
+1031794	impf
+1031796	ptz.
+1031798	impf
+1031802	impf
+1031807	impf
+1031810	perf
+impv
+1031813	impf
+1031817	perf
+1031821	ptz.
+1031832	pf.cons.
+1031834	impf
+1031836	ptz.
+infc
+impf
+1031841	impv
+1031845	koh.
+1031849	impf
+1031858	impf
+impf
+1031866	impf
+1031868	ptz.
+perf
+1031875	ptz.
+impf
+ptz.
+1031879	ptz.
+1031882	perf
+1031890	ptz.
+1031893	impv
+perf
+1031896	ptz.
+1031909	impf
+1031920	perf
+impv
+impf
+1031924	perf
+perf
+1031928	ptz.
+1031930	ptz.
+1031936	wayq
+ptz.
+1031942	wayq
+impv
+1031951	impf
+1031960	impf
+impf
+1031967	impf
+1031977	perf
+1031980	impf
+1031983	ptz.
+1031987	ptz.
+1031990	perf
+1031992	impf
+1031997	ptz.
+1031999	perf
+1032003	perf
+1032005	perf
+1032007	wayq
+perf
+1032012	impf
+1032017	impf
+1032020	wayq
+impv
+ptz.
+1032026	impf
+1032034	wayq
+1032042	ptz.
+1032046	perf
+1032049	impf
+1032051	pf.cons.
+ptz.
+1032056	impf
+1032058	ptz.
+1032061	ptz.
+perf
+1032064	infc
+1032066	ptz.
+1032068	impf
+impf
+1032076	impf
+1032078	impv
+impv
+1032086	impf
+1032088	impf
+perf
+1032092	impf
+1032094	impf
+perf
+1032098	infc
+1032102	perf
+1032104	perf
+1032106	impf
+impf
+1032112	wayq
+impf
+1032119	impf
+1032124	impf
+1032135	impf
+1032137	perf
+perf
+1032140	impf
+1032151	ptz.
+1032153	ptz.
+1032159	infc
+perf
+1032168	impf
+infc
+1032171	impf
+1032180	impv
+1032184	impf
+ptz.
+1032187	ptz.
+ptz.
+1032190	impf
+1032193	impf
+1032197	impf
+1032202	ptz.
+1032206	wayq
+impf
+impv
+1032217	ptz.
+impv
+ptz.
+1032221	perf
+1032224	perf
+1032226	impv
+1032228	impf
+impf
+1032236	perf
+1032248	ptz.
+1032251	impf
+1032253	perf
+1032257	perf
+impf
+perf
+1032261	impv
+1032263	ptz.
+1032266	ptz.
+perf
+1032269	impf
+1032277	infc
+1032283	impf
+1032287	impf
+1032289	perf
+1032295	impf
+1032300	impf
+ptz.
+1032304	ptz.
+ptz.
+1032307	ptz.
+1032309	wayq
+1032311	wayq
+1032323	impv
+1032327	perf
+1032336	impv
+1032345	ptz.
+1032347	perf
+1032350	perf
+1032365	impf
+1032370	ptz.
+perf
+1032380	infc
+1032384	wayq
+1032393	ptz.
+1032397	perf
+perf
+1032402	perf
+1032404	perf
+1032411	perf
+1032416	ptz.
+1032418	impv
+1032420	wayq
+1032426	pf.cons.
+1032428	ptz.
+ptz.
+1032438	perf
+1032442	ptz.
+1032453	ptz.
+1032461	perf
+1032475	ptz.
+1032477	pf.cons.
+1032491	ptz.
+1032494	pf.cons.
+1032496	perf
+1032499	impf
+1032510	ptz.
+1032517	perf
+1032520	ptz.
+1032529	perf
+1032536	perf
+1032538	wayq
+ptz.
+1032542	perf
+1032553	ptz.
+1032577	impf
+1032583	pf.cons.
+1032592	impf
+1032597	wayq
+1032601	wayq
+1032609	ptz.
+1032614	infc
+1032617	ptz.
+1032622	impf
+1032624	ptz.
+1032645	ptz.
+1032648	pf.cons.
+1032652	perf
+impf
+1032656	ptz.
+1032658	impf
+1032671	ptz.
+impf
+1032680	ptz.
+1032684	impf
+1032687	impf
+ptz.
+1032690	impf
+1032693	infc
+1032704	ptz.
+1032706	ptz.
+perf
+impf
+1032716	ptz.
+1032722	perf
+1032727	ptz.
+1032745	pf.cons.
+1032747	pf.cons.
+1032751	ptz.
+perf
+1032756	ptz.
+1032761	ptz.
+1032763	impf
+1032767	perf
+1032776	perf
+1032782	pf.cons.
+1032786	perf
+1032791	impf
+1032802	impf
+1032811	wayq
+impf
+1032823	perf
+1032839	perf
+impf
+1032849	ptz.
+perf
+1032859	ptz.
+1032861	impf
+1032866	impv
+1032882	impv
+1032884	impf
+1032887	perf
+1032889	wayq
+1032893	wayq
+1032895	perf
+1032904	ptz.
+1032907	ptz.
+1032909	infc
+1032913	perf
+1032915	perf
+1032926	pf.cons.
+1032929	infc
+1032933	perf
+1032944	perf
+1032948	infc
+1032955	perf
+1032959	ptz.
+1032980	perf
+1032990	perf
+1032992	impv
+1032995	impf
+1032997	impf
+1033004	ptz.
+1033023	impf
+1033044	pf.cons.
+1033046	pf.cons.
+1033061	impf
+1033067	impf
+impf
+perf
+1033072	infc
+perf
+1033083	ptz.
+ptz.
+1033090	wayq
+1033092	perf
+1033099	pf.cons.
+1033103	impf
+impf
+impf
+1033112	pf.cons.
+1033114	impf
+1033120	ptz.
+1033128	pf.cons.
+1033132	perf
+1033137	perf
+1033145	perf
+ptz.
+1033149	ptz.
+1033153	ptz.
+1033167	wayq
+impf
+1033171	impf
+1033179	perf
+1033190	impf
+1033195	pf.cons.
+1033198	perf
+1033202	impf
+1033206	perf
+1033214	wayq
+1033220	ptz.
+1033231	perf
+ptz.
+1033248	ptz.
+ptz.
+1033259	ptz.
+1033266	impf
+1033270	ptz.
+perf
+1033285	impv
+impf
+1033288	impv
+ptz.
+1033293	wayq
+1033295	impf
+ptz.
+perf
+perf
+perf
+1033301	perf
+1033304	ptz.
+1033312	perf
+1033315	impf
+1033318	perf
+1033323	pf.cons.
+1033341	perf
+1033343	pf.cons.
+1033345	wayq
+1033353	impv
+impv
+impv
+impv
+impv
+1033362	impf
+impf
+1033368	ptz.
+1033370	perf
+perf
+1033378	wayq
+1033562	perf
+1033655	ptz.
+impv
+1033658	infc
+1033699	impv
+1033845	impv
+1034286	perf
+1034288	perf
+perf
+1034300	impf
+1034303	perf
+perf
+1034307	infc
+1034309	impf
+1034311	perf
+1034320	perf
+perf
+1034327	perf
+1034331	ptz.
+1034333	perf
+1034336	ptz.
+impf
+1034339	perf
+1034341	wayq
+perf
+1034347	impf
+perf
+1034354	perf
+perf
+1034362	impf
+1034364	perf
+1034371	impf
+1034373	perf
+1034397	ptz.
+ptz.
+1034403	perf
+1034419	ptz.
+1034424	infc
+1034429	ptz.
+1034445	ptz.
+1034448	ptz.
+1034466	infc
+1034468	ptz.
+1034471	infc
+infc
+1034476	ptz.
+1034487	ptz.
+1034490	ptz.
+1034493	ptz.
+1034497	ptz.
+1034504	infc
+1034507	infc
+1034513	impf
+ptz.
+ptz.
+1034523	infc
+1034527	ptz.
+ptz.
+1034535	ptz.
+1034547	ptz.
+1034565	ptz.
+1034570	ptz.
+1034574	ptz.
+1034578	infc
+infc
+1034582	infc
+1034591	ptz.
+ptz.
+1034599	perf
+1034607	perf
+1034613	perf
+1034616	perf
+1034618	perf
+1034620	infc
+1034623	ptz.
+1034630	ptz.
+1034632	ptz.
+1034641	ptz.
+1034643	ptz.
+1034650	ptz.
+1034652	ptz.
+1034660	infc
+1034667	ptz.
+1034684	ptz.
+1034696	ptz.
+1034698	impf
+1034708	perf
+1034725	ptz.
+1034745	ptz.
+1034747	impf
+1034755	ptz.
+1034763	impf
+1034765	pf.cons.
+impf
+1034773	infc
+1034783	ptz.
+ptz.
+1034787	ptz.
+1034789	ptz.
+1034792	infc
+1034796	infc
+1034808	ptz.
+1034814	ptz.
+1034821	ptz.
+1034827	ptz.
+1034831	infc
+1034840	infc
+1034851	ptz.
+1034859	ptz.
+1034878	ptz.
+1034895	perf
+1034897	ptz.
+1034900	impf
+1034909	impf
+1034918	ptz.
+1034920	perf
+1034924	impf
+impf
+1034945	ptz.
+ptz.
+1034949	ptz.
+1034951	impf
+1034955	pf.cons.
+1034958	ptz.
+1034969	perf
+1034977	infc
+1034986	ptz.
+1034988	perf
+1034993	ptz.
+1035003	impf
+1035010	impf
+1035012	impv
+1035017	impv
+1035024	perf
+ptz.
+ptz.
+ptz.
+1035032	ptz.
+1035043	pf.cons.
+pf.cons.
+1035048	pf.cons.
+1035057	ptz.
+1035059	impv
+1035062	perf
+1035067	perf
+ptz.
+1035078	perf
+1035085	perf
+1035097	impv
+1035102	impv
+1035107	impf
+1035111	impv
+1035122	impf
+1035127	infc
+1035133	pf.cons.
+1035138	infc
+1035151	wayq
+1035157	perf
+1035164	ptz.
+1035167	ptz.
+1035171	ptz.
+1035176	ptz.
+1035201	perf
+1035210	impf
+impf
+1035217	perf
+1035236	ptz.
+1035241	ptz.
+1035245	ptz.
+1035254	ptz.
+1035258	ptz.
+ptz.
+1035275	ptz.
+1035277	perf
+1035298	perf
+1035304	infc
+1035310	infc
+1035319	perf
+1035326	ptz.
+1035330	infc
+1035339	infc
+1035344	infc
+1035356	perf
+1035359	impf
+1035363	infc
+1035374	infc
+1035382	infc
+infc
+1035386	infc
+1035394	perf
+1035398	perf
+1035401	perf
+1035412	perf
+1035416	perf
+1035418	impf
+1035420	infc
+1035431	perf
+1035435	infc
+1035439	infc
+1035444	impv
+1035447	infc
+1035452	infc
+1035456	perf
+1035459	infc
+1035463	perf
+1035474	perf
+1035480	impf
+1035488	impf
+impf
+ptz.
+1035492	ptz.
+1035498	ptz.
+1035502	infc
+1035524	perf
+1035529	perf
+perf
+1035535	infc
+1035576	perf
+1035579	perf
+perf
+1035613	perf
+1035619	perf
+1035641	perf
+1035647	impf
+1035653	perf
+1035657	perf
+1035660	infc
+1035663	infc
+1035668	infc
+ptz.
+1035673	perf
+1035676	impf
+1035681	infc
+1035690	infc
+1035696	infc
+1035702	ptz.
+1035707	ptz.
+1035726	ptz.
+perf
+ptz.
+1035732	impf
+1035743	impf
+impf
+1035748	impf
+1035763	impf
+1035768	perf
+1035772	perf
+1035781	impf
+1035786	ptz.
+ptz.
+ptz.
+1035792	wayq
+1035796	infc
+1035803	infc
+1035817	perf
+1035823	infc
+1035826	infc
+1035831	ptz.
+1035835	ptz.
+1035838	ptz.
+1035845	infc
+1035852	ptz.
+1035857	ptz.
+ptz.
+1035864	perf
+1035869	infc
+1035877	infc
+1035881	ptz.
+1035888	infc
+1035894	infc
+1035896	perf
+1035899	impf
+1035906	perf
+1035914	perf
+1035920	infc
+impf
+1035927	ptz.
+1035936	impf
+1035940	ptz.
+1035942	impf
+1035955	impf
+1035959	pf.cons.
+1035967	perf
+1035974	perf
+1035979	infc
+1035984	infc
+1035990	perf
+1035999	impf
+1036004	impf
+1036007	impf
+1036014	impf
+1036017	impf
+1036023	impf
+1036026	impf
+1036030	ptz.
+1036033	impf
+1036040	ptz.
+1036049	ptz.
+1036051	ptz.
+1036054	ptz.
+1036061	wayq
+1036068	perf
+1036074	infc
+1036079	impf
+1036088	perf
+1036090	impf
+1036100	ptz.
+1036103	wayq
+1036113	wayq
+1036115	wayq
+1036118	perf
+impf
+1036126	wayq
+1036132	wayq
+1036135	perf
+1036138	impf
+1036140	perf
+1036143	impf
+1036146	infc
+1036152	ptz.
+1036159	infc
+1036164	impf
+impf
+1036172	perf
+1036175	ptz.
+ptz.
+impf
+1036183	impf
+1036187	perf
+1036200	impf
+1036202	infc
+1036205	infc
+ptz.
+1036213	impf
+1036221	impf
+1036232	perf
+1036236	perf
+1036239	infc
+1036243	impf
+1036246	ptz.
+ptz.
+1036253	perf
+1036265	impf
+1036268	infc
+1036271	wayq
+1036279	perf
+1036282	perf
+1036285	impf
+1036288	infc
+1036293	perf
+1036298	perf
+1036303	infc
+1036308	infc
+1036313	infc
+1036320	infc
+1036334	wayq
+1036340	perf
+1036347	perf
+1036352	perf
+1036358	wayq
+1036365	perf
+1036368	wayq
+1036371	perf
+perf
+1036374	infc
+1036384	infc
+1036391	infc
+1036408	impf
+1036410	infc
+1036413	perf
+1036417	perf
+1036426	perf
+1036429	impf
+1036437	wayq
+1036440	perf
+1036445	impf
+1036448	impf
+1036462	perf
+1036470	wayq
+1036473	impf
+1036477	perf
+1036492	perf
+perf
+1036502	impf
+1036505	perf
+ptz.
+1036508	impf
+1036512	infc
+1036521	perf
+1036523	infc
+1036530	perf
+1036540	infc
+1036542	infc
+1036544	ptz.
+1036548	ptz.
+1036558	perf
+1036562	impf
+1036572	wayq
+1036578	perf
+1036587	perf
+1036590	impf
+impf
+1036595	infc
+1036600	infc
+1036604	impf
+1036608	infc
+1036611	infc
+1036615	infc
+1036619	infc
+1036625	infc
+1036631	infc
+1036639	infc
+1036643	ptz.
+1036655	perf
+1036657	infc
+1036660	wayq
+1036676	infc
+1036679	perf
+1036684	perf
+1036686	infc
+1036693	perf
+1036698	koh.
+1036701	impf
+1036706	impf
+1036711	perf
+1036714	infc
+1036721	infc
+1036727	infc
+1036733	infc
+1036737	infc
+1036743	perf
+1036745	ptz.
+1036748	ptz.
+1036756	infc
+1036763	infc
+1036769	infc
+1036774	impf
+1036786	wayq
+1036798	ptz.
+1036805	pf.cons.
+impv
+ptz.
+1036811	ptz.
+1036813	ptz.
+1036821	infc
+1036826	impf
+1036831	impf
+1036838	infc
+1036868	perf
+1036879	perf
+perf
+1036886	impf
+1036890	impf
+1036895	perf
+1036907	perf
+1036911	perf
+1036921	infc
+1036949	perf
+1036956	perf
+1036959	perf
+1036966	perf
+1036973	perf
+1036986	perf
+1037001	perf
+1037016	wayq
+1037033	perf
+1037037	infc
+1037042	impf
+1037044	perf
+1037048	perf
+perf
+1037074	ptz.
+1037079	ptz.
+1037084	impf
+1037087	perf
+1037089	koh.
+1037092	perf
+1037094	ptz.
+1037116	perf
+1037119	perf
+1037125	impf
+1037130	impf
+1037135	impf
+1037160	perf
+1037165	impf
+1037168	wayq
+1037173	infc
+1037175	wayq
+1037186	wayq
+1037196	infc
+1037200	infc
+ptz.
+1037211	infc
+1037216	ptz.
+1037220	impf
+1037231	perf
+1037239	perf
+1037244	infc
+ptz.
+1037251	koh.
+1037261	ptz.
+1037263	perf
+perf
+1037268	impv
+1037271	ptz.
+1037274	ptz.
+impf
+1037278	ptz.
+impv
+1037282	impv
+1037288	impv
+ptz.
+1037291	impv
+1037295	impf
+1037304	impf
+1037310	impf
+1037317	pf.cons.
+1037319	ptz.
+1037325	ptz.
+1037337	infc
+1037341	ptz.
+1037347	wayq
+1037354	wayq
+1037363	wayq
+1037369	wayq
+1037372	ptz.
+1037377	ptz.
+1037384	ptz.
+1037387	ptz.
+1037390	wayq
+1037395	ptz.
+1037404	wayq
+1037413	impf
+1037417	perf
+1037420	ptz.
+1037425	impf
+1037427	impf
+1037432	infc
+1037437	impf
+1037439	wayq
+1037451	infc
+1037455	infc
+ptz.
+1037459	wayq
+1037473	wayq
+1037480	ptz.
+1037483	impf
+1037494	wayq
+1037500	perf
+1037504	wayq
+1037507	perf
+1037511	infc
+1037516	ptz.
+1037518	wayq
+1037530	infc
+1037533	impf
+1037536	perf
+1037543	wayq
+1037551	perf
+1037554	infc
+1037565	perf
+1037573	impf
+1037581	perf
+1037586	infc
+1037591	infc
+1037600	infc
+1037604	perf
+perf
+1037608	perf
+1037614	impf
+1037625	ptz.
+1037638	infc
+1037642	impf
+impf
+1037648	infc
+1037653	infc
+1037658	impf
+1037665	perf
+1037667	impf
+impf
+1037672	perf
+1037675	perf
+1037679	perf
+1037684	koh.
+1037686	impf
+1037696	infc
+1037701	wayq
+1037709	ptz.
+1037711	perf
+1037715	perf
+1037717	infc
+1037720	infc
+1037725	perf
+1037731	wayq
+1037739	ptz.
+1037744	perf
+1037748	ptz.
+1037754	wayq
+1037763	perf
+1037765	infc
+1037773	infc
+1037777	ptz.
+1037779	perf
+1037784	perf
+1037786	infc
+1037796	perf
+1037807	wayq
+1037810	perf
+1037812	impf
+1037814	wayq
+1037831	ptz.
+1037833	perf
+1037838	ptz.
+1037842	infc
+1037847	perf
+1037855	perf
+1037862	impf
+1037868	impf
+1037873	ptz.
+1037877	wayq
+1037883	perf
+1037894	ptz.
+1037898	impf
+1037909	ptz.
+1037917	wayq
+1037926	impf
+1037932	ptz.
+1037935	ptz.
+1037937	ptz.
+1037949	impf
+1037953	infc
+1037956	infc
+1037960	ptz.
+1037963	wayq
+1037975	infc
+impf
+1037989	impf
+1038002	impf
+1038005	perf
+1038013	perf
+1038018	koh.
+1038025	wayq
+1038031	perf
+1038039	ptz.
+perf
+1038045	infc
+1038053	infc
+1038061	wayq
+1038070	infc
+1038077	infc
+ptz.
+1038095	perf
+1038101	perf
+1038112	impf
+impf
+1038126	wayq
+1038137	infc
+1038143	infc
+1038145	impf
+1038150	infc
+1038158	ptz.
+1038163	ptz.
+1038173	perf
+1038178	impf
+1038187	ptz.
+1038192	infc
+1038201	impf
+1038208	ptz.
+1038212	impf
+1038228	impf
+1038234	impf
+impf
+1038241	impf
+1038246	ptz.
+1038250	impf
+1038253	ptz.
+1038259	impf
+1038261	impf
+1038266	impf
+1038271	impf
+1038277	impf
+wayq
+1038287	impf
+1038290	impf
+1038292	impf
+1038299	impf
+1038304	impf
+1038308	ptz.
+1038314	impf
+1038317	perf
+1038323	ptz.
+1038328	impf
+1038336	impf
+1038345	impf
+impf
+1038353	infc
+1038358	wayq
+wayq
+1038364	wayq
+1038375	perf
+1038381	impf
+1038384	perf
+1038391	ptz.
+1038394	perf
+1038396	perf
+perf
+1038402	perf
+1038404	wayq
+1038413	perf
+1038417	impf
+1038419	infc
+1038422	impf
+impf
+impf
+1038437	ptz.
+perf
+1038441	wayq
+1038444	ptz.
+1038452	perf
+1038456	infc
+1038459	perf
+1038467	wayq
+1038475	impf
+1038479	infc
+1038483	infc
+1038487	infc
+1038493	impf
+1038500	impf
+1038504	impf
+1038509	ptz.
+1038512	impf
+1038514	wayq
+1038521	perf
+1038525	ptz.
+1038535	impf
+1038537	wayq
+1038543	perf
+1038548	wayq
+1038550	ptz.
+1038555	ptz.
+1038567	impf
+1038571	infc
+1038581	perf
+1038585	perf
+1038590	ptz.
+1038600	impf
+1038603	infc
+1038614	impf
+1038618	perf
+1038622	impf
+1038632	impf
+1038650	impf
+1038656	ptz.
+1038660	impf
+1038666	infc
+1038668	koh.
+1038670	koh.
+1038672	ptz.
+1038677	ptz.
+1038680	impf
+1038682	infc
+1038685	wayq
+1038691	perf
+1038696	ptz.
+1038698	ptz.
+1038703	impf
+ptz.
+1038709	impf
+1038715	impf
+1038725	impf
+1038730	infc
+1038742	infc
+1038746	ptz.
+1038749	perf
+1038754	wayq
+wayq
+1038760	perf
+1038768	perf
+1038782	infc
+1038789	perf
+1038797	infc
+1038813	perf
+1038839	impf
+1038844	perf
+1038848	infc
+1038855	impf
+1038873	perf
+1038877	impf
+1038879	impf
+1038887	impf
+1038891	ptz.
+1038895	perf
+1038901	infc
+1038911	perf
+1038914	perf
+1038919	infc
+1038925	perf
+1038927	wayq
+1038930	perf
+1038937	perf
+1038945	impf
+1038949	infc
+1038961	perf
+1038964	perf
+1038968	koh.
+1038978	perf
+1038991	infc
+1038993	perf
+1039001	impf
+1039005	perf
+1039007	infc
+1039013	perf
+1039016	perf
+1039021	wayq
+1039026	wayq
+1039031	ptz.
+1039036	ptz.
+1039040	ptz.
+1039044	wayq
+1039050	ptz.
+1039064	perf
+1039068	perf
+1039076	ptz.
+1039078	wayq
+1039095	infc
+impf
+1039099	perf
+1039105	perf
+perf
+1039112	perf
+1039116	infc
+1039124	perf
+1039127	perf
+1039133	perf
+1039137	wayq
+1039144	perf
+1039151	perf
+1039156	impf
+1039160	ptz.
+1039162	wayq
+1039176	infc
+1039182	perf
+1039186	impf
+1039197	ptz.
+1039200	ptz.
+1039202	infc
+1039205	impf
+1039214	impf
+1039219	impf
+1039227	perf
+1039231	ptz.
+1039237	impf
+ptz.
+1039243	perf
+1039247	perf
+ptz.
+1039262	ptz.
+1039272	ptz.
+1039275	infc
+1039287	perf
+1039297	ptz.
+1039299	ptz.
+1039302	perf
+1039309	ptz.
+1039314	ptz.
+1039316	ptz.
+1039321	perf
+1039323	impf
+1039331	infc
+1039337	perf
+perf
+1039348	impf
+1039352	perf
+1039358	ptz.
+1039363	ptz.
+1039365	impf
+1039367	infc
+1039374	wayq
+1039380	ptz.
+1039385	infc
+1039389	infc
+1039393	infc
+1039396	wayq
+1039405	infc
+1039409	wayq
+1039427	ptz.
+1039429	wayq
+1039433	perf
+1039438	impf
+1039440	perf
+1039444	perf
+1039449	wayq
+1039456	ptz.
+1039463	perf
+1039467	wayq
+1039471	wayq
+1039476	wayq
+1039487	perf
+1039499	impf
+1039505	wayq
+1039516	wayq
+1039522	infc
+1039526	infc
+1039533	perf
+1039538	infc
+1039543	impf
+1039556	ptz.
+perf
+1039559	perf
+1039565	infc
+perf
+1039586	perf
+perf
+1039591	ptz.
+1039601	wayq
+1039607	wayq
+1039612	ptz.
+1039615	ptz.
+1039619	infc
+1039627	koh.
+1039636	infc
+1039638	perf
+1039640	impf
+1039651	impf
+1039653	infc
+1039658	infc
+1039666	impf
+1039677	infc
+1039683	infc
+1039691	perf
+1039693	infc
+1039702	infc
+1039706	ptz.
+1039710	impf
+1039713	infc
+1039715	impf
+1039724	perf
+1039748	impf
+1039753	impf
+1039759	perf
+1039768	infc
+infc
+1039777	impf
+impf
+1039797	pf.cons.
+1039804	pf.cons.
+1039814	pf.cons.
+1039822	infc
+1039826	impf
+1039831	ptz.
+1039838	perf
+1039842	infc
+1039850	perf
+1039852	infc
+1039865	impf
+1039867	impf
+1039874	impf
+1039877	ptz.
+1039882	impf
+1039886	impf
+1039891	perf
+1039904	perf
+1039910	infc
+infc
+1039918	infc
+1039924	wayq
+1039931	perf
+1039936	wayq
+1039938	ptz.
+1039943	ptz.
+1039946	ptz.
+1039950	koh.
+1039956	impf
+1039969	infc
+1039978	impf
+1039981	ptz.
+1039983	impf
+impf
+1039987	impf
+1040001	impf
+1040003	impf
+1040009	infc
+1040016	impf
+1040026	impf
+impf
+1040029	infc
+1040036	impf
+1040039	impf
+1040043	impf
+1040054	infc
+1040058	impf
+1040065	impf
+1040074	impf
+1040093	ptz.
+1040098	ptz.
+perf
+perf
+1040107	infc
+1040109	ptz.
+1040111	impf
+1040122	perf
+1040127	perf
+1040129	ptz.
+1040133	wayq
+1040137	perf
+1040140	infc
+1040146	infc
+1040148	perf
+1040156	infc
+1040160	wayq
+1040166	impf
+1040180	wayq
+1040187	impf
+impf
+1040192	impf
+1040195	perf
+1040201	perf
+1040204	impf
+impf
+1040207	wayq
+1040217	perf
+1040222	wayq
+wayq
+1040229	ptz.
+1040231	wayq
+1040248	impf
+1040252	perf
+1040257	wayq
+1040278	impf
+1040284	ptz.
+1040287	impf
+1040289	infc
+1040297	perf
+1040305	perf
+1040307	wayq
+1040315	infc
+1040321	infc
+1040339	infc
+1040343	infc
+1040348	perf
+1040355	infc
+1040360	infc
+1040373	infc
+1040381	impf
+1040383	infc
+1040390	infc
+infc
+1040394	infc
+1040398	wayq
+1040415	wayq
+1040419	ptz.
+1040421	wayq
+1040436	ptz.
+1040439	perf
+1040442	wayq
+1040447	perf
+1040451	perf
+1040461	wayq
+1040467	impf
+1040473	perf
+1040484	ptz.
+1040498	impf
+1040502	infc
+1040506	infc
+1040511	impf
+1040514	infc
+1040523	impf
+1040529	infc
+1040540	infc
+1040553	impf
+1040569	infc
+1040574	impf
+1040578	perf
+1040586	ptz.
+1040588	perf
+1040591	wayq
+1040597	perf
+1040617	impf
+1040624	impf
+1040627	perf
+1040660	ptz.
+1040667	pf.cons.
+1040669	infc
+1040675	infc
+1040677	impf
+1040682	impf
+1040684	impf
+1040691	impf
+1040700	impf
+1040709	ptz.
+1040718	impf
+1040726	impf
+1040731	impf
+1040735	ptz.
+ptz.
+1040742	ptz.
+perf
+1040746	ptz.
+1040750	ptz.
+ptz.
+1040757	perf
+1040770	ptz.
+1040772	impf
+1040782	impf
+1040786	impf
+1040792	perf
+1040795	perf
+1040797	wayq
+1040800	perf
+1040805	wayq
+1040811	perf
+1040815	ptz.
+ptz.
+1040818	perf
+1040824	perf
+1040838	impf
+1040841	impf
+1040843	impf
+1040855	impf
+impf
+impf
+ptz.
+1040860	ptz.
+1040864	impf
+1040883	impf
+perf
+1040898	perf
+1040904	infc
+infc
+1040908	ptz.
+1040918	infc
+1040921	infc
+1040923	impf
+1040935	impf
+1040939	impf
+1040941	impf
+1040953	impf
+1040962	impf
+1040969	impf
+1040973	perf
+1040987	wayq
+1040990	ptz.
+1040997	perf
+1041005	infc
+1041009	ptz.
+1041013	ptz.
+impf
+1041017	perf
+1041023	impf
+1041032	wayq
+1041035	ptz.
+ptz.
+1041042	impf
+1041045	infc
+1041051	infc
+1041056	impf
+1041062	impf
+1041066	perf
+1041071	wayq
+1041076	wayq
+1041083	perf
+1041087	wayq
+1041094	infc
+1041098	perf
+1041102	impf
+1041109	infc
+1041120	perf
+1041126	perf
+1041131	ptz.
+1041135	infc
+1041141	infc
+1041143	ptz.
+1041150	infc
+infc
+1041156	ptz.
+1041158	perf
+ptz.
+1041165	perf
+1041180	perf
+perf
+1041192	impf
+1041206	impf
+1041222	perf
+1041226	perf
+1041250	impf
+1041253	ptz.
+1041256	perf
+1041263	impf
+1041269	koh.
+1041271	ptz.
+1041275	ptz.
+1041279	impf
+1041283	impf
+1041285	perf
+1041289	wayq
+1041295	perf
+1041297	perf
+1041301	wayq
+1041308	perf
+1041313	perf
+1041316	perf
+1041322	perf
+1041326	perf
+1041329	impf
+1041334	perf
+1041338	impf
+1041340	koh.
+1041345	wayq
+1041358	impf
+1041364	impf
+1041369	impf
+1041374	impf
+1041379	impf
+1041401	ptz.
+1041406	perf
+1041409	infc
+1041416	impf
+1041428	ptz.
+1041435	impf
+1041441	perf
+1041445	wayq
+wayq
+1041473	perf
+1041479	perf
+1041502	impf
+1041509	infc
+1041517	perf
+1041522	perf
+1041527	ptz.
+1041540	perf
+1041548	ptz.
+perf
+1041554	impf
+1041564	infc
+1041575	infc
+1041580	impf
+1041585	perf
+1041589	perf
+1041599	wayq
+impf
+1041609	impf
+1041613	ptz.
+1041615	perf
+perf
+1041622	infc
+1041628	impf
+1041631	perf
+1041637	impf
+1041646	impf
+1041657	perf
+1041668	impf
+impf
+1041678	impf
+1041681	perf
+perf
+1041687	impf
+1041692	impf
+1041695	perf
+1041698	impf
+1041701	perf
+perf
+1041706	impf
+1041709	perf
+1041713	impf
+1041716	perf
+1041723	ptz.
+1041730	ptz.
+1041738	impf
+1041742	impf
+1041771	impf
+1041774	infc
+1041782	ptz.
+1041786	impf
+1041791	perf
+1041794	ptz.
+1041803	perf
+1041806	infc
+ptz.
+1041811	infc
+1041833	perf
+1041843	infc
+1041846	impf
+ptz.
+1041850	infc
+1041859	impf
+1041862	perf
+1041864	perf
+1041867	perf
+1041879	perf
+1041894	wayq
+1041906	infc
+1041912	infc
+infc
+1041916	perf
+1041920	infc
+1041928	perf
+1041934	impf
+1041945	perf
+1041956	perf
+1041966	ptz.
+1041972	impf
+1041975	impf
+1041980	ptz.
+1041993	wayq
+1042000	wayq
+1042012	impf
+1042017	impf
+impf
+impf
+1042022	koh.
+1042024	infc
+1042034	perf
+1042037	infc
+koh.
+1042052	impf
+1042055	perf
+1042062	perf
+1042069	perf
+1042074	wayq
+1042079	wayq
+1042094	koh.
+1042100	koh.
+1042104	koh.
+1042107	impf
+1042117	impf
+1042121	perf
+1042161	perf
+1042169	perf
+1042174	perf
+1042179	infc
+1042190	infc
+infc
+1042201	infc
+1042205	ptz.
+1042213	ptz.
+1042218	infc
+1042229	infc
+1042232	ptz.
+ptz.
+1042236	ptz.
+ptz.
+1042241	impf
+1042243	impf
+1042249	perf
+1042256	ptz.
+perf
+perf
+1042261	impf
+1042264	wayq
+1042271	impf
+1042277	perf
+1042285	perf
+1042290	infc
+1042296	koh.
+1042303	wayq
+1042307	wayq
+1042314	infc
+infc
+1042322	infc
+1042330	infc
+1042336	impf
+1042344	koh.
+1042357	infc
+1042363	impf
+1042366	infc
+infc
+1042372	impf
+1042377	impf
+1042381	impf
+1042396	impf
+1042403	ptz.
+1042406	perf
+1042412	infc
+1042416	infc
+1042420	ptz.
+1042438	impv
+1042444	impv
+1042449	perf
+1042455	impf
+1042459	perf
+1042464	perf
+1042466	perf
+1042469	ptz.
+1042474	perf
+1042477	wayq
+1042489	perf
+1042493	impf
+1042498	impf
+1042515	koh.
+1042519	ptz.
+1042526	infc
+1042528	infc
+1042549	infc
+1042564	infc
+1042569	infc
+1042601	ptz.
+1042607	ptz.
+1042610	impf
+1042617	perf
+1042620	impf
+1042625	perf
+1042633	perf
+1042638	perf
+1042641	ptz.
+perf
+1042681	impf
+impf
+1042686	impf
+1042690	ptz.
+ptz.
+1042696	impf
+1042700	perf
+1042705	impf
+1042709	infc
+1042714	infc
+1042721	perf
+perf
+1042743	impf
+1042747	perf
+1042752	impf
+1042758	impf
+1042763	impf
+1042766	ptz.
+1042781	impf
+1042783	infc
+1042788	infc
+1042795	infc
+1042800	perf
+1042809	ptz.
+1042814	perf
+1042817	impf
+1042824	perf
+1042830	impf
+1042833	perf
+1042837	impf
+1042840	perf
+1042843	impf
+1042846	perf
+perf
+1042851	impf
+1042855	perf
+1042858	impf
+1042865	impf
+1042871	ptz.
+1042873	impf
+1042878	impf
+1042881	perf
+1042885	impf
+1042888	perf
+perf
+1042892	koh.
+perf
+1042899	perf
+1042904	wayq
+1042907	perf
+1042917	infc
+1042920	infc
+1042925	infc
+1042931	ptz.
+1042934	ptz.
+perf
+1042940	wayq
+wayq
+1042959	perf
+1042966	ptz.
+1042968	perf
+1042980	pf.cons.
+1042998	wayq
+1043004	infc
+1043010	wayq
+wayq
+1043016	wayq
+1043023	infc
+1043027	ptz.
+1043032	infc
+1043039	wayq
+impf
+1043044	impf
+impf
+1043048	infc
+ptz.
+1043053	ptz.
+1043057	perf
+1043064	perf
+1043069	ptz.
+1043084	wayq
+1043087	infc
+1043094	ptz.
+1043100	infc
+1043106	perf
+1043110	infc
+1043113	ptz.
+1043116	infc
+1043119	infc
+1043126	infc
+1043130	ptz.
+1043137	perf
+1043148	impf
+1043153	infc
+1043156	infc
+1043159	infc
+1043164	impf
+1043168	ptz.
+1043170	impf
+1043176	impf
+perf
+1043183	impf
+1043188	impf
+1043209	impf
+impf
+1043222	perf
+1043226	perf
+1043231	impf
+impf
+impf
+1043247	ptz.
+1043254	impf
+1043257	impf
+1043259	infc
+1043262	ptz.
+1043270	ptz.
+1043279	infc
+1043284	impf
+1043295	perf
+1043297	wayq
+1043305	koh.
+1043308	perf
+perf
+1043331	infc
+1043353	impf
+1043357	impf
+1043359	impf
+1043363	ptz.
+1043366	perf
+perf
+1043372	perf
+1043375	wayq
+1043382	perf
+1043387	impf
+1043399	ptz.
+pf.cons.
+1043404	impf
+perf
+1043411	wayq
+wayq
+1043415	infc
+1043419	wayq
+1043425	impf
+1043430	ptz.
+1043435	perf
+1043438	wayq
+wayq
+1043447	perf
+impf
+impf
+1043453	infc
+1043457	impf
+1043465	perf
+1043468	perf
+1043470	impf
+1043487	impf
+impf
+1043490	infc
+1043493	infc
+1043502	perf
+1043507	perf
+1043513	impv
+1043526	ptz.
+1043552	impf
+1043559	perf
+1043565	infc
+1043577	perf
+perf
+1043580	perf
+1043582	infc
+1043584	ptz.
+1043588	ptz.
+1043593	perf
+1043596	perf
+1043603	ptz.
+1043605	ptz.
+1043610	impf
+1043617	impf
+1043624	impf
+1043629	infc
+infc
+1043632	impf
+1043642	wayq
+impf
+1043649	ptz.
+1043658	infc
+1043660	infc
+1043678	infc
+infc
+1043682	infc
+1043689	ptz.
+1043699	perf
+1043710	infc
+1043716	infc
+1043718	perf
+perf
+1043724	infc
+perf
+1043732	ptz.
+1043735	impf
+impf
+perf
+1043743	perf
+1043748	infc
+1043754	infc
+1043758	ptz.
+1043761	infc
+1043775	impf
+1043778	impf
+1043782	impf
+impf
+1043791	impf
+1043797	infc
+1043799	impf
+1043810	infc
+1043819	perf
+perf
+1043825	perf
+1043830	ptz.
+1043835	impf
+1043837	infc
+1043841	infc
+perf
+1043853	ptz.
+1043857	perf
+1043870	pf.cons.
+1043873	infc
+perf
+1043883	impf
+1043889	infc
+1043893	infc
+1043899	impf
+impf
+1043909	infc
+infc
+ptz.
+1043914	infc
+ptz.
+1043920	impv
+1043922	impv
+1043924	wayq
+impf
+1043932	ptz.
+1043934	impf
+1043941	infc
+1043944	infc
+1043952	perf
+1043961	infc
+1043978	perf
+1043980	ptz.
+1043982	wayq
+1043985	wayq
+1043989	perf
+1043994	impf
+1043996	pf.cons.
+impf
+impf
+impf
+1044008	impf
+1044013	impf
+1044019	impf
+impf
+1044023	impv
+1044025	impv
+1044029	impv
+1044034	impf
+1044036	impf
+1044040	impf
+ptz.
+1044049	impv
+1044053	impf
+1044058	impf
+1044063	impf
+1044066	impf
+1044081	ptz.
+1044083	ptz.
+1044086	impv
+1044092	impf
+1044099	impf
+1044101	impv
+1044105	impf
+1044113	impf
+1044118	impf
+impf
+impf
+1044124	impf
+1044131	infc
+1044134	impf
+ptz.
+ptz.
+1044139	ptz.
+ptz.
+ptz.
+1044146	impv
+1044150	impf
+1044152	ptz.
+1044154	impv
+1044164	impf
+1044173	impf
+1044178	impf
+1044180	ptz.
+1044183	impf
+1044187	perf
+impv
+1044194	ptz.
+1044200	impf
+impf
+1044205	perf
+1044214	ptz.
+1044217	impf
+1044220	ptz.
+1044222	impf
+1044226	impf
+1044230	ptz.
+ptz.
+ptz.
+1044239	impf
+1044245	impf
+1044248	impf
+1044250	infc
+1044266	impf
+1044271	ptz.
+1044274	impf
+1044276	ptz.
+impf
+1044281	impf
+1044283	ptz.
+1044293	infc
+impf
+1044298	impf
+impf
+1044305	impf
+1044310	ptz.
+1044318	impf
+impf
+1044322	impf
+1044324	ptz.
+1044327	impf
+1044334	impf
+1044336	impf
+1044342	impf
+ptz.
+1044347	impf
+1044351	infc
+ptz.
+1044362	impf
+1044364	ptz.
+impv
+impv
+1044377	impv
+1044379	impv
+1044384	impv
+1044388	impv
+ptz.
+1044391	ptz.
+1044394	impf
+1044399	impv
+1044411	impf
+1044414	impf
+1044416	impf
+1044422	perf
+1044425	wayq
+1044428	ptz.
+1044430	ptz.
+perf
+1044433	ptz.
+impf
+1044440	impf
+1044447	impf
+impf
+impf
+1044455	ptz.
+1044457	ptz.
+1044463	impf
+ptz.
+1044466	impf
+1044469	ptz.
+1044471	impf
+1044478	infc
+impf
+1044484	impf
+1044490	impf
+impf
+1044494	impf
+impf
+impf
+impf
+pf.cons.
+1044502	impf
+1044504	pf.cons.
+1044506	pf.cons.
+1044510	impf
+1044513	impf
+1044515	impf
+1044521	impv
+1044523	impv
+1044530	impf
+1044535	ptz.
+1044544	impf
+1044550	impf
+impf
+1044555	impf
+1044560	impf
+1044566	ptz.
+1044574	impf
+1044580	impv
+1044582	impf
+1044584	infc
+1044589	impf
+1044594	impf
+1044600	impf
+1044603	ptz.
+1044605	impf
+1044607	ptz.
+1044614	impf
+1044618	impv
+1044623	ptz.
+1044626	impf
+1044632	impf
+impf
+1044635	impf
+1044646	impf
+impf
+1044653	ptz.
+1044655	ptz.
+1044659	impf
+1044661	ptz.
+1044663	infc
+1044665	ptz.
+1044670	impf
+1044675	impf
+1044681	impf
+1044685	infc
+1044690	impf
+1044696	infc
+1044701	impf
+1044703	impf
+1044707	ptz.
+ptz.
+1044710	impf
+perf
+1044714	impf
+1044724	impf
+1044730	impf
+1044734	impf
+1044736	infc
+1044741	pf.cons.
+1044747	impf
+1044756	impf
+1044759	impf
+1044761	infc
+1044765	impf
+1044772	impf
+1044778	impf
+1044780	impf
+1044786	impf
+1044791	impf
+ptz.
+1044797	ptz.
+1044800	impv
+ptz.
+1044806	impf
+1044808	impv
+ptz.
+1044811	infc
+1044816	impv
+1044821	impv
+1044834	ptz.
+1044838	ptz.
+1044841	impf
+1044848	impf
+impf
+1044855	perf
+1044866	impf
+1044869	ptz.
+1044871	impf
+ptz.
+1044877	impf
+1044885	impf
+1044890	impf
+1044894	impf
+1044897	impf
+1044899	pf.cons.
+1044906	impf
+1044910	ptz.
+impf
+1044914	impf
+ptz.
+1044919	infc
+1044923	impf
+1044931	perf
+ptz.
+1044935	impv
+1044938	impf
+impf
+1044941	infc
+1044945	ptz.
+1044951	impf
+1044956	ptz.
+ptz.
+ptz.
+1044961	ptz.
+infc
+1044967	impf
+1044969	ptz.
+1044974	impf
+1044985	impf
+1044988	impf
+1044990	impf
+1044995	impf
+1044997	ptz.
+impv
+1045001	ptz.
+impv
+ptz.
+1045005	ptz.
+ptz.
+1045010	ptz.
+perf
+1045014	ptz.
+1045025	ptz.
+1045027	ptz.
+1045029	impf
+1045036	ptz.
+1045039	ptz.
+impv
+1045043	impv
+1045051	impf
+1045055	impf
+1045063	impf
+1045069	impf
+1045073	impf
+1045075	infc
+1045093	infc
+1045103	impf
+1045110	impv
+1045113	impv
+1045116	impf
+1045119	impv
+1045121	impv
+impv
+1045124	impv
+1045127	perf
+pf.cons.
+1045131	impf
+1045135	impf
+1045138	pf.cons.
+1045143	pf.cons.
+1045161	impf
+1045165	impf
+1045167	impf
+1045169	impf
+1045172	impf
+1045174	impf
+1045176	impf
+1045178	infc
+1045180	impv
+1045182	impf
+1045185	impv
+1045187	infc
+1045192	impf
+impv
+1045196	impv
+1045200	pf.cons.
+1045208	impv
+1045212	impf
+1045216	perf
+impf
+1045221	impf
+1045223	impv
+1045227	impf
+1045230	impf
+1045235	impf
+1045238	impf
+1045249	impf
+1045257	impf
+1045259	impf
+1045261	infc
+ptz.
+1045268	infc
+1045271	impf
+1045279	impf
+1045286	impf
+1045290	impf
+1045292	infc
+1045298	impf
+1045300	impf
+1045313	perf
+ptz.
+1045316	impf
+1045323	impf
+1045325	impf
+1045331	impv
+1045334	ptz.
+1045336	ptz.
+1045338	impf
+1045350	impf
+1045352	infc
+1045358	impf
+1045360	impf
+1045366	impf
+1045371	impf
+1045375	impv
+1045378	impf
+1045381	impv
+1045388	impf
+1045392	infc
+infc
+infc
+1045401	impv
+1045405	impv
+1045408	impf
+ptz.
+1045419	impf
+1045421	ptz.
+1045428	impf
+1045431	ptz.
+1045435	ptz.
+1045437	ptz.
+impv
+1045442	impf
+1045447	impv
+1045452	ptz.
+1045456	impv
+1045459	impv
+1045466	impv
+1045470	impf
+1045473	impv
+1045477	impf
+pf.cons.
+1045482	ptz.
+1045484	impv
+1045488	impf
+1045490	ptz.
+1045492	impf
+1045497	impv
+1045501	impv
+1045505	impv
+ptz.
+1045509	ptz.
+1045511	impf
+impv
+1045515	impv
+1045518	impv
+1045522	perf
+1045537	impv
+1045541	impf
+1045543	impv
+1045552	ptz.
+1045554	impf
+1045557	impf
+1045559	ptz.
+1045563	impv
+1045565	impf
+impf
+1045570	ptz.
+1045573	impf
+1045577	impv
+1045583	impf
+1045585	impf
+1045591	impf
+impf
+1045596	impf
+1045602	impf
+1045606	impf
+1045612	impf
+1045616	pf.cons.
+1045619	perf
+1045623	impf
+1045627	impf
+1045633	impf
+1045638	impf
+1045643	impf
+1045647	impf
+1045649	ptz.
+1045652	impv
+1045657	impf
+1045661	impf
+1045665	impf
+1045667	ptz.
+impv
+1045670	ptz.
+1045672	impf
+1045678	impv
+1045681	impf
+1045684	infc
+1045689	impf
+1045692	ptz.
+1045694	perf
+1045699	impf
+1045705	infc
+1045708	impf
+1045713	impf
+1045718	impf
+1045723	infc
+1045725	ptz.
+1045729	impf
+1045735	perf
+1045737	ptz.
+1045739	impf
+1045748	impf
+1045750	impf
+1045757	impf
+1045761	impf
+1045766	impf
+1045770	impf
+1045782	ptz.
+impf
+1045785	ptz.
+1045787	impf
+1045790	impf
+1045792	infc
+1045798	impf
+1045802	impf
+1045804	impf
+1045810	impf
+1045814	impf
+1045819	impf
+1045824	impf
+impf
+1045829	impf
+1045834	infc
+1045838	impf
+1045843	impf
+1045849	impf
+1045851	impf
+1045855	ptz.
+1045860	impf
+1045862	impf
+1045866	impf
+1045871	impf
+1045875	infc
+1045881	infc
+1045884	impv
+1045891	impf
+1045899	perf
+1045903	ptz.
+1045906	impf
+1045911	impf
+1045914	impf
+1045918	impf
+1045924	impf
+1045929	impf
+1045931	perf
+1045933	impf
+impf
+1045940	impf
+1045942	ptz.
+1045947	ptz.
+ptz.
+1045951	ptz.
+1045957	ptz.
+impv
+1045963	impf
+impv
+1045969	infc
+1045972	impf
+1045977	perf
+1045979	impf
+1045981	impf
+1045984	impv
+1045988	impf
+1045992	impf
+1045995	impv
+1046000	impv
+1046002	ptz.
+impf
+1046020	impf
+impf
+1046025	ptz.
+1046030	ptz.
+1046038	impf
+pf.cons.
+ptz.
+1046042	ptz.
+1046046	ptz.
+1046049	ptz.
+impf
+1046054	ptz.
+1046059	ptz.
+1046068	ptz.
+1046078	ptz.
+impf
+1046090	impf
+1046095	impf
+1046099	ptz.
+1046114	impf
+1046120	impf
+1046127	impf
+1046132	impf
+impf
+ptz.
+1046140	impf
+1046144	impf
+1046157	ptz.
+impf
+1046172	impf
+1046176	perf
+1046181	impf
+1046186	impf
+1046189	perf
+1046192	wayq
+1046199	perf
+1046205	perf
+1046207	impf
+perf
+1046212	wayq
+1046214	impf
+1046227	ptz.
+1046230	ptz.
+1046236	ptz.
+ptz.
+1046242	ptz.
+1046244	ptz.
+1046252	ptz.
+1046259	infc
+1046261	ptz.
+1046265	infc
+1046270	ptz.
+1046272	ptz.
+perf
+1046278	ptz.
+1046281	ptz.
+perf
+1046286	impf
+1046288	impf
+1046290	infc
+1046300	ptz.
+1046305	ptz.
+1046312	impv
+1046315	impf
+1046319	ptz.
+1046321	ptz.
+1046324	impf
+1046327	impf
+ptz.
+1046332	ptz.
+1046338	ptz.
+1046342	ptz.
+1046347	ptz.
+1046353	ptz.
+1046358	ptz.
+1046361	ptz.
+1046366	ptz.
+1046370	impf
+1046375	impf
+impf
+1046378	impf
+1046384	impf
+1046386	ptz.
+1046398	ptz.
+1046401	impf
+1046404	impf
+1046413	ptz.
+1046418	ptz.
+perf
+1046426	perf
+1046429	ptz.
+perf
+1046433	perf
+1046437	ptz.
+perf
+1046443	impf
+1046445	impf
+impv
+1046451	impf
+1046454	impf
+1046457	impf
+1046463	impf
+1046468	impf
+1046477	impf
+1046481	impf
+1046484	ptz.
+1046486	infc
+1046488	impf
+1046492	impf
+1046494	impf
+1046498	impf
+1046500	impf
+1046502	ptz.
+1046504	ptz.
+ptz.
+1046511	ptz.
+1046513	ptz.
+1046515	ptz.
+ptz.
+1046524	wayq
+impf
+1046530	perf
+1046534	wayq
+1046538	perf
+perf
+perf
+1046549	wayq
+wayq
+1046567	infc
+1046585	ptz.
+perf
+1046589	ptz.
+ptz.
+1046599	impf
+1046601	ptz.
+1046603	infc
+impf
+1046609	perf
+1046613	impf
+1046618	perf
+1046620	impf
+1046622	pf.cons.
+1046627	perf
+pf.cons.
+1046630	impv
+1046635	impv
+1046639	impv
+1046641	impf
+1046646	impv
+1046664	impf
+1046666	perf
+1046671	impf
+1046674	impf
+1046677	impf
+1046681	impf
+1046686	impf
+1046691	impf
+1046695	impf
+1046700	impf
+1046704	impf
+1046707	impf
+1046710	impf
+1046716	impf
+1046721	impf
+1046727	infc
+1046732	perf
+1046734	ptz.
+ptz.
+1046746	ptz.
+1046753	ptz.
+1046757	impf
+1046759	ptz.
+1046763	ptz.
+1046768	ptz.
+1046770	ptz.
+ptz.
+1046773	ptz.
+1046778	ptz.
+1046787	ptz.
+impf
+1046793	impf
+ptz.
+1046798	impf
+1046802	impf
+1046809	impf
+impv
+1046815	impf
+1046818	impf
+1046820	impf
+impf
+1046825	impf
+1046828	impf
+1046833	infc
+impf
+1046837	impf
+1046839	impf
+1046843	ptz.
+1046846	impf
+1046849	impf
+1046852	impv
+1046856	impv
+1046872	perf
+1046876	impf
+1046883	impf
+1046888	impf
+1046893	impf
+1046898	ptz.
+1046903	impf
+1046905	impv
+1046909	impv
+1046912	impv
+ptz.
+1046916	impf
+1046920	impf
+1046923	ptz.
+1046926	impf
+1046929	ptz.
+1046934	ptz.
+1046941	ptz.
+1046943	impf
+1046945	ptz.
+1046952	impf
+1046956	impf
+1046959	impf
+1046962	impv
+1046965	infc
+1046967	impv
+1046970	ptz.
+1046974	impf
+1046976	infc
+1046978	impv
+1046982	impf
+1046986	impf
+1046988	impf
+1046991	impf
+1046996	impf
+1047001	impf
+1047006	impf
+1047009	impf
+impf
+ptz.
+ptz.
+1047015	ptz.
+1047020	ptz.
+1047025	ptz.
+1047029	impf
+1047031	impf
+1047036	impf
+1047039	impf
+1047043	impf
+1047045	impf
+1047047	infc
+1047050	perf
+1047052	impf
+1047055	perf
+1047057	impf
+1047060	impf
+1047065	impf
+1047073	impf
+1047076	perf
+1047079	impf
+1047083	perf
+perf
+1047088	ptz.
+impf
+1047092	impf
+1047094	pf.cons.
+1047101	infc
+1047103	impf
+1047105	ptz.
+1047108	impf
+1047111	ptz.
+1047114	impf
+1047119	impf
+1047125	impf
+1047127	impf
+impf
+1047134	ptz.
+1047138	ptz.
+1047141	impf
+impf
+1047147	impf
+1047149	impf
+1047153	perf
+1047155	impf
+1047157	impf
+1047159	impf
+1047163	impf
+impf
+impf
+1047170	impf
+1047176	impf
+impf
+1047180	impf
+1047186	pf.cons.
+1047189	ptz.
+1047192	pf.cons.
+1047195	impf
+impf
+1047200	impf
+1047204	impf
+1047206	pf.cons.
+1047211	impf
+1047213	impv
+1047215	impf
+1047219	impf
+impf
+1047226	ptz.
+1047228	impv
+1047234	impf
+1047236	impf
+1047238	impf
+1047241	impf
+1047243	impf
+1047245	impf
+1047249	infc
+1047254	impf
+1047260	infc
+1047264	perf
+1047267	perf
+1047269	impf
+ptz.
+1047273	impf
+1047277	ptz.
+1047279	impv
+1047281	impv
+1047285	impf
+1047291	impf
+1047297	ptz.
+1047306	impf
+1047309	impf
+1047322	perf
+ptz.
+1047335	ptz.
+1047351	ptz.
+ptz.
+1047357	ptz.
+ptz.
+1047367	ptz.
+1047369	ptz.
+1047373	ptz.
+ptz.
+ptz.
+1047377	ptz.
+1047383	perf
+ptz.
+1047390	ptz.
+1047392	perf
+1047398	impf
+1047400	ptz.
+1047403	impf
+1047406	perf
+1047409	impf
+1047423	impf
+1047436	ptz.
+impf
+1047443	perf
+1047447	perf
+1047454	perf
+1047458	perf
+1047474	ptz.
+1047476	impf
+1047482	impf
+1047489	impf
+1047492	impf
+1047507	ptz.
+1047512	ptz.
+1047515	ptz.
+1047520	impf
+1047529	ptz.
+1047536	impf
+1047550	impv
+infc
+1047557	impv
+impv
+1047567	impf
+1047573	perf
+1047577	impf
+impv
+1047580	ptz.
+1047584	impv
+1047587	impf
+impf
+1047594	infc
+1047597	impf
+impf
+1047600	ptz.
+1047604	impf
+1047609	impf
+1047614	ptz.
+1047616	impv
+1047620	impv
+1047622	impv
+1047629	infc
+1047639	infc
+1047643	impv
+1047648	impf
+1047653	impf
+1047655	infc
+1047662	ptz.
+1047665	ptz.
+ptz.
+1047670	impf
+1047680	ptz.
+1047683	ptz.
+impf
+1047690	impf
+1047694	impf
+ptz.
+1047702	impf
+1047704	infc
+1047711	impf
+ptz.
+1047719	impf
+ptz.
+1047724	pf.cons.
+1047729	ptz.
+1047734	pf.cons.
+1047738	impf
+1047745	impf
+1047747	ptz.
+1047755	impf
+1047757	ptz.
+1047759	impf
+1047762	ptz.
+1047764	impf
+1047766	pf.cons.
+1047773	impf
+1047775	pf.cons.
+1047780	impf
+1047782	pf.cons.
+1047786	impf
+impf
+1047790	impf
+1047794	impf
+1047798	impf
+1047802	impf
+1047804	impf
+1047811	impf
+1047820	impf
+1047824	impf
+1047828	ptz.
+perf
+1047831	impf
+1047833	perf
+1047842	perf
+1047845	impf
+1047852	perf
+1047854	perf
+1047856	impf
+1047858	perf
+1047868	perf
+1047872	impf
+1047874	ptz.
+1047879	perf
+1047882	wayq
+1047885	ptz.
+1047887	wayq
+1047892	impf
+impf
+1047898	infc
+1047901	impf
+1047905	impf
+ptz.
+1047914	impf
+impv
+1047924	impf
+impf
+1047927	ptz.
+1047933	ptz.
+1047937	impf
+1047941	impf
+1047947	perf
+1047950	infc
+1047953	perf
+1047958	ptz.
+1047960	ptz.
+1047964	ptz.
+1047967	impf
+1047973	impf
+1047980	perf
+1047982	impf
+impf
+1047992	impf
+1047997	impf
+1048004	impf
+1048011	ptz.
+1048021	perf
+1048032	ptz.
+1048034	impf
+1048039	ptz.
+impf
+impf
+1048045	perf
+1048051	perf
+1048056	ptz.
+1048062	perf
+1048066	perf
+1048070	ptz.
+ptz.
+1048078	perf
+1048082	ptz.
+ptz.
+1048088	perf
+1048092	ptz.
+ptz.
+1048101	ptz.
+1048109	ptz.
+1048114	impf
+1048121	ptz.
+1048123	ptz.
+1048127	impf
+impf
+1048139	impf
+impf
+1048142	impf
+1048148	impf
+1048154	ptz.
+1048164	impf
+impf
+1048169	perf
+1048176	perf
+1048179	ptz.
+1048183	impf
+1048191	perf
+perf
+1048197	impf
+1048200	perf
+1048205	impf
+1048210	impf
+1048230	infc
+1048232	ptz.
+1048235	infc
+1048238	infc
+1048246	infc
+1048249	impf
+1048253	impf
+1048262	impf
+1048264	perf
+1048266	impf
+1048270	impf
+1048279	impf
+1048284	impf
+1048288	impf
+1048292	ptz.
+impf
+1048295	impv
+1048298	impv
+1048303	impv
+1048305	koh.
+1048311	infc
+impf
+1048315	infc
+1048324	impf
+1048327	impf
+1048335	perf
+1048339	wayq
+1048341	ptz.
+1048346	ptz.
+ptz.
+1048352	ptz.
+1048354	ptz.
+1048356	ptz.
+1048362	ptz.
+1048371	infc
+1048373	ptz.
+1048377	infc
+1048382	ptz.
+1048384	ptz.
+perf
+1048389	ptz.
+impv
+1048394	ptz.
+impv
+1048399	ptz.
+1048401	impf
+1048403	impf
+1048405	infc
+1048411	impf
+1048413	ptz.
+1048418	ptz.
+1048422	impv
+1048425	impv
+1048429	ptz.
+1048431	ptz.
+1048433	impf
+impf
+1048436	ptz.
+1048444	ptz.
+1048447	ptz.
+1048456	ptz.
+1048464	ptz.
+1048469	ptz.
+1048472	ptz.
+1048477	ptz.
+1048481	impf
+1048486	impf
+1048488	impf
+1048494	impf
+1048496	ptz.
+1048500	impf
+1048502	ptz.
+1048520	ptz.
+1048523	impf
+1048526	impf
+1048531	ptz.
+1048534	impf
+1048537	impf
+1048542	perf
+ptz.
+1048549	perf
+1048553	ptz.
+1048555	impf
+1048558	ptz.
+perf
+1048563	perf
+1048566	perf
+1048568	ptz.
+perf
+1048574	perf
+1048580	impv
+1048582	impf
+1048588	impf
+impf
+1048591	impf
+impv
+1048597	impf
+impf
+1048602	impf
+1048608	impf
+1048613	impf
+1048619	impf
+1048621	impf
+1048623	impf
+1048626	impf
+1048628	impf
+1048631	ptz.
+1048633	infc
+1048635	impf
+1048639	impf
+1048641	impf
+1048645	impf
+1048647	impf
+1048649	ptz.
+1048651	impf
+1048654	ptz.
+1048656	impf
+1048658	pf.cons.
+1048665	impf
+1048667	pf.cons.
+1048673	impf
+1048679	impf
+impf
+impf
+1048683	impf
+1048689	perf
+1048701	impf
+1048704	ptz.
+1048707	impf
+1048714	perf
+perf
+1048718	impf
+1048720	perf
+1048724	perf
+1048726	impf
+1048728	impf
+1048730	perf
+1048741	perf
+1048745	impf
+1048747	ptz.
+1048752	perf
+1048755	wayq
+1048758	ptz.
+1048760	wayq
+1048769	impf
+impf
+1048775	infc
+1048781	infc
+1048785	impf
+1048789	impf
+ptz.
+1048798	impf
+impv
+1048808	impf
+impf
+1048811	impf
+1048821	ptz.
+1048824	ptz.
+1048830	ptz.
+1048832	impf
+1048836	impf
+1048841	infc
+1048844	perf
+1048852	ptz.
+1048854	ptz.
+1048858	ptz.
+1048862	impf
+1048874	impf
+1048883	impf
+1048888	ptz.
+1048911	ptz.
+1048913	impf
+1048918	ptz.
+impf
+impf
+1048923	impf
+1048928	ptz.
+impf
+impf
+1048939	perf
+1048944	perf
+1048950	perf
+ptz.
+1048955	perf
+1048959	ptz.
+1048965	impf
+1048970	impf
+1048977	impf
+impv
+1048983	impv
+1048989	impv
+impv
+1049000	pf.cons.
+1049003	pf.cons.
+1049006	ptz.
+1049008	impf
+impf
+1049015	impv
+1049018	impv
+1049023	impf
+impf
+1049034	ptz.
+1049039	perf
+1049065	infc
+1049074	ptz.
+1049080	infc
+1049086	infc
+1049090	ptz.
+1049096	infc
+1049100	ptz.
+1049103	ptz.
+1049105	ptz.
+1049110	ptz.
+1049115	impf
+1049126	ptz.
+1049133	impf
+1049136	ptz.
+1049138	ptz.
+1049145	ptz.
+ptz.
+1049151	ptz.
+1049157	impf
+1049163	impf
+impf
+1049171	impf
+1049182	infc
+1049184	impv
+1049187	impv
+1049191	impv
+1049195	perf
+1049204	impf
+1049210	impf
+1049219	impf
+1049223	impf
+1049227	impf
+1049231	impf
+1049235	impf
+1049241	impf
+1049246	impf
+1049248	ptz.
+impf
+1049252	ptz.
+1049254	ptz.
+1049257	impf
+1049261	infc
+1049265	impf
+1049267	infc
+1049270	perf
+1049272	perf
+1049274	ptz.
+1049281	impf
+impf
+1049285	perf
+1049292	impf
+1049296	ptz.
+1049299	impf
+1049301	ptz.
+1049304	impf
+1049310	perf
+ptz.
+ptz.
+1049315	ptz.
+1049321	perf
+1049323	infc
+1049329	infc
+1049335	perf
+1049337	infc
+1049343	infc
+1049354	ptz.
+impf
+1049358	ptz.
+1049361	perf
+1049367	perf
+perf
+1049373	impf
+1049375	perf
+1049377	infc
+1049382	impf
+1049384	perf
+1049386	infc
+1049391	perf
+1049394	pf.cons.
+1049398	pf.cons.
+1049400	ptz.
+1049407	infc
+1049411	impf
+1049416	perf
+1049419	impf
+wayq
+1049426	impf
+1049429	infc
+1049431	impf
+1049433	infc
+1049436	perf
+1049438	infc
+1049442	perf
+1049445	perf
+1049449	impf
+1049461	perf
+1049463	impf
+1049469	impf
+1049472	impv
+1049477	impv
+1049480	ptz.
+1049486	perf
+1049493	impf
+1049499	impf
+impf
+impf
+impf
+1049507	perf
+1049514	ptz.
+1049520	perf
+1049528	impf
+1049531	impf
+1049535	impf
+1049539	impf
+impf
+impv
+impv
+1049550	perf
+impv
+impv
+1049556	impv
+1049560	perf
+1049563	impf
+1049565	impf
+impv
+1049575	impf
+1049577	impf
+impf
+impv
+1049584	impv
+1049589	perf
+1049594	impf
+1049597	impf
+impv
+1049605	impf
+1049607	impf
+1049613	perf
+1049618	impf
+1049624	ptz.
+ptz.
+1049631	impf
+ptz.
+1049645	ptz.
+1049656	ptz.
+1049658	perf
+1049664	ptz.
+impf
+1049673	wayq
+1049681	impv
+1049687	impf
+1049693	ptz.
+1049696	perf
+1049700	wayq
+1049702	impv
+1049706	impf
+1049711	impf
+1049713	impv
+1049716	impv
+1049720	impf
+1049725	impf
+1049727	impf
+impf
+1049732	impf
+1049736	ptz.
+1049740	impf
+1049744	ptz.
+1049751	impf
+1049754	perf
+1049757	ptz.
+1049759	ptz.
+1049765	infc
+1049769	perf
+1049771	infc
+ptz.
+ptz.
+1049788	impf
+1049793	ptz.
+1049801	perf
+1049803	perf
+1049810	ptz.
+1049820	ptz.
+1049826	perf
+perf
+1049837	ptz.
+1049847	ptz.
+1049850	ptz.
+1049852	ptz.
+1049858	impf
+1049862	impf
+1049865	impf
+impf
+1049878	impv
+1049882	impf
+impv
+1049887	impf
+1049890	impf
+1049896	impf
+1049898	impv
+ptz.
+1049904	impv
+impv
+1049909	impf
+1049913	ptz.
+infc
+1049919	impf
+1049926	impf
+1049932	impf
+1049967	ptz.
+1049973	perf
+ptz.
+1049987	impv
+1050000	impf
+1050002	impf
+1050004	impv
+1050006	infc
+1050008	impv
+1050011	impv
+1050013	ptz.
+1050015	ptz.
+1050020	impf
+1050024	impf
+1050027	infc
+infc
+1050032	impf
+1050038	impf
+1050043	impf
+1050048	ptz.
+impf
+1050052	impf
+1050055	perf
+1050061	impf
+impv
+1050066	impv
+1050072	impf
+1050076	perf
+1050081	impv
+1050097	impv
+ptz.
+ptz.
+1050102	ptz.
+1050104	impf
+1050107	ptz.
+impf
+1050110	impv
+1050114	impv
+1050116	ptz.
+1050118	impf
+1050121	ptz.
+impf
+1050124	ptz.
+1050128	impf
+1050130	wayq
+1050133	impf
+ptz.
+1050136	impf
+1050138	ptz.
+impf
+1050141	ptz.
+1050143	impf
+impf
+1050150	impf
+ptz.
+1050153	impf
+impf
+1050160	impf
+1050169	impf
+1050174	impf
+1050179	impf
+impf
+1050182	infc
+1050186	impf
+1050192	impf
+1050198	impf
+1050204	impf
+1050209	impf
+1050215	impf
+1050221	impf
+1050227	impf
+1050233	impf
+1050238	impf
+1050244	impf
+impf
+1050257	impv
+1050259	impv
+1050261	impf
+1050268	impv
+1050272	impv
+1050276	ptz.
+1050278	ptz.
+1050285	impv
+1050288	ptz.
+1050290	ptz.
+1050292	ptz.
+1050294	ptz.
+1050297	ptz.
+1050301	impf
+ptz.
+1050305	impf
+1050312	impf
+ptz.
+1050316	ptz.
+1050323	ptz.
+impf
+1050332	impv
+1050337	impv
+impv
+1050342	impv
+1050368	infc
+infc
+1050372	ptz.
+1050374	ptz.
+1050385	impf
+1050388	impf
+1050391	impf
+1050404	impf
+1050413	impf
+1050417	impf
+1050423	impf
+1050426	impf
+1050432	impf
+1050438	infc
+perf
+1050444	perf
+perf
+1050456	impf
+1050458	impf
+1050460	perf
+1050465	impf
+1050467	impf
+1050469	impf
+1050471	impf
+1050475	ptz.
+ptz.
+1050478	impf
+1050480	ptz.
+1050484	impf
+1050489	impf
+1050495	impf
+1050497	impf
+1050503	impf
+1050508	impf
+1050516	impf
+1050520	impf
+1050530	impf
+1050534	pf.cons.
+1050538	impf
+1050548	impv
+1050552	impv
+1050557	impv
+1050562	impf
+1050568	perf
+1050575	impv
+1050583	perf
+1050588	impv
+1050591	impf
+1050594	perf
+1050599	impv
+1050602	impv
+1050604	impv
+1050607	impv
+1050611	impv
+1050614	impv
+1050616	impv
+1050619	impv
+1050621	impv
+1050624	impv
+1050627	impv
+1050629	impv
+1050632	impf
+impv
+1050636	impv
+1050640	impf
+1050643	pf.cons.
+1050645	impf
+impv
+1050652	ptz.
+1050656	impv
+1050661	impf
+1050665	impv
+1050668	perf
+1050673	perf
+impv
+1050680	infc
+impv
+1050692	impv
+1050699	impv
+1050701	perf
+1050704	impv
+1050708	impf
+impf
+1050730	ptz.
+1050738	ptz.
+1050744	ptz.
+1050748	impf
+1050756	ptz.
+1050761	ptz.
+1050765	ptz.
+1050770	ptz.
+1050776	impf
+1050781	impf
+1050785	impf
+1050792	impf
+1050796	perf
+1050803	impf
+impf
+1050817	perf
+1050827	ptz.
+1050833	impf
+1050839	ptz.
+1050841	ptz.
+1050843	impf
+1050847	ptz.
+1050856	ptz.
+1050859	impf
+1050864	ptz.
+perf
+perf
+1050870	ptz.
+ptz.
+1050877	ptz.
+1050881	ptz.
+ptz.
+perf
+1050886	ptz.
+1050888	ptz.
+1050892	ptz.
+ptz.
+1050899	ptz.
+1050904	impf
+1050907	perf
+1050909	infc
+1050915	impf
+1050917	perf
+ptz.
+ptz.
+ptz.
+1050928	impf
+impf
+1050931	ptz.
+ptz.
+1050938	ptz.
+1050942	ptz.
+ptz.
+1050947	impf
+1050950	impf
+1050956	impf
+1050960	infc
+1050964	impf
+1050971	impf
+1050974	ptz.
+impf
+1050979	ptz.
+1050984	ptz.
+ptz.
+1050989	ptz.
+1050993	ptz.
+impv
+1050997	impv
+1051003	ptz.
+1051006	impf
+impf
+1051010	impf
+1051019	infc
+1051022	infc
+1051037	ptz.
+1051043	impf
+1051049	ptz.
+ptz.
+1051055	ptz.
+1051062	impf
+1051071	ptz.
+1051075	ptz.
+1051078	ptz.
+1051080	ptz.
+1051092	ptz.
+1051095	impf
+ptz.
+1051106	impf
+impf
+impf
+1051113	impf
+1051119	perf
+1051121	impf
+impf
+1051124	ptz.
+1051137	impf
+1051141	ptz.
+1051144	ptz.
+1051147	ptz.
+1051154	impv
+1051158	impf
+1051162	impv
+1051179	impf
+1051190	ptz.
+1051196	ptz.
+1051201	ptz.
+1051211	ptz.
+1051213	perf
+ptz.
+1051220	infc
+1051222	ptz.
+1051228	ptz.
+1051234	impf
+impf
+1051245	ptz.
+1051262	impf
+1051265	impf
+ptz.
+1051270	impv
+1051273	impv
+1051278	impf
+1051293	impf
+1051301	impf
+1051307	impf
+impf
+1051313	impf
+impf
+1051317	impf
+impf
+1051323	impf
+1051325	ptz.
+1051331	impf
+1051335	ptz.
+1051337	impf
+impf
+1051342	impf
+ptz.
+1051346	ptz.
+ptz.
+1051352	impf
+1051354	perf
+1051356	ptz.
+impf
+1051359	impf
+1051362	infc
+1051365	perf
+1051371	perf
+1051376	impf
+ptz.
+1051382	impf
+1051385	ptz.
+impf
+1051392	impf
+impf
+1051398	ptz.
+1051402	ptz.
+1051404	impf
+1051406	perf
+1051412	perf
+1051417	infc
+1051425	wayq
+1051430	infc
+1051436	ptz.
+impf
+1051441	ptz.
+ptz.
+1051447	impf
+1051454	impf
+1051464	impf
+impv
+1051477	infc
+1051483	impv
+1051485	impv
+1051488	infc
+1051494	impv
+1051501	impv
+1051506	ptz.
+impv
+1051511	impf
+1051518	impf
+1051533	impf
+1051542	impf
+1051544	impf
+impf
+1051553	impf
+1051555	ptz.
+1051558	ptz.
+impf
+1051562	ptz.
+impf
+1051568	ptz.
+impv
+1051571	impv
+1051573	impv
+1051575	impv
+1051578	impv
+1051584	impf
+1051591	impf
+1051594	impv
+impv
+1051598	impv
+1051601	impv
+1051604	ptz.
+1051608	impv
+1051616	impv
+1051622	ptz.
+1051627	impf
+1051630	impf
+1051634	impv
+1051637	impv
+1051639	impf
+1051642	impv
+impv
+1051655	impf
+1051661	impf
+1051664	impf
+ptz.
+ptz.
+pf.cons.
+1051670	impv
+1051672	infc
+1051675	infc
+ptz.
+impf
+1051680	ptz.
+impf
+1051687	impf
+1051689	impf
+ptz.
+1051693	ptz.
+1051696	ptz.
+1051699	impf
+impf
+1051702	infc
+1051713	impf
+1051719	infc
+1051722	impf
+1051724	infc
+1051726	perf
+1051729	ptz.
+1051732	impf
+1051744	impf
+1051755	impf
+1051762	impf
+1051765	impf
+1051773	impf
+1051785	ptz.
+1051789	ptz.
+1051795	impf
+1051809	ptz.
+1051815	infc
+1051824	perf
+ptz.
+1051828	impf
+1051831	infc
+1051840	impf
+1051844	perf
+1051849	perf
+1051853	impf
+1051855	impf
+1051859	perf
+1051861	impf
+1051865	impf
+1051871	perf
+perf
+1051905	impf
+1051911	perf
+1051918	impf
+1051930	perf
+1051940	infc
+1051942	infc
+1051947	perf
+1051955	impf
+impf
+1051958	perf
+1051964	infc
+1051966	impf
+1051971	impf
+1051977	perf
+1051979	perf
+1051983	perf
+1051991	ptz.
+1051994	impf
+impf
+1051998	infc
+1052007	impf
+1052011	impf
+1052016	impv
+1052018	impv
+1052024	perf
+perf
+1052036	infc
+1052042	infc
+1052050	ptz.
+1052056	infc
+1052063	ptz.
+perf
+ptz.
+1052067	ptz.
+1052073	ptz.
+1052076	ptz.
+1052090	infc
+1052095	impf
+impf
+impf
+1052101	infc
+1052104	impf
+1052110	perf
+1052117	ptz.
+1052120	infc
+1052137	perf
+1052142	impf
+1052150	impf
+1052157	impf
+1052192	infc
+1052195	impf
+1052200	impf
+infc
+ptz.
+1052206	impf
+1052220	impf
+1052239	perf
+1052242	perf
+1052248	impf
+1052253	impf
+1052258	impf
+1052262	ptz.
+1052270	impf
+1052275	ptz.
+1052280	impf
+1052286	ptz.
+1052290	impf
+1052300	impf
+1052309	impf
+1052318	impf
+1052320	ptz.
+1052327	ptz.
+1052338	ptz.
+1052344	infc
+1052365	impf
+1052380	infc
+1052391	perf
+perf
+1052396	impf
+1052398	ptz.
+1052400	ptz.
+1052403	ptz.
+1052410	infc
+1052412	ptz.
+1052420	ptz.
+1052423	ptz.
+1052430	ptz.
+1052435	impf
+1052440	impf
+1052446	ptz.
+1052449	ptz.
+1052457	impf
+1052460	ptz.
+1052467	ptz.
+1052475	infc
+1052494	ptz.
+impf
+impf
+1052499	perf
+1052503	ptz.
+perf
+1052508	ptz.
+ptz.
+1052511	ptz.
+1052514	ptz.
+ptz.
+1052518	ptz.
+1052521	ptz.
+1052524	ptz.
+ptz.
+1052527	ptz.
+1052530	ptz.
+1052533	ptz.
+1052536	impf
+1052540	impv
+1052554	impf
+1052571	ptz.
+1052582	ptz.
+1052593	impf
+1052598	impf
+1052601	impf
+1052603	impf
+1052609	ptz.
+1052613	impf
+impf
+1052620	impf
+1052628	impf
+1052654	impf
+1052656	impv
+1052661	impf
+1052688	ptz.
+1052691	ptz.
+1052698	ptz.
+1052702	ptz.
+1052706	ptz.
+1052710	impf
+1052716	impv
+1052719	impv
+1052726	ptz.
+1052728	infc
+1052732	infc
+ptz.
+impv
+1052743	ptz.
+1052772	impf
+1052790	infc
+1052795	perf
+infc
+1052799	infc
+1052807	infc
+1052810	ptz.
+infc
+1052813	ptz.
+1052815	infc
+1052824	infc
+1052826	perf
+1052828	ptz.
+1052837	impf
+1052850	pf.cons.
+ptz.
+1052855	ptz.
+1052865	impf
+1052868	impf
+1052883	ptz.
+1052895	ptz.
+1052938	impf
+1052948	impf
+1052951	impf
+1052953	impf
+1052963	impf
+1052971	ptz.
+1052975	ptz.
+1052979	ptz.
+1052981	ptz.
+1052988	ptz.
+1052990	ptz.
+1052994	pf.cons.
+1053011	impf
+1053019	impf
+1053027	impf
+1053031	impf
+1053036	impf
+1053041	impf
+1053043	ptz.
+1053050	impf
+1053054	impf
+1053060	impf
+1053065	ptz.
+1053069	impv
+1053080	perf
+1053085	pf.cons.
+1053092	perf
+1053097	impf
+1053099	impf
+1053103	ptz.
+1053106	impf
+1053111	impf
+1053117	impf
+1053119	impf
+1053123	impf
+perf
+1053139	ptz.
+impf
+1053150	ptz.
+ptz.
+impf
+1053154	impf
+1053160	perf
+1053162	koh.
+1053169	ptz.
+1053173	perf
+1053176	ptz.
+1053179	perf
+1053187	perf
+1053191	infc
+ptz.
+1053195	perf
+1053199	infc
+1053205	infc
+1053209	perf
+1053215	impf
+ptz.
+1053218	ptz.
+1053220	ptz.
+1053222	ptz.
+1053224	ptz.
+1053226	perf
+1053232	perf
+1053235	perf
+1053241	perf
+1053251	perf
+1053254	perf
+1053260	ptz.
+1053264	perf
+1053270	perf
+ptz.
+1053274	impf
+1053279	perf
+1053283	impf
+1053285	infc
+1053295	ptz.
+1053298	ptz.
+ptz.
+1053303	perf
+1053305	ptz.
+1053309	ptz.
+1053311	infc
+1053313	infc
+impf
+1053320	impf
+1053322	ptz.
+ptz.
+1053325	ptz.
+1053328	impf
+1053331	ptz.
+impf
+1053335	impf
+ptz.
+1053340	impf
+1053344	perf
+1053346	ptz.
+1053349	impf
+1053354	perf
+impf
+1053359	impf
+1053362	ptz.
+1053390	ptz.
+1053392	ptz.
+1053394	infc
+1053405	ptz.
+1053409	ptz.
+1053417	impf
+1053423	ptz.
+1053430	impf
+1053434	impf
+impf
+1053438	impf
+impv
+1053442	impv
+ptz.
+1053446	perf
+perf
+1053450	ptz.
+perf
+1053453	perf
+perf
+1053462	perf
+1053466	perf
+1053471	impf
+1053474	impf
+1053480	impf
+1053483	impf
+1053486	impf
+1053492	perf
+1053495	wayq
+1053503	impf
+1053512	impf
+1053517	impf
+1053520	impf
+1053526	impf
+1053531	impf
+1053535	infc
+1053538	impf
+impf
+1053541	impf
+1053543	impf
+1053549	impf
+1053552	impf
+impf
+1053557	impf
+1053561	impf
+1053567	impf
+1053571	impf
+1053578	impf
+1053591	ptz.
+ptz.
+1053595	infc
+infc
+1053599	ptz.
+ptz.
+1053602	ptz.
+1053604	impf
+1053608	wayq
+wayq
+1053615	ptz.
+1053617	impf
+1053622	impf
+1053635	impf
+1053640	impf
+1053648	impf
+1053659	impf
+1053666	impf
+1053670	ptz.
+1053673	impv
+1053677	impf
+1053681	ptz.
+impf
+1053686	impf
+1053689	impf
+ptz.
+impv
+1053695	impf
+1053698	impf
+1053700	ptz.
+1053703	ptz.
+1053708	perf
+1053716	impf
+1053726	perf
+perf
+1053733	perf
+perf
+1053748	ptz.
+1053751	ptz.
+1053755	ptz.
+1053759	ptz.
+1053775	ptz.
+1053778	ptz.
+1053782	ptz.
+1053790	ptz.
+1053793	ptz.
+1053804	perf
+1053810	perf
+1053813	infc
+1053817	infc
+1053819	infc
+1053828	wayq
+1053831	perf
+1053835	perf
+perf
+1053851	perf
+1053857	impf
+1053863	impf
+1053867	impf
+1053870	perf
+1053873	perf
+1053876	perf
+1053885	perf
+1053890	perf
+1053894	perf
+1053899	perf
+1053904	perf
+1053908	infc
+1053911	perf
+1053917	perf
+1053923	perf
+1053927	perf
+1053933	perf
+1053939	perf
+ptz.
+1053945	perf
+1053948	infc
+1053953	infc
+1053970	perf
+perf
+1053981	perf
+1053984	perf
+1053989	wayq
+1053993	wayq
+1053997	wayq
+1054001	wayq
+1054007	infc
+1054011	wayq
+1054014	ptz.
+1054021	perf
+1054031	wayq
+1054039	wayq
+1054048	perf
+1054056	wayq
+1054060	wayq
+1054069	wayq
+1054071	infc
+1054084	wayq
+1054092	wayq
+1054097	wayq
+1054101	wayq
+1054105	wayq
+1054112	wayq
+1054117	wayq
+1054122	wayq
+1054132	wayq
+1054139	infc
+1054144	infc
+1054160	ptz.
+1054186	ptz.
+1054209	perf
+perf
+1054222	impf
+1054229	wayq
+1054234	wayq
+1054239	wayq
+1054250	infc
+1054253	infc
+1054257	infc
+1054263	wayq
+1054269	infc
+1054275	infc
+1054282	infc
+1054287	wayq
+1054291	wayq
+1054297	wayq
+1054307	wayq
+1054311	wayq
+1054326	wayq
+1054329	wayq
+1054331	wayq
+1054336	wayq
+1054340	wayq
+1054348	wayq
+1054352	perf
+1054357	impf
+1054367	impf
+1054369	impf
+impf
+1054383	infc
+1054388	wayq
+1054396	wayq
+1054404	perf
+1054409	infc
+1054412	impf
+1054444	impv
+1054449	ptz.
+1054453	impf
+1054460	impf
+1054472	ptz.
+1054477	perf
+1054479	infc
+1054487	infc
+1054492	infc
+1054496	perf
+1054498	infc
+1054501	infc
+1054509	impf
+1054513	perf
+1054518	perf
+1054523	perf
+1054528	infc
+1054530	wayq
+1054540	infc
+1054545	ptz.
+1054551	perf
+1054558	perf
+1054566	infc
+1054568	infc
+1054571	infc
+1054577	infc
+1054585	perf
+1054592	infc
+1054596	ptz.
+1054601	wayq
+1054608	perf
+1054611	infc
+1054618	perf
+1054622	infc
+1054629	infc
+1054633	ptz.
+1054640	perf
+1054644	perf
+1054648	impf
+1054657	ptz.
+ptz.
+1054660	ptz.
+ptz.
+ptz.
+1054671	ptz.
+1054673	ptz.
+1054676	perf
+1054679	wayq
+1054683	perf
+1054690	infc
+1054692	perf
+ptz.
+1054702	infc
+1054706	perf
+1054709	wayq
+1054714	wayq
+wayq
+1054722	infc
+1054725	perf
+1054733	ptz.
+1054745	ptz.
+perf
+1054759	perf
+1054761	wayq
+1054766	wayq
+1054775	perf
+1054778	infc
+1054785	ptz.
+1054795	perf
+1054806	perf
+1054809	wayq
+1054813	infc
+1054819	wayq
+wayq
+1054824	perf
+1054829	wayq
+1054834	infc
+1054837	ptz.
+1054841	infc
+1054846	perf
+1054850	wayq
+1054854	infc
+1054856	perf
+1054860	perf
+1054863	wayq
+1054870	perf
+1054875	perf
+1054884	ptz.
+ptz.
+1054890	perf
+1054894	perf
+1054896	infc
+1054903	impf
+impf
+1054907	perf
+1054913	perf
+1054916	wayq
+1054921	wayq
+1054927	perf
+1054933	perf
+1054936	ptz.
+ptz.
+1054941	perf
+1054948	perf
+1054953	perf
+1054958	wayq
+1054963	perf
+1054967	wayq
+1054972	perf
+1054974	wayq
+1054986	perf
+perf
+1054990	ptz.
+ptz.
+1054995	wayq
+1055002	perf
+1055005	wayq
+1055010	wayq
+1055014	impf
+1055019	impf
+1055035	impf
+1055039	impf
+1055046	ptz.
+1055048	impf
+1055050	wayq
+1055052	wayq
+1055054	ptz.
+1055056	wayq
+1055065	perf
+1055071	perf
+1055073	impf
+1055080	perf
+1055082	wayq
+1055086	wayq
+1055091	infc
+1055095	wayq
+1055102	perf
+1055105	perf
+1055113	ptz.
+1055115	wayq
+1055122	perf
+1055126	perf
+1055132	ptz.
+1055135	ptz.
+ptz.
+1055145	ptz.
+1055150	ptz.
+1055153	ptz.
+1055161	perf
+1055170	ptz.
+1055178	ptz.
+ptz.
+1055183	infc
+1055188	infc
+1055195	infc
+perf
+1055198	perf
+1055203	perf
+1055212	perf
+1055217	perf
+1055225	perf
+1055229	perf
+ptz.
+1055240	perf
+1055244	perf
+1055251	perf
+1055256	wayq
+1055267	perf
+1055272	perf
+1055275	perf
+1055278	infc
+1055283	wayq
+1055288	wayq
+1055293	perf
+1055296	wayq
+1055301	wayq
+1055305	perf
+1055310	wayq
+1055312	ptz.
+1055314	wayq
+1055320	wayq
+wayq
+1055325	wayq
+1055330	wayq
+1055336	wayq
+1055343	wayq
+1055350	perf
+1055353	wayq
+1055358	perf
+infc
+1055361	ptz.
+1055364	infc
+1055370	ptz.
+1055372	ptz.
+1055377	impf
+1055386	perf
+perf
+1055392	wayq
+1055397	wayq
+wayq
+1055406	perf
+1055416	wayq
+1055422	infc
+1055424	wayq
+1055435	wayq
+1055440	wayq
+impf
+1055447	perf
+1055452	perf
+1055455	infc
+1055458	infc
+1055461	infc
+1055463	infc
+1055467	infc
+1055469	infc
+1055472	infc
+1055474	perf
+1055477	wayq
+1055482	perf
+1055486	ptz.
+1055495	impf
+1055497	ptz.
+1055500	perf
+1055504	wayq
+1055506	impf
+1055508	wayq
+1055511	ptz.
+1055516	impf
+impf
+1055519	ptz.
+1055523	wayq
+1055527	wayq
+1055532	perf
+1055540	perf
+1055545	perf
+1055550	perf
+1055557	perf
+1055576	perf
+1055581	perf
+1055586	perf
+1055595	perf
+1055602	ptz.
+1055610	ptz.
+1055615	perf
+ptz.
+1055618	infc
+1055623	infc
+1055631	ptz.
+1055640	ptz.
+1055647	ptz.
+1055654	ptz.
+1055689	ptz.
+1055702	ptz.
+1055705	infc
+1055709	infc
+1055713	infc
+1055718	impf
+1055722	infc
+1055729	perf
+1055742	wayq
+1055761	infc
+1055763	infc
+1055767	infc
+1055771	impf
+1055779	wayq
+1055781	wayq
+1055785	infc
+1055792	perf
+1055794	wayq
+1055799	infc
+1055808	wayq
+1055814	perf
+1055817	wayq
+1055827	infc
+1055829	infc
+1055833	perf
+1055836	perf
+1055838	perf
+1055853	perf
+1055855	wayq
+1055857	infc
+1055860	impv
+1055866	ptz.
+1055868	infc
+1055871	ptz.
+1055876	impf
+1055879	impf
+1055884	impf
+1055888	impf
+1055893	impf
+1055899	impf
+1055910	ptz.
+1055916	ptz.
+1055923	ptz.
+1055940	perf
+perf
+1055943	infc
+1055947	perf
+1055954	impf
+1055956	ptz.
+1055959	impf
+1055964	impf
+1055967	impf
+1055970	koh.
+1055975	perf
+1055979	perf
+1055987	perf
+1055989	perf
+1056000	ptz.
+ptz.
+1056004	ptz.
+perf
+1056007	perf
+1056013	ptz.
+1056018	ptz.
+1056023	perf
+1056036	perf
+1056045	ptz.
+1056052	wayq
+1056062	wayq
+1056066	ptz.
+1056069	wayq
+ptz.
+1056074	koh.
+1056083	ptz.
+1056085	ptz.
+1056088	impf
+1056095	wayq
+1056104	impf
+1056113	koh.
+1056117	impf
+1056121	perf
+1056125	wayq
+1056128	wayq
+1056133	wayq
+1056139	perf
+1056141	koh.
+1056143	koh.
+1056147	impv
+1056156	impv
+1056166	impv
+1056168	ptz.
+1056174	impv
+1056176	ptz.
+1056182	impv
+1056184	ptz.
+1056190	impv
+1056192	ptz.
+ptz.
+1056199	impv
+1056201	ptz.
+1056209	impv
+1056211	ptz.
+1056220	impv
+1056222	ptz.
+1056227	infc
+1056232	impv
+1056240	impv
+1056248	impv
+1056256	impv
+1056258	ptz.
+1056265	impv
+1056275	wayq
+1056288	impv
+1056292	perf
+1056294	perf
+1056297	perf
+1056300	perf
+1056306	perf
+1056308	wayq
+1056314	perf
+1056317	perf
+1056321	impf
+1056323	perf
+1056325	infc
+1056328	impf
+1056330	impf
+perf
+1056337	impf
+1056340	perf
+1056347	impf
+1056350	perf
+1056354	impf
+impf
+1056360	perf
+1056363	perf
+1056371	impf
+impf
+1056376	infc
+1056381	perf
+1056384	perf
+1056392	impf
+impv
+1056397	impv
+1056403	impf
+1056412	impf
+1056414	perf
+1056416	perf
+1056418	impv
+1056428	impv
+1056431	impf
+1056436	ptz.
+1056438	ptz.
+1056440	ptz.
+1056442	impv
+1056447	perf
+1056449	perf
+1056452	perf
+1056454	perf
+1056462	impf
+1056464	impf
+1056470	impf
+1056474	impv
+1056479	ptz.
+1056484	ptz.
+1056489	ptz.
+1056502	perf
+1056513	impf
+1056516	ptz.
+1056525	impf
+impf
+1056532	impf
+impf
+1056540	ptz.
+1056543	ptz.
+ptz.
+1056547	ptz.
+1056549	impf
+1056557	impv
+1056562	impf
+1056567	impf
+1056573	impf
+1056578	impf
+1056583	impf
+1056586	perf
+1056590	impf
+1056595	ptz.
+1056597	infc
+1056601	infc
+ptz.
+1056606	ptz.
+1056614	ptz.
+1056624	impf
+1056626	ptz.
+1056628	ptz.
+1056631	ptz.
+ptz.
+1056635	impf
+1056641	impf
+1056646	impf
+1056651	impf
+1056655	impf
+impf
+1056662	ptz.
+1056666	impf
+1056668	ptz.
+1056670	infc
+1056672	impf
+perf
+1056676	impf
+1056685	impf
+1056687	infc
+1056692	pf.cons.
+1056698	impf
+1056707	impf
+1056710	impf
+1056712	infc
+1056716	impf
+1056723	impf
+1056729	impf
+1056731	impf
+ptz.
+1056738	impf
+1056742	impv
+ptz.
+1056748	impf
+1056750	impv
+ptz.
+1056759	impf
+ptz.
+1056764	impv
+1056769	impv
+1056778	ptz.
+1056780	ptz.
+1056782	impf
+1056787	ptz.
+impf
+1056793	impf
+ptz.
+1056798	ptz.
+1056802	impf
+1056811	ptz.
+impf
+impf
+1056819	impf
+1056827	ptz.
+1056830	perf
+ptz.
+1056834	impv
+1056837	impf
+impf
+1056840	infc
+1056843	ptz.
+ptz.
+ptz.
+1056848	ptz.
+infc
+1056854	impf
+1056856	ptz.
+1056861	impf
+1056866	ptz.
+1056872	impf
+1056877	impf
+perf
+1056883	impf
+1056885	ptz.
+impv
+1056889	ptz.
+impv
+ptz.
+1056897	ptz.
+perf
+1056902	ptz.
+1056912	impf
+1056916	ptz.
+impf
+1056924	impv
+1056929	impf
+1056932	ptz.
+1056935	ptz.
+impv
+1056938	impf
+1056943	impf
+1056947	impf
+impf
+1056954	impv
+1056956	infc
+1056961	impf
+1056963	impf
+1056965	impv
+1056970	impf
+1056980	impf
+1056982	infc
+1056988	infc
+1056992	impv
+1057000	impf
+1057002	ptz.
+1057007	ptz.
+1057010	ptz.
+impv
+1057015	impf
+1057020	impv
+1057023	impv
+1057029	impv
+1057032	impf
+1057035	impv
+1057038	impf
+pf.cons.
+1057041	impv
+1057043	impf
+1057045	impf
+1057054	impf
+ptz.
+1057057	ptz.
+1057063	ptz.
+1057067	ptz.
+ptz.
+1057070	impf
+1057078	impf
+1057081	ptz.
+1057084	ptz.
+1057088	ptz.
+1057094	ptz.
+1057096	perf
+1057099	impf
+1057105	impf
+1057111	ptz.
+1057121	ptz.
+1057123	perf
+1057129	impf
+impf
+1057138	impf
+1057142	ptz.
+impf
+1057145	impf
+1057158	impf
+1057160	ptz.
+1057169	ptz.
+1057172	ptz.
+1057176	ptz.
+1057185	impf
+1057189	impf
+1057195	impf
+1057207	ptz.
+1057209	infc
+1057211	perf
+1057217	infc
+1057219	perf
+1057221	infc
+1057223	ptz.
+1057225	perf
+1057231	ptz.
+1057235	ptz.
+1057240	ptz.
+1057242	impf
+1057245	impf
+1057250	ptz.
+1057252	impf
+1057255	impf
+1057261	impf
+impf
+1057266	impf
+1057273	perf
+1057278	pf.cons.
+1057285	perf
+1057291	ptz.
+1057296	ptz.
+1057299	ptz.
+1057318	impf
+1057322	impf
+1057327	infc
+1057330	impf
+1057336	infc
+impf
+1057344	ptz.
+impf
+1057357	ptz.
+1057359	impf
+1057368	impf
+1057374	ptz.
+1057384	impf
+impf
+1057395	perf
+1057407	impf
+1057416	ptz.
+1057418	impf
+1057421	impf
+1057431	ptz.
+1057434	ptz.
+1057444	ptz.
+1057463	impf
+1057474	perf
+1057481	perf
+1057485	impf
+1057491	ptz.
+1057493	ptz.
+impf
+1057499	ptz.
+1057510	ptz.
+1057513	impf
+ptz.
+1057524	ptz.
+1057532	ptz.
+1057534	ptz.
+1057537	ptz.
+impv
+1057542	impf
+1057546	impv
+1057550	ptz.
+1057554	impv
+1057557	impv
+1057564	impv
+1057566	impf
+1057569	impv
+1057572	ptz.
+1057574	impv
+1057576	impf
+1057580	impv
+1057585	impv
+impv
+ptz.
+impf
+impv
+1057592	perf
+1057605	impv
+1057609	impf
+1057611	impv
+1057620	impf
+1057623	impf
+1057625	ptz.
+1057629	impv
+1057637	impf
+1057639	impf
+impf
+1057644	impf
+1057648	impf
+1057652	impf
+1057658	impf
+1057661	pf.cons.
+1057664	perf
+1057667	ptz.
+1057676	impf
+1057681	impf
+1057685	impf
+1057687	ptz.
+1057690	impv
+1057697	impf
+1057701	impf
+1057704	impf
+1057709	impf
+1057712	impf
+1057715	ptz.
+1057722	infc
+1057725	impf
+impf
+1057735	perf
+1057737	ptz.
+1057739	impf
+1057744	perf
+1057746	ptz.
+1057748	impf
+1057750	ptz.
+1057754	impf
+1057758	impf
+1057760	impf
+1057767	impf
+1057771	impf
+1057776	impf
+1057782	ptz.
+impf
+impf
+1057786	infc
+1057792	impf
+impf
+1057802	impf
+1057808	ptz.
+1057810	ptz.
+impf
+1057815	ptz.
+1057826	ptz.
+1057829	impf
+1057831	ptz.
+ptz.
+perf
+1057836	ptz.
+1057838	ptz.
+1057842	ptz.
+ptz.
+1057848	ptz.
+1057853	impf
+1057855	perf
+1057857	infc
+1057861	ptz.
+1057864	ptz.
+ptz.
+1057875	perf
+ptz.
+1057878	ptz.
+1057884	impf
+1057887	impf
+1057893	impf
+1057897	infc
+1057899	ptz.
+ptz.
+impv
+1057904	ptz.
+1057908	ptz.
+impv
+1057912	impv
+1057920	impf
+1057927	impf
+1057929	impf
+1057932	infc
+1057935	perf
+1057939	infc
+1057943	impf
+1057946	ptz.
+1057949	ptz.
+impv
+1057961	impf
+1057965	ptz.
+1057979	ptz.
+1057990	ptz.
+1057992	impf
+ptz.
+1058002	impf
+impf
+1058016	ptz.
+1058020	ptz.
+1058027	impv
+1058031	impf
+1058043	wayq
+1058051	ptz.
+1058058	ptz.
+1058066	ptz.
+1058072	infc
+1058074	impf
+1058080	ptz.
+1058086	ptz.
+1058096	impf
+impf
+1058115	impf
+1058118	impf
+1058131	ptz.
+1058134	impf
+1058138	ptz.
+1058145	impv
+1058148	impv
+1058152	impf
+1058167	impf
+1058169	impf
+1058174	impf
+impf
+impf
+1058184	impf
+1058186	ptz.
+1058189	ptz.
+ptz.
+impf
+1058198	perf
+1058200	ptz.
+impf
+1058203	impf
+impf
+1058210	impf
+1058212	impf
+impf
+1058217	impf
+impf
+1058221	infc
+1058223	impf
+1058226	impf
+1058236	impf
+1058238	impf
+1058243	impf
+1058250	impv
+1058252	impf
+1058258	impf
+1058260	pf.cons.
+ptz.
+1058264	ptz.
+1058268	impf
+ptz.
+1058272	ptz.
+1058279	impf
+1058285	impf
+impf
+1058291	ptz.
+1058293	ptz.
+ptz.
+1058297	impf
+impf
+1058302	perf
+1058310	perf
+1058316	perf
+1058319	perf
+1058328	perf
+1058333	impf
+1058335	wayq
+1058337	ptz.
+1058340	wayq
+1058344	perf
+1058349	infc
+1058353	infc
+1058370	impv
+1058380	perf
+1058383	perf
+1058388	perf
+1058391	ptz.
+perf
+impv
+1058398	perf
+1058402	ptz.
+impv
+1058409	ptz.
+1058414	ptz.
+1058418	impf
+1058430	impf
+impf
+1058434	impf
+1058440	infc
+1058442	infc
+1058446	infc
+1058450	infc
+1058456	impv
+1058460	impf
+1058472	impv
+1058485	impv
+1058489	impf
+1058493	perf
+1058495	impf
+impv
+1058500	impf
+1058502	infc
+1058505	ptz.
+1058510	impf
+1058520	impf
+1058529	impv
+1058531	impf
+1058535	perf
+impf
+perf
+1058539	perf
+1058543	impf
+1058548	impf
+1058550	ptz.
+1058559	impf
+1058561	ptz.
+1058572	ptz.
+1058576	impf
+1058588	ptz.
+1058593	ptz.
+ptz.
+1058597	ptz.
+1058602	impf
+1058606	impf
+1058612	impf
+1058616	impf
+1058621	impf
+1058628	perf
+1058630	impf
+1058636	impf
+1058638	impv
+1058643	impv
+1058647	impf
+impv
+1058653	impf
+1058656	impf
+1058662	impf
+1058664	impv
+1058670	impv
+1058674	impf
+1058713	impv
+1058715	ptz.
+1058721	impf
+1058724	impv
+1058729	impv
+ptz.
+ptz.
+1058736	ptz.
+impf
+1058741	impf
+1058743	wayq
+1058747	impf
+impf
+1058754	ptz.
+1058756	impf
+impf
+1058760	impf
+1058763	impf
+1058767	impf
+impf
+1058771	infc
+1058775	impf
+1058778	impf
+1058782	impf
+1058786	impf
+1058793	impf
+1058799	impf
+1058804	impf
+1058809	impf
+1058816	impv
+1058818	ptz.
+1058821	impf
+1058827	impf
+1058829	pf.cons.
+ptz.
+1058832	ptz.
+1058835	ptz.
+1058839	impf
+1058841	impf
+ptz.
+1058845	ptz.
+1058850	impv
+1058854	impf
+1058857	impf
+impf
+1058865	ptz.
+1058869	ptz.
+ptz.
+ptz.
+1058874	ptz.
+impf
+impf
+1058882	perf
+1058884	ptz.
+1058891	perf
+1058900	perf
+1058902	impf
+impf
+perf
+1058908	ptz.
+1058916	impf
+1058925	perf
+1058930	impf
+1058935	impf
+1058940	impf
+1058944	ptz.
+1058946	impf
+1058951	ptz.
+1058955	infc
+1058962	perf
+perf
+1058965	ptz.
+1058969	ptz.
+1058978	impf
+1058984	ptz.
+1058989	ptz.
+1058996	infc
+1059011	ptz.
+1059014	ptz.
+1059017	ptz.
+1059020	impf
+1059022	impv
+1059033	perf
+ptz.
+1059037	impf
+1059040	impf
+1059043	perf
+1059046	ptz.
+1059051	impf
+1059059	impf
+1059069	impv
+1059074	impf
+1059086	ptz.
+1059089	ptz.
+1059095	ptz.
+1059099	ptz.
+1059103	impv
+1059106	impv
+1059114	infc
+1059118	infc
+ptz.
+impv
+1059154	impf
+1059158	infc
+1059166	infc
+1059170	infc
+1059175	infc
+1059177	perf
+1059179	infc
+1059181	infc
+1059185	infc
+1059190	ptz.
+1059198	infc
+1059208	pf.cons.
+1059213	ptz.
+1059223	impf
+1059226	impf
+1059267	ptz.
+1059278	ptz.
+ptz.
+ptz.
+1059284	pf.cons.
+1059300	impf
+1059305	impf
+1059309	impf
+1059314	impv
+1059323	impf
+1059325	impf
+1059330	impf
+1059335	impf
+perf
+1059350	ptz.
+ptz.
+1059357	koh.
+1059363	perf
+1059365	koh.
+impf
+1059371	perf
+1059373	koh.
+1059380	ptz.
+1059383	perf
+1059387	ptz.
+1059390	perf
+1059394	infc
+1059396	ptz.
+perf
+1059401	infc
+1059406	perf
+1059413	impf
+1059415	perf
+1059419	ptz.
+ptz.
+1059422	ptz.
+1059425	ptz.
+1059427	ptz.
+1059429	perf
+1059435	perf
+1059446	perf
+1059451	ptz.
+1059455	infc
+1059461	ptz.
+1059469	ptz.
+1059474	perf
+1059478	impf
+1059480	infc
+1059489	ptz.
+1059491	infc
+ptz.
+1059494	ptz.
+1059499	infc
+impf
+1059506	impf
+1059508	ptz.
+1059512	impf
+ptz.
+1059517	ptz.
+1059521	pf.cons.
+1059531	ptz.
+1059536	ptz.
+1059545	ptz.
+1059551	impf
+1059555	impf
+impf
+1059561	impv
+1059564	impv
+ptz.
+1059567	perf
+1059575	perf
+1059581	impf
+1059586	perf
+1059589	wayq
+1059594	perf
+1059597	impf
+1059602	impf
+1059607	impf
+1059610	impf
+impf
+1059620	impf
+1059625	impf
+infc
+1059629	impf
+1059634	impf
+1059639	impf
+1059641	wayq
+1059645	impf
+1059649	impf
+1059653	impf
+1059659	perf
+1059669	perf
+perf
+1059676	ptz.
+1059680	ptz.
+1059697	ptz.
+ptz.
+1059702	ptz.
+1059707	ptz.
+1059711	perf
+1059714	perf
+1059729	perf
+1059733	perf
+ptz.
+1059740	impf
+1059745	impf
+1059750	perf
+1059760	perf
+1059762	ptz.
+1059766	infc
+infc
+1059792	impv
+1059794	impv
+1059796	ptz.
+impf
+1059802	impf
+1059806	impf
+1059813	impf
+impf
+1059816	impf
+1059818	pf.cons.
+1059821	impf
+1059823	wayq
+1059825	infc
+1059829	wayq
+1059838	impf
+1059842	impf
+1059844	pf.cons.
+1059846	impf
+1059850	impf
+1059852	impf
+1059855	impf
+impf
+1059863	impf
+1059866	infc
+1059868	impf
+1059870	infc
+ptz.
+1059876	perf
+1059882	impv
+1059884	impv
+1059886	ptz.
+impf
+1059892	impf
+1059896	impf
+1059903	impf
+impf
+1059906	impf
+1059908	pf.cons.
+1059911	impf
+1059913	wayq
+1059915	infc
+1059919	wayq
+1059928	impf
+1059932	impf
+1059934	pf.cons.
+1059936	impf
+1059940	impf
+1059942	impf
+1059945	impf
+impf
+1059953	impf
+1059956	infc
+1059958	impf
+1059960	infc
+ptz.
+1059966	perf
+1059973	impf
+1059978	perf
+1059981	impf
+1059983	perf
+1059985	perf
+1059987	perf
+1059991	ptz.
+1059998	pf.cons.
+1060000	infc
+1060009	koh.
+1060014	koh.
+1060017	infc
+1060019	impf
+1060026	ptz.
+1060035	ptz.
+perf
+1060043	impf
+1060045	koh.
+1060050	impf
+1060052	perf
+1060063	infc
+1060067	wayq
+1060069	wayq
+1060078	impv
+1060086	perf
+1060091	infc
+1060109	pf.cons.
+impf

@@ -1,0 +1,245 @@
+{
+ "209886": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נפש[",
+  "wordReadingId": 209886
+ },
+ "209889": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]לבלתי[",
+  "wordReadingId": 209889
+ },
+ "209896": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מד]רכינו",
+  "wordReadingId": 209896
+ },
+ "209899": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מצו]ו֯תיכה[",
+  "wordReadingId": 209899
+ },
+ "209902": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 122",
+    "location2": "1",
+    "orderedId": 5220003001003,
+    "priorityOfReading": 0,
+    "reading": "עב[דכה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 209903
+   }
+  ],
+  "reading": "]מ֯ושה",
+  "wordReadingId": 209902
+ },
+ "209903": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 122",
+    "location2": "1",
+    "orderedId": 5220003001002,
+    "priorityOfReading": 0,
+    "reading": "]מ֯ושה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 209902
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "עב[דכה",
+  "wordReadingId": 209903
+ },
+ "209907": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נ֯קם",
+  "wordReadingId": 209907
+ },
+ "209911": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ובגו֯י֯ם֯[",
+  "wordReadingId": 209911
+ },
+ "209920": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "הא֯[רץ",
+  "wordReadingId": 209920
+ },
+ "209925": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 124",
+    "location2": "3",
+    "orderedId": 5220005003004,
+    "priorityOfReading": 0,
+    "reading": "נאמין",
+    "syntacticCategory": "Konjunktion",
+    "wordReadingId": 209926
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ובעבור[",
+  "wordReadingId": 209925
+ },
+ "209931": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 124",
+    "location2": "4",
+    "orderedId": 5220005004004,
+    "priorityOfReading": 0,
+    "reading": "ל֯נ֯[ו",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 209932
+   }
+  ],
+  "reading": "ותקם",
+  "wordReadingId": 209931
+ },
+ "209932": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 124",
+    "location2": "4",
+    "orderedId": 5220005004003,
+    "priorityOfReading": 0,
+    "reading": "ותקם",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 209931
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ל֯נ֯[ו",
+  "wordReadingId": 209932
+ },
+ "153367": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ו֯לישחק",
+  "wordReadingId": 153367
+ },
+ "153368": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וליע֯[קוב",
+  "wordReadingId": 153368
+ },
+ "153393": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 125",
+    "location2": "3",
+    "orderedId": 5220006003002,
+    "priorityOfReading": 0,
+    "reading": "לוא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 153392
+   }
+  ],
+  "reading": "חלצכ[",
+  "wordReadingId": 153393
+ },
+ "153396": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 125",
+    "location2": "4",
+    "orderedId": 5220006004003,
+    "priorityOfReading": 0,
+    "reading": "הגוי֯ם֯",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 153397
+   }
+  ],
+  "reading": "]כ֯ול",
+  "wordReadingId": 153396
+ },
+ "153397": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 125",
+    "location2": "4",
+    "orderedId": 5220006004002,
+    "priorityOfReading": 0,
+    "reading": "]כ֯ול",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 153396
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הגוי֯ם֯",
+  "wordReadingId": 153397
+ },
+ "153415": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נפלאותיכה[",
+  "wordReadingId": 153415
+ },
+ "153417": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "התגברתה֯[",
+  "wordReadingId": 153417
+ },
+ "153423": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ת֯אפק[",
+  "wordReadingId": 153423
+ },
+ "153434": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 129",
+    "location2": "1",
+    "orderedId": 5220010001002,
+    "priorityOfReading": 0,
+    "reading": "ולשמכ]ה",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 153433
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "הגדול֯[",
+  "wordReadingId": 153434
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "311634": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "parsingPriority": 0,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClass": "Konjunktion",
+    "wordClassAbbr": "conj.",
+    "wordPart": 0
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "gender": "maskulinum",
+    "genderAbbr": "m.",
+    "lemma": "חפר",
+    "lemmaId": 1058,
+    "number": "singularis",
+    "numberAbbr": "sg.",
+    "parsingPriority": 0,
+    "person": "2. Person",
+    "personAbbr": "2.",
+    "rootDesignation": "I",
+    "shortDefinition": "graben",
+    "verbStem": "Qal (Hebr.)",
+    "verbStemAbbr": "qal",
+    "verbTense": "Perfekt",
+    "verbTenseAbbr": "pf.",
+    "wordClass": "Verbalwurzel",
+    "wordClassAbbr": "vb.",
+    "wordPart": 1
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "ו",
+    "lemmaId": 250,
+    "rootDesignation": "II",
+    "shortDefinition": "und",
+    "wordClassAbbreviation": "conj."
+   },
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "חפר",
+    "lemmaId": 1058,
+    "rootDesignation": "I",
+    "shortDefinition": "graben",
+    "wordClassAbbreviation": "vb."
+   }
+  ]
+ },
+ "311727": {
+  "parsings": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יהוה",
+    "lemmaId": 339,
+    "parsingPriority": 0,
+    "shortDefinition": "Jhwh",
+    "wordClass": "Göttername",
+    "wordClassAbbr": "n.d.",
+    "wordPart": 0
+   }
+  ],
+  "lemmas": [
+   {
+    "databaseDate": "2026-10-06",
+    "lemma": "יהוה",
+    "lemmaId": 339,
+    "shortDefinition": "Jhwh",
+    "wordClassAbbreviation": "n.d."
+   }
+  ]
+ }
+}

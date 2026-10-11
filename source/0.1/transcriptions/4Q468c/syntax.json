@@ -1,0 +1,108 @@
+{
+ "138848": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 4500001006004,
+    "priorityOfReading": 0,
+    "reading": "באר]",
+    "syntacticCategory": "Relativum",
+    "wordReadingId": 138847
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 4500001007002,
+    "priorityOfReading": 0,
+    "reading": "חפרוה֯[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138849
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אשר",
+  "wordReadingId": 138848
+ },
+ "138849": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 4500001006004,
+    "priorityOfReading": 0,
+    "reading": "באר]",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138847
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "7",
+    "orderedId": 4500001007001,
+    "priorityOfReading": 0,
+    "reading": "אשר",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 138848
+   }
+  ],
+  "reading": "חפרוה֯[",
+  "wordReadingId": 138849
+ },
+ "138851": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "8",
+    "orderedId": 4500001008002,
+    "priorityOfReading": 0,
+    "reading": "ארץ֯[",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138852
+   }
+  ],
+  "reading": "אביוני",
+  "wordReadingId": 138851
+ },
+ "138852": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "8",
+    "orderedId": 4500001008001,
+    "priorityOfReading": 0,
+    "reading": "אביוני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 138851
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ארץ֯[",
+  "wordReadingId": 138852
+ },
+ "138862": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ויבלעוה",
+  "wordReadingId": 138862
+ }
+}

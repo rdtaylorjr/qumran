@@ -1,0 +1,173 @@
+{
+ "31548": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 610001001003,
+    "priorityOfReading": 0,
+    "reading": "אוהב]",
+    "syntacticCategory": "adj. Attribut",
+    "wordReadingId": 31547
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ת[קוף",
+  "wordReadingId": 31548
+ },
+ "31551": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אמונ]ה",
+  "wordReadingId": 31551
+ },
+ "31552": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 610001002004,
+    "priorityOfReading": 0,
+    "reading": "מחיר",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 31553
+   }
+  ],
+  "reading": "אי֯ן֯[",
+  "wordReadingId": 31552
+ },
+ "31563": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "1",
+    "orderedId": 610002001008,
+    "priorityOfReading": 0,
+    "reading": "חסר",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31562
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ל]ב",
+  "wordReadingId": 31563
+ },
+ "31581": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "נ]כח",
+  "wordReadingId": 31581
+ },
+ "31623": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "10",
+    "orderedId": 610002010001,
+    "priorityOfReading": 0,
+    "reading": "[והיתה",
+    "syntacticCategory": "Prädikatsnomen",
+    "wordReadingId": 31616
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "10",
+    "orderedId": 610002010009,
+    "priorityOfReading": 0,
+    "reading": "כתם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31624
+   }
+  ],
+  "reading": "]בגדי",
+  "wordReadingId": 31623
+ },
+ "31624": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "10",
+    "orderedId": 610002010008,
+    "priorityOfReading": 0,
+    "reading": "]בגדי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31623
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "כתם",
+  "wordReadingId": 31624
+ },
+ "31636": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "12",
+    "orderedId": 610002012007,
+    "priorityOfReading": 0,
+    "reading": "תעטרנה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 31638
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "12",
+    "orderedId": 610002012006,
+    "priorityOfReading": 0,
+    "reading": "תפארת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31637
+   }
+  ],
+  "reading": "ועטר]ת",
+  "wordReadingId": 31636
+ },
+ "31637": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 2",
+    "location2": "12",
+    "orderedId": 610002012005,
+    "priorityOfReading": 0,
+    "reading": "ועטר]ת",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31636
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "תפארת",
+  "wordReadingId": 31637
+ }
+}

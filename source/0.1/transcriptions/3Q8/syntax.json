@@ -1,0 +1,52 @@
+{
+ "32770": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]מכות",
+  "wordReadingId": 32770
+ },
+ "32773": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 810001002003,
+    "priorityOfReading": 0,
+    "reading": "שלו[ם",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32774
+   }
+  ],
+  "reading": "]מלאך",
+  "wordReadingId": 32773
+ },
+ "32774": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 810001002002,
+    "priorityOfReading": 0,
+    "reading": "]מלאך",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 32773
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "שלו[ם",
+  "wordReadingId": 32774
+ },
+ "32782": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ונמס",
+  "wordReadingId": 32782
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "271659": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ע]בודתם",
+  "wordReadingId": 271659
+ },
+ "271671": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מצרים",
+  "wordReadingId": 271671
+ },
+ "271673": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 8710001006006,
+    "priorityOfReading": 0,
+    "reading": "ישרא[ל",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 271674
+   }
+  ],
+  "reading": "בני",
+  "wordReadingId": 271673
+ },
+ "271674": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "6",
+    "orderedId": 8710001006005,
+    "priorityOfReading": 0,
+    "reading": "בני",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 271673
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ישרא[ל",
+  "wordReadingId": 271674
+ },
+ "271699": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואהרון",
+  "wordReadingId": 271699
+ },
+ "271743": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ואש",
+  "wordReadingId": 271743
+ },
+ "271750": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מושה[",
+  "wordReadingId": 271750
+ },
+ "271781": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גם",
+  "wordReadingId": 271781
+ },
+ "271787": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ארץ[",
+  "wordReadingId": 271787
+ },
+ "271796": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מושה",
+  "wordReadingId": 271796
+ },
+ "271829": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "גדולה",
+  "wordReadingId": 271829
+ },
+ "271901": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מו]שה",
+  "wordReadingId": 271901
+ },
+ "271954": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "8",
+    "orderedId": 8710005008007,
+    "priorityOfReading": 0,
+    "reading": "מצר[י]ם",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 271955
+   }
+  ],
+  "reading": "גרשום",
+  "wordReadingId": 271954
+ },
+ "271955": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 5",
+    "location2": "8",
+    "orderedId": 8710005008006,
+    "priorityOfReading": 0,
+    "reading": "גרשום",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 271954
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מצר[י]ם",
+  "wordReadingId": 271955
+ },
+ "272033": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וחברתה",
+  "wordReadingId": 272033
+ }
+}

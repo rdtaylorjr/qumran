@@ -1,0 +1,90 @@
+{
+ "32368": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 700001003004,
+    "priorityOfReading": 0,
+    "reading": "את[",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32369
+   }
+  ],
+  "reading": "ויקח",
+  "wordReadingId": 32368
+ },
+ "32369": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 700001003003,
+    "priorityOfReading": 0,
+    "reading": "ויקח",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32368
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 700001003005,
+    "priorityOfReading": 0,
+    "reading": "--]",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 32370
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "את[",
+  "wordReadingId": 32369
+ },
+ "32377": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 700001005003,
+    "priorityOfReading": 0,
+    "reading": "אנחנו",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 32378
+   }
+  ],
+  "reading": "]מי֯",
+  "wordReadingId": 32377
+ },
+ "32378": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "5",
+    "orderedId": 700001005002,
+    "priorityOfReading": 0,
+    "reading": "]מי֯",
+    "syntacticCategory": "Subjekt",
+    "wordReadingId": 32377
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "אנחנו",
+  "wordReadingId": 32378
+ }
+}

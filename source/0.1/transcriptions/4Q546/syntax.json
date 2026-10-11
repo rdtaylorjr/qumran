@@ -1,0 +1,109 @@
+{
+ "172593": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 9",
+    "location2": "3",
+    "orderedId": 5630009003003,
+    "priorityOfReading": 0,
+    "reading": "]שמה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 172594
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 9",
+    "location2": "3",
+    "orderedId": 5630009003004,
+    "priorityOfReading": 0,
+    "reading": "מ[ושה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 172595
+   }
+  ],
+  "reading": "ו]קר[את",
+  "wordReadingId": 172593
+ },
+ "172594": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 9",
+    "location2": "3",
+    "orderedId": 5630009003002,
+    "priorityOfReading": 0,
+    "reading": "ו]קר[את",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 172593
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "]שמה",
+  "wordReadingId": 172594
+ },
+ "172595": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 9",
+    "location2": "3",
+    "orderedId": 5630009003002,
+    "priorityOfReading": 0,
+    "reading": "ו]קר[את",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 172593
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מ[ושה",
+  "wordReadingId": 172595
+ },
+ "172628": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 10",
+    "location2": "3",
+    "orderedId": 5630011003003,
+    "priorityOfReading": 0,
+    "reading": "מוש֯[ה",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 172629
+   }
+  ],
+  "reading": "א]ח֯והי",
+  "wordReadingId": 172628
+ },
+ "172629": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 10",
+    "location2": "3",
+    "orderedId": 5630011003002,
+    "priorityOfReading": 0,
+    "reading": "א]ח֯והי",
+    "syntacticCategory": "Apposition",
+    "wordReadingId": 172628
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מוש֯[ה",
+  "wordReadingId": 172629
+ }
+}

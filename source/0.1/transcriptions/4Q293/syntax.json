@@ -1,0 +1,138 @@
+{
+ "807879": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]ב֯וקר",
+  "wordReadingId": 807879
+ },
+ "807880": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "קו֯[ל]ך֯",
+  "wordReadingId": 807880
+ },
+ "81968": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2580001003005,
+    "priorityOfReading": 0,
+    "reading": "לעולמי",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 81969
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2580001003005,
+    "priorityOfReading": 0,
+    "reading": "לעולמי",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 81969
+   }
+  ],
+  "reading": "הנכבד",
+  "wordReadingId": 81968
+ },
+ "81969": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2580001003004,
+    "priorityOfReading": 0,
+    "reading": "הנכבד",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 81968
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2580001003004,
+    "priorityOfReading": 0,
+    "reading": "הנכבד",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 81968
+   }
+  ],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2580001003006,
+    "priorityOfReading": 0,
+    "reading": "ע֯[ד",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 81970
+   }
+  ],
+  "reading": "לעולמי",
+  "wordReadingId": 81969
+ },
+ "81970": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 2580001003005,
+    "priorityOfReading": 0,
+    "reading": "לעולמי",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 81969
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ע֯[ד",
+  "wordReadingId": 81970
+ },
+ "81977": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]א֯ור",
+  "wordReadingId": 81977
+ },
+ "81978": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וחושך",
+  "wordReadingId": 81978
+ },
+ "81979": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "וכול",
+  "wordReadingId": 81979
+ },
+ "81983": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "]אמן",
+  "wordReadingId": 81983
+ },
+ "81984": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "אמן",
+  "wordReadingId": 81984
+ }
+}

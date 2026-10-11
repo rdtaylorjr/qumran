@@ -1,0 +1,46 @@
+{
+ "239134": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "ליהונתן",
+  "wordReadingId": 239134
+ },
+ "239151": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "5",
+    "orderedId": 8100001005006,
+    "priorityOfReading": 0,
+    "reading": "תש^א^",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 239152
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "ולא",
+  "wordReadingId": 239151
+ },
+ "239152": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "1",
+    "location2": "5",
+    "orderedId": 8100001005005,
+    "priorityOfReading": 0,
+    "reading": "ולא",
+    "syntacticCategory": "Negation",
+    "wordReadingId": 239151
+   }
+  ],
+  "reading": "תש^א^",
+  "wordReadingId": 239152
+ }
+}

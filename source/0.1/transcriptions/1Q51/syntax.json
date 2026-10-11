@@ -1,0 +1,127 @@
+{
+ "31103": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "עולם",
+  "wordReadingId": 31103
+ },
+ "31109": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "מ]אוד",
+  "wordReadingId": 31109
+ },
+ "31110": {
+  "dependedOnBy": [],
+  "dependentUpon": [],
+  "reading": "בח֯ו֯קי",
+  "wordReadingId": 31110
+ },
+ "31117": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 430001003004,
+    "priorityOfReading": 0,
+    "reading": "[צד]יק",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 31118
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 430001003005,
+    "priorityOfReading": 0,
+    "reading": "בכול",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31119
+   }
+  ],
+  "reading": "[ו]ל[ה]תהלך",
+  "wordReadingId": 31117
+ },
+ "31118": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 430001003003,
+    "priorityOfReading": 0,
+    "reading": "[ו]ל[ה]תהלך",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 31117
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[צד]יק",
+  "wordReadingId": 31118
+ },
+ "31119": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "3",
+    "orderedId": 430001003003,
+    "priorityOfReading": 0,
+    "reading": "[ו]ל[ה]תהלך",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 31117
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "בכול",
+  "wordReadingId": 31119
+ },
+ "31123": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 430001004004,
+    "priorityOfReading": 0,
+    "reading": "[ה]עולמ[ים",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31124
+   }
+  ],
+  "reading": "בשלום",
+  "wordReadingId": 31123
+ },
+ "31124": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "4",
+    "orderedId": 430001004003,
+    "priorityOfReading": 0,
+    "reading": "בשלום",
+    "syntacticCategory": "gen. Attribut",
+    "wordReadingId": 31123
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "[ה]עולמ[ים",
+  "wordReadingId": 31124
+ }
+}

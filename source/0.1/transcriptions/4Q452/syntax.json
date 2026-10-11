@@ -1,0 +1,83 @@
+{
+ "137276": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4290001001004,
+    "priorityOfReading": 0,
+    "reading": "גדלת֯[",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137277
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4290001001004,
+    "priorityOfReading": 0,
+    "reading": "גדלת֯[",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 137277
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "מה",
+  "wordReadingId": 137276
+ },
+ "137277": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4290001001003,
+    "priorityOfReading": 0,
+    "reading": "מה",
+    "syntacticCategory": "Adverb",
+    "wordReadingId": 137276
+   },
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 1",
+    "location2": "1",
+    "orderedId": 4290001001003,
+    "priorityOfReading": 0,
+    "reading": "מה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 137276
+   }
+  ],
+  "reading": "גדלת֯[",
+  "wordReadingId": 137277
+ },
+ "137281": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": true,
+    "isUncertain": false,
+    "location1": "frg. 1",
+    "location2": "2",
+    "orderedId": 4290001002002,
+    "priorityOfReading": 0,
+    "reading": "]את",
+    "syntacticCategory": "Präposition",
+    "wordReadingId": 137280
+   }
+  ],
+  "reading": "גבורות",
+  "wordReadingId": 137281
+ }
+}

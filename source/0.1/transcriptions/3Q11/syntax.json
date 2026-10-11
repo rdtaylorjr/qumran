@@ -1,0 +1,40 @@
+{
+ "32874": {
+  "dependedOnBy": [],
+  "dependentUpon": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 2",
+    "location2": "3",
+    "orderedId": 840002003004,
+    "priorityOfReading": 0,
+    "reading": "פלי[טה",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 32875
+   }
+  ],
+  "reading": "ואין",
+  "wordReadingId": 32874
+ },
+ "32875": {
+  "dependedOnBy": [
+   {
+    "isExternalToPhrase": false,
+    "isGenerated": false,
+    "isUncertain": true,
+    "location1": "frg. 2",
+    "location2": "3",
+    "orderedId": 840002003003,
+    "priorityOfReading": 0,
+    "reading": "ואין",
+    "syntacticCategory": "Objekt",
+    "wordReadingId": 32874
+   }
+  ],
+  "dependentUpon": [],
+  "reading": "פלי[טה",
+  "wordReadingId": 32875
+ }
+}
